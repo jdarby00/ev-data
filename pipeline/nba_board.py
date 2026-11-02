@@ -67,9 +67,10 @@ def build(date_iso, box, prior, slate):
             played[r["espn_id"]].append(r)
     for t in by_team_games:
         by_team_games[t] = sorted(set(by_team_games[t]))
-    prior_by_id = defaultdict(list)
+    prior_by_id, prior_by_name = defaultdict(list), defaultdict(list)
     for r in prior:
         prior_by_id[r["espn_id"]].append(r)
+        prior_by_name[r["player"]].append(r)
 
     status = {}
     for team_rows in slate.get("injuries", {}).values():
@@ -102,12 +103,24 @@ def build(date_iso, box, prior, slate):
                 players.append({"espn_id": pid, "player": name, "status": st["status"] if st else "",
                                 "status_detail": st["detail"] if st else "", **line,
                                 "missed_l5": len(missed), "dnp_reasons_l5": dnp_reasons, "last_season": prior_line})
+            seen = {p["player"] for p in players}
+            for r in slate.get("injuries", {}).get(g.get(side + "_name", ""), []):
+                if r["player"] in seen:
+                    continue  # injured all season: no box-score rows, but Claude still needs to see him
+                pr = prior_by_name.get(r["player"], [])
+                prior_line = ({"gp": len(pr), "min": mean([num(x["minutes"]) for x in pr]),
+                               **{k: mean([num(x.get(c)) for x in pr]) for k, c in STATS.items()}} if pr else None)
+                players.append({"espn_id": "", "player": r["player"], "status": r["status"],
+                                "status_detail": r["detail"], "gp": 0, "missed_l5": len(last5),
+                                "dnp_reasons_l5": [], "last_season": prior_line})
             players.sort(key=lambda p: -(p.get("min_l5") or 0))
-            out_players = [p for p in players if p["status"].lower().startswith(OUT_WORDS)]
+            out_players = [p for p in players if p["status"].lower().startswith(OUT_WORDS) and p.get("gp")]
+            out_all_season = [p["player"] for p in players if p["status"].lower().startswith(OUT_WORDS) and not p.get("gp")]
             freed = round(sum(p.get("min") or 0 for p in out_players), 1)
             teams_out[team] = {"team": team, "opp": g[opp], "home": side == "home", "games_played": len(games),
                                "last_game": last_date, "rest_days": rest, "back_to_back": rest == 0,
                                "out": [p["player"] for p in out_players], "freed_minutes": freed,
+                               "out_no_games_this_season": out_all_season,
                                "with_without": with_without(team, out_players, players, games, listed, played),
                                "players": players}
     return {"date": date_iso, "slate_updated_et": slate.get("updated_et"), "games": slate.get("games", []),
@@ -165,10 +178,12 @@ def to_markdown(board):
             if t["back_to_back"]:
                 flags.append("back-to-back")
             elif t["rest_days"] is not None:
-                flags.append(f"{t['rest_days']} rest days")
-            outs = ", ".join(t["out"]) or "none listed"
+                flags.append(f"{t['rest_days']} rest day{'s' if t['rest_days'] != 1 else ''}")
+            outs = ", ".join(t["out"]) or ("none who have played this season" if t["out_no_games_this_season"] else "none listed")
+            extra = (f" Out all season so far (already in the lines): {', '.join(t['out_no_games_this_season'])}."
+                     if t["out_no_games_this_season"] else "")
             lines.append(f"**{t['team']}** ({', '.join(flags) or 'rest n/a'}). Out: {outs}. "
-                         f"Freed minutes: {fmt(t['freed_minutes'])}.")
+                         f"Freed minutes: {fmt(t['freed_minutes'])}.{extra}")
             for w in t["with_without"][:4]:
                 d = w["delta"]
                 lines.append(f"- Without {w['absent']}: {w['teammate']} min {d['min']:+g}, pts {d['pts']:+g}, "
@@ -177,7 +192,9 @@ def to_markdown(board):
                       "|---|---|---|---|---|---|---|"]
             for p in [p for p in t["players"] if (p.get("min_l5") or 0) >= 12 or p["status"]][:11]:
                 if not p.get("gp"):
-                    lines.append(f"| {p['player']} | {p['status'] or '–'} | no games | | | | |")
+                    ls = p.get("last_season") or {}
+                    note = f"none this season; last season {fmt(ls.get('min'))} min, {fmt(ls.get('pts'))} pts" if ls else "no games"
+                    lines.append(f"| {p['player']} | {p['status'] or '–'} | {note} | | | | |")
                     continue
                 lines.append(
                     f"| {p['player']} | {p['status'] or '–'} | {fmt(p['min_l5'])} ({fmt(p['min_sd_l10'])}) | "

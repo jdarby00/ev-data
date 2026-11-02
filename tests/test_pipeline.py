@@ -100,13 +100,16 @@ class Board(unittest.TestCase):
         self.slate = {"updated_et": "2026-11-02 11:00", "status_changes": [],
                       "games": [{"event": "9", "tip_et": "2026-11-02 19:30", "away": "NY", "home": "BOS",
                                  "spread_text": "BOS -4.5", "total": 224.5, "odds_source": "DraftKings"}],
-                      "injuries": {"Boston Celtics": [{"player": "Home Big", "status": "Out", "detail": "Knee."}]}}
+                      "injuries": {"Boston Celtics": [{"player": "Home Big", "status": "Out", "detail": "Knee."},
+                                                      {"player": "Long Term", "status": "Out", "detail": "Foot."}]}}
+        self.slate["games"][0].update(home_name="Boston Celtics", away_name="New York Knicks")
 
     def test_build_and_markdown(self):
         b = nba_board.build("2026-11-02", self.box, [], self.slate)
         bos = b["teams"]["BOS"]
         self.assertEqual(bos["out"], ["Home Big"])
         self.assertEqual(bos["freed_minutes"], 30.0)
+        self.assertEqual(bos["out_no_games_this_season"], ["Long Term"])
         star = next(p for p in bos["players"] if p["player"] == "Home Star")
         self.assertEqual((star["gp"], star["pts"], star["pts_l5"]), (6, 29.0, 30.0))
         big = next(p for p in bos["players"] if p["player"] == "Home Big")
@@ -116,6 +119,7 @@ class Board(unittest.TestCase):
         md = nba_board.to_markdown(b)
         self.assertIn("## NY @ BOS, 19:30 ET", md)
         self.assertIn("Without Home Big: Home Star", md)
+        self.assertIn("Out all season so far (already in the lines): Long Term", md)
         self.assertNotIn("2026-11-02 |", md)  # today's date never counted as a played game
 
     def test_future_rows_ignored(self):
