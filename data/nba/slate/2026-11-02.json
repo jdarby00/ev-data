@@ -1,6 +1,6 @@
 {
  "date": "2026-11-02",
- "updated_et": "2026-11-02 00:48",
+ "updated_et": "2026-11-02 15:23",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -12,9 +12,9 @@
    "away_name": "Oklahoma City Thunder",
    "home_name": "Cleveland Cavaliers",
    "state": "pre",
-   "spread_text": "CLE -4.5",
-   "spread": -4.5,
-   "total": 227.5,
+   "spread_text": "CLE -3.5",
+   "spread": -3.5,
+   "total": 229.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -26,8 +26,8 @@
    "away_name": "Detroit Pistons",
    "home_name": "Charlotte Hornets",
    "state": "pre",
-   "spread_text": "DET -4.5",
-   "spread": 4.5,
+   "spread_text": "DET -5.5",
+   "spread": 5.5,
    "total": 210.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -40,9 +40,9 @@
    "away_name": "Atlanta Hawks",
    "home_name": "Indiana Pacers",
    "state": "pre",
-   "spread_text": "ATL -5.5",
-   "spread": 5.5,
-   "total": 232.5,
+   "spread_text": "ATL -9.5",
+   "spread": 9.5,
+   "total": 229.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -56,7 +56,7 @@
    "state": "pre",
    "spread_text": "NY -14.5",
    "spread": -14.5,
-   "total": 221.5,
+   "total": 218.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -70,7 +70,7 @@
    "state": "pre",
    "spread_text": "ORL -2.5",
    "spread": -2.5,
-   "total": 224.5,
+   "total": 225.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -82,9 +82,9 @@
    "away_name": "Chicago Bulls",
    "home_name": "Philadelphia 76ers",
    "state": "pre",
-   "spread_text": "PHI -11.5",
-   "spread": -11.5,
-   "total": 239.5,
+   "spread_text": "PHI -10.5",
+   "spread": -10.5,
+   "total": 238.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -96,9 +96,9 @@
    "away_name": "Sacramento Kings",
    "home_name": "Dallas Mavericks",
    "state": "pre",
-   "spread_text": "DAL -9.5",
-   "spread": -9.5,
-   "total": 234.5,
+   "spread_text": "DAL -8.5",
+   "spread": -8.5,
+   "total": 232.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -110,9 +110,9 @@
    "away_name": "New Orleans Pelicans",
    "home_name": "Memphis Grizzlies",
    "state": "pre",
-   "spread_text": "MEM -6.5",
-   "spread": -6.5,
-   "total": 235.5,
+   "spread_text": "MEM -5.5",
+   "spread": -5.5,
+   "total": 232.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -126,7 +126,7 @@
    "state": "pre",
    "spread_text": "MIN -10.5",
    "spread": -10.5,
-   "total": 233.5,
+   "total": 230.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -140,7 +140,7 @@
    "state": "pre",
    "spread_text": "HOU -5.5",
    "spread": -5.5,
-   "total": 218.5,
+   "total": 216.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -154,7 +154,7 @@
    "state": "pre",
    "spread_text": "SA -16.5",
    "spread": -16.5,
-   "total": 230.5,
+   "total": 228.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -168,7 +168,7 @@
    "state": "pre",
    "spread_text": "DEN -4.5",
    "spread": -4.5,
-   "total": 229.5,
+   "total": 231.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -180,8 +180,8 @@
    "away_name": "Phoenix Suns",
    "home_name": "Golden State Warriors",
    "state": "pre",
-   "spread_text": "GS -4.5",
-   "spread": -4.5,
+   "spread_text": "GS -2.5",
+   "spread": -2.5,
    "total": 227.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -196,7 +196,7 @@
    "state": "pre",
    "spread_text": "TOR -5.5",
    "spread": 5.5,
-   "total": 220.5,
+   "total": 219.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -208,9 +208,9 @@
    "away_name": "Miami Heat",
    "home_name": "Los Angeles Lakers",
    "state": "pre",
-   "spread_text": "LAL -2.5",
-   "spread": -2.5,
-   "total": 238.5,
+   "spread_text": "LAL -1.5",
+   "spread": -1.5,
+   "total": 236.5,
    "odds_source": "DraftKings",
    "season_type": 2
   }
@@ -255,11 +255,11 @@
   ],
   "Boston Celtics": [
    {
-    "player": "Mitchell Robinson",
+    "player": "Paul George",
     "status": "Out",
-    "detail": "Robinson (rest) has been ruled out for Sunday's game against the Magic.",
+    "detail": "George will be rested Monday against Houston.",
     "type": "out",
-    "updated": "2026-11-01T15:05Z"
+    "updated": "2026-11-02T19:06Z"
    },
    {
     "player": "Devin Carter",
@@ -270,13 +270,6 @@
    }
   ],
   "Brooklyn Nets": [
-   {
-    "player": "Mikel Brown Jr.",
-    "status": "Day-To-Day",
-    "detail": "Brown (rest) is out for Sunday's game in Indiana.",
-    "type": "day-to-day",
-    "updated": "2026-11-02T01:51Z"
-   },
    {
     "player": "Egor Demin",
     "status": "Out",
@@ -329,13 +322,6 @@
     "detail": "Claxton (hamstring) is listed as doubtful for Monday's game against Philadelphia.",
     "type": "out",
     "updated": "2026-11-01T21:08Z"
-   },
-   {
-    "player": "Dailyn Swain",
-    "status": "Day-To-Day",
-    "detail": "Swain (back) has been ruled out for Friday's game against Boston.",
-    "type": "day-to-day",
-    "updated": "2026-10-31T04:59Z"
    }
   ],
   "Cleveland Cavaliers": [
@@ -356,6 +342,13 @@
   ],
   "Dallas Mavericks": [
    {
+    "player": "Kyrie Irving",
+    "status": "Day-To-Day",
+    "detail": "Irving (knee) is now doubtful for Monday against the Kings.",
+    "type": "day-to-day",
+    "updated": "2026-11-02T18:51Z"
+   },
+   {
     "player": "Tarik Biberovic",
     "status": "Out",
     "detail": "Biberovic (heel) is listed as out for Monday's game against Sacramento.",
@@ -367,13 +360,6 @@
     "status": "Out",
     "detail": "Lively (foot) is listed as out for Monday's game against the Kings.",
     "type": "out",
-    "updated": "2026-11-01T22:57Z"
-   },
-   {
-    "player": "Kyrie Irving",
-    "status": "Day-To-Day",
-    "detail": "Irving (knee) is questionable to play Monday against the Kings.",
-    "type": "day-to-day",
     "updated": "2026-11-01T22:57Z"
    },
    {
@@ -418,9 +404,9 @@
    {
     "player": "Isaiah Joe",
     "status": "Out",
-    "detail": "Joe (hip) is questionable for Friday's game against the Hornets.",
+    "detail": "Joe (hip) is out for Monday against the Hornets.",
     "type": "out",
-    "updated": "2026-11-01T22:17Z"
+    "updated": "2026-11-02T17:35Z"
    },
    {
     "player": "Jalen Duren",
@@ -433,24 +419,24 @@
   "Golden State Warriors": [
    {
     "player": "Gui Santos",
-    "status": "Day-To-Day",
+    "status": "Out",
     "detail": "Santos did not play in the second half of Sunday's 124-112 win over the Clippers due to a knee injury and will not play against the Suns on Monday, Danny Emerman of SFStandard.com reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-02T04:49Z"
+    "type": "out",
+    "updated": "2026-11-02T14:20Z"
    },
    {
     "player": "Draymond Green",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Green (back) is out for Sunday's game against the Clippers.",
-    "type": "out",
-    "updated": "2026-10-31T19:51Z"
+    "type": "day-to-day",
+    "updated": "2026-11-02T14:20Z"
    },
    {
     "player": "Stephen Curry",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Curry (rest) won't play Sunday against the Clippers, Brett Siegel of ClutchPoints.com reports.",
-    "type": "out",
-    "updated": "2026-10-31T19:48Z"
+    "type": "day-to-day",
+    "updated": "2026-11-02T14:20Z"
    },
    {
     "player": "Kristaps Porzingis",
@@ -477,10 +463,10 @@
   "Houston Rockets": [
    {
     "player": "Clint Capela",
-    "status": "Day-To-Day",
-    "detail": "Capela (ankle) is questionable to play in Monday's game against the Celtics.",
-    "type": "day-to-day",
-    "updated": "2026-11-01T20:46Z"
+    "status": "Out",
+    "detail": "Capela (ankle) has been ruled out for Monday's game against the Celtics.",
+    "type": "out",
+    "updated": "2026-11-02T19:13Z"
    },
    {
     "player": "Reed Sheppard",
@@ -499,25 +485,53 @@
   ],
   "Indiana Pacers": [
    {
-    "player": "Obi Toppin",
-    "status": "Day-To-Day",
-    "detail": "Toppin (back) is out for Sunday's game against the Nets, Alex Golden of SI.com reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-02T01:51Z"
-   },
-   {
     "player": "T.J. McConnell",
     "status": "Out",
-    "detail": "Indiana recalled McConnell (hamstring) from the G League's Noblesville Boom on Saturday.",
+    "detail": "McConnell (hamstring) is out for Monday's game against the Hawks and remains week-to-week.",
     "type": "out",
-    "updated": "2026-11-01T16:26Z"
+    "updated": "2026-11-02T18:19Z"
    },
    {
     "player": "Ivica Zubac",
     "status": "Out",
-    "detail": "Zubac (ankle) will remain on the inactive list for Sunday's game against the Nets.",
+    "detail": "Zubac (ankle) has been ruled out for Monday's game against the Hawks.",
     "type": "out",
-    "updated": "2026-10-31T21:14Z"
+    "updated": "2026-11-02T18:19Z"
+   },
+   {
+    "player": "Larry Nance Jr.",
+    "status": "Day-To-Day",
+    "detail": "Nance (illness) is doubtful for Monday against the Hawks.",
+    "type": "day-to-day",
+    "updated": "2026-11-02T18:16Z"
+   },
+   {
+    "player": "Obi Toppin",
+    "status": "Day-To-Day",
+    "detail": "Toppin (back) is questionable for Monday's game against Atlanta.",
+    "type": "day-to-day",
+    "updated": "2026-11-02T18:15Z"
+   },
+   {
+    "player": "Aaron Nesmith",
+    "status": "Out",
+    "detail": "Nesmith (rest) is sitting out Monday against Atlanta.",
+    "type": "out",
+    "updated": "2026-11-02T18:13Z"
+   },
+   {
+    "player": "Andrew Nembhard",
+    "status": "Out",
+    "detail": "Nembhard (cervical strain) is out for Monday's game against Atlanta.",
+    "type": "out",
+    "updated": "2026-11-02T18:09Z"
+   },
+   {
+    "player": "Pascal Siakam",
+    "status": "Out",
+    "detail": "Siakam will be rested against the Hawks on Monday.",
+    "type": "out",
+    "updated": "2026-11-02T18:06Z"
    },
    {
     "player": "Johnny Furphy",
@@ -543,32 +557,32 @@
   ],
   "LA Clippers": [
    {
+    "player": "Yanic Konan Niederhauser",
+    "status": "Out",
+    "detail": "The Clippers recalled Niederhauser (foot) from the G League's San Diego Clippers on Sunday.",
+    "type": "out",
+    "updated": "2026-11-02T16:12Z"
+   },
+   {
+    "player": "Brandon Ingram",
+    "status": "Out",
+    "detail": "The Clippers recalled Ingram (Achilles) from the G League's San Diego Clippers on Sunday.",
+    "type": "out",
+    "updated": "2026-11-02T16:01Z"
+   },
+   {
+    "player": "Max Strus",
+    "status": "Out",
+    "detail": "The Clippers recalled Strus (foot) from the G League's San Diego Clippers on Sunday.",
+    "type": "out",
+    "updated": "2026-11-02T15:47Z"
+   },
+   {
     "player": "Derrick Jones Jr.",
     "status": "Day-To-Day",
     "detail": "Jones (right knee) has been ruled out for the rest of Sunday's game against the Clippers, Ohm Youngmisuk of ESPN.com reports.",
     "type": "day-to-day",
     "updated": "2026-11-02T03:47Z"
-   },
-   {
-    "player": "Max Strus",
-    "status": "Out",
-    "detail": "Strus (foot) practiced and participated in 5-on-5 with the San Diego Clippers on Saturday, Los Angeles Clippers sideline reporter/host Ohm Youngmisuk reports.",
-    "type": "out",
-    "updated": "2026-11-02T00:45Z"
-   },
-   {
-    "player": "Yanic Konan Niederhauser",
-    "status": "Out",
-    "detail": "Niederhauser (foot) had his third-year team option picked up Thursday by the Clippers, Ohm Youngmisuk of ESPN.com reports.",
-    "type": "out",
-    "updated": "2026-11-01T20:17Z"
-   },
-   {
-    "player": "Brandon Ingram",
-    "status": "Out",
-    "detail": "Los Angeles assigned Ingram (Achilles) to the G League's San Diego Clippers on Saturday.",
-    "type": "out",
-    "updated": "2026-11-01T16:04Z"
    },
    {
     "player": "Bradley Beal",
@@ -617,16 +631,21 @@
     "updated": "2026-11-01T23:13Z"
    }
   ],
-  "Miami Heat": [
-   {
-    "player": "Tim Hardaway Jr.",
-    "status": "Day-To-Day",
-    "detail": "Hardaway (personal) is listed as questionable for Monday's game against the Lakers.",
-    "type": "day-to-day",
-    "updated": "2026-11-02T00:24Z"
-   }
-  ],
   "Minnesota Timberwolves": [
+   {
+    "player": "Terrence Shannon Jr.",
+    "status": "Day-To-Day",
+    "detail": "Shannon has a left hip contusion and is questionable to face the Bucks on Monday.",
+    "type": "day-to-day",
+    "updated": "2026-11-02T19:12Z"
+   },
+   {
+    "player": "LaMelo Ball",
+    "status": "Day-To-Day",
+    "detail": "Ball is questionable for Monday's game against Milwaukee due to a right wrist contusion.",
+    "type": "day-to-day",
+    "updated": "2026-11-02T19:10Z"
+   },
    {
     "player": "Anthony Edwards",
     "status": "Out",
@@ -644,11 +663,11 @@
   ],
   "New Orleans Pelicans": [
    {
-    "player": "Trey Murphy III",
+    "player": "Dejounte Murray",
     "status": "Day-To-Day",
-    "detail": "Murphy (knee) is listed as probable for Monday's game against the Grizzlies.",
+    "detail": "Murray (personal) is now questionable for Monday against Memphis.",
     "type": "day-to-day",
-    "updated": "2026-11-01T20:19Z"
+    "updated": "2026-11-02T18:55Z"
    },
    {
     "player": "Jordan Poole",
@@ -720,11 +739,18 @@
   ],
   "Orlando Magic": [
    {
+    "player": "Anthony Black",
+    "status": "Out",
+    "detail": "Black will be rested Monday against the Wizards.",
+    "type": "out",
+    "updated": "2026-11-02T17:05Z"
+   },
+   {
     "player": "Jonathan Isaac",
     "status": "Out",
-    "detail": "Isaac (knee) is out for Friday's game in Toronto.",
+    "detail": "Orlando recalled Isaac (knee) from the G League's Osceola Magic on Sunday.",
     "type": "out",
-    "updated": "2026-10-29T18:29Z"
+    "updated": "2026-11-02T15:22Z"
    },
    {
     "player": "Jalen Suggs",
@@ -807,9 +833,9 @@
    {
     "player": "Dylan Cardwell",
     "status": "Out",
-    "detail": "Cardwell (calf) is questionable to suit up for Monday's game against the Mavericks.",
+    "detail": "Cardwell is probable for Monday's game against Dallas due to a left calf strain.",
     "type": "out",
-    "updated": "2026-11-01T23:24Z"
+    "updated": "2026-11-02T19:13Z"
    },
    {
     "player": "Zach LaVine",
@@ -904,25 +930,32 @@
   ],
   "Washington Wizards": [
    {
+    "player": "Reece Beekman",
+    "status": "Out",
+    "detail": "The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury and will be re-evaluated in approximately three weeks.",
+    "type": "out",
+    "updated": "2026-11-02T18:22Z"
+   },
+   {
+    "player": "Anthony Gill",
+    "status": "Out",
+    "detail": "Gill (back) is out for Monday's game against the Magic.",
+    "type": "out",
+    "updated": "2026-11-02T18:18Z"
+   },
+   {
+    "player": "Alex Sarr",
+    "status": "Out",
+    "detail": "Sarr (knee) is out for Monday's game against Orlando.",
+    "type": "out",
+    "updated": "2026-11-02T18:03Z"
+   },
+   {
     "player": "Tristan Vukcevic",
     "status": "Out",
     "detail": "Vukcevic (hip) is listed as out for Monday's game against Orlando.",
     "type": "out",
     "updated": "2026-11-01T21:51Z"
-   },
-   {
-    "player": "Alex Sarr",
-    "status": "Day-To-Day",
-    "detail": "Sarr (knee) is questionable to play in Monday's game against the Magic.",
-    "type": "day-to-day",
-    "updated": "2026-11-01T21:45Z"
-   },
-   {
-    "player": "Anthony Gill",
-    "status": "Day-To-Day",
-    "detail": "Gill (back) is questionable to suit up in Monday's contest against Orlando.",
-    "type": "day-to-day",
-    "updated": "2026-11-01T21:40Z"
    },
    {
     "player": "Justin Champagnie",
@@ -940,5 +973,146 @@
    }
   ]
  },
- "status_changes": []
+ "status_changes": [
+  {
+   "at_et": "2026-11-02 15:23",
+   "team": "Boston Celtics",
+   "player": "Paul George",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-02 15:23",
+   "team": "Boston Celtics",
+   "player": "Mitchell Robinson",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-02 15:23",
+   "team": "Brooklyn Nets",
+   "player": "Mikel Brown Jr.",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-02 15:23",
+   "team": "Chicago Bulls",
+   "player": "Dailyn Swain",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-02 15:23",
+   "team": "Golden State Warriors",
+   "player": "Gui Santos",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-02 15:23",
+   "team": "Golden State Warriors",
+   "player": "Draymond Green",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-02 15:23",
+   "team": "Golden State Warriors",
+   "player": "Stephen Curry",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-02 15:23",
+   "team": "Houston Rockets",
+   "player": "Clint Capela",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-02 15:23",
+   "team": "Indiana Pacers",
+   "player": "Larry Nance Jr.",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-02 15:23",
+   "team": "Indiana Pacers",
+   "player": "Aaron Nesmith",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-02 15:23",
+   "team": "Indiana Pacers",
+   "player": "Andrew Nembhard",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-02 15:23",
+   "team": "Indiana Pacers",
+   "player": "Pascal Siakam",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-02 15:23",
+   "team": "Minnesota Timberwolves",
+   "player": "Terrence Shannon Jr.",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-02 15:23",
+   "team": "Minnesota Timberwolves",
+   "player": "LaMelo Ball",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-02 15:23",
+   "team": "New Orleans Pelicans",
+   "player": "Dejounte Murray",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-02 15:23",
+   "team": "New Orleans Pelicans",
+   "player": "Trey Murphy III",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-02 15:23",
+   "team": "Orlando Magic",
+   "player": "Anthony Black",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-02 15:23",
+   "team": "Washington Wizards",
+   "player": "Reece Beekman",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-02 15:23",
+   "team": "Washington Wizards",
+   "player": "Anthony Gill",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-02 15:23",
+   "team": "Washington Wizards",
+   "player": "Alex Sarr",
+   "from": "Day-To-Day",
+   "to": "Out"
+  }
+ ]
 }
