@@ -45,9 +45,12 @@ def path(*parts):
     return p
 
 
-def write_json(p, obj):
+def write_json(p, obj, compact=False):
     with open(p, "w") as fh:
-        json.dump(obj, fh, indent=1, sort_keys=False)
+        if compact:
+            json.dump(obj, fh, separators=(",", ":"))
+        else:
+            json.dump(obj, fh, indent=1, sort_keys=False)
         fh.write("\n")
 
 

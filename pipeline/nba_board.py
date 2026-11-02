@@ -260,7 +260,7 @@ def main():
         return 0
     board = build(a.date, read_csv(path("data", "nba", "boxscores_2026_27.csv")),
                   read_csv(path("data", "nba", "boxscores_2025_26.csv.gz")), slate)
-    write_json(path("board", "nba", f"{a.date}.json"), board)
+    write_json(path("board", "nba", f"{a.date}.json"), board, compact=True)
     md = to_markdown(board)
     with open(path("board", "nba", f"{a.date}.md"), "w") as fh:
         fh.write(md)
