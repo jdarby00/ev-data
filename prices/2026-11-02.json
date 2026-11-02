@@ -1,0 +1,799 @@
+{
+ "credits_remaining": 498,
+ "date": "2026-11-02",
+ "groups": {
+  "basketball_nba|thunder@cavaliers|player_points": {
+   "api_away": "Oklahoma City Thunder",
+   "api_home": "Cleveland Cavaliers",
+   "away": "Thunder",
+   "commence_time": "2026-11-03T00:10:00Z",
+   "event_id": "0a12a55607db0bd7eeafee050c45988e",
+   "home": "Cavaliers",
+   "issues": [],
+   "market": "player_points",
+   "players": [],
+   "requested_rev": 1,
+   "snapshots": [
+    {
+     "books": {
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/34936963",
+       "event_sid": "34936963",
+       "last_update": "2026-11-02T06:10:26Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 29.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030104%232346327049_13L42648Q1-607420801Q20",
+         "player": "Shai Gilgeous-Alexander",
+         "price": -110,
+         "sid": "0QA385030104#2346327049_13L42648Q1-607420801Q20",
+         "side": "Over"
+        },
+        {
+         "line": 29.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030104%232346327050_13L42648Q11972173235Q20",
+         "player": "Shai Gilgeous-Alexander",
+         "price": -116,
+         "sid": "0QA385030104#2346327050_13L42648Q11972173235Q20",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030100%232346433495_13L42648Q11931915178Q20",
+         "player": "Donovan Mitchell",
+         "price": -117,
+         "sid": "0QA385030100#2346433495_13L42648Q11931915178Q20",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030100%232346433496_13L42648Q12094929165Q20",
+         "player": "Donovan Mitchell",
+         "price": -109,
+         "sid": "0QA385030100#2346433496_13L42648Q12094929165Q20",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385029814%232346325772_13L42648Q1935105358Q20",
+         "player": "James Harden",
+         "price": -116,
+         "sid": "0QA385029814#2346325772_13L42648Q1935105358Q20",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385029814%232346325773_13L42648Q11692774445Q20",
+         "player": "James Harden",
+         "price": -109,
+         "sid": "0QA385029814#2346325773_13L42648Q11692774445Q20",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030428%232346329526_13L42648Q1-259387031Q20",
+         "player": "Ajay Mitchell",
+         "price": -120,
+         "sid": "0QA385030428#2346329526_13L42648Q1-259387031Q20",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030428%232346329527_13L42648Q1-815980538Q20",
+         "player": "Ajay Mitchell",
+         "price": -106,
+         "sid": "0QA385030428#2346329527_13L42648Q1-815980538Q20",
+         "side": "Under"
+        },
+        {
+         "line": 16.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030374%232346217514_13L42648Q12120712626Q20",
+         "player": "Evan Mobley",
+         "price": -106,
+         "sid": "0QA385030374#2346217514_13L42648Q12120712626Q20",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030374%232346217580_13L42648Q1351768104Q20",
+         "player": "Evan Mobley",
+         "price": -120,
+         "sid": "0QA385030374#2346217580_13L42648Q1351768104Q20",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030253%232346325934_13L42648Q1-1533754046Q20",
+         "player": "Jared McCain",
+         "price": -127,
+         "sid": "0QA385030253#2346325934_13L42648Q1-1533754046Q20",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030253%232346325935_13L42648Q1-148850323Q20",
+         "player": "Jared McCain",
+         "price": 100,
+         "sid": "0QA385030253#2346325935_13L42648Q1-148850323Q20",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030149%232346427598_13L42648Q1-1662826468Q20",
+         "player": "Peyton Watson",
+         "price": -116,
+         "sid": "0QA385030149#2346427598_13L42648Q1-1662826468Q20",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030149%232346427600_13L42648Q1-1693375913Q20",
+         "player": "Peyton Watson",
+         "price": -110,
+         "sid": "0QA385030149#2346427600_13L42648Q1-1693375913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385029862%232346424418_13L42648Q1-1662826468Q20",
+         "player": "Jarrett Allen",
+         "price": -109,
+         "sid": "0QA385029862#2346424418_13L42648Q1-1662826468Q20",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385029862%232346424419_13L42648Q1-1693375913Q20",
+         "player": "Jarrett Allen",
+         "price": -117,
+         "sid": "0QA385029862#2346424419_13L42648Q1-1693375913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385029771%232346215815_13L42648Q1-1195564899Q20",
+         "player": "Isaiah Hartenstein",
+         "price": -140,
+         "sid": "0QA385029771#2346215815_13L42648Q1-1195564899Q20",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385029771%232346215833_13L42648Q1-1442238935Q20",
+         "player": "Isaiah Hartenstein",
+         "price": 110,
+         "sid": "0QA385029771#2346215833_13L42648Q1-1442238935Q20",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030129%232346327465_13L42648Q1511222344Q20",
+         "player": "Kenrich Williams",
+         "price": -125,
+         "sid": "0QA385030129#2346327465_13L42648Q1511222344Q20",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030129%232346327466_13L42648Q1-1758311513Q20",
+         "player": "Kenrich Williams",
+         "price": -102,
+         "sid": "0QA385030129#2346327466_13L42648Q1-1758311513Q20",
+         "side": "Under"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/nba/oklahoma-city-thunder-%40-cleveland-cavaliers-36262178",
+       "event_sid": "36262178",
+       "last_update": "2026-11-02T06:09:42Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813427&selectionId=26962656",
+         "player": "Kenrich Williams",
+         "price": 102,
+         "sid": "26962656",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813427&selectionId=26962657",
+         "player": "Kenrich Williams",
+         "price": -136,
+         "sid": "26962657",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813344&selectionId=41500697",
+         "player": "Isaiah Hartenstein",
+         "price": 100,
+         "sid": "41500697",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813344&selectionId=41500698",
+         "player": "Isaiah Hartenstein",
+         "price": -132,
+         "sid": "41500698",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813128&selectionId=21174117",
+         "player": "Jarrett Allen",
+         "price": -128,
+         "sid": "21174117",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813128&selectionId=21174118",
+         "player": "Jarrett Allen",
+         "price": -104,
+         "sid": "21174118",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621812334&selectionId=53679067",
+         "player": "Ajay Mitchell",
+         "price": -132,
+         "sid": "53679067",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621812334&selectionId=53679062",
+         "player": "Ajay Mitchell",
+         "price": 100,
+         "sid": "53679062",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813703&selectionId=38971907",
+         "player": "Sam Merrill",
+         "price": -106,
+         "sid": "38971907",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813703&selectionId=38971908",
+         "player": "Sam Merrill",
+         "price": -125,
+         "sid": "38971908",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621812335&selectionId=63496225",
+         "player": "Jared McCain",
+         "price": -108,
+         "sid": "63496225",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621812335&selectionId=63496226",
+         "player": "Jared McCain",
+         "price": -122,
+         "sid": "63496226",
+         "side": "Under"
+        },
+        {
+         "line": 16.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813091&selectionId=41407628",
+         "player": "Evan Mobley",
+         "price": 100,
+         "sid": "41407628",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813091&selectionId=41407629",
+         "player": "Evan Mobley",
+         "price": -132,
+         "sid": "41407629",
+         "side": "Under"
+        },
+        {
+         "line": 29.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621811057&selectionId=21662973",
+         "player": "Shai Gilgeous-Alexander",
+         "price": -102,
+         "sid": "21662973",
+         "side": "Over"
+        },
+        {
+         "line": 29.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621811057&selectionId=21662974",
+         "player": "Shai Gilgeous-Alexander",
+         "price": -130,
+         "sid": "21662974",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621812912&selectionId=15907303",
+         "player": "Donovan Mitchell",
+         "price": -114,
+         "sid": "15907303",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621812912&selectionId=15907304",
+         "player": "Donovan Mitchell",
+         "price": -114,
+         "sid": "15907304",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813737&selectionId=91219507",
+         "player": "Aday Mara",
+         "price": -106,
+         "sid": "91219507",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813737&selectionId=91219508",
+         "player": "Aday Mara",
+         "price": -125,
+         "sid": "91219508",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813202&selectionId=54472264",
+         "player": "Peyton Watson",
+         "price": 102,
+         "sid": "54472264",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813202&selectionId=54472265",
+         "player": "Peyton Watson",
+         "price": -136,
+         "sid": "54472265",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621812979&selectionId=12260579",
+         "player": "James Harden",
+         "price": -118,
+         "sid": "12260579",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621812979&selectionId=12260580",
+         "player": "James Harden",
+         "price": -112,
+         "sid": "12260580",
+         "side": "Under"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-02T06:10:47Z",
+     "kind": "lock",
+     "minutes_to_tip": 1079.2,
+     "raw": "raw/2026-11-02/0a12a55607db0bd7eeafee050c45988e-player_points-lock-20261102T061047012201Z.json",
+     "rev": 1
+    }
+   ],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|thunder@cavaliers|player_rebounds": {
+   "api_away": "Oklahoma City Thunder",
+   "api_home": "Cleveland Cavaliers",
+   "away": "Thunder",
+   "commence_time": "2026-11-03T00:10:00Z",
+   "event_id": "0a12a55607db0bd7eeafee050c45988e",
+   "home": "Cavaliers",
+   "issues": [],
+   "market": "player_rebounds",
+   "players": [],
+   "requested_rev": 1,
+   "snapshots": [
+    {
+     "books": {
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/34936963",
+       "event_sid": "34936963",
+       "last_update": "2026-11-02T06:10:26Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030482%232346328984_13L42648Q11143046798Q20",
+         "player": "Isaiah Hartenstein",
+         "price": -134,
+         "sid": "0QA385030482#2346328984_13L42648Q11143046798Q20",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030482%232346328985_13L42648Q1-1408532810Q20",
+         "player": "Isaiah Hartenstein",
+         "price": 102,
+         "sid": "0QA385030482#2346328985_13L42648Q1-1408532810Q20",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385029930%232346433648_13L42648Q1-1060930342Q20",
+         "player": "Evan Mobley",
+         "price": -112,
+         "sid": "0QA385029930#2346433648_13L42648Q1-1060930342Q20",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385029930%232346433649_13L42648Q1-1958042016Q20",
+         "player": "Evan Mobley",
+         "price": -117,
+         "sid": "0QA385029930#2346433649_13L42648Q1-1958042016Q20",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385029845%232346433654_13L42648Q1-1060930342Q20",
+         "player": "Jarrett Allen",
+         "price": -105,
+         "sid": "0QA385029845#2346433654_13L42648Q1-1060930342Q20",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385029845%232346433655_13L42648Q1-1958042016Q20",
+         "player": "Jarrett Allen",
+         "price": -125,
+         "sid": "0QA385029845#2346433655_13L42648Q1-1958042016Q20",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030248%232346292157_13L42648Q1-150170292Q20",
+         "player": "Donovan Mitchell",
+         "price": -129,
+         "sid": "0QA385030248#2346292157_13L42648Q1-150170292Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030248%232346292158_13L42648Q1-1659398539Q20",
+         "player": "Donovan Mitchell",
+         "price": -102,
+         "sid": "0QA385030248#2346292158_13L42648Q1-1659398539Q20",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030497%232346433669_13L42648Q1-150170292Q20",
+         "player": "James Harden",
+         "price": -115,
+         "sid": "0QA385030497#2346433669_13L42648Q1-150170292Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030497%232346433670_13L42648Q1-1659398539Q20",
+         "player": "James Harden",
+         "price": -115,
+         "sid": "0QA385030497#2346433670_13L42648Q1-1659398539Q20",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385029938%232346216435_13L42648Q1-150170292Q20",
+         "player": "Kenrich Williams",
+         "price": -112,
+         "sid": "0QA385029938#2346216435_13L42648Q1-150170292Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385029938%232346216552_13L42648Q1-1659398539Q20",
+         "player": "Kenrich Williams",
+         "price": -117,
+         "sid": "0QA385029938#2346216552_13L42648Q1-1659398539Q20",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030364%232346217253_13L42648Q1-150170292Q20",
+         "player": "Peyton Watson",
+         "price": -110,
+         "sid": "0QA385030364#2346217253_13L42648Q1-150170292Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030364%232346217349_13L42648Q1-1659398539Q20",
+         "player": "Peyton Watson",
+         "price": -119,
+         "sid": "0QA385030364#2346217349_13L42648Q1-1659398539Q20",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030293%232346217060_13L42648Q11299195355Q20",
+         "player": "Shai Gilgeous-Alexander",
+         "price": -136,
+         "sid": "0QA385030293#2346217060_13L42648Q11299195355Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030293%232346217140_13L42648Q1647990913Q20",
+         "player": "Shai Gilgeous-Alexander",
+         "price": 103,
+         "sid": "0QA385030293#2346217140_13L42648Q1647990913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030382%232346217438_13L42648Q11299195355Q20",
+         "player": "Ajay Mitchell",
+         "price": -101,
+         "sid": "0QA385030382#2346217438_13L42648Q11299195355Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030382%232346217447_13L42648Q1647990913Q20",
+         "player": "Ajay Mitchell",
+         "price": -130,
+         "sid": "0QA385030382#2346217447_13L42648Q1647990913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030027%232346217463_13L42648Q12005697320Q20",
+         "player": "Jared McCain",
+         "price": -164,
+         "sid": "0QA385030027#2346217463_13L42648Q12005697320Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385030027%232346217508_13L42648Q1-9439206Q20",
+         "player": "Jared McCain",
+         "price": 124,
+         "sid": "0QA385030027#2346217508_13L42648Q1-9439206Q20",
+         "side": "Under"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/nba/oklahoma-city-thunder-%40-cleveland-cavaliers-36262178",
+       "event_sid": "36262178",
+       "last_update": "2026-11-02T06:09:42Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813428&selectionId=26962656",
+         "player": "Kenrich Williams",
+         "price": -114,
+         "sid": "26962656",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813428&selectionId=26962657",
+         "player": "Kenrich Williams",
+         "price": -114,
+         "sid": "26962657",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813129&selectionId=21174117",
+         "player": "Jarrett Allen",
+         "price": -136,
+         "sid": "21174117",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813129&selectionId=21174118",
+         "player": "Jarrett Allen",
+         "price": 102,
+         "sid": "21174118",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813345&selectionId=41500697",
+         "player": "Isaiah Hartenstein",
+         "price": 106,
+         "sid": "41500697",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813345&selectionId=41500698",
+         "player": "Isaiah Hartenstein",
+         "price": -140,
+         "sid": "41500698",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813203&selectionId=54472264",
+         "player": "Peyton Watson",
+         "price": -104,
+         "sid": "54472264",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813203&selectionId=54472265",
+         "player": "Peyton Watson",
+         "price": -128,
+         "sid": "54472265",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621812336&selectionId=53679067",
+         "player": "Ajay Mitchell",
+         "price": -114,
+         "sid": "53679067",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621812336&selectionId=53679062",
+         "player": "Ajay Mitchell",
+         "price": -114,
+         "sid": "53679062",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621812337&selectionId=63496225",
+         "player": "Jared McCain",
+         "price": -158,
+         "sid": "63496225",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621812337&selectionId=63496226",
+         "player": "Jared McCain",
+         "price": 118,
+         "sid": "63496226",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813092&selectionId=41407628",
+         "player": "Evan Mobley",
+         "price": 100,
+         "sid": "41407628",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813092&selectionId=41407629",
+         "player": "Evan Mobley",
+         "price": -132,
+         "sid": "41407629",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813704&selectionId=38971907",
+         "player": "Sam Merrill",
+         "price": 104,
+         "sid": "38971907",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813704&selectionId=38971908",
+         "player": "Sam Merrill",
+         "price": -138,
+         "sid": "38971908",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621812913&selectionId=15907303",
+         "player": "Donovan Mitchell",
+         "price": -122,
+         "sid": "15907303",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621812913&selectionId=15907304",
+         "player": "Donovan Mitchell",
+         "price": -108,
+         "sid": "15907304",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621811059&selectionId=21662973",
+         "player": "Shai Gilgeous-Alexander",
+         "price": -160,
+         "sid": "21662973",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621811059&selectionId=21662974",
+         "player": "Shai Gilgeous-Alexander",
+         "price": 120,
+         "sid": "21662974",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813738&selectionId=91219507",
+         "player": "Aday Mara",
+         "price": -136,
+         "sid": "91219507",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621813738&selectionId=91219508",
+         "player": "Aday Mara",
+         "price": 102,
+         "sid": "91219508",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621812980&selectionId=12260579",
+         "player": "James Harden",
+         "price": -114,
+         "sid": "12260579",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621812980&selectionId=12260580",
+         "player": "James Harden",
+         "price": -114,
+         "sid": "12260580",
+         "side": "Under"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-02T06:10:47Z",
+     "kind": "lock",
+     "minutes_to_tip": 1079.2,
+     "raw": "raw/2026-11-02/0a12a55607db0bd7eeafee050c45988e-player_rebounds-lock-20261102T061047012201Z.json",
+     "rev": 1
+    }
+   ],
+   "sport": "basketball_nba"
+  }
+ },
+ "issues": [],
+ "spent_month": 2,
+ "spent_today": 2,
+ "stop": null,
+ "updated": "2026-11-02T06:10:47Z"
+}
