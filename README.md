@@ -14,8 +14,9 @@ No secrets live here. Odds API prices stay in the private `dk-odds` repo.
 
 ## Reading it from a Claude run
 
-- Whole repo: `git clone --depth 1 https://github.com/jdarby00/ev-data` (public, no auth).
-- One file: `https://raw.githubusercontent.com/jdarby00/ev-data/main/board/nba/latest.md`
+- Clone it: `git clone --depth 1 https://github.com/jdarby00/ev-data` (public, no auth). This is the path to use.
+- raw.githubusercontent.com is blocked by the Claude cloud proxy (checked 2 Nov).
+- Fallback: WebFetch `https://github.com/jdarby00/ev-data/blob/main/board/nba/<date>.md`. It returns a model summary, not the exact text, so ask about one game at a time.
 
 ## Files
 
