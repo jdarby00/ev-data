@@ -1,0 +1,215 @@
+"""Daily NBA board: player baselines for every team on today's slate.
+
+Reads the season box scores, last season's box scores and today's slate, then writes
+  board/nba/<date>.json  (full detail, for code)
+  board/nba/<date>.md    (compact, for Claude and Jake)
+
+Per player: games, starts, minutes (season, last 5, spread over last 10), points,
+rebounds, assists and threes (season and last 5), last season's averages, games
+missed recently, and tonight's injury status. Per team: rest, back-to-back, who is
+out and how many minutes that frees, and simple with/without splits for absent players.
+
+This is step 2 of the redesign (baselines). Step 3 adds projections and probabilities.
+
+Usage: python3 -I pipeline/nba_board.py [--date YYYY-MM-DD]
+"""
+import argparse
+import datetime as dt
+import json
+import os
+import statistics as stats
+import sys
+from collections import defaultdict
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from common import num, path, read_csv, today_et, write_json  # noqa: E402
+
+STATS = {"pts": "points", "reb": "rebounds", "ast": "assists",
+         "tpm": "threePointFieldGoalsMade-threePointFieldGoalsAttempted"}
+OUT_WORDS = ("out",)
+RISK_WORDS = ("doubtful", "questionable", "day-to-day", "game-time", "probable")
+
+
+def mean(xs):
+    return round(sum(xs) / len(xs), 1) if xs else None
+
+
+def sd(xs):
+    return round(stats.pstdev(xs), 1) if len(xs) >= 2 else None
+
+
+def player_lines(rows):
+    """rows: one player's played games, oldest first."""
+    mins = [num(r["minutes"]) for r in rows]
+    out = {"gp": len(rows), "starts_l5": sum(int(r.get("starter") or 0) for r in rows[-5:]),
+           "min": mean(mins), "min_l5": mean(mins[-5:]), "min_sd_l10": sd(mins[-10:]),
+           "min_log_l5": [int(m) for m in mins[-5:]]}
+    for k, col in STATS.items():
+        vals = [num(r.get(col)) for r in rows]
+        out[k] = mean(vals)
+        out[k + "_l5"] = mean(vals[-5:])
+        out[k + "_log_l5"] = [int(v) for v in vals[-5:]]
+    return out
+
+
+def build(date_iso, box, prior, slate):
+    by_team_games = defaultdict(list)  # team -> sorted unique (date, event)
+    played = defaultdict(list)          # espn_id -> played rows
+    listed = defaultdict(dict)          # espn_id -> {event: row} including DNP
+    last_team = {}
+    for r in box:
+        if r["date"] >= date_iso:
+            continue
+        by_team_games[r["team"]].append((r["date"], r["event"]))
+        listed[r["espn_id"]][r["event"]] = r
+        last_team[r["espn_id"]] = (r["date"], r["team"], r["player"])
+        if not int(r.get("dnp") or 0) and num(r.get("minutes")) > 0:
+            played[r["espn_id"]].append(r)
+    for t in by_team_games:
+        by_team_games[t] = sorted(set(by_team_games[t]))
+    prior_by_id = defaultdict(list)
+    for r in prior:
+        prior_by_id[r["espn_id"]].append(r)
+
+    status = {}
+    for team_rows in slate.get("injuries", {}).values():
+        for r in team_rows:
+            status[r["player"]] = r
+
+    teams_out = {}
+    for g in slate.get("games", []):
+        for side, opp in (("away", "home"), ("home", "away")):
+            team = g[side]
+            games = by_team_games.get(team, [])
+            last_date = games[-1][0] if games else None
+            rest = (dt.date.fromisoformat(date_iso) - dt.date.fromisoformat(last_date)).days - 1 if last_date else None
+            roster = [pid for pid, (d, t, n) in last_team.items() if t == team]
+            last5 = [e for _, e in games[-5:]]
+            players = []
+            for pid in roster:
+                name = last_team[pid][2]
+                rows = sorted(played.get(pid, []), key=lambda r: r["date"])
+                line = player_lines(rows) if rows else {"gp": 0}
+                missed = [e for e in last5 if e not in listed[pid] or int(listed[pid][e].get("dnp") or 0)]
+                dnp_reasons = [listed[pid][e]["dnp_reason"] for e in last5
+                               if e in listed[pid] and listed[pid][e].get("dnp_reason")]
+                pr = prior_by_id.get(pid, [])
+                prior_line = None
+                if pr:
+                    prior_line = {"gp": len(pr), "min": mean([num(r["minutes"]) for r in pr]),
+                                  **{k: mean([num(r.get(c)) for r in pr]) for k, c in STATS.items()}}
+                st = status.get(name)
+                players.append({"espn_id": pid, "player": name, "status": st["status"] if st else "",
+                                "status_detail": st["detail"] if st else "", **line,
+                                "missed_l5": len(missed), "dnp_reasons_l5": dnp_reasons, "last_season": prior_line})
+            players.sort(key=lambda p: -(p.get("min_l5") or 0))
+            out_players = [p for p in players if p["status"].lower().startswith(OUT_WORDS)]
+            freed = round(sum(p.get("min") or 0 for p in out_players), 1)
+            teams_out[team] = {"team": team, "opp": g[opp], "home": side == "home", "games_played": len(games),
+                               "last_game": last_date, "rest_days": rest, "back_to_back": rest == 0,
+                               "out": [p["player"] for p in out_players], "freed_minutes": freed,
+                               "with_without": with_without(team, out_players, players, games, listed, played),
+                               "players": players}
+    return {"date": date_iso, "slate_updated_et": slate.get("updated_et"), "games": slate.get("games", []),
+            "status_changes": slate.get("status_changes", []), "teams": teams_out}
+
+
+def with_without(team, out_players, players, games, listed, played):
+    """For each player out tonight: teammates' averages in games he missed vs games he played.
+    Only reported with 2+ games on each side; small samples are labelled with n."""
+    res = []
+    events = [e for _, e in games]
+    for op in out_players:
+        oid = op["espn_id"]
+        without = [e for e in events if e not in listed[oid] or int(listed[oid][e].get("dnp") or 0)]
+        with_ = [e for e in events if e not in without]
+        if len(without) < 2 or len(with_) < 2:
+            continue
+        for p in players:
+            if p["espn_id"] == oid or p.get("status", "").lower().startswith(OUT_WORDS):
+                continue
+            rows = {r["event"]: r for r in played.get(p["espn_id"], [])}
+            a = [rows[e] for e in with_ if e in rows]
+            b = [rows[e] for e in without if e in rows]
+            if len(a) < 2 or len(b) < 2:
+                continue
+            delta = {k: round(mean([num(r.get(c)) for r in b]) - mean([num(r.get(c)) for r in a]), 1)
+                     for k, c in [("min", "minutes")] + list(STATS.items())}
+            if max(abs(delta["min"]), abs(delta["pts"]), abs(delta["reb"]), abs(delta["ast"])) >= 2:
+                res.append({"absent": op["player"], "teammate": p["player"], "n_with": len(a),
+                            "n_without": len(b), "delta": delta})
+    res.sort(key=lambda x: -abs(x["delta"]["min"]))
+    return res[:8]
+
+
+def fmt(v, d="–"):
+    return d if v is None else (f"{v:g}" if isinstance(v, float) else str(v))
+
+
+def to_markdown(board):
+    lines = [f"# NBA board, {board['date']}", "",
+             f"Slate updated {board['slate_updated_et']} ET. Baselines from ESPN box scores. "
+             "L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.", ""]
+    if board["status_changes"]:
+        lines += ["## Status changes today", ""]
+        lines += [f"- {c['at_et'][11:]} {c['team']}: {c['player']} {c['from']} → {c['to']}" for c in board["status_changes"][-15:]]
+        lines.append("")
+    for g in board["games"]:
+        a, h = board["teams"].get(g["away"]), board["teams"].get(g["home"])
+        lines += [f"## {g['away']} @ {g['home']}, {g['tip_et'][11:]} ET",
+                  f"Line: {g['spread_text'] or 'n/a'}, total {fmt(g['total'])} ({g['odds_source'] or 'ESPN'})."]
+        for t in (a, h):
+            if not t:
+                continue
+            flags = []
+            if t["back_to_back"]:
+                flags.append("back-to-back")
+            elif t["rest_days"] is not None:
+                flags.append(f"{t['rest_days']} rest days")
+            outs = ", ".join(t["out"]) or "none listed"
+            lines.append(f"**{t['team']}** ({', '.join(flags) or 'rest n/a'}). Out: {outs}. "
+                         f"Freed minutes: {fmt(t['freed_minutes'])}.")
+            for w in t["with_without"][:4]:
+                d = w["delta"]
+                lines.append(f"- Without {w['absent']}: {w['teammate']} min {d['min']:+g}, pts {d['pts']:+g}, "
+                             f"reb {d['reb']:+g}, ast {d['ast']:+g} (n={w['n_without']} vs {w['n_with']})")
+            lines += ["", "| Player | Status | Min L5 (sd) | Pts L5/szn | Reb L5/szn | Ast L5/szn | 3PM L5/szn |",
+                      "|---|---|---|---|---|---|---|"]
+            for p in [p for p in t["players"] if (p.get("min_l5") or 0) >= 12 or p["status"]][:11]:
+                if not p.get("gp"):
+                    lines.append(f"| {p['player']} | {p['status'] or '–'} | no games | | | | |")
+                    continue
+                lines.append(
+                    f"| {p['player']} | {p['status'] or '–'} | {fmt(p['min_l5'])} ({fmt(p['min_sd_l10'])}) | "
+                    f"{fmt(p['pts_l5'])}/{fmt(p['pts'])} | {fmt(p['reb_l5'])}/{fmt(p['reb'])} | "
+                    f"{fmt(p['ast_l5'])}/{fmt(p['ast'])} | {fmt(p['tpm_l5'])}/{fmt(p['tpm'])} |")
+            lines.append("")
+    return "\n".join(lines) + "\n"
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--date", default=today_et().isoformat())
+    a = ap.parse_args()
+    slate_p = path("data", "nba", "slate", f"{a.date}.json")
+    if not os.path.exists(slate_p):
+        print("board: no slate file; run nba_slate.py first")
+        return 1
+    slate = json.load(open(slate_p))
+    if not slate.get("games"):
+        print("board: no games today")
+        return 0
+    board = build(a.date, read_csv(path("data", "nba", "boxscores_2026_27.csv")),
+                  read_csv(path("data", "nba", "boxscores_2025_26.csv.gz")), slate)
+    write_json(path("board", "nba", f"{a.date}.json"), board)
+    md = to_markdown(board)
+    with open(path("board", "nba", f"{a.date}.md"), "w") as fh:
+        fh.write(md)
+    with open(path("board", "nba", "latest.md"), "w") as fh:
+        fh.write(md)
+    print(f"board {a.date}: {len(board['teams'])} teams, markdown {len(md)} bytes")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

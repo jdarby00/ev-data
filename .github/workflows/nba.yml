@@ -1,0 +1,52 @@
+name: nba
+on:
+  schedule:
+    - cron: "20 10 * * *"   # 5:20 am ET (EST): yesterday's box scores, then slate and board
+    - cron: "40 15 * * *"   # 10:40 am ET: slate and board refresh
+    - cron: "10 19 * * *"   # 2:10 pm ET
+    - cron: "20 21 * * *"   # 4:20 pm ET, before the main Claude run
+    - cron: "40 22 * * *"   # 5:40 pm ET, late statuses
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Board date (YYYY-MM-DD, ET). Blank = today."
+        required: false
+        default: ""
+      boxscores:
+        description: "Also fetch box scores"
+        type: boolean
+        default: true
+permissions:
+  contents: write
+concurrency:
+  group: nba
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Tests (offline)
+        run: python3 -I tests/test_pipeline.py
+      - name: Box scores
+        if: github.event.schedule == '20 10 * * *' || (github.event_name == 'workflow_dispatch' && inputs.boxscores)
+        run: python3 -I pipeline/nba_boxscores.py
+      - name: Slate (games, lines, injuries)
+        run: |
+          D="${{ inputs.date }}"
+          python3 -I pipeline/nba_slate.py ${D:+--date "$D"}
+      - name: Board
+        run: |
+          D="${{ inputs.date }}"
+          python3 -I pipeline/nba_board.py ${D:+--date "$D"}
+      - name: Save
+        if: always()
+        run: |
+          git config user.name "ev-data pipeline"
+          git config user.email "ev-data@users.noreply.github.com"
+          git add data board
+          git diff --cached --quiet && { echo "nothing new"; exit 0; }
+          git commit -m "nba: $(TZ=America/New_York date +'%Y-%m-%d %H:%M ET')"
+          for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep 5; done
+          exit 1
