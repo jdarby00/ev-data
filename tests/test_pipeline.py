@@ -122,6 +122,24 @@ class Board(unittest.TestCase):
         self.assertIn("Out all season so far (already in the lines): Long Term", md)
         self.assertNotIn("2026-11-02 |", md)  # today's date never counted as a played game
 
+    def test_projection_present_and_sane(self):
+        b = nba_board.build("2026-11-02", self.box, [], self.slate)
+        star = next(p for p in b["teams"]["BOS"]["players"] if p["player"] == "Home Star")
+        q = star["proj"]["stats"]["pts"]
+        self.assertTrue(q["p10"] < q["p50"] < q["p90"])
+        self.assertTrue(20 <= q["p50"] <= 36)
+        ladder = q["p_over"]
+        keys = sorted(ladder, key=float)
+        self.assertGreater(ladder[keys[0]], ladder[keys[-1]])  # over chance falls as the line rises
+        big = next(p for p in b["teams"]["BOS"]["players"] if p["player"] == "Home Big")
+        self.assertIsNone(big["proj"])  # out tonight: no projection
+
+    def test_model_push_handling(self):
+        import nba_model
+        pr = nba_model.project([{"min": 30, "pts": 20, "reb": 5, "ast": 5, "tpm": 2}] * 5, None)
+        self.assertAlmostEqual(pr.p_over("reb", 5.5) + (1 - pr.p_over("reb", 5.5)), 1.0)
+        self.assertTrue(0 < pr.p_over("reb", 5) < 1)
+
     def test_future_rows_ignored(self):
         future = dict(self.box[0], date="2026-11-03")
         b = nba_board.build("2026-11-02", self.box + [future], [], self.slate)
