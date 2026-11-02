@@ -1,6 +1,6 @@
 {
  "date": "2026-11-02",
- "slate_updated_et": "2026-11-02 00:35",
+ "slate_updated_et": "2026-11-02 00:37",
  "games": [
   {
    "event": "401909907",
@@ -13,7 +13,7 @@
    "spread_text": "CLE -4.5",
    "spread": -4.5,
    "total": 227.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -27,7 +27,7 @@
    "spread_text": "DET -4.5",
    "spread": 4.5,
    "total": 210.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -41,7 +41,7 @@
    "spread_text": "ATL -5.5",
    "spread": 5.5,
    "total": 232.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -55,7 +55,7 @@
    "spread_text": "NY -14.5",
    "spread": -14.5,
    "total": 221.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -69,7 +69,7 @@
    "spread_text": "ORL -2.5",
    "spread": -2.5,
    "total": 224.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -83,7 +83,7 @@
    "spread_text": "PHI -11.5",
    "spread": -11.5,
    "total": 239.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -97,7 +97,7 @@
    "spread_text": "DAL -9.5",
    "spread": -9.5,
    "total": 234.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -111,7 +111,7 @@
    "spread_text": "MEM -6.5",
    "spread": -6.5,
    "total": 235.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -125,7 +125,7 @@
    "spread_text": "MIN -10.5",
    "spread": -10.5,
    "total": 233.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -139,7 +139,7 @@
    "spread_text": "HOU -5.5",
    "spread": -5.5,
    "total": 218.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -153,7 +153,7 @@
    "spread_text": "SA -16.5",
    "spread": -16.5,
    "total": 230.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -167,7 +167,7 @@
    "spread_text": "DEN -4.5",
    "spread": -4.5,
    "total": 229.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -181,7 +181,7 @@
    "spread_text": "GS -4.5",
    "spread": -4.5,
    "total": 227.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -195,7 +195,7 @@
    "spread_text": "TOR -5.5",
    "spread": 5.5,
    "total": 220.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -209,7 +209,7 @@
    "spread_text": "LAL -2.5",
    "spread": -2.5,
    "total": 238.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   }
  ],
@@ -230,6 +230,10 @@
     "Cason Wallace"
    ],
    "freed_minutes": 97.0,
+   "out_no_games_this_season": [
+    "Thomas Sorber",
+    "Nikola Topic"
+   ],
    "with_without": [
     {
      "absent": "Jalen Williams",
@@ -1232,6 +1236,33 @@
       "COACH'S DECISION"
      ],
      "last_season": null
+    },
+    {
+     "espn_id": "",
+     "player": "Thomas Sorber",
+     "status": "Out",
+     "status_detail": "Oklahoma City exercised the third-year team option on Sorber (knee) on Sunday, Clemente Almanza of USA Today reports.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": null
+    },
+    {
+     "espn_id": "",
+     "player": "Nikola Topic",
+     "status": "Out",
+     "status_detail": "Topic (back) will remain on the inactive list for Wednesday's game in Dallas.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 10,
+      "min": 16.1,
+      "pts": 5.2,
+      "reb": 1.9,
+      "ast": 4.4,
+      "tpm": 0.6
+     }
     }
    ]
   },
@@ -1247,6 +1278,7 @@
     "Jaylon Tyson"
    ],
    "freed_minutes": 20.8,
+   "out_no_games_this_season": [],
    "with_without": [],
    "players": [
     {
@@ -2104,6 +2136,7 @@
     "Isaiah Joe"
    ],
    "freed_minutes": 32.7,
+   "out_no_games_this_season": [],
    "with_without": [
     {
      "absent": "Isaiah Joe",
@@ -3222,6 +3255,10 @@
    "back_to_back": false,
    "out": [],
    "freed_minutes": 0,
+   "out_no_games_this_season": [
+    "Grant Williams",
+    "Kon Knueppel"
+   ],
    "with_without": [],
    "players": [
     {
@@ -4026,6 +4063,40 @@
      "missed_l5": 5,
      "dnp_reasons_l5": [],
      "last_season": null
+    },
+    {
+     "espn_id": "",
+     "player": "Grant Williams",
+     "status": "Out",
+     "status_detail": "Williams (hamstring) is listed as out for Monday's game against the Pistons.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 36,
+      "min": 19.8,
+      "pts": 7.0,
+      "reb": 3.9,
+      "ast": 1.6,
+      "tpm": 1.4
+     }
+    },
+    {
+     "espn_id": "",
+     "player": "Kon Knueppel",
+     "status": "Out",
+     "status_detail": "Knueppel (hamstring) is listed as out for Monday's game versus the Pistons.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 81,
+      "min": 31.5,
+      "pts": 18.5,
+      "reb": 5.3,
+      "ast": 3.4,
+      "tpm": 3.4
+     }
     }
    ]
   },
@@ -4041,6 +4112,10 @@
     "Jock Landale"
    ],
    "freed_minutes": 15.3,
+   "out_no_games_this_season": [
+    "Mouhamed Gueye",
+    "Henri Veesaar"
+   ],
    "with_without": [],
    "players": [
     {
@@ -4831,6 +4906,33 @@
       "ast": 1.0,
       "tpm": 0.7
      }
+    },
+    {
+     "espn_id": "",
+     "player": "Mouhamed Gueye",
+     "status": "Out",
+     "status_detail": "Gueye underwent surgery Tuesday to repair a fractured left foot that he suffered during a workout last week, Brad Rowland of the Locked On Podcast Network reports.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 77,
+      "min": 15.3,
+      "pts": 4.4,
+      "reb": 3.6,
+      "ast": 0.9,
+      "tpm": 0.5
+     }
+    },
+    {
+     "espn_id": "",
+     "player": "Henri Veesaar",
+     "status": "Out",
+     "status_detail": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": null
     }
    ]
   },
@@ -4848,6 +4950,10 @@
     "Ben Sheppard"
    ],
    "freed_minutes": 66.7,
+   "out_no_games_this_season": [
+    "T.J. McConnell",
+    "Johnny Furphy"
+   ],
    "with_without": [
     {
      "absent": "Ivica Zubac",
@@ -5857,6 +5963,40 @@
      "missed_l5": 1,
      "dnp_reasons_l5": [],
      "last_season": null
+    },
+    {
+     "espn_id": "",
+     "player": "T.J. McConnell",
+     "status": "Out",
+     "status_detail": "Indiana recalled McConnell (hamstring) from the G League's Noblesville Boom on Saturday.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 56,
+      "min": 17.2,
+      "pts": 9.4,
+      "reb": 2.2,
+      "ast": 5.1,
+      "tpm": 0.3
+     }
+    },
+    {
+     "espn_id": "",
+     "player": "Johnny Furphy",
+     "status": "Out",
+     "status_detail": "Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 35,
+      "min": 18.3,
+      "pts": 5.1,
+      "reb": 4.4,
+      "ast": 1.2,
+      "tpm": 0.7
+     }
     }
    ]
   },
@@ -5872,6 +6012,9 @@
     "Egor Demin"
    ],
    "freed_minutes": 21.8,
+   "out_no_games_this_season": [
+    "Tyler Bilodeau"
+   ],
    "with_without": [
     {
      "absent": "Egor Demin",
@@ -6898,6 +7041,16 @@
      "missed_l5": 4,
      "dnp_reasons_l5": [],
      "last_season": null
+    },
+    {
+     "espn_id": "",
+     "player": "Tyler Bilodeau",
+     "status": "Out",
+     "status_detail": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": null
     }
    ]
   },
@@ -6913,6 +7066,7 @@
     "Jose Alvarado"
    ],
    "freed_minutes": 13.5,
+   "out_no_games_this_season": [],
    "with_without": [
     {
      "absent": "Jose Alvarado",
@@ -7937,6 +8091,10 @@
     "Justin Champagnie"
    ],
    "freed_minutes": 18.5,
+   "out_no_games_this_season": [
+    "Tristan Vukcevic",
+    "Jamir Watkins"
+   ],
    "with_without": [
     {
      "absent": "Justin Champagnie",
@@ -8914,6 +9072,40 @@
       "ast": 1.6,
       "tpm": 0.9
      }
+    },
+    {
+     "espn_id": "",
+     "player": "Tristan Vukcevic",
+     "status": "Out",
+     "status_detail": "Vukcevic (hip) is listed as out for Monday's game against Orlando.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 49,
+      "min": 13.7,
+      "pts": 9.0,
+      "reb": 3.0,
+      "ast": 1.1,
+      "tpm": 1.0
+     }
+    },
+    {
+     "espn_id": "",
+     "player": "Jamir Watkins",
+     "status": "Out",
+     "status_detail": "The Wizards announced Thursday that Watkins has undergone surgery for a torn ACL.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 50,
+      "min": 20.6,
+      "pts": 7.4,
+      "reb": 3.9,
+      "ast": 1.3,
+      "tpm": 0.9
+     }
     }
    ]
   },
@@ -8930,6 +9122,11 @@
     "Jalen Suggs"
    ],
    "freed_minutes": 66.8,
+   "out_no_games_this_season": [
+    "Jonathan Isaac",
+    "Noah Penda",
+    "Izaiyah Nelson"
+   ],
    "with_without": [
     {
      "absent": "Jalen Suggs",
@@ -9875,6 +10072,50 @@
       "ast": 0.2,
       "tpm": 0.0
      }
+    },
+    {
+     "espn_id": "",
+     "player": "Jonathan Isaac",
+     "status": "Out",
+     "status_detail": "Isaac (knee) is out for Friday's game in Toronto.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 52,
+      "min": 10.0,
+      "pts": 2.6,
+      "reb": 2.5,
+      "ast": 0.4,
+      "tpm": 0.1
+     }
+    },
+    {
+     "espn_id": "",
+     "player": "Noah Penda",
+     "status": "Out",
+     "status_detail": "Penda was diagnosed with a partially torn right hamstring Saturday, Jason Beede of the Orlando Sentinel reports.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 59,
+      "min": 12.9,
+      "pts": 3.8,
+      "reb": 3.2,
+      "ast": 1.2,
+      "tpm": 0.5
+     }
+    },
+    {
+     "espn_id": "",
+     "player": "Izaiyah Nelson",
+     "status": "Out",
+     "status_detail": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": null
     }
    ]
   },
@@ -9888,6 +10129,9 @@
    "back_to_back": false,
    "out": [],
    "freed_minutes": 0,
+   "out_no_games_this_season": [
+    "Nic Claxton"
+   ],
    "with_without": [],
    "players": [
     {
@@ -10798,6 +11042,23 @@
       "ast": 1.5,
       "tpm": 1.3
      }
+    },
+    {
+     "espn_id": "",
+     "player": "Nic Claxton",
+     "status": "Out",
+     "status_detail": "Claxton (hamstring) is listed as doubtful for Monday's game against Philadelphia.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 69,
+      "min": 27.8,
+      "pts": 11.7,
+      "reb": 6.9,
+      "ast": 3.7,
+      "tpm": 0.0
+     }
     }
    ]
   },
@@ -10811,6 +11072,10 @@
    "back_to_back": false,
    "out": [],
    "freed_minutes": 0,
+   "out_no_games_this_season": [
+    "Dominick Barlow",
+    "Ariel Hukporti"
+   ],
    "with_without": [],
    "players": [
     {
@@ -11639,6 +11904,40 @@
       "COACH'S DECISION"
      ],
      "last_season": null
+    },
+    {
+     "espn_id": "",
+     "player": "Dominick Barlow",
+     "status": "Out",
+     "status_detail": "Barlow will miss at least the next two weeks of action due to a lumbar spine bone stress response, Adam Aaronson of PhillyVoice.com reports.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 71,
+      "min": 23.7,
+      "pts": 7.7,
+      "reb": 4.8,
+      "ast": 1.2,
+      "tpm": 0.3
+     }
+    },
+    {
+     "espn_id": "",
+     "player": "Ariel Hukporti",
+     "status": "Out",
+     "status_detail": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 55,
+      "min": 9.2,
+      "pts": 2.1,
+      "reb": 2.9,
+      "ast": 0.5,
+      "tpm": 0.0
+     }
     }
    ]
   },
@@ -11654,6 +11953,11 @@
     "Keegan Murray"
    ],
    "freed_minutes": 27.0,
+   "out_no_games_this_season": [
+    "Dylan Cardwell",
+    "Maxime Raynaud",
+    "Ben Simmons"
+   ],
    "with_without": [
     {
      "absent": "Keegan Murray",
@@ -12553,6 +12857,50 @@
       "COACH'S DECISION"
      ],
      "last_season": null
+    },
+    {
+     "espn_id": "",
+     "player": "Dylan Cardwell",
+     "status": "Out",
+     "status_detail": "Cardwell (calf) is questionable to suit up for Monday's game against the Mavericks.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 44,
+      "min": 20.7,
+      "pts": 5.4,
+      "reb": 7.5,
+      "ast": 1.4,
+      "tpm": 0.0
+     }
+    },
+    {
+     "espn_id": "",
+     "player": "Maxime Raynaud",
+     "status": "Out",
+     "status_detail": "Raynaud (knee) is progressing in his rehabilitation and will be re-evaluated in approximately two weeks, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 74,
+      "min": 26.6,
+      "pts": 12.5,
+      "reb": 7.5,
+      "ast": 1.4,
+      "tpm": 0.3
+     }
+    },
+    {
+     "espn_id": "",
+     "player": "Ben Simmons",
+     "status": "Out",
+     "status_detail": "Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": null
     }
    ]
   },
@@ -12568,6 +12916,11 @@
     "Sergio de Larrea"
    ],
    "freed_minutes": 11.8,
+   "out_no_games_this_season": [
+    "Tarik Biberovic",
+    "Dereck Lively II",
+    "Santi Aldama"
+   ],
    "with_without": [
     {
      "absent": "Sergio de Larrea",
@@ -13557,6 +13910,50 @@
       "COACH'S DECISION"
      ],
      "last_season": null
+    },
+    {
+     "espn_id": "",
+     "player": "Tarik Biberovic",
+     "status": "Out",
+     "status_detail": "Biberovic (heel) is listed as out for Monday's game against Sacramento.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": null
+    },
+    {
+     "espn_id": "",
+     "player": "Dereck Lively II",
+     "status": "Out",
+     "status_detail": "Lively (foot) is listed as out for Monday's game against the Kings.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 7,
+      "min": 16.4,
+      "pts": 4.3,
+      "reb": 5.3,
+      "ast": 1.9,
+      "tpm": 0.0
+     }
+    },
+    {
+     "espn_id": "",
+     "player": "Santi Aldama",
+     "status": "Out",
+     "status_detail": "Aldama (knee) is listed as doubtful for Monday's game against the Kings.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 43,
+      "min": 27.8,
+      "pts": 14.0,
+      "reb": 6.7,
+      "ast": 2.9,
+      "tpm": 1.6
+     }
     }
    ]
   },
@@ -13573,6 +13970,7 @@
     "Jordan Poole"
    ],
    "freed_minutes": 35.5,
+   "out_no_games_this_season": [],
    "with_without": [
     {
      "absent": "Jordan Poole",
@@ -14631,6 +15029,7 @@
    "back_to_back": false,
    "out": [],
    "freed_minutes": 0,
+   "out_no_games_this_season": [],
    "with_without": [],
    "players": [
     {
@@ -15684,6 +16083,7 @@
    "back_to_back": false,
    "out": [],
    "freed_minutes": 0,
+   "out_no_games_this_season": [],
    "with_without": [],
    "players": [
     {
@@ -16581,6 +16981,9 @@
     "Anthony Edwards"
    ],
    "freed_minutes": 33.8,
+   "out_no_games_this_season": [
+    "Donte DiVincenzo"
+   ],
    "with_without": [
     {
      "absent": "Anthony Edwards",
@@ -17552,6 +17955,23 @@
       "COACH'S DECISION"
      ],
      "last_season": null
+    },
+    {
+     "espn_id": "",
+     "player": "Donte DiVincenzo",
+     "status": "Out",
+     "status_detail": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 82,
+      "min": 30.5,
+      "pts": 12.2,
+      "reb": 4.1,
+      "ast": 3.8,
+      "tpm": 3.0
+     }
     }
    ]
   },
@@ -17567,6 +17987,9 @@
     "Mitchell Robinson"
    ],
    "freed_minutes": 20.0,
+   "out_no_games_this_season": [
+    "Devin Carter"
+   ],
    "with_without": [],
    "players": [
     {
@@ -18439,6 +18862,23 @@
       "ast": 0.5,
       "tpm": 0.0
      }
+    },
+    {
+     "espn_id": "",
+     "player": "Devin Carter",
+     "status": "Out",
+     "status_detail": "Carter has been diagnosed with mononucleosis and is without a timetable for a return, Gary Washburn of The Boston Globe reports.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 38,
+      "min": 18.4,
+      "pts": 8.9,
+      "reb": 3.3,
+      "ast": 2.7,
+      "tpm": 0.8
+     }
     }
    ]
   },
@@ -18454,6 +18894,7 @@
     "Steven Adams"
    ],
    "freed_minutes": 8.0,
+   "out_no_games_this_season": [],
    "with_without": [],
    "players": [
     {
@@ -19416,6 +19857,10 @@
     "Jaren Jackson Jr."
    ],
    "freed_minutes": 26.0,
+   "out_no_games_this_season": [
+    "Trey Alexander",
+    "Jusuf Nurkic"
+   ],
    "with_without": [
     {
      "absent": "Jaren Jackson Jr.",
@@ -20420,6 +20865,40 @@
       "ast": 1.1,
       "tpm": 2.6
      }
+    },
+    {
+     "espn_id": "",
+     "player": "Trey Alexander",
+     "status": "Out",
+     "status_detail": "Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 9,
+      "min": 12.3,
+      "pts": 5.2,
+      "reb": 1.2,
+      "ast": 1.0,
+      "tpm": 0.7
+     }
+    },
+    {
+     "espn_id": "",
+     "player": "Jusuf Nurkic",
+     "status": "Out",
+     "status_detail": "Nurkic will miss at least the next four weeks due to a partial plantar plate tear of second toe in right foot, Chris Haynes of NBA TV reports.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 41,
+      "min": 26.4,
+      "pts": 10.9,
+      "reb": 10.4,
+      "ast": 4.8,
+      "tpm": 0.6
+     }
     }
    ]
   },
@@ -20433,6 +20912,10 @@
    "back_to_back": false,
    "out": [],
    "freed_minutes": 0,
+   "out_no_games_this_season": [
+    "Tobias Harris",
+    "Jayden Quaintance"
+   ],
    "with_without": [],
    "players": [
     {
@@ -21302,6 +21785,33 @@
      "missed_l5": 5,
      "dnp_reasons_l5": [],
      "last_season": null
+    },
+    {
+     "espn_id": "",
+     "player": "Tobias Harris",
+     "status": "Out",
+     "status_detail": "Harris (calf) is listed as out for Saturday's game against Minnesota.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 63,
+      "min": 27.8,
+      "pts": 13.3,
+      "reb": 5.1,
+      "ast": 2.5,
+      "tpm": 1.3
+     }
+    },
+    {
+     "espn_id": "",
+     "player": "Jayden Quaintance",
+     "status": "Out",
+     "status_detail": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": null
     }
    ]
   },
@@ -21317,6 +21827,9 @@
     "Ja Morant"
    ],
    "freed_minutes": 26.0,
+   "out_no_games_this_season": [
+    "Shaedon Sharpe"
+   ],
    "with_without": [],
    "players": [
     {
@@ -22240,6 +22753,23 @@
       "ast": 0.3,
       "tpm": 0.5
      }
+    },
+    {
+     "espn_id": "",
+     "player": "Shaedon Sharpe",
+     "status": "Out",
+     "status_detail": "Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 50,
+      "min": 29.4,
+      "pts": 20.8,
+      "reb": 4.3,
+      "ast": 2.6,
+      "tpm": 2.1
+     }
     }
    ]
   },
@@ -22255,6 +22785,10 @@
     "Alpha Diallo"
    ],
    "freed_minutes": 22.0,
+   "out_no_games_this_season": [
+    "Spencer Jones",
+    "Julian Strawther"
+   ],
    "with_without": [],
    "players": [
     {
@@ -23107,6 +23641,40 @@
       "ast": 5.3,
       "tpm": 0.8
      }
+    },
+    {
+     "espn_id": "",
+     "player": "Spencer Jones",
+     "status": "Out",
+     "status_detail": "Jones (hamstring) is listed as out for Monday's game against the Trail Blazers.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 64,
+      "min": 22.2,
+      "pts": 5.5,
+      "reb": 3.3,
+      "ast": 0.8,
+      "tpm": 0.9
+     }
+    },
+    {
+     "espn_id": "",
+     "player": "Julian Strawther",
+     "status": "Out",
+     "status_detail": "Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 57,
+      "min": 15.1,
+      "pts": 7.2,
+      "reb": 2.0,
+      "ast": 1.1,
+      "tpm": 1.0
+     }
     }
    ]
   },
@@ -23120,6 +23688,9 @@
    "back_to_back": false,
    "out": [],
    "freed_minutes": 0,
+   "out_no_games_this_season": [
+    "Mark Williams"
+   ],
    "with_without": [],
    "players": [
     {
@@ -23985,6 +24556,23 @@
       "ast": 0.8,
       "tpm": 1.1
      }
+    },
+    {
+     "espn_id": "",
+     "player": "Mark Williams",
+     "status": "Out",
+     "status_detail": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",
+     "gp": 0,
+     "missed_l5": 4,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 60,
+      "min": 23.6,
+      "pts": 11.7,
+      "reb": 8.0,
+      "ast": 1.0,
+      "tpm": 0.0
+     }
     }
    ]
   },
@@ -24001,6 +24589,11 @@
     "Stephen Curry"
    ],
    "freed_minutes": 56.8,
+   "out_no_games_this_season": [
+    "Kristaps Porzingis",
+    "Moses Moody",
+    "Jimmy Butler III"
+   ],
    "with_without": [
     {
      "absent": "Draymond Green",
@@ -25044,6 +25637,57 @@
       "ast": 0.9,
       "tpm": 0.2
      }
+    },
+    {
+     "espn_id": "",
+     "player": "Kristaps Porzingis",
+     "status": "Out",
+     "status_detail": "The Warriors are exploring potential trades involving Porzingis (personal), who remains away from the team indefinitely while dealing with ongoing health concerns, Anthony Slater of ESPN.com reports.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 32,
+      "min": 24.1,
+      "pts": 16.7,
+      "reb": 5.2,
+      "ast": 2.5,
+      "tpm": 1.7
+     }
+    },
+    {
+     "espn_id": "",
+     "player": "Moses Moody",
+     "status": "Out",
+     "status_detail": "Moody (knee) is progressing toward a potential return between December and January after rupturing his left patellar tendon in March, Anthony Slater of ESPN reports.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 60,
+      "min": 25.7,
+      "pts": 12.1,
+      "reb": 3.3,
+      "ast": 1.6,
+      "tpm": 2.5
+     }
+    },
+    {
+     "espn_id": "",
+     "player": "Jimmy Butler III",
+     "status": "Out",
+     "status_detail": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 38,
+      "min": 31.2,
+      "pts": 20.0,
+      "reb": 5.6,
+      "ast": 4.9,
+      "tpm": 0.8
+     }
     }
    ]
   },
@@ -25059,6 +25703,9 @@
     "Kawhi Leonard"
    ],
    "freed_minutes": 26.0,
+   "out_no_games_this_season": [
+    "Nate Bittle"
+   ],
    "with_without": [
     {
      "absent": "Kawhi Leonard",
@@ -26038,6 +26685,16 @@
       "COACH'S DECISION"
      ],
      "last_season": null
+    },
+    {
+     "espn_id": "",
+     "player": "Nate Bittle",
+     "status": "Out",
+     "status_detail": "Bittle (foot) has been ruled out for Wednesday's game against the Magic, Cody Taylor of USA Today reports.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": null
     }
    ]
   },
@@ -26051,6 +26708,13 @@
    "back_to_back": true,
    "out": [],
    "freed_minutes": 0,
+   "out_no_games_this_season": [
+    "Max Strus",
+    "Yanic Konan Niederhauser",
+    "Brandon Ingram",
+    "Bradley Beal",
+    "Jordan Miller"
+   ],
    "with_without": [],
    "players": [
     {
@@ -26904,6 +27568,91 @@
       "ast": 2.0,
       "tpm": 0.3
      }
+    },
+    {
+     "espn_id": "",
+     "player": "Max Strus",
+     "status": "Out",
+     "status_detail": "Strus (foot) practiced and participated in 5-on-5 with the San Diego Clippers on Saturday, Los Angeles Clippers sideline reporter/host Ohm Youngmisuk reports.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 12,
+      "min": 24.0,
+      "pts": 11.2,
+      "reb": 5.4,
+      "ast": 2.0,
+      "tpm": 2.8
+     }
+    },
+    {
+     "espn_id": "",
+     "player": "Yanic Konan Niederhauser",
+     "status": "Out",
+     "status_detail": "Niederhauser (foot) had his third-year team option picked up Thursday by the Clippers, Ohm Youngmisuk of ESPN.com reports.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 41,
+      "min": 10.4,
+      "pts": 4.3,
+      "reb": 2.9,
+      "ast": 0.3,
+      "tpm": 0.0
+     }
+    },
+    {
+     "espn_id": "",
+     "player": "Brandon Ingram",
+     "status": "Out",
+     "status_detail": "Los Angeles assigned Ingram (Achilles) to the G League's San Diego Clippers on Saturday.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 79,
+      "min": 33.1,
+      "pts": 20.9,
+      "reb": 5.5,
+      "ast": 3.6,
+      "tpm": 1.7
+     }
+    },
+    {
+     "espn_id": "",
+     "player": "Bradley Beal",
+     "status": "Out",
+     "status_detail": "Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo reports.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 6,
+      "min": 20.2,
+      "pts": 8.2,
+      "reb": 0.8,
+      "ast": 1.7,
+      "tpm": 1.2
+     }
+    },
+    {
+     "espn_id": "",
+     "player": "Jordan Miller",
+     "status": "Out",
+     "status_detail": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 60,
+      "min": 22.0,
+      "pts": 10.0,
+      "reb": 3.0,
+      "ast": 2.3,
+      "tpm": 0.6
+     }
     }
    ]
   },
@@ -26917,6 +27666,7 @@
    "back_to_back": false,
    "out": [],
    "freed_minutes": 0,
+   "out_no_games_this_season": [],
    "with_without": [],
    "players": [
     {
@@ -27801,6 +28551,9 @@
     "Ziaire Williams"
    ],
    "freed_minutes": 28.5,
+   "out_no_games_this_season": [
+    "Adou Thiero"
+   ],
    "with_without": [
     {
      "absent": "Ziaire Williams",
@@ -28838,6 +29591,23 @@
       "reb": 1.4,
       "ast": 0.4,
       "tpm": 0.7
+     }
+    },
+    {
+     "espn_id": "",
+     "player": "Adou Thiero",
+     "status": "Out",
+     "status_detail": "Thiero (knee) has been ruled out for Sunday's game against the Raptors.",
+     "gp": 0,
+     "missed_l5": 5,
+     "dnp_reasons_l5": [],
+     "last_season": {
+      "gp": 25,
+      "min": 6.0,
+      "pts": 1.9,
+      "reb": 1.1,
+      "ast": 0.4,
+      "tpm": 0.0
      }
     }
    ]
