@@ -49,6 +49,8 @@ ACTIONS = {  # action -> (repo, workflow file, inputs, token env var)
     "auto": ("jdarby00/dk-odds", "auto.yml", {}, "DK_ODDS_DISPATCH"),
     "close": ("jdarby00/dk-odds", "odds.yml", {}, "DK_ODDS_DISPATCH"),
     "self": ("jdarby00/ev-data", "clock.yml", {}, "GITHUB_TOKEN"),
+    # Token check: a dk-odds job that does nothing when its data is already there (no credits).
+    "check": ("jdarby00/dk-odds", "fetch-espn.yml", {}, "DK_ODDS_DISPATCH"),
 }
 
 
@@ -222,7 +224,12 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--once", action="store_true", help="fire anything due now, then stop")
     ap.add_argument("--dry-run", action="store_true", help="don't dispatch, commit or pull")
+    ap.add_argument("--check-token", action="store_true", help="test DK_ODDS_DISPATCH with a no-op dk-odds job")
     args = ap.parse_args()
+    if args.check_token:
+        ok, note = dispatch("check")
+        print(note)
+        sys.exit(0 if ok else 1)
     run(once=args.once, dry_run=args.dry_run)
 
 

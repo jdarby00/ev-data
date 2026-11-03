@@ -10,7 +10,12 @@ on:
     - cron: "35 17 * * *"   # 12:35 pm ET
     - cron: "45 18 * * *"   # 1:45 pm ET
     - cron: "40 21 * * *"   # 4:40 pm ET, in case every earlier one was dropped
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      check_token:
+        description: "Only test the DK_ODDS_DISPATCH token (no credits)"
+        type: boolean
+        default: false
 permissions:
   contents: write
   actions: write
@@ -32,4 +37,8 @@ jobs:
         run: |
           git config user.name "ev-data clock"
           git config user.email "ev-data@users.noreply.github.com"
-          python3 -I -u pipeline/clock.py
+          if [ "${{ inputs.check_token }}" = "true" ]; then
+            python3 -I -u pipeline/clock.py --check-token
+          else
+            python3 -I -u pipeline/clock.py
+          fi
