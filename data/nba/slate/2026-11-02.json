@@ -1,6 +1,6 @@
 {
  "date": "2026-11-02",
- "updated_et": "2026-11-02 20:33",
+ "updated_et": "2026-11-02 21:56",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,7 +11,7 @@
    "home": "CLE",
    "away_name": "Oklahoma City Thunder",
    "home_name": "Cleveland Cavaliers",
-   "state": "in",
+   "state": "post",
    "spread_text": "",
    "spread": null,
    "total": null,
@@ -67,7 +67,7 @@
    "home": "ORL",
    "away_name": "Washington Wizards",
    "home_name": "Orlando Magic",
-   "state": "in",
+   "state": "post",
    "spread_text": "",
    "spread": null,
    "total": null,
@@ -137,11 +137,11 @@
    "home": "HOU",
    "away_name": "Boston Celtics",
    "home_name": "Houston Rockets",
-   "state": "pre",
-   "spread_text": "HOU -4.5",
-   "spread": -4.5,
-   "total": 215.5,
-   "odds_source": "DraftKings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -151,11 +151,11 @@
    "home": "SA",
    "away_name": "Utah Jazz",
    "home_name": "San Antonio Spurs",
-   "state": "pre",
-   "spread_text": "SA -16.5",
-   "spread": -16.5,
-   "total": 227.5,
-   "odds_source": "DraftKings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -165,11 +165,11 @@
    "home": "DEN",
    "away_name": "Portland Trail Blazers",
    "home_name": "Denver Nuggets",
-   "state": "pre",
-   "spread_text": "DEN -4.5",
-   "spread": -4.5,
-   "total": 231.5,
-   "odds_source": "DraftKings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -183,7 +183,7 @@
    "spread_text": "GS -2.5",
    "spread": -2.5,
    "total": 227.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -194,10 +194,10 @@
    "away_name": "Toronto Raptors",
    "home_name": "LA Clippers",
    "state": "pre",
-   "spread_text": "TOR -4.5",
-   "spread": 4.5,
+   "spread_text": "TOR -6.5",
+   "spread": 6.5,
    "total": 219.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -210,8 +210,8 @@
    "state": "pre",
    "spread_text": "LAL -2.5",
    "spread": -2.5,
-   "total": 236.5,
-   "odds_source": "DraftKings",
+   "total": 237.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   }
  ],
@@ -328,6 +328,13 @@
   ],
   "Dallas Mavericks": [
    {
+    "player": "Max Christie",
+    "status": "Day-To-Day",
+    "detail": "Christie has been ruled out for the rest of Monday's game against the Kings due to a right hip injury, Mike Curtis of The Dallas Morning News reports. He'll end the night with no points (0-5 FG, 0-5 3Pt), two rebounds and one steal in eight minutes.",
+    "type": "day-to-day",
+    "updated": "2026-11-03T02:30Z"
+   },
+   {
     "player": "Kyrie Irving",
     "status": "Out",
     "detail": "Irving (knee) has been ruled out for Monday's game against the Kings.",
@@ -398,10 +405,10 @@
   "Golden State Warriors": [
    {
     "player": "Brandon Williams",
-    "status": "Day-To-Day",
-    "detail": "Williams (quadriceps) is listed as questionable for Monday's game against the Suns.",
-    "type": "day-to-day",
-    "updated": "2026-11-02T21:09Z"
+    "status": "Out",
+    "detail": "Williams (quadriceps) has been ruled out for Monday's game against the Suns.",
+    "type": "out",
+    "updated": "2026-11-03T01:33Z"
    },
    {
     "player": "Al Horford",
@@ -582,9 +589,9 @@
    {
     "player": "Adou Thiero",
     "status": "Out",
-    "detail": "Thiero (knee) has been ruled out for Sunday's game against the Raptors.",
+    "detail": "Head coach JJ Redick said Monday that Thiero (knee) has participated in live action, and the hope is that he'll be available by the end of the week, Khobi Price of The California Post reports.",
     "type": "out",
-    "updated": "2026-11-01T15:04Z"
+    "updated": "2026-11-03T01:30Z"
    }
   ],
   "Memphis Grizzlies": [
@@ -826,18 +833,11 @@
   ],
   "Toronto Raptors": [
    {
-    "player": "Scottie Barnes",
-    "status": "Day-To-Day",
-    "detail": "Barnes (hip) is listed as questionable for Monday's game against the Clippers.",
-    "type": "day-to-day",
-    "updated": "2026-11-02T21:23Z"
-   },
-   {
     "player": "Jakob Poeltl",
-    "status": "Day-To-Day",
-    "detail": "Poeltl (shoulder) is listed as questionable for Monday's game against the Clippers.",
-    "type": "day-to-day",
-    "updated": "2026-11-02T20:21Z"
+    "status": "Out",
+    "detail": "Poeltl (shoulder) has been ruled out for Monday's game against the Clippers, Zulfi Sheikh reports.",
+    "type": "out",
+    "updated": "2026-11-03T02:27Z"
    },
    {
     "player": "Nate Bittle",
@@ -1242,6 +1242,34 @@
    "at_et": "2026-11-02 20:33",
    "team": "Sacramento Kings",
    "player": "Zach LaVine",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-02 21:56",
+   "team": "Dallas Mavericks",
+   "player": "Max Christie",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-02 21:56",
+   "team": "Golden State Warriors",
+   "player": "Brandon Williams",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-02 21:56",
+   "team": "Toronto Raptors",
+   "player": "Jakob Poeltl",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-02 21:56",
+   "team": "Toronto Raptors",
+   "player": "Scottie Barnes",
    "from": "Day-To-Day",
    "to": "removed from report"
   }
