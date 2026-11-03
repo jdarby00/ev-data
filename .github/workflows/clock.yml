@@ -1,0 +1,35 @@
+name: clock
+# Fires the day's timed jobs on the minute (board refreshes, the 2:25 pm price request and
+# a close snapshot before each tip), because GitHub's own cron runs hours late. See
+# pipeline/clock.py. Several start times are listed only as backups: whichever fires first
+# runs the day; later ones queue behind it and exit when nothing is left.
+on:
+  schedule:
+    - cron: "5 12 * * *"    # 7:05 am ET (EST)
+    - cron: "5 15 * * *"    # 10:05 am ET
+    - cron: "35 17 * * *"   # 12:35 pm ET
+    - cron: "45 18 * * *"   # 1:45 pm ET
+    - cron: "40 21 * * *"   # 4:40 pm ET, in case every earlier one was dropped
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: clock
+  cancel-in-progress: false
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - name: Tests (offline)
+        run: python3 -I tests/test_clock.py
+      - name: Run the clock
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DK_ODDS_DISPATCH: ${{ secrets.DK_ODDS_DISPATCH }}
+        run: |
+          git config user.name "ev-data clock"
+          git config user.email "ev-data@users.noreply.github.com"
+          python3 -I -u pipeline/clock.py

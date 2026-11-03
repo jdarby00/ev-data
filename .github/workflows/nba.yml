@@ -31,6 +31,7 @@ jobs:
         run: |
           python3 -I tests/test_pipeline.py
           python3 -I tests/test_ledger.py
+          python3 -I tests/test_clock.py > /dev/null
       - name: Box scores
         if: github.event.schedule == '20 10 * * *' || (github.event_name == 'workflow_dispatch' && inputs.boxscores)
         run: python3 -I pipeline/nba_boxscores.py
