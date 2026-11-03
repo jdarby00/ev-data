@@ -6,7 +6,7 @@ Files (all in ledger/):
                     bets the grader can't settle, e.g. soccer, NFL, Jake's reported bets)
 
 Usage:
-  python3 -I pipeline/ledger.py add FILE.json        # a bet object or a list of them
+  python3 -I pipeline/ledger.py add FILE.json        # a bet object or a list of them (.jsonl also works)
   python3 -I pipeline/ledger.py withdraw BET_ID --reason "Aldama ruled out 1:18 pm"
   python3 -I pipeline/ledger.py settle BET_ID --result win|loss|push|void [--actual 12] [--reason ...]
   python3 -I pipeline/ledger.py verify               # schema + immutability check
@@ -262,9 +262,12 @@ def main():
     args = ap.parse_args()
 
     if args.cmd == "add":
-        with open(args.file) as fh:
-            data = json.load(fh)
-        rows = data if isinstance(data, list) else [data]
+        if args.file.endswith(".jsonl"):  # e.g. the project's ledger_inbox.jsonl
+            rows = read_jsonl(args.file)
+        else:
+            with open(args.file) as fh:
+                data = json.load(fh)
+            rows = data if isinstance(data, list) else [data]
         good, skipped, errors = add(rows)
         for e in errors:
             print("ERROR", e)

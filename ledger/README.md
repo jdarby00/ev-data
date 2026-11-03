@@ -16,6 +16,8 @@ Every bet, real or paper, from every contestant. Graded by code, never by hand.
 2. `python3 -I pipeline/ledger.py add bets.json`. It checks every row and adds nothing if any row is wrong.
 3. Commit `ledger/bets.jsonl` and push to `main` (pull with rebase first).
 
+**If the run can't push** (scheduled runs usually clone anonymously): append the same rows, one JSON object per line, to `claude/ledger_inbox.jsonl` in the Claude project, with `created_at` set to the time they were logged. Any later session that can push imports them with `python3 -I pipeline/ledger.py add ledger_inbox.jsonl`; rows already in the ledger are skipped. Inbox rows lose the git timestamp as proof of when they were logged, so the push route is preferred.
+
 Example:
 
 ```json
