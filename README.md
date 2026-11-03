@@ -11,6 +11,7 @@ No secrets live here. Odds API prices stay in the private `dk-odds` repo.
 1. **Box scores** (5:20 am): yesterday's games from ESPN's public JSON, appended to `data/nba/boxscores_2026_27.csv`. Players who were listed but didn't play are kept (`dnp=1`, with ESPN's reason), so missed games and with/without effects can be measured.
 2. **Slate**: today's games, tip times, ESPN-listed spread and total, and injuries, in `data/nba/slate/<date>.json`. Each refresh logs status changes since the last one.
 3. **Board**: per-player baselines for every team playing today, in `board/nba/<date>.json` (full) and `board/nba/<date>.md` (compact). `board/nba/latest.md` is always the newest.
+4. **Grading** (every run): `pipeline/grade.py` settles the bet ledger from the box scores, measures closing-line value from `prices/`, and rebuilds `ledger/scoreboard.md`. See `ledger/README.md`.
 
 ## Reading it from a Claude run
 
@@ -26,9 +27,11 @@ No secrets live here. Odds API prices stay in the private `dk-odds` repo.
 | `data/nba/boxscores_2025_26.csv.gz` | Last season, for priors |
 | `data/nba/slate/<date>.json` | Games, lines, injuries, status changes |
 | `board/nba/<date>.json` / `.md` | Player baselines, rest, freed minutes, with/without splits |
+| `ledger/bets.jsonl` | Every bet, append only (`pipeline/ledger.py add`) |
+| `ledger/scoreboard.md` | Graded results, CLV, drawdowns and calibration per contestant |
 | `pipeline/` | The code (standard library only) |
-| `tests/` | Offline tests: `python3 -I tests/test_pipeline.py -v` |
+| `tests/` | Offline tests: `python3 -I tests/test_pipeline.py -v` and `python3 -I tests/test_ledger.py -v` |
 
 ## Roadmap
 
-Step 3 adds projections and calibrated probabilities to the board; step 4 grades every logged pick nightly. See the review in the Claude project.
+Done: board (step 2), projections (step 3), ledger and grading (step 4). Next: a code screener that logs its own candidates to the ledger. See REVIEW_2026-11-03 in the Claude project.

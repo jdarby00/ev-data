@@ -28,7 +28,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Tests (offline)
-        run: python3 -I tests/test_pipeline.py
+        run: |
+          python3 -I tests/test_pipeline.py
+          python3 -I tests/test_ledger.py
       - name: Box scores
         if: github.event.schedule == '20 10 * * *' || (github.event_name == 'workflow_dispatch' && inputs.boxscores)
         run: python3 -I pipeline/nba_boxscores.py
@@ -40,12 +42,15 @@ jobs:
         run: |
           D="${{ inputs.date }}"
           python3 -I pipeline/nba_board.py ${D:+--date "$D"}
+      - name: Grade the ledger and rebuild the scoreboard
+        if: always()
+        run: python3 -I pipeline/grade.py
       - name: Save
         if: always()
         run: |
           git config user.name "ev-data pipeline"
           git config user.email "ev-data@users.noreply.github.com"
-          git add data board
+          git add data board ledger
           git diff --cached --quiet && { echo "nothing new"; exit 0; }
           git commit -m "nba: $(TZ=America/New_York date +'%Y-%m-%d %H:%M ET')"
           for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep 5; done
