@@ -1,6 +1,6 @@
 # NBA board, 2026-11-02
 
-Slate updated 2026-11-02 21:56 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-02 22:41 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -467,7 +467,7 @@ Line: n/a, total – (ESPN).
 | Spencer Jones | Out | none this season; last season 22.2 min, 5.5 pts | | | | |
 
 ## PHX @ GS, 22:00 ET
-Line: GS -2.5, total 227.5 (Draft Kings).
+Line: n/a, total – (ESPN).
 **PHX** (2 rest days). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Mark Williams.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -501,7 +501,7 @@ Line: GS -2.5, total 227.5 (Draft Kings).
 | Gary Payton II | – | 12.4 (3.5) → 12.8 (5.1) | 3.6/5 → 5 (0–11) | 2.2/2 → 2 (0–6) | 0.6/0.4 → 1 (0–3) | 0.4/0.4 → 0 (0–1) | 9 (1–18) |
 
 ## TOR @ LAC, 22:00 ET
-Line: TOR -6.5, total 219.5 (Draft Kings).
+Line: n/a, total – (ESPN).
 **TOR** (back-to-back). Out: Kawhi Leonard, Jakob Poeltl. Freed minutes: 46.2. Out all season so far (already in the lines): Nate Bittle.
 - Without Kawhi Leonard: Ja'Kobe Walter min +7.5, pts +5.5, reb +0.5, ast -1.2 (n=4 vs 2)
 - Without Kawhi Leonard: Alijah Martin min +6.3, pts +2.5, reb +1.7, ast +2 (n=3 vs 2)
@@ -539,7 +539,7 @@ Line: TOR -6.5, total 219.5 (Draft Kings).
 | Brandon Ingram | Out | none this season; last season 33.1 min, 20.9 pts | | | | |
 
 ## MIA @ LAL, 22:00 ET
-Line: LAL -2.5, total 237.5 (Draft Kings).
+Line: n/a, total – (ESPN).
 **MIA** (2 rest days). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
