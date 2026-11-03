@@ -1,15 +1,17 @@
 {
- "credits_remaining": 487,
+ "credits_remaining": 481,
  "date": "2026-11-02",
  "groups": {
   "basketball_nba|bucks@timberwolves|player_points": {
    "api_away": "Milwaukee Bucks",
    "api_home": "Minnesota Timberwolves",
    "away": "Bucks",
-   "commence_time": "2026-11-03T01:10:00Z",
+   "commence_time": "2026-11-03T01:10:51Z",
    "event_id": "6907851d65a9d0046d4c6c2f4ffb5e80",
    "home": "Timberwolves",
-   "issues": [],
+   "issues": [
+    "no close snapshot before start"
+   ],
    "market": "player_points",
    "players": [],
    "requested_rev": 1,
@@ -593,10 +595,12 @@
    "api_away": "Boston Celtics",
    "api_home": "Houston Rockets",
    "away": "Celtics",
-   "commence_time": "2026-11-03T01:40:00Z",
+   "commence_time": "2026-11-03T01:40:36Z",
    "event_id": "d6cb49b0ae478270e74d0e7ce7082e57",
    "home": "Rockets",
-   "issues": [],
+   "issues": [
+    "no close snapshot before start"
+   ],
    "market": "player_points",
    "players": [],
    "requested_rev": 1,
@@ -1172,10 +1176,12 @@
    "api_away": "Boston Celtics",
    "api_home": "Houston Rockets",
    "away": "Celtics",
-   "commence_time": "2026-11-03T01:40:00Z",
+   "commence_time": "2026-11-03T01:40:36Z",
    "event_id": "d6cb49b0ae478270e74d0e7ce7082e57",
    "home": "Rockets",
-   "issues": [],
+   "issues": [
+    "no close snapshot before start"
+   ],
    "market": "player_rebounds",
    "players": [],
    "requested_rev": 1,
@@ -1735,10 +1741,12 @@
    "api_away": "Atlanta Hawks",
    "api_home": "Indiana Pacers",
    "away": "Hawks",
-   "commence_time": "2026-11-03T00:40:00Z",
+   "commence_time": "2026-11-03T00:40:39Z",
    "event_id": "53ad3f78c949e79381b5e90a70293ac6",
    "home": "Pacers",
-   "issues": [],
+   "issues": [
+    "no close snapshot before start"
+   ],
    "market": "player_points",
    "players": [],
    "requested_rev": 1,
@@ -2322,10 +2330,12 @@
    "api_away": "Atlanta Hawks",
    "api_home": "Indiana Pacers",
    "away": "Hawks",
-   "commence_time": "2026-11-03T00:40:00Z",
+   "commence_time": "2026-11-03T00:40:39Z",
    "event_id": "53ad3f78c949e79381b5e90a70293ac6",
    "home": "Pacers",
-   "issues": [],
+   "issues": [
+    "no close snapshot before start"
+   ],
    "market": "player_rebounds",
    "players": [],
    "requested_rev": 1,
@@ -2769,14 +2779,1430 @@
    ],
    "sport": "basketball_nba"
   },
+  "basketball_nba|heat@lakers|player_points": {
+   "api_away": "Miami Heat",
+   "api_home": "Los Angeles Lakers",
+   "away": "Heat",
+   "commence_time": "2026-11-03T03:10:00Z",
+   "event_id": "f4e4165c2b9e53531629f6d0ab982b13",
+   "home": "Lakers",
+   "issues": [],
+   "market": "player_points",
+   "players": [],
+   "requested_rev": 1,
+   "snapshots": [
+    {
+     "books": {
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/miami-heat-at-los-angeles-lakers-20031533",
+       "event_sid": "20031533",
+       "last_update": "2026-11-03T01:41:23Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354520-7072789&type=Single",
+         "player": "Klay Thompson",
+         "price": -135,
+         "sid": "7072789",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354520-7072790&type=Single",
+         "player": "Klay Thompson",
+         "price": 100,
+         "sid": "7072790",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354513-7072767&type=Single",
+         "player": "Andrew Wiggins",
+         "price": -140,
+         "sid": "7072767",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354513-7072768&type=Single",
+         "player": "Andrew Wiggins",
+         "price": 105,
+         "sid": "7072768",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354516-7072777&type=Single",
+         "player": "Davion Mitchell",
+         "price": -130,
+         "sid": "7072777",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354516-7072778&type=Single",
+         "player": "Davion Mitchell",
+         "price": -105,
+         "sid": "7072778",
+         "side": "Under"
+        },
+        {
+         "line": 33.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354663-7073071&type=Single",
+         "player": "Luka Doncic",
+         "price": -110,
+         "sid": "7073071",
+         "side": "Over"
+        },
+        {
+         "line": 33.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354663-7073072&type=Single",
+         "player": "Luka Doncic",
+         "price": -120,
+         "sid": "7073072",
+         "side": "Under"
+        },
+        {
+         "line": 30.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354645-7073035&type=Single",
+         "player": "Giannis Antetokounmpo",
+         "price": -110,
+         "sid": "7073035",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354646-7073037&type=Single",
+         "player": "Jake LaRavia",
+         "price": 100,
+         "sid": "7073037",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354659-7073063&type=Single",
+         "player": "Matisse Thybulle",
+         "price": -130,
+         "sid": "7073063",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354659-7073064&type=Single",
+         "player": "Matisse Thybulle",
+         "price": -105,
+         "sid": "7073064",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4357957-7079785&type=Single",
+         "player": "Bobby Portis",
+         "price": -135,
+         "sid": "7079785",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4357957-7079786&type=Single",
+         "player": "Bobby Portis",
+         "price": 100,
+         "sid": "7079786",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4359803-7083189&type=Single",
+         "player": "Bam Adebayo",
+         "price": -130,
+         "sid": "7083189",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4359803-7083190&type=Single",
+         "player": "Bam Adebayo",
+         "price": -105,
+         "sid": "7083190",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4359804-7083191&type=Single",
+         "player": "Austin Reaves",
+         "price": -115,
+         "sid": "7083191",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4359804-7083192&type=Single",
+         "player": "Austin Reaves",
+         "price": -115,
+         "sid": "7083192",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4359818-7083213&type=Single",
+         "player": "Pelle Larsson",
+         "price": -125,
+         "sid": "7083213",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4359818-7083214&type=Single",
+         "player": "Pelle Larsson",
+         "price": -105,
+         "sid": "7083214",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4361661-7085866&type=Single",
+         "player": "Walker Kessler",
+         "price": -135,
+         "sid": "7085866",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4361661-7085867&type=Single",
+         "player": "Walker Kessler",
+         "price": 100,
+         "sid": "7085867",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4362566-7087130&type=Single",
+         "player": "Quentin Grimes",
+         "price": -115,
+         "sid": "7087130",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4362566-7087131&type=Single",
+         "player": "Quentin Grimes",
+         "price": -115,
+         "sid": "7087131",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4362564-7087128&type=Single",
+         "player": "Ziaire Williams",
+         "price": -135,
+         "sid": "7087128",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4362564-7087129&type=Single",
+         "player": "Ziaire Williams",
+         "price": 100,
+         "sid": "7087129",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4362591-7087180&type=Single",
+         "player": "Sandro Mamukelashvili",
+         "price": -115,
+         "sid": "7087180",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4362591-7087181&type=Single",
+         "player": "Sandro Mamukelashvili",
+         "price": -115,
+         "sid": "7087181",
+         "side": "Under"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/34936981",
+       "event_sid": "34936981",
+       "last_update": "2026-11-03T01:42:05Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 33.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043788%232346695922_13L42648Q11810497702Q20",
+         "player": "Luka Doncic",
+         "price": -120,
+         "sid": "0QA385043788#2346695922_13L42648Q11810497702Q20",
+         "side": "Over"
+        },
+        {
+         "line": 33.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043788%232346695923_13L42648Q1-1088286541Q20",
+         "player": "Luka Doncic",
+         "price": -106,
+         "sid": "0QA385043788#2346695923_13L42648Q1-1088286541Q20",
+         "side": "Under"
+        },
+        {
+         "line": 29.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043561%232346906592_13L42648Q1-607420801Q20",
+         "player": "Giannis Antetokounmpo",
+         "price": -116,
+         "sid": "0QA385043561#2346906592_13L42648Q1-607420801Q20",
+         "side": "Over"
+        },
+        {
+         "line": 29.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043561%232346906593_13L42648Q11972173235Q20",
+         "player": "Giannis Antetokounmpo",
+         "price": -110,
+         "sid": "0QA385043561#2346906593_13L42648Q11972173235Q20",
+         "side": "Under"
+        },
+        {
+         "line": 23.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043172%232346281847_13L42648Q1716010109Q20",
+         "player": "Austin Reaves",
+         "price": -116,
+         "sid": "0QA385043172#2346281847_13L42648Q1716010109Q20",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043172%232346281910_13L42648Q1-246698947Q20",
+         "player": "Austin Reaves",
+         "price": -110,
+         "sid": "0QA385043172#2346281910_13L42648Q1-246698947Q20",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043703%232346291274_13L42648Q1935105358Q20",
+         "player": "Bam Adebayo",
+         "price": -114,
+         "sid": "0QA385043703#2346291274_13L42648Q1935105358Q20",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043703%232346291275_13L42648Q11692774445Q20",
+         "player": "Bam Adebayo",
+         "price": -112,
+         "sid": "0QA385043703#2346291275_13L42648Q11692774445Q20",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043656%232346283808_13L42648Q1-1662826468Q20",
+         "player": "Andrew Wiggins",
+         "price": -121,
+         "sid": "0QA385043656#2346283808_13L42648Q1-1662826468Q20",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043656%232346283858_13L42648Q1-1693375913Q20",
+         "player": "Andrew Wiggins",
+         "price": -105,
+         "sid": "0QA385043656#2346283858_13L42648Q1-1693375913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385042936%232346906573_13L42648Q1-1662826468Q20",
+         "player": "Davion Mitchell",
+         "price": -103,
+         "sid": "0QA385042936#2346906573_13L42648Q1-1662826468Q20",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385042936%232346906574_13L42648Q1-1693375913Q20",
+         "player": "Davion Mitchell",
+         "price": -124,
+         "sid": "0QA385042936#2346906574_13L42648Q1-1693375913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385042945%232346281331_13L42648Q1-1662826468Q20",
+         "player": "Walker Kessler",
+         "price": 100,
+         "sid": "0QA385042945#2346281331_13L42648Q1-1662826468Q20",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385042945%232346281337_13L42648Q1-1693375913Q20",
+         "player": "Walker Kessler",
+         "price": -127,
+         "sid": "0QA385042945#2346281337_13L42648Q1-1693375913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385042951%232346906577_13L42648Q1-1856570546Q20",
+         "player": "Bobby Portis",
+         "price": 100,
+         "sid": "0QA385042951#2346906577_13L42648Q1-1856570546Q20",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385042951%232346906578_13L42648Q1-84747951Q20",
+         "player": "Bobby Portis",
+         "price": -128,
+         "sid": "0QA385042951#2346906578_13L42648Q1-84747951Q20",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043315%232346906835_13L42648Q11964356459Q20",
+         "player": "Pelle Larsson",
+         "price": -124,
+         "sid": "0QA385043315#2346906835_13L42648Q11964356459Q20",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043315%232346906836_13L42648Q1670756388Q20",
+         "player": "Pelle Larsson",
+         "price": -103,
+         "sid": "0QA385043315#2346906836_13L42648Q1670756388Q20",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385042956%232346909036_13L42648Q1-1195564899Q20",
+         "player": "Klay Thompson",
+         "price": -114,
+         "sid": "0QA385042956#2346909036_13L42648Q1-1195564899Q20",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385042956%232346909037_13L42648Q1-1442238935Q20",
+         "player": "Klay Thompson",
+         "price": -112,
+         "sid": "0QA385042956#2346909037_13L42648Q1-1442238935Q20",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043443%232346286269_13L42648Q11720844938Q20",
+         "player": "Quentin Grimes",
+         "price": -130,
+         "sid": "0QA385043443#2346286269_13L42648Q11720844938Q20",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043443%232346286270_13L42648Q11948178340Q20",
+         "player": "Quentin Grimes",
+         "price": 102,
+         "sid": "0QA385043443#2346286270_13L42648Q11948178340Q20",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043293%232347661981_13L42648Q11720844938Q20",
+         "player": "Sandro Mamukelashvili",
+         "price": -121,
+         "sid": "0QA385043293#2347661981_13L42648Q11720844938Q20",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043293%232347661982_13L42648Q11948178340Q20",
+         "player": "Sandro Mamukelashvili",
+         "price": -106,
+         "sid": "0QA385043293#2347661982_13L42648Q11948178340Q20",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105360%232346698169_13L42648Q11720844938Q20",
+         "player": "Ziaire Williams",
+         "price": -118,
+         "sid": "0QA385105360#2346698169_13L42648Q11720844938Q20",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105360%232346698170_13L42648Q11948178340Q20",
+         "player": "Ziaire Williams",
+         "price": -108,
+         "sid": "0QA385105360#2346698170_13L42648Q11948178340Q20",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043439%232346282350_13L42648Q1511222344Q20",
+         "player": "Matisse Thybulle",
+         "price": -121,
+         "sid": "0QA385043439#2346282350_13L42648Q1511222344Q20",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043439%232346282366_13L42648Q1-1758311513Q20",
+         "player": "Matisse Thybulle",
+         "price": -106,
+         "sid": "0QA385043439#2346282366_13L42648Q1-1758311513Q20",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043171%232346695905_13L42648Q1-1554373190Q20",
+         "player": "Jake LaRavia",
+         "price": 101,
+         "sid": "0QA385043171#2346695905_13L42648Q1-1554373190Q20",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043171%232346695906_13L42648Q12036065197Q20",
+         "player": "Jake LaRavia",
+         "price": -129,
+         "sid": "0QA385043171#2346695906_13L42648Q12036065197Q20",
+         "side": "Under"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/nba/miami-heat-%40-los-angeles-lakers-36262185",
+       "event_sid": "36262185",
+       "last_update": "2026-11-03T01:42:10Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622071153&selectionId=42119780",
+         "player": "Sandro Mamukelashvili",
+         "price": -108,
+         "sid": "42119780",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622071153&selectionId=42119779",
+         "player": "Sandro Mamukelashvili",
+         "price": -118,
+         "sid": "42119779",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867406&selectionId=40195572",
+         "player": "Davion Mitchell",
+         "price": -104,
+         "sid": "40195572",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867406&selectionId=40195573",
+         "player": "Davion Mitchell",
+         "price": -122,
+         "sid": "40195573",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867179&selectionId=22043940",
+         "player": "Bam Adebayo",
+         "price": -120,
+         "sid": "22043940",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867179&selectionId=22043941",
+         "player": "Bam Adebayo",
+         "price": -104,
+         "sid": "22043941",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867586&selectionId=27661447",
+         "player": "Matisse Thybulle",
+         "price": -120,
+         "sid": "27661447",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867586&selectionId=27661448",
+         "player": "Matisse Thybulle",
+         "price": -106,
+         "sid": "27661448",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867440&selectionId=12260608",
+         "player": "Klay Thompson",
+         "price": -128,
+         "sid": "12260608",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867440&selectionId=12260607",
+         "player": "Klay Thompson",
+         "price": 100,
+         "sid": "12260607",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867214&selectionId=43049096",
+         "player": "Walker Kessler",
+         "price": -104,
+         "sid": "43049096",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867214&selectionId=43049095",
+         "player": "Walker Kessler",
+         "price": -122,
+         "sid": "43049095",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622072731&selectionId=42067800",
+         "player": "Quentin Grimes",
+         "price": -108,
+         "sid": "42067800",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622072731&selectionId=42067801",
+         "player": "Quentin Grimes",
+         "price": -118,
+         "sid": "42067801",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867624&selectionId=50113210",
+         "player": "Pelle Larsson",
+         "price": -104,
+         "sid": "50113210",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867624&selectionId=50113212",
+         "player": "Pelle Larsson",
+         "price": -122,
+         "sid": "50113212",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867470&selectionId=90251254",
+         "player": "Jake LaRavia",
+         "price": -136,
+         "sid": "90251254",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867470&selectionId=90251266",
+         "player": "Jake LaRavia",
+         "price": 106,
+         "sid": "90251266",
+         "side": "Under"
+        },
+        {
+         "line": 33.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866693&selectionId=12463224",
+         "player": "Luka Doncic",
+         "price": -104,
+         "sid": "12463224",
+         "side": "Over"
+        },
+        {
+         "line": 33.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866693&selectionId=12463223",
+         "player": "Luka Doncic",
+         "price": -122,
+         "sid": "12463223",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867341&selectionId=12257194",
+         "player": "Andrew Wiggins",
+         "price": 100,
+         "sid": "12257194",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867341&selectionId=12257195",
+         "player": "Andrew Wiggins",
+         "price": -128,
+         "sid": "12257195",
+         "side": "Under"
+        },
+        {
+         "line": 23.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867003&selectionId=41574998",
+         "player": "Austin Reaves",
+         "price": -106,
+         "sid": "41574998",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867003&selectionId=41574999",
+         "player": "Austin Reaves",
+         "price": -120,
+         "sid": "41574999",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622069643&selectionId=40297002",
+         "player": "Ziaire Williams",
+         "price": -132,
+         "sid": "40297002",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622069643&selectionId=40297001",
+         "player": "Ziaire Williams",
+         "price": 104,
+         "sid": "40297001",
+         "side": "Under"
+        },
+        {
+         "line": 29.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866849&selectionId=12234475",
+         "player": "Giannis Antetokounmpo",
+         "price": -122,
+         "sid": "12234475",
+         "side": "Over"
+        },
+        {
+         "line": 29.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866849&selectionId=12234474",
+         "player": "Giannis Antetokounmpo",
+         "price": -104,
+         "sid": "12234474",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867656&selectionId=12665177",
+         "player": "Bobby Portis",
+         "price": -122,
+         "sid": "12665177",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867656&selectionId=12665178",
+         "player": "Bobby Portis",
+         "price": -104,
+         "sid": "12665178",
+         "side": "Under"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-03T01:42:12Z",
+     "kind": "lock",
+     "minutes_to_tip": 87.8,
+     "raw": "raw/2026-11-02/f4e4165c2b9e53531629f6d0ab982b13-player_points-lock-20261103T014212831933Z.json",
+     "rev": 1
+    }
+   ],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|heat@lakers|player_rebounds": {
+   "api_away": "Miami Heat",
+   "api_home": "Los Angeles Lakers",
+   "away": "Heat",
+   "commence_time": "2026-11-03T03:10:00Z",
+   "event_id": "f4e4165c2b9e53531629f6d0ab982b13",
+   "home": "Lakers",
+   "issues": [],
+   "market": "player_rebounds",
+   "players": [],
+   "requested_rev": 1,
+   "snapshots": [
+    {
+     "books": {
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/miami-heat-at-los-angeles-lakers-20031533",
+       "event_sid": "20031533",
+       "last_update": "2026-11-03T01:41:23Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354545-7072835&type=Single",
+         "player": "Matisse Thybulle",
+         "price": -110,
+         "sid": "7072835",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354545-7072836&type=Single",
+         "player": "Matisse Thybulle",
+         "price": -120,
+         "sid": "7072836",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354542-7072829&type=Single",
+         "player": "Jake LaRavia",
+         "price": -120,
+         "sid": "7072829",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354542-7072830&type=Single",
+         "player": "Jake LaRavia",
+         "price": -110,
+         "sid": "7072830",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354536-7072817&type=Single",
+         "player": "Austin Reaves",
+         "price": -150,
+         "sid": "7072817",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354536-7072818&type=Single",
+         "player": "Austin Reaves",
+         "price": 110,
+         "sid": "7072818",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354584-7072911&type=Single",
+         "player": "Davion Mitchell",
+         "price": 105,
+         "sid": "7072911",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354584-7072912&type=Single",
+         "player": "Davion Mitchell",
+         "price": -140,
+         "sid": "7072912",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354589-7072915&type=Single",
+         "player": "Luka Doncic",
+         "price": -105,
+         "sid": "7072915",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354589-7072916&type=Single",
+         "player": "Luka Doncic",
+         "price": -125,
+         "sid": "7072916",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354581-7072909&type=Single",
+         "player": "Walker Kessler",
+         "price": 105,
+         "sid": "7072909",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354581-7072910&type=Single",
+         "player": "Walker Kessler",
+         "price": -140,
+         "sid": "7072910",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354648-7073041&type=Single",
+         "player": "Giannis Antetokounmpo",
+         "price": -105,
+         "sid": "7073041",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354648-7073042&type=Single",
+         "player": "Giannis Antetokounmpo",
+         "price": -125,
+         "sid": "7073042",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354649-7073043&type=Single",
+         "player": "Bam Adebayo",
+         "price": -120,
+         "sid": "7073043",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354649-7073044&type=Single",
+         "player": "Bam Adebayo",
+         "price": -110,
+         "sid": "7073044",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354650-7073045&type=Single",
+         "player": "Andrew Wiggins",
+         "price": -155,
+         "sid": "7073045",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4354650-7073046&type=Single",
+         "player": "Andrew Wiggins",
+         "price": 115,
+         "sid": "7073046",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4357956-7079783&type=Single",
+         "player": "Bobby Portis",
+         "price": 105,
+         "sid": "7079783",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4357956-7079784&type=Single",
+         "player": "Bobby Portis",
+         "price": -140,
+         "sid": "7079784",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4359848-7083273&type=Single",
+         "player": "Pelle Larsson",
+         "price": -111,
+         "sid": "7083273",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4359848-7083274&type=Single",
+         "player": "Pelle Larsson",
+         "price": -118,
+         "sid": "7083274",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4362543-7087084&type=Single",
+         "player": "Quentin Grimes",
+         "price": 115,
+         "sid": "7087084",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4362543-7087085&type=Single",
+         "player": "Quentin Grimes",
+         "price": -155,
+         "sid": "7087085",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4362555-7087108&type=Single",
+         "player": "Sandro Mamukelashvili",
+         "price": -120,
+         "sid": "7087108",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48607-4362555-7087109&type=Single",
+         "player": "Sandro Mamukelashvili",
+         "price": -111,
+         "sid": "7087109",
+         "side": "Under"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/34936981",
+       "event_sid": "34936981",
+       "last_update": "2026-11-03T01:42:05Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043486%232346923125_13L42648Q1-1455563980Q20",
+         "player": "Giannis Antetokounmpo",
+         "price": 100,
+         "sid": "0QA385043486#2346923125_13L42648Q1-1455563980Q20",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043486%232346923126_13L42648Q11950259446Q20",
+         "player": "Giannis Antetokounmpo",
+         "price": -132,
+         "sid": "0QA385043486#2346923126_13L42648Q11950259446Q20",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043365%232346921160_13L42648Q1104657759Q20",
+         "player": "Walker Kessler",
+         "price": 103,
+         "sid": "0QA385043365#2346921160_13L42648Q1104657759Q20",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043365%232346921161_13L42648Q1-330652014Q20",
+         "player": "Walker Kessler",
+         "price": -135,
+         "sid": "0QA385043365#2346921161_13L42648Q1-330652014Q20",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043250%232346282283_13L42648Q1-1060930342Q20",
+         "player": "Bam Adebayo",
+         "price": -121,
+         "sid": "0QA385043250#2346282283_13L42648Q1-1060930342Q20",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043250%232346282295_13L42648Q1-1958042016Q20",
+         "player": "Bam Adebayo",
+         "price": -108,
+         "sid": "0QA385043250#2346282295_13L42648Q1-1958042016Q20",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043726%232346283742_13L42648Q1-25326551Q20",
+         "player": "Luka Doncic",
+         "price": 101,
+         "sid": "0QA385043726#2346283742_13L42648Q1-25326551Q20",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043726%232346283780_13L42648Q1-877137389Q20",
+         "player": "Luka Doncic",
+         "price": -133,
+         "sid": "0QA385043726#2346283780_13L42648Q1-877137389Q20",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043758%232346291289_13L42648Q1210220610Q20",
+         "player": "Bobby Portis",
+         "price": -148,
+         "sid": "0QA385043758#2346291289_13L42648Q1210220610Q20",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043758%232346291290_13L42648Q1-459759634Q20",
+         "player": "Bobby Portis",
+         "price": 112,
+         "sid": "0QA385043758#2346291290_13L42648Q1-459759634Q20",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043722%232346286298_13L42648Q1-150170292Q20",
+         "player": "Sandro Mamukelashvili",
+         "price": -112,
+         "sid": "0QA385043722#2346286298_13L42648Q1-150170292Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043722%232346286299_13L42648Q1-1659398539Q20",
+         "player": "Sandro Mamukelashvili",
+         "price": -118,
+         "sid": "0QA385043722#2346286299_13L42648Q1-1659398539Q20",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043512%232346921025_13L42648Q11299195355Q20",
+         "player": "Austin Reaves",
+         "price": -158,
+         "sid": "0QA385043512#2346921025_13L42648Q11299195355Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043512%232346921026_13L42648Q1647990913Q20",
+         "player": "Austin Reaves",
+         "price": 120,
+         "sid": "0QA385043512#2346921026_13L42648Q1647990913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043378%232346282489_13L42648Q11299195355Q20",
+         "player": "Andrew Wiggins",
+         "price": -147,
+         "sid": "0QA385043378#2346282489_13L42648Q11299195355Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043378%232346282597_13L42648Q1647990913Q20",
+         "player": "Andrew Wiggins",
+         "price": 111,
+         "sid": "0QA385043378#2346282597_13L42648Q1647990913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043685%232346284026_13L42648Q11299195355Q20",
+         "player": "Jake LaRavia",
+         "price": -111,
+         "sid": "0QA385043685#2346284026_13L42648Q11299195355Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043685%232346284060_13L42648Q1647990913Q20",
+         "player": "Jake LaRavia",
+         "price": -118,
+         "sid": "0QA385043685#2346284060_13L42648Q1647990913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043058%232346924910_13L42648Q11299195355Q20",
+         "player": "Pelle Larsson",
+         "price": 102,
+         "sid": "0QA385043058#2346924910_13L42648Q11299195355Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043058%232346924911_13L42648Q1647990913Q20",
+         "player": "Pelle Larsson",
+         "price": -134,
+         "sid": "0QA385043058#2346924911_13L42648Q1647990913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043076%232346281652_13L42648Q11299195355Q20",
+         "player": "Quentin Grimes",
+         "price": 123,
+         "sid": "0QA385043076#2346281652_13L42648Q11299195355Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043076%232346281672_13L42648Q1647990913Q20",
+         "player": "Quentin Grimes",
+         "price": -162,
+         "sid": "0QA385043076#2346281672_13L42648Q1647990913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043004%232346922005_13L42648Q12005697320Q20",
+         "player": "Matisse Thybulle",
+         "price": -115,
+         "sid": "0QA385043004#2346922005_13L42648Q12005697320Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043004%232346922006_13L42648Q1-9439206Q20",
+         "player": "Matisse Thybulle",
+         "price": -115,
+         "sid": "0QA385043004#2346922006_13L42648Q1-9439206Q20",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043730%232346291326_13L42648Q12005697320Q20",
+         "player": "Davion Mitchell",
+         "price": 101,
+         "sid": "0QA385043730#2346291326_13L42648Q12005697320Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385043730%232346291328_13L42648Q1-9439206Q20",
+         "player": "Davion Mitchell",
+         "price": -133,
+         "sid": "0QA385043730#2346291328_13L42648Q1-9439206Q20",
+         "side": "Under"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/nba/miami-heat-%40-los-angeles-lakers-36262185",
+       "event_sid": "36262185",
+       "last_update": "2026-11-03T01:42:10Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622071154&selectionId=42119780",
+         "player": "Sandro Mamukelashvili",
+         "price": -104,
+         "sid": "42119780",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622071154&selectionId=42119779",
+         "player": "Sandro Mamukelashvili",
+         "price": -122,
+         "sid": "42119779",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867180&selectionId=22043940",
+         "player": "Bam Adebayo",
+         "price": -106,
+         "sid": "22043940",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867180&selectionId=22043941",
+         "player": "Bam Adebayo",
+         "price": -120,
+         "sid": "22043941",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867407&selectionId=40195572",
+         "player": "Davion Mitchell",
+         "price": -106,
+         "sid": "40195572",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867407&selectionId=40195573",
+         "player": "Davion Mitchell",
+         "price": -120,
+         "sid": "40195573",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867215&selectionId=43049096",
+         "player": "Walker Kessler",
+         "price": -102,
+         "sid": "43049096",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867215&selectionId=43049095",
+         "player": "Walker Kessler",
+         "price": -125,
+         "sid": "43049095",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867615&selectionId=27661447",
+         "player": "Matisse Thybulle",
+         "price": -113,
+         "sid": "27661447",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867615&selectionId=27661448",
+         "player": "Matisse Thybulle",
+         "price": -113,
+         "sid": "27661448",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867471&selectionId=90251254",
+         "player": "Jake LaRavia",
+         "price": -104,
+         "sid": "90251254",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867471&selectionId=90251266",
+         "player": "Jake LaRavia",
+         "price": -122,
+         "sid": "90251266",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867625&selectionId=50113210",
+         "player": "Pelle Larsson",
+         "price": 102,
+         "sid": "50113210",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867625&selectionId=50113212",
+         "player": "Pelle Larsson",
+         "price": -130,
+         "sid": "50113212",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867004&selectionId=41574998",
+         "player": "Austin Reaves",
+         "price": -156,
+         "sid": "41574998",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867004&selectionId=41574999",
+         "player": "Austin Reaves",
+         "price": 122,
+         "sid": "41574999",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867342&selectionId=12257194",
+         "player": "Andrew Wiggins",
+         "price": -148,
+         "sid": "12257194",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867342&selectionId=12257195",
+         "player": "Andrew Wiggins",
+         "price": 116,
+         "sid": "12257195",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866850&selectionId=12234475",
+         "player": "Giannis Antetokounmpo",
+         "price": -104,
+         "sid": "12234475",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866850&selectionId=12234474",
+         "player": "Giannis Antetokounmpo",
+         "price": -122,
+         "sid": "12234474",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867657&selectionId=12665177",
+         "player": "Bobby Portis",
+         "price": 108,
+         "sid": "12665177",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621867657&selectionId=12665178",
+         "player": "Bobby Portis",
+         "price": -138,
+         "sid": "12665178",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866695&selectionId=12463224",
+         "player": "Luka Doncic",
+         "price": 116,
+         "sid": "12463224",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866695&selectionId=12463223",
+         "player": "Luka Doncic",
+         "price": -148,
+         "sid": "12463223",
+         "side": "Under"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-03T01:42:12Z",
+     "kind": "lock",
+     "minutes_to_tip": 87.8,
+     "raw": "raw/2026-11-02/f4e4165c2b9e53531629f6d0ab982b13-player_rebounds-lock-20261103T014212831933Z.json",
+     "rev": 1
+    }
+   ],
+   "sport": "basketball_nba"
+  },
   "basketball_nba|pelicans@grizzlies|player_points": {
    "api_away": "New Orleans Pelicans",
    "api_home": "Memphis Grizzlies",
    "away": "Pelicans",
-   "commence_time": "2026-11-03T01:10:00Z",
+   "commence_time": "2026-11-03T01:11:33Z",
    "event_id": "6579d9162df09172d12f48eecc5220fb",
    "home": "Grizzlies",
-   "issues": [],
+   "issues": [
+    "no close snapshot before start"
+   ],
    "market": "player_points",
    "players": [],
    "requested_rev": 1,
@@ -3520,10 +4946,12 @@
    "api_away": "Detroit Pistons",
    "api_home": "Charlotte Hornets",
    "away": "Pistons",
-   "commence_time": "2026-11-03T00:40:00Z",
+   "commence_time": "2026-11-03T00:41:04Z",
    "event_id": "fdf913d713fd5851d418c59872bdf265",
    "home": "Hornets",
-   "issues": [],
+   "issues": [
+    "no close snapshot before start"
+   ],
    "market": "player_rebounds",
    "players": [],
    "requested_rev": 1,
@@ -4079,14 +5507,2276 @@
    ],
    "sport": "basketball_nba"
   },
+  "basketball_nba|raptors@clippers|player_points": {
+   "api_away": "Toronto Raptors",
+   "api_home": "Los Angeles Clippers",
+   "away": "Raptors",
+   "commence_time": "2026-11-03T03:10:00Z",
+   "event_id": "afde8462706839f30115ea9d5f761066",
+   "home": "Clippers",
+   "issues": [],
+   "market": "player_points",
+   "players": [],
+   "requested_rev": 1,
+   "snapshots": [
+    {
+     "books": {
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/toronto-raptors-at-los-angeles-clippers-20031532",
+       "event_sid": "20031532",
+       "last_update": "2026-11-03T01:41:21Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 22.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4353255-7070272&type=Single",
+         "player": "Scottie Barnes",
+         "price": -135,
+         "sid": "7070272",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4353255-7070273&type=Single",
+         "player": "Scottie Barnes",
+         "price": 100,
+         "sid": "7070273",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4353277-7070316&type=Single",
+         "player": "Immanuel Quickley",
+         "price": -115,
+         "sid": "7070316",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4353277-7070317&type=Single",
+         "player": "Immanuel Quickley",
+         "price": -115,
+         "sid": "7070317",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4358053-7079936&type=Single",
+         "player": "Keaton Wagler",
+         "price": -125,
+         "sid": "7079936",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4358053-7079937&type=Single",
+         "player": "Keaton Wagler",
+         "price": -105,
+         "sid": "7079937",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4360263-7083950&type=Single",
+         "player": "Kris Dunn",
+         "price": -125,
+         "sid": "7083950",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4360263-7083951&type=Single",
+         "player": "Kris Dunn",
+         "price": -105,
+         "sid": "7083951",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4360977-7084935&type=Single",
+         "player": "Jamal Shead",
+         "price": -125,
+         "sid": "7084935",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4360977-7084936&type=Single",
+         "player": "Jamal Shead",
+         "price": -105,
+         "sid": "7084936",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4361218-7085256&type=Single",
+         "player": "R.J. Barrett",
+         "price": -105,
+         "sid": "7085256",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4361218-7085257&type=Single",
+         "player": "R.J. Barrett",
+         "price": -125,
+         "sid": "7085257",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4361223-7085266&type=Single",
+         "player": "Collin Murray-Boyles",
+         "price": -130,
+         "sid": "7085266",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4361223-7085267&type=Single",
+         "player": "Collin Murray-Boyles",
+         "price": -105,
+         "sid": "7085267",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4361227-7085274&type=Single",
+         "player": "Ja'Kobe Walter",
+         "price": -115,
+         "sid": "7085274",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4361227-7085275&type=Single",
+         "player": "Ja'Kobe Walter",
+         "price": -115,
+         "sid": "7085275",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4361346-7085434&type=Single",
+         "player": "Darius Garland",
+         "price": -125,
+         "sid": "7085434",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4361346-7085435&type=Single",
+         "player": "Darius Garland",
+         "price": -105,
+         "sid": "7085435",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4362022-7086365&type=Single",
+         "player": "Kobe Sanders",
+         "price": -105,
+         "sid": "7086365",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4362022-7086366&type=Single",
+         "player": "Kobe Sanders",
+         "price": -125,
+         "sid": "7086366",
+         "side": "Under"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/34936982",
+       "event_sid": "34936982",
+       "last_update": "2026-11-03T01:42:05Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 23.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105554%232346927215_13L42648Q1716010109Q20",
+         "player": "Scottie Barnes",
+         "price": -103,
+         "sid": "0QA385105554#2346927215_13L42648Q1716010109Q20",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105554%232346927216_13L42648Q1-246698947Q20",
+         "player": "Scottie Barnes",
+         "price": -124,
+         "sid": "0QA385105554#2346927216_13L42648Q1-246698947Q20",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106225%232346707280_13L42648Q11931915178Q20",
+         "player": "Darius Garland",
+         "price": -115,
+         "sid": "0QA385106225#2346707280_13L42648Q11931915178Q20",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106225%232346707281_13L42648Q12094929165Q20",
+         "player": "Darius Garland",
+         "price": -110,
+         "sid": "0QA385106225#2346707281_13L42648Q12094929165Q20",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105998%232346701480_13L42648Q1-397227034Q20",
+         "player": "R.J. Barrett",
+         "price": -114,
+         "sid": "0QA385105998#2346701480_13L42648Q1-397227034Q20",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105998%232346701481_13L42648Q1324820851Q20",
+         "player": "R.J. Barrett",
+         "price": -112,
+         "sid": "0QA385105998#2346701481_13L42648Q1324820851Q20",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106152%232346710624_13L42648Q1-259387031Q20",
+         "player": "Immanuel Quickley",
+         "price": -119,
+         "sid": "0QA385106152#2346710624_13L42648Q1-259387031Q20",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106152%232346710625_13L42648Q1-815980538Q20",
+         "player": "Immanuel Quickley",
+         "price": -107,
+         "sid": "0QA385106152#2346710625_13L42648Q1-815980538Q20",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105855%232346700158_13L42648Q1-1855597963Q20",
+         "player": "Keaton Wagler",
+         "price": -117,
+         "sid": "0QA385105855#2346700158_13L42648Q1-1855597963Q20",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105855%232346700235_13L42648Q1-23932598Q20",
+         "player": "Keaton Wagler",
+         "price": -109,
+         "sid": "0QA385105855#2346700235_13L42648Q1-23932598Q20",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105913%232346925702_13L42648Q1-1662826468Q20",
+         "player": "Ja'Kobe Walter",
+         "price": -110,
+         "sid": "0QA385105913#2346925702_13L42648Q1-1662826468Q20",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105913%232346925703_13L42648Q1-1693375913Q20",
+         "player": "Ja'Kobe Walter",
+         "price": -116,
+         "sid": "0QA385105913#2346925703_13L42648Q1-1693375913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106275%232347630474_13L42648Q11964356459Q20",
+         "player": "Collin Murray-Boyles",
+         "price": -122,
+         "sid": "0QA385106275#2347630474_13L42648Q11964356459Q20",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106275%232347630475_13L42648Q1670756388Q20",
+         "player": "Collin Murray-Boyles",
+         "price": -104,
+         "sid": "0QA385106275#2347630475_13L42648Q1670756388Q20",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105653%232346699112_13L42648Q11964356459Q20",
+         "player": "Kobe Sanders",
+         "price": -118,
+         "sid": "0QA385105653#2346699112_13L42648Q11964356459Q20",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105653%232346699174_13L42648Q1670756388Q20",
+         "player": "Kobe Sanders",
+         "price": -108,
+         "sid": "0QA385105653#2346699174_13L42648Q1670756388Q20",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105809%232347142304_13L42648Q11720844938Q20",
+         "player": "Isaiah Jackson",
+         "price": 103,
+         "sid": "0QA385105809#2347142304_13L42648Q11720844938Q20",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105809%232347142305_13L42648Q11948178340Q20",
+         "player": "Isaiah Jackson",
+         "price": -131,
+         "sid": "0QA385105809#2347142305_13L42648Q11948178340Q20",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105670%232346700033_13L42648Q11720844938Q20",
+         "player": "Jakob Poeltl",
+         "price": 104,
+         "sid": "0QA385105670#2346700033_13L42648Q11720844938Q20",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105670%232346700118_13L42648Q11948178340Q20",
+         "player": "Jakob Poeltl",
+         "price": -132,
+         "sid": "0QA385105670#2346700118_13L42648Q11948178340Q20",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105987%232347141918_13L42648Q1511222344Q20",
+         "player": "Kris Dunn",
+         "price": -117,
+         "sid": "0QA385105987#2347141918_13L42648Q1511222344Q20",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105987%232347141919_13L42648Q1-1758311513Q20",
+         "player": "Kris Dunn",
+         "price": -109,
+         "sid": "0QA385105987#2347141919_13L42648Q1-1758311513Q20",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106260%232346700597_13L42648Q1-1554373190Q20",
+         "player": "Jamal Shead",
+         "price": -128,
+         "sid": "0QA385106260#2346700597_13L42648Q1-1554373190Q20",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106260%232346700648_13L42648Q12036065197Q20",
+         "player": "Jamal Shead",
+         "price": 101,
+         "sid": "0QA385106260#2346700648_13L42648Q12036065197Q20",
+         "side": "Under"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/nba/toronto-raptors-%40-los-angeles-clippers-36262179",
+       "event_sid": "36262179",
+       "last_update": "2026-11-03T01:42:07Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622095811&selectionId=50344417",
+         "player": "Gradey Dick",
+         "price": 108,
+         "sid": "50344417",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622095811&selectionId=50344418",
+         "player": "Gradey Dick",
+         "price": -138,
+         "sid": "50344418",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622065746&selectionId=26610065",
+         "player": "Darius Garland",
+         "price": -122,
+         "sid": "26610065",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622065746&selectionId=26610066",
+         "player": "Darius Garland",
+         "price": -104,
+         "sid": "26610066",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621869732&selectionId=24729449",
+         "player": "R.J. Barrett",
+         "price": 100,
+         "sid": "24729449",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621869732&selectionId=24729450",
+         "player": "R.J. Barrett",
+         "price": -128,
+         "sid": "24729450",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621869900&selectionId=38389172",
+         "player": "Immanuel Quickley",
+         "price": -106,
+         "sid": "38389172",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621869900&selectionId=38389173",
+         "player": "Immanuel Quickley",
+         "price": -120,
+         "sid": "38389173",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621871358&selectionId=91484441",
+         "player": "Keaton Wagler",
+         "price": -102,
+         "sid": "91484441",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621871358&selectionId=91484443",
+         "player": "Keaton Wagler",
+         "price": -125,
+         "sid": "91484443",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621936090&selectionId=16115331",
+         "player": "Kris Dunn",
+         "price": -130,
+         "sid": "16115331",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621936090&selectionId=16115332",
+         "player": "Kris Dunn",
+         "price": 102,
+         "sid": "16115332",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622049352&selectionId=65925589",
+         "player": "Collin Murray-Boyles",
+         "price": 100,
+         "sid": "65925589",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622049352&selectionId=65925572",
+         "player": "Collin Murray-Boyles",
+         "price": -128,
+         "sid": "65925572",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622049353&selectionId=43166207",
+         "player": "Jamal Shead",
+         "price": -132,
+         "sid": "43166207",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622049353&selectionId=43166206",
+         "player": "Jamal Shead",
+         "price": 104,
+         "sid": "43166206",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621927656&selectionId=23936961",
+         "player": "Jakob Poeltl",
+         "price": -132,
+         "sid": "23936961",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621927656&selectionId=23936962",
+         "player": "Jakob Poeltl",
+         "price": 106,
+         "sid": "23936962",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621927657&selectionId=62606687",
+         "player": "Ja'Kobe Walter",
+         "price": 104,
+         "sid": "62606687",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621927657&selectionId=62606690",
+         "player": "Ja'Kobe Walter",
+         "price": -132,
+         "sid": "62606690",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621869456&selectionId=40221569",
+         "player": "Scottie Barnes",
+         "price": -130,
+         "sid": "40221569",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621869456&selectionId=40221568",
+         "player": "Scottie Barnes",
+         "price": 102,
+         "sid": "40221568",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621935682&selectionId=40296812",
+         "player": "Isaiah Jackson",
+         "price": -122,
+         "sid": "40296812",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621935682&selectionId=40296813",
+         "player": "Isaiah Jackson",
+         "price": -104,
+         "sid": "40296813",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622071278&selectionId=76520841",
+         "player": "Kobe Sanders",
+         "price": -122,
+         "sid": "76520841",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622071278&selectionId=76520842",
+         "player": "Kobe Sanders",
+         "price": -104,
+         "sid": "76520842",
+         "side": "Under"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-03T01:42:12Z",
+     "kind": "lock",
+     "minutes_to_tip": 87.8,
+     "raw": "raw/2026-11-02/afde8462706839f30115ea9d5f761066-player_points-lock-20261103T014212831933Z.json",
+     "rev": 1
+    }
+   ],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|raptors@clippers|player_rebounds": {
+   "api_away": "Toronto Raptors",
+   "api_home": "Los Angeles Clippers",
+   "away": "Raptors",
+   "commence_time": "2026-11-03T03:10:00Z",
+   "event_id": "afde8462706839f30115ea9d5f761066",
+   "home": "Clippers",
+   "issues": [],
+   "market": "player_rebounds",
+   "players": [],
+   "requested_rev": 1,
+   "snapshots": [
+    {
+     "books": {
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/toronto-raptors-at-los-angeles-clippers-20031532",
+       "event_sid": "20031532",
+       "last_update": "2026-11-03T01:41:21Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 5.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4353302-7070366&type=Single",
+         "player": "R.J. Barrett",
+         "price": -145,
+         "sid": "7070366",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4353302-7070367&type=Single",
+         "player": "R.J. Barrett",
+         "price": 105,
+         "sid": "7070367",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4353264-7070290&type=Single",
+         "player": "Scottie Barnes",
+         "price": 100,
+         "sid": "7070290",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4353264-7070291&type=Single",
+         "player": "Scottie Barnes",
+         "price": -135,
+         "sid": "7070291",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4353274-7070308&type=Single",
+         "player": "Immanuel Quickley",
+         "price": -140,
+         "sid": "7070308",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4353274-7070309&type=Single",
+         "player": "Immanuel Quickley",
+         "price": 105,
+         "sid": "7070309",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4353295-7070352&type=Single",
+         "player": "Ja'Kobe Walter",
+         "price": -125,
+         "sid": "7070352",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4353295-7070353&type=Single",
+         "player": "Ja'Kobe Walter",
+         "price": -105,
+         "sid": "7070353",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4357224-7078479&type=Single",
+         "player": "Keaton Wagler",
+         "price": -105,
+         "sid": "7078479",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4357224-7078480&type=Single",
+         "player": "Keaton Wagler",
+         "price": -125,
+         "sid": "7078480",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4361214-7085250&type=Single",
+         "player": "Kris Dunn",
+         "price": -110,
+         "sid": "7085250",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4361214-7085251&type=Single",
+         "player": "Kris Dunn",
+         "price": -120,
+         "sid": "7085251",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4361231-7085282&type=Single",
+         "player": "Collin Murray-Boyles",
+         "price": -110,
+         "sid": "7085282",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48600-4361231-7085283&type=Single",
+         "player": "Collin Murray-Boyles",
+         "price": -120,
+         "sid": "7085283",
+         "side": "Under"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/34936982",
+       "event_sid": "34936982",
+       "last_update": "2026-11-03T01:42:05Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105642%232346699098_13L42648Q1-25326551Q20",
+         "player": "Scottie Barnes",
+         "price": -105,
+         "sid": "0QA385105642#2346699098_13L42648Q1-25326551Q20",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105642%232346699110_13L42648Q1-877137389Q20",
+         "player": "Scottie Barnes",
+         "price": -125,
+         "sid": "0QA385105642#2346699110_13L42648Q1-877137389Q20",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105807%232347660531_13L42648Q1-732303018Q20",
+         "player": "Collin Murray-Boyles",
+         "price": -117,
+         "sid": "0QA385105807#2347660531_13L42648Q1-732303018Q20",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105807%232347660532_13L42648Q1-1595150841Q20",
+         "player": "Collin Murray-Boyles",
+         "price": -112,
+         "sid": "0QA385105807#2347660532_13L42648Q1-1595150841Q20",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106183%232347142783_13L42648Q1-732303018Q20",
+         "player": "Isaiah Jackson",
+         "price": 102,
+         "sid": "0QA385106183#2347142783_13L42648Q1-732303018Q20",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106183%232347142784_13L42648Q1-1595150841Q20",
+         "player": "Isaiah Jackson",
+         "price": -134,
+         "sid": "0QA385106183#2347142784_13L42648Q1-1595150841Q20",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105548%232346699011_13L42648Q1-732303018Q20",
+         "player": "Jakob Poeltl",
+         "price": 102,
+         "sid": "0QA385105548#2346699011_13L42648Q1-732303018Q20",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105548%232346699052_13L42648Q1-1595150841Q20",
+         "player": "Jakob Poeltl",
+         "price": -134,
+         "sid": "0QA385105548#2346699052_13L42648Q1-1595150841Q20",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105543%232346698934_13L42648Q1210220610Q20",
+         "player": "R.J. Barrett",
+         "price": -117,
+         "sid": "0QA385105543#2346698934_13L42648Q1210220610Q20",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105543%232346698963_13L42648Q1-459759634Q20",
+         "player": "R.J. Barrett",
+         "price": -113,
+         "sid": "0QA385105543#2346698963_13L42648Q1-459759634Q20",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105718%232347142889_13L42648Q1-150170292Q20",
+         "player": "Kris Dunn",
+         "price": 100,
+         "sid": "0QA385105718#2347142889_13L42648Q1-150170292Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105718%232347142890_13L42648Q1-1659398539Q20",
+         "player": "Kris Dunn",
+         "price": -132,
+         "sid": "0QA385105718#2347142890_13L42648Q1-1659398539Q20",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105721%232346699312_13L42648Q1-150170292Q20",
+         "player": "Keaton Wagler",
+         "price": 107,
+         "sid": "0QA385105721#2346699312_13L42648Q1-150170292Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105721%232346699426_13L42648Q1-1659398539Q20",
+         "player": "Keaton Wagler",
+         "price": -141,
+         "sid": "0QA385105721#2346699426_13L42648Q1-1659398539Q20",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106224%232346710605_13L42648Q11299195355Q20",
+         "player": "Ja'Kobe Walter",
+         "price": -138,
+         "sid": "0QA385106224#2346710605_13L42648Q11299195355Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106224%232346710606_13L42648Q1647990913Q20",
+         "player": "Ja'Kobe Walter",
+         "price": 105,
+         "sid": "0QA385106224#2346710606_13L42648Q1647990913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105937%232346699829_13L42648Q11299195355Q20",
+         "player": "Immanuel Quickley",
+         "price": -137,
+         "sid": "0QA385105937#2346699829_13L42648Q11299195355Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105937%232346699915_13L42648Q1647990913Q20",
+         "player": "Immanuel Quickley",
+         "price": 104,
+         "sid": "0QA385105937#2346699915_13L42648Q1647990913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105872%232347143725_13L42648Q11299195355Q20",
+         "player": "Kobe Sanders",
+         "price": -136,
+         "sid": "0QA385105872#2347143725_13L42648Q11299195355Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105872%232347143726_13L42648Q1647990913Q20",
+         "player": "Kobe Sanders",
+         "price": 103,
+         "sid": "0QA385105872#2347143726_13L42648Q1647990913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105946%232347680228_13L42648Q12005697320Q20",
+         "player": "Darius Garland",
+         "price": -175,
+         "sid": "0QA385105946#2347680228_13L42648Q12005697320Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385105946%232347680229_13L42648Q1-9439206Q20",
+         "player": "Darius Garland",
+         "price": 133,
+         "sid": "0QA385105946#2347680229_13L42648Q1-9439206Q20",
+         "side": "Under"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/nba/toronto-raptors-%40-los-angeles-clippers-36262179",
+       "event_sid": "36262179",
+       "last_update": "2026-11-03T01:42:07Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621869733&selectionId=24729449",
+         "player": "R.J. Barrett",
+         "price": -128,
+         "sid": "24729449",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621869733&selectionId=24729450",
+         "player": "R.J. Barrett",
+         "price": 100,
+         "sid": "24729450",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621869901&selectionId=38389172",
+         "player": "Immanuel Quickley",
+         "price": -113,
+         "sid": "38389172",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621869901&selectionId=38389173",
+         "player": "Immanuel Quickley",
+         "price": -113,
+         "sid": "38389173",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621871359&selectionId=91484441",
+         "player": "Keaton Wagler",
+         "price": 106,
+         "sid": "91484441",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621871359&selectionId=91484443",
+         "player": "Keaton Wagler",
+         "price": -136,
+         "sid": "91484443",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621869458&selectionId=40221569",
+         "player": "Scottie Barnes",
+         "price": 124,
+         "sid": "40221569",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621869458&selectionId=40221568",
+         "player": "Scottie Barnes",
+         "price": -160,
+         "sid": "40221568",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621936091&selectionId=16115331",
+         "player": "Kris Dunn",
+         "price": 116,
+         "sid": "16115331",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621936091&selectionId=16115332",
+         "player": "Kris Dunn",
+         "price": -148,
+         "sid": "16115332",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621927658&selectionId=23936961",
+         "player": "Jakob Poeltl",
+         "price": -106,
+         "sid": "23936961",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621927658&selectionId=23936962",
+         "player": "Jakob Poeltl",
+         "price": -120,
+         "sid": "23936962",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622049355&selectionId=43166207",
+         "player": "Jamal Shead",
+         "price": 142,
+         "sid": "43166207",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622049355&selectionId=43166206",
+         "player": "Jamal Shead",
+         "price": -186,
+         "sid": "43166206",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622049354&selectionId=65925589",
+         "player": "Collin Murray-Boyles",
+         "price": -108,
+         "sid": "65925589",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622049354&selectionId=65925572",
+         "player": "Collin Murray-Boyles",
+         "price": -118,
+         "sid": "65925572",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622065748&selectionId=26610065",
+         "player": "Darius Garland",
+         "price": 138,
+         "sid": "26610065",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622065748&selectionId=26610066",
+         "player": "Darius Garland",
+         "price": -180,
+         "sid": "26610066",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621927659&selectionId=62606687",
+         "player": "Ja'Kobe Walter",
+         "price": -136,
+         "sid": "62606687",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621927659&selectionId=62606690",
+         "player": "Ja'Kobe Walter",
+         "price": 106,
+         "sid": "62606690",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621935683&selectionId=40296812",
+         "player": "Isaiah Jackson",
+         "price": 100,
+         "sid": "40296812",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621935683&selectionId=40296813",
+         "player": "Isaiah Jackson",
+         "price": -128,
+         "sid": "40296813",
+         "side": "Under"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-03T01:42:12Z",
+     "kind": "lock",
+     "minutes_to_tip": 87.8,
+     "raw": "raw/2026-11-02/afde8462706839f30115ea9d5f761066-player_rebounds-lock-20261103T014212831933Z.json",
+     "rev": 1
+    }
+   ],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|suns@warriors|player_points": {
+   "api_away": "Phoenix Suns",
+   "api_home": "Golden State Warriors",
+   "away": "Suns",
+   "commence_time": "2026-11-03T03:10:00Z",
+   "event_id": "27c333f22603d4eda3b9b6a3888476dc",
+   "home": "Warriors",
+   "issues": [],
+   "market": "player_points",
+   "players": [],
+   "requested_rev": 1,
+   "snapshots": [
+    {
+     "books": {
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/phoenix-suns-at-golden-state-warriors-20031531",
+       "event_sid": "20031531",
+       "last_update": "2026-11-03T01:39:59Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351110-7065992&type=Single",
+         "player": "Khaman Maluach",
+         "price": -115,
+         "sid": "7065992",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351110-7065993&type=Single",
+         "player": "Khaman Maluach",
+         "price": -115,
+         "sid": "7065993",
+         "side": "Under"
+        },
+        {
+         "line": 23.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351149-7066068&type=Single",
+         "player": "Devin Booker",
+         "price": -115,
+         "sid": "7066068",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351149-7066069&type=Single",
+         "player": "Devin Booker",
+         "price": -115,
+         "sid": "7066069",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351192-7066152&type=Single",
+         "player": "Jordan Goodwin",
+         "price": -110,
+         "sid": "7066152",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351179-7066120&type=Single",
+         "player": "Miles Bridges",
+         "price": -105,
+         "sid": "7066120",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351179-7066121&type=Single",
+         "player": "Miles Bridges",
+         "price": -130,
+         "sid": "7066121",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351213-7066196&type=Single",
+         "player": "Collin Gillespie",
+         "price": -125,
+         "sid": "7066196",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351213-7066197&type=Single",
+         "player": "Collin Gillespie",
+         "price": -105,
+         "sid": "7066197",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351176-7066112&type=Single",
+         "player": "Draymond Green",
+         "price": 100,
+         "sid": "7066112",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351176-7066113&type=Single",
+         "player": "Draymond Green",
+         "price": -135,
+         "sid": "7066113",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4356121-7076367&type=Single",
+         "player": "Jalen Green",
+         "price": -115,
+         "sid": "7076367",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4356121-7076368&type=Single",
+         "player": "Jalen Green",
+         "price": -115,
+         "sid": "7076368",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4356579-7077276&type=Single",
+         "player": "Yaxel Lendeborg",
+         "price": -120,
+         "sid": "7077276",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4356579-7077277&type=Single",
+         "player": "Yaxel Lendeborg",
+         "price": -110,
+         "sid": "7077277",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4356589-7077291&type=Single",
+         "player": "Dillon Brooks",
+         "price": -111,
+         "sid": "7077291",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4356589-7077292&type=Single",
+         "player": "Dillon Brooks",
+         "price": -118,
+         "sid": "7077292",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4360642-7084447&type=Single",
+         "player": "Georges Niang",
+         "price": -120,
+         "sid": "7084447",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4360868-7084782&type=Single",
+         "player": "Brandin Podziemski",
+         "price": -105,
+         "sid": "7084782",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4360868-7084783&type=Single",
+         "player": "Brandin Podziemski",
+         "price": -125,
+         "sid": "7084783",
+         "side": "Under"
+        },
+        {
+         "line": 26.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4360999-7084966&type=Single",
+         "player": "Stephen Curry",
+         "price": -105,
+         "sid": "7084966",
+         "side": "Over"
+        },
+        {
+         "line": 26.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4360999-7084967&type=Single",
+         "player": "Stephen Curry",
+         "price": -125,
+         "sid": "7084967",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4365130-7091429&type=Single",
+         "player": "De'Anthony Melton",
+         "price": -135,
+         "sid": "7091429",
+         "side": "Over"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/34936980",
+       "event_sid": "34936980",
+       "last_update": "2026-11-03T01:41:20Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 23.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106828%232346936277_13L42648Q1716010109Q20",
+         "player": "Devin Booker",
+         "price": -114,
+         "sid": "0QA385106828#2346936277_13L42648Q1716010109Q20",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106828%232346936278_13L42648Q1-246698947Q20",
+         "player": "Devin Booker",
+         "price": -112,
+         "sid": "0QA385106828#2346936278_13L42648Q1-246698947Q20",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106586%232346706010_13L42648Q1-692842954Q20",
+         "player": "Yaxel Lendeborg",
+         "price": -102,
+         "sid": "0QA385106586#2346706010_13L42648Q1-692842954Q20",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106586%232346706011_13L42648Q1-238425594Q20",
+         "player": "Yaxel Lendeborg",
+         "price": -125,
+         "sid": "0QA385106586#2346706011_13L42648Q1-238425594Q20",
+         "side": "Under"
+        },
+        {
+         "line": 16.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106807%232346703783_13L42648Q12120712626Q20",
+         "player": "Miles Bridges",
+         "price": -116,
+         "sid": "0QA385106807#2346703783_13L42648Q12120712626Q20",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106807%232346703828_13L42648Q1351768104Q20",
+         "player": "Miles Bridges",
+         "price": -110,
+         "sid": "0QA385106807#2346703828_13L42648Q1351768104Q20",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106980%232346934079_13L42648Q1-1402818428Q20",
+         "player": "Jalen Green",
+         "price": -111,
+         "sid": "0QA385106980#2346934079_13L42648Q1-1402818428Q20",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106980%232346934080_13L42648Q11172504274Q20",
+         "player": "Jalen Green",
+         "price": -115,
+         "sid": "0QA385106980#2346934080_13L42648Q11172504274Q20",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106700%232346928694_13L42648Q1-1402818428Q20",
+         "player": "Dillon Brooks",
+         "price": -106,
+         "sid": "0QA385106700#2346928694_13L42648Q1-1402818428Q20",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106700%232346928695_13L42648Q11172504274Q20",
+         "player": "Dillon Brooks",
+         "price": -121,
+         "sid": "0QA385106700#2346928695_13L42648Q11172504274Q20",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106979%232346704236_13L42648Q1-1195564899Q20",
+         "player": "Collin Gillespie",
+         "price": -123,
+         "sid": "0QA385106979#2346704236_13L42648Q1-1195564899Q20",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106979%232346704238_13L42648Q1-1442238935Q20",
+         "player": "Collin Gillespie",
+         "price": -103,
+         "sid": "0QA385106979#2346704238_13L42648Q1-1442238935Q20",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106679%232346703081_13L42648Q1511222344Q20",
+         "player": "Khaman Maluach",
+         "price": -124,
+         "sid": "0QA385106679#2346703081_13L42648Q1511222344Q20",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106679%232346703181_13L42648Q1-1758311513Q20",
+         "player": "Khaman Maluach",
+         "price": -102,
+         "sid": "0QA385106679#2346703181_13L42648Q1-1758311513Q20",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106895%232346933311_13L42648Q1511222344Q20",
+         "player": "Jordan Goodwin",
+         "price": -102,
+         "sid": "0QA385106895#2346933311_13L42648Q1511222344Q20",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106895%232346933312_13L42648Q1-1758311513Q20",
+         "player": "Jordan Goodwin",
+         "price": -125,
+         "sid": "0QA385106895#2346933312_13L42648Q1-1758311513Q20",
+         "side": "Under"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/nba/phoenix-suns-%40-golden-state-warriors-36262172",
+       "event_sid": "36262172",
+       "last_update": "2026-11-03T01:41:27Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866447&selectionId=76787777",
+         "player": "Khaman Maluach",
+         "price": -120,
+         "sid": "76787777",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866447&selectionId=76787780",
+         "player": "Khaman Maluach",
+         "price": -106,
+         "sid": "76787780",
+         "side": "Under"
+        },
+        {
+         "line": 25.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866449&selectionId=12260597",
+         "player": "Stephen Curry",
+         "price": -122,
+         "sid": "12260597",
+         "side": "Over"
+        },
+        {
+         "line": 25.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866449&selectionId=12260598",
+         "player": "Stephen Curry",
+         "price": -104,
+         "sid": "12260598",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866444&selectionId=23559725",
+         "player": "Miles Bridges",
+         "price": -130,
+         "sid": "23559725",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866444&selectionId=23559726",
+         "player": "Miles Bridges",
+         "price": 102,
+         "sid": "23559726",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866445&selectionId=41386184",
+         "player": "Jalen Green",
+         "price": -111,
+         "sid": "41386184",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866445&selectionId=41386185",
+         "player": "Jalen Green",
+         "price": -115,
+         "sid": "41386185",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622043986&selectionId=22041168",
+         "player": "De'Anthony Melton",
+         "price": -120,
+         "sid": "22041168",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622043986&selectionId=22041169",
+         "player": "De'Anthony Melton",
+         "price": -106,
+         "sid": "22041169",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622043446&selectionId=35462121",
+         "player": "Georges Niang",
+         "price": -104,
+         "sid": "35462121",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622043446&selectionId=35462122",
+         "player": "Georges Niang",
+         "price": -122,
+         "sid": "35462122",
+         "side": "Under"
+        },
+        {
+         "line": 23.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866442&selectionId=12257187",
+         "player": "Devin Booker",
+         "price": -113,
+         "sid": "12257187",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866442&selectionId=12257186",
+         "player": "Devin Booker",
+         "price": -113,
+         "sid": "12257186",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866446&selectionId=43026356",
+         "player": "Collin Gillespie",
+         "price": -122,
+         "sid": "43026356",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866446&selectionId=43026355",
+         "player": "Collin Gillespie",
+         "price": -104,
+         "sid": "43026355",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866451&selectionId=52263972",
+         "player": "Brandin Podziemski",
+         "price": -125,
+         "sid": "52263972",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866451&selectionId=52263968",
+         "player": "Brandin Podziemski",
+         "price": -102,
+         "sid": "52263968",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866452&selectionId=12260600",
+         "player": "Draymond Green",
+         "price": -122,
+         "sid": "12260600",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866452&selectionId=12260599",
+         "player": "Draymond Green",
+         "price": -104,
+         "sid": "12260599",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866450&selectionId=64937530",
+         "player": "Yaxel Lendeborg",
+         "price": -120,
+         "sid": "64937530",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866450&selectionId=64937543",
+         "player": "Yaxel Lendeborg",
+         "price": -106,
+         "sid": "64937543",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866448&selectionId=50195698",
+         "player": "Jordan Goodwin",
+         "price": 102,
+         "sid": "50195698",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866448&selectionId=50195697",
+         "player": "Jordan Goodwin",
+         "price": -130,
+         "sid": "50195697",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866443&selectionId=12798648",
+         "player": "Dillon Brooks",
+         "price": 100,
+         "sid": "12798648",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866443&selectionId=12798647",
+         "player": "Dillon Brooks",
+         "price": -128,
+         "sid": "12798647",
+         "side": "Under"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-03T01:42:12Z",
+     "kind": "lock",
+     "minutes_to_tip": 87.8,
+     "raw": "raw/2026-11-02/27c333f22603d4eda3b9b6a3888476dc-player_points-lock-20261103T014212831933Z.json",
+     "rev": 1
+    }
+   ],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|suns@warriors|player_rebounds": {
+   "api_away": "Phoenix Suns",
+   "api_home": "Golden State Warriors",
+   "away": "Suns",
+   "commence_time": "2026-11-03T03:10:00Z",
+   "event_id": "27c333f22603d4eda3b9b6a3888476dc",
+   "home": "Warriors",
+   "issues": [],
+   "market": "player_rebounds",
+   "players": [],
+   "requested_rev": 1,
+   "snapshots": [
+    {
+     "books": {
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/phoenix-suns-at-golden-state-warriors-20031531",
+       "event_sid": "20031531",
+       "last_update": "2026-11-03T01:39:59Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 5.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351035-7065840&type=Single",
+         "player": "Draymond Green",
+         "price": 105,
+         "sid": "7065840",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351035-7065841&type=Single",
+         "player": "Draymond Green",
+         "price": -145,
+         "sid": "7065841",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351080-7065930&type=Single",
+         "player": "Collin Gillespie",
+         "price": 115,
+         "sid": "7065930",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351080-7065931&type=Single",
+         "player": "Collin Gillespie",
+         "price": -155,
+         "sid": "7065931",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351152-7066066&type=Single",
+         "player": "Devin Booker",
+         "price": -160,
+         "sid": "7066066",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351152-7066067&type=Single",
+         "player": "Devin Booker",
+         "price": 120,
+         "sid": "7066067",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351140-7066056&type=Single",
+         "player": "Stephen Curry",
+         "price": 110,
+         "sid": "7066056",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351140-7066057&type=Single",
+         "player": "Stephen Curry",
+         "price": -150,
+         "sid": "7066057",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351158-7066076&type=Single",
+         "player": "Khaman Maluach",
+         "price": 105,
+         "sid": "7066076",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351158-7066077&type=Single",
+         "player": "Khaman Maluach",
+         "price": -140,
+         "sid": "7066077",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351170-7066114&type=Single",
+         "player": "Miles Bridges",
+         "price": 105,
+         "sid": "7066114",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351170-7066115&type=Single",
+         "player": "Miles Bridges",
+         "price": -145,
+         "sid": "7066115",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351273-7066316&type=Single",
+         "player": "Jordan Goodwin",
+         "price": 120,
+         "sid": "7066316",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351273-7066317&type=Single",
+         "player": "Jordan Goodwin",
+         "price": -160,
+         "sid": "7066317",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351304-7066380&type=Single",
+         "player": "Dillon Brooks",
+         "price": -135,
+         "sid": "7066380",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351304-7066381&type=Single",
+         "player": "Dillon Brooks",
+         "price": 100,
+         "sid": "7066381",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351272-7066312&type=Single",
+         "player": "Yaxel Lendeborg",
+         "price": -115,
+         "sid": "7066312",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351272-7066313&type=Single",
+         "player": "Yaxel Lendeborg",
+         "price": -115,
+         "sid": "7066313",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351305-7066378&type=Single",
+         "player": "Jalen Green",
+         "price": -125,
+         "sid": "7066378",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4351305-7066379&type=Single",
+         "player": "Jalen Green",
+         "price": -105,
+         "sid": "7066379",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4361798-7086044&type=Single",
+         "player": "De'Anthony Melton",
+         "price": -105,
+         "sid": "7086044",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4361798-7086045&type=Single",
+         "player": "De'Anthony Melton",
+         "price": -125,
+         "sid": "7086045",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4365111-7091387&type=Single",
+         "player": "Brandin Podziemski",
+         "price": -150,
+         "sid": "7091387",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48605-4365111-7091388&type=Single",
+         "player": "Brandin Podziemski",
+         "price": 110,
+         "sid": "7091388",
+         "side": "Under"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/34936980",
+       "event_sid": "34936980",
+       "last_update": "2026-11-03T01:41:20Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106941%232346974112_13L42648Q1-25326551Q20",
+         "player": "Yaxel Lendeborg",
+         "price": 113,
+         "sid": "0QA385106941#2346974112_13L42648Q1-25326551Q20",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106941%232346974113_13L42648Q1-877137389Q20",
+         "player": "Yaxel Lendeborg",
+         "price": -149,
+         "sid": "0QA385106941#2346974113_13L42648Q1-877137389Q20",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106888%232346703212_13L42648Q1-732303018Q20",
+         "player": "Khaman Maluach",
+         "price": -147,
+         "sid": "0QA385106888#2346703212_13L42648Q1-732303018Q20",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106888%232346703294_13L42648Q1-1595150841Q20",
+         "player": "Khaman Maluach",
+         "price": 112,
+         "sid": "0QA385106888#2346703294_13L42648Q1-1595150841Q20",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106802%232346703053_13L42648Q1-732303018Q20",
+         "player": "Miles Bridges",
+         "price": 105,
+         "sid": "0QA385106802#2346703053_13L42648Q1-732303018Q20",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106802%232346703130_13L42648Q1-1595150841Q20",
+         "player": "Miles Bridges",
+         "price": -138,
+         "sid": "0QA385106802#2346703130_13L42648Q1-1595150841Q20",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106302%232346958938_13L42648Q1-150170292Q20",
+         "player": "Devin Booker",
+         "price": 123,
+         "sid": "0QA385106302#2346958938_13L42648Q1-150170292Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106302%232346958939_13L42648Q1-1659398539Q20",
+         "player": "Devin Booker",
+         "price": -162,
+         "sid": "0QA385106302#2346958939_13L42648Q1-1659398539Q20",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385107063%232346708371_13L42648Q11299195355Q20",
+         "player": "Jordan Goodwin",
+         "price": -151,
+         "sid": "0QA385107063#2346708371_13L42648Q11299195355Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385107063%232346708372_13L42648Q1647990913Q20",
+         "player": "Jordan Goodwin",
+         "price": 115,
+         "sid": "0QA385107063#2346708372_13L42648Q1647990913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106886%232346703852_13L42648Q11299195355Q20",
+         "player": "Dillon Brooks",
+         "price": -148,
+         "sid": "0QA385106886#2346703852_13L42648Q11299195355Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106886%232346703876_13L42648Q1647990913Q20",
+         "player": "Dillon Brooks",
+         "price": 112,
+         "sid": "0QA385106886#2346703876_13L42648Q1647990913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106711%232346959041_13L42648Q11299195355Q20",
+         "player": "Jalen Green",
+         "price": -131,
+         "sid": "0QA385106711#2346959041_13L42648Q11299195355Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106711%232346959042_13L42648Q1647990913Q20",
+         "player": "Jalen Green",
+         "price": 100,
+         "sid": "0QA385106711#2346959042_13L42648Q1647990913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106603%232346703469_13L42648Q11299195355Q20",
+         "player": "Collin Gillespie",
+         "price": 112,
+         "sid": "0QA385106603#2346703469_13L42648Q11299195355Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385106603%232346703523_13L42648Q1647990913Q20",
+         "player": "Collin Gillespie",
+         "price": -148,
+         "sid": "0QA385106603#2346703523_13L42648Q1647990913Q20",
+         "side": "Under"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/nba/phoenix-suns-%40-golden-state-warriors-36262172",
+       "event_sid": "36262172",
+       "last_update": "2026-11-03T01:41:27Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866455&selectionId=12798648",
+         "player": "Dillon Brooks",
+         "price": -132,
+         "sid": "12798648",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866455&selectionId=12798647",
+         "player": "Dillon Brooks",
+         "price": 104,
+         "sid": "12798647",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866459&selectionId=76787777",
+         "player": "Khaman Maluach",
+         "price": 124,
+         "sid": "76787777",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866459&selectionId=76787780",
+         "player": "Khaman Maluach",
+         "price": -160,
+         "sid": "76787780",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866454&selectionId=12257187",
+         "player": "Devin Booker",
+         "price": -156,
+         "sid": "12257187",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866454&selectionId=12257186",
+         "player": "Devin Booker",
+         "price": 124,
+         "sid": "12257186",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866458&selectionId=43026356",
+         "player": "Collin Gillespie",
+         "price": 134,
+         "sid": "43026356",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866458&selectionId=43026355",
+         "player": "Collin Gillespie",
+         "price": -172,
+         "sid": "43026355",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866461&selectionId=12260597",
+         "player": "Stephen Curry",
+         "price": 122,
+         "sid": "12260597",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866461&selectionId=12260598",
+         "player": "Stephen Curry",
+         "price": -156,
+         "sid": "12260598",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866464&selectionId=12260600",
+         "player": "Draymond Green",
+         "price": -146,
+         "sid": "12260600",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866464&selectionId=12260599",
+         "player": "Draymond Green",
+         "price": 114,
+         "sid": "12260599",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622043447&selectionId=35462121",
+         "player": "Georges Niang",
+         "price": 128,
+         "sid": "35462121",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622043447&selectionId=35462122",
+         "player": "Georges Niang",
+         "price": -164,
+         "sid": "35462122",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866456&selectionId=23559725",
+         "player": "Miles Bridges",
+         "price": -158,
+         "sid": "23559725",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866456&selectionId=23559726",
+         "player": "Miles Bridges",
+         "price": 124,
+         "sid": "23559726",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866462&selectionId=64937530",
+         "player": "Yaxel Lendeborg",
+         "price": 102,
+         "sid": "64937530",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866462&selectionId=64937543",
+         "player": "Yaxel Lendeborg",
+         "price": -130,
+         "sid": "64937543",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866460&selectionId=50195698",
+         "player": "Jordan Goodwin",
+         "price": -162,
+         "sid": "50195698",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866460&selectionId=50195697",
+         "player": "Jordan Goodwin",
+         "price": 126,
+         "sid": "50195697",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866463&selectionId=52263972",
+         "player": "Brandin Podziemski",
+         "price": 130,
+         "sid": "52263972",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866463&selectionId=52263968",
+         "player": "Brandin Podziemski",
+         "price": -166,
+         "sid": "52263968",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866457&selectionId=41386184",
+         "player": "Jalen Green",
+         "price": -120,
+         "sid": "41386184",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621866457&selectionId=41386185",
+         "player": "Jalen Green",
+         "price": -106,
+         "sid": "41386185",
+         "side": "Under"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-03T01:42:12Z",
+     "kind": "lock",
+     "minutes_to_tip": 87.8,
+     "raw": "raw/2026-11-02/27c333f22603d4eda3b9b6a3888476dc-player_rebounds-lock-20261103T014212831933Z.json",
+     "rev": 1
+    }
+   ],
+   "sport": "basketball_nba"
+  },
   "basketball_nba|thunder@cavaliers|player_points": {
    "api_away": "Oklahoma City Thunder",
    "api_home": "Cleveland Cavaliers",
    "away": "Thunder",
-   "commence_time": "2026-11-03T00:10:00Z",
+   "commence_time": "2026-11-03T00:12:00Z",
    "event_id": "0a12a55607db0bd7eeafee050c45988e",
    "home": "Cavaliers",
-   "issues": [],
+   "issues": [
+    "no close snapshot before start"
+   ],
    "market": "player_points",
    "players": [],
    "requested_rev": 2,
@@ -5065,10 +8755,12 @@
    "api_away": "Oklahoma City Thunder",
    "api_home": "Cleveland Cavaliers",
    "away": "Thunder",
-   "commence_time": "2026-11-03T00:10:00Z",
+   "commence_time": "2026-11-03T00:12:00Z",
    "event_id": "0a12a55607db0bd7eeafee050c45988e",
    "home": "Cavaliers",
-   "issues": [],
+   "issues": [
+    "no close snapshot before start"
+   ],
    "market": "player_rebounds",
    "players": [],
    "requested_rev": 2,
@@ -6071,10 +9763,12 @@
    "api_away": "Washington Wizards",
    "api_home": "Orlando Magic",
    "away": "Wizards",
-   "commence_time": "2026-11-03T00:40:00Z",
+   "commence_time": "2026-11-03T00:41:06Z",
    "event_id": "6acd74a2d987fa101c79eaf378fd5891",
    "home": "Magic",
-   "issues": [],
+   "issues": [
+    "no close snapshot before start"
+   ],
    "market": "player_assists",
    "players": [],
    "requested_rev": 1,
@@ -6506,10 +10200,12 @@
    "api_away": "Washington Wizards",
    "api_home": "Orlando Magic",
    "away": "Wizards",
-   "commence_time": "2026-11-03T00:40:00Z",
+   "commence_time": "2026-11-03T00:41:06Z",
    "event_id": "6acd74a2d987fa101c79eaf378fd5891",
    "home": "Magic",
-   "issues": [],
+   "issues": [
+    "no close snapshot before start"
+   ],
    "market": "player_points",
    "players": [],
    "requested_rev": 1,
@@ -7115,8 +10811,8 @@
   }
  },
  "issues": [],
- "spent_month": 13,
- "spent_today": 13,
+ "spent_month": 19,
+ "spent_today": 19,
  "stop": null,
- "updated": "2026-11-02T21:46:43Z"
+ "updated": "2026-11-03T01:42:12Z"
 }
