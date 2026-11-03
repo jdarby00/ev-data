@@ -1,6 +1,6 @@
 {
  "date": "2026-11-02",
- "updated_et": "2026-11-02 18:13",
+ "updated_et": "2026-11-02 20:33",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,11 +11,11 @@
    "home": "CLE",
    "away_name": "Oklahoma City Thunder",
    "home_name": "Cleveland Cavaliers",
-   "state": "pre",
-   "spread_text": "CLE -4.5",
-   "spread": -4.5,
-   "total": 229.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -25,11 +25,11 @@
    "home": "CHA",
    "away_name": "Detroit Pistons",
    "home_name": "Charlotte Hornets",
-   "state": "pre",
-   "spread_text": "DET -6.5",
-   "spread": 6.5,
-   "total": 209.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -39,11 +39,11 @@
    "home": "IND",
    "away_name": "Atlanta Hawks",
    "home_name": "Indiana Pacers",
-   "state": "pre",
-   "spread_text": "ATL -8.5",
-   "spread": 8.5,
-   "total": 227.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -53,11 +53,11 @@
    "home": "NY",
    "away_name": "Brooklyn Nets",
    "home_name": "New York Knicks",
-   "state": "pre",
-   "spread_text": "NY -14.5",
-   "spread": -14.5,
-   "total": 218.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -67,11 +67,11 @@
    "home": "ORL",
    "away_name": "Washington Wizards",
    "home_name": "Orlando Magic",
-   "state": "pre",
-   "spread_text": "ORL -3.5",
-   "spread": -3.5,
-   "total": 225.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -81,11 +81,11 @@
    "home": "PHI",
    "away_name": "Chicago Bulls",
    "home_name": "Philadelphia 76ers",
-   "state": "pre",
-   "spread_text": "PHI -9.5",
-   "spread": -9.5,
-   "total": 239.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -95,11 +95,11 @@
    "home": "DAL",
    "away_name": "Sacramento Kings",
    "home_name": "Dallas Mavericks",
-   "state": "pre",
-   "spread_text": "DAL -8.5",
-   "spread": -8.5,
-   "total": 231.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -109,11 +109,11 @@
    "home": "MEM",
    "away_name": "New Orleans Pelicans",
    "home_name": "Memphis Grizzlies",
-   "state": "pre",
-   "spread_text": "MEM -5.5",
-   "spread": -5.5,
-   "total": 231.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -123,11 +123,11 @@
    "home": "MIN",
    "away_name": "Milwaukee Bucks",
    "home_name": "Minnesota Timberwolves",
-   "state": "pre",
-   "spread_text": "MIN -10.5",
-   "spread": -10.5,
-   "total": 230.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -140,8 +140,8 @@
    "state": "pre",
    "spread_text": "HOU -4.5",
    "spread": -4.5,
-   "total": 216.5,
-   "odds_source": "Draft Kings",
+   "total": 215.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -155,7 +155,7 @@
    "spread_text": "SA -16.5",
    "spread": -16.5,
    "total": 227.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -169,7 +169,7 @@
    "spread_text": "DEN -4.5",
    "spread": -4.5,
    "total": 231.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -183,7 +183,7 @@
    "spread_text": "GS -2.5",
    "spread": -2.5,
    "total": 227.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -197,7 +197,7 @@
    "spread_text": "TOR -4.5",
    "spread": 4.5,
    "total": 219.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -211,7 +211,7 @@
    "spread_text": "LAL -2.5",
    "spread": -2.5,
    "total": 236.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
@@ -313,10 +313,10 @@
   "Cleveland Cavaliers": [
    {
     "player": "Peyton Watson",
-    "status": "Day-To-Day",
-    "detail": "Watson (hamstring) is questionable to play in Monday's game against Oklahoma City.",
-    "type": "day-to-day",
-    "updated": "2026-11-01T21:57Z"
+    "status": "Out",
+    "detail": "Watson (hamstring) is out for Monday's game against the Thunder, Chris Fedor of The Cleveland Plain Dealer reports.",
+    "type": "out",
+    "updated": "2026-11-02T23:17Z"
    },
    {
     "player": "Jaylon Tyson",
@@ -329,10 +329,17 @@
   "Dallas Mavericks": [
    {
     "player": "Kyrie Irving",
-    "status": "Day-To-Day",
-    "detail": "Irving (knee) is now doubtful for Monday against the Kings.",
-    "type": "day-to-day",
-    "updated": "2026-11-02T18:51Z"
+    "status": "Out",
+    "detail": "Irving (knee) has been ruled out for Monday's game against the Kings.",
+    "type": "out",
+    "updated": "2026-11-02T23:13Z"
+   },
+   {
+    "player": "Santi Aldama",
+    "status": "Out",
+    "detail": "Aldama (knee) has been ruled out for Monday's matchup with Sacramento.",
+    "type": "out",
+    "updated": "2026-11-02T23:12Z"
    },
    {
     "player": "Tarik Biberovic",
@@ -349,13 +356,6 @@
     "updated": "2026-11-01T22:57Z"
    },
    {
-    "player": "Santi Aldama",
-    "status": "Out",
-    "detail": "Aldama (knee) is listed as doubtful for Monday's game against the Kings.",
-    "type": "out",
-    "updated": "2026-11-01T22:51Z"
-   },
-   {
     "player": "Sergio de Larrea",
     "status": "Out",
     "detail": "Head coach Dusty May said Friday that de Larrea (knee) will be re-evaluated next week, Noah Weber of TheSmokingCuban.com reports.",
@@ -370,13 +370,6 @@
     "detail": "Jones (hamstring) is listed as out for Monday's game against the Trail Blazers.",
     "type": "out",
     "updated": "2026-11-01T23:56Z"
-   },
-   {
-    "player": "Alpha Diallo",
-    "status": "Out",
-    "detail": "Diallo (wrist) is listed as questionable for Monday's game versus Portland.",
-    "type": "out",
-    "updated": "2026-11-01T23:52Z"
    },
    {
     "player": "Julian Strawther",
@@ -455,13 +448,6 @@
     "updated": "2026-11-02T19:13Z"
    },
    {
-    "player": "Reed Sheppard",
-    "status": "Day-To-Day",
-    "detail": "Sheppard (back) is questionable for Monday's game against the Celtics.",
-    "type": "day-to-day",
-    "updated": "2026-11-01T20:41Z"
-   },
-   {
     "player": "Steven Adams",
     "status": "Out",
     "detail": "Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right soleus strain, Lachard Binkley of SI.com reports.",
@@ -470,6 +456,27 @@
    }
   ],
   "Indiana Pacers": [
+   {
+    "player": "Kelly Oubre Jr.",
+    "status": "Out",
+    "detail": "Oubre (knee) has been ruled out for Monday's game against the Hawks.",
+    "type": "out",
+    "updated": "2026-11-03T00:33Z"
+   },
+   {
+    "player": "Larry Nance Jr.",
+    "status": "Out",
+    "detail": "Nance (illness) has been ruled out for Monday's game against the Hawks.",
+    "type": "out",
+    "updated": "2026-11-02T23:10Z"
+   },
+   {
+    "player": "Obi Toppin",
+    "status": "Out",
+    "detail": "Toppin (back) will dress for Monday's game against  Hawks but will only play in an emergency, Tony East of Forbes.com reports.",
+    "type": "out",
+    "updated": "2026-11-02T23:07Z"
+   },
    {
     "player": "T.J. McConnell",
     "status": "Out",
@@ -483,20 +490,6 @@
     "detail": "Zubac (ankle) has been ruled out for Monday's game against the Hawks.",
     "type": "out",
     "updated": "2026-11-02T18:19Z"
-   },
-   {
-    "player": "Larry Nance Jr.",
-    "status": "Day-To-Day",
-    "detail": "Nance (illness) is doubtful for Monday against the Hawks.",
-    "type": "day-to-day",
-    "updated": "2026-11-02T18:16Z"
-   },
-   {
-    "player": "Obi Toppin",
-    "status": "Day-To-Day",
-    "detail": "Toppin (back) is questionable for Monday's game against Atlanta.",
-    "type": "day-to-day",
-    "updated": "2026-11-02T18:15Z"
    },
    {
     "player": "Aaron Nesmith",
@@ -597,33 +590,26 @@
   "Memphis Grizzlies": [
    {
     "player": "Scotty Pippen Jr.",
-    "status": "Day-To-Day",
-    "detail": "Pippen (back) is listed as doubtful for Monday's game against the Pelicans.",
-    "type": "day-to-day",
-    "updated": "2026-11-01T23:15Z"
+    "status": "Out",
+    "detail": "Pippen (back) has been ruled out for Monday's game against the Pelicans.",
+    "type": "out",
+    "updated": "2026-11-03T00:14Z"
    },
    {
     "player": "Quinten Post",
-    "status": "Day-To-Day",
-    "detail": "Post (ankle) is questionable to suit up for Monday's game against New Orleans.",
-    "type": "day-to-day",
-    "updated": "2026-11-01T23:13Z"
+    "status": "Out",
+    "detail": "Post (ankle) has been downgraded to out for Monday's game against the Pelicans.",
+    "type": "out",
+    "updated": "2026-11-03T00:12Z"
    }
   ],
   "Minnesota Timberwolves": [
    {
     "player": "Terrence Shannon Jr.",
-    "status": "Day-To-Day",
-    "detail": "Shannon has a left hip contusion and is questionable to face the Bucks on Monday.",
-    "type": "day-to-day",
-    "updated": "2026-11-02T19:12Z"
-   },
-   {
-    "player": "LaMelo Ball",
-    "status": "Day-To-Day",
-    "detail": "Ball is questionable for Monday's game against Milwaukee due to a right wrist contusion.",
-    "type": "day-to-day",
-    "updated": "2026-11-02T19:10Z"
+    "status": "Out",
+    "detail": "Shannon (hip) has been ruled out for Monday's game against the Bucks, Jon Krawczynski of The Athletic reports.",
+    "type": "out",
+    "updated": "2026-11-02T23:22Z"
    },
    {
     "player": "Anthony Edwards",
@@ -753,18 +739,11 @@
   ],
   "Philadelphia 76ers": [
    {
-    "player": "Joel Embiid",
-    "status": "Day-To-Day",
-    "detail": "Embiid (foot) is questionable to suit up for Monday's game against the Bulls.",
-    "type": "day-to-day",
-    "updated": "2026-11-01T22:12Z"
-   },
-   {
     "player": "Dominick Barlow",
     "status": "Out",
-    "detail": "Barlow will miss at least the next two weeks of action due to a lumbar spine bone stress response, Adam Aaronson of PhillyVoice.com reports.",
+    "detail": "Barlow (back) has been on the court \"a little bit\" and will be re-evaluated Tuesday, Austin Krell of OnPattison.com reports.",
     "type": "out",
-    "updated": "2026-10-19T21:07Z"
+    "updated": "2026-11-02T23:05Z"
    },
    {
     "player": "Ariel Hukporti",
@@ -803,16 +782,9 @@
    {
     "player": "Dylan Cardwell",
     "status": "Out",
-    "detail": "Cardwell (calf) has been downgraded to doubtful for Monday's game against Dallas.",
+    "detail": "Cardwell (calf) has been ruled out for Monday's game against the Mavericks.",
     "type": "out",
-    "updated": "2026-11-02T22:53Z"
-   },
-   {
-    "player": "Zach LaVine",
-    "status": "Day-To-Day",
-    "detail": "LaVine (elbow) is questionable to play in Monday's game against Dallas.",
-    "type": "day-to-day",
-    "updated": "2026-11-01T23:20Z"
+    "updated": "2026-11-02T23:34Z"
    },
    {
     "player": "Maxime Raynaud",
@@ -1181,6 +1153,97 @@
    "player": "Scottie Barnes",
    "from": "not listed",
    "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-02 20:33",
+   "team": "Cleveland Cavaliers",
+   "player": "Peyton Watson",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-02 20:33",
+   "team": "Dallas Mavericks",
+   "player": "Kyrie Irving",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-02 20:33",
+   "team": "Denver Nuggets",
+   "player": "Alpha Diallo",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-02 20:33",
+   "team": "Houston Rockets",
+   "player": "Reed Sheppard",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-02 20:33",
+   "team": "Indiana Pacers",
+   "player": "Kelly Oubre Jr.",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-02 20:33",
+   "team": "Indiana Pacers",
+   "player": "Larry Nance Jr.",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-02 20:33",
+   "team": "Indiana Pacers",
+   "player": "Obi Toppin",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-02 20:33",
+   "team": "Memphis Grizzlies",
+   "player": "Scotty Pippen Jr.",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-02 20:33",
+   "team": "Memphis Grizzlies",
+   "player": "Quinten Post",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-02 20:33",
+   "team": "Minnesota Timberwolves",
+   "player": "Terrence Shannon Jr.",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-02 20:33",
+   "team": "Minnesota Timberwolves",
+   "player": "LaMelo Ball",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-02 20:33",
+   "team": "Philadelphia 76ers",
+   "player": "Joel Embiid",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-02 20:33",
+   "team": "Sacramento Kings",
+   "player": "Zach LaVine",
+   "from": "Day-To-Day",
+   "to": "removed from report"
   }
  ]
 }
