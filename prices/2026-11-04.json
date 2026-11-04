@@ -1,5 +1,5 @@
 {
- "credits_remaining": 459,
+ "credits_remaining": 457,
  "date": "2026-11-04",
  "groups": {
   "basketball_nba|76ers@pistons|player_points": {
@@ -3503,6 +3503,3449 @@
      "kind": "lock",
      "minutes_to_tip": 113.7,
      "raw": "raw/2026-11-04/91df86557819598ca270ba35410cfcfa-player_points-lock-20261104T220616670397Z.json",
+     "rev": 1
+    },
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1028754083",
+       "event_sid": "1028754083",
+       "last_update": "2026-11-04T23:47:11Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "John Collins",
+         "price": -110,
+         "sid": "4402259000",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Jaylen Brown",
+         "price": -110,
+         "sid": "4402269982",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Joel Embiid",
+         "price": -115,
+         "sid": "4402269984",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Duncan Robinson",
+         "price": -125,
+         "sid": "4402269986",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "VJ Edgecombe",
+         "price": -117,
+         "sid": "4402269998",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Anfernee Simons",
+         "price": -112,
+         "sid": "4402270002",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Daniss Jenkins",
+         "price": -134,
+         "sid": "4402290504",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Paul Reed Jr",
+         "price": -125,
+         "sid": "4402290552",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Tyrese Maxey",
+         "price": -125,
+         "sid": "4402259447",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Ausar Thompson",
+         "price": 100,
+         "sid": "4402492909",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Javonte Green",
+         "price": -137,
+         "sid": "4403271537",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Kevin Huerter",
+         "price": -110,
+         "sid": "4403341640",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "LeBron James",
+         "price": -109,
+         "sid": "4403390584",
+         "side": "Over"
+        },
+        {
+         "line": 24.5,
+         "link": null,
+         "player": "Cade Cunningham",
+         "price": -114,
+         "sid": "4403315751",
+         "side": "Over"
+        }
+       ]
+      },
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/philadelphia-76ers-at-detroit-pistons-20049570",
+       "event_sid": "20049570",
+       "last_update": "2026-11-04T23:46:49Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 11.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4381457-7127674&type=Single",
+         "player": "VJ Edgecombe",
+         "price": 100,
+         "sid": "7127674",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4381457-7127675&type=Single",
+         "player": "VJ Edgecombe",
+         "price": -135,
+         "sid": "7127675",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4381505-7127774&type=Single",
+         "player": "Paul Reed Jr",
+         "price": -111,
+         "sid": "7127774",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4381505-7127775&type=Single",
+         "player": "Paul Reed Jr",
+         "price": -120,
+         "sid": "7127775",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4381502-7127766&type=Single",
+         "player": "Jaylen Brown",
+         "price": -115,
+         "sid": "7127766",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4381502-7127767&type=Single",
+         "player": "Jaylen Brown",
+         "price": -115,
+         "sid": "7127767",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4381574-7127895&type=Single",
+         "player": "Duncan Robinson",
+         "price": -135,
+         "sid": "7127895",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4381574-7127896&type=Single",
+         "player": "Duncan Robinson",
+         "price": 100,
+         "sid": "7127896",
+         "side": "Under"
+        },
+        {
+         "line": 24.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4389023-7139516&type=Single",
+         "player": "Cade Cunningham",
+         "price": -105,
+         "sid": "7139516",
+         "side": "Over"
+        },
+        {
+         "line": 24.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4389023-7139517&type=Single",
+         "player": "Cade Cunningham",
+         "price": -125,
+         "sid": "7139517",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4389024-7139518&type=Single",
+         "player": "Joel Embiid",
+         "price": -120,
+         "sid": "7139518",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4389024-7139519&type=Single",
+         "player": "Joel Embiid",
+         "price": -111,
+         "sid": "7139519",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4389115-7139696&type=Single",
+         "player": "John Collins",
+         "price": -120,
+         "sid": "7139696",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4389115-7139697&type=Single",
+         "player": "John Collins",
+         "price": -110,
+         "sid": "7139697",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4389112-7139692&type=Single",
+         "player": "Daniss Jenkins",
+         "price": -120,
+         "sid": "7139692",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4389112-7139693&type=Single",
+         "player": "Daniss Jenkins",
+         "price": -110,
+         "sid": "7139693",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4389131-7139732&type=Single",
+         "player": "Anfernee Simons",
+         "price": -120,
+         "sid": "7139732",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4389150-7139768&type=Single",
+         "player": "Ausar Thompson",
+         "price": -110,
+         "sid": "7139768",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4389150-7139769&type=Single",
+         "player": "Ausar Thompson",
+         "price": -120,
+         "sid": "7139769",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4398810-7159068&type=Single",
+         "player": "LeBron James",
+         "price": -111,
+         "sid": "7159068",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4398810-7159069&type=Single",
+         "player": "LeBron James",
+         "price": -118,
+         "sid": "7159069",
+         "side": "Under"
+        },
+        {
+         "line": 24.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4401337-7163734&type=Single",
+         "player": "Tyrese Maxey",
+         "price": -115,
+         "sid": "7163734",
+         "side": "Over"
+        },
+        {
+         "line": 24.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4401337-7163735&type=Single",
+         "player": "Tyrese Maxey",
+         "price": -115,
+         "sid": "7163735",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4401587-7164237&type=Single",
+         "player": "Javonte Green",
+         "price": 100,
+         "sid": "7164237",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4401590-7164243&type=Single",
+         "player": "Kevin Huerter",
+         "price": -115,
+         "sid": "7164243",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48987-4401590-7164244&type=Single",
+         "player": "Kevin Huerter",
+         "price": -115,
+         "sid": "7164244",
+         "side": "Under"
+        }
+       ]
+      },
+      "betonlineag": {
+       "event_link": "https://sports.betonline.ag/sportsbook/basketball/nba/game/491172188",
+       "event_sid": "491172188",
+       "last_update": "2026-11-04T23:46:56Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Ausar Thompson",
+         "price": -105,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Ausar Thompson",
+         "price": -123,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Paul Reed Jr",
+         "price": -116,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Paul Reed Jr",
+         "price": -111,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "John Collins",
+         "price": -114,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "John Collins",
+         "price": -114,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "VJ Edgecombe",
+         "price": -125,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "VJ Edgecombe",
+         "price": -103,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Jaylen Brown",
+         "price": -116,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Jaylen Brown",
+         "price": -111,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Joel Embiid",
+         "price": -119,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Joel Embiid",
+         "price": -109,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "LeBron James",
+         "price": -114,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "LeBron James",
+         "price": -114,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Daniss Jenkins",
+         "price": -114,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Daniss Jenkins",
+         "price": -114,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Kevin Huerter",
+         "price": 100,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Kevin Huerter",
+         "price": -130,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Anfernee Simons",
+         "price": -109,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Anfernee Simons",
+         "price": -119,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Javonte Green",
+         "price": -125,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Javonte Green",
+         "price": -103,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 24.5,
+         "link": null,
+         "player": "Cade Cunningham",
+         "price": -116,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 24.5,
+         "link": null,
+         "player": "Cade Cunningham",
+         "price": -111,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Duncan Robinson",
+         "price": -102,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Duncan Robinson",
+         "price": -127,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 24.5,
+         "link": null,
+         "player": "Tyrese Maxey",
+         "price": -105,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 24.5,
+         "link": null,
+         "player": "Tyrese Maxey",
+         "price": -123,
+         "sid": null,
+         "side": "Under"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1028754083",
+       "event_sid": "1028754083",
+       "last_update": "2026-11-04T23:45:54Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "John Collins",
+         "price": -109,
+         "sid": "4402259000",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "John Collins",
+         "price": -121,
+         "sid": "4402259001",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Jaylen Brown",
+         "price": -109,
+         "sid": "4402269982",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Jaylen Brown",
+         "price": -122,
+         "sid": "4402269983",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Joel Embiid",
+         "price": -114,
+         "sid": "4402269984",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Joel Embiid",
+         "price": -117,
+         "sid": "4402269985",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Duncan Robinson",
+         "price": -124,
+         "sid": "4402269986",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Duncan Robinson",
+         "price": -108,
+         "sid": "4402269987",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "VJ Edgecombe",
+         "price": -115,
+         "sid": "4402269998",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "VJ Edgecombe",
+         "price": -115,
+         "sid": "4402269999",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Anfernee Simons",
+         "price": -112,
+         "sid": "4402270002",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Anfernee Simons",
+         "price": -120,
+         "sid": "4402270003",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Daniss Jenkins",
+         "price": -130,
+         "sid": "4402290504",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Daniss Jenkins",
+         "price": -103,
+         "sid": "4402290505",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Paul Reed Jr",
+         "price": -124,
+         "sid": "4402290552",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Paul Reed Jr",
+         "price": -108,
+         "sid": "4402290553",
+         "side": "Under"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Tyrese Maxey",
+         "price": -124,
+         "sid": "4402259447",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Tyrese Maxey",
+         "price": -107,
+         "sid": "4402259448",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Ausar Thompson",
+         "price": 100,
+         "sid": "4402492909",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Ausar Thompson",
+         "price": -134,
+         "sid": "4402492910",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Javonte Green",
+         "price": -136,
+         "sid": "4403271537",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Javonte Green",
+         "price": 102,
+         "sid": "4403271538",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Kevin Huerter",
+         "price": -109,
+         "sid": "4403341640",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Kevin Huerter",
+         "price": -122,
+         "sid": "4403341641",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "LeBron James",
+         "price": -108,
+         "sid": "4403390584",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "LeBron James",
+         "price": -124,
+         "sid": "4403390585",
+         "side": "Under"
+        },
+        {
+         "line": 24.5,
+         "link": null,
+         "player": "Cade Cunningham",
+         "price": -113,
+         "sid": "4403315751",
+         "side": "Over"
+        },
+        {
+         "line": 24.5,
+         "link": null,
+         "player": "Cade Cunningham",
+         "price": -118,
+         "sid": "4403315752",
+         "side": "Under"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083",
+       "event_sid": "1028754083",
+       "last_update": "2026-11-04T23:46:51Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 11.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4402259000|{wagerAmount}",
+         "player": "John Collins",
+         "price": -110,
+         "sid": "4402259000",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4402259001|{wagerAmount}",
+         "player": "John Collins",
+         "price": -122,
+         "sid": "4402259001",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4403341640|{wagerAmount}",
+         "player": "Kevin Huerter",
+         "price": -110,
+         "sid": "4403341640",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4403341641|{wagerAmount}",
+         "player": "Kevin Huerter",
+         "price": -124,
+         "sid": "4403341641",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4402492909|{wagerAmount}",
+         "player": "Ausar Thompson",
+         "price": 100,
+         "sid": "4402492909",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4402492910|{wagerAmount}",
+         "player": "Ausar Thompson",
+         "price": -136,
+         "sid": "4402492910",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4402269982|{wagerAmount}",
+         "player": "Jaylen Brown",
+         "price": -110,
+         "sid": "4402269982",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4402269983|{wagerAmount}",
+         "player": "Jaylen Brown",
+         "price": -124,
+         "sid": "4402269983",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4402269986|{wagerAmount}",
+         "player": "Duncan Robinson",
+         "price": -125,
+         "sid": "4402269986",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4402269987|{wagerAmount}",
+         "player": "Duncan Robinson",
+         "price": -109,
+         "sid": "4402269987",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4402269984|{wagerAmount}",
+         "player": "Joel Embiid",
+         "price": -115,
+         "sid": "4402269984",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4402269985|{wagerAmount}",
+         "player": "Joel Embiid",
+         "price": -118,
+         "sid": "4402269985",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4402269998|{wagerAmount}",
+         "player": "VJ Edgecombe",
+         "price": -117,
+         "sid": "4402269998",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4402269999|{wagerAmount}",
+         "player": "VJ Edgecombe",
+         "price": -117,
+         "sid": "4402269999",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4402270002|{wagerAmount}",
+         "player": "Anfernee Simons",
+         "price": -112,
+         "sid": "4402270002",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4402270003|{wagerAmount}",
+         "player": "Anfernee Simons",
+         "price": -121,
+         "sid": "4402270003",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4402290504|{wagerAmount}",
+         "player": "Daniss Jenkins",
+         "price": -134,
+         "sid": "4402290504",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4402290505|{wagerAmount}",
+         "player": "Daniss Jenkins",
+         "price": -103,
+         "sid": "4402290505",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4402290552|{wagerAmount}",
+         "player": "Paul Reed Jr",
+         "price": -125,
+         "sid": "4402290552",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4402290553|{wagerAmount}",
+         "player": "Paul Reed Jr",
+         "price": -109,
+         "sid": "4402290553",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4403390584|{wagerAmount}",
+         "player": "LeBron James",
+         "price": -109,
+         "sid": "4403390584",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4403390585|{wagerAmount}",
+         "player": "LeBron James",
+         "price": -125,
+         "sid": "4403390585",
+         "side": "Under"
+        },
+        {
+         "line": 23.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4402259447|{wagerAmount}",
+         "player": "Tyrese Maxey",
+         "price": -125,
+         "sid": "4402259447",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4402259448|{wagerAmount}",
+         "player": "Tyrese Maxey",
+         "price": -108,
+         "sid": "4402259448",
+         "side": "Under"
+        },
+        {
+         "line": 24.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4403315751|{wagerAmount}",
+         "player": "Cade Cunningham",
+         "price": -114,
+         "sid": "4403315751",
+         "side": "Over"
+        },
+        {
+         "line": 24.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4403315752|{wagerAmount}",
+         "player": "Cade Cunningham",
+         "price": -120,
+         "sid": "4403315752",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4403271537|{wagerAmount}",
+         "player": "Javonte Green",
+         "price": -137,
+         "sid": "4403271537",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754083?coupon={pickType}|4403271538|{wagerAmount}",
+         "player": "Javonte Green",
+         "price": 100,
+         "sid": "4403271538",
+         "side": "Under"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/basketball/nba/philadelphia-76ers-detroit-pistons-202611041900",
+       "event_sid": "33128206",
+       "last_update": "2026-11-04T23:46:20Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Anfernee Simons",
+         "price": -230,
+         "sid": "2466588163",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Anfernee Simons",
+         "price": 170,
+         "sid": "2466588164",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Anfernee Simons",
+         "price": -150,
+         "sid": "2466588165",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Anfernee Simons",
+         "price": 115,
+         "sid": "2466588166",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Anfernee Simons",
+         "price": -110,
+         "sid": "2466587280",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Anfernee Simons",
+         "price": -120,
+         "sid": "2466587281",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Anfernee Simons",
+         "price": 125,
+         "sid": "2466587282",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Anfernee Simons",
+         "price": -165,
+         "sid": "2466587283",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Anfernee Simons",
+         "price": 170,
+         "sid": "2466588161",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Anfernee Simons",
+         "price": -230,
+         "sid": "2466588162",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Ausar Thompson",
+         "price": -230,
+         "sid": "2466521014",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Ausar Thompson",
+         "price": 170,
+         "sid": "2466521015",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Ausar Thompson",
+         "price": -165,
+         "sid": "2466521016",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Ausar Thompson",
+         "price": 125,
+         "sid": "2466521017",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Ausar Thompson",
+         "price": -120,
+         "sid": "2466520102",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Ausar Thompson",
+         "price": -110,
+         "sid": "2466520103",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Ausar Thompson",
+         "price": 110,
+         "sid": "2466521018",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Ausar Thompson",
+         "price": -145,
+         "sid": "2466521019",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Ausar Thompson",
+         "price": 145,
+         "sid": "2466521020",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Ausar Thompson",
+         "price": -190,
+         "sid": "2466521021",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Ausar Thompson",
+         "price": 190,
+         "sid": "2466521022",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Ausar Thompson",
+         "price": -260,
+         "sid": "2466521023",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Cade Cunningham",
+         "price": -290,
+         "sid": "2466521128",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Cade Cunningham",
+         "price": 210,
+         "sid": "2466521129",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Cade Cunningham",
+         "price": -230,
+         "sid": "2466520697",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Cade Cunningham",
+         "price": 170,
+         "sid": "2466520698",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Cade Cunningham",
+         "price": -180,
+         "sid": "2466521116",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Cade Cunningham",
+         "price": 135,
+         "sid": "2466521117",
+         "side": "Under"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Cade Cunningham",
+         "price": -145,
+         "sid": "2466521118",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Cade Cunningham",
+         "price": 110,
+         "sid": "2466521119",
+         "side": "Under"
+        },
+        {
+         "line": 24.5,
+         "link": null,
+         "player": "Cade Cunningham",
+         "price": -120,
+         "sid": "2466520116",
+         "side": "Over"
+        },
+        {
+         "line": 24.5,
+         "link": null,
+         "player": "Cade Cunningham",
+         "price": -110,
+         "sid": "2466520917",
+         "side": "Under"
+        },
+        {
+         "line": 25.5,
+         "link": null,
+         "player": "Cade Cunningham",
+         "price": 105,
+         "sid": "2466521120",
+         "side": "Over"
+        },
+        {
+         "line": 25.5,
+         "link": null,
+         "player": "Cade Cunningham",
+         "price": -135,
+         "sid": "2466521121",
+         "side": "Under"
+        },
+        {
+         "line": 26.5,
+         "link": null,
+         "player": "Cade Cunningham",
+         "price": 125,
+         "sid": "2466521122",
+         "side": "Over"
+        },
+        {
+         "line": 26.5,
+         "link": null,
+         "player": "Cade Cunningham",
+         "price": -165,
+         "sid": "2466521123",
+         "side": "Under"
+        },
+        {
+         "line": 27.5,
+         "link": null,
+         "player": "Cade Cunningham",
+         "price": 150,
+         "sid": "2466521124",
+         "side": "Over"
+        },
+        {
+         "line": 27.5,
+         "link": null,
+         "player": "Cade Cunningham",
+         "price": -200,
+         "sid": "2466521125",
+         "side": "Under"
+        },
+        {
+         "line": 28.5,
+         "link": null,
+         "player": "Cade Cunningham",
+         "price": 180,
+         "sid": "2466521126",
+         "side": "Over"
+        },
+        {
+         "line": 28.5,
+         "link": null,
+         "player": "Cade Cunningham",
+         "price": -245,
+         "sid": "2466521127",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Daniss Jenkins",
+         "price": -240,
+         "sid": "2466584284",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Daniss Jenkins",
+         "price": 175,
+         "sid": "2466584285",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Daniss Jenkins",
+         "price": -165,
+         "sid": "2466584286",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Daniss Jenkins",
+         "price": 125,
+         "sid": "2466584287",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Daniss Jenkins",
+         "price": -120,
+         "sid": "2466585040",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Daniss Jenkins",
+         "price": -110,
+         "sid": "2466585041",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Daniss Jenkins",
+         "price": 115,
+         "sid": "2466584288",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Daniss Jenkins",
+         "price": -150,
+         "sid": "2466584289",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Daniss Jenkins",
+         "price": 150,
+         "sid": "2466584290",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Daniss Jenkins",
+         "price": -200,
+         "sid": "2466584291",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Daniss Jenkins",
+         "price": 200,
+         "sid": "2466584292",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Daniss Jenkins",
+         "price": -275,
+         "sid": "2466584293",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Duncan Robinson",
+         "price": -260,
+         "sid": "2466521024",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Duncan Robinson",
+         "price": 190,
+         "sid": "2466521025",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Duncan Robinson",
+         "price": -190,
+         "sid": "2466521026",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Duncan Robinson",
+         "price": 145,
+         "sid": "2466521027",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Duncan Robinson",
+         "price": -145,
+         "sid": "2466521028",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Duncan Robinson",
+         "price": 110,
+         "sid": "2466521029",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Duncan Robinson",
+         "price": -110,
+         "sid": "2466520100",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Duncan Robinson",
+         "price": -120,
+         "sid": "2466520101",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Duncan Robinson",
+         "price": 115,
+         "sid": "2466521030",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Duncan Robinson",
+         "price": -150,
+         "sid": "2466521031",
+         "side": "Under"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Duncan Robinson",
+         "price": 150,
+         "sid": "2466521032",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Duncan Robinson",
+         "price": -200,
+         "sid": "2466521033",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Duncan Robinson",
+         "price": 185,
+         "sid": "2466521034",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Duncan Robinson",
+         "price": -250,
+         "sid": "2466521035",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Javonte Green",
+         "price": -215,
+         "sid": "2466584514",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Javonte Green",
+         "price": 160,
+         "sid": "2466584515",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Javonte Green",
+         "price": -135,
+         "sid": "2466586631",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Javonte Green",
+         "price": 105,
+         "sid": "2466586632",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Javonte Green",
+         "price": 105,
+         "sid": "2466584516",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Javonte Green",
+         "price": -135,
+         "sid": "2466586717",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Javonte Green",
+         "price": 150,
+         "sid": "2466586002",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Javonte Green",
+         "price": -200,
+         "sid": "2466586003",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Javonte Green",
+         "price": 210,
+         "sid": "2466584512",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Javonte Green",
+         "price": -290,
+         "sid": "2466584513",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Jaylen Brown",
+         "price": -250,
+         "sid": "2466521092",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Jaylen Brown",
+         "price": 185,
+         "sid": "2466521093",
+         "side": "Under"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Jaylen Brown",
+         "price": -190,
+         "sid": "2466521094",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Jaylen Brown",
+         "price": 145,
+         "sid": "2466521095",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Jaylen Brown",
+         "price": -150,
+         "sid": "2466521096",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Jaylen Brown",
+         "price": 115,
+         "sid": "2466521097",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Jaylen Brown",
+         "price": -120,
+         "sid": "2466520098",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Jaylen Brown",
+         "price": -110,
+         "sid": "2466520099",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Jaylen Brown",
+         "price": 105,
+         "sid": "2466521098",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Jaylen Brown",
+         "price": -135,
+         "sid": "2466521099",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Jaylen Brown",
+         "price": 130,
+         "sid": "2466521100",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Jaylen Brown",
+         "price": -170,
+         "sid": "2466521101",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Jaylen Brown",
+         "price": 160,
+         "sid": "2466521102",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Jaylen Brown",
+         "price": -215,
+         "sid": "2466521103",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Jaylen Brown",
+         "price": 200,
+         "sid": "2466521104",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Jaylen Brown",
+         "price": -275,
+         "sid": "2466521105",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Joel Embiid",
+         "price": -230,
+         "sid": "2466521044",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Joel Embiid",
+         "price": 170,
+         "sid": "2466521045",
+         "side": "Under"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Joel Embiid",
+         "price": -180,
+         "sid": "2466521046",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Joel Embiid",
+         "price": 135,
+         "sid": "2466521047",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Joel Embiid",
+         "price": -135,
+         "sid": "2466521048",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Joel Embiid",
+         "price": 105,
+         "sid": "2466521049",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Joel Embiid",
+         "price": -110,
+         "sid": "2466520106",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Joel Embiid",
+         "price": -120,
+         "sid": "2466520107",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Joel Embiid",
+         "price": 115,
+         "sid": "2466521050",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Joel Embiid",
+         "price": -150,
+         "sid": "2466521051",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Joel Embiid",
+         "price": 140,
+         "sid": "2466521052",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Joel Embiid",
+         "price": -185,
+         "sid": "2466521053",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Joel Embiid",
+         "price": 175,
+         "sid": "2466521042",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Joel Embiid",
+         "price": -240,
+         "sid": "2466521043",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "John Collins",
+         "price": -220,
+         "sid": "2466520996",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "John Collins",
+         "price": 165,
+         "sid": "2466520997",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "John Collins",
+         "price": -165,
+         "sid": "2466520998",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "John Collins",
+         "price": 125,
+         "sid": "2466520999",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "John Collins",
+         "price": -120,
+         "sid": "2466520112",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "John Collins",
+         "price": -110,
+         "sid": "2466520113",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "John Collins",
+         "price": 110,
+         "sid": "2466520585",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "John Collins",
+         "price": -145,
+         "sid": "2466520586",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "John Collins",
+         "price": 145,
+         "sid": "2466520587",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "John Collins",
+         "price": -190,
+         "sid": "2466520588",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "John Collins",
+         "price": 185,
+         "sid": "2466521000",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "John Collins",
+         "price": -250,
+         "sid": "2466521001",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Kevin Huerter",
+         "price": -250,
+         "sid": "2466584263",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Kevin Huerter",
+         "price": 185,
+         "sid": "2466584264",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Kevin Huerter",
+         "price": -165,
+         "sid": "2466584265",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Kevin Huerter",
+         "price": 125,
+         "sid": "2466584266",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Kevin Huerter",
+         "price": -115,
+         "sid": "2466585038",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Kevin Huerter",
+         "price": -115,
+         "sid": "2466585039",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Kevin Huerter",
+         "price": 120,
+         "sid": "2466584267",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Kevin Huerter",
+         "price": -160,
+         "sid": "2466584268",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Kevin Huerter",
+         "price": 165,
+         "sid": "2466584269",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Kevin Huerter",
+         "price": -220,
+         "sid": "2466584270",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "LeBron James",
+         "price": -250,
+         "sid": "2466521063",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "LeBron James",
+         "price": 185,
+         "sid": "2466521064",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "LeBron James",
+         "price": -185,
+         "sid": "2466521065",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "LeBron James",
+         "price": 140,
+         "sid": "2466521066",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "LeBron James",
+         "price": -145,
+         "sid": "2466521067",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "LeBron James",
+         "price": 110,
+         "sid": "2466521068",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "LeBron James",
+         "price": -110,
+         "sid": "2466520104",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "LeBron James",
+         "price": -120,
+         "sid": "2466520105",
+         "side": "Under"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "LeBron James",
+         "price": 115,
+         "sid": "2466521069",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "LeBron James",
+         "price": -150,
+         "sid": "2466521070",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "LeBron James",
+         "price": 150,
+         "sid": "2466521071",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "LeBron James",
+         "price": -200,
+         "sid": "2466521072",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "LeBron James",
+         "price": 185,
+         "sid": "2466520595",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "LeBron James",
+         "price": -250,
+         "sid": "2466520596",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Paul Reed Jr",
+         "price": -245,
+         "sid": "2466520972",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Paul Reed Jr",
+         "price": 180,
+         "sid": "2466520973",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Paul Reed Jr",
+         "price": -180,
+         "sid": "2466520974",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Paul Reed Jr",
+         "price": 135,
+         "sid": "2466520975",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Paul Reed Jr",
+         "price": -130,
+         "sid": "2466520976",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Paul Reed Jr",
+         "price": 100,
+         "sid": "2466520977",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Paul Reed Jr",
+         "price": 100,
+         "sid": "2466520108",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Paul Reed Jr",
+         "price": -130,
+         "sid": "2466520109",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Paul Reed Jr",
+         "price": 130,
+         "sid": "2466520978",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Paul Reed Jr",
+         "price": -170,
+         "sid": "2466520979",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Paul Reed Jr",
+         "price": 165,
+         "sid": "2466520980",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Paul Reed Jr",
+         "price": -220,
+         "sid": "2466520981",
+         "side": "Under"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Paul Reed Jr",
+         "price": 210,
+         "sid": "2466584155",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Paul Reed Jr",
+         "price": -290,
+         "sid": "2466584156",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Tyrese Maxey",
+         "price": -230,
+         "sid": "2466521130",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Tyrese Maxey",
+         "price": 170,
+         "sid": "2466521131",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Tyrese Maxey",
+         "price": -185,
+         "sid": "2466521132",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Tyrese Maxey",
+         "price": 140,
+         "sid": "2466521133",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Tyrese Maxey",
+         "price": -145,
+         "sid": "2466521134",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Tyrese Maxey",
+         "price": 110,
+         "sid": "2466521135",
+         "side": "Under"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Tyrese Maxey",
+         "price": -120,
+         "sid": "2466520114",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Tyrese Maxey",
+         "price": -110,
+         "sid": "2466520115",
+         "side": "Under"
+        },
+        {
+         "line": 24.5,
+         "link": null,
+         "player": "Tyrese Maxey",
+         "price": 105,
+         "sid": "2466521136",
+         "side": "Over"
+        },
+        {
+         "line": 24.5,
+         "link": null,
+         "player": "Tyrese Maxey",
+         "price": -135,
+         "sid": "2466521137",
+         "side": "Under"
+        },
+        {
+         "line": 25.5,
+         "link": null,
+         "player": "Tyrese Maxey",
+         "price": 125,
+         "sid": "2466521138",
+         "side": "Over"
+        },
+        {
+         "line": 25.5,
+         "link": null,
+         "player": "Tyrese Maxey",
+         "price": -165,
+         "sid": "2466521139",
+         "side": "Under"
+        },
+        {
+         "line": 26.5,
+         "link": null,
+         "player": "Tyrese Maxey",
+         "price": 150,
+         "sid": "2466520699",
+         "side": "Over"
+        },
+        {
+         "line": 26.5,
+         "link": null,
+         "player": "Tyrese Maxey",
+         "price": -200,
+         "sid": "2466520700",
+         "side": "Under"
+        },
+        {
+         "line": 27.5,
+         "link": null,
+         "player": "Tyrese Maxey",
+         "price": 180,
+         "sid": "2466520701",
+         "side": "Over"
+        },
+        {
+         "line": 27.5,
+         "link": null,
+         "player": "Tyrese Maxey",
+         "price": -245,
+         "sid": "2466520702",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "VJ Edgecombe",
+         "price": -245,
+         "sid": "2466520565",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "VJ Edgecombe",
+         "price": 180,
+         "sid": "2466520566",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "VJ Edgecombe",
+         "price": -170,
+         "sid": "2466520567",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "VJ Edgecombe",
+         "price": 130,
+         "sid": "2466520568",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "VJ Edgecombe",
+         "price": -125,
+         "sid": "2466520110",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "VJ Edgecombe",
+         "price": -105,
+         "sid": "2466520111",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "VJ Edgecombe",
+         "price": 105,
+         "sid": "2466520569",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "VJ Edgecombe",
+         "price": -135,
+         "sid": "2466520570",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "VJ Edgecombe",
+         "price": 140,
+         "sid": "2466520571",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "VJ Edgecombe",
+         "price": -185,
+         "sid": "2466520572",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "VJ Edgecombe",
+         "price": 180,
+         "sid": "2466520573",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "VJ Edgecombe",
+         "price": -245,
+         "sid": "2466520574",
+         "side": "Under"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/34936983",
+       "event_sid": "34936983",
+       "last_update": "2026-11-04T23:48:07Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 24.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385514007%232349321331_13L42648Q12126011617Q20",
+         "player": "Cade Cunningham",
+         "price": -119,
+         "sid": "0QA385514007#2349321331_13L42648Q12126011617Q20",
+         "side": "Over"
+        },
+        {
+         "line": 24.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385514007%232349321332_13L42648Q1-237944221Q20",
+         "player": "Cade Cunningham",
+         "price": -107,
+         "sid": "0QA385514007#2349321332_13L42648Q1-237944221Q20",
+         "side": "Under"
+        },
+        {
+         "line": 23.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385514436%232349331809_13L42648Q1716010109Q20",
+         "player": "Tyrese Maxey",
+         "price": -118,
+         "sid": "0QA385514436#2349331809_13L42648Q1716010109Q20",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385514436%232349331810_13L42648Q1-246698947Q20",
+         "player": "Tyrese Maxey",
+         "price": -108,
+         "sid": "0QA385514436#2349331810_13L42648Q1-246698947Q20",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385514510%232348795257_13L42648Q1935105358Q20",
+         "player": "Jaylen Brown",
+         "price": -120,
+         "sid": "0QA385514510#2348795257_13L42648Q1935105358Q20",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385514510%232348795305_13L42648Q11692774445Q20",
+         "player": "Jaylen Brown",
+         "price": -106,
+         "sid": "0QA385514510#2348795305_13L42648Q11692774445Q20",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385513833%232349331796_13L42648Q1935105358Q20",
+         "player": "Joel Embiid",
+         "price": -107,
+         "sid": "0QA385513833#2349331796_13L42648Q1935105358Q20",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385513833%232349331797_13L42648Q11692774445Q20",
+         "player": "Joel Embiid",
+         "price": -119,
+         "sid": "0QA385513833#2349331797_13L42648Q11692774445Q20",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385514416%232349326608_13L42648Q1-1402818428Q20",
+         "player": "LeBron James",
+         "price": -110,
+         "sid": "0QA385514416#2349326608_13L42648Q1-1402818428Q20",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385514416%232349326609_13L42648Q11172504274Q20",
+         "player": "LeBron James",
+         "price": -116,
+         "sid": "0QA385514416#2349326609_13L42648Q11172504274Q20",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385513696%232349475456_13L42648Q1-1855597963Q20",
+         "player": "Duncan Robinson",
+         "price": -107,
+         "sid": "0QA385513696#2349475456_13L42648Q1-1855597963Q20",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385513696%232349475457_13L42648Q1-23932598Q20",
+         "player": "Duncan Robinson",
+         "price": -119,
+         "sid": "0QA385513696#2349475457_13L42648Q1-23932598Q20",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385514147%232348801688_13L42648Q1-1533754046Q20",
+         "player": "Paul Reed Jr",
+         "price": -101,
+         "sid": "0QA385514147#2348801688_13L42648Q1-1533754046Q20",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385514147%232348801689_13L42648Q1-148850323Q20",
+         "player": "Paul Reed Jr",
+         "price": -126,
+         "sid": "0QA385514147#2348801689_13L42648Q1-148850323Q20",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385514435%232349178073_13L42648Q1-1856570546Q20",
+         "player": "John Collins",
+         "price": -119,
+         "sid": "0QA385514435#2349178073_13L42648Q1-1856570546Q20",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385514435%232349178074_13L42648Q1-84747951Q20",
+         "player": "John Collins",
+         "price": -107,
+         "sid": "0QA385514435#2349178074_13L42648Q1-84747951Q20",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385514583%232349325621_13L42648Q11964356459Q20",
+         "player": "VJ Edgecombe",
+         "price": -122,
+         "sid": "0QA385514583#2349325621_13L42648Q11964356459Q20",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385514583%232349325622_13L42648Q1670756388Q20",
+         "player": "VJ Edgecombe",
+         "price": -104,
+         "sid": "0QA385514583#2349325622_13L42648Q1670756388Q20",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385514225%232349177658_13L42648Q11964356459Q20",
+         "player": "Ausar Thompson",
+         "price": -115,
+         "sid": "0QA385514225#2349177658_13L42648Q11964356459Q20",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385514225%232349177659_13L42648Q1670756388Q20",
+         "player": "Ausar Thompson",
+         "price": -111,
+         "sid": "0QA385514225#2349177659_13L42648Q1670756388Q20",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385514318%232348802644_13L42648Q1-1195564899Q20",
+         "player": "Daniss Jenkins",
+         "price": -119,
+         "sid": "0QA385514318#2348802644_13L42648Q1-1195564899Q20",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385514318%232348802645_13L42648Q1-1442238935Q20",
+         "player": "Daniss Jenkins",
+         "price": -107,
+         "sid": "0QA385514318#2348802645_13L42648Q1-1442238935Q20",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385514004%232349702864_13L42648Q11720844938Q20",
+         "player": "Anfernee Simons",
+         "price": -110,
+         "sid": "0QA385514004#2349702864_13L42648Q11720844938Q20",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385514004%232349702865_13L42648Q11948178340Q20",
+         "player": "Anfernee Simons",
+         "price": -116,
+         "sid": "0QA385514004#2349702865_13L42648Q11948178340Q20",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385513740%232348801571_13L42648Q1511222344Q20",
+         "player": "Kevin Huerter",
+         "price": -111,
+         "sid": "0QA385513740#2348801571_13L42648Q1511222344Q20",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385513740%232348801572_13L42648Q1-1758311513Q20",
+         "player": "Kevin Huerter",
+         "price": -114,
+         "sid": "0QA385513740#2348801572_13L42648Q1-1758311513Q20",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385514315%232351031755_13L42648Q1-624800362Q20",
+         "player": "Javonte Green",
+         "price": -132,
+         "sid": "0QA385514315#2351031755_13L42648Q1-624800362Q20",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385514315%232351031756_13L42648Q134400246Q20",
+         "player": "Javonte Green",
+         "price": 104,
+         "sid": "0QA385514315#2351031756_13L42648Q134400246Q20",
+         "side": "Under"
+        }
+       ]
+      },
+      "espnbet": {
+       "event_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/nba/event/292cbf33-2e1e-48f0-a6f9-341b415e428c",
+       "event_sid": "292cbf33-2e1e-48f0-a6f9-341b415e428c",
+       "last_update": "2026-11-04T23:47:10Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 24.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=0f712687-f628-432b-a84b-253d28862bcc&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Cade Cunningham",
+         "price": -110,
+         "sid": "0f712687-f628-432b-a84b-253d28862bcc",
+         "side": "Over"
+        },
+        {
+         "line": 24.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=b360f470-7a97-45f2-a057-f48e0c724157&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Cade Cunningham",
+         "price": -120,
+         "sid": "b360f470-7a97-45f2-a057-f48e0c724157",
+         "side": "Under"
+        },
+        {
+         "line": 24.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=ce4e53c5-8aac-4910-a0e3-9d3f21d40507&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Tyrese Maxey",
+         "price": -105,
+         "sid": "ce4e53c5-8aac-4910-a0e3-9d3f21d40507",
+         "side": "Over"
+        },
+        {
+         "line": 24.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=cfd9cc40-86e7-4341-9898-e59b71531d69&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Tyrese Maxey",
+         "price": -125,
+         "sid": "cfd9cc40-86e7-4341-9898-e59b71531d69",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=2802e411-d413-4a8c-af9f-71d78f13484c&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Joel Embiid",
+         "price": -105,
+         "sid": "2802e411-d413-4a8c-af9f-71d78f13484c",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=0eb2af1e-cb9e-438e-8dd8-efcef4f0bde1&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Joel Embiid",
+         "price": -125,
+         "sid": "0eb2af1e-cb9e-438e-8dd8-efcef4f0bde1",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=97e3a1f8-2251-42a8-b7c5-95a5eaac37f8&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Duncan Robinson",
+         "price": -125,
+         "sid": "97e3a1f8-2251-42a8-b7c5-95a5eaac37f8",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=1708df4a-8941-4333-87dc-d3e4ba66e95f&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Duncan Robinson",
+         "price": -105,
+         "sid": "1708df4a-8941-4333-87dc-d3e4ba66e95f",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=8bd0551c-be33-4040-b42c-119020772d54&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Jaylen Brown",
+         "price": -120,
+         "sid": "8bd0551c-be33-4040-b42c-119020772d54",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=511e5ebc-aba3-4e10-afbb-6501c953ce93&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Jaylen Brown",
+         "price": -110,
+         "sid": "511e5ebc-aba3-4e10-afbb-6501c953ce93",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=e2e56be4-9995-469f-b8f7-d9338ecd1875&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "John Collins",
+         "price": -105,
+         "sid": "e2e56be4-9995-469f-b8f7-d9338ecd1875",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=d478c304-5804-49d0-b263-8f59e58110bd&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "John Collins",
+         "price": -125,
+         "sid": "d478c304-5804-49d0-b263-8f59e58110bd",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=28caf692-9d16-458b-aacd-02151bc662fb&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "LeBron James",
+         "price": -115,
+         "sid": "28caf692-9d16-458b-aacd-02151bc662fb",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=805556c3-2487-4c2f-9d83-0ff55ef2e9f5&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "LeBron James",
+         "price": -115,
+         "sid": "805556c3-2487-4c2f-9d83-0ff55ef2e9f5",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=c60ef08a-3a98-428f-987d-34f233887975&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Paul Reed Jr",
+         "price": -115,
+         "sid": "c60ef08a-3a98-428f-987d-34f233887975",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=87948e6b-5d0f-42e7-ba82-7b81bd56f27b&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Paul Reed Jr",
+         "price": -115,
+         "sid": "87948e6b-5d0f-42e7-ba82-7b81bd56f27b",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=b0f99443-6efa-449d-8445-7e8f97e82708&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Ausar Thompson",
+         "price": 100,
+         "sid": "b0f99443-6efa-449d-8445-7e8f97e82708",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=563b1820-a6bb-4b51-a00c-bc55dfba98ea&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Ausar Thompson",
+         "price": -130,
+         "sid": "563b1820-a6bb-4b51-a00c-bc55dfba98ea",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=583bee78-b205-4721-98da-f080cf9b2775&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "VJ Edgecombe",
+         "price": -120,
+         "sid": "583bee78-b205-4721-98da-f080cf9b2775",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=644d3913-45ef-48c2-8d2e-ab931603b8b8&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "VJ Edgecombe",
+         "price": -110,
+         "sid": "644d3913-45ef-48c2-8d2e-ab931603b8b8",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=76eb8944-899b-4854-bf65-784ec72fa6b4&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Daniss Jenkins",
+         "price": -105,
+         "sid": "76eb8944-899b-4854-bf65-784ec72fa6b4",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=1cf4ad12-58f0-4e42-a625-fdee22ebc7d3&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Daniss Jenkins",
+         "price": -125,
+         "sid": "1cf4ad12-58f0-4e42-a625-fdee22ebc7d3",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=c79ecd25-852f-4d32-a827-25dca33aa8ce&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Anfernee Simons",
+         "price": -110,
+         "sid": "c79ecd25-852f-4d32-a827-25dca33aa8ce",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=65bfdec4-d630-42b1-a426-deb007b9585e&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Anfernee Simons",
+         "price": -120,
+         "sid": "65bfdec4-d630-42b1-a426-deb007b9585e",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=5f6bc386-586c-43ea-b72c-196640f1c95d&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Kevin Huerter",
+         "price": -110,
+         "sid": "5f6bc386-586c-43ea-b72c-196640f1c95d",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=325ef444-a86f-47e2-9cb7-81c25a8ba051&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Kevin Huerter",
+         "price": -120,
+         "sid": "325ef444-a86f-47e2-9cb7-81c25a8ba051",
+         "side": "Under"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/nba/philadelphia-76ers-%40-detroit-pistons-36266779",
+       "event_sid": "36266779",
+       "last_update": "2026-11-04T23:47:37Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622449886&selectionId=22257211",
+         "player": "Kevin Huerter",
+         "price": -111,
+         "sid": "22257211",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622449886&selectionId=22257212",
+         "player": "Kevin Huerter",
+         "price": -115,
+         "sid": "22257212",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622324565&selectionId=15552471",
+         "player": "Jaylen Brown",
+         "price": -118,
+         "sid": "15552471",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622324565&selectionId=15552472",
+         "player": "Jaylen Brown",
+         "price": -108,
+         "sid": "15552472",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622324568&selectionId=75784960",
+         "player": "VJ Edgecombe",
+         "price": -120,
+         "sid": "75784960",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622324568&selectionId=75784927",
+         "player": "VJ Edgecombe",
+         "price": -106,
+         "sid": "75784927",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622449680&selectionId=53560520",
+         "player": "Daniss Jenkins",
+         "price": -102,
+         "sid": "53560520",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622449680&selectionId=53560519",
+         "player": "Daniss Jenkins",
+         "price": -125,
+         "sid": "53560519",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622451667&selectionId=26870488",
+         "player": "Anfernee Simons",
+         "price": -111,
+         "sid": "26870488",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622451667&selectionId=26870489",
+         "player": "Anfernee Simons",
+         "price": -115,
+         "sid": "26870489",
+         "side": "Under"
+        },
+        {
+         "line": 24.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622324564&selectionId=38185448",
+         "player": "Tyrese Maxey",
+         "price": 100,
+         "sid": "38185448",
+         "side": "Over"
+        },
+        {
+         "line": 24.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622324564&selectionId=38185450",
+         "player": "Tyrese Maxey",
+         "price": -128,
+         "sid": "38185450",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622353108&selectionId=61967199",
+         "player": "Ausar Thompson",
+         "price": 100,
+         "sid": "61967199",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622353108&selectionId=61967200",
+         "player": "Ausar Thompson",
+         "price": -128,
+         "sid": "61967200",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622344522&selectionId=27003846",
+         "player": "Duncan Robinson",
+         "price": 108,
+         "sid": "27003846",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622344522&selectionId=27003847",
+         "player": "Duncan Robinson",
+         "price": -138,
+         "sid": "27003847",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622450262&selectionId=38736960",
+         "player": "Javonte Green",
+         "price": -128,
+         "sid": "38736960",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622450262&selectionId=38736966",
+         "player": "Javonte Green",
+         "price": 100,
+         "sid": "38736966",
+         "side": "Under"
+        },
+        {
+         "line": 24.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622332331&selectionId=41536747",
+         "player": "Cade Cunningham",
+         "price": -111,
+         "sid": "41536747",
+         "side": "Over"
+        },
+        {
+         "line": 24.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622332331&selectionId=41536749",
+         "player": "Cade Cunningham",
+         "price": -115,
+         "sid": "41536749",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622324566&selectionId=12260618",
+         "player": "Joel Embiid",
+         "price": -130,
+         "sid": "12260618",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622324566&selectionId=12260619",
+         "player": "Joel Embiid",
+         "price": 102,
+         "sid": "12260619",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622324567&selectionId=12260611",
+         "player": "LeBron James",
+         "price": -113,
+         "sid": "12260611",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622324567&selectionId=12260612",
+         "player": "LeBron James",
+         "price": -113,
+         "sid": "12260612",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622349093&selectionId=15742045",
+         "player": "John Collins",
+         "price": -104,
+         "sid": "15742045",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622349093&selectionId=15742046",
+         "player": "John Collins",
+         "price": -122,
+         "sid": "15742046",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622343184&selectionId=41662858",
+         "player": "Paul Reed Jr",
+         "price": -115,
+         "sid": "41662858",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622343184&selectionId=41662857",
+         "player": "Paul Reed Jr",
+         "price": -113,
+         "sid": "41662857",
+         "side": "Under"
+        }
+       ]
+      },
+      "hardrockbet": {
+       "event_link": "https://app.hardrock.bet/home/competition/nba/5816931429661147543",
+       "event_sid": "5816931429661147543",
+       "last_update": "2026-11-04T23:47:44Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 15.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3622951422754161057",
+         "player": "LeBron James",
+         "price": -120,
+         "sid": "3622951422754161057",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4378113600896762273",
+         "player": "LeBron James",
+         "price": -110,
+         "sid": "4378113600896762273",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/494640180859371921",
+         "player": "Paul Reed Jr",
+         "price": -120,
+         "sid": "494640180859371921",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4625813229669581201",
+         "player": "Paul Reed Jr",
+         "price": -110,
+         "sid": "4625813229669581201",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6401674042109198736",
+         "player": "John Collins",
+         "price": -115,
+         "sid": "6401674042109198736",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/809294020449796496",
+         "player": "John Collins",
+         "price": -115,
+         "sid": "809294020449796496",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/296481797255070113",
+         "player": "VJ Edgecombe",
+         "price": -120,
+         "sid": "296481797255070113",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/314636933252907425",
+         "player": "VJ Edgecombe",
+         "price": -110,
+         "sid": "314636933252907425",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4571555629373718929",
+         "player": "Jaylen Brown",
+         "price": -115,
+         "sid": "4571555629373718929",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1143102452107706769",
+         "player": "Jaylen Brown",
+         "price": -115,
+         "sid": "1143102452107706769",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8495900645394612625",
+         "player": "Joel Embiid",
+         "price": -125,
+         "sid": "8495900645394612625",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6428818785175732625",
+         "player": "Joel Embiid",
+         "price": -105,
+         "sid": "6428818785175732625",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5430205491190038945",
+         "player": "Duncan Robinson",
+         "price": -105,
+         "sid": "5430205491190038945",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5145097728061211041",
+         "player": "Duncan Robinson",
+         "price": -125,
+         "sid": "5145097728061211041",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7388418108073050529",
+         "player": "Daniss Jenkins",
+         "price": -115,
+         "sid": "7388418108073050529",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7374766571702583713",
+         "player": "Daniss Jenkins",
+         "price": -115,
+         "sid": "7374766571702583713",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6592565203609715089",
+         "player": "Anfernee Simons",
+         "price": -125,
+         "sid": "6592565203609715089",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8361214869038563729",
+         "player": "Anfernee Simons",
+         "price": -105,
+         "sid": "8361214869038563729",
+         "side": "Under"
+        },
+        {
+         "line": 24.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2666761685414576515",
+         "player": "Tyrese Maxey",
+         "price": -110,
+         "sid": "2666761685414576515",
+         "side": "Over"
+        },
+        {
+         "line": 24.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8414867737939149187",
+         "player": "Tyrese Maxey",
+         "price": -120,
+         "sid": "8414867737939149187",
+         "side": "Under"
+        },
+        {
+         "line": 24.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7518336514753954205",
+         "player": "Cade Cunningham",
+         "price": -125,
+         "sid": "7518336514753954205",
+         "side": "Over"
+        },
+        {
+         "line": 24.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1156018527942082973",
+         "player": "Cade Cunningham",
+         "price": -105,
+         "sid": "1156018527942082973",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1731838376635662731",
+         "player": "Ausar Thompson",
+         "price": -110,
+         "sid": "1731838376635662731",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/861447379902136715",
+         "player": "Ausar Thompson",
+         "price": -120,
+         "sid": "861447379902136715",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7946071168254083467",
+         "player": "Kevin Huerter",
+         "price": -115,
+         "sid": "7946071168254083467",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5334968546797683083",
+         "player": "Kevin Huerter",
+         "price": -115,
+         "sid": "5334968546797683083",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1971345770561012100",
+         "player": "Javonte Green",
+         "price": -130,
+         "sid": "1971345770561012100",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7397550002844860804",
+         "player": "Javonte Green",
+         "price": 100,
+         "sid": "7397550002844860804",
+         "side": "Under"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-04T23:48:08Z",
+     "kind": "close",
+     "minutes_to_tip": 11.9,
+     "raw": "raw/2026-11-04/91df86557819598ca270ba35410cfcfa-player_points-close-20261104T234808475168Z.json",
      "rev": 1
     }
    ],
@@ -25758,6 +29201,3321 @@
      "kind": "lock",
      "minutes_to_tip": 123.7,
      "raw": "raw/2026-11-04/05200821a78e4f6db8131cff1652550f-player_points-lock-20261104T220616670397Z.json",
+     "rev": 1
+    },
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1028754093",
+       "event_sid": "1028754093",
+       "last_update": "2026-11-04T23:47:43Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Anthony Davis",
+         "price": -120,
+         "sid": "4402978205",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Bilal Coulibaly",
+         "price": -112,
+         "sid": "4402978209",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Tre Johnson",
+         "price": -118,
+         "sid": "4402934490",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Alex Sarr",
+         "price": -104,
+         "sid": "4402934500",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Kyshawn George",
+         "price": -106,
+         "sid": "4402957325",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": -136,
+         "sid": "4403981372",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "AJ Dybantsa",
+         "price": -118,
+         "sid": "4403981374",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Trae Young",
+         "price": -122,
+         "sid": "4404049451",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": -127,
+         "sid": "4404104732",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -118,
+         "sid": "4404078391",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Aaron Wiggins",
+         "price": -107,
+         "sid": "4404078532",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Asa Newell",
+         "price": -103,
+         "sid": "4404124860",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -110,
+         "sid": "4404081433",
+         "side": "Over"
+        }
+       ]
+      },
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/atlanta-hawks-at-washington-wizards-20049571",
+       "event_sid": "20049571",
+       "last_update": "2026-11-04T23:47:28Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 14.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48990-4394699-7150895&type=Single",
+         "player": "Kyshawn George",
+         "price": 100,
+         "sid": "7150895",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48990-4394738-7150969&type=Single",
+         "player": "AJ Dybantsa",
+         "price": -135,
+         "sid": "7150969",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48990-4394738-7150970&type=Single",
+         "player": "AJ Dybantsa",
+         "price": 100,
+         "sid": "7150970",
+         "side": "Under"
+        },
+        {
+         "line": 23.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48990-4394793-7151083&type=Single",
+         "player": "Anthony Davis",
+         "price": -115,
+         "sid": "7151083",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48990-4394793-7151084&type=Single",
+         "player": "Anthony Davis",
+         "price": -115,
+         "sid": "7151084",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48990-4395342-7152184&type=Single",
+         "player": "Onyeka Okongwu",
+         "price": -135,
+         "sid": "7152184",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48990-4395342-7152185&type=Single",
+         "player": "Onyeka Okongwu",
+         "price": 100,
+         "sid": "7152185",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48990-4395459-7152414&type=Single",
+         "player": "Dyson Daniels",
+         "price": -140,
+         "sid": "7152414",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48990-4395459-7152415&type=Single",
+         "player": "Dyson Daniels",
+         "price": 105,
+         "sid": "7152415",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48990-4398225-7157929&type=Single",
+         "player": "Alex Sarr",
+         "price": -135,
+         "sid": "7157929",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48990-4398225-7157930&type=Single",
+         "player": "Alex Sarr",
+         "price": 100,
+         "sid": "7157930",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48990-4400699-7162479&type=Single",
+         "player": "Trae Young",
+         "price": -130,
+         "sid": "7162479",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48990-4400699-7162480&type=Single",
+         "player": "Trae Young",
+         "price": -105,
+         "sid": "7162480",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48990-4403517-7167303&type=Single",
+         "player": "Bilal Coulibaly",
+         "price": -120,
+         "sid": "7167303",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48990-4403589-7167429&type=Single",
+         "player": "Tre Johnson",
+         "price": -120,
+         "sid": "7167429",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48990-4403813-7167842&type=Single",
+         "player": "Nickeil Alexander-Walker",
+         "price": -105,
+         "sid": "7167842",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48990-4403813-7167843&type=Single",
+         "player": "Nickeil Alexander-Walker",
+         "price": -125,
+         "sid": "7167843",
+         "side": "Under"
+        }
+       ]
+      },
+      "betonlineag": {
+       "event_link": "https://sports.betonline.ag/sportsbook/basketball/nba/game/491172192",
+       "event_sid": "491172192",
+       "last_update": "2026-11-04T23:47:36Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Kyshawn George",
+         "price": -106,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Kyshawn George",
+         "price": -122,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -114,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -114,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Alex Sarr",
+         "price": -106,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Alex Sarr",
+         "price": -122,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Tre Johnson",
+         "price": -108,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Tre Johnson",
+         "price": -120,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": -120,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": -108,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Trae Young",
+         "price": -115,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Trae Young",
+         "price": -112,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Aaron Wiggins",
+         "price": -123,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Aaron Wiggins",
+         "price": -105,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Anthony Davis",
+         "price": -114,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Anthony Davis",
+         "price": -114,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": -118,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": -110,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "AJ Dybantsa",
+         "price": -109,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "AJ Dybantsa",
+         "price": -119,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Bilal Coulibaly",
+         "price": -114,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Bilal Coulibaly",
+         "price": -114,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -108,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -120,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Asa Newell",
+         "price": -109,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Asa Newell",
+         "price": -119,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Kingston Flemings",
+         "price": -110,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Kingston Flemings",
+         "price": -118,
+         "sid": null,
+         "side": "Under"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1028754093",
+       "event_sid": "1028754093",
+       "last_update": "2026-11-04T23:47:15Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Anthony Davis",
+         "price": -118,
+         "sid": "4402978205",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Anthony Davis",
+         "price": -112,
+         "sid": "4402978206",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Bilal Coulibaly",
+         "price": -110,
+         "sid": "4402978209",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Bilal Coulibaly",
+         "price": -121,
+         "sid": "4402978210",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Tre Johnson",
+         "price": -118,
+         "sid": "4402934490",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Tre Johnson",
+         "price": -114,
+         "sid": "4402934491",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Alex Sarr",
+         "price": -103,
+         "sid": "4402934500",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Alex Sarr",
+         "price": -130,
+         "sid": "4402934501",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Kyshawn George",
+         "price": -106,
+         "sid": "4402957325",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Kyshawn George",
+         "price": -127,
+         "sid": "4402957326",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": -134,
+         "sid": "4403981372",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": 100,
+         "sid": "4403981373",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "AJ Dybantsa",
+         "price": -117,
+         "sid": "4403981374",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "AJ Dybantsa",
+         "price": -114,
+         "sid": "4403981375",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Trae Young",
+         "price": -121,
+         "sid": "4404049451",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Trae Young",
+         "price": -110,
+         "sid": "4404049452",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": -125,
+         "sid": "4404104732",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": -106,
+         "sid": "4404104733",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -117,
+         "sid": "4404078391",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -114,
+         "sid": "4404078393",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Aaron Wiggins",
+         "price": -106,
+         "sid": "4404078532",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Aaron Wiggins",
+         "price": -125,
+         "sid": "4404078533",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Asa Newell",
+         "price": -103,
+         "sid": "4404124860",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Asa Newell",
+         "price": -132,
+         "sid": "4404124861",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -109,
+         "sid": "4404081433",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -121,
+         "sid": "4404081434",
+         "side": "Under"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093",
+       "event_sid": "1028754093",
+       "last_update": "2026-11-04T23:47:31Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 6.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4404124860|{wagerAmount}",
+         "player": "Asa Newell",
+         "price": -103,
+         "sid": "4404124860",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4404124861|{wagerAmount}",
+         "player": "Asa Newell",
+         "price": -132,
+         "sid": "4404124861",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4404049451|{wagerAmount}",
+         "player": "Trae Young",
+         "price": -122,
+         "sid": "4404049451",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4404049452|{wagerAmount}",
+         "player": "Trae Young",
+         "price": -112,
+         "sid": "4404049452",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4404078391|{wagerAmount}",
+         "player": "Onyeka Okongwu",
+         "price": -118,
+         "sid": "4404078391",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4404078393|{wagerAmount}",
+         "player": "Onyeka Okongwu",
+         "price": -115,
+         "sid": "4404078393",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4404078532|{wagerAmount}",
+         "player": "Aaron Wiggins",
+         "price": -107,
+         "sid": "4404078532",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4404078533|{wagerAmount}",
+         "player": "Aaron Wiggins",
+         "price": -129,
+         "sid": "4404078533",
+         "side": "Under"
+        },
+        {
+         "line": 23.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4402978205|{wagerAmount}",
+         "player": "Anthony Davis",
+         "price": -120,
+         "sid": "4402978205",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4402978206|{wagerAmount}",
+         "player": "Anthony Davis",
+         "price": -113,
+         "sid": "4402978206",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4402978209|{wagerAmount}",
+         "player": "Bilal Coulibaly",
+         "price": -112,
+         "sid": "4402978209",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4402978210|{wagerAmount}",
+         "player": "Bilal Coulibaly",
+         "price": -122,
+         "sid": "4402978210",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4402934490|{wagerAmount}",
+         "player": "Tre Johnson",
+         "price": -118,
+         "sid": "4402934490",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4402934491|{wagerAmount}",
+         "player": "Tre Johnson",
+         "price": -114,
+         "sid": "4402934491",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4404081433|{wagerAmount}",
+         "player": "Nickeil Alexander-Walker",
+         "price": -110,
+         "sid": "4404081433",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4404081434|{wagerAmount}",
+         "player": "Nickeil Alexander-Walker",
+         "price": -122,
+         "sid": "4404081434",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4404104732|{wagerAmount}",
+         "player": "Luguentz Dort",
+         "price": -127,
+         "sid": "4404104732",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4404104733|{wagerAmount}",
+         "player": "Luguentz Dort",
+         "price": -107,
+         "sid": "4404104733",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4403981374|{wagerAmount}",
+         "player": "AJ Dybantsa",
+         "price": -118,
+         "sid": "4403981374",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4403981375|{wagerAmount}",
+         "player": "AJ Dybantsa",
+         "price": -115,
+         "sid": "4403981375",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4403981372|{wagerAmount}",
+         "player": "Dyson Daniels",
+         "price": -136,
+         "sid": "4403981372",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4403981373|{wagerAmount}",
+         "player": "Dyson Daniels",
+         "price": 100,
+         "sid": "4403981373",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4402934500|{wagerAmount}",
+         "player": "Alex Sarr",
+         "price": -104,
+         "sid": "4402934500",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4402934501|{wagerAmount}",
+         "player": "Alex Sarr",
+         "price": -132,
+         "sid": "4402934501",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4402957325|{wagerAmount}",
+         "player": "Kyshawn George",
+         "price": -106,
+         "sid": "4402957325",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754093?coupon={pickType}|4402957326|{wagerAmount}",
+         "player": "Kyshawn George",
+         "price": -127,
+         "sid": "4402957326",
+         "side": "Under"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/basketball/nba/atlanta-hawks-washington-wizards-202611041900",
+       "event_sid": "33130771",
+       "last_update": "2026-11-04T23:45:39Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Aaron Wiggins",
+         "price": -275,
+         "sid": "2466575671",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Aaron Wiggins",
+         "price": 200,
+         "sid": "2466575672",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Aaron Wiggins",
+         "price": -190,
+         "sid": "2466575673",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Aaron Wiggins",
+         "price": 145,
+         "sid": "2466575674",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Aaron Wiggins",
+         "price": -145,
+         "sid": "2466575675",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Aaron Wiggins",
+         "price": 110,
+         "sid": "2466575676",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Aaron Wiggins",
+         "price": -110,
+         "sid": "2466575195",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Aaron Wiggins",
+         "price": -120,
+         "sid": "2466575196",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Aaron Wiggins",
+         "price": 120,
+         "sid": "2466575677",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Aaron Wiggins",
+         "price": -160,
+         "sid": "2466575678",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Aaron Wiggins",
+         "price": 150,
+         "sid": "2466575679",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Aaron Wiggins",
+         "price": -200,
+         "sid": "2466575680",
+         "side": "Under"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Aaron Wiggins",
+         "price": 190,
+         "sid": "2466692209",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Aaron Wiggins",
+         "price": -260,
+         "sid": "2466692210",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "AJ Dybantsa",
+         "price": -230,
+         "sid": "2466562013",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "AJ Dybantsa",
+         "price": 170,
+         "sid": "2466562014",
+         "side": "Under"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "AJ Dybantsa",
+         "price": -180,
+         "sid": "2466562015",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "AJ Dybantsa",
+         "price": 135,
+         "sid": "2466562016",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "AJ Dybantsa",
+         "price": -135,
+         "sid": "2466561780",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "AJ Dybantsa",
+         "price": 105,
+         "sid": "2466561781",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "AJ Dybantsa",
+         "price": -110,
+         "sid": "2466560447",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "AJ Dybantsa",
+         "price": -120,
+         "sid": "2466560448",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "AJ Dybantsa",
+         "price": 115,
+         "sid": "2466561782",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "AJ Dybantsa",
+         "price": -150,
+         "sid": "2466561783",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "AJ Dybantsa",
+         "price": 140,
+         "sid": "2466562017",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "AJ Dybantsa",
+         "price": -185,
+         "sid": "2466562018",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "AJ Dybantsa",
+         "price": 175,
+         "sid": "2466562019",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "AJ Dybantsa",
+         "price": -240,
+         "sid": "2466562020",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Alex Sarr",
+         "price": -210,
+         "sid": "2466562030",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Alex Sarr",
+         "price": 155,
+         "sid": "2466562031",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Alex Sarr",
+         "price": -150,
+         "sid": "2466562032",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Alex Sarr",
+         "price": 115,
+         "sid": "2466562033",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Alex Sarr",
+         "price": -110,
+         "sid": "2466559481",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Alex Sarr",
+         "price": -120,
+         "sid": "2466559482",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Alex Sarr",
+         "price": 120,
+         "sid": "2466561439",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Alex Sarr",
+         "price": -160,
+         "sid": "2466561440",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Alex Sarr",
+         "price": 160,
+         "sid": "2466561441",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Alex Sarr",
+         "price": -215,
+         "sid": "2466561442",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Alex Sarr",
+         "price": 210,
+         "sid": "2466561443",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Alex Sarr",
+         "price": -290,
+         "sid": "2466561444",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Anthony Davis",
+         "price": -245,
+         "sid": "2466561778",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Anthony Davis",
+         "price": 180,
+         "sid": "2466561779",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Anthony Davis",
+         "price": -190,
+         "sid": "2466561966",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Anthony Davis",
+         "price": 145,
+         "sid": "2466561967",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Anthony Davis",
+         "price": -160,
+         "sid": "2466561968",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Anthony Davis",
+         "price": 120,
+         "sid": "2466561969",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Anthony Davis",
+         "price": -125,
+         "sid": "2466560443",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Anthony Davis",
+         "price": -105,
+         "sid": "2466560444",
+         "side": "Under"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Anthony Davis",
+         "price": 100,
+         "sid": "2466561970",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Anthony Davis",
+         "price": -130,
+         "sid": "2466561971",
+         "side": "Under"
+        },
+        {
+         "line": 24.5,
+         "link": null,
+         "player": "Anthony Davis",
+         "price": 120,
+         "sid": "2466561972",
+         "side": "Over"
+        },
+        {
+         "line": 24.5,
+         "link": null,
+         "player": "Anthony Davis",
+         "price": -160,
+         "sid": "2466561973",
+         "side": "Under"
+        },
+        {
+         "line": 25.5,
+         "link": null,
+         "player": "Anthony Davis",
+         "price": 145,
+         "sid": "2466561974",
+         "side": "Over"
+        },
+        {
+         "line": 25.5,
+         "link": null,
+         "player": "Anthony Davis",
+         "price": -190,
+         "sid": "2466561975",
+         "side": "Under"
+        },
+        {
+         "line": 26.5,
+         "link": null,
+         "player": "Anthony Davis",
+         "price": 175,
+         "sid": "2466561976",
+         "side": "Over"
+        },
+        {
+         "line": 26.5,
+         "link": null,
+         "player": "Anthony Davis",
+         "price": -240,
+         "sid": "2466561977",
+         "side": "Under"
+        },
+        {
+         "line": 27.5,
+         "link": null,
+         "player": "Anthony Davis",
+         "price": 215,
+         "sid": "2466561978",
+         "side": "Over"
+        },
+        {
+         "line": 27.5,
+         "link": null,
+         "player": "Anthony Davis",
+         "price": -295,
+         "sid": "2466561979",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Bilal Coulibaly",
+         "price": -260,
+         "sid": "2466562347",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Bilal Coulibaly",
+         "price": 190,
+         "sid": "2466562348",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Bilal Coulibaly",
+         "price": -170,
+         "sid": "2466562349",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Bilal Coulibaly",
+         "price": 130,
+         "sid": "2466562350",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Bilal Coulibaly",
+         "price": -120,
+         "sid": "2466560445",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Bilal Coulibaly",
+         "price": -110,
+         "sid": "2466560446",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Bilal Coulibaly",
+         "price": 115,
+         "sid": "2466561956",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Bilal Coulibaly",
+         "price": -150,
+         "sid": "2466561957",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Bilal Coulibaly",
+         "price": 160,
+         "sid": "2466561958",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Bilal Coulibaly",
+         "price": -215,
+         "sid": "2466561959",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": -230,
+         "sid": "2466573312",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": 170,
+         "sid": "2466573313",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": -170,
+         "sid": "2466573314",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": 130,
+         "sid": "2466573315",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": -135,
+         "sid": "2466573316",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": 105,
+         "sid": "2466575717",
+         "side": "Under"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": -105,
+         "sid": "2466567227",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": -125,
+         "sid": "2466567228",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": 120,
+         "sid": "2466575718",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": -160,
+         "sid": "2466575719",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": 150,
+         "sid": "2466575720",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": -200,
+         "sid": "2466575721",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": 190,
+         "sid": "2466573310",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": -260,
+         "sid": "2466573311",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": -250,
+         "sid": "2466575663",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": 185,
+         "sid": "2466575664",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": -180,
+         "sid": "2466575340",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": 135,
+         "sid": "2466575341",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": -130,
+         "sid": "2466567211",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": 100,
+         "sid": "2466567212",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": 100,
+         "sid": "2466575667",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": -130,
+         "sid": "2466575668",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": 130,
+         "sid": "2466575344",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": -170,
+         "sid": "2466575345",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": 170,
+         "sid": "2466575669",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": -230,
+         "sid": "2466575670",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Kyshawn George",
+         "price": -245,
+         "sid": "2466561990",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Kyshawn George",
+         "price": 180,
+         "sid": "2466561991",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Kyshawn George",
+         "price": -180,
+         "sid": "2466561998",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Kyshawn George",
+         "price": 135,
+         "sid": "2466561999",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Kyshawn George",
+         "price": -135,
+         "sid": "2466562000",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Kyshawn George",
+         "price": 105,
+         "sid": "2466562001",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Kyshawn George",
+         "price": -105,
+         "sid": "2466560449",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Kyshawn George",
+         "price": -125,
+         "sid": "2466560450",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Kyshawn George",
+         "price": 120,
+         "sid": "2466562002",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Kyshawn George",
+         "price": -160,
+         "sid": "2466562003",
+         "side": "Under"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Kyshawn George",
+         "price": 155,
+         "sid": "2466562004",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Kyshawn George",
+         "price": -210,
+         "sid": "2466562005",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Kyshawn George",
+         "price": 200,
+         "sid": "2466561988",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Kyshawn George",
+         "price": -275,
+         "sid": "2466561989",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": -240,
+         "sid": "2466575681",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": 175,
+         "sid": "2466575682",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": -165,
+         "sid": "2466575354",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": 125,
+         "sid": "2466575355",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": -120,
+         "sid": "2466575197",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": -110,
+         "sid": "2466575198",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": 115,
+         "sid": "2466575356",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": -150,
+         "sid": "2466575357",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": 150,
+         "sid": "2466575358",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": -200,
+         "sid": "2466575359",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": 200,
+         "sid": "2466634424",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": -275,
+         "sid": "2466634425",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -290,
+         "sid": "2466575366",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": 210,
+         "sid": "2466575367",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -220,
+         "sid": "2466575368",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": 165,
+         "sid": "2466575369",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -180,
+         "sid": "2466575370",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": 135,
+         "sid": "2466575371",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -145,
+         "sid": "2466575374",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": 110,
+         "sid": "2466575375",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -115,
+         "sid": "2466567229",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -115,
+         "sid": "2466567230",
+         "side": "Under"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": 110,
+         "sid": "2466575685",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -145,
+         "sid": "2466575686",
+         "side": "Under"
+        },
+        {
+         "line": 24.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": 130,
+         "sid": "2466575376",
+         "side": "Over"
+        },
+        {
+         "line": 24.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -170,
+         "sid": "2466575377",
+         "side": "Under"
+        },
+        {
+         "line": 25.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": 160,
+         "sid": "2466575378",
+         "side": "Over"
+        },
+        {
+         "line": 25.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -215,
+         "sid": "2466575379",
+         "side": "Under"
+        },
+        {
+         "line": 26.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": 190,
+         "sid": "2466573293",
+         "side": "Over"
+        },
+        {
+         "line": 26.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -260,
+         "sid": "2466573294",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -230,
+         "sid": "2466575542",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": 170,
+         "sid": "2466575543",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -170,
+         "sid": "2466575544",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": 130,
+         "sid": "2466575545",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -130,
+         "sid": "2466567219",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": 100,
+         "sid": "2466567220",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": 100,
+         "sid": "2466575546",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -130,
+         "sid": "2466575547",
+         "side": "Under"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": 125,
+         "sid": "2466575548",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -165,
+         "sid": "2466575549",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": 160,
+         "sid": "2466575550",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -215,
+         "sid": "2466575551",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": 200,
+         "sid": "2466575552",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -275,
+         "sid": "2466575553",
+         "side": "Under"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Trae Young",
+         "price": -260,
+         "sid": "2466561455",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Trae Young",
+         "price": 190,
+         "sid": "2466561456",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Trae Young",
+         "price": -200,
+         "sid": "2466561445",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Trae Young",
+         "price": 150,
+         "sid": "2466561446",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Trae Young",
+         "price": -160,
+         "sid": "2466561447",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Trae Young",
+         "price": 120,
+         "sid": "2466561448",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Trae Young",
+         "price": -125,
+         "sid": "2466560439",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Trae Young",
+         "price": -105,
+         "sid": "2466560440",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Trae Young",
+         "price": 100,
+         "sid": "2466561449",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Trae Young",
+         "price": -130,
+         "sid": "2466561450",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Trae Young",
+         "price": 125,
+         "sid": "2466561451",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Trae Young",
+         "price": -165,
+         "sid": "2466561452",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Trae Young",
+         "price": 150,
+         "sid": "2466561453",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Trae Young",
+         "price": -200,
+         "sid": "2466561454",
+         "side": "Under"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Trae Young",
+         "price": 185,
+         "sid": "2466561784",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Trae Young",
+         "price": -250,
+         "sid": "2466561785",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Tre Johnson",
+         "price": -230,
+         "sid": "2466562042",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Tre Johnson",
+         "price": 170,
+         "sid": "2466562043",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Tre Johnson",
+         "price": -150,
+         "sid": "2466562044",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Tre Johnson",
+         "price": 115,
+         "sid": "2466562045",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Tre Johnson",
+         "price": -110,
+         "sid": "2466560441",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Tre Johnson",
+         "price": -120,
+         "sid": "2466560442",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Tre Johnson",
+         "price": 125,
+         "sid": "2466562046",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Tre Johnson",
+         "price": -165,
+         "sid": "2466562047",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Tre Johnson",
+         "price": 170,
+         "sid": "2466562040",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Tre Johnson",
+         "price": -230,
+         "sid": "2466562041",
+         "side": "Under"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/34936984",
+       "event_sid": "34936984",
+       "last_update": "2026-11-04T23:47:32Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714363%232349657141_13L42648Q11931915178Q20",
+         "player": "Anthony Davis",
+         "price": -123,
+         "sid": "0QA385714363#2349657141_13L42648Q11931915178Q20",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714363%232349657142_13L42648Q12094929165Q20",
+         "player": "Anthony Davis",
+         "price": -104,
+         "sid": "0QA385714363#2349657142_13L42648Q12094929165Q20",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714551%232349679790_13L42648Q11931915178Q20",
+         "player": "Nickeil Alexander-Walker",
+         "price": -112,
+         "sid": "0QA385714551#2349679790_13L42648Q11931915178Q20",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714551%232349679791_13L42648Q12094929165Q20",
+         "player": "Nickeil Alexander-Walker",
+         "price": -114,
+         "sid": "0QA385714551#2349679791_13L42648Q12094929165Q20",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714547%232349510817_13L42648Q1-692842954Q20",
+         "player": "Trae Young",
+         "price": -118,
+         "sid": "0QA385714547#2349510817_13L42648Q1-692842954Q20",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714547%232349510818_13L42648Q1-238425594Q20",
+         "player": "Trae Young",
+         "price": -108,
+         "sid": "0QA385714547#2349510818_13L42648Q1-238425594Q20",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714023%232350694836_13L42648Q1935105358Q20",
+         "player": "AJ Dybantsa",
+         "price": -109,
+         "sid": "0QA385714023#2350694836_13L42648Q1935105358Q20",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714023%232350694837_13L42648Q11692774445Q20",
+         "player": "AJ Dybantsa",
+         "price": -117,
+         "sid": "0QA385714023#2350694837_13L42648Q11692774445Q20",
+         "side": "Under"
+        },
+        {
+         "line": 16.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714375%232349680489_13L42648Q12120712626Q20",
+         "player": "C.J. McCollum",
+         "price": -101,
+         "sid": "0QA385714375#2349680489_13L42648Q12120712626Q20",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714375%232349680490_13L42648Q1351768104Q20",
+         "player": "C.J. McCollum",
+         "price": -126,
+         "sid": "0QA385714375#2349680490_13L42648Q1351768104Q20",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714087%232349505654_13L42648Q1-1855597963Q20",
+         "player": "Onyeka Okongwu",
+         "price": -119,
+         "sid": "0QA385714087#2349505654_13L42648Q1-1855597963Q20",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714087%232349505684_13L42648Q1-23932598Q20",
+         "player": "Onyeka Okongwu",
+         "price": -107,
+         "sid": "0QA385714087#2349505684_13L42648Q1-23932598Q20",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714641%232349507728_13L42648Q1-1533754046Q20",
+         "player": "Kyshawn George",
+         "price": -127,
+         "sid": "0QA385714641#2349507728_13L42648Q1-1533754046Q20",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714641%232349507745_13L42648Q1-148850323Q20",
+         "player": "Kyshawn George",
+         "price": 100,
+         "sid": "0QA385714641#2349507745_13L42648Q1-148850323Q20",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714386%232349506193_13L42648Q1-1533754046Q20",
+         "player": "Aaron Wiggins",
+         "price": -104,
+         "sid": "0QA385714386#2349506193_13L42648Q1-1533754046Q20",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714386%232349506273_13L42648Q1-148850323Q20",
+         "player": "Aaron Wiggins",
+         "price": -122,
+         "sid": "0QA385714386#2349506273_13L42648Q1-148850323Q20",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714753%232349685764_13L42648Q1-1856570546Q20",
+         "player": "Dyson Daniels",
+         "price": -131,
+         "sid": "0QA385714753#2349685764_13L42648Q1-1856570546Q20",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714753%232349685765_13L42648Q1-84747951Q20",
+         "player": "Dyson Daniels",
+         "price": 102,
+         "sid": "0QA385714753#2349685765_13L42648Q1-84747951Q20",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714268%232349657216_13L42648Q11964356459Q20",
+         "player": "Alex Sarr",
+         "price": -107,
+         "sid": "0QA385714268#2349657216_13L42648Q11964356459Q20",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714268%232349657217_13L42648Q1670756388Q20",
+         "player": "Alex Sarr",
+         "price": -119,
+         "sid": "0QA385714268#2349657217_13L42648Q1670756388Q20",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714095%232349757882_13L42648Q1-1195564899Q20",
+         "player": "Luguentz Dort",
+         "price": -115,
+         "sid": "0QA385714095#2349757882_13L42648Q1-1195564899Q20",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714095%232349757883_13L42648Q1-1442238935Q20",
+         "player": "Luguentz Dort",
+         "price": -111,
+         "sid": "0QA385714095#2349757883_13L42648Q1-1442238935Q20",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714757%232349506895_13L42648Q11720844938Q20",
+         "player": "Tre Johnson",
+         "price": -111,
+         "sid": "0QA385714757#2349506895_13L42648Q11720844938Q20",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714757%232349507002_13L42648Q11948178340Q20",
+         "player": "Tre Johnson",
+         "price": -115,
+         "sid": "0QA385714757#2349507002_13L42648Q11948178340Q20",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714273%232349598270_13L42648Q11720844938Q20",
+         "player": "Kingston Flemings",
+         "price": -106,
+         "sid": "0QA385714273#2349598270_13L42648Q11720844938Q20",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714273%232349598271_13L42648Q11948178340Q20",
+         "player": "Kingston Flemings",
+         "price": -120,
+         "sid": "0QA385714273#2349598271_13L42648Q11948178340Q20",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714257%232349510925_13L42648Q1511222344Q20",
+         "player": "Bilal Coulibaly",
+         "price": -115,
+         "sid": "0QA385714257#2349510925_13L42648Q1511222344Q20",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714257%232349510926_13L42648Q1-1758311513Q20",
+         "player": "Bilal Coulibaly",
+         "price": -110,
+         "sid": "0QA385714257#2349510926_13L42648Q1-1758311513Q20",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714265%232349679609_13L42648Q1-1554373190Q20",
+         "player": "Asa Newell",
+         "price": -118,
+         "sid": "0QA385714265#2349679609_13L42648Q1-1554373190Q20",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385714265%232349679610_13L42648Q12036065197Q20",
+         "player": "Asa Newell",
+         "price": -108,
+         "sid": "0QA385714265#2349679610_13L42648Q12036065197Q20",
+         "side": "Under"
+        }
+       ]
+      },
+      "espnbet": {
+       "event_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/nba/event/9dbe043d-3b56-4069-acb8-f9da5cde743a",
+       "event_sid": "9dbe043d-3b56-4069-acb8-f9da5cde743a",
+       "last_update": "2026-11-04T23:47:14Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=bc0bcad8-9e4f-4704-926f-7740490ab3ee&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Anthony Davis",
+         "price": -125,
+         "sid": "bc0bcad8-9e4f-4704-926f-7740490ab3ee",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=53fd3c0b-b13c-4a65-bed1-935ae639662a&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Anthony Davis",
+         "price": -105,
+         "sid": "53fd3c0b-b13c-4a65-bed1-935ae639662a",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=c4a1bde2-ddd3-4b9a-8904-795b3c73db6b&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Nickeil Alexander-Walker",
+         "price": -105,
+         "sid": "c4a1bde2-ddd3-4b9a-8904-795b3c73db6b",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=924d9146-c094-49f9-9b65-6069a36ae241&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Nickeil Alexander-Walker",
+         "price": -125,
+         "sid": "924d9146-c094-49f9-9b65-6069a36ae241",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=9004335a-2678-4726-8ac1-d26c300e5484&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Onyeka Okongwu",
+         "price": -125,
+         "sid": "9004335a-2678-4726-8ac1-d26c300e5484",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=99c534ae-c724-483b-bcc2-e983579fcf59&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Onyeka Okongwu",
+         "price": -105,
+         "sid": "99c534ae-c724-483b-bcc2-e983579fcf59",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=8f966eea-7cf0-4b6c-8ccc-773d0e765e1c&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Trae Young",
+         "price": -115,
+         "sid": "8f966eea-7cf0-4b6c-8ccc-773d0e765e1c",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=cafcf205-fb18-4dea-8e99-a5badf1b05a6&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Trae Young",
+         "price": -115,
+         "sid": "cafcf205-fb18-4dea-8e99-a5badf1b05a6",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=74215bdf-65d3-48e8-963b-7800771df420&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "AJ Dybantsa",
+         "price": -110,
+         "sid": "74215bdf-65d3-48e8-963b-7800771df420",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=bf2ff00f-0c4c-43af-aa78-cf74c31231cb&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "AJ Dybantsa",
+         "price": -120,
+         "sid": "bf2ff00f-0c4c-43af-aa78-cf74c31231cb",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=5efada15-027b-4744-8941-3f4cf2ee7943&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Dyson Daniels",
+         "price": -125,
+         "sid": "5efada15-027b-4744-8941-3f4cf2ee7943",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=d60937e3-d245-4d95-84f0-61ae12e36ee5&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Dyson Daniels",
+         "price": -105,
+         "sid": "d60937e3-d245-4d95-84f0-61ae12e36ee5",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=91d18423-37fc-4209-a25c-c4f15206beca&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Aaron Wiggins",
+         "price": -105,
+         "sid": "91d18423-37fc-4209-a25c-c4f15206beca",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=8de73edc-bfdf-4591-be02-54e861a35811&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Aaron Wiggins",
+         "price": -125,
+         "sid": "8de73edc-bfdf-4591-be02-54e861a35811",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=e225c322-1866-4e7c-bc05-8069f53a65e7&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Luguentz Dort",
+         "price": -120,
+         "sid": "e225c322-1866-4e7c-bc05-8069f53a65e7",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=ede9ef19-7042-49e2-92b8-0eabc49bc46e&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Luguentz Dort",
+         "price": -110,
+         "sid": "ede9ef19-7042-49e2-92b8-0eabc49bc46e",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=97087e7f-55bc-405e-af89-ebd9ea8109ed&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Kyshawn George",
+         "price": -110,
+         "sid": "97087e7f-55bc-405e-af89-ebd9ea8109ed",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=7e56f18b-68ed-4b5e-aba2-eea975de2c0c&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Kyshawn George",
+         "price": -120,
+         "sid": "7e56f18b-68ed-4b5e-aba2-eea975de2c0c",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=624ff856-4dec-458d-8dbd-2d018d06dd4c&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Alex Sarr",
+         "price": -110,
+         "sid": "624ff856-4dec-458d-8dbd-2d018d06dd4c",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=86905988-4786-417b-ac46-9e885fc7ae6f&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Alex Sarr",
+         "price": -120,
+         "sid": "86905988-4786-417b-ac46-9e885fc7ae6f",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=310e518a-fff8-45e2-9c1e-d09993acda22&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Kingston Flemings",
+         "price": -105,
+         "sid": "310e518a-fff8-45e2-9c1e-d09993acda22",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=2ba22c8d-2601-48a4-bd2f-697d914dd443&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Kingston Flemings",
+         "price": -125,
+         "sid": "2ba22c8d-2601-48a4-bd2f-697d914dd443",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=529a5557-5d44-4861-a11b-4bbd1d8a8439&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Tre Johnson",
+         "price": -105,
+         "sid": "529a5557-5d44-4861-a11b-4bbd1d8a8439",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=23d2588b-074c-4624-824e-d61448eb103a&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Tre Johnson",
+         "price": -125,
+         "sid": "23d2588b-074c-4624-824e-d61448eb103a",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=ceb17f88-8ab5-46fe-9b92-2fdb897131d5&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Bilal Coulibaly",
+         "price": -115,
+         "sid": "ceb17f88-8ab5-46fe-9b92-2fdb897131d5",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=f4833352-060a-4b61-b37b-96de7cbd4cb3&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Bilal Coulibaly",
+         "price": -115,
+         "sid": "f4833352-060a-4b61-b37b-96de7cbd4cb3",
+         "side": "Under"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/nba/atlanta-hawks-%40-washington-wizards-36266784",
+       "event_sid": "36266784",
+       "last_update": "2026-11-04T23:46:53Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 14.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622445254&selectionId=74706441",
+         "player": "Kyshawn George",
+         "price": -111,
+         "sid": "74706441",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622445254&selectionId=74706439",
+         "player": "Kyshawn George",
+         "price": -115,
+         "sid": "74706439",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622445784&selectionId=75942787",
+         "player": "Tre Johnson",
+         "price": -106,
+         "sid": "75942787",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622445784&selectionId=75942786",
+         "player": "Tre Johnson",
+         "price": -120,
+         "sid": "75942786",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622445402&selectionId=90729348",
+         "player": "AJ Dybantsa",
+         "price": -106,
+         "sid": "90729348",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622445402&selectionId=90729347",
+         "player": "AJ Dybantsa",
+         "price": -120,
+         "sid": "90729347",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622779387&selectionId=91126163",
+         "player": "Kingston Flemings",
+         "price": -120,
+         "sid": "91126163",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622779387&selectionId=91126164",
+         "player": "Kingston Flemings",
+         "price": -106,
+         "sid": "91126164",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622445515&selectionId=92784087",
+         "player": "Alex Sarr",
+         "price": -108,
+         "sid": "92784087",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622445515&selectionId=92784086",
+         "player": "Alex Sarr",
+         "price": -118,
+         "sid": "92784086",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622773326&selectionId=77376026",
+         "player": "Asa Newell",
+         "price": -104,
+         "sid": "77376026",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622773326&selectionId=77376008",
+         "player": "Asa Newell",
+         "price": -122,
+         "sid": "77376008",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622445657&selectionId=62134999",
+         "player": "Bilal Coulibaly",
+         "price": -115,
+         "sid": "62134999",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622445657&selectionId=62135001",
+         "player": "Bilal Coulibaly",
+         "price": -111,
+         "sid": "62135001",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622434677&selectionId=12260572",
+         "player": "C.J. McCollum",
+         "price": -125,
+         "sid": "12260572",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622434677&selectionId=12260571",
+         "player": "C.J. McCollum",
+         "price": -102,
+         "sid": "12260571",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622445160&selectionId=21175415",
+         "player": "Trae Young",
+         "price": -113,
+         "sid": "21175415",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622445160&selectionId=21175416",
+         "player": "Trae Young",
+         "price": -113,
+         "sid": "21175416",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622445159&selectionId=12260628",
+         "player": "Anthony Davis",
+         "price": -122,
+         "sid": "12260628",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622445159&selectionId=12260629",
+         "player": "Anthony Davis",
+         "price": -104,
+         "sid": "12260629",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622435258&selectionId=42130901",
+         "player": "Aaron Wiggins",
+         "price": 100,
+         "sid": "42130901",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622435258&selectionId=42130900",
+         "player": "Aaron Wiggins",
+         "price": -128,
+         "sid": "42130900",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622435259&selectionId=35489576",
+         "player": "Luguentz Dort",
+         "price": -118,
+         "sid": "35489576",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622435259&selectionId=35489577",
+         "player": "Luguentz Dort",
+         "price": -108,
+         "sid": "35489577",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622434017&selectionId=38310472",
+         "player": "Nickeil Alexander-Walker",
+         "price": -128,
+         "sid": "38310472",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622434017&selectionId=38310473",
+         "player": "Nickeil Alexander-Walker",
+         "price": 100,
+         "sid": "38310473",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622434338&selectionId=42160899",
+         "player": "Onyeka Okongwu",
+         "price": -128,
+         "sid": "42160899",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622434338&selectionId=42160900",
+         "player": "Onyeka Okongwu",
+         "price": 100,
+         "sid": "42160900",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622434936&selectionId=50686100",
+         "player": "Dyson Daniels",
+         "price": -122,
+         "sid": "50686100",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622434936&selectionId=50686102",
+         "player": "Dyson Daniels",
+         "price": -104,
+         "sid": "50686102",
+         "side": "Under"
+        }
+       ]
+      },
+      "hardrockbet": {
+       "event_link": "https://app.hardrock.bet/home/competition/nba/4540213711859745199",
+       "event_sid": "4540213711859745199",
+       "last_update": "2026-11-04T23:47:39Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 22.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3040487124093764012",
+         "player": "Nickeil Alexander-Walker",
+         "price": -110,
+         "sid": "3040487124093764012",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7841337521010246060",
+         "player": "Nickeil Alexander-Walker",
+         "price": -120,
+         "sid": "7841337521010246060",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5722745740053315984",
+         "player": "Alex Sarr",
+         "price": -110,
+         "sid": "5722745740053315984",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7520948628769341840",
+         "player": "Alex Sarr",
+         "price": -120,
+         "sid": "7520948628769341840",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7192467330948006276",
+         "player": "Onyeka Okongwu",
+         "price": -120,
+         "sid": "7192467330948006276",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2011744462727938436",
+         "player": "Onyeka Okongwu",
+         "price": -110,
+         "sid": "2011744462727938436",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/338921083950465412",
+         "player": "Kyshawn George",
+         "price": -110,
+         "sid": "338921083950465412",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1240344696866341252",
+         "player": "Kyshawn George",
+         "price": -120,
+         "sid": "1240344696866341252",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7338851911023591814",
+         "player": "Dyson Daniels",
+         "price": -120,
+         "sid": "7338851911023591814",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3072078292183024006",
+         "player": "Dyson Daniels",
+         "price": -110,
+         "sid": "3072078292183024006",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1967561687477387663",
+         "player": "AJ Dybantsa",
+         "price": -115,
+         "sid": "1967561687477387663",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3583298422540730767",
+         "player": "AJ Dybantsa",
+         "price": -115,
+         "sid": "3583298422540730767",
+         "side": "Under"
+        },
+        {
+         "line": 23.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7401911101899800966",
+         "player": "Anthony Davis",
+         "price": -105,
+         "sid": "7401911101899800966",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5234518596855660934",
+         "player": "Anthony Davis",
+         "price": -125,
+         "sid": "5234518596855660934",
+         "side": "Under"
+        },
+        {
+         "line": 16.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2694101378925724046",
+         "player": "C.J. McCollum",
+         "price": -115,
+         "sid": "2694101378925724046",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6847933163361141134",
+         "player": "C.J. McCollum",
+         "price": -115,
+         "sid": "6847933163361141134",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1291089357511459213",
+         "player": "Trae Young",
+         "price": -120,
+         "sid": "1291089357511459213",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2942467861500789133",
+         "player": "Trae Young",
+         "price": -110,
+         "sid": "2942467861500789133",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5850776374389899651",
+         "player": "Luguentz Dort",
+         "price": -120,
+         "sid": "5850776374389899651",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/9198710116130619779",
+         "player": "Luguentz Dort",
+         "price": -110,
+         "sid": "9198710116130619779",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3184239889944281509",
+         "player": "Tre Johnson",
+         "price": -110,
+         "sid": "3184239889944281509",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3342499195599847845",
+         "player": "Tre Johnson",
+         "price": -120,
+         "sid": "3342499195599847845",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3294425798454411652",
+         "player": "Bilal Coulibaly",
+         "price": -115,
+         "sid": "3294425798454411652",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8037032865424343428",
+         "player": "Bilal Coulibaly",
+         "price": -115,
+         "sid": "8037032865424343428",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3769478817203224975",
+         "player": "Asa Newell",
+         "price": -110,
+         "sid": "3769478817203224975",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1044009394272076175",
+         "player": "Asa Newell",
+         "price": -120,
+         "sid": "1044009394272076175",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/52047080482537861",
+         "player": "Kingston Flemings",
+         "price": -115,
+         "sid": "52047080482537861",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8861228689107583365",
+         "player": "Kingston Flemings",
+         "price": -115,
+         "sid": "8861228689107583365",
+         "side": "Under"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-04T23:48:08Z",
+     "kind": "close",
+     "minutes_to_tip": 21.9,
+     "raw": "raw/2026-11-04/05200821a78e4f6db8131cff1652550f-player_points-close-20261104T234808475168Z.json",
      "rev": 1
     }
    ],
@@ -65050,8 +71808,8 @@
   }
  },
  "issues": [],
- "spent_month": 41,
- "spent_today": 22,
+ "spent_month": 43,
+ "spent_today": 24,
  "stop": null,
- "updated": "2026-11-04T22:30:10Z"
+ "updated": "2026-11-04T23:48:08Z"
 }
