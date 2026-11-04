@@ -1,6 +1,6 @@
 # NBA board, 2026-11-04
 
-Slate updated 2026-11-04 14:34 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-04 14:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -13,7 +13,7 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 14:34 New York Knicks: Josh Hart Day-To-Day → Out
 
 ## PHI @ DET, 19:00 ET
-Line: DET -2.5, total 219.5 (Draft Kings).
+Line: DET -2.5, total 219.5 (DraftKings).
 **PHI** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Dominick Barlow, Ariel Hukporti.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -51,7 +51,7 @@ Line: DET -2.5, total 219.5 (Draft Kings).
 | Isaiah Joe | Out | 13.7 (6.8) | 7.3/7.3 | 1.7/1.7 | 1/1 | 1/1 | – |
 
 ## ATL @ WSH, 19:00 ET
-Line: ATL -3.5, total 230.5 (Draft Kings).
+Line: ATL -3.5, total 230.5 (DraftKings).
 **ATL** (1 rest day). Out: Jock Landale. Freed minutes: 15.3. Out all season so far (already in the lines): Mouhamed Gueye, Henri Veesaar.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -89,7 +89,7 @@ Line: ATL -3.5, total 230.5 (Draft Kings).
 | Khris Middleton | – | 13.8 (5.8) → 14.6 (6.4) | 2.4/2.4 → 5 (0–11) | 1.6/1.6 → 2 (0–4) | 0.4/0.4 → 1 (0–3) | 0.2/0.2 → 0 (0–2) | 8 (1–17) |
 
 ## CHA @ BKN, 19:30 ET
-Line: CHA -3.5, total 212.5 (Draft Kings).
+Line: CHA -3.5, total 212.5 (DraftKings).
 **CHA** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Grant Williams.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -127,7 +127,7 @@ Line: CHA -3.5, total 212.5 (Draft Kings).
 | Danny Wolf | – | 13.5 (1.5) → 15 (7.3) | 7.5/7.5 → 6 (1–13) | 4/4 → 3 (1–7) | 1.5/1.5 → 1 (0–4) | 2.5/2.5 → 1 (0–3) | 12 (3–22) |
 
 ## MIL @ BOS, 19:30 ET
-Line: BOS -11.5, total 221.5 (Draft Kings).
+Line: BOS -11.5, total 221.5 (DraftKings).
 **MIL** (1 rest day). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -161,7 +161,7 @@ Line: BOS -11.5, total 221.5 (Draft Kings).
 | Luka Garza | – | 14.4 (5.7) → 14.1 (6.3) | 7.8/7 → 7 (1–15) | 3.4/2.9 → 3 (1–7) | 1.4/1 → 1 (0–2) | 1.2/1.1 → 1 (0–3) | 11 (3–22) |
 
 ## CHI @ NY, 19:30 ET
-Line: NY -12.5, total 233.5 (Draft Kings).
+Line: NY -12.5, total 233.5 (DraftKings).
 **CHI** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Nic Claxton.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -194,7 +194,7 @@ Line: NY -12.5, total 233.5 (Draft Kings).
 | Jose Alvarado | – | 12 (2.9) → 12.9 (5.2) | 3.3/3.3 → 4 (0–9) | 1.7/1.7 → 1 (0–4) | 1.7/1.7 → 2 (0–4) | 0.7/0.7 → 1 (0–2) | 8 (1–16) |
 
 ## IND @ MEM, 20:00 ET
-Line: MEM -6.5, total 228.5 (Draft Kings).
+Line: MEM -6.5, total 228.5 (DraftKings).
 **IND** (1 rest day). Out: Tyrese Haliburton, Obi Toppin, Ivica Zubac, Ben Sheppard. Freed minutes: 89.7. Out all season so far (already in the lines): T.J. McConnell, Johnny Furphy.
 - Without Obi Toppin: Jalen Slawson min +15.9, pts +4.1, reb +3.1, ast +0.5 (n=3 vs 4)
 - Without Tyrese Haliburton: Jalen Slawson min +13.2, pts +2.9, reb +1.5, ast +0.5 (n=4 vs 3)
@@ -236,7 +236,7 @@ Line: MEM -6.5, total 228.5 (Draft Kings).
 | Scotty Pippen Jr. | Out | 16.2 (2.5) | 6.4/6.4 | 2.2/2.2 | 2.2/2.2 | 0.4/0.4 | – |
 
 ## UTAH @ NO, 20:00 ET
-Line: NO -4.5, total 231.5 (Draft Kings).
+Line: NO -4.5, total 231.5 (DraftKings).
 **UTAH** (1 rest day). Out: Jaren Jackson Jr.. Freed minutes: 26. Out all season so far (already in the lines): Jusuf Nurkic, Trey Alexander.
 - Without Jaren Jackson Jr.: Josh Okogie min +7.3, pts +4, reb +2.6, ast +1 (n=3 vs 3)
 - Without Jaren Jackson Jr.: Ace Bailey min +6.5, pts -2, reb -2.2, ast -2 (n=3 vs 4)
@@ -278,7 +278,7 @@ Line: NO -4.5, total 231.5 (Draft Kings).
 | Trendon Watford | – | 17 (0.8) → 16.8 (9.1) | 6.3/6.3 → 6 (1–12) | 3/3 → 3 (1–6) | 1/1 → 2 (0–4) | 0/0 → 0 (0–1) | 11 (3–21) |
 
 ## CLE @ OKC, 20:00 ET
-Line: OKC -3.5, total 226.5 (Draft Kings).
+Line: OKC -3.5, total 226.5 (DraftKings).
 **CLE** (1 rest day). Out: Peyton Watson, Jaylon Tyson. Freed minutes: 49.1.
 - Without Jaylon Tyson: Tyrese Proctor min +8, pts +6, reb +1.8, ast +2 (n=2 vs 4)
 - Without Jaylon Tyson: Craig Porter Jr. min +6.3, pts +0, reb +1.3, ast +2.2 (n=2 vs 3)
@@ -319,7 +319,7 @@ Line: OKC -3.5, total 226.5 (Draft Kings).
 | Alex Caruso | – | 19 (6) → 17.8 (9.3) | 9.2/9.2 → 7 (1–14) | 4.8/4.8 → 3 (1–6) | 3.8/3.8 → 2 (0–5) | 2/2 → 1 (0–3) | 13 (4–23) |
 
 ## MIN @ HOU, 20:30 ET
-Line: HOU -7.5, total 218.5 (Draft Kings).
+Line: HOU -7.5, total 218.5 (DraftKings).
 **MIN** (1 rest day). Out: Anthony Edwards, Terrence Shannon Jr.. Freed minutes: 55.8. Out all season so far (already in the lines): Donte DiVincenzo.
 - Without Anthony Edwards: Jaylen Clark min +12.5, pts +4.2, reb +0.2, ast +0.3 (n=4 vs 3)
 - Without Anthony Edwards: Ayo Dosunmu min +8, pts +7.5, reb +3.8, ast +0.2 (n=4 vs 4)
@@ -361,7 +361,7 @@ Line: HOU -7.5, total 218.5 (Draft Kings).
 | Steven Adams | Out | 8 (–) | 4/4 | 2/2 | 1/1 | 0/0 | – |
 
 ## TOR @ DEN, 21:00 ET
-Line: DEN -4.5, total 231.5 (Draft Kings).
+Line: DEN -4.5, total 231.5 (DraftKings).
 **TOR** (1 rest day). Out: Kawhi Leonard. Freed minutes: 26. Out all season so far (already in the lines): Nate Bittle.
 - Without Kawhi Leonard: Ja'Kobe Walter min +8.3, pts +4.7, reb +0.9, ast -0.6 (n=5 vs 2)
 - Without Kawhi Leonard: Jakob Poeltl min -7.2, pts +0.2, reb -2.8, ast +0 (n=3 vs 2)
@@ -399,7 +399,7 @@ Line: DEN -4.5, total 231.5 (Draft Kings).
 | Spencer Jones | Out | none this season; last season 22.2 min, 5.5 pts | | | | |
 
 ## POR @ PHX, 21:00 ET
-Line: POR -2.5, total 227.5 (Draft Kings).
+Line: POR -2.5, total 227.5 (DraftKings).
 **POR** (1 rest day). Out: Ja Morant. Freed minutes: 26. Out all season so far (already in the lines): Shaedon Sharpe.
 - Without Ja Morant: Scoot Henderson min +9.5, pts +3.5, reb +0.3, ast +0 (n=2 vs 4)
 - Without Ja Morant: Toumani Camara min +6, pts -4, reb +2.7, ast -1 (n=2 vs 4)
@@ -436,7 +436,7 @@ Line: POR -2.5, total 227.5 (Draft Kings).
 | Rasheer Fleming | Day-To-Day | 7.5 (4.5) → 8.2 (0.5) | 0.5/0.5 → 2 (0–7) | 1.5/1.5 → 1 (0–4) | 0/0 → 0 (0–1) | 0/0 → 0 (0–2) | 4 (0–11) |
 
 ## DAL @ SA, 21:30 ET
-Line: SA -12.5, total 226.5 (Draft Kings).
+Line: SA -12.5, total 226.5 (DraftKings).
 **DAL** (1 rest day). Out: Max Christie, Sergio de Larrea. Freed minutes: 35.7. Out all season so far (already in the lines): Santi Aldama, Tarik Biberovic, Dereck Lively II.
 - Without Sergio de Larrea: Cooper Flagg min +7.3, pts +0.3, reb +0.7, ast +0.4 (n=3 vs 3)
 - Without Sergio de Larrea: Daniel Gafford min +5.8, pts +8.5, reb +2.3, ast -1.5 (n=3 vs 4)
@@ -473,7 +473,7 @@ Line: SA -12.5, total 226.5 (Draft Kings).
 | Jayden Quaintance | Out | no games | | | | |
 
 ## LAL @ SAC, 22:00 ET
-Line: LAL -12.5, total 233.5 (Draft Kings).
+Line: LAL -12.5, total 233.5 (DraftKings).
 **LAL** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Adou Thiero.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -511,7 +511,7 @@ Line: LAL -12.5, total 233.5 (Draft Kings).
 | Daeqwon Plowden | – | 12 (6.5) → 12.1 (3.5) | 2.2/2.5 → 4 (0–10) | 1.2/1.3 → 1 (0–3) | 0.2/0.3 → 0 (0–2) | 0.4/0.3 → 0 (0–2) | 6 (0–13) |
 
 ## MIA @ LAC, 22:30 ET
-Line: MIA -5.5, total 233.5 (Draft Kings).
+Line: MIA -5.5, total 233.5 (DraftKings).
 **MIA** (1 rest day). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
