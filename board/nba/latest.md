@@ -1,6 +1,6 @@
 # NBA board, 2026-11-04
 
-Slate updated 2026-11-04 14:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-04 16:15 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -11,6 +11,10 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 14:34 Miami Heat: Myron Gardner Day-To-Day → removed from report
 - 14:34 Minnesota Timberwolves: Terrence Shannon Jr. Day-To-Day → Out
 - 14:34 New York Knicks: Josh Hart Day-To-Day → Out
+- 16:15 LA Clippers: Isaiah Jackson not listed → Day-To-Day
+- 16:15 Phoenix Suns: Rasheer Fleming Day-To-Day → Out
+- 16:15 Sacramento Kings: Daeqwon Plowden not listed → Out
+- 16:15 Sacramento Kings: Precious Achiuwa Day-To-Day → removed from report
 
 ## PHI @ DET, 19:00 ET
 Line: DET -2.5, total 219.5 (DraftKings).
@@ -419,7 +423,11 @@ Line: POR -2.5, total 227.5 (DraftKings).
 | Robert Williams III | – | 16.6 (2.6) → 16.5 (8.8) | 6.8/6.8 → 6 (1–12) | 7/7 → 6 (2–12) | 1/1 → 1 (0–3) | 0/0 → 0 (0–0) | 14 (4–25) |
 | Shaedon Sharpe | Out | none this season; last season 29.4 min, 20.8 pts | | | | |
 
-**PHX** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Mark Williams.
+**PHX** (1 rest day). Out: Rasheer Fleming. Freed minutes: 7.5. Out all season so far (already in the lines): Mark Williams.
+- Without Rasheer Fleming: Collin Gillespie min +6.3, pts +5.5, reb +1.7, ast +5 (n=3 vs 2)
+- Without Rasheer Fleming: Devin Booker min +5.2, pts +16.7, reb +1, ast +1.2 (n=3 vs 2)
+- Without Rasheer Fleming: Miles Bridges min +4.5, pts +7.8, reb +1.7, ast +0.7 (n=3 vs 2)
+- Without Rasheer Fleming: Ryan Dunn min -2.7, pts +0.5, reb +1.2, ast +0.2 (n=3 vs 2)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -433,7 +441,7 @@ Line: POR -2.5, total 227.5 (DraftKings).
 | Jordan Goodwin | Day-To-Day | 18.8 (5.1) → 18.5 (10.8) | 7.8/7.8 → 7 (2–14) | 3.4/3.4 → 3 (1–7) | 2.6/2.6 → 2 (0–4) | 1.8/1.8 → 1 (0–3) | 13 (5–23) |
 | Luke Kennard | – | 16 (2.4) → 16.8 (9.1) | 8.8/8.8 → 7 (1–14) | 2/2 → 2 (0–4) | 1.5/1.5 → 1 (0–4) | 2.2/2.2 → 1 (0–3) | 10 (3–19) |
 | Ryan Dunn | – | 12.4 (1.6) → 12.9 (5.2) | 4.8/4.8 → 4 (0–9) | 3.2/3.2 → 3 (0–6) | 0.6/0.6 → 1 (0–2) | 0.8/0.8 → 0 (0–2) | 8 (1–16) |
-| Rasheer Fleming | Day-To-Day | 7.5 (4.5) → 8.2 (0.5) | 0.5/0.5 → 2 (0–7) | 1.5/1.5 → 1 (0–4) | 0/0 → 0 (0–1) | 0/0 → 0 (0–2) | 4 (0–11) |
+| Rasheer Fleming | Out | 7.5 (4.5) | 0.5/0.5 | 1.5/1.5 | 0/0 | 0/0 | – |
 
 ## DAL @ SA, 21:30 ET
 Line: SA -12.5, total 226.5 (DraftKings).
@@ -490,11 +498,11 @@ Line: LAL -12.5, total 233.5 (DraftKings).
 | Jarred Vanderbilt | – | 13 (5.3) → 12.6 (4.7) | 1.5/1.5 → 3 (0–7) | 3.5/3.5 → 3 (0–7) | 1.5/1.5 → 1 (0–3) | 0/0 → 0 (0–1) | 7 (1–15) |
 | Adou Thiero | Out | none this season; last season 6 min, 1.9 pts | | | | |
 
-**SAC** (1 rest day). Out: Keegan Murray. Freed minutes: 27. Out all season so far (already in the lines): Maxime Raynaud, Ben Simmons.
+**SAC** (1 rest day). Out: Keegan Murray, Daeqwon Plowden. Freed minutes: 39.2. Out all season so far (already in the lines): Maxime Raynaud, Ben Simmons.
 - Without Keegan Murray: De'Andre Hunter min +10.9, pts +11, reb +0.2, ast +0.2 (n=5 vs 2)
-- Without Keegan Murray: Daeqwon Plowden min -6.5, pts -1.5, reb +0.5, ast -0.3 (n=4 vs 2)
 - Without Keegan Murray: Zach LaVine min -4.7, pts -2.2, reb -2.1, ast +0.5 (n=5 vs 2)
 - Without Keegan Murray: Emanuel Sharp min +3.7, pts -2.7, reb +0.5, ast +0.3 (n=5 vs 2)
+- Without Keegan Murray: Nique Clifford min -3.7, pts -2.5, reb +0, ast -0.7 (n=4 vs 2)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -502,13 +510,13 @@ Line: LAL -12.5, total 233.5 (DraftKings).
 | Domantas Sabonis | – | 36.2 (2.9) → 33.7 (26) | 12.8/15 → 15 (7–23) | 13/14.6 → 12 (7–19) | 6/6.9 → 5 (2–9) | 0/0.1 → 0 (0–1) | 32 (19–47) |
 | De'Andre Hunter | – | 33.4 (5.6) → 30.1 (22.3) | 16/12.9 → 14 (6–22) | 5.2/5.1 → 5 (2–8) | 1.2/1.1 → 1 (0–3) | 2.6/2.1 → 2 (0–4) | 20 (10–31) |
 | Zach LaVine | – | 31.8 (6.5) → 29.8 (21.2) | 22.8/23.4 → 19 (10–30) | 2.4/3 → 2 (1–5) | 3/2.9 → 2 (0–4) | 2.8/2.9 → 2 (1–5) | 24 (13–37) |
-| Precious Achiuwa | Day-To-Day | 29.2 (8.4) → 28 (17.3) | 10.4/11.6 → 11 (4–19) | 7/6.6 → 7 (3–12) | 1.2/1.3 → 1 (0–3) | 0/0.1 → 0 (0–1) | 19 (9–32) |
+| Precious Achiuwa | – | 29.2 (8.4) → 28 (17.3) | 10.4/11.6 → 11 (4–19) | 7/6.6 → 7 (3–12) | 1.2/1.3 → 1 (0–3) | 0/0.1 → 0 (0–1) | 19 (9–32) |
 | Keegan Murray | Out | 27 (1) | 7/7 | 3/3 | 0.5/0.5 | 0/0 | – |
 | Emanuel Sharp | – | 19.2 (3.3) → 19.2 (11.5) | 3.8/4.6 → 6 (1–11) | 1/0.9 → 2 (0–5) | 0.8/0.7 → 1 (0–3) | 1/1.1 → 1 (0–2) | 10 (3–18) |
 | Jonathan Mogbo | – | 17.2 (6.1) → 16.8 (8.4) | 3.8/3.8 → 4 (0–8) | 2.8/2.8 → 4 (1–7) | 1/1 → 1 (0–3) | 0.2/0.2 → 0 (0–0) | 9 (2–17) |
 | Leaky Black | – | 16.5 (8.5) → 19.9 (12.2) | 7/7 → 6 (1–11) | 2/2 → 3 (1–6) | 1/1 → 1 (0–2) | 2/2 → 1 (0–3) | 10 (3–18) |
 | Malik Monk | – | 15.4 (7) → 17.4 (8.2) | 8.6/7.2 → 9 (2–18) | 1.2/1.2 → 1 (0–3) | 3.8/3.5 → 3 (0–6) | 1.2/1 → 1 (0–4) | 14 (4–25) |
-| Daeqwon Plowden | – | 12 (6.5) → 12.1 (3.5) | 2.2/2.5 → 4 (0–10) | 1.2/1.3 → 1 (0–3) | 0.2/0.3 → 0 (0–2) | 0.4/0.3 → 0 (0–2) | 6 (0–13) |
+| Daeqwon Plowden | Out | 12 (6.5) | 2.2/2.5 | 1.2/1.3 | 0.2/0.3 | 0.4/0.3 | – |
 
 ## MIA @ LAC, 22:30 ET
 Line: MIA -5.5, total 233.5 (DraftKings).
@@ -536,7 +544,7 @@ Line: MIA -5.5, total 233.5 (DraftKings).
 | Kobe Sanders | – | 27.8 (6.5) → 27.1 (18.5) | 14/11 → 11 (4–20) | 3.8/3.1 → 3 (1–6) | 1.4/2.1 → 2 (0–4) | 2.6/2 → 2 (0–4) | 17 (7–27) |
 | Keaton Wagler | – | 24.4 (3) → 24.2 (16.5) | 11.4/12.1 → 10 (3–17) | 4.6/4.4 → 4 (2–8) | 3.4/3.6 → 3 (1–5) | 1/1.4 → 1 (0–3) | 17 (7–28) |
 | Max Strus | – | 23 (–) → 23.3 (15.6) | 11/11 → 11 (4–18) | 4/4 → 5 (2–9) | 6/6 → 2 (1–5) | 3/3 → 2 (1–5) | 18 (8–30) |
-| Isaiah Jackson | – | 22.6 (4) → 22.2 (14.5) | 9.6/9.6 → 9 (3–16) | 6.8/6.4 → 7 (3–11) | 2.6/2.3 → 2 (0–4) | 0.2/0.1 → 0 (0–1) | 18 (8–29) |
+| Isaiah Jackson | Day-To-Day | 22.6 (4) → 22.2 (14.5) | 9.6/9.6 → 9 (3–16) | 6.8/6.4 → 7 (3–11) | 2.6/2.3 → 2 (0–4) | 0.2/0.1 → 0 (0–1) | 18 (8–29) |
 | Brook Lopez | – | 21.4 (2.4) → 21.5 (13.8) | 9.8/12.6 → 9 (3–17) | 3.6/4.7 → 4 (1–7) | 1.2/1 → 1 (0–3) | 1.2/1.3 → 1 (0–3) | 14 (6–25) |
 | Gradey Dick | – | 16.2 (7.5) → 16.2 (6.6) | 5.2/6.3 → 6 (1–13) | 2.6/3 → 2 (0–5) | 0.8/0.6 → 1 (0–2) | 0.8/0.7 → 0 (0–2) | 9 (2–19) |
 | Yanic Konan Niederhauser | Out | none this season; last season 10.4 min, 4.3 pts | | | | |

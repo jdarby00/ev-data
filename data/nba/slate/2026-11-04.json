@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "updated_et": "2026-11-04 14:45",
+ "updated_et": "2026-11-04 16:15",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -471,6 +471,13 @@
   ],
   "LA Clippers": [
    {
+    "player": "Isaiah Jackson",
+    "status": "Day-To-Day",
+    "detail": "Jackson is questionable for Wednesday's game against the Heat with left groin soreness, per Law Murray of The Athletic.",
+    "type": "day-to-day",
+    "updated": "2026-11-04T20:11Z"
+   },
+   {
     "player": "Yanic Konan Niederhauser",
     "status": "Out",
     "detail": "The Clippers recalled Niederhauser (foot) from the G League's San Diego Clippers on Sunday.",
@@ -659,18 +666,18 @@
   ],
   "Phoenix Suns": [
    {
+    "player": "Rasheer Fleming",
+    "status": "Out",
+    "detail": "Fleming is out for Wednesday's game against the Trail Blazers due to a sprained left ankle.",
+    "type": "out",
+    "updated": "2026-11-04T20:17Z"
+   },
+   {
     "player": "Jordan Goodwin",
     "status": "Day-To-Day",
     "detail": "Goodwin (calf) is questionable for Wednesday's game against Portland, Duane Rankin of The Arizona Republic reports.",
     "type": "day-to-day",
     "updated": "2026-11-04T00:26Z"
-   },
-   {
-    "player": "Rasheer Fleming",
-    "status": "Day-To-Day",
-    "detail": "Fleming is questionable for Wednesday's game against the Trail Blazers due to a sprained left ankle, Duane Rankin of The Arizona Republic reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-04T00:19Z"
    },
    {
     "player": "Mark Williams",
@@ -698,11 +705,11 @@
   ],
   "Sacramento Kings": [
    {
-    "player": "Precious Achiuwa",
-    "status": "Day-To-Day",
-    "detail": "Achiuwa (ankle) is listed as probable for Wednesday's game against the Lakers.",
-    "type": "day-to-day",
-    "updated": "2026-11-04T00:36Z"
+    "player": "Daeqwon Plowden",
+    "status": "Out",
+    "detail": "Plowden registered three points (1-3 FG, 1-3 3Pt), three rebounds and one assist across 16 minutes during Sunday's 123-112 loss to the Grizzlies.",
+    "type": "out",
+    "updated": "2026-11-04T21:04Z"
    },
    {
     "player": "Maxime Raynaud",
@@ -882,6 +889,34 @@
    "player": "Josh Hart",
    "from": "Day-To-Day",
    "to": "Out"
+  },
+  {
+   "at_et": "2026-11-04 16:15",
+   "team": "LA Clippers",
+   "player": "Isaiah Jackson",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-04 16:15",
+   "team": "Phoenix Suns",
+   "player": "Rasheer Fleming",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-04 16:15",
+   "team": "Sacramento Kings",
+   "player": "Daeqwon Plowden",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-04 16:15",
+   "team": "Sacramento Kings",
+   "player": "Precious Achiuwa",
+   "from": "Day-To-Day",
+   "to": "removed from report"
   }
  ]
 }
