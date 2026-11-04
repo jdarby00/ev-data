@@ -7,6 +7,7 @@ job is due and dispatches it:
 
   14:05 ET  ev-data pipeline (fresh board before the price request)
   14:25 ET  dk-odds auto-request (lock prices for the necessary game-markets)
+  14:45 ET  ev-data pipeline (the screener reads the fresh lock prices and logs shadow bets)
   16:15 ET  ev-data pipeline (fresh board and statuses before the 4:45 pm Claude run)
   tip - 12  dk-odds collector, once per cluster of tips (close snapshots, inside its
             30-minute close window; tips up to 28 minutes later share the same call)
@@ -42,6 +43,7 @@ MAX_NAP = 600             # wake at least every 10 minutes to refresh the plan
 DAY_JOBS = [  # (key, ET time, action)
     ("board_1405", (14, 5), "board"),
     ("auto_1425", (14, 25), "auto"),
+    ("board_1445", (14, 45), "board"),
     ("board_1615", (16, 15), "board"),
 ]
 ACTIONS = {  # action -> (repo, workflow file, inputs, token env var)

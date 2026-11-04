@@ -35,7 +35,7 @@ class Plan(unittest.TestCase):
         jobs = C.plan(utc(13), DAY, SLATE, None, {})
         keys = [(C.iso(f), k) for f, k, _, _ in jobs]
         self.assertEqual(keys[:3], [("2026-11-04T19:05:00Z", "board_1405"), ("2026-11-04T19:25:00Z", "auto_1425"),
-                                    ("2026-11-04T21:15:00Z", "board_1615")])
+                                    ("2026-11-04T19:45:00Z", "board_1445")])
         closes = [(C.iso(f), [C.iso(t) for t in cov]) for f, _, a, cov in jobs if a == "close"]
         # 7:00 and 7:30 pm tips share one call at 6:48 pm (7:30 is 42 min later: too far), so three calls
         self.assertEqual(closes, [("2026-11-04T23:48:00Z", ["2026-11-05T00:00:00Z"]),
@@ -54,7 +54,7 @@ class Plan(unittest.TestCase):
         self.assertEqual(closes, ["2026-11-05T02:58:00Z"])  # the closed 7:10 pm game is skipped
 
     def test_done_jobs_and_late_starts(self):
-        done = {"board_1405": "x", "auto_1425": "x", "close:2026-11-05T00:00:00Z": "x"}
+        done = {"board_1405": "x", "auto_1425": "x", "board_1445": "x", "close:2026-11-05T00:00:00Z": "x"}
         jobs = C.plan(utc(23, 30), DAY, SLATE, None, done)
         # board_1615 is late but still useful before the 7 pm tip; the 7 pm close is done
         self.assertEqual([k for _, k, _, _ in jobs][0], "board_1615")
@@ -94,7 +94,7 @@ class Loop(unittest.TestCase):
         with mock.patch.object(C, "dispatch", fake_dispatch), mock.patch.object(C, "RUN_BUDGET", dt.timedelta(hours=12)):
             C.run(dry_run=True, now_fn=lambda: t[0], sleep=sleep)
         self.assertEqual(sent, [("2026-11-04T19:05:00Z", "board"), ("2026-11-04T19:25:00Z", "auto"),
-                                ("2026-11-04T21:15:00Z", "board"), ("2026-11-04T23:48:00Z", "close"),
+                                ("2026-11-04T19:45:00Z", "board"), ("2026-11-04T21:15:00Z", "board"), ("2026-11-04T23:48:00Z", "close"),
                                 ("2026-11-05T00:18:00Z", "close"), ("2026-11-05T02:48:00Z", "close")])
 
     def test_hands_over_before_the_time_limit(self):

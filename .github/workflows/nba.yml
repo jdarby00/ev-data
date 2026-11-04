@@ -32,6 +32,7 @@ jobs:
           python3 -I tests/test_pipeline.py
           python3 -I tests/test_ledger.py
           python3 -I tests/test_clock.py > /dev/null
+          python3 -I tests/test_screener.py
       - name: Box scores
         if: github.event.schedule == '20 10 * * *' || (github.event_name == 'workflow_dispatch' && inputs.boxscores)
         run: python3 -I pipeline/nba_boxscores.py
@@ -43,6 +44,17 @@ jobs:
         run: |
           D="${{ inputs.date }}"
           python3 -I pipeline/nba_board.py ${D:+--date "$D"}
+      - name: Snapshot the slate (point-in-time, never overwritten)
+        if: inputs.date == '' || inputs.date == null
+        run: |
+          D=$(TZ=America/New_York date +%F)
+          if [ -f "data/nba/slate/$D.json" ]; then
+            mkdir -p "snapshots/nba/$D"
+            gzip -9c "data/nba/slate/$D.json" > "snapshots/nba/$D/$(date -u +%H%MZ)-slate.json.gz"
+          fi
+      - name: Screen prices and log shadow bets
+        if: inputs.date == '' || inputs.date == null
+        run: python3 -I pipeline/screener.py --log
       - name: Grade the ledger and rebuild the scoreboard
         if: always()
         run: python3 -I pipeline/grade.py
@@ -51,7 +63,7 @@ jobs:
         run: |
           git config user.name "ev-data pipeline"
           git config user.email "ev-data@users.noreply.github.com"
-          git add data board ledger
+          git add data board ledger snapshots
           git diff --cached --quiet && { echo "nothing new"; exit 0; }
           git commit -m "nba: $(TZ=America/New_York date +'%Y-%m-%d %H:%M ET')"
           for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep 5; done

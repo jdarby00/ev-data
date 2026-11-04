@@ -38,6 +38,15 @@ Example:
 - Settle what the grader can't (soccer, NFL, NHL for now): `python3 -I pipeline/ledger.py settle <id> --result win --actual 2 --reason "source, time"`
 - Check: `python3 -I pipeline/ledger.py verify`; list: `python3 -I pipeline/ledger.py show --date 2026-11-04`
 
+## Shadow bets from the screener
+
+`pipeline/screener.py` runs in every pipeline run (and at 2:45 pm ET via the clock, right after the lock prices land). For every DraftKings or FanDuel side it computes a fair chance from the *other* books' no-vig prices at the same line, and logs one paper bet per prop per day:
+
+- `screener`: edge 3%+, fair from 2+ other books.
+- `screener_wide`: edge 2%+, fair from 1+ other book.
+
+Only the bigger side is kept when books disagree both ways. Prices outside −300..+300 and props starting within 10 minutes are skipped. The full screen (every non-negative edge) is in `board/nba/<date>-screen.md`. These contestants exist to measure, without Claude and without real money, whether price edges survive to the close and to the result.
+
 ## What the grader does
 
 - NBA props and game lines are settled from `data/nba/boxscores_2026_27.csv` once the date is in `_checked_dates.txt`. A player who didn't play, or isn't in the box score, is void (as the books do).

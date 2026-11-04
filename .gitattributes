@@ -1,0 +1,3 @@
+# Bets and amendments are append-only: concurrent appends from Actions and Claude runs merge by union.
+ledger/bets.jsonl merge=union
+ledger/amendments.jsonl merge=union
