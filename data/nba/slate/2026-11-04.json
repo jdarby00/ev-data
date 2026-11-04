@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "updated_et": "2026-11-04 12:59",
+ "updated_et": "2026-11-04 14:34",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -28,7 +28,7 @@
    "state": "pre",
    "spread_text": "ATL -3.5",
    "spread": 3.5,
-   "total": 231.5,
+   "total": 230.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -54,9 +54,9 @@
    "away_name": "Milwaukee Bucks",
    "home_name": "Boston Celtics",
    "state": "pre",
-   "spread_text": "BOS -10.5",
-   "spread": -10.5,
-   "total": 220.5,
+   "spread_text": "BOS -11.5",
+   "spread": -11.5,
+   "total": 221.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -82,8 +82,8 @@
    "away_name": "Indiana Pacers",
    "home_name": "Memphis Grizzlies",
    "state": "pre",
-   "spread_text": "MEM -5.5",
-   "spread": -5.5,
+   "spread_text": "MEM -6.5",
+   "spread": -6.5,
    "total": 228.5,
    "odds_source": "Draft Kings",
    "season_type": 2
@@ -96,9 +96,9 @@
    "away_name": "Utah Jazz",
    "home_name": "New Orleans Pelicans",
    "state": "pre",
-   "spread_text": "NO -6.5",
-   "spread": -6.5,
-   "total": 232.5,
+   "spread_text": "NO -4.5",
+   "spread": -4.5,
+   "total": 231.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -126,7 +126,7 @@
    "state": "pre",
    "spread_text": "HOU -7.5",
    "spread": -7.5,
-   "total": 219.5,
+   "total": 218.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -168,7 +168,7 @@
    "state": "pre",
    "spread_text": "SA -12.5",
    "spread": -12.5,
-   "total": 225.5,
+   "total": 226.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -273,11 +273,11 @@
   ],
   "Charlotte Hornets": [
    {
-    "player": "Kon Knueppel",
+    "player": "Grant Williams",
     "status": "Out",
-    "detail": "Knueppel (hamstring) is listed as probable for Wednesday's game against the Nets.",
+    "detail": "Charlotte assigned Williams (hamstring) to the G League's Greensboro Swarm on Wednesday.",
     "type": "out",
-    "updated": "2026-11-03T22:13Z"
+    "updated": "2026-11-04T17:59Z"
    },
    {
     "player": "Coby White",
@@ -285,13 +285,6 @@
     "detail": "White (calf) is probable for Wednesday's game in Brooklyn.",
     "type": "day-to-day",
     "updated": "2026-11-03T22:06Z"
-   },
-   {
-    "player": "Grant Williams",
-    "status": "Out",
-    "detail": "Williams (hamstring) is listed as out for Monday's game against the Pistons.",
-    "type": "out",
-    "updated": "2026-11-01T22:17Z"
    }
   ],
   "Chicago Bulls": [
@@ -330,9 +323,9 @@
    {
     "player": "Santi Aldama",
     "status": "Out",
-    "detail": "Aldama (knee) was spotted at Wednesday's morning shootaround, Brad Townsend of The Dallas Morning News reports.",
+    "detail": "Aldama (knee) is doubtful for Wednesday's game against the Spurs, per NBA reporter Marc Stein.",
     "type": "out",
-    "updated": "2026-11-04T17:03Z"
+    "updated": "2026-11-04T18:56Z"
    },
    {
     "player": "Max Christie",
@@ -412,10 +405,10 @@
   "Houston Rockets": [
    {
     "player": "Clint Capela",
-    "status": "Day-To-Day",
-    "detail": "Capela (ankle) is listed as questionable for Wednesday's game against the Timberwolves.",
-    "type": "day-to-day",
-    "updated": "2026-11-03T22:19Z"
+    "status": "Out",
+    "detail": "Capela (ankle) is out for Wednesday's game against the Timberwolves.",
+    "type": "out",
+    "updated": "2026-11-04T18:36Z"
    },
    {
     "player": "Steven Adams",
@@ -510,9 +503,9 @@
    {
     "player": "Adou Thiero",
     "status": "Out",
-    "detail": "Head coach JJ Redick said Monday that Thiero (knee) has participated in live action, and the hope is that he'll be available by the end of the week, Khobi Price of The California Post reports.",
+    "detail": "The Lakers assigned Thiero (knee) to the G League's Coachella Valley Lakers on Wednesday, per Khobi Price of The California Post.",
     "type": "out",
-    "updated": "2026-11-03T01:30Z"
+    "updated": "2026-11-04T18:48Z"
    }
   ],
   "Memphis Grizzlies": [
@@ -533,13 +526,6 @@
   ],
   "Miami Heat": [
    {
-    "player": "Myron Gardner",
-    "status": "Day-To-Day",
-    "detail": "Gardner (quadriceps) is listed as questionable for Wednesday's game against the Clippers.",
-    "type": "day-to-day",
-    "updated": "2026-11-04T01:08Z"
-   },
-   {
     "player": "Giannis Antetokounmpo",
     "status": "Day-To-Day",
     "detail": "Antetokounmpo is probable to play Wednesday against the Clippers due to a sprained right wrist.",
@@ -559,10 +545,10 @@
   "Minnesota Timberwolves": [
    {
     "player": "Terrence Shannon Jr.",
-    "status": "Day-To-Day",
-    "detail": "Shannon (hip) is listed as questionable for Wednesday's game in Houston.",
-    "type": "day-to-day",
-    "updated": "2026-11-03T23:11Z"
+    "status": "Out",
+    "detail": "Shannon (hip) is out for Wednesday against the Rockets.",
+    "type": "out",
+    "updated": "2026-11-04T18:16Z"
    },
    {
     "player": "Anthony Edwards",
@@ -581,18 +567,18 @@
   ],
   "New Orleans Pelicans": [
    {
+    "player": "Trey Murphy III",
+    "status": "Day-To-Day",
+    "detail": "Murphy (knees) is now questionable for Wednesday against the Jazz.",
+    "type": "day-to-day",
+    "updated": "2026-11-04T18:34Z"
+   },
+   {
     "player": "Jordan Poole",
     "status": "Out",
     "detail": "Poole (ankle) is listed as probable for Wednesday's game against Utah.",
     "type": "out",
     "updated": "2026-11-03T22:56Z"
-   },
-   {
-    "player": "Trey Murphy III",
-    "status": "Day-To-Day",
-    "detail": "Murphy (knee) is probable for Wednesday's game versus the Jazz.",
-    "type": "day-to-day",
-    "updated": "2026-11-03T22:52Z"
    },
    {
     "player": "Yves Missi",
@@ -605,10 +591,10 @@
   "New York Knicks": [
    {
     "player": "Josh Hart",
-    "status": "Day-To-Day",
-    "detail": "Hart is questionable for Wednesday's game against the Bulls due to right ankle soreness.",
-    "type": "day-to-day",
-    "updated": "2026-11-03T21:49Z"
+    "status": "Out",
+    "detail": "Hart is out for Wednesday's game against the Bulls due to right ankle soreness.",
+    "type": "out",
+    "updated": "2026-11-04T18:08Z"
    }
   ],
   "Oklahoma City Thunder": [
@@ -781,18 +767,18 @@
   ],
   "Utah Jazz": [
    {
+    "player": "Mo Bamba",
+    "status": "Day-To-Day",
+    "detail": "Bamba (ankle) participated in Wednesday's morning shootaround, per Shreyas Laddha of The Salt Lake Tribune.",
+    "type": "day-to-day",
+    "updated": "2026-11-04T18:41Z"
+   },
+   {
     "player": "Jusuf Nurkic",
     "status": "Out",
     "detail": "Nurkic (foot) is out for Wednesday's game against the Pelicans.",
     "type": "out",
     "updated": "2026-11-03T23:07Z"
-   },
-   {
-    "player": "Mo Bamba",
-    "status": "Day-To-Day",
-    "detail": "Bamba is questionable for Wednesday's game in New Orleans due to a sprained right ankle.",
-    "type": "day-to-day",
-    "updated": "2026-11-03T23:04Z"
    },
    {
     "player": "Jaren Jackson Jr.",
@@ -861,5 +847,41 @@
    }
   ]
  },
- "status_changes": []
+ "status_changes": [
+  {
+   "at_et": "2026-11-04 14:34",
+   "team": "Charlotte Hornets",
+   "player": "Kon Knueppel",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-04 14:34",
+   "team": "Houston Rockets",
+   "player": "Clint Capela",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-04 14:34",
+   "team": "Miami Heat",
+   "player": "Myron Gardner",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-04 14:34",
+   "team": "Minnesota Timberwolves",
+   "player": "Terrence Shannon Jr.",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-04 14:34",
+   "team": "New York Knicks",
+   "player": "Josh Hart",
+   "from": "Day-To-Day",
+   "to": "Out"
+  }
+ ]
 }
