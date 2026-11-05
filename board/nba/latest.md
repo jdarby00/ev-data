@@ -1,11 +1,16 @@
 # NBA board, 2026-11-05
 
-Slate updated 2026-11-05 14:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-05 16:15 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
+## Status changes today
+
+- 16:15 Phoenix Suns: Rasheer Fleming Day-To-Day → Out
+- 16:15 Phoenix Suns: Jordan Goodwin Day-To-Day → Out
+
 ## ORL @ PHX, 21:00 ET
-Line: PHX -1.5, total 221.5 (Draft Kings).
+Line: PHX -1.5, total 222.5 (DraftKings).
 **ORL** (2 rest days). Out: Paolo Banchero, Jalen Suggs. Freed minutes: 66.8. Out all season so far (already in the lines): Jonathan Isaac, Noah Penda, Izaiyah Nelson.
 - Without Jalen Suggs: Jase Richardson min +10.5, pts +2.1, reb +0.9, ast +0.8 (n=4 vs 3)
 - Without Paolo Banchero: Jase Richardson min +9.8, pts +2.6, reb +0.5, ast -0.8 (n=5 vs 2)
@@ -26,7 +31,11 @@ Line: PHX -1.5, total 221.5 (Draft Kings).
 | Jevon Carter | – | 17.7 (3.7) → 17.7 (10) | 3.7/3.7 → 6 (1–12) | 0.7/0.7 → 1 (0–3) | 2.7/2.7 → 2 (0–4) | 1/1 → 1 (0–3) | 9 (2–17) |
 | Jonathan Isaac | Out | none this season; last season 10 min, 2.6 pts | | | | |
 
-**PHX** (back-to-back). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Mark Williams.
+**PHX** (back-to-back). Out: Jordan Goodwin, Rasheer Fleming. Freed minutes: 26.3. Out all season so far (already in the lines): Mark Williams.
+- Without Rasheer Fleming: Collin Gillespie min +5, pts +3.5, reb +1.8, ast +3.8 (n=4 vs 2)
+- Without Rasheer Fleming: Devin Booker min +4.5, pts +17.5, reb +0.2, ast +0.3 (n=4 vs 2)
+- Without Rasheer Fleming: Miles Bridges min +3.5, pts +7.3, reb +1.5, ast +1.2 (n=4 vs 2)
+- Without Rasheer Fleming: Khaman Maluach min -3, pts +0.2, reb -0.7, ast +0.2 (n=4 vs 2)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -37,13 +46,13 @@ Line: PHX -1.5, total 221.5 (Draft Kings).
 | Collin Gillespie | – | 26.2 (4) → 25.7 (18) | 8.2/6.8 → 9 (3–16) | 2.4/2.2 → 3 (1–6) | 5/4.5 → 4 (1–7) | 2/1.7 → 2 (0–4) | 16 (7–26) |
 | Oso Ighodaro | – | 20.8 (3.5) → 21.5 (13.9) | 8.2/8.2 → 7 (2–13) | 5.2/5.2 → 5 (2–9) | 4.2/4.2 → 3 (1–6) | 0/0 → 0 (0–0) | 15 (6–26) |
 | Khaman Maluach | – | 20 (5.5) → 17.2 (9.5) | 8.2/7.2 → 6 (1–12) | 6/6 → 5 (2–10) | 1.2/1.2 → 0 (0–2) | 0.2/0.2 → 0 (0–1) | 12 (4–21) |
-| Jordan Goodwin | Day-To-Day | 18.8 (5.1) → 18.5 (10.8) | 7.8/7.8 → 7 (2–14) | 3.4/3.4 → 3 (1–7) | 2.6/2.6 → 2 (0–4) | 1.8/1.8 → 1 (0–3) | 13 (5–23) |
+| Jordan Goodwin | Out | 18.8 (5.1) | 7.8/7.8 | 3.4/3.4 | 2.6/2.6 | 1.8/1.8 | – |
 | Luke Kennard | – | 15.6 (2.3) → 16.2 (8.5) | 7/7 → 6 (1–12) | 1.6/1.6 → 1 (0–4) | 1.4/1.4 → 1 (0–3) | 1.8/1.8 → 1 (0–3) | 9 (2–17) |
 | Ryan Dunn | – | 13.2 (2.6) → 14.3 (6.6) | 4.6/4.3 → 4 (0–9) | 3.8/3.7 → 3 (1–7) | 1/0.8 → 1 (0–3) | 0.8/0.7 → 0 (0–2) | 8 (2–17) |
-| Rasheer Fleming | Day-To-Day | 7.5 (4.5) → 8.2 (0.5) | 0.5/0.5 → 2 (0–7) | 1.5/1.5 → 1 (0–4) | 0/0 → 0 (0–1) | 0/0 → 0 (0–2) | 4 (0–11) |
+| Rasheer Fleming | Out | 7.5 (4.5) | 0.5/0.5 | 1.5/1.5 | 0/0 | 0/0 | – |
 
 ## MIA @ GS, 22:00 ET
-Line: GS -7.5, total 232.5 (Draft Kings).
+Line: GS -3.5, total 236.5 (DraftKings).
 **MIA** (back-to-back). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |

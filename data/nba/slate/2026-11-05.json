@@ -1,6 +1,6 @@
 {
  "date": "2026-11-05",
- "updated_et": "2026-11-05 14:45",
+ "updated_et": "2026-11-05 16:15",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -14,8 +14,8 @@
    "state": "pre",
    "spread_text": "PHX -1.5",
    "spread": -1.5,
-   "total": 221.5,
-   "odds_source": "Draft Kings",
+   "total": 222.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -26,10 +26,10 @@
    "away_name": "Miami Heat",
    "home_name": "Golden State Warriors",
    "state": "pre",
-   "spread_text": "GS -7.5",
-   "spread": -7.5,
-   "total": 232.5,
-   "odds_source": "Draft Kings",
+   "spread_text": "GS -3.5",
+   "spread": -3.5,
+   "total": 236.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
@@ -103,18 +103,18 @@
   ],
   "Phoenix Suns": [
    {
-    "player": "Jordan Goodwin",
-    "status": "Day-To-Day",
-    "detail": "Goodwin (calf) won't play in Wednesday's game against Portland.",
-    "type": "day-to-day",
-    "updated": "2026-11-05T15:04Z"
+    "player": "Rasheer Fleming",
+    "status": "Out",
+    "detail": "Fleming is out for Thursday's game against the Magic due to a sprained left ankle.",
+    "type": "out",
+    "updated": "2026-11-05T20:22Z"
    },
    {
-    "player": "Rasheer Fleming",
-    "status": "Day-To-Day",
-    "detail": "Fleming is out for Wednesday's game against the Trail Blazers due to a sprained left ankle.",
-    "type": "day-to-day",
-    "updated": "2026-11-05T15:04Z"
+    "player": "Jordan Goodwin",
+    "status": "Out",
+    "detail": "Goodwin (calf) is out for Thursday's game against Orlando.",
+    "type": "out",
+    "updated": "2026-11-05T20:18Z"
    },
    {
     "player": "Mark Williams",
@@ -125,5 +125,20 @@
    }
   ]
  },
- "status_changes": []
+ "status_changes": [
+  {
+   "at_et": "2026-11-05 16:15",
+   "team": "Phoenix Suns",
+   "player": "Rasheer Fleming",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-05 16:15",
+   "team": "Phoenix Suns",
+   "player": "Jordan Goodwin",
+   "from": "Day-To-Day",
+   "to": "Out"
+  }
+ ]
 }
