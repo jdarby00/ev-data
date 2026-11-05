@@ -1,5 +1,5 @@
 {
- "credits_remaining": 452,
+ "credits_remaining": 451,
  "date": "2026-11-04",
  "groups": {
   "basketball_nba|76ers@pistons|player_points": {
@@ -44936,7 +44936,7 @@
    "api_away": "Charlotte Hornets",
    "api_home": "Brooklyn Nets",
    "away": "Hornets",
-   "commence_time": "2026-11-05T00:30:00Z",
+   "commence_time": "2026-11-05T00:32:00Z",
    "event_id": "6b33f8632d4dd100cba8453db82213fa",
    "home": "Nets",
    "issues": [],
@@ -51813,7 +51813,7 @@
    "api_away": "Charlotte Hornets",
    "api_home": "Brooklyn Nets",
    "away": "Hornets",
-   "commence_time": "2026-11-05T00:30:00Z",
+   "commence_time": "2026-11-05T00:32:00Z",
    "event_id": "6b33f8632d4dd100cba8453db82213fa",
    "home": "Nets",
    "issues": [],
@@ -66541,6 +66541,2360 @@
      "rev": 1
     }
    ],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|lakers@kings|player_rebounds": {
+   "api_away": "Los Angeles Lakers",
+   "api_home": "Sacramento Kings",
+   "away": "Lakers",
+   "commence_time": "2026-11-05T03:10:00Z",
+   "event_id": "29988f1011d7738962e13e0a0beb693f",
+   "home": "Kings",
+   "issues": [],
+   "market": "player_rebounds",
+   "players": [],
+   "requested_rev": 1,
+   "snapshots": [
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1028754149",
+       "event_sid": "1028754149",
+       "last_update": "2026-11-05T00:25:54Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Walker Kessler",
+         "price": -105,
+         "sid": "4403351556",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Domantas Sabonis",
+         "price": -130,
+         "sid": "4403351578",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Darius Acuff Jr.",
+         "price": -108,
+         "sid": "4403351588",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Jake LaRavia",
+         "price": 108,
+         "sid": "4403351592",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Luka Doncic",
+         "price": 114,
+         "sid": "4403351596",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Precious Achiuwa",
+         "price": 102,
+         "sid": "4403348757",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Zach LaVine",
+         "price": -134,
+         "sid": "4403348765",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Matisse Thybulle",
+         "price": 110,
+         "sid": "4403348782",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "De'Andre Hunter",
+         "price": -122,
+         "sid": "4403348808",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Quentin Grimes",
+         "price": -141,
+         "sid": "4403457337",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Ziaire Williams",
+         "price": 123,
+         "sid": "4403598619",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Austin Reaves",
+         "price": 120,
+         "sid": "4403979796",
+         "side": "Over"
+        }
+       ]
+      },
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/los-angeles-lakers-at-sacramento-kings-20049582",
+       "event_sid": "20049582",
+       "last_update": "2026-11-05T00:26:58Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48997-4396888-7155375&type=Single",
+         "player": "Zach LaVine",
+         "price": -125,
+         "sid": "7155375",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48997-4396888-7155376&type=Single",
+         "player": "Zach LaVine",
+         "price": -105,
+         "sid": "7155376",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48997-4396972-7155543&type=Single",
+         "player": "Luka Doncic",
+         "price": 105,
+         "sid": "7155543",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48997-4396972-7155544&type=Single",
+         "player": "Luka Doncic",
+         "price": -145,
+         "sid": "7155544",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48997-4396979-7155557&type=Single",
+         "player": "Darius Acuff Jr.",
+         "price": -105,
+         "sid": "7155557",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48997-4396979-7155558&type=Single",
+         "player": "Darius Acuff Jr.",
+         "price": -125,
+         "sid": "7155558",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48997-4396971-7155541&type=Single",
+         "player": "Matisse Thybulle",
+         "price": 105,
+         "sid": "7155541",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48997-4396971-7155542&type=Single",
+         "player": "Matisse Thybulle",
+         "price": -140,
+         "sid": "7155542",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48997-4396977-7155555&type=Single",
+         "player": "De'Andre Hunter",
+         "price": -115,
+         "sid": "7155555",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48997-4396977-7155556&type=Single",
+         "player": "De'Andre Hunter",
+         "price": -115,
+         "sid": "7155556",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48997-4397089-7155777&type=Single",
+         "player": "Walker Kessler",
+         "price": 100,
+         "sid": "7155777",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48997-4397089-7155778&type=Single",
+         "player": "Walker Kessler",
+         "price": -135,
+         "sid": "7155778",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48997-4397092-7155783&type=Single",
+         "player": "Ziaire Williams",
+         "price": 105,
+         "sid": "7155783",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48997-4397092-7155784&type=Single",
+         "player": "Ziaire Williams",
+         "price": -140,
+         "sid": "7155784",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48997-4397090-7155779&type=Single",
+         "player": "Austin Reaves",
+         "price": -150,
+         "sid": "7155779",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48997-4397090-7155780&type=Single",
+         "player": "Austin Reaves",
+         "price": 110,
+         "sid": "7155780",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48997-4396978-7155553&type=Single",
+         "player": "Precious Achiuwa",
+         "price": 110,
+         "sid": "7155553",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48997-4396978-7155554&type=Single",
+         "player": "Precious Achiuwa",
+         "price": -150,
+         "sid": "7155554",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48997-4399896-7161015&type=Single",
+         "player": "Domantas Sabonis",
+         "price": 105,
+         "sid": "7161015",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48997-4399896-7161016&type=Single",
+         "player": "Domantas Sabonis",
+         "price": -140,
+         "sid": "7161016",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48997-4399940-7161099&type=Single",
+         "player": "Quentin Grimes",
+         "price": -155,
+         "sid": "7161099",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48997-4399940-7161100&type=Single",
+         "player": "Quentin Grimes",
+         "price": 115,
+         "sid": "7161100",
+         "side": "Under"
+        }
+       ]
+      },
+      "betonlineag": {
+       "event_link": "https://sports.betonline.ag/sportsbook/basketball/nba/game/491172179",
+       "event_sid": "491172179",
+       "last_update": "2026-11-05T00:26:27Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Austin Reaves",
+         "price": -152,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Austin Reaves",
+         "price": 117,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Luka Doncic",
+         "price": 109,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Luka Doncic",
+         "price": -141,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Zach LaVine",
+         "price": -132,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Zach LaVine",
+         "price": 102,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Domantas Sabonis",
+         "price": -130,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Domantas Sabonis",
+         "price": 100,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Precious Achiuwa",
+         "price": 126,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Precious Achiuwa",
+         "price": -164,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Darius Acuff Jr.",
+         "price": 102,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Darius Acuff Jr.",
+         "price": -132,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Jake LaRavia",
+         "price": 104,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Jake LaRavia",
+         "price": -135,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "De'Andre Hunter",
+         "price": -120,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "De'Andre Hunter",
+         "price": -108,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Ziaire Williams",
+         "price": 112,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Ziaire Williams",
+         "price": -145,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Quentin Grimes",
+         "price": -135,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Quentin Grimes",
+         "price": 105,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Matisse Thybulle",
+         "price": 107,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Matisse Thybulle",
+         "price": -139,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Walker Kessler",
+         "price": -106,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Walker Kessler",
+         "price": -122,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Malik Monk",
+         "price": 110,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Malik Monk",
+         "price": -143,
+         "sid": null,
+         "side": "Under"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1028754149",
+       "event_sid": "1028754149",
+       "last_update": "2026-11-05T00:26:42Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Walker Kessler",
+         "price": -105,
+         "sid": "4403351556",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Walker Kessler",
+         "price": -127,
+         "sid": "4403351557",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Domantas Sabonis",
+         "price": -130,
+         "sid": "4403351578",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Domantas Sabonis",
+         "price": -103,
+         "sid": "4403351579",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Darius Acuff Jr.",
+         "price": -108,
+         "sid": "4403351588",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Darius Acuff Jr.",
+         "price": -124,
+         "sid": "4403351589",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Jake LaRavia",
+         "price": 108,
+         "sid": "4403351592",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Jake LaRavia",
+         "price": -148,
+         "sid": "4403351593",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Luka Doncic",
+         "price": 114,
+         "sid": "4403351596",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Luka Doncic",
+         "price": -152,
+         "sid": "4403351597",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Precious Achiuwa",
+         "price": 102,
+         "sid": "4403348757",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Precious Achiuwa",
+         "price": -137,
+         "sid": "4403348758",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Zach LaVine",
+         "price": -134,
+         "sid": "4403348765",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Zach LaVine",
+         "price": 100,
+         "sid": "4403348766",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Matisse Thybulle",
+         "price": 110,
+         "sid": "4403348782",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Matisse Thybulle",
+         "price": -148,
+         "sid": "4403348783",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "De'Andre Hunter",
+         "price": -122,
+         "sid": "4403348808",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "De'Andre Hunter",
+         "price": -109,
+         "sid": "4403348809",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Quentin Grimes",
+         "price": -141,
+         "sid": "4403457337",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Quentin Grimes",
+         "price": 106,
+         "sid": "4403457338",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Ziaire Williams",
+         "price": 123,
+         "sid": "4403598619",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Ziaire Williams",
+         "price": -165,
+         "sid": "4403598620",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Austin Reaves",
+         "price": 120,
+         "sid": "4403979796",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Austin Reaves",
+         "price": -159,
+         "sid": "4403979797",
+         "side": "Under"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149",
+       "event_sid": "1028754149",
+       "last_update": "2026-11-05T00:26:59Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403348765|{wagerAmount}",
+         "player": "Zach LaVine",
+         "price": -136,
+         "sid": "4403348765",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403348766|{wagerAmount}",
+         "player": "Zach LaVine",
+         "price": 100,
+         "sid": "4403348766",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403348782|{wagerAmount}",
+         "player": "Matisse Thybulle",
+         "price": 108,
+         "sid": "4403348782",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403348783|{wagerAmount}",
+         "player": "Matisse Thybulle",
+         "price": -148,
+         "sid": "4403348783",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403351596|{wagerAmount}",
+         "player": "Luka Doncic",
+         "price": 112,
+         "sid": "4403351596",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403351597|{wagerAmount}",
+         "player": "Luka Doncic",
+         "price": -155,
+         "sid": "4403351597",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403348757|{wagerAmount}",
+         "player": "Precious Achiuwa",
+         "price": 102,
+         "sid": "4403348757",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403348758|{wagerAmount}",
+         "player": "Precious Achiuwa",
+         "price": -137,
+         "sid": "4403348758",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403351578|{wagerAmount}",
+         "player": "Domantas Sabonis",
+         "price": -132,
+         "sid": "4403351578",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403351579|{wagerAmount}",
+         "player": "Domantas Sabonis",
+         "price": -104,
+         "sid": "4403351579",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403351592|{wagerAmount}",
+         "player": "Jake LaRavia",
+         "price": 108,
+         "sid": "4403351592",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403351593|{wagerAmount}",
+         "player": "Jake LaRavia",
+         "price": -148,
+         "sid": "4403351593",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403351588|{wagerAmount}",
+         "player": "Darius Acuff Jr.",
+         "price": -109,
+         "sid": "4403351588",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403351589|{wagerAmount}",
+         "player": "Darius Acuff Jr.",
+         "price": -125,
+         "sid": "4403351589",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403351556|{wagerAmount}",
+         "player": "Walker Kessler",
+         "price": -106,
+         "sid": "4403351556",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403351557|{wagerAmount}",
+         "player": "Walker Kessler",
+         "price": -129,
+         "sid": "4403351557",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403979796|{wagerAmount}",
+         "player": "Austin Reaves",
+         "price": 118,
+         "sid": "4403979796",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403979797|{wagerAmount}",
+         "player": "Austin Reaves",
+         "price": -162,
+         "sid": "4403979797",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403457337|{wagerAmount}",
+         "player": "Quentin Grimes",
+         "price": -143,
+         "sid": "4403457337",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403457338|{wagerAmount}",
+         "player": "Quentin Grimes",
+         "price": 105,
+         "sid": "4403457338",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403348808|{wagerAmount}",
+         "player": "De'Andre Hunter",
+         "price": -124,
+         "sid": "4403348808",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403348809|{wagerAmount}",
+         "player": "De'Andre Hunter",
+         "price": -110,
+         "sid": "4403348809",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403598619|{wagerAmount}",
+         "player": "Ziaire Williams",
+         "price": 123,
+         "sid": "4403598619",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754149?coupon={pickType}|4403598620|{wagerAmount}",
+         "player": "Ziaire Williams",
+         "price": -167,
+         "sid": "4403598620",
+         "side": "Under"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/basketball/nba/los-angeles-lakers-sacramento-kings-202611042200",
+       "event_sid": "32925371",
+       "last_update": "2026-11-05T00:27:05Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Austin Reaves",
+         "price": -160,
+         "sid": "2466717019",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Austin Reaves",
+         "price": 120,
+         "sid": "2466717020",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Austin Reaves",
+         "price": 130,
+         "sid": "2466717258",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Austin Reaves",
+         "price": -170,
+         "sid": "2466717259",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Darius Acuff Jr.",
+         "price": -220,
+         "sid": "2466842978",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Darius Acuff Jr.",
+         "price": 165,
+         "sid": "2466842979",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Darius Acuff Jr.",
+         "price": 105,
+         "sid": "2466842930",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Darius Acuff Jr.",
+         "price": -135,
+         "sid": "2466842931",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Darius Acuff Jr.",
+         "price": 215,
+         "sid": "2467077173",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Darius Acuff Jr.",
+         "price": -295,
+         "sid": "2467077174",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "De'Andre Hunter",
+         "price": -260,
+         "sid": "2466842985",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "De'Andre Hunter",
+         "price": 190,
+         "sid": "2466842986",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "De'Andre Hunter",
+         "price": -125,
+         "sid": "2466842928",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "De'Andre Hunter",
+         "price": -105,
+         "sid": "2466842929",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "De'Andre Hunter",
+         "price": 150,
+         "sid": "2466842678",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "De'Andre Hunter",
+         "price": -200,
+         "sid": "2466842679",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Domantas Sabonis",
+         "price": -190,
+         "sid": "2466842656",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Domantas Sabonis",
+         "price": 145,
+         "sid": "2466842657",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Domantas Sabonis",
+         "price": -125,
+         "sid": "2466701489",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Domantas Sabonis",
+         "price": -105,
+         "sid": "2466701490",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Domantas Sabonis",
+         "price": 120,
+         "sid": "2466842960",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Domantas Sabonis",
+         "price": -160,
+         "sid": "2466842961",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Domantas Sabonis",
+         "price": 175,
+         "sid": "2466842654",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Domantas Sabonis",
+         "price": -240,
+         "sid": "2466842655",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Jake LaRavia",
+         "price": -230,
+         "sid": "2466717265",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Jake LaRavia",
+         "price": 170,
+         "sid": "2466717266",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Jake LaRavia",
+         "price": 100,
+         "sid": "2466717021",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Jake LaRavia",
+         "price": -130,
+         "sid": "2466717022",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Jake LaRavia",
+         "price": 205,
+         "sid": "2466835997",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Jake LaRavia",
+         "price": -280,
+         "sid": "2466835998",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Luka Doncic",
+         "price": -165,
+         "sid": "2466717926",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Luka Doncic",
+         "price": 125,
+         "sid": "2466717927",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Luka Doncic",
+         "price": 105,
+         "sid": "2466701493",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Luka Doncic",
+         "price": -135,
+         "sid": "2466701494",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Luka Doncic",
+         "price": 175,
+         "sid": "2466717928",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Luka Doncic",
+         "price": -240,
+         "sid": "2466717929",
+         "side": "Under"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Matisse Thybulle",
+         "price": -275,
+         "sid": "2466717918",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Matisse Thybulle",
+         "price": 200,
+         "sid": "2466717919",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Matisse Thybulle",
+         "price": 105,
+         "sid": "2466717023",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Matisse Thybulle",
+         "price": -135,
+         "sid": "2466717024",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Precious Achiuwa",
+         "price": -295,
+         "sid": "2466842970",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Precious Achiuwa",
+         "price": 215,
+         "sid": "2466842971",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Precious Achiuwa",
+         "price": -160,
+         "sid": "2466842968",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Precious Achiuwa",
+         "price": 120,
+         "sid": "2466842969",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Precious Achiuwa",
+         "price": 110,
+         "sid": "2466701495",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Precious Achiuwa",
+         "price": -145,
+         "sid": "2466701496",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Precious Achiuwa",
+         "price": 185,
+         "sid": "2466857957",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Precious Achiuwa",
+         "price": -250,
+         "sid": "2466857958",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Quentin Grimes",
+         "price": -150,
+         "sid": "2466717025",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Quentin Grimes",
+         "price": 115,
+         "sid": "2466717026",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Quentin Grimes",
+         "price": 150,
+         "sid": "2466717246",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Quentin Grimes",
+         "price": -200,
+         "sid": "2466717247",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Walker Kessler",
+         "price": -295,
+         "sid": "2466717848",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Walker Kessler",
+         "price": 215,
+         "sid": "2466717849",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Walker Kessler",
+         "price": -170,
+         "sid": "2466717254",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Walker Kessler",
+         "price": 130,
+         "sid": "2466717255",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Walker Kessler",
+         "price": -110,
+         "sid": "2466701498",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Walker Kessler",
+         "price": -120,
+         "sid": "2466701497",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Walker Kessler",
+         "price": 140,
+         "sid": "2466717256",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Walker Kessler",
+         "price": -185,
+         "sid": "2466717257",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Walker Kessler",
+         "price": 215,
+         "sid": "2467012656",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Walker Kessler",
+         "price": -295,
+         "sid": "2467012657",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Zach LaVine",
+         "price": -145,
+         "sid": "2466842926",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Zach LaVine",
+         "price": 110,
+         "sid": "2466842927",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Zach LaVine",
+         "price": 155,
+         "sid": "2466842666",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Zach LaVine",
+         "price": -210,
+         "sid": "2466842667",
+         "side": "Under"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Ziaire Williams",
+         "price": -250,
+         "sid": "2466852910",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Ziaire Williams",
+         "price": 185,
+         "sid": "2466852911",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Ziaire Williams",
+         "price": 115,
+         "sid": "2466852954",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Ziaire Williams",
+         "price": -150,
+         "sid": "2466852955",
+         "side": "Under"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/34936999",
+       "event_sid": "34936999",
+       "last_update": "2026-11-05T00:26:58Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385747662%232349854478_13L42648Q1583108280Q20",
+         "player": "Domantas Sabonis",
+         "price": -127,
+         "sid": "0QA385747662#2349854478_13L42648Q1583108280Q20",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385747662%232349854479_13L42648Q1-479317108Q20",
+         "player": "Domantas Sabonis",
+         "price": -104,
+         "sid": "0QA385747662#2349854479_13L42648Q1-479317108Q20",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385748131%232349832756_13L42648Q1104657759Q20",
+         "player": "Walker Kessler",
+         "price": -110,
+         "sid": "0QA385748131#2349832756_13L42648Q1104657759Q20",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385748131%232349832757_13L42648Q1-330652014Q20",
+         "player": "Walker Kessler",
+         "price": -119,
+         "sid": "0QA385748131#2349832757_13L42648Q1-330652014Q20",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385747946%232349830025_13L42648Q1-25326551Q20",
+         "player": "Luka Doncic",
+         "price": 103,
+         "sid": "0QA385747946#2349830025_13L42648Q1-25326551Q20",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385747946%232349830026_13L42648Q1-877137389Q20",
+         "player": "Luka Doncic",
+         "price": -136,
+         "sid": "0QA385747946#2349830026_13L42648Q1-877137389Q20",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385747698%232349978851_13L42648Q1-25326551Q20",
+         "player": "Precious Achiuwa",
+         "price": 110,
+         "sid": "0QA385747698#2349978851_13L42648Q1-25326551Q20",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385747698%232349978852_13L42648Q1-877137389Q20",
+         "player": "Precious Achiuwa",
+         "price": -145,
+         "sid": "0QA385747698#2349978852_13L42648Q1-877137389Q20",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385748227%232349854472_13L42648Q1-150170292Q20",
+         "player": "De'Andre Hunter",
+         "price": -124,
+         "sid": "0QA385748227#2349854472_13L42648Q1-150170292Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385748227%232349854473_13L42648Q1-1659398539Q20",
+         "player": "De'Andre Hunter",
+         "price": -106,
+         "sid": "0QA385748227#2349854473_13L42648Q1-1659398539Q20",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385748302%232349649960_13L42648Q11299195355Q20",
+         "player": "Austin Reaves",
+         "price": -160,
+         "sid": "0QA385748302#2349649960_13L42648Q11299195355Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385748302%232349650032_13L42648Q1647990913Q20",
+         "player": "Austin Reaves",
+         "price": 121,
+         "sid": "0QA385748302#2349650032_13L42648Q1647990913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385748216%232349649894_13L42648Q11299195355Q20",
+         "player": "Jake LaRavia",
+         "price": -102,
+         "sid": "0QA385748216#2349649894_13L42648Q11299195355Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385748216%232349649906_13L42648Q1647990913Q20",
+         "player": "Jake LaRavia",
+         "price": -130,
+         "sid": "0QA385748216#2349649906_13L42648Q1647990913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385748060%232349977540_13L42648Q11299195355Q20",
+         "player": "Darius Acuff Jr.",
+         "price": 104,
+         "sid": "0QA385748060#2349977540_13L42648Q11299195355Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385748060%232349977541_13L42648Q1647990913Q20",
+         "player": "Darius Acuff Jr.",
+         "price": -138,
+         "sid": "0QA385748060#2349977541_13L42648Q1647990913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385747601%232349648216_13L42648Q12005697320Q20",
+         "player": "Quentin Grimes",
+         "price": -150,
+         "sid": "0QA385747601#2349648216_13L42648Q12005697320Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385747601%232349648228_13L42648Q1-9439206Q20",
+         "player": "Quentin Grimes",
+         "price": 114,
+         "sid": "0QA385747601#2349648228_13L42648Q1-9439206Q20",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385747976%232349648910_13L42648Q12005697320Q20",
+         "player": "Zach LaVine",
+         "price": -145,
+         "sid": "0QA385747976#2349648910_13L42648Q12005697320Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385747976%232349648930_13L42648Q1-9439206Q20",
+         "player": "Zach LaVine",
+         "price": 110,
+         "sid": "0QA385747976#2349648930_13L42648Q1-9439206Q20",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385747803%232349648805_13L42648Q12005697320Q20",
+         "player": "Matisse Thybulle",
+         "price": 105,
+         "sid": "0QA385747803#2349648805_13L42648Q12005697320Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385747803%232349648861_13L42648Q1-9439206Q20",
+         "player": "Matisse Thybulle",
+         "price": -139,
+         "sid": "0QA385747803#2349648861_13L42648Q1-9439206Q20",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385747665%232349832736_13L42648Q12005697320Q20",
+         "player": "Ziaire Williams",
+         "price": 115,
+         "sid": "0QA385747665#2349832736_13L42648Q12005697320Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385747665%232349832737_13L42648Q1-9439206Q20",
+         "player": "Ziaire Williams",
+         "price": -151,
+         "sid": "0QA385747665#2349832737_13L42648Q1-9439206Q20",
+         "side": "Under"
+        }
+       ]
+      },
+      "espnbet": {
+       "event_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/nba/event/7423d6a7-443a-4500-9f54-2b554a9c8c59",
+       "event_sid": "7423d6a7-443a-4500-9f54-2b554a9c8c59",
+       "last_update": "2026-11-05T00:26:40Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=27c6a882-98ab-4290-8b79-93736d08d0c8&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Domantas Sabonis",
+         "price": -125,
+         "sid": "27c6a882-98ab-4290-8b79-93736d08d0c8",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=55092f79-4c06-45f8-a085-d805d0e4f49b&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Domantas Sabonis",
+         "price": -105,
+         "sid": "55092f79-4c06-45f8-a085-d805d0e4f49b",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=fb96d40a-7c59-4d12-be01-cc5ed5544fbd&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Luka Doncic",
+         "price": 105,
+         "sid": "fb96d40a-7c59-4d12-be01-cc5ed5544fbd",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=de7609ff-7ce2-42c6-b88d-d8d76c402735&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Luka Doncic",
+         "price": -140,
+         "sid": "de7609ff-7ce2-42c6-b88d-d8d76c402735",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=f7a9b0c1-67e9-4ce4-907d-8c1f09d413fd&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Precious Achiuwa",
+         "price": -150,
+         "sid": "f7a9b0c1-67e9-4ce4-907d-8c1f09d413fd",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=d3a32923-f166-48af-a4c1-3e874158051f&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Precious Achiuwa",
+         "price": 115,
+         "sid": "d3a32923-f166-48af-a4c1-3e874158051f",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=662c9adb-3629-4fbd-b5a0-56069d81a2a2&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Walker Kessler",
+         "price": -110,
+         "sid": "662c9adb-3629-4fbd-b5a0-56069d81a2a2",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=77fe33f9-e31a-4663-856f-99b77d9afd8e&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Walker Kessler",
+         "price": -120,
+         "sid": "77fe33f9-e31a-4663-856f-99b77d9afd8e",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=10a3d0a8-4f20-4605-9d8a-db01ce12d68b&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "De'Andre Hunter",
+         "price": -115,
+         "sid": "10a3d0a8-4f20-4605-9d8a-db01ce12d68b",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=d3067086-1742-4b0d-87f0-0e1a81f4653b&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "De'Andre Hunter",
+         "price": -115,
+         "sid": "d3067086-1742-4b0d-87f0-0e1a81f4653b",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=1b291257-a33c-4040-b651-dc1a292fa5d9&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Ziaire Williams",
+         "price": 115,
+         "sid": "1b291257-a33c-4040-b651-dc1a292fa5d9",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=d7c8267c-8590-45ba-8666-bb6bace672f6&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Ziaire Williams",
+         "price": -150,
+         "sid": "d7c8267c-8590-45ba-8666-bb6bace672f6",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=9db71158-db88-423d-9f4c-f0f9ccbe28e4&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Quentin Grimes",
+         "price": -150,
+         "sid": "9db71158-db88-423d-9f4c-f0f9ccbe28e4",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=46f83127-82db-4651-ae26-c8cc242bb7ab&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Quentin Grimes",
+         "price": 115,
+         "sid": "46f83127-82db-4651-ae26-c8cc242bb7ab",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=387e56e6-ef45-4b72-9c31-b1eb106536e7&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Jake LaRavia",
+         "price": 100,
+         "sid": "387e56e6-ef45-4b72-9c31-b1eb106536e7",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=da7789a4-6107-4295-adfd-716019fa235b&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Jake LaRavia",
+         "price": -130,
+         "sid": "da7789a4-6107-4295-adfd-716019fa235b",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=a3a83cac-4c09-4d0d-bb61-2cdc532e655c&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Austin Reaves",
+         "price": -160,
+         "sid": "a3a83cac-4c09-4d0d-bb61-2cdc532e655c",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=e9d313cd-0bb2-4cb8-9ad1-e9ea8944579b&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Austin Reaves",
+         "price": 120,
+         "sid": "e9d313cd-0bb2-4cb8-9ad1-e9ea8944579b",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=7bb85704-4a25-4552-9b86-466ff5f6da33&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Darius Acuff Jr.",
+         "price": 110,
+         "sid": "7bb85704-4a25-4552-9b86-466ff5f6da33",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=4a399355-a7a3-40f6-beb0-4516f1a3b756&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Darius Acuff Jr.",
+         "price": -145,
+         "sid": "4a399355-a7a3-40f6-beb0-4516f1a3b756",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=0252a8b1-0381-4247-abec-edf9e183dcb5&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Matisse Thybulle",
+         "price": 110,
+         "sid": "0252a8b1-0381-4247-abec-edf9e183dcb5",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=52e38908-87ad-47b8-a514-1c6c44a1b4b5&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Matisse Thybulle",
+         "price": -145,
+         "sid": "52e38908-87ad-47b8-a514-1c6c44a1b4b5",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=8acd29a9-8949-4439-9889-11fc5b535584&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Zach LaVine",
+         "price": -140,
+         "sid": "8acd29a9-8949-4439-9889-11fc5b535584",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=08ca22ee-d90c-46a8-8b1e-07f7c5c0a1c5&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Zach LaVine",
+         "price": 105,
+         "sid": "08ca22ee-d90c-46a8-8b1e-07f7c5c0a1c5",
+         "side": "Under"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=8f52b2c5-40a4-431a-b0cb-061ab7951143&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Malik Monk",
+         "price": -105,
+         "sid": "8f52b2c5-40a4-431a-b0cb-061ab7951143",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=8106cead-1f48-4811-82f0-5cce5bd2a007&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Malik Monk",
+         "price": -125,
+         "sid": "8106cead-1f48-4811-82f0-5cce5bd2a007",
+         "side": "Under"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/nba/los-angeles-lakers-%40-sacramento-kings-36266772",
+       "event_sid": "36266772",
+       "last_update": "2026-11-05T00:26:24Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622461777&selectionId=41574998",
+         "player": "Austin Reaves",
+         "price": -154,
+         "sid": "41574998",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622461777&selectionId=41574999",
+         "player": "Austin Reaves",
+         "price": 120,
+         "sid": "41574999",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622472208&selectionId=12257190",
+         "player": "Zach LaVine",
+         "price": -140,
+         "sid": "12257190",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622472208&selectionId=12257191",
+         "player": "Zach LaVine",
+         "price": 110,
+         "sid": "12257191",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622472527&selectionId=38212281",
+         "player": "Precious Achiuwa",
+         "price": 118,
+         "sid": "38212281",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622472527&selectionId=38212282",
+         "player": "Precious Achiuwa",
+         "price": -150,
+         "sid": "38212282",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622472115&selectionId=12601272",
+         "player": "Domantas Sabonis",
+         "price": -125,
+         "sid": "12601272",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622472115&selectionId=12601273",
+         "player": "Domantas Sabonis",
+         "price": -102,
+         "sid": "12601273",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622464031&selectionId=42067800",
+         "player": "Quentin Grimes",
+         "price": -142,
+         "sid": "42067800",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622464031&selectionId=42067801",
+         "player": "Quentin Grimes",
+         "price": 112,
+         "sid": "42067801",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622463440&selectionId=90251254",
+         "player": "Jake LaRavia",
+         "price": 106,
+         "sid": "90251254",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622463440&selectionId=90251266",
+         "player": "Jake LaRavia",
+         "price": -136,
+         "sid": "90251266",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622465427&selectionId=40297002",
+         "player": "Ziaire Williams",
+         "price": 114,
+         "sid": "40297002",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622465427&selectionId=40297001",
+         "player": "Ziaire Williams",
+         "price": -146,
+         "sid": "40297001",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622472290&selectionId=26624379",
+         "player": "De'Andre Hunter",
+         "price": -113,
+         "sid": "26624379",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622472290&selectionId=26624380",
+         "player": "De'Andre Hunter",
+         "price": -113,
+         "sid": "26624380",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622471609&selectionId=90960656",
+         "player": "Darius Acuff Jr.",
+         "price": 112,
+         "sid": "90960656",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622471609&selectionId=90960655",
+         "player": "Darius Acuff Jr.",
+         "price": -142,
+         "sid": "90960655",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622461304&selectionId=12463224",
+         "player": "Luka Doncic",
+         "price": 112,
+         "sid": "12463224",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622461304&selectionId=12463223",
+         "player": "Luka Doncic",
+         "price": -142,
+         "sid": "12463223",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622464577&selectionId=27661447",
+         "player": "Matisse Thybulle",
+         "price": 112,
+         "sid": "27661447",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622464577&selectionId=27661448",
+         "player": "Matisse Thybulle",
+         "price": -142,
+         "sid": "27661448",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622462856&selectionId=43049096",
+         "player": "Walker Kessler",
+         "price": -108,
+         "sid": "43049096",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.622462856&selectionId=43049095",
+         "player": "Walker Kessler",
+         "price": -118,
+         "sid": "43049095",
+         "side": "Under"
+        }
+       ]
+      },
+      "hardrockbet": {
+       "event_link": "https://app.hardrock.bet/home/competition/nba/1233445685462958500",
+       "event_sid": "1233445685462958500",
+       "last_update": "2026-11-05T00:25:15Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 10.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4717893080504730001",
+         "player": "Walker Kessler",
+         "price": -110,
+         "sid": "4717893080504730001",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3200250374825050513",
+         "player": "Walker Kessler",
+         "price": -120,
+         "sid": "3200250374825050513",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1150752248154947999",
+         "player": "Austin Reaves",
+         "price": -155,
+         "sid": "1150752248154947999",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7643605904683827615",
+         "player": "Austin Reaves",
+         "price": 120,
+         "sid": "7643605904683827615",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8612244312673092010",
+         "player": "Luka Doncic",
+         "price": 105,
+         "sid": "8612244312673092010",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/647769109156725162",
+         "player": "Luka Doncic",
+         "price": -135,
+         "sid": "647769109156725162",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3903815152335716766",
+         "player": "Jake LaRavia",
+         "price": 110,
+         "sid": "3903815152335716766",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3660233744364732830",
+         "player": "Jake LaRavia",
+         "price": -140,
+         "sid": "3660233744364732830",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/874949050636566953",
+         "player": "Quentin Grimes",
+         "price": -150,
+         "sid": "874949050636566953",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/903940973237764521",
+         "player": "Quentin Grimes",
+         "price": 120,
+         "sid": "903940973237764521",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7167781750863692209",
+         "player": "Matisse Thybulle",
+         "price": 110,
+         "sid": "7167781750863692209",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/493165628123906481",
+         "player": "Matisse Thybulle",
+         "price": -140,
+         "sid": "493165628123906481",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/990614856380055948",
+         "player": "Precious Achiuwa",
+         "price": -145,
+         "sid": "990614856380055948",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3973827397047943564",
+         "player": "Precious Achiuwa",
+         "price": 110,
+         "sid": "3973827397047943564",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4595116990762451359",
+         "player": "De'Andre Hunter",
+         "price": -115,
+         "sid": "4595116990762451359",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8931379744478462367",
+         "player": "De'Andre Hunter",
+         "price": -115,
+         "sid": "8931379744478462367",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7461576927162270101",
+         "player": "Darius Acuff Jr.",
+         "price": 100,
+         "sid": "7461576927162270101",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6032528470402269589",
+         "player": "Darius Acuff Jr.",
+         "price": -135,
+         "sid": "6032528470402269589",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6715844160739475861",
+         "player": "Zach LaVine",
+         "price": -135,
+         "sid": "6715844160739475861",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1734300022914285973",
+         "player": "Zach LaVine",
+         "price": 100,
+         "sid": "1734300022914285973",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7120015439584952740",
+         "player": "Domantas Sabonis",
+         "price": -125,
+         "sid": "7120015439584952740",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6162631082861789604",
+         "player": "Domantas Sabonis",
+         "price": -105,
+         "sid": "6162631082861789604",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8869252517482070425",
+         "player": "Ziaire Williams",
+         "price": 120,
+         "sid": "8869252517482070425",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4111815237676695961",
+         "player": "Ziaire Williams",
+         "price": -150,
+         "sid": "4111815237676695961",
+         "side": "Under"
+        },
+        {
+         "line": 1.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1266616449712128434",
+         "player": "Malik Monk",
+         "price": 100,
+         "sid": "1266616449712128434",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8426829683835929010",
+         "player": "Malik Monk",
+         "price": -130,
+         "sid": "8426829683835929010",
+         "side": "Under"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-05T00:27:17Z",
+     "kind": "lock",
+     "minutes_to_tip": 162.7,
+     "raw": "raw/2026-11-04/29988f1011d7738962e13e0a0beb693f-player_rebounds-lock-20261105T002717349873Z.json",
+     "rev": 1
+    }
+   ],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|mavericks@spurs|player_assists": {
+   "api_away": "Dallas Mavericks",
+   "api_home": "San Antonio Spurs",
+   "away": "Mavericks",
+   "commence_time": "2026-11-05T02:30:00Z",
+   "event_id": "6b25f3932db93d4c5ad7658def2645bf",
+   "home": "Spurs",
+   "issues": [
+    "2026-11-05T00:27:17Z lock skipped: daily cap reached (30/30)"
+   ],
+   "market": "player_assists",
+   "players": [],
+   "requested_rev": 1,
+   "snapshots": [],
    "sport": "basketball_nba"
   },
   "basketball_nba|mavericks@spurs|player_points": {
@@ -86932,11 +89286,27 @@
     }
    ],
    "sport": "basketball_nba"
+  },
+  "basketball_nba|trail blazers@suns|player_rebounds": {
+   "api_away": "Portland Trail Blazers",
+   "api_home": "Phoenix Suns",
+   "away": "Trail Blazers",
+   "commence_time": "2026-11-05T02:00:00Z",
+   "event_id": "d3d91c40111aca301d41c9cdb9d64608",
+   "home": "Suns",
+   "issues": [
+    "2026-11-05T00:27:17Z lock skipped: daily cap reached (30/30)"
+   ],
+   "market": "player_rebounds",
+   "players": [],
+   "requested_rev": 1,
+   "snapshots": [],
+   "sport": "basketball_nba"
   }
  },
  "issues": [],
- "spent_month": 48,
- "spent_today": 29,
+ "spent_month": 49,
+ "spent_today": 30,
  "stop": null,
- "updated": "2026-11-05T00:18:08Z"
+ "updated": "2026-11-05T00:27:17Z"
 }
