@@ -68904,7 +68904,8 @@
     "2026-11-05T00:27:17Z lock skipped: daily cap reached (30/30)",
     "2026-11-05T00:48:08Z lock skipped: daily cap reached (30/30)",
     "2026-11-05T01:18:08Z lock skipped: daily cap reached (30/30)",
-    "2026-11-05T01:48:07Z lock skipped: daily cap reached (30/30)"
+    "2026-11-05T01:48:07Z lock skipped: daily cap reached (30/30)",
+    "2026-11-05T02:18:09Z close skipped: daily cap reached (30/30)"
    ],
    "market": "player_assists",
    "players": [],
@@ -68919,7 +68920,9 @@
    "commence_time": "2026-11-05T02:30:00Z",
    "event_id": "6b25f3932db93d4c5ad7658def2645bf",
    "home": "Spurs",
-   "issues": [],
+   "issues": [
+    "2026-11-05T02:18:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_points",
    "players": [],
    "requested_rev": 1,
@@ -76912,11 +76915,12 @@
    "api_away": "Toronto Raptors",
    "api_home": "Denver Nuggets",
    "away": "Raptors",
-   "commence_time": "2026-11-05T02:00:00Z",
+   "commence_time": "2026-11-05T02:12:00Z",
    "event_id": "50bdc20ea9ea3c88d4bfa261b9b2307e",
    "home": "Nuggets",
    "issues": [
-    "2026-11-05T01:48:07Z close skipped: daily cap reached (30/30)"
+    "2026-11-05T01:48:07Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points",
    "players": [],
@@ -86078,11 +86082,12 @@
    "api_away": "Portland Trail Blazers",
    "api_home": "Phoenix Suns",
    "away": "Trail Blazers",
-   "commence_time": "2026-11-05T02:00:00Z",
+   "commence_time": "2026-11-05T02:10:00Z",
    "event_id": "d3d91c40111aca301d41c9cdb9d64608",
    "home": "Suns",
    "issues": [
-    "2026-11-05T01:48:07Z close skipped: daily cap reached (30/30)"
+    "2026-11-05T01:48:07Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points",
    "players": [],
@@ -89322,14 +89327,15 @@
    "api_away": "Portland Trail Blazers",
    "api_home": "Phoenix Suns",
    "away": "Trail Blazers",
-   "commence_time": "2026-11-05T02:00:00Z",
+   "commence_time": "2026-11-05T02:10:00Z",
    "event_id": "d3d91c40111aca301d41c9cdb9d64608",
    "home": "Suns",
    "issues": [
     "2026-11-05T00:27:17Z lock skipped: daily cap reached (30/30)",
     "2026-11-05T00:48:08Z lock skipped: daily cap reached (30/30)",
     "2026-11-05T01:18:08Z lock skipped: daily cap reached (30/30)",
-    "2026-11-05T01:48:07Z close skipped: daily cap reached (30/30)"
+    "2026-11-05T01:48:07Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_rebounds",
    "players": [],
@@ -89342,5 +89348,5 @@
  "spent_month": 49,
  "spent_today": 30,
  "stop": null,
- "updated": "2026-11-05T01:48:07Z"
+ "updated": "2026-11-05T02:18:09Z"
 }
