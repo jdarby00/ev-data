@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "updated_et": "2026-11-04 19:21",
+ "updated_et": "2026-11-04 20:29",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -39,11 +39,11 @@
    "home": "BKN",
    "away_name": "Charlotte Hornets",
    "home_name": "Brooklyn Nets",
-   "state": "pre",
-   "spread_text": "CHA -3.5",
-   "spread": 3.5,
-   "total": 213.5,
-   "odds_source": "DraftKings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -53,11 +53,11 @@
    "home": "BOS",
    "away_name": "Milwaukee Bucks",
    "home_name": "Boston Celtics",
-   "state": "pre",
-   "spread_text": "BOS -12.5",
-   "spread": -12.5,
-   "total": 221.5,
-   "odds_source": "DraftKings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -67,11 +67,11 @@
    "home": "NY",
    "away_name": "Chicago Bulls",
    "home_name": "New York Knicks",
-   "state": "pre",
-   "spread_text": "NY -11.5",
-   "spread": -11.5,
-   "total": 233.5,
-   "odds_source": "DraftKings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -81,11 +81,11 @@
    "home": "MEM",
    "away_name": "Indiana Pacers",
    "home_name": "Memphis Grizzlies",
-   "state": "pre",
-   "spread_text": "MEM -5.5",
-   "spread": -5.5,
-   "total": 228.5,
-   "odds_source": "DraftKings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -95,11 +95,11 @@
    "home": "NO",
    "away_name": "Utah Jazz",
    "home_name": "New Orleans Pelicans",
-   "state": "pre",
-   "spread_text": "NO -5.5",
-   "spread": -5.5,
-   "total": 231.5,
-   "odds_source": "DraftKings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -109,11 +109,11 @@
    "home": "OKC",
    "away_name": "Cleveland Cavaliers",
    "home_name": "Oklahoma City Thunder",
-   "state": "pre",
-   "spread_text": "OKC -3.5",
-   "spread": -3.5,
-   "total": 226.5,
-   "odds_source": "DraftKings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -126,8 +126,8 @@
    "state": "pre",
    "spread_text": "HOU -7.5",
    "spread": -7.5,
-   "total": 218.5,
-   "odds_source": "DraftKings",
+   "total": 219.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -141,7 +141,7 @@
    "spread_text": "DEN -4.5",
    "spread": -4.5,
    "total": 231.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -155,7 +155,7 @@
    "spread_text": "POR -2.5",
    "spread": 2.5,
    "total": 227.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -169,7 +169,7 @@
    "spread_text": "SA -12.5",
    "spread": -12.5,
    "total": 226.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -183,7 +183,7 @@
    "spread_text": "LAL -12.5",
    "spread": 12.5,
    "total": 233.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -197,12 +197,19 @@
    "spread_text": "MIA -5.5",
    "spread": 5.5,
    "total": 233.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   }
  ],
  "injuries": {
   "Atlanta Hawks": [
+   {
+    "player": "Asa Newell",
+    "status": "Day-To-Day",
+    "detail": "Atlanta exercised Newell's third-year option Sunday, Brad Rowland of the Locked On Podcast Network reports.",
+    "type": "day-to-day",
+    "updated": "2026-11-05T01:17Z"
+   },
    {
     "player": "Jalen Johnson",
     "status": "Out",
@@ -266,6 +273,13 @@
   ],
   "Charlotte Hornets": [
    {
+    "player": "Kon Knueppel",
+    "status": "Out",
+    "detail": "Knueppel (hamstring) exited to the locker room in the first quarter of Wednesday's game against the Nets, Brian Lewis of the New York Post reports.",
+    "type": "out",
+    "updated": "2026-11-05T01:00Z"
+   },
+   {
     "player": "Grant Williams",
     "status": "Out",
     "detail": "The Hornets recalled Williams (hamstring) from the G League's Greensboro Swarm on Wednesday.",
@@ -286,9 +300,9 @@
    {
     "player": "Jaylon Tyson",
     "status": "Out",
-    "detail": "Tyson is out for Wednesday's game against the Thunder due to a right ankle sprain.",
+    "detail": "According to Cavaliers head coach Kenny Atkinson, Tyson (ankle) has been \"on the court lately progressing well,\" Chris Fedor of The Cleveland Plain Dealer reports.",
     "type": "out",
-    "updated": "2026-11-03T22:11Z"
+    "updated": "2026-11-05T00:33Z"
    },
    {
     "player": "Peyton Watson",
@@ -337,20 +351,6 @@
   ],
   "Denver Nuggets": [
    {
-    "player": "Cameron Johnson",
-    "status": "Day-To-Day",
-    "detail": "Johnson (lower body injury management) is listed as probable for Wednesday's game against Toronto.",
-    "type": "day-to-day",
-    "updated": "2026-11-03T23:57Z"
-   },
-   {
-    "player": "Alpha Diallo",
-    "status": "Day-To-Day",
-    "detail": "Diallo (wrist) is probable for Wednesday's game against the Raptors.",
-    "type": "day-to-day",
-    "updated": "2026-11-03T23:51Z"
-   },
-   {
     "player": "Spencer Jones",
     "status": "Out",
     "detail": "Jones (hamstring) is out for Wednesday's game against the Raptors.",
@@ -383,41 +383,27 @@
   ],
   "Houston Rockets": [
    {
+    "player": "Steven Adams",
+    "status": "Out",
+    "detail": "Head coach Ime Udoka said Wednesday that Adams (calf) is still without a timetable to return and will be evaluated on a \"weekly basis,\" Varun Shankar of the Houston Chronicle reports.",
+    "type": "out",
+    "updated": "2026-11-05T00:21Z"
+   },
+   {
     "player": "Clint Capela",
     "status": "Out",
     "detail": "Capela (ankle) is out for Wednesday's game against the Timberwolves.",
     "type": "out",
     "updated": "2026-11-04T18:36Z"
-   },
-   {
-    "player": "Steven Adams",
-    "status": "Out",
-    "detail": "Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right soleus strain, Lachard Binkley of SI.com reports.",
-    "type": "out",
-    "updated": "2026-10-26T22:52Z"
    }
   ],
   "Indiana Pacers": [
    {
-    "player": "Ivica Zubac",
-    "status": "Out",
-    "detail": "Zubac (ankle) is listed as questionable for Wednesday's game against the Grizzlies.",
-    "type": "out",
-    "updated": "2026-11-03T23:43Z"
-   },
-   {
     "player": "Kelly Oubre Jr.",
-    "status": "Day-To-Day",
-    "detail": "Oubre (knee) is questionable for Wednesday's game against the Grizzlies.",
-    "type": "day-to-day",
-    "updated": "2026-11-03T23:40Z"
-   },
-   {
-    "player": "Obi Toppin",
     "status": "Out",
-    "detail": "Toppin (back) is questionable for Wednesday's game against the Grizzlies.",
+    "detail": "Oubre (calf) has been ruled out for Wednesday's game against the Grizzlies.",
     "type": "out",
-    "updated": "2026-11-03T23:35Z"
+    "updated": "2026-11-05T00:37Z"
    },
    {
     "player": "T.J. McConnell",
@@ -515,10 +501,10 @@
   "Milwaukee Bucks": [
    {
     "player": "Kam Jones",
-    "status": "Day-To-Day",
-    "detail": "Jones (ankle) is questionable for Wednesday against the Celtics.",
-    "type": "day-to-day",
-    "updated": "2026-11-04T17:43Z"
+    "status": "Out",
+    "detail": "Jones (ankle) won't play Wednesday in Boston.",
+    "type": "out",
+    "updated": "2026-11-05T00:21Z"
    }
   ],
   "Minnesota Timberwolves": [
@@ -551,13 +537,6 @@
     "detail": "Murphy (knees) is listed as out for Wednesday's game against Utah.",
     "type": "out",
     "updated": "2026-11-04T23:10Z"
-   },
-   {
-    "player": "Jordan Poole",
-    "status": "Out",
-    "detail": "Poole (ankle) is listed as probable for Wednesday's game against Utah.",
-    "type": "out",
-    "updated": "2026-11-03T22:56Z"
    },
    {
     "player": "Yves Missi",
@@ -638,18 +617,18 @@
   ],
   "Phoenix Suns": [
    {
+    "player": "Jordan Goodwin",
+    "status": "Out",
+    "detail": "Goodwin (calf) won't play in Wednesday's game against Portland.",
+    "type": "out",
+    "updated": "2026-11-05T01:04Z"
+   },
+   {
     "player": "Rasheer Fleming",
     "status": "Out",
     "detail": "Fleming is out for Wednesday's game against the Trail Blazers due to a sprained left ankle.",
     "type": "out",
     "updated": "2026-11-04T20:17Z"
-   },
-   {
-    "player": "Jordan Goodwin",
-    "status": "Day-To-Day",
-    "detail": "Goodwin (calf) is questionable for Wednesday's game against Portland, Duane Rankin of The Arizona Republic reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-04T00:26Z"
    },
    {
     "player": "Mark Williams",
@@ -745,13 +724,6 @@
    }
   ],
   "Utah Jazz": [
-   {
-    "player": "Mo Bamba",
-    "status": "Day-To-Day",
-    "detail": "Bamba (ankle) participated in Wednesday's morning shootaround, per Shreyas Laddha of The Salt Lake Tribune.",
-    "type": "day-to-day",
-    "updated": "2026-11-04T18:41Z"
-   },
    {
     "player": "Jusuf Nurkic",
     "status": "Out",
@@ -936,6 +908,83 @@
    "at_et": "2026-11-04 19:21",
    "team": "Washington Wizards",
    "player": "Alex Sarr",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-04 20:29",
+   "team": "Atlanta Hawks",
+   "player": "Asa Newell",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-04 20:29",
+   "team": "Charlotte Hornets",
+   "player": "Kon Knueppel",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-04 20:29",
+   "team": "Denver Nuggets",
+   "player": "Cameron Johnson",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-04 20:29",
+   "team": "Denver Nuggets",
+   "player": "Alpha Diallo",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-04 20:29",
+   "team": "Indiana Pacers",
+   "player": "Kelly Oubre Jr.",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-04 20:29",
+   "team": "Indiana Pacers",
+   "player": "Ivica Zubac",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-04 20:29",
+   "team": "Indiana Pacers",
+   "player": "Obi Toppin",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-04 20:29",
+   "team": "Milwaukee Bucks",
+   "player": "Kam Jones",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-04 20:29",
+   "team": "New Orleans Pelicans",
+   "player": "Jordan Poole",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-04 20:29",
+   "team": "Phoenix Suns",
+   "player": "Jordan Goodwin",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-04 20:29",
+   "team": "Utah Jazz",
+   "player": "Mo Bamba",
    "from": "Day-To-Day",
    "to": "removed from report"
   }
