@@ -68905,7 +68905,8 @@
     "2026-11-05T00:48:08Z lock skipped: daily cap reached (30/30)",
     "2026-11-05T01:18:08Z lock skipped: daily cap reached (30/30)",
     "2026-11-05T01:48:07Z lock skipped: daily cap reached (30/30)",
-    "2026-11-05T02:18:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-05T02:18:09Z close skipped: daily cap reached (30/30)",
+    "2026-11-05T02:18:40Z close skipped: daily cap reached (30/30)"
    ],
    "market": "player_assists",
    "players": [],
@@ -68921,7 +68922,8 @@
    "event_id": "6b25f3932db93d4c5ad7658def2645bf",
    "home": "Spurs",
    "issues": [
-    "2026-11-05T02:18:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-05T02:18:09Z close skipped: daily cap reached (30/30)",
+    "2026-11-05T02:18:40Z close skipped: daily cap reached (30/30)"
    ],
    "market": "player_points",
    "players": [],
@@ -89348,5 +89350,5 @@
  "spent_month": 49,
  "spent_today": 30,
  "stop": null,
- "updated": "2026-11-05T02:18:09Z"
+ "updated": "2026-11-05T02:18:40Z"
 }
