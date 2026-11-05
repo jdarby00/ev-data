@@ -63368,7 +63368,9 @@
    "commence_time": "2026-11-05T03:10:00Z",
    "event_id": "29988f1011d7738962e13e0a0beb693f",
    "home": "Kings",
-   "issues": [],
+   "issues": [
+    "2026-11-05T02:58:08Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_points",
    "players": [],
    "requested_rev": 1,
@@ -66562,7 +66564,9 @@
    "commence_time": "2026-11-05T03:10:00Z",
    "event_id": "29988f1011d7738962e13e0a0beb693f",
    "home": "Kings",
-   "issues": [],
+   "issues": [
+    "2026-11-05T02:58:08Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_rebounds",
    "players": [],
    "requested_rev": 1,
@@ -68897,7 +68901,7 @@
    "api_away": "Dallas Mavericks",
    "api_home": "San Antonio Spurs",
    "away": "Mavericks",
-   "commence_time": "2026-11-05T02:30:00Z",
+   "commence_time": "2026-11-05T02:48:00Z",
    "event_id": "6b25f3932db93d4c5ad7658def2645bf",
    "home": "Spurs",
    "issues": [
@@ -68906,7 +68910,8 @@
     "2026-11-05T01:18:08Z lock skipped: daily cap reached (30/30)",
     "2026-11-05T01:48:07Z lock skipped: daily cap reached (30/30)",
     "2026-11-05T02:18:09Z close skipped: daily cap reached (30/30)",
-    "2026-11-05T02:18:40Z close skipped: daily cap reached (30/30)"
+    "2026-11-05T02:18:40Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_assists",
    "players": [],
@@ -68918,12 +68923,13 @@
    "api_away": "Dallas Mavericks",
    "api_home": "San Antonio Spurs",
    "away": "Mavericks",
-   "commence_time": "2026-11-05T02:30:00Z",
+   "commence_time": "2026-11-05T02:48:00Z",
    "event_id": "6b25f3932db93d4c5ad7658def2645bf",
    "home": "Spurs",
    "issues": [
     "2026-11-05T02:18:09Z close skipped: daily cap reached (30/30)",
-    "2026-11-05T02:18:40Z close skipped: daily cap reached (30/30)"
+    "2026-11-05T02:18:40Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points",
    "players": [],
@@ -89350,5 +89356,5 @@
  "spent_month": 49,
  "spent_today": 30,
  "stop": null,
- "updated": "2026-11-05T02:18:40Z"
+ "updated": "2026-11-05T02:58:08Z"
 }
