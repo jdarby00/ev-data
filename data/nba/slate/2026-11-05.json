@@ -1,0 +1,129 @@
+{
+ "date": "2026-11-05",
+ "updated_et": "2026-11-05 13:02",
+ "source": "ESPN public scoreboard and injuries feeds",
+ "injuries_fetched": true,
+ "games": [
+  {
+   "event": "401909936",
+   "tip_et": "2026-11-05 21:00",
+   "away": "ORL",
+   "home": "PHX",
+   "away_name": "Orlando Magic",
+   "home_name": "Phoenix Suns",
+   "state": "pre",
+   "spread_text": "PHX -1.5",
+   "spread": -1.5,
+   "total": 222.5,
+   "odds_source": "Draft Kings",
+   "season_type": 2
+  },
+  {
+   "event": "401909937",
+   "tip_et": "2026-11-05 22:00",
+   "away": "MIA",
+   "home": "GS",
+   "away_name": "Miami Heat",
+   "home_name": "Golden State Warriors",
+   "state": "pre",
+   "spread_text": "GS -7.5",
+   "spread": -7.5,
+   "total": 233.5,
+   "odds_source": "Draft Kings",
+   "season_type": 2
+  }
+ ],
+ "injuries": {
+  "Golden State Warriors": [
+   {
+    "player": "Gui Santos",
+    "status": "Out",
+    "detail": "Santos (knee) has been ruled out for Thursday's game against the Heat.",
+    "type": "out",
+    "updated": "2026-11-05T00:52Z"
+   },
+   {
+    "player": "Kristaps Porzingis",
+    "status": "Out",
+    "detail": "The Warriors have stopped issuing salary payments to Porzingis, who remains away from the team and is considering retirement, Anthony Slater and Shams Charania of ESPN reported Wednesday.",
+    "type": "out",
+    "updated": "2026-11-04T17:00Z"
+   },
+   {
+    "player": "Moses Moody",
+    "status": "Out",
+    "detail": "Moody (knee) is progressing toward a potential return between December and January after rupturing his left patellar tendon in March, Anthony Slater of ESPN reports.",
+    "type": "out",
+    "updated": "2026-10-16T16:14Z"
+   },
+   {
+    "player": "Jimmy Butler III",
+    "status": "Out",
+    "detail": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",
+    "type": "out",
+    "updated": "2026-10-16T16:11Z"
+   }
+  ],
+  "Orlando Magic": [
+   {
+    "player": "Jonathan Isaac",
+    "status": "Out",
+    "detail": "Orlando recalled Isaac (knee) from the G League's Osceola Magic on Wednesday.",
+    "type": "out",
+    "updated": "2026-11-05T15:12Z"
+   },
+   {
+    "player": "Jalen Suggs",
+    "status": "Out",
+    "detail": "Suggs has been diagnosed with a mild bone bruise in his right knee and will be re-evaluated in two weeks, Shams Charania of ESPN reports.",
+    "type": "out",
+    "updated": "2026-10-26T18:44Z"
+   },
+   {
+    "player": "Paolo Banchero",
+    "status": "Out",
+    "detail": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports.",
+    "type": "out",
+    "updated": "2026-10-24T16:47Z"
+   },
+   {
+    "player": "Noah Penda",
+    "status": "Out",
+    "detail": "Penda was diagnosed with a partially torn right hamstring Saturday, Jason Beede of the Orlando Sentinel reports.",
+    "type": "out",
+    "updated": "2026-10-17T22:19Z"
+   },
+   {
+    "player": "Izaiyah Nelson",
+    "status": "Out",
+    "detail": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com.",
+    "type": "out",
+    "updated": "2026-09-28T21:33Z"
+   }
+  ],
+  "Phoenix Suns": [
+   {
+    "player": "Jordan Goodwin",
+    "status": "Day-To-Day",
+    "detail": "Goodwin (calf) won't play in Wednesday's game against Portland.",
+    "type": "day-to-day",
+    "updated": "2026-11-05T15:04Z"
+   },
+   {
+    "player": "Rasheer Fleming",
+    "status": "Day-To-Day",
+    "detail": "Fleming is out for Wednesday's game against the Trail Blazers due to a sprained left ankle.",
+    "type": "day-to-day",
+    "updated": "2026-11-05T15:04Z"
+   },
+   {
+    "player": "Mark Williams",
+    "status": "Out",
+    "detail": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",
+    "type": "out",
+    "updated": "2026-09-11T16:03Z"
+   }
+  ]
+ },
+ "status_changes": []
+}
