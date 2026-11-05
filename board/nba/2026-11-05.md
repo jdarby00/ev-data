@@ -1,11 +1,11 @@
 # NBA board, 2026-11-05
 
-Slate updated 2026-11-05 14:43 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-05 14:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## ORL @ PHX, 21:00 ET
-Line: PHX -1.5, total 221.5 (DraftKings).
+Line: PHX -1.5, total 221.5 (Draft Kings).
 **ORL** (2 rest days). Out: Paolo Banchero, Jalen Suggs. Freed minutes: 66.8. Out all season so far (already in the lines): Jonathan Isaac, Noah Penda, Izaiyah Nelson.
 - Without Jalen Suggs: Jase Richardson min +10.5, pts +2.1, reb +0.9, ast +0.8 (n=4 vs 3)
 - Without Paolo Banchero: Jase Richardson min +9.8, pts +2.6, reb +0.5, ast -0.8 (n=5 vs 2)
@@ -43,7 +43,7 @@ Line: PHX -1.5, total 221.5 (DraftKings).
 | Rasheer Fleming | Day-To-Day | 7.5 (4.5) → 8.2 (0.5) | 0.5/0.5 → 2 (0–7) | 1.5/1.5 → 1 (0–4) | 0/0 → 0 (0–1) | 0/0 → 0 (0–2) | 4 (0–11) |
 
 ## MIA @ GS, 22:00 ET
-Line: GS -7.5, total 232.5 (DraftKings).
+Line: GS -7.5, total 232.5 (Draft Kings).
 **MIA** (back-to-back). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
