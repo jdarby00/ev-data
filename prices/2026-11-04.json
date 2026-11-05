@@ -41680,7 +41680,8 @@
    "event_id": "72c786e70ad9360fdc41e4c2a50fa788",
    "home": "Clippers",
    "issues": [
-    "2026-11-05T03:28:08Z close skipped: daily cap reached (30/30)"
+    "2026-11-05T03:28:08Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points",
    "players": [],
@@ -89358,7 +89359,7 @@
  },
  "issues": [],
  "spent_month": 49,
- "spent_today": 30,
+ "spent_today": 0,
  "stop": null,
- "updated": "2026-11-05T03:28:08Z"
+ "updated": "2026-11-05T09:40:33Z"
 }
