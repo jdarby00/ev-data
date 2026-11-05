@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "updated_et": "2026-11-04 16:29",
+ "updated_et": "2026-11-04 19:21",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,11 +11,11 @@
    "home": "DET",
    "away_name": "Philadelphia 76ers",
    "home_name": "Detroit Pistons",
-   "state": "pre",
-   "spread_text": "DET -2.5",
-   "spread": -2.5,
-   "total": 219.5,
-   "odds_source": "DraftKings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -25,11 +25,11 @@
    "home": "WSH",
    "away_name": "Atlanta Hawks",
    "home_name": "Washington Wizards",
-   "state": "pre",
-   "spread_text": "ATL -3.5",
-   "spread": 3.5,
-   "total": 230.5,
-   "odds_source": "DraftKings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -42,7 +42,7 @@
    "state": "pre",
    "spread_text": "CHA -3.5",
    "spread": 3.5,
-   "total": 212.5,
+   "total": 213.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -54,8 +54,8 @@
    "away_name": "Milwaukee Bucks",
    "home_name": "Boston Celtics",
    "state": "pre",
-   "spread_text": "BOS -11.5",
-   "spread": -11.5,
+   "spread_text": "BOS -12.5",
+   "spread": -12.5,
    "total": 221.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -68,8 +68,8 @@
    "away_name": "Chicago Bulls",
    "home_name": "New York Knicks",
    "state": "pre",
-   "spread_text": "NY -12.5",
-   "spread": -12.5,
+   "spread_text": "NY -11.5",
+   "spread": -11.5,
    "total": 233.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -82,8 +82,8 @@
    "away_name": "Indiana Pacers",
    "home_name": "Memphis Grizzlies",
    "state": "pre",
-   "spread_text": "MEM -6.5",
-   "spread": -6.5,
+   "spread_text": "MEM -5.5",
+   "spread": -5.5,
    "total": 228.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -96,8 +96,8 @@
    "away_name": "Utah Jazz",
    "home_name": "New Orleans Pelicans",
    "state": "pre",
-   "spread_text": "NO -4.5",
-   "spread": -4.5,
+   "spread_text": "NO -5.5",
+   "spread": -5.5,
    "total": 231.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -204,18 +204,18 @@
  "injuries": {
   "Atlanta Hawks": [
    {
+    "player": "Jalen Johnson",
+    "status": "Out",
+    "detail": "Johnson (ankle) is listed as out for Wednesday's game in Washington.",
+    "type": "out",
+    "updated": "2026-11-04T23:05Z"
+   },
+   {
     "player": "Jock Landale",
     "status": "Out",
     "detail": "Landale is out for Wednesday's game against the Wizards with a left hip strain, Kevin Chouinard of the Hawks' official site reports.",
     "type": "out",
     "updated": "2026-11-03T22:08Z"
-   },
-   {
-    "player": "Jalen Johnson",
-    "status": "Day-To-Day",
-    "detail": "Johnson (ankle) is listed as questionable for Wednesday's game in Washington, Kevin Chouinard of the Hawks' official site reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-03T22:06Z"
    },
    {
     "player": "Mouhamed Gueye",
@@ -234,25 +234,18 @@
   ],
   "Boston Celtics": [
    {
+    "player": "Devin Carter",
+    "status": "Out",
+    "detail": "Carter (illness) practiced with the G League's Maine Celtics on Wednesday.",
+    "type": "out",
+    "updated": "2026-11-04T23:58Z"
+   },
+   {
     "player": "Jayson Tatum",
     "status": "Out",
     "detail": "Tatum will be rested Wednesday against the Bucks, Jack Simone of BostonSportsJournal.com reports.",
     "type": "out",
     "updated": "2026-11-04T17:48Z"
-   },
-   {
-    "player": "Payton Pritchard",
-    "status": "Day-To-Day",
-    "detail": "Pritchard is listed as questionable for Wednesday's game against Milwaukee due to a right shoulder contusion, Taylor Snow of the Celtics' official site reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-03T21:12Z"
-   },
-   {
-    "player": "Devin Carter",
-    "status": "Out",
-    "detail": "Carter has been diagnosed with mononucleosis and is without a timetable for a return, Gary Washburn of The Boston Globe reports.",
-    "type": "out",
-    "updated": "2026-10-18T14:49Z"
    }
   ],
   "Brooklyn Nets": [
@@ -275,32 +268,18 @@
    {
     "player": "Grant Williams",
     "status": "Out",
-    "detail": "Charlotte assigned Williams (hamstring) to the G League's Greensboro Swarm on Wednesday.",
+    "detail": "The Hornets recalled Williams (hamstring) from the G League's Greensboro Swarm on Wednesday.",
     "type": "out",
-    "updated": "2026-11-04T17:59Z"
-   },
-   {
-    "player": "Coby White",
-    "status": "Day-To-Day",
-    "detail": "White (calf) is probable for Wednesday's game in Brooklyn.",
-    "type": "day-to-day",
-    "updated": "2026-11-03T22:06Z"
+    "updated": "2026-11-04T23:50Z"
    }
   ],
   "Chicago Bulls": [
    {
     "player": "Nic Claxton",
     "status": "Out",
-    "detail": "Claxton (hamstring) is questionable for Wednesday against the Knicks.",
+    "detail": "Claxton (hamstring) is listed as out for Wednesday's game against New York.",
     "type": "out",
-    "updated": "2026-11-03T21:04Z"
-   },
-   {
-    "player": "Jalen Smith",
-    "status": "Day-To-Day",
-    "detail": "Smith is probable for Wednesday's game against the Knicks with a left finger sprain.",
-    "type": "day-to-day",
-    "updated": "2026-11-03T21:03Z"
+    "updated": "2026-11-04T22:34Z"
    }
   ],
   "Cleveland Cavaliers": [
@@ -323,9 +302,9 @@
    {
     "player": "Santi Aldama",
     "status": "Out",
-    "detail": "Aldama (knee) is doubtful for Wednesday's game against the Spurs, per NBA reporter Marc Stein.",
+    "detail": "Aldama (knee) is out for Wednesday's game against the Spurs, Grant Afseth of DallasHoopsJournal.com reports.",
     "type": "out",
-    "updated": "2026-11-04T18:56Z"
+    "updated": "2026-11-04T23:38Z"
    },
    {
     "player": "Max Christie",
@@ -517,13 +496,6 @@
   ],
   "Memphis Grizzlies": [
    {
-    "player": "Quinten Post",
-    "status": "Day-To-Day",
-    "detail": "Post (ankle) is listed as questionable for Wednesday's game against Indiana.",
-    "type": "day-to-day",
-    "updated": "2026-11-03T23:20Z"
-   },
-   {
     "player": "Scotty Pippen Jr.",
     "status": "Out",
     "detail": "Pippen (back) won't play Wednesday against the Pacers.",
@@ -575,10 +547,10 @@
   "New Orleans Pelicans": [
    {
     "player": "Trey Murphy III",
-    "status": "Day-To-Day",
-    "detail": "Murphy (knees) is now questionable for Wednesday against the Jazz.",
-    "type": "day-to-day",
-    "updated": "2026-11-04T18:34Z"
+    "status": "Out",
+    "detail": "Murphy (knees) is listed as out for Wednesday's game against Utah.",
+    "type": "out",
+    "updated": "2026-11-04T23:10Z"
    },
    {
     "player": "Jordan Poole",
@@ -606,6 +578,13 @@
   ],
   "Oklahoma City Thunder": [
    {
+    "player": "Jaylin Williams",
+    "status": "Out",
+    "detail": "Williams (back) is listed as out for Wednesday's game versus Cleveland, Clemente Almanza of USA Today reports.",
+    "type": "out",
+    "updated": "2026-11-04T23:18Z"
+   },
+   {
     "player": "Nikola Topic",
     "status": "Out",
     "detail": "Topic (back) is listed as out for Wednesday's game against Cleveland.",
@@ -618,13 +597,6 @@
     "detail": "Sorber (knee) is out for Wednesday's game against the Cavaliers.",
     "type": "out",
     "updated": "2026-11-03T22:45Z"
-   },
-   {
-    "player": "Jaylin Williams",
-    "status": "Day-To-Day",
-    "detail": "Williams (back) is listed as questionable for Wednesday's game against the Cavaliers.",
-    "type": "day-to-day",
-    "updated": "2026-11-03T22:41Z"
    },
    {
     "player": "Cason Wallace",
@@ -652,9 +624,9 @@
    {
     "player": "Dominick Barlow",
     "status": "Out",
-    "detail": "Barlow (back) won't play in Wednesday's game against the Pistons, Austin Krell of OnPattison.com reports.",
+    "detail": "Head coach Nick Nurse said Wednesday that Barlow (back) likely needs another 10-12 days before he's cleared to return to the court, Derek Bodner of AllPHLY.com reports.",
     "type": "out",
-    "updated": "2026-11-03T22:04Z"
+    "updated": "2026-11-04T22:41Z"
    },
    {
     "player": "Ariel Hukporti",
@@ -804,27 +776,6 @@
   ],
   "Washington Wizards": [
    {
-    "player": "Bilal Coulibaly",
-    "status": "Day-To-Day",
-    "detail": "Coulibaly (illness) is questionable for Wednesday against the Hawks.",
-    "type": "day-to-day",
-    "updated": "2026-11-04T17:38Z"
-   },
-   {
-    "player": "Anthony Gill",
-    "status": "Day-To-Day",
-    "detail": "Gill (back) is questionable for Wednesday against the Hawks.",
-    "type": "day-to-day",
-    "updated": "2026-11-03T21:49Z"
-   },
-   {
-    "player": "Alex Sarr",
-    "status": "Day-To-Day",
-    "detail": "Sarr (knee) is listed as questionable for Wednesday's game against Atlanta.",
-    "type": "day-to-day",
-    "updated": "2026-11-03T21:47Z"
-   },
-   {
     "player": "Reece Beekman",
     "status": "Out",
     "detail": "The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury and will be re-evaluated in approximately three weeks.",
@@ -915,6 +866,76 @@
    "at_et": "2026-11-04 16:15",
    "team": "Sacramento Kings",
    "player": "Precious Achiuwa",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-04 19:21",
+   "team": "Atlanta Hawks",
+   "player": "Jalen Johnson",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-04 19:21",
+   "team": "Boston Celtics",
+   "player": "Payton Pritchard",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-04 19:21",
+   "team": "Charlotte Hornets",
+   "player": "Coby White",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-04 19:21",
+   "team": "Chicago Bulls",
+   "player": "Jalen Smith",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-04 19:21",
+   "team": "Memphis Grizzlies",
+   "player": "Quinten Post",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-04 19:21",
+   "team": "New Orleans Pelicans",
+   "player": "Trey Murphy III",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-04 19:21",
+   "team": "Oklahoma City Thunder",
+   "player": "Jaylin Williams",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-04 19:21",
+   "team": "Washington Wizards",
+   "player": "Bilal Coulibaly",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-04 19:21",
+   "team": "Washington Wizards",
+   "player": "Anthony Gill",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-04 19:21",
+   "team": "Washington Wizards",
+   "player": "Alex Sarr",
    "from": "Day-To-Day",
    "to": "removed from report"
   }
