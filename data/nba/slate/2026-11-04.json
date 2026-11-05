@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "updated_et": "2026-11-04 20:29",
+ "updated_et": "2026-11-04 21:44",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -25,7 +25,7 @@
    "home": "WSH",
    "away_name": "Atlanta Hawks",
    "home_name": "Washington Wizards",
-   "state": "in",
+   "state": "post",
    "spread_text": "",
    "spread": null,
    "total": null,
@@ -123,11 +123,11 @@
    "home": "HOU",
    "away_name": "Minnesota Timberwolves",
    "home_name": "Houston Rockets",
-   "state": "pre",
-   "spread_text": "HOU -7.5",
-   "spread": -7.5,
-   "total": 219.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -137,11 +137,11 @@
    "home": "DEN",
    "away_name": "Toronto Raptors",
    "home_name": "Denver Nuggets",
-   "state": "pre",
-   "spread_text": "DEN -4.5",
-   "spread": -4.5,
-   "total": 231.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -151,11 +151,11 @@
    "home": "PHX",
    "away_name": "Portland Trail Blazers",
    "home_name": "Phoenix Suns",
-   "state": "pre",
-   "spread_text": "POR -2.5",
-   "spread": 2.5,
-   "total": 227.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -206,9 +206,9 @@
    {
     "player": "Asa Newell",
     "status": "Day-To-Day",
-    "detail": "Atlanta exercised Newell's third-year option Sunday, Brad Rowland of the Locked On Podcast Network reports.",
+    "detail": "Newell won't return to Wednesday's game against the Wizards due to a left great toe hyperextension, Brad Rowland of the Locked On Podcast Network reports. He'll finish with two points (1-1 FG), three rebounds and three assists across 10 minutes.",
     "type": "day-to-day",
-    "updated": "2026-11-05T01:17Z"
+    "updated": "2026-11-05T01:19Z"
    },
    {
     "player": "Jalen Johnson",
@@ -241,6 +241,13 @@
   ],
   "Boston Celtics": [
    {
+    "player": "Payton Pritchard",
+    "status": "Day-To-Day",
+    "detail": "Pritchard is questionable to return to Wednesday's game against the Bucks due to a right eye abrasion.",
+    "type": "day-to-day",
+    "updated": "2026-11-05T02:25Z"
+   },
+   {
     "player": "Devin Carter",
     "status": "Out",
     "detail": "Carter (illness) practiced with the G League's Maine Celtics on Wednesday.",
@@ -256,6 +263,20 @@
    }
   ],
   "Brooklyn Nets": [
+   {
+    "player": "Day'Ron Sharpe",
+    "status": "Day-To-Day",
+    "detail": "Sharpe registered 15 points (5-7 FG, 1-1 3Pt, 4-5 FT), 13 rebounds and four assists across 26 minutes in Sunday's 98-90 win over the Pacers.",
+    "type": "day-to-day",
+    "updated": "2026-11-05T02:29Z"
+   },
+   {
+    "player": "Noah Clowney",
+    "status": "Day-To-Day",
+    "detail": "Clowney won't return to Wednesday's game against the Hornets due to right knee soreness. He'll finish with seven points (3-6 FG, 1-4 3Pt), one rebound and one assist across 17 minutes.",
+    "type": "day-to-day",
+    "updated": "2026-11-05T02:13Z"
+   },
    {
     "player": "Egor Demin",
     "status": "Out",
@@ -275,9 +296,9 @@
    {
     "player": "Kon Knueppel",
     "status": "Out",
-    "detail": "Knueppel (hamstring) exited to the locker room in the first quarter of Wednesday's game against the Nets, Brian Lewis of the New York Post reports.",
+    "detail": "Knueppel exited Wednesday's game against the Nets after experiencing soreness in his left leg and he will not return, Brett Siegel of ClutchPoints.com reports.",
     "type": "out",
-    "updated": "2026-11-05T01:00Z"
+    "updated": "2026-11-05T01:54Z"
    },
    {
     "player": "Grant Williams",
@@ -289,6 +310,13 @@
   ],
   "Chicago Bulls": [
    {
+    "player": "Jalen Smith",
+    "status": "Day-To-Day",
+    "detail": "Smith (hand) won't return to Wednesday's game against the Knicks.",
+    "type": "day-to-day",
+    "updated": "2026-11-05T01:35Z"
+   },
+   {
     "player": "Nic Claxton",
     "status": "Out",
     "detail": "Claxton (hamstring) is listed as out for Wednesday's game against New York.",
@@ -297,6 +325,13 @@
    }
   ],
   "Cleveland Cavaliers": [
+   {
+    "player": "Jarrett Allen",
+    "status": "Day-To-Day",
+    "detail": "Allen (knee) is doubtful to return to Wednesday's game against the Thunder, Brett Siegel of ClutchPoints.com reports.",
+    "type": "day-to-day",
+    "updated": "2026-11-05T01:54Z"
+   },
    {
     "player": "Jaylon Tyson",
     "status": "Out",
@@ -350,6 +385,13 @@
    }
   ],
   "Denver Nuggets": [
+   {
+    "player": "DeMar DeRozan",
+    "status": "Out",
+    "detail": "DeRozan has been ruled out for Wednesday's game against the Raptors due to lower-back spasms.",
+    "type": "out",
+    "updated": "2026-11-05T02:05Z"
+   },
    {
     "player": "Spencer Jones",
     "status": "Out",
@@ -436,13 +478,6 @@
   ],
   "LA Clippers": [
    {
-    "player": "Isaiah Jackson",
-    "status": "Day-To-Day",
-    "detail": "Jackson is questionable for Wednesday's game against the Heat with left groin soreness, per Law Murray of The Athletic.",
-    "type": "day-to-day",
-    "updated": "2026-11-04T20:11Z"
-   },
-   {
     "player": "Yanic Konan Niederhauser",
     "status": "Out",
     "detail": "The Clippers recalled Niederhauser (foot) from the G League's San Diego Clippers on Sunday.",
@@ -482,20 +517,18 @@
   ],
   "Memphis Grizzlies": [
    {
+    "player": "Isaiah Stewart",
+    "status": "Day-To-Day",
+    "detail": "Stewart recorded 24 points (8-9 FG, 2-3 3Pt, 6-6 FT) and four rebounds across 21 minutes during Saturday's 136-105 victory over Sacramento.",
+    "type": "day-to-day",
+    "updated": "2026-11-05T02:32Z"
+   },
+   {
     "player": "Scotty Pippen Jr.",
     "status": "Out",
     "detail": "Pippen (back) won't play Wednesday against the Pacers.",
     "type": "out",
     "updated": "2026-11-03T23:19Z"
-   }
-  ],
-  "Miami Heat": [
-   {
-    "player": "Giannis Antetokounmpo",
-    "status": "Day-To-Day",
-    "detail": "Antetokounmpo is probable to play Wednesday against the Clippers due to a sprained right wrist.",
-    "type": "day-to-day",
-    "updated": "2026-11-04T01:05Z"
    }
   ],
   "Milwaukee Bucks": [
@@ -600,6 +633,13 @@
    }
   ],
   "Philadelphia 76ers": [
+   {
+    "player": "Adem Bona",
+    "status": "Day-To-Day",
+    "detail": "Bona exited to the locker room in the fourth quarter of Wednesday's game against Detroit due to an apparent head injury, Kris Rhim of ESPN reports.",
+    "type": "day-to-day",
+    "updated": "2026-11-05T02:23Z"
+   },
    {
     "player": "Dominick Barlow",
     "status": "Out",
@@ -707,13 +747,6 @@
     "detail": "Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports.",
     "type": "out",
     "updated": "2026-11-04T00:14Z"
-   },
-   {
-    "player": "Jakob Poeltl",
-    "status": "Day-To-Day",
-    "detail": "Poeltl is questionable for Wednesday's game against the Nuggets due to left shoulder bursitis, Blake Murphy of Sportsnet.ca reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-03T23:28Z"
    },
    {
     "player": "Nate Bittle",
@@ -985,6 +1018,76 @@
    "at_et": "2026-11-04 20:29",
    "team": "Utah Jazz",
    "player": "Mo Bamba",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-04 21:44",
+   "team": "Boston Celtics",
+   "player": "Payton Pritchard",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-04 21:44",
+   "team": "Brooklyn Nets",
+   "player": "Day'Ron Sharpe",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-04 21:44",
+   "team": "Brooklyn Nets",
+   "player": "Noah Clowney",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-04 21:44",
+   "team": "Chicago Bulls",
+   "player": "Jalen Smith",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-04 21:44",
+   "team": "Cleveland Cavaliers",
+   "player": "Jarrett Allen",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-04 21:44",
+   "team": "Denver Nuggets",
+   "player": "DeMar DeRozan",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-04 21:44",
+   "team": "LA Clippers",
+   "player": "Isaiah Jackson",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-04 21:44",
+   "team": "Memphis Grizzlies",
+   "player": "Isaiah Stewart",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-04 21:44",
+   "team": "Philadelphia 76ers",
+   "player": "Adem Bona",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-04 21:44",
+   "team": "Toronto Raptors",
+   "player": "Jakob Poeltl",
    "from": "Day-To-Day",
    "to": "removed from report"
   }
