@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "updated_et": "2026-11-06 16:15",
+ "updated_et": "2026-11-06 18:43",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -14,7 +14,7 @@
    "state": "pre",
    "spread_text": "ATL -8.5",
    "spread": -8.5,
-   "total": 229.5,
+   "total": 227.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -28,7 +28,7 @@
    "state": "pre",
    "spread_text": "BOS -10.5",
    "spread": 10.5,
-   "total": 208.5,
+   "total": 209.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -40,10 +40,10 @@
    "away_name": "Philadelphia 76ers",
    "home_name": "Cleveland Cavaliers",
    "state": "pre",
-   "spread_text": "PHI -2.5",
-   "spread": 2.5,
-   "total": 231.5,
-   "odds_source": "DraftKings",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -70,7 +70,7 @@
    "state": "pre",
    "spread_text": "OKC -4.5",
    "spread": 4.5,
-   "total": 223.5,
+   "total": 224.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -82,9 +82,9 @@
    "away_name": "Toronto Raptors",
    "home_name": "Milwaukee Bucks",
    "state": "pre",
-   "spread_text": "TOR -4.5",
-   "spread": 4.5,
-   "total": 229.5,
+   "spread_text": "TOR -3.5",
+   "spread": 3.5,
+   "total": 227.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -134,6 +134,13 @@
  "injuries": {
   "Atlanta Hawks": [
    {
+    "player": "Jalen Johnson",
+    "status": "Out",
+    "detail": "Johnson (ankle) is out for Friday's game against the Wizards.",
+    "type": "out",
+    "updated": "2026-11-06T22:06Z"
+   },
+   {
     "player": "Keshon Gilbert",
     "status": "Out",
     "detail": "Gilbert is out for Friday's game against the Wizards due to left knee inflammation.",
@@ -153,13 +160,6 @@
     "detail": "Landale (hip) has been ruled out for Friday's game against the Wizards.",
     "type": "out",
     "updated": "2026-11-05T22:12Z"
-   },
-   {
-    "player": "Jalen Johnson",
-    "status": "Day-To-Day",
-    "detail": "Johnson is questionable to suit up for Friday's game against Washington.",
-    "type": "day-to-day",
-    "updated": "2026-11-05T22:08Z"
    },
    {
     "player": "Mouhamed Gueye",
@@ -217,13 +217,6 @@
   ],
   "Cleveland Cavaliers": [
    {
-    "player": "Tyrese Proctor",
-    "status": "Day-To-Day",
-    "detail": "Proctor (ankle) is questionable to play in Friday's game against the 76ers.",
-    "type": "day-to-day",
-    "updated": "2026-11-05T22:29Z"
-   },
-   {
     "player": "Jaylon Tyson",
     "status": "Out",
     "detail": "Tyson (ankle) is out for Friday's game against the 76ers.",
@@ -247,32 +240,11 @@
   ],
   "Dallas Mavericks": [
    {
-    "player": "Kyrie Irving",
-    "status": "Day-To-Day",
-    "detail": "Irving (illness) is probable for Friday's game against Utah.",
-    "type": "day-to-day",
-    "updated": "2026-11-06T19:05Z"
-   },
-   {
     "player": "Sergio de Larrea",
     "status": "Out",
     "detail": "De Larrea (knee) is out for Friday's game against Utah.",
     "type": "out",
     "updated": "2026-11-05T22:24Z"
-   },
-   {
-    "player": "Santi Aldama",
-    "status": "Out",
-    "detail": "Aldama (knee) is probable to suit up for Friday's game against the Jazz.",
-    "type": "out",
-    "updated": "2026-11-05T22:24Z"
-   },
-   {
-    "player": "Max Christie",
-    "status": "Day-To-Day",
-    "detail": "Christie (hip) is probable for Friday's game against the Jazz.",
-    "type": "day-to-day",
-    "updated": "2026-11-05T22:20Z"
    },
    {
     "player": "Tarik Biberovic",
@@ -393,10 +365,10 @@
   "Philadelphia 76ers": [
    {
     "player": "Adem Bona",
-    "status": "Day-To-Day",
-    "detail": "Bona (back) is doubtful to play in Friday's game against the Cavaliers, Ky Carlin of USA Today reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-05T22:18Z"
+    "status": "Out",
+    "detail": "Bona (neck) is listed as out for Friday's game versus the Cavaliers.",
+    "type": "out",
+    "updated": "2026-11-06T23:10Z"
    },
    {
     "player": "Dominick Barlow",
@@ -437,6 +409,13 @@
    }
   ],
   "Sacramento Kings": [
+   {
+    "player": "De'Andre Hunter",
+    "status": "Day-To-Day",
+    "detail": "Hunter is questionable for Friday against the Spurs due to an illness.",
+    "type": "day-to-day",
+    "updated": "2026-11-06T21:07Z"
+   },
    {
     "player": "Maxime Raynaud",
     "status": "Out",
@@ -545,10 +524,10 @@
   "Washington Wizards": [
    {
     "player": "Anthony Davis",
-    "status": "Day-To-Day",
-    "detail": "Davis is questionable for Friday's game against the Hawks due to a right ankle sprain, Josh Robbins of The Athletic reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-05T22:51Z"
+    "status": "Out",
+    "detail": "Davis (ankle) is listed as out for Friday's game against the Hawks.",
+    "type": "out",
+    "updated": "2026-11-06T22:37Z"
    },
    {
     "player": "Reece Beekman",
@@ -636,6 +615,62 @@
    "player": "Kyrie Irving",
    "from": "not listed",
    "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-06 18:43",
+   "team": "Atlanta Hawks",
+   "player": "Jalen Johnson",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-06 18:43",
+   "team": "Cleveland Cavaliers",
+   "player": "Tyrese Proctor",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-06 18:43",
+   "team": "Dallas Mavericks",
+   "player": "Kyrie Irving",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-06 18:43",
+   "team": "Dallas Mavericks",
+   "player": "Santi Aldama",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-06 18:43",
+   "team": "Dallas Mavericks",
+   "player": "Max Christie",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-06 18:43",
+   "team": "Philadelphia 76ers",
+   "player": "Adem Bona",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-06 18:43",
+   "team": "Sacramento Kings",
+   "player": "De'Andre Hunter",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-06 18:43",
+   "team": "Washington Wizards",
+   "player": "Anthony Davis",
+   "from": "Day-To-Day",
+   "to": "Out"
   }
  ]
 }
