@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "updated_et": "2026-11-06 12:30",
+ "updated_et": "2026-11-06 14:07",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -26,10 +26,10 @@
    "away_name": "Boston Celtics",
    "home_name": "Charlotte Hornets",
    "state": "pre",
-   "spread_text": "",
-   "spread": null,
-   "total": null,
-   "odds_source": "",
+   "spread_text": "BOS -9.5",
+   "spread": 9.5,
+   "total": 207.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -42,7 +42,7 @@
    "state": "pre",
    "spread_text": "PHI -2.5",
    "spread": 2.5,
-   "total": 230.5,
+   "total": 229.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -82,9 +82,9 @@
    "away_name": "Toronto Raptors",
    "home_name": "Milwaukee Bucks",
    "state": "pre",
-   "spread_text": "TOR -6.5",
-   "spread": 6.5,
-   "total": 231.5,
+   "spread_text": "TOR -4.5",
+   "spread": 4.5,
+   "total": 229.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -126,7 +126,7 @@
    "state": "pre",
    "spread_text": "SA -16.5",
    "spread": 16.5,
-   "total": 229.5,
+   "total": 230.5,
    "odds_source": "DraftKings",
    "season_type": 2
   }
@@ -178,13 +178,6 @@
   ],
   "Boston Celtics": [
    {
-    "player": "Payton Pritchard",
-    "status": "Day-To-Day",
-    "detail": "Pritchard (eye) is questionable for Friday against Charlotte, Taylor Snow of the Celtics' official site reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-05T21:09Z"
-   },
-   {
     "player": "Devin Carter",
     "status": "Out",
     "detail": "Carter (illness) practiced with the G League's Maine Celtics on Wednesday.",
@@ -195,17 +188,17 @@
   "Charlotte Hornets": [
    {
     "player": "Dennis Schroder",
-    "status": "Day-To-Day",
-    "detail": "Schroder (thigh) is questionable for Friday's game against the Celtics.",
-    "type": "day-to-day",
-    "updated": "2026-11-05T22:11Z"
+    "status": "Out",
+    "detail": "Schroder (thigh) is out for Friday's game versus Boston.",
+    "type": "out",
+    "updated": "2026-11-06T18:09Z"
    },
    {
     "player": "Moussa Diabate",
-    "status": "Day-To-Day",
-    "detail": "Diabate (quadriceps) is questionable for Friday's game against the Celtics.",
-    "type": "day-to-day",
-    "updated": "2026-11-05T22:08Z"
+    "status": "Out",
+    "detail": "Diabate (quadriceps) has been ruled out for Friday's game against Boston, according to the Hornets' official injury report.",
+    "type": "out",
+    "updated": "2026-11-06T18:08Z"
    },
    {
     "player": "Kon Knueppel",
@@ -326,10 +319,10 @@
   "Minnesota Timberwolves": [
    {
     "player": "Terrence Shannon Jr.",
-    "status": "Day-To-Day",
-    "detail": "Shannon (hip) is questionable for Friday's game against New Orleans.",
-    "type": "day-to-day",
-    "updated": "2026-11-05T22:58Z"
+    "status": "Out",
+    "detail": "Shannon (hip) has been ruled out for Friday's game against New Orleans.",
+    "type": "out",
+    "updated": "2026-11-06T18:06Z"
    },
    {
     "player": "Anthony Edwards",
@@ -353,13 +346,6 @@
     "detail": "Missi (knee) is out for Friday's game against Minnesota.",
     "type": "out",
     "updated": "2026-11-05T20:47Z"
-   },
-   {
-    "player": "Trey Murphy III",
-    "status": "Day-To-Day",
-    "detail": "Murphy (knee) is probable for Friday's game against Minnesota.",
-    "type": "day-to-day",
-    "updated": "2026-11-05T20:19Z"
    }
   ],
   "Oklahoma City Thunder": [
@@ -493,18 +479,32 @@
   ],
   "Toronto Raptors": [
    {
+    "player": "Jakob Poeltl",
+    "status": "Day-To-Day",
+    "detail": "Poeltl (shoulder) is listed as probable for Friday's game against Milwaukee.",
+    "type": "day-to-day",
+    "updated": "2026-11-06T18:03Z"
+   },
+   {
+    "player": "Immanuel Quickley",
+    "status": "Day-To-Day",
+    "detail": "Quickley (hamstring) is questionable for Friday against the Bucks.",
+    "type": "day-to-day",
+    "updated": "2026-11-06T17:59Z"
+   },
+   {
+    "player": "Scottie Barnes",
+    "status": "Day-To-Day",
+    "detail": "Barnes (adductor) was not present at the morning shootaround, Michael Grange of Sportsnet.careports.",
+    "type": "day-to-day",
+    "updated": "2026-11-06T17:47Z"
+   },
+   {
     "player": "Kyle Anderson",
     "status": "Day-To-Day",
     "detail": "Anderson is questionable for Friday against the Bucks due to illness.",
     "type": "day-to-day",
     "updated": "2026-11-06T16:06Z"
-   },
-   {
-    "player": "Scottie Barnes",
-    "status": "Day-To-Day",
-    "detail": "Barnes (groin) is questionable to play Friday's game against the Bucks.",
-    "type": "day-to-day",
-    "updated": "2026-11-06T01:26Z"
    },
    {
     "player": "Kawhi Leonard",
@@ -525,9 +525,9 @@
    {
     "player": "Jusuf Nurkic",
     "status": "Out",
-    "detail": "Nurkic (foot) is out for Wednesday's game against the Pelicans.",
+    "detail": "Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 preseason game against Denver. He will be re-evaluated in two weeks, the Jazz announced Friday.",
     "type": "out",
-    "updated": "2026-11-03T23:07Z"
+    "updated": "2026-11-06T18:20Z"
    },
    {
     "player": "Jaren Jackson Jr.",
@@ -582,5 +582,55 @@
    }
   ]
  },
- "status_changes": []
+ "status_changes": [
+  {
+   "at_et": "2026-11-06 14:07",
+   "team": "Boston Celtics",
+   "player": "Payton Pritchard",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-06 14:07",
+   "team": "Charlotte Hornets",
+   "player": "Dennis Schroder",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-06 14:07",
+   "team": "Charlotte Hornets",
+   "player": "Moussa Diabate",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-06 14:07",
+   "team": "Minnesota Timberwolves",
+   "player": "Terrence Shannon Jr.",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-06 14:07",
+   "team": "New Orleans Pelicans",
+   "player": "Trey Murphy III",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-06 14:07",
+   "team": "Toronto Raptors",
+   "player": "Jakob Poeltl",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-06 14:07",
+   "team": "Toronto Raptors",
+   "player": "Immanuel Quickley",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  }
+ ]
 }

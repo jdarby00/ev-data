@@ -1,8 +1,18 @@
 # NBA board, 2026-11-06
 
-Slate updated 2026-11-06 12:30 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-06 14:07 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
+
+## Status changes today
+
+- 14:07 Boston Celtics: Payton Pritchard Day-To-Day → removed from report
+- 14:07 Charlotte Hornets: Dennis Schroder Day-To-Day → Out
+- 14:07 Charlotte Hornets: Moussa Diabate Day-To-Day → Out
+- 14:07 Minnesota Timberwolves: Terrence Shannon Jr. Day-To-Day → Out
+- 14:07 New Orleans Pelicans: Trey Murphy III Day-To-Day → removed from report
+- 14:07 Toronto Raptors: Jakob Poeltl not listed → Day-To-Day
+- 14:07 Toronto Raptors: Immanuel Quickley not listed → Day-To-Day
 
 ## WSH @ ATL, 19:00 ET
 Line: ATL -7.5, total 228.5 (DraftKings).
@@ -47,7 +57,7 @@ Line: ATL -7.5, total 228.5 (DraftKings).
 | Keshon Gilbert | Out | none this season; last season 18.5 min, 4.2 pts | | | | |
 
 ## BOS @ CHA, 19:00 ET
-Line: n/a, total – (ESPN).
+Line: BOS -9.5, total 207.5 (DraftKings).
 **BOS** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Devin Carter.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -55,7 +65,7 @@ Line: n/a, total – (ESPN).
 | Jayson Tatum | – | 34.2 (4.2) → 34.4 (26.7) | 28/27 → 25 (14–36) | 5.8/6 → 7 (4–12) | 7.4/7.9 → 7 (3–11) | 1.6/1.6 → 2 (0–4) | 39 (24–56) |
 | Derrick White | – | 31.8 (5.7) → 31.7 (23.9) | 13.6/12.8 → 14 (6–23) | 3/3.2 → 3 (1–6) | 4.6/5.1 → 5 (2–8) | 1.2/1.5 → 2 (0–4) | 23 (12–34) |
 | Paul George | – | 31.2 (3.8) → 31.9 (24.2) | 19.2/21.3 → 19 (10–29) | 5.4/5.6 → 5 (2–9) | 6/5 → 5 (2–8) | 2.8/3.4 → 3 (1–6) | 29 (17–43) |
-| Payton Pritchard | Day-To-Day | 26.8 (5) → 26.6 (19) | 11/13 → 13 (5–21) | 3.2/2.8 → 3 (1–6) | 4/3.6 → 4 (1–7) | 0.6/1.6 → 1 (0–3) | 20 (10–31) |
+| Payton Pritchard | – | 26.8 (5) → 26.6 (19) | 11/13 → 13 (5–21) | 3.2/2.8 → 3 (1–6) | 4/3.6 → 4 (1–7) | 0.6/1.6 → 1 (0–3) | 20 (10–31) |
 | Baylor Scheierman | – | 24 (5.3) → 22.7 (15) | 7/5.9 → 7 (1–12) | 5/4.2 → 4 (2–8) | 1.6/1.2 → 1 (0–3) | 1.8/1.4 → 1 (0–4) | 13 (5–22) |
 | Neemias Queta | – | 23.4 (4.3) → 24.2 (16.5) | 10.6/9.8 → 10 (3–17) | 7/6.2 → 7 (3–12) | 1.4/1.4 → 1 (0–3) | 0.2/0.2 → 0 (0–1) | 19 (9–30) |
 | Sam Hauser | – | 21.8 (4.2) → 22.4 (14.7) | 6.6/7.6 → 8 (2–14) | 2.6/2.9 → 3 (1–6) | 0.6/0.9 → 1 (0–2) | 1.8/2.1 → 2 (0–4) | 12 (4–20) |
@@ -64,14 +74,14 @@ Line: n/a, total – (ESPN).
 | Jordan Walsh | – | 14.4 (4.4) → 14.6 (6.9) | 5/4.2 → 4 (0–9) | 3.6/3.8 → 3 (1–7) | 0.6/0.8 → 0 (0–2) | 1/0.8 → 0 (0–2) | 8 (1–16) |
 | Hugo Gonzalez | – | 13 (5.9) → 13.8 (5.8) | 3.4/3.8 → 4 (0–8) | 2/2.2 → 2 (0–6) | 0.2/0.5 → 0 (0–1) | 0.2/0.2 → 0 (0–1) | 7 (1–14) |
 
-**CHA** (1 rest day). Out: Kon Knueppel. Freed minutes: 6. Out all season so far (already in the lines): Grant Williams.
+**CHA** (1 rest day). Out: Moussa Diabate, Dennis Schroder, Kon Knueppel. Freed minutes: 64.8. Out all season so far (already in the lines): Grant Williams.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Brandon Miller | – | 33 (5) → 31.8 (24.1) | 20.2/22 → 20 (11–31) | 5.8/5.3 → 5 (2–8) | 3/2.3 → 3 (1–5) | 3/3 → 3 (1–6) | 28 (16–42) |
-| Moussa Diabate | Day-To-Day | 29.4 (5.2) → 28.3 (20.6) | 8.6/8.9 → 8 (3–15) | 8.8/9.1 → 9 (4–14) | 2/2 → 2 (0–4) | 0/0 → 0 (0–0) | 19 (9–30) |
+| Moussa Diabate | Out | 29.4 (5.2) | 8.6/8.9 | 8.8/9.1 | 2/2 | 0/0 | – |
 | Naz Reid | – | 28.6 (7.1) → 30 (20.8) | 14.8/16.9 → 16 (7–26) | 7.4/8.3 → 7 (3–12) | 1.4/1.9 → 2 (0–4) | 1.4/2.3 → 2 (0–4) | 26 (13–39) |
-| Dennis Schroder | Day-To-Day | 28.2 (6.8) → 27.6 (18.8) | 7.2/10.2 → 10 (3–17) | 3.2/3.6 → 3 (1–6) | 5/4.9 → 5 (2–9) | 0.8/0.8 → 1 (0–2) | 18 (8–29) |
+| Dennis Schroder | Out | 28.2 (6.8) | 7.2/10.2 | 3.2/3.6 | 5/4.9 | 0.8/0.8 | – |
 | Grayson Allen | – | 25.4 (4.9) → 26.1 (18.4) | 14.8/15.7 → 15 (7–25) | 3/2.8 → 2 (1–5) | 2.2/2.7 → 3 (1–6) | 3.6/3.6 → 3 (1–6) | 21 (10–33) |
 | Sion James | – | 24.4 (4) → 25 (17.3) | 7.2/5.2 → 6 (1–12) | 3/3 → 3 (1–6) | 2.4/2.8 → 2 (0–5) | 1/0.9 → 1 (0–2) | 12 (4–20) |
 | Royce O'Neale | – | 22 (7.1) → 19.8 (10.6) | 5.2/4.4 → 5 (1–11) | 4/3 → 3 (1–6) | 0.8/0.6 → 1 (0–3) | 1.2/1.1 → 1 (0–3) | 10 (3–19) |
@@ -81,7 +91,7 @@ Line: n/a, total – (ESPN).
 | Kon Knueppel | Out | 6 (–) | 3/3 | 0/0 | 0/0 | 0/0 | – |
 
 ## PHI @ CLE, 19:30 ET
-Line: PHI -2.5, total 230.5 (DraftKings).
+Line: PHI -2.5, total 229.5 (DraftKings).
 **PHI** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Dominick Barlow, Ariel Hukporti.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -202,7 +212,7 @@ Line: OKC -4.5, total 223.5 (DraftKings).
 | Scotty Pippen Jr. | Out | 16.2 (2.5) | 6.4/6.4 | 2.2/2.2 | 2.2/2.2 | 0.4/0.4 | – |
 
 ## TOR @ MIL, 20:00 ET
-Line: TOR -6.5, total 231.5 (DraftKings).
+Line: TOR -4.5, total 229.5 (DraftKings).
 **TOR** (1 rest day). Out: Kawhi Leonard. Freed minutes: 26. Out all season so far (already in the lines): Nate Bittle.
 - Without Kawhi Leonard: Ja'Kobe Walter min +7.5, pts +3.8, reb +0.3, ast -0.7 (n=6 vs 2)
 - Without Kawhi Leonard: Jakob Poeltl min -6.7, pts +1, reb -2.7, ast +0 (n=4 vs 2)
@@ -212,13 +222,13 @@ Line: TOR -6.5, total 231.5 (DraftKings).
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Scottie Barnes | Day-To-Day | 35.2 (4.5) → 34 (26.4) | 27.4/23.5 → 21 (11–32) | 7.6/7.6 → 7 (4–12) | 5.6/5.1 → 5 (2–9) | 0.4/0.5 → 0 (0–2) | 34 (21–49) |
-| Immanuel Quickley | – | 33.8 (3.7) → 32.8 (25.1) | 17/17.4 → 17 (8–26) | 4/3.5 → 4 (1–7) | 6.2/5.8 → 6 (2–10) | 2.8/2.6 → 2 (0–5) | 26 (15–39) |
+| Immanuel Quickley | Day-To-Day | 33.8 (3.7) → 32.8 (25.1) | 17/17.4 → 17 (8–26) | 4/3.5 → 4 (1–7) | 6.2/5.8 → 6 (2–10) | 2.8/2.6 → 2 (0–5) | 26 (15–39) |
 | RJ Barrett | – | 33.6 (2.9) → 32.9 (25.3) | 20.8/20.9 → 21 (11–31) | 6.6/6 → 6 (3–10) | 4.4/3.9 → 3 (1–7) | 2.6/1.8 → 2 (0–4) | 30 (18–44) |
 | Ja'Kobe Walter | – | 31 (4) → 29.1 (21.4) | 10.4/11.4 → 10 (4–17) | 3.8/3.8 → 3 (1–6) | 2.4/2.5 → 2 (0–4) | 2/2.2 → 2 (0–4) | 16 (7–26) |
 | Kawhi Leonard | Out | 26 (2) | 19.5/19.5 | 7.5/7.5 | 1.5/1.5 | 2/2 | – |
 | Jamal Shead | – | 22.2 (2.7) → 21.7 (14) | 6.6/5.5 → 6 (1–11) | 2.2/2 → 2 (0–4) | 6.6/5.4 → 5 (2–9) | 0.8/0.5 → 1 (0–2) | 13 (5–22) |
 | Collin Murray-Boyles | – | 21.8 (3.7) → 21.9 (14.2) | 12/9.6 → 9 (3–17) | 4/4.8 → 4 (2–8) | 1/1.2 → 1 (0–3) | 1/0.6 → 0 (0–1) | 16 (6–26) |
-| Jakob Poeltl | – | 19.6 (5.2) → 20.1 (12.4) | 5.6/5.2 → 7 (2–14) | 5.6/5.7 → 5 (2–10) | 1.2/1 → 1 (0–3) | 0/0 → 0 (0–0) | 14 (6–25) |
+| Jakob Poeltl | Day-To-Day | 19.6 (5.2) → 20.1 (12.4) | 5.6/5.2 → 7 (2–14) | 5.6/5.7 → 5 (2–10) | 1.2/1 → 1 (0–3) | 0/0 → 0 (0–0) | 14 (6–25) |
 | Jamison Battle | – | 19.2 (3.7) → 16.9 (9.2) | 10/8.4 → 7 (1–14) | 1.2/1.5 → 2 (0–4) | 0.2/0.4 → 0 (0–2) | 2.2/1.9 → 1 (0–3) | 10 (3–18) |
 | Kyle Anderson | Day-To-Day | 6.4 (2.5) → 7.5 (0) | 1.2/1 → 2 (0–6) | 1/1 → 1 (0–3) | 1/1.2 → 1 (0–3) | 0/0 → 0 (0–0) | 4 (0–12) |
 | Nate Bittle | Out | no games | | | | |
@@ -241,11 +251,11 @@ Line: TOR -6.5, total 231.5 (DraftKings).
 
 ## MIN @ NO, 20:00 ET
 Line: MIN -3.5, total 230.5 (DraftKings).
-**MIN** (1 rest day). Out: Anthony Edwards. Freed minutes: 33.8. Out all season so far (already in the lines): Donte DiVincenzo.
+**MIN** (1 rest day). Out: Anthony Edwards, Terrence Shannon Jr.. Freed minutes: 55.8. Out all season so far (already in the lines): Donte DiVincenzo.
 - Without Anthony Edwards: Jaylen Clark min +14.3, pts +5.1, reb +0.7, ast +0.3 (n=5 vs 3)
+- Without Terrence Shannon Jr.: Jaylen Clark min +13.8, pts +3.3, reb +1.7, ast -0.5 (n=2 vs 6)
 - Without Anthony Edwards: Ayo Dosunmu min +8, pts +7.8, reb +2.4, ast +0.6 (n=5 vs 4)
 - Without Anthony Edwards: Bones Hyland min +8, pts +11.2, reb -0.5, ast +3.2 (n=5 vs 4)
-- Without Anthony Edwards: Trey Lyles min +5.4, pts +4, reb -0.7, ast -1 (n=5 vs 4)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -255,7 +265,7 @@ Line: MIN -3.5, total 230.5 (DraftKings).
 | Jonathan Kuminga | – | 31.8 (5.1) → 30.9 (23.2) | 13.6/12.7 → 14 (6–22) | 5.6/5.7 → 6 (3–11) | 3.2/2.9 → 3 (1–6) | 2.4/2.1 → 2 (0–4) | 24 (13–36) |
 | Rudy Gobert | – | 30 (4.4) → 30.6 (22.9) | 6.6/7.5 → 9 (3–15) | 11.6/11.9 → 11 (6–17) | 2/1.5 → 1 (0–4) | 0/0 → 0 (0–0) | 22 (11–33) |
 | LaMelo Ball | – | 28.2 (5.2) → 27.9 (20.2) | 19.2/17.2 → 19 (10–30) | 4.6/3.4 → 4 (2–7) | 5.6/5.9 → 6 (3–10) | 3.6/3.3 → 3 (1–7) | 30 (17–44) |
-| Terrence Shannon Jr. | Day-To-Day | 22.4 (2.8) → 20.6 (12.9) | 12.2/12 → 9 (3–17) | 4/3.6 → 2 (1–5) | 3.2/2.6 → 2 (0–4) | 1.8/1.9 → 1 (0–3) | 14 (5–24) |
+| Terrence Shannon Jr. | Out | 22.4 (2.8) | 12.2/12 | 4/3.6 | 3.2/2.6 | 1.8/1.9 | – |
 | Joan Beringer | – | 19.8 (6.2) → 16.9 (8.6) | 5.8/6.2 → 7 (1–14) | 6.8/6.9 → 5 (2–10) | 1.2/0.8 → 0 (0–2) | 0/0 → 0 (0–0) | 13 (4–24) |
 | Trey Lyles | – | 19.4 (3.3) → 18.2 (10.5) | 8/6.2 → 7 (1–13) | 2.8/3.1 → 3 (1–6) | 0.2/0.7 → 1 (0–3) | 1.2/1.1 → 1 (0–2) | 11 (3–20) |
 | Jaylen Clark | – | 18 (8.5) → 16.3 (5.6) | 6.4/4.5 → 5 (0–11) | 2/1.8 → 2 (0–5) | 1/0.9 → 1 (0–2) | 1.4/0.9 → 1 (0–2) | 8 (1–17) |
@@ -270,7 +280,7 @@ Line: MIN -3.5, total 230.5 (DraftKings).
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Dejounte Murray | – | 34.8 (5.5) → 34.9 (27.1) | 18.2/18.2 → 19 (10–28) | 6.2/6.2 → 6 (3–11) | 5.6/5.6 → 6 (3–10) | 0.8/0.8 → 1 (0–3) | 32 (19–46) |
-| Trey Murphy III | Day-To-Day | 33.6 (3.7) → 33.8 (26.1) | 16.8/14.9 → 18 (9–27) | 4.4/4.6 → 5 (2–8) | 4/3.4 → 4 (1–7) | 2.4/2.1 → 2 (1–5) | 26 (15–39) |
+| Trey Murphy III | – | 33.6 (3.7) → 33.8 (26.1) | 16.8/14.9 → 18 (9–27) | 4.4/4.6 → 5 (2–8) | 4/3.4 → 4 (1–7) | 2.4/2.1 → 2 (1–5) | 26 (15–39) |
 | Zion Williamson | – | 33.2 (2.3) → 33.3 (25.6) | 22/21.5 → 22 (12–33) | 6.4/5.1 → 6 (3–10) | 2.8/2.6 → 3 (1–6) | 0.2/0.4 → 0 (0–1) | 31 (18–45) |
 | Jeremiah Fears | – | 31.2 (5.6) → 30 (22.3) | 16.8/13.6 → 16 (7–25) | 5.4/4.5 → 4 (2–8) | 6.4/4.5 → 4 (2–8) | 1.2/1 → 1 (0–3) | 25 (13–37) |
 | Herbert Jones | – | 28.2 (7.3) → 27.3 (17.9) | 8.4/6.5 → 7 (2–14) | 3.6/3 → 3 (1–6) | 1.4/1 → 2 (0–4) | 0.8/0.8 → 1 (0–3) | 13 (5–22) |
@@ -318,7 +328,7 @@ Line: LAL -3.5, total 231.5 (DraftKings).
 | Collin Sexton | – | 17.6 (2.3) → 17.8 (10.1) | 10.2/9.8 → 10 (3–19) | 2.6/2.1 → 2 (0–4) | 2.4/2.4 → 2 (0–5) | 1.2/1 → 1 (0–3) | 15 (5–26) |
 
 ## SA @ SAC, 22:00 ET
-Line: SA -16.5, total 229.5 (DraftKings).
+Line: SA -16.5, total 230.5 (DraftKings).
 **SA** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Tobias Harris, Jayden Quaintance.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
