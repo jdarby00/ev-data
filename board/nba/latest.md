@@ -1,6 +1,6 @@
 # NBA board, 2026-11-06
 
-Slate updated 2026-11-06 14:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-06 16:04 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -16,7 +16,7 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 14:45 Dallas Mavericks: Kyrie Irving not listed → Day-To-Day
 
 ## WSH @ ATL, 19:00 ET
-Line: ATL -7.5, total 228.5 (Draft Kings).
+Line: ATL -8.5, total 229.5 (Draft Kings).
 **WSH** (1 rest day). Out: Justin Champagnie, Reece Beekman. Freed minutes: 19.5. Out all season so far (already in the lines): Tristan Vukcevic, Jamir Watkins.
 - Without Justin Champagnie: Tre Johnson min -6.5, pts -8.3, reb +0.3, ast -1 (n=3 vs 4)
 - Without Justin Champagnie: Kyshawn George min +5.5, pts -1, reb -2, ast +3.5 (n=4 vs 4)
@@ -58,7 +58,7 @@ Line: ATL -7.5, total 228.5 (Draft Kings).
 | Keshon Gilbert | Out | none this season; last season 18.5 min, 4.2 pts | | | | |
 
 ## BOS @ CHA, 19:00 ET
-Line: BOS -10.5, total 207.5 (Draft Kings).
+Line: BOS -10.5, total 208.5 (Draft Kings).
 **BOS** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Devin Carter.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -329,7 +329,7 @@ Line: LAL -3.5, total 231.5 (Draft Kings).
 | Collin Sexton | – | 17.6 (2.3) → 17.8 (10.1) | 10.2/9.8 → 10 (3–19) | 2.6/2.1 → 2 (0–4) | 2.4/2.4 → 2 (0–5) | 1.2/1 → 1 (0–3) | 15 (5–26) |
 
 ## SA @ SAC, 22:00 ET
-Line: SA -16.5, total 231.5 (Draft Kings).
+Line: SA -17.5, total 231.5 (Draft Kings).
 **SA** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Tobias Harris, Jayden Quaintance.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |

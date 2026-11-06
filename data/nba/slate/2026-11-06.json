@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "updated_et": "2026-11-06 14:45",
+ "updated_et": "2026-11-06 16:04",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -12,9 +12,9 @@
    "away_name": "Washington Wizards",
    "home_name": "Atlanta Hawks",
    "state": "pre",
-   "spread_text": "ATL -7.5",
-   "spread": -7.5,
-   "total": 228.5,
+   "spread_text": "ATL -8.5",
+   "spread": -8.5,
+   "total": 229.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -28,7 +28,7 @@
    "state": "pre",
    "spread_text": "BOS -10.5",
    "spread": 10.5,
-   "total": 207.5,
+   "total": 208.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -124,8 +124,8 @@
    "away_name": "San Antonio Spurs",
    "home_name": "Sacramento Kings",
    "state": "pre",
-   "spread_text": "SA -16.5",
-   "spread": 16.5,
+   "spread_text": "SA -17.5",
+   "spread": 17.5,
    "total": 231.5,
    "odds_source": "Draft Kings",
    "season_type": 2
