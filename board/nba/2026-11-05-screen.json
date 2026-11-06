@@ -1,6 +1,6 @@
 {
 "date": "2026-11-05",
-"built": "2026-11-06T00:12:09Z",
+"built": "2026-11-06T01:36:04Z",
 "rows": [
 {
 "market": "assists",
@@ -204,6 +204,25 @@
 "api_home": "Golden State Warriors"
 },
 {
+"market": "total",
+"player": "",
+"line": 40.5,
+"side": "under",
+"book": "draftkings",
+"price": -115,
+"fair": 0.5217,
+"edge": -0.0246,
+"n_other": 1,
+"other_books": [
+"espnbet"
+],
+"price_ts": "2026-11-06T01:03:09Z",
+"snapshot": "close",
+"tip": "2026-11-06T01:15:00Z",
+"api_away": "Jacksonville Jaguars",
+"api_home": "Baltimore Ravens"
+},
+{
 "market": "rebounds",
 "player": "Draymond Green",
 "line": 5.5,
@@ -339,30 +358,6 @@
 "tip": "2026-11-06T02:10:00Z",
 "api_away": "Orlando Magic",
 "api_home": "Phoenix Suns"
-},
-{
-"market": "total",
-"player": "",
-"line": 39.5,
-"side": "under",
-"book": "draftkings",
-"price": -105,
-"fair": 0.4971,
-"edge": -0.0295,
-"n_other": 6,
-"other_books": [
-"betmgm",
-"betonlineag",
-"bovada",
-"espnbet",
-"fanduel",
-"hardrockbet"
-],
-"price_ts": "2026-11-05T21:48:13Z",
-"snapshot": "lock",
-"tip": "2026-11-06T01:15:00Z",
-"api_away": "Jacksonville Jaguars",
-"api_home": "Baltimore Ravens"
 },
 {
 "market": "points",
@@ -680,30 +675,6 @@
 "tip": "2026-11-06T03:10:00Z",
 "api_away": "Miami Heat",
 "api_home": "Golden State Warriors"
-},
-{
-"market": "total",
-"player": "",
-"line": 39.5,
-"side": "over",
-"book": "fanduel",
-"price": -110,
-"fair": 0.5047,
-"edge": -0.0365,
-"n_other": 6,
-"other_books": [
-"betmgm",
-"betonlineag",
-"bovada",
-"draftkings",
-"espnbet",
-"hardrockbet"
-],
-"price_ts": "2026-11-05T21:48:13Z",
-"snapshot": "lock",
-"tip": "2026-11-06T01:15:00Z",
-"api_away": "Jacksonville Jaguars",
-"api_home": "Baltimore Ravens"
 },
 {
 "market": "rebounds",
@@ -1684,30 +1655,6 @@
 "api_home": "Phoenix Suns"
 },
 {
-"market": "total",
-"player": "",
-"line": 39.5,
-"side": "under",
-"book": "fanduel",
-"price": -110,
-"fair": 0.4953,
-"edge": -0.0544,
-"n_other": 6,
-"other_books": [
-"betmgm",
-"betonlineag",
-"bovada",
-"draftkings",
-"espnbet",
-"hardrockbet"
-],
-"price_ts": "2026-11-05T21:48:13Z",
-"snapshot": "lock",
-"tip": "2026-11-06T01:15:00Z",
-"api_away": "Jacksonville Jaguars",
-"api_home": "Baltimore Ravens"
-},
-{
 "market": "rebounds",
 "player": "Giannis Antetokounmpo",
 "line": 10.5,
@@ -2233,30 +2180,6 @@
 "tip": "2026-11-06T02:10:00Z",
 "api_away": "Orlando Magic",
 "api_home": "Phoenix Suns"
-},
-{
-"market": "total",
-"player": "",
-"line": 39.5,
-"side": "over",
-"book": "draftkings",
-"price": -115,
-"fair": 0.5029,
-"edge": -0.0598,
-"n_other": 6,
-"other_books": [
-"betmgm",
-"betonlineag",
-"bovada",
-"espnbet",
-"fanduel",
-"hardrockbet"
-],
-"price_ts": "2026-11-05T21:48:13Z",
-"snapshot": "lock",
-"tip": "2026-11-06T01:15:00Z",
-"api_away": "Jacksonville Jaguars",
-"api_home": "Baltimore Ravens"
 },
 {
 "market": "rebounds",
@@ -2811,6 +2734,25 @@
 "tip": "2026-11-06T02:10:00Z",
 "api_away": "Orlando Magic",
 "api_home": "Phoenix Suns"
+},
+{
+"market": "total",
+"player": "",
+"line": 40.5,
+"side": "over",
+"book": "draftkings",
+"price": -105,
+"fair": 0.4783,
+"edge": -0.0663,
+"n_other": 1,
+"other_books": [
+"espnbet"
+],
+"price_ts": "2026-11-06T01:03:09Z",
+"snapshot": "close",
+"tip": "2026-11-06T01:15:00Z",
+"api_away": "Jacksonville Jaguars",
+"api_home": "Baltimore Ravens"
 },
 {
 "market": "points",
