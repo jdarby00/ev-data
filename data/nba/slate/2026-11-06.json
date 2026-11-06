@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "updated_et": "2026-11-06 14:07",
+ "updated_et": "2026-11-06 14:45",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -15,7 +15,7 @@
    "spread_text": "ATL -7.5",
    "spread": -7.5,
    "total": 228.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -26,10 +26,10 @@
    "away_name": "Boston Celtics",
    "home_name": "Charlotte Hornets",
    "state": "pre",
-   "spread_text": "BOS -9.5",
-   "spread": 9.5,
+   "spread_text": "BOS -10.5",
+   "spread": 10.5,
    "total": 207.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -42,8 +42,8 @@
    "state": "pre",
    "spread_text": "PHI -2.5",
    "spread": 2.5,
-   "total": 229.5,
-   "odds_source": "DraftKings",
+   "total": 231.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -56,8 +56,8 @@
    "state": "pre",
    "spread_text": "DAL -6.5",
    "spread": -6.5,
-   "total": 224.5,
-   "odds_source": "DraftKings",
+   "total": 225.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -71,7 +71,7 @@
    "spread_text": "OKC -4.5",
    "spread": 4.5,
    "total": 223.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "TOR -4.5",
    "spread": 4.5,
    "total": 229.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -99,7 +99,7 @@
    "spread_text": "MIN -3.5",
    "spread": 3.5,
    "total": 230.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -113,7 +113,7 @@
    "spread_text": "LAL -3.5",
    "spread": -3.5,
    "total": 231.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -126,8 +126,8 @@
    "state": "pre",
    "spread_text": "SA -16.5",
    "spread": 16.5,
-   "total": 230.5,
-   "odds_source": "DraftKings",
+   "total": 231.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   }
  ],
@@ -246,6 +246,13 @@
    }
   ],
   "Dallas Mavericks": [
+   {
+    "player": "Kyrie Irving",
+    "status": "Day-To-Day",
+    "detail": "Irving (illness) is probable for Friday's game against Utah.",
+    "type": "day-to-day",
+    "updated": "2026-11-06T19:05Z"
+   },
    {
     "player": "Sergio de Larrea",
     "status": "Out",
@@ -629,6 +636,13 @@
    "at_et": "2026-11-06 14:07",
    "team": "Toronto Raptors",
    "player": "Immanuel Quickley",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-06 14:45",
+   "team": "Dallas Mavericks",
+   "player": "Kyrie Irving",
    "from": "not listed",
    "to": "Day-To-Day"
   }
