@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "updated_et": "2026-11-06 16:04",
+ "updated_et": "2026-11-06 16:15",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -15,7 +15,7 @@
    "spread_text": "ATL -8.5",
    "spread": -8.5,
    "total": 229.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -29,7 +29,7 @@
    "spread_text": "BOS -10.5",
    "spread": 10.5,
    "total": 208.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -43,7 +43,7 @@
    "spread_text": "PHI -2.5",
    "spread": 2.5,
    "total": 231.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -57,7 +57,7 @@
    "spread_text": "DAL -6.5",
    "spread": -6.5,
    "total": 225.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -71,7 +71,7 @@
    "spread_text": "OKC -4.5",
    "spread": 4.5,
    "total": 223.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "TOR -4.5",
    "spread": 4.5,
    "total": 229.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -99,7 +99,7 @@
    "spread_text": "MIN -3.5",
    "spread": 3.5,
    "total": 230.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -113,7 +113,7 @@
    "spread_text": "LAL -3.5",
    "spread": -3.5,
    "total": 231.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -127,7 +127,7 @@
    "spread_text": "SA -17.5",
    "spread": 17.5,
    "total": 231.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
@@ -287,15 +287,6 @@
     "detail": "Lively (foot) is listed as out for Monday's game against the Kings.",
     "type": "out",
     "updated": "2026-11-01T22:57Z"
-   }
-  ],
-  "Los Angeles Lakers": [
-   {
-    "player": "Sandro Mamukelashvili",
-    "status": "Day-To-Day",
-    "detail": "Mamukelashvili (illness) is listed as questionable for Friday's game against Portland.",
-    "type": "day-to-day",
-    "updated": "2026-11-06T01:03Z"
    }
   ],
   "Memphis Grizzlies": [
