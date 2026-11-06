@@ -1,5 +1,5 @@
 {
- "credits_remaining": 440,
+ "credits_remaining": 436,
  "date": "2026-11-05",
  "groups": {
   "americanfootball_nfl|jaguars@ravens|h2h": {
@@ -271,6 +271,265 @@
      "kind": "lock",
      "minutes_to_tip": 206.8,
      "raw": "raw/2026-11-05/c75744790b7acf6260c78ba5e739c0e5-h2h-lock-20261105T214813016267Z.json",
+     "rev": 1
+    },
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1028823877",
+       "event_sid": "1028823877",
+       "last_update": "2026-11-06T01:01:45Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": 375,
+         "sid": "4392387886",
+         "side": "Baltimore Ravens"
+        },
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": -500,
+         "sid": "4392387888",
+         "side": "Jacksonville Jaguars"
+        }
+       ]
+      },
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/jacksonville-jaguars-@-baltimore-ravens-6%3A48487",
+       "event_sid": "6:48487",
+       "last_update": "2026-11-06T01:02:57Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48487-4204560-6794519&type=Single",
+         "player": "",
+         "price": 375,
+         "sid": "6794519",
+         "side": "Baltimore Ravens"
+        },
+        {
+         "line": null,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48487-4204560-6794518&type=Single",
+         "player": "",
+         "price": -475,
+         "sid": "6794518",
+         "side": "Jacksonville Jaguars"
+        }
+       ]
+      },
+      "betonlineag": {
+       "event_link": "https://sports.betonline.ag/sportsbook/football/nfl/game/491166246",
+       "event_sid": "491166246",
+       "last_update": "2026-11-06T01:02:58Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": 316,
+         "sid": null,
+         "side": "Baltimore Ravens"
+        },
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": -400,
+         "sid": null,
+         "side": "Jacksonville Jaguars"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1028823877",
+       "event_sid": "1028823877",
+       "last_update": "2026-11-06T01:02:58Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": 375,
+         "sid": "4392387886",
+         "side": "Baltimore Ravens"
+        },
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": -500,
+         "sid": "4392387888",
+         "side": "Jacksonville Jaguars"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1028823877",
+       "event_sid": "1028823877",
+       "last_update": "2026-11-06T01:02:36Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028823877?coupon={pickType}|4392387886|{wagerAmount}",
+         "player": "",
+         "price": 375,
+         "sid": "4392387886",
+         "side": "Baltimore Ravens"
+        },
+        {
+         "line": null,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028823877?coupon={pickType}|4392387888|{wagerAmount}",
+         "player": "",
+         "price": -500,
+         "sid": "4392387888",
+         "side": "Jacksonville Jaguars"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/football/nfl/jacksonville-jaguars-baltimore-ravens-202611052015",
+       "event_sid": "29513391",
+       "last_update": "2026-11-06T01:01:29Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": 300,
+         "sid": "2376625910",
+         "side": "Baltimore Ravens"
+        },
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": -390,
+         "sid": "2376628434",
+         "side": "Jacksonville Jaguars"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/34118164",
+       "event_sid": "34118164",
+       "last_update": "2026-11-06T01:02:58Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0ML84695597_1",
+         "player": "",
+         "price": 350,
+         "sid": "0ML84695597_1",
+         "side": "Baltimore Ravens"
+        },
+        {
+         "line": null,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0ML84695597_3",
+         "player": "",
+         "price": -455,
+         "sid": "0ML84695597_3",
+         "side": "Jacksonville Jaguars"
+        }
+       ]
+      },
+      "espnbet": {
+       "event_link": "https://sportsbook.thescore.bet/sport/football/organization/united-states/competition/nfl/event/42765a75-42cd-4fd4-a0fa-988a75445706",
+       "event_sid": "42765a75-42cd-4fd4-a0fa-988a75445706",
+       "last_update": "2026-11-06T01:02:36Z",
+       "market_link": "https://sportsbook.thescore.bet/sport/football/organization/united-states/competition/nfl/event/42765a75-42cd-4fd4-a0fa-988a75445706/section/lines",
+       "market_sid": "eeb0bdba-2f80-4c5e-b858-01de18334bee",
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=05e21c22-2eb0-4068-97b1-8e64399dd47d&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": 320,
+         "sid": "05e21c22-2eb0-4068-97b1-8e64399dd47d",
+         "side": "Baltimore Ravens"
+        },
+        {
+         "line": null,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=1abc3c53-59a2-4e5e-97f1-7a264e2ada24&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": -425,
+         "sid": "1abc3c53-59a2-4e5e-97f1-7a264e2ada24",
+         "side": "Jacksonville Jaguars"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/football/nfl/jacksonville-jaguars-%40-baltimore-ravens-36244870",
+       "event_sid": "36244870",
+       "last_update": "2026-11-06T01:02:59Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.619967581&selectionId=50205",
+         "player": "",
+         "price": 350,
+         "sid": "50205",
+         "side": "Baltimore Ravens"
+        },
+        {
+         "line": null,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.619967581&selectionId=50207",
+         "player": "",
+         "price": -450,
+         "sid": "50207",
+         "side": "Jacksonville Jaguars"
+        }
+       ]
+      },
+      "hardrockbet": {
+       "event_link": "https://app.hardrock.bet/home/competition/nfl/8133243745794654605",
+       "event_sid": "8133243745794654605",
+       "last_update": "2026-11-06T01:02:37Z",
+       "market_link": null,
+       "market_sid": "3888136365027754413",
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1179221189164401069",
+         "player": "",
+         "price": 350,
+         "sid": "1179221189164401069",
+         "side": "Baltimore Ravens"
+        },
+        {
+         "line": null,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3036393085501309357",
+         "player": "",
+         "price": -475,
+         "sid": "3036393085501309357",
+         "side": "Jacksonville Jaguars"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-06T01:03:09Z",
+     "kind": "close",
+     "minutes_to_tip": 11.8,
+     "raw": "raw/2026-11-05/c75744790b7acf6260c78ba5e739c0e5-h2h-close-20261106T010309030846Z.json",
      "rev": 1
     }
    ],
@@ -866,6 +1125,585 @@
      "minutes_to_tip": 206.8,
      "raw": "raw/2026-11-05/c75744790b7acf6260c78ba5e739c0e5-player_pass_yds-lock-20261105T214813016267Z.json",
      "rev": 1
+    },
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1028823877",
+       "event_sid": "1028823877",
+       "last_update": "2026-11-06T01:01:53Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 161.5,
+         "link": null,
+         "player": "Joe Fagnano",
+         "price": -113,
+         "sid": "4402498063",
+         "side": "Over"
+        },
+        {
+         "line": 228.5,
+         "link": null,
+         "player": "Trevor Lawrence",
+         "price": -115,
+         "sid": "4402570642",
+         "side": "Over"
+        }
+       ]
+      },
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/jacksonville-jaguars-@-baltimore-ravens-6%3A48487",
+       "event_sid": "6:48487",
+       "last_update": "2026-11-06T01:02:58Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 234.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48487-4381929-7128712&type=Single",
+         "player": "Trevor Lawrence",
+         "price": -115,
+         "sid": "7128712",
+         "side": "Over"
+        },
+        {
+         "line": 234.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48487-4381929-7128713&type=Single",
+         "player": "Trevor Lawrence",
+         "price": -115,
+         "sid": "7128713",
+         "side": "Under"
+        },
+        {
+         "line": 164.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48487-4418565-7194938&type=Single",
+         "player": "Joe Fagnano",
+         "price": -115,
+         "sid": "7194938",
+         "side": "Over"
+        },
+        {
+         "line": 164.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48487-4418565-7194939&type=Single",
+         "player": "Joe Fagnano",
+         "price": -115,
+         "sid": "7194939",
+         "side": "Under"
+        }
+       ]
+      },
+      "betonlineag": {
+       "event_link": "https://sports.betonline.ag/sportsbook/football/nfl/game/491166246",
+       "event_sid": "491166246",
+       "last_update": "2026-11-06T01:01:33Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 167.5,
+         "link": null,
+         "player": "Joe Fagnano",
+         "price": -114,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 167.5,
+         "link": null,
+         "player": "Joe Fagnano",
+         "price": -114,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 234.5,
+         "link": null,
+         "player": "Trevor Lawrence",
+         "price": -120,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 234.5,
+         "link": null,
+         "player": "Trevor Lawrence",
+         "price": -108,
+         "sid": null,
+         "side": "Under"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1028823877",
+       "event_sid": "1028823877",
+       "last_update": "2026-11-06T01:00:41Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 161.5,
+         "link": null,
+         "player": "Joe Fagnano",
+         "price": -113,
+         "sid": "4402498063",
+         "side": "Over"
+        },
+        {
+         "line": 161.5,
+         "link": null,
+         "player": "Joe Fagnano",
+         "price": -115,
+         "sid": "4402498064",
+         "side": "Under"
+        },
+        {
+         "line": 228.5,
+         "link": null,
+         "player": "Trevor Lawrence",
+         "price": -115,
+         "sid": "4402570642",
+         "side": "Over"
+        },
+        {
+         "line": 228.5,
+         "link": null,
+         "player": "Trevor Lawrence",
+         "price": -113,
+         "sid": "4402570643",
+         "side": "Under"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1028823877",
+       "event_sid": "1028823877",
+       "last_update": "2026-11-06T01:02:58Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 161.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028823877?coupon={pickType}|4402498063|{wagerAmount}",
+         "player": "Joe Fagnano",
+         "price": -114,
+         "sid": "4402498063",
+         "side": "Over"
+        },
+        {
+         "line": 161.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028823877?coupon={pickType}|4402498064|{wagerAmount}",
+         "player": "Joe Fagnano",
+         "price": -115,
+         "sid": "4402498064",
+         "side": "Under"
+        },
+        {
+         "line": 228.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028823877?coupon={pickType}|4402570642|{wagerAmount}",
+         "player": "Trevor Lawrence",
+         "price": -117,
+         "sid": "4402570642",
+         "side": "Over"
+        },
+        {
+         "line": 228.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028823877?coupon={pickType}|4402570643|{wagerAmount}",
+         "player": "Trevor Lawrence",
+         "price": -114,
+         "sid": "4402570643",
+         "side": "Under"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/football/nfl/jacksonville-jaguars-baltimore-ravens-202611052015",
+       "event_sid": "29513391",
+       "last_update": "2026-11-06T01:02:25Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 135.5,
+         "link": null,
+         "player": "Joe Fagnano",
+         "price": -260,
+         "sid": "2464614389",
+         "side": "Over"
+        },
+        {
+         "line": 135.5,
+         "link": null,
+         "player": "Joe Fagnano",
+         "price": 190,
+         "sid": "2464614390",
+         "side": "Under"
+        },
+        {
+         "line": 145.5,
+         "link": null,
+         "player": "Joe Fagnano",
+         "price": -190,
+         "sid": "2464614391",
+         "side": "Over"
+        },
+        {
+         "line": 145.5,
+         "link": null,
+         "player": "Joe Fagnano",
+         "price": 145,
+         "sid": "2464614392",
+         "side": "Under"
+        },
+        {
+         "line": 155.5,
+         "link": null,
+         "player": "Joe Fagnano",
+         "price": -145,
+         "sid": "2464614393",
+         "side": "Over"
+        },
+        {
+         "line": 155.5,
+         "link": null,
+         "player": "Joe Fagnano",
+         "price": 110,
+         "sid": "2464614394",
+         "side": "Under"
+        },
+        {
+         "line": 165.5,
+         "link": null,
+         "player": "Joe Fagnano",
+         "price": -115,
+         "sid": "2464614375",
+         "side": "Over"
+        },
+        {
+         "line": 165.5,
+         "link": null,
+         "player": "Joe Fagnano",
+         "price": -115,
+         "sid": "2464614376",
+         "side": "Under"
+        },
+        {
+         "line": 175.5,
+         "link": null,
+         "player": "Joe Fagnano",
+         "price": 110,
+         "sid": "2464614395",
+         "side": "Over"
+        },
+        {
+         "line": 175.5,
+         "link": null,
+         "player": "Joe Fagnano",
+         "price": -145,
+         "sid": "2464614396",
+         "side": "Under"
+        },
+        {
+         "line": 185.5,
+         "link": null,
+         "player": "Joe Fagnano",
+         "price": 140,
+         "sid": "2464614397",
+         "side": "Over"
+        },
+        {
+         "line": 185.5,
+         "link": null,
+         "player": "Joe Fagnano",
+         "price": -185,
+         "sid": "2464614398",
+         "side": "Under"
+        },
+        {
+         "line": 195.5,
+         "link": null,
+         "player": "Joe Fagnano",
+         "price": 175,
+         "sid": "2464614399",
+         "side": "Over"
+        },
+        {
+         "line": 195.5,
+         "link": null,
+         "player": "Joe Fagnano",
+         "price": -240,
+         "sid": "2464614400",
+         "side": "Under"
+        },
+        {
+         "line": 204.5,
+         "link": null,
+         "player": "Trevor Lawrence",
+         "price": -250,
+         "sid": "2464493008",
+         "side": "Over"
+        },
+        {
+         "line": 204.5,
+         "link": null,
+         "player": "Trevor Lawrence",
+         "price": 185,
+         "sid": "2464493009",
+         "side": "Under"
+        },
+        {
+         "line": 214.5,
+         "link": null,
+         "player": "Trevor Lawrence",
+         "price": -190,
+         "sid": "2464493010",
+         "side": "Over"
+        },
+        {
+         "line": 214.5,
+         "link": null,
+         "player": "Trevor Lawrence",
+         "price": 145,
+         "sid": "2464493011",
+         "side": "Under"
+        },
+        {
+         "line": 224.5,
+         "link": null,
+         "player": "Trevor Lawrence",
+         "price": -145,
+         "sid": "2464492098",
+         "side": "Over"
+        },
+        {
+         "line": 224.5,
+         "link": null,
+         "player": "Trevor Lawrence",
+         "price": 110,
+         "sid": "2464492099",
+         "side": "Under"
+        },
+        {
+         "line": 234.5,
+         "link": null,
+         "player": "Trevor Lawrence",
+         "price": -115,
+         "sid": "2464490884",
+         "side": "Over"
+        },
+        {
+         "line": 234.5,
+         "link": null,
+         "player": "Trevor Lawrence",
+         "price": -115,
+         "sid": "2464490885",
+         "side": "Under"
+        },
+        {
+         "line": 244.5,
+         "link": null,
+         "player": "Trevor Lawrence",
+         "price": 110,
+         "sid": "2464493012",
+         "side": "Over"
+        },
+        {
+         "line": 244.5,
+         "link": null,
+         "player": "Trevor Lawrence",
+         "price": -145,
+         "sid": "2464493013",
+         "side": "Under"
+        },
+        {
+         "line": 254.5,
+         "link": null,
+         "player": "Trevor Lawrence",
+         "price": 140,
+         "sid": "2464492100",
+         "side": "Over"
+        },
+        {
+         "line": 254.5,
+         "link": null,
+         "player": "Trevor Lawrence",
+         "price": -185,
+         "sid": "2464492101",
+         "side": "Under"
+        },
+        {
+         "line": 264.5,
+         "link": null,
+         "player": "Trevor Lawrence",
+         "price": 170,
+         "sid": "2464493014",
+         "side": "Over"
+        },
+        {
+         "line": 264.5,
+         "link": null,
+         "player": "Trevor Lawrence",
+         "price": -230,
+         "sid": "2464493015",
+         "side": "Under"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/34118164",
+       "event_sid": "34118164",
+       "last_update": "2026-11-06T01:02:58Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 234.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385018878%232346164899_13L88808Q11793249953Q20",
+         "player": "Trevor Lawrence",
+         "price": -112,
+         "sid": "0QA385018878#2346164899_13L88808Q11793249953Q20",
+         "side": "Over"
+        },
+        {
+         "line": 234.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385018878%232346164900_13L88808Q1-1340678078Q20",
+         "player": "Trevor Lawrence",
+         "price": -112,
+         "sid": "0QA385018878#2346164900_13L88808Q1-1340678078Q20",
+         "side": "Under"
+        },
+        {
+         "line": 165.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385018822%232346580124_13L88808Q1-1706440123Q20",
+         "player": "Joe Fagnano",
+         "price": -112,
+         "sid": "0QA385018822#2346580124_13L88808Q1-1706440123Q20",
+         "side": "Over"
+        },
+        {
+         "line": 165.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA385018822%232346580125_13L88808Q1-30879595Q20",
+         "player": "Joe Fagnano",
+         "price": -112,
+         "sid": "0QA385018822#2346580125_13L88808Q1-30879595Q20",
+         "side": "Under"
+        }
+       ]
+      },
+      "espnbet": {
+       "event_link": "https://sportsbook.thescore.bet/sport/football/organization/united-states/competition/nfl/event/42765a75-42cd-4fd4-a0fa-988a75445706",
+       "event_sid": "42765a75-42cd-4fd4-a0fa-988a75445706",
+       "last_update": "2026-11-06T01:03:03Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 236.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=78113272-df46-41d6-93a9-9656f0e03915&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Trevor Lawrence",
+         "price": -110,
+         "sid": "78113272-df46-41d6-93a9-9656f0e03915",
+         "side": "Over"
+        },
+        {
+         "line": 236.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=c0189e89-92c9-476b-a6d6-2544a3a7dab5&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Trevor Lawrence",
+         "price": -120,
+         "sid": "c0189e89-92c9-476b-a6d6-2544a3a7dab5",
+         "side": "Under"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/football/nfl/jacksonville-jaguars-%40-baltimore-ravens-36244870",
+       "event_sid": "36244870",
+       "last_update": "2026-11-06T01:02:25Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 233.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621857694&selectionId=22336735",
+         "player": "Trevor Lawrence",
+         "price": -113,
+         "sid": "22336735",
+         "side": "Over"
+        },
+        {
+         "line": 233.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621857694&selectionId=22336736",
+         "player": "Trevor Lawrence",
+         "price": -113,
+         "sid": "22336736",
+         "side": "Under"
+        },
+        {
+         "line": 165.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621857693&selectionId=104573400",
+         "player": "Joe Fagnano",
+         "price": -113,
+         "sid": "104573400",
+         "side": "Over"
+        },
+        {
+         "line": 165.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.621857693&selectionId=104573398",
+         "player": "Joe Fagnano",
+         "price": -113,
+         "sid": "104573398",
+         "side": "Under"
+        }
+       ]
+      },
+      "hardrockbet": {
+       "event_link": "https://app.hardrock.bet/home/competition/nfl/8133243745794654605",
+       "event_sid": "8133243745794654605",
+       "last_update": "2026-11-06T01:02:38Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 236.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2971881289776497049",
+         "player": "Trevor Lawrence",
+         "price": -115,
+         "sid": "2971881289776497049",
+         "side": "Over"
+        },
+        {
+         "line": 236.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2608092474564018585",
+         "player": "Trevor Lawrence",
+         "price": -115,
+         "sid": "2608092474564018585",
+         "side": "Under"
+        },
+        {
+         "line": 168.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4608820417854046606",
+         "player": "Joe Fagnano",
+         "price": -115,
+         "sid": "4608820417854046606",
+         "side": "Over"
+        },
+        {
+         "line": 168.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3421646927018721678",
+         "player": "Joe Fagnano",
+         "price": -115,
+         "sid": "3421646927018721678",
+         "side": "Under"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-06T01:03:09Z",
+     "kind": "close",
+     "minutes_to_tip": 11.8,
+     "raw": "raw/2026-11-05/c75744790b7acf6260c78ba5e739c0e5-player_pass_yds-close-20261106T010309030846Z.json",
+     "rev": 1
     }
    ],
    "sport": "americanfootball_nfl"
@@ -1140,6 +1978,265 @@
      "minutes_to_tip": 206.8,
      "raw": "raw/2026-11-05/c75744790b7acf6260c78ba5e739c0e5-spreads-lock-20261105T214813016267Z.json",
      "rev": 1
+    },
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1028823877",
+       "event_sid": "1028823877",
+       "last_update": "2026-11-06T01:01:45Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 9.0,
+         "link": null,
+         "player": "",
+         "price": -108,
+         "sid": "4400542844",
+         "side": "Baltimore Ravens"
+        },
+        {
+         "line": -9.0,
+         "link": null,
+         "player": "",
+         "price": -113,
+         "sid": "4400542845",
+         "side": "Jacksonville Jaguars"
+        }
+       ]
+      },
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/jacksonville-jaguars-@-baltimore-ravens-6%3A48487",
+       "event_sid": "6:48487",
+       "last_update": "2026-11-06T01:02:57Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 9.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48487-4346872-7053374&type=Single",
+         "player": "",
+         "price": -102,
+         "sid": "7053374",
+         "side": "Baltimore Ravens"
+        },
+        {
+         "line": -9.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48487-4346872-7053373&type=Single",
+         "player": "",
+         "price": -108,
+         "sid": "7053373",
+         "side": "Jacksonville Jaguars"
+        }
+       ]
+      },
+      "betonlineag": {
+       "event_link": "https://sports.betonline.ag/sportsbook/football/nfl/game/491166246",
+       "event_sid": "491166246",
+       "last_update": "2026-11-06T01:02:58Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 9.0,
+         "link": null,
+         "player": "",
+         "price": -110,
+         "sid": null,
+         "side": "Baltimore Ravens"
+        },
+        {
+         "line": -9.0,
+         "link": null,
+         "player": "",
+         "price": -110,
+         "sid": null,
+         "side": "Jacksonville Jaguars"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1028823877",
+       "event_sid": "1028823877",
+       "last_update": "2026-11-06T01:02:58Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 9.0,
+         "link": null,
+         "player": "",
+         "price": -108,
+         "sid": "4400542844",
+         "side": "Baltimore Ravens"
+        },
+        {
+         "line": -9.0,
+         "link": null,
+         "player": "",
+         "price": -113,
+         "sid": "4400542845",
+         "side": "Jacksonville Jaguars"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1028823877",
+       "event_sid": "1028823877",
+       "last_update": "2026-11-06T01:02:36Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 9.0,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028823877?coupon={pickType}|4400542844|{wagerAmount}",
+         "player": "",
+         "price": -108,
+         "sid": "4400542844",
+         "side": "Baltimore Ravens"
+        },
+        {
+         "line": -9.0,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028823877?coupon={pickType}|4400542845|{wagerAmount}",
+         "player": "",
+         "price": -113,
+         "sid": "4400542845",
+         "side": "Jacksonville Jaguars"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/football/nfl/jacksonville-jaguars-baltimore-ravens-202611052015",
+       "event_sid": "29513391",
+       "last_update": "2026-11-06T01:01:29Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "",
+         "price": -108,
+         "sid": "2376625916",
+         "side": "Baltimore Ravens"
+        },
+        {
+         "line": -8.5,
+         "link": null,
+         "player": "",
+         "price": -112,
+         "sid": "2376628440",
+         "side": "Jacksonville Jaguars"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/34118164",
+       "event_sid": "34118164",
+       "last_update": "2026-11-06T01:02:58Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0HC84695597P850_1",
+         "player": "",
+         "price": 102,
+         "sid": "0HC84695597P850_1",
+         "side": "Baltimore Ravens"
+        },
+        {
+         "line": -8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0HC84695597N850_3",
+         "player": "",
+         "price": -122,
+         "sid": "0HC84695597N850_3",
+         "side": "Jacksonville Jaguars"
+        }
+       ]
+      },
+      "espnbet": {
+       "event_link": "https://sportsbook.thescore.bet/sport/football/organization/united-states/competition/nfl/event/42765a75-42cd-4fd4-a0fa-988a75445706",
+       "event_sid": "42765a75-42cd-4fd4-a0fa-988a75445706",
+       "last_update": "2026-11-06T01:02:36Z",
+       "market_link": "https://sportsbook.thescore.bet/sport/football/organization/united-states/competition/nfl/event/42765a75-42cd-4fd4-a0fa-988a75445706/section/lines",
+       "market_sid": "260b01a0-325d-4c24-9365-47fe5880b7f1",
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=af7fe990-0601-4ee0-9dee-5c8eb916eeba&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": -110,
+         "sid": "af7fe990-0601-4ee0-9dee-5c8eb916eeba",
+         "side": "Baltimore Ravens"
+        },
+        {
+         "line": -8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=bb037b19-e143-48f4-99a9-b3768ab2f767&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": -110,
+         "sid": "bb037b19-e143-48f4-99a9-b3768ab2f767",
+         "side": "Jacksonville Jaguars"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/football/nfl/jacksonville-jaguars-%40-baltimore-ravens-36244870",
+       "event_sid": "36244870",
+       "last_update": "2026-11-06T01:02:59Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.619967582&selectionId=50205",
+         "player": "",
+         "price": -110,
+         "sid": "50205",
+         "side": "Baltimore Ravens"
+        },
+        {
+         "line": -9.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.619967582&selectionId=50207",
+         "player": "",
+         "price": -110,
+         "sid": "50207",
+         "side": "Jacksonville Jaguars"
+        }
+       ]
+      },
+      "hardrockbet": {
+       "event_link": "https://app.hardrock.bet/home/competition/nfl/8133243745794654605",
+       "event_sid": "8133243745794654605",
+       "last_update": "2026-11-06T01:02:37Z",
+       "market_link": null,
+       "market_sid": "8640928757961589152",
+       "outcomes": [
+        {
+         "line": 9.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2388806575264498080",
+         "player": "",
+         "price": -110,
+         "sid": "2388806575264498080",
+         "side": "Baltimore Ravens"
+        },
+        {
+         "line": -9.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5318398132869005728",
+         "player": "",
+         "price": -110,
+         "sid": "5318398132869005728",
+         "side": "Jacksonville Jaguars"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-06T01:03:09Z",
+     "kind": "close",
+     "minutes_to_tip": 11.8,
+     "raw": "raw/2026-11-05/c75744790b7acf6260c78ba5e739c0e5-spreads-close-20261106T010309030846Z.json",
+     "rev": 1
     }
    ],
    "sport": "americanfootball_nfl"
@@ -1413,6 +2510,265 @@
      "kind": "lock",
      "minutes_to_tip": 206.8,
      "raw": "raw/2026-11-05/c75744790b7acf6260c78ba5e739c0e5-totals-lock-20261105T214813016267Z.json",
+     "rev": 1
+    },
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1028823877",
+       "event_sid": "1028823877",
+       "last_update": "2026-11-06T01:01:45Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 40.0,
+         "link": null,
+         "player": "",
+         "price": -109,
+         "sid": "4400545800",
+         "side": "Over"
+        },
+        {
+         "line": 40.0,
+         "link": null,
+         "player": "",
+         "price": -112,
+         "sid": "4400545801",
+         "side": "Under"
+        }
+       ]
+      },
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/jacksonville-jaguars-@-baltimore-ravens-6%3A48487",
+       "event_sid": "6:48487",
+       "last_update": "2026-11-06T01:02:57Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 40.0,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48487-4354313-7072346&type=Single",
+         "player": "",
+         "price": -108,
+         "sid": "7072346",
+         "side": "Over"
+        },
+        {
+         "line": 40.0,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:48487-4354313-7072347&type=Single",
+         "player": "",
+         "price": -110,
+         "sid": "7072347",
+         "side": "Under"
+        }
+       ]
+      },
+      "betonlineag": {
+       "event_link": "https://sports.betonline.ag/sportsbook/football/nfl/game/491166246",
+       "event_sid": "491166246",
+       "last_update": "2026-11-06T01:02:58Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 40.0,
+         "link": null,
+         "player": "",
+         "price": -110,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 40.0,
+         "link": null,
+         "player": "",
+         "price": -110,
+         "sid": null,
+         "side": "Under"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1028823877",
+       "event_sid": "1028823877",
+       "last_update": "2026-11-06T01:02:58Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 40.0,
+         "link": null,
+         "player": "",
+         "price": -109,
+         "sid": "4400545800",
+         "side": "Over"
+        },
+        {
+         "line": 40.0,
+         "link": null,
+         "player": "",
+         "price": -112,
+         "sid": "4400545801",
+         "side": "Under"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1028823877",
+       "event_sid": "1028823877",
+       "last_update": "2026-11-06T01:02:36Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 40.0,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028823877?coupon={pickType}|4400545800|{wagerAmount}",
+         "player": "",
+         "price": -109,
+         "sid": "4400545800",
+         "side": "Over"
+        },
+        {
+         "line": 40.0,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028823877?coupon={pickType}|4400545801|{wagerAmount}",
+         "player": "",
+         "price": -112,
+         "sid": "4400545801",
+         "side": "Under"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/football/nfl/jacksonville-jaguars-baltimore-ravens-202611052015",
+       "event_sid": "29513391",
+       "last_update": "2026-11-06T01:01:29Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 40.0,
+         "link": null,
+         "player": "",
+         "price": -105,
+         "sid": "2376628437",
+         "side": "Over"
+        },
+        {
+         "line": 40.0,
+         "link": null,
+         "player": "",
+         "price": -115,
+         "sid": "2376625913",
+         "side": "Under"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/34118164",
+       "event_sid": "34118164",
+       "last_update": "2026-11-06T01:02:58Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 40.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0OU84695597O4050_1",
+         "player": "",
+         "price": -105,
+         "sid": "0OU84695597O4050_1",
+         "side": "Over"
+        },
+        {
+         "line": 40.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0OU84695597U4050_3",
+         "player": "",
+         "price": -115,
+         "sid": "0OU84695597U4050_3",
+         "side": "Under"
+        }
+       ]
+      },
+      "espnbet": {
+       "event_link": "https://sportsbook.thescore.bet/sport/football/organization/united-states/competition/nfl/event/42765a75-42cd-4fd4-a0fa-988a75445706",
+       "event_sid": "42765a75-42cd-4fd4-a0fa-988a75445706",
+       "last_update": "2026-11-06T01:02:36Z",
+       "market_link": "https://sportsbook.thescore.bet/sport/football/organization/united-states/competition/nfl/event/42765a75-42cd-4fd4-a0fa-988a75445706/section/lines",
+       "market_sid": "2cc9ebde-3d43-4fd1-a208-dac4bf0c41ad",
+       "outcomes": [
+        {
+         "line": 40.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=dda54bde-bad5-4625-8c4b-67f839f723ca&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": 100,
+         "sid": "dda54bde-bad5-4625-8c4b-67f839f723ca",
+         "side": "Over"
+        },
+        {
+         "line": 40.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=abc86b5e-645f-4e6f-8342-586f289493fb&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": -120,
+         "sid": "abc86b5e-645f-4e6f-8342-586f289493fb",
+         "side": "Under"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/football/nfl/jacksonville-jaguars-%40-baltimore-ravens-36244870",
+       "event_sid": "36244870",
+       "last_update": "2026-11-06T01:02:59Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 39.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.619967584&selectionId=7017916",
+         "player": "",
+         "price": -120,
+         "sid": "7017916",
+         "side": "Over"
+        },
+        {
+         "line": 39.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.619967584&selectionId=7017917",
+         "player": "",
+         "price": 100,
+         "sid": "7017917",
+         "side": "Under"
+        }
+       ]
+      },
+      "hardrockbet": {
+       "event_link": "https://app.hardrock.bet/home/competition/nfl/8133243745794654605",
+       "event_sid": "8133243745794654605",
+       "last_update": "2026-11-06T01:02:37Z",
+       "market_link": null,
+       "market_sid": "3047706944187007408",
+       "outcomes": [
+        {
+         "line": 40.0,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/709212837674877360",
+         "player": "",
+         "price": -110,
+         "sid": "709212837674877360",
+         "side": "Over"
+        },
+        {
+         "line": 40.0,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/74205290215637424",
+         "player": "",
+         "price": -110,
+         "sid": "74205290215637424",
+         "side": "Under"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-06T01:03:09Z",
+     "kind": "close",
+     "minutes_to_tip": 11.8,
+     "raw": "raw/2026-11-05/c75744790b7acf6260c78ba5e739c0e5-totals-close-20261106T010309030846Z.json",
      "rev": 1
     }
    ],
@@ -20405,8 +21761,8 @@
   }
  },
  "issues": [],
- "spent_month": 60,
- "spent_today": 11,
+ "spent_month": 64,
+ "spent_today": 15,
  "stop": null,
- "updated": "2026-11-06T00:27:22Z"
+ "updated": "2026-11-06T01:03:09Z"
 }
