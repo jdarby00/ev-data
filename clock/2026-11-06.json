@@ -7,8 +7,10 @@
   "board_1615": "2026-11-06T21:15:00Z",
   "close:2026-11-07T00:40:00Z": "2026-11-07T00:28:00Z",
   "close:2026-11-07T01:10:00Z": "2026-11-07T00:58:00Z",
+  "close:2026-11-07T03:10:00Z": "2026-11-07T02:58:00Z",
   "close@2026-11-07T00:28:00Z": "2026-11-07T00:28:00Z",
-  "close@2026-11-07T00:58:00Z": "2026-11-07T00:58:00Z"
+  "close@2026-11-07T00:58:00Z": "2026-11-07T00:58:00Z",
+  "close@2026-11-07T02:58:00Z": "2026-11-07T02:58:00Z"
  },
  "log": [
   "2026-11-06T19:07:08Z board_1405: dispatched jdarby00/ev-data nba.yml (HTTP 204)",
@@ -16,6 +18,7 @@
   "2026-11-06T19:45:00Z board_1445: dispatched jdarby00/ev-data nba.yml (HTTP 204)",
   "2026-11-06T21:15:00Z board_1615: dispatched jdarby00/ev-data nba.yml (HTTP 204)",
   "2026-11-07T00:28:00Z close@2026-11-07T00:28:00Z: dispatched jdarby00/dk-odds odds.yml (HTTP 204)",
-  "2026-11-07T00:58:00Z close@2026-11-07T00:58:00Z: dispatched jdarby00/dk-odds odds.yml (HTTP 204)"
+  "2026-11-07T00:58:00Z close@2026-11-07T00:58:00Z: dispatched jdarby00/dk-odds odds.yml (HTTP 204)",
+  "2026-11-07T02:58:00Z close@2026-11-07T02:58:00Z: dispatched jdarby00/dk-odds odds.yml (HTTP 204)"
  ]
 }
