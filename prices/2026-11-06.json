@@ -33249,7 +33249,8 @@
     "2026-11-07T00:28:08Z lock skipped: daily cap reached (30/30)",
     "2026-11-07T00:32:09Z lock skipped: daily cap reached (30/30)",
     "2026-11-07T00:58:09Z lock skipped: daily cap reached (30/30)",
-    "2026-11-07T01:50:01Z lock skipped: daily cap reached (30/30)"
+    "2026-11-07T01:50:01Z lock skipped: daily cap reached (30/30)",
+    "2026-11-07T02:58:09Z close skipped: daily cap reached (30/30)"
    ],
    "market": "player_assists",
    "players": [],
@@ -33264,7 +33265,9 @@
    "commence_time": "2026-11-07T03:10:00Z",
    "event_id": "d24eb5492983d6e28be3b96df396fa12",
    "home": "Kings",
-   "issues": [],
+   "issues": [
+    "2026-11-07T02:58:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_points",
    "players": [],
    "requested_rev": 1,
@@ -36570,7 +36573,9 @@
    "commence_time": "2026-11-07T03:10:00Z",
    "event_id": "d24eb5492983d6e28be3b96df396fa12",
    "home": "Kings",
-   "issues": [],
+   "issues": [
+    "2026-11-07T02:58:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_rebounds",
    "players": [],
    "requested_rev": 1,
@@ -38969,7 +38974,8 @@
     "2026-11-07T00:28:08Z lock skipped: daily cap reached (30/30)",
     "2026-11-07T00:32:09Z lock skipped: daily cap reached (30/30)",
     "2026-11-07T00:58:09Z lock skipped: daily cap reached (30/30)",
-    "2026-11-07T01:50:01Z lock skipped: daily cap reached (30/30)"
+    "2026-11-07T01:50:01Z lock skipped: daily cap reached (30/30)",
+    "2026-11-07T02:58:09Z close skipped: daily cap reached (30/30)"
    ],
    "market": "player_threes",
    "players": [],
@@ -57424,7 +57430,9 @@
    "commence_time": "2026-11-07T03:10:00Z",
    "event_id": "83d77fe350d56a036fd7a3404e78249a",
    "home": "Lakers",
-   "issues": [],
+   "issues": [
+    "2026-11-07T02:58:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_assists",
    "players": [],
    "requested_rev": 1,
@@ -58970,7 +58978,9 @@
    "commence_time": "2026-11-07T03:10:00Z",
    "event_id": "83d77fe350d56a036fd7a3404e78249a",
    "home": "Lakers",
-   "issues": [],
+   "issues": [
+    "2026-11-07T02:58:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_points",
    "players": [],
    "requested_rev": 1,
@@ -62780,7 +62790,9 @@
    "commence_time": "2026-11-07T03:10:00Z",
    "event_id": "83d77fe350d56a036fd7a3404e78249a",
    "home": "Lakers",
-   "issues": [],
+   "issues": [
+    "2026-11-07T02:58:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_rebounds",
    "players": [],
    "requested_rev": 1,
@@ -65502,7 +65514,9 @@
    "commence_time": "2026-11-07T03:10:00Z",
    "event_id": "83d77fe350d56a036fd7a3404e78249a",
    "home": "Lakers",
-   "issues": [],
+   "issues": [
+    "2026-11-07T02:58:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_threes",
    "players": [],
    "requested_rev": 1,
@@ -74227,5 +74241,5 @@
  "spent_month": 98,
  "spent_today": 30,
  "stop": null,
- "updated": "2026-11-07T01:50:01Z"
+ "updated": "2026-11-07T02:58:09Z"
 }
