@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "updated_et": "2026-11-06 19:57",
+ "updated_et": "2026-11-06 21:20",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,7 +11,7 @@
    "home": "ATL",
    "away_name": "Washington Wizards",
    "home_name": "Atlanta Hawks",
-   "state": "in",
+   "state": "post",
    "spread_text": "",
    "spread": null,
    "total": null,
@@ -53,11 +53,11 @@
    "home": "DAL",
    "away_name": "Utah Jazz",
    "home_name": "Dallas Mavericks",
-   "state": "pre",
-   "spread_text": "DAL -6.5",
-   "spread": -6.5,
-   "total": 226.5,
-   "odds_source": "DraftKings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -67,11 +67,11 @@
    "home": "MEM",
    "away_name": "Oklahoma City Thunder",
    "home_name": "Memphis Grizzlies",
-   "state": "pre",
-   "spread_text": "OKC -3.5",
-   "spread": 3.5,
-   "total": 224.5,
-   "odds_source": "DraftKings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -81,11 +81,11 @@
    "home": "MIL",
    "away_name": "Toronto Raptors",
    "home_name": "Milwaukee Bucks",
-   "state": "pre",
-   "spread_text": "TOR -3.5",
-   "spread": 3.5,
-   "total": 228.5,
-   "odds_source": "DraftKings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -95,11 +95,11 @@
    "home": "NO",
    "away_name": "Minnesota Timberwolves",
    "home_name": "New Orleans Pelicans",
-   "state": "pre",
-   "spread_text": "MIN -3.5",
-   "spread": 3.5,
-   "total": 230.5,
-   "odds_source": "DraftKings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -113,7 +113,7 @@
    "spread_text": "LAL -3.5",
    "spread": -3.5,
    "total": 231.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -127,7 +127,7 @@
    "spread_text": "SA -17.5",
    "spread": 17.5,
    "total": 231.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   }
  ],
@@ -187,6 +187,13 @@
   ],
   "Charlotte Hornets": [
    {
+    "player": "Brandon Miller",
+    "status": "Day-To-Day",
+    "detail": "Miller (groin) won't return to Friday's game against the Celtics, Brett Siegel of ClutchPoints.com reports.",
+    "type": "day-to-day",
+    "updated": "2026-11-07T01:07Z"
+   },
+   {
     "player": "Dennis Schroder",
     "status": "Out",
     "detail": "Schroder (thigh) is out for Friday's game versus Boston.",
@@ -216,6 +223,13 @@
    }
   ],
   "Cleveland Cavaliers": [
+   {
+    "player": "Sam Merrill",
+    "status": "Out",
+    "detail": "Merrill is in the starting lineup for Friday's game against the 76ers, Serena Winters of FanDuel Sports Network Ohio reports.",
+    "type": "out",
+    "updated": "2026-11-07T02:07Z"
+   },
    {
     "player": "Jarrett Allen",
     "status": "Out",
@@ -699,6 +713,20 @@
    "player": "Kyle Anderson",
    "from": "Day-To-Day",
    "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-06 21:20",
+   "team": "Charlotte Hornets",
+   "player": "Brandon Miller",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-06 21:20",
+   "team": "Cleveland Cavaliers",
+   "player": "Sam Merrill",
+   "from": "not listed",
+   "to": "Out"
   }
  ]
 }
