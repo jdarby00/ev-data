@@ -1,0 +1,395 @@
+{
+ "built_at": "2026-11-07T19:43:54Z",
+ "candidates": 118,
+ "slices": {
+  "all": {
+   "n": 118,
+   "settled": 0
+  },
+  "lane = likely": {
+   "n": 46,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "lane = value": {
+   "n": 51,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "lane = early": {
+   "n": 21,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "sport = soccer": {
+   "n": 1,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "sport = nba": {
+   "n": 67,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "sport = nfl": {
+   "n": 50,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "tier = Straight": {
+   "n": 43,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "tier = Lean": {
+   "n": 2,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "tier = Value": {
+   "n": 70,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "tier = Best bet": {
+   "n": 3,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "stat/market = moneyline": {
+   "n": 7,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "stat/market = ast": {
+   "n": 14,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "stat/market = tpm": {
+   "n": 22,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "stat/market = pts": {
+   "n": 8,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "stat/market = reb": {
+   "n": 10,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "stat/market = stl": {
+   "n": 7,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "stat/market = blk": {
+   "n": 3,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "stat/market = anytime_td": {
+   "n": 40,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "stat/market = rush_att": {
+   "n": 1,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "stat/market = ints": {
+   "n": 1,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "stat/market = pass_tds": {
+   "n": 3,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "stat/market = receptions": {
+   "n": 2,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "side = home": {
+   "n": 2,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "side = under": {
+   "n": 53,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "side = over": {
+   "n": 18,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "side = away": {
+   "n": 5,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "side = yes": {
+   "n": 40,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "book = draftkings": {
+   "n": 44,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "book = fanduel": {
+   "n": 74,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "price = -200 or shorter": {
+   "n": 22,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "price = -129 to +100": {
+   "n": 14,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "price = +101 or longer": {
+   "n": 58,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "price = -199 to -130": {
+   "n": 24,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "chance = 60-70%": {
+   "n": 46,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "chance = 50-60%": {
+   "n": 17,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "chance = 40-50%": {
+   "n": 13,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "chance = 30-40%": {
+   "n": 4,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "chance = 10-20%": {
+   "n": 27,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "chance = 20-30%": {
+   "n": 11,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "edge = under 0%": {
+   "n": 46,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "edge = 3-6%": {
+   "n": 19,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "edge = 0-3%": {
+   "n": 20,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "edge = 6%+": {
+   "n": 33,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "flagged = under 2h before": {
+   "n": 1,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "flagged = 6h+ before": {
+   "n": 78,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "flagged = 2-6h before": {
+   "n": 39,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "minutes moved = no": {
+   "n": 118,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "status change = no": {
+   "n": 118,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "lane = likely, sport = soccer": {
+   "n": 1,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "lane = value, sport = nba": {
+   "n": 9,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "lane = early, sport = nba": {
+   "n": 21,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "lane = likely, sport = nba": {
+   "n": 37,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "lane = value, sport = nfl": {
+   "n": 42,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "lane = likely, sport = nfl": {
+   "n": 8,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "lane = likely, side = home": {
+   "n": 2,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "lane = value, side = under": {
+   "n": 8,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "lane = value, side = over": {
+   "n": 3,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "lane = early, side = under": {
+   "n": 14,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "lane = early, side = over": {
+   "n": 7,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "lane = likely, side = under": {
+   "n": 31,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "lane = likely, side = away": {
+   "n": 5,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "lane = likely, side = over": {
+   "n": 8,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "lane = value, side = yes": {
+   "n": 40,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "sport = soccer, stat/market = moneyline": {
+   "n": 1,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "sport = nba, stat/market = ast": {
+   "n": 14,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "sport = nba, stat/market = tpm": {
+   "n": 22,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "sport = nba, stat/market = pts": {
+   "n": 8,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "sport = nba, stat/market = reb": {
+   "n": 10,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "sport = nba, stat/market = stl": {
+   "n": 7,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "sport = nba, stat/market = moneyline": {
+   "n": 3,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "sport = nba, stat/market = blk": {
+   "n": 3,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "sport = nfl, stat/market = anytime_td": {
+   "n": 40,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "sport = nfl, stat/market = rush_att": {
+   "n": 1,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "sport = nfl, stat/market = ints": {
+   "n": 1,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "sport = nfl, stat/market = moneyline": {
+   "n": 3,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "sport = nfl, stat/market = pass_tds": {
+   "n": 3,
+   "settled": 0,
+   "verdict": "no data"
+  },
+  "sport = nfl, stat/market = receptions": {
+   "n": 2,
+   "settled": 0,
+   "verdict": "no data"
+  }
+ }
+}
