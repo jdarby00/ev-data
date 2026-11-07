@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "updated_et": "2026-11-06 18:43",
+ "updated_et": "2026-11-06 19:57",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,11 +11,11 @@
    "home": "ATL",
    "away_name": "Washington Wizards",
    "home_name": "Atlanta Hawks",
-   "state": "pre",
-   "spread_text": "ATL -8.5",
-   "spread": -8.5,
-   "total": 227.5,
-   "odds_source": "DraftKings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -25,11 +25,11 @@
    "home": "CHA",
    "away_name": "Boston Celtics",
    "home_name": "Charlotte Hornets",
-   "state": "pre",
-   "spread_text": "BOS -10.5",
-   "spread": 10.5,
-   "total": 209.5,
-   "odds_source": "DraftKings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -39,7 +39,7 @@
    "home": "CLE",
    "away_name": "Philadelphia 76ers",
    "home_name": "Cleveland Cavaliers",
-   "state": "pre",
+   "state": "in",
    "spread_text": "",
    "spread": null,
    "total": null,
@@ -56,7 +56,7 @@
    "state": "pre",
    "spread_text": "DAL -6.5",
    "spread": -6.5,
-   "total": 225.5,
+   "total": 226.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -68,8 +68,8 @@
    "away_name": "Oklahoma City Thunder",
    "home_name": "Memphis Grizzlies",
    "state": "pre",
-   "spread_text": "OKC -4.5",
-   "spread": 4.5,
+   "spread_text": "OKC -3.5",
+   "spread": 3.5,
    "total": 224.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -84,7 +84,7 @@
    "state": "pre",
    "spread_text": "TOR -3.5",
    "spread": 3.5,
-   "total": 227.5,
+   "total": 228.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -217,25 +217,18 @@
   ],
   "Cleveland Cavaliers": [
    {
+    "player": "Jarrett Allen",
+    "status": "Out",
+    "detail": "Allen (knee) is out for Friday's game against the 76ers.",
+    "type": "out",
+    "updated": "2026-11-06T23:55Z"
+   },
+   {
     "player": "Jaylon Tyson",
     "status": "Out",
     "detail": "Tyson (ankle) is out for Friday's game against the 76ers.",
     "type": "out",
     "updated": "2026-11-05T22:23Z"
-   },
-   {
-    "player": "Peyton Watson",
-    "status": "Day-To-Day",
-    "detail": "Watson (hamstring) is questionable for Friday's game against the 76ers.",
-    "type": "day-to-day",
-    "updated": "2026-11-05T22:15Z"
-   },
-   {
-    "player": "Jarrett Allen",
-    "status": "Day-To-Day",
-    "detail": "Allen (knee) is questionable for Friday's game against Philadelphia.",
-    "type": "day-to-day",
-    "updated": "2026-11-05T22:13Z"
    }
   ],
   "Dallas Mavericks": [
@@ -411,10 +404,10 @@
   "Sacramento Kings": [
    {
     "player": "De'Andre Hunter",
-    "status": "Day-To-Day",
-    "detail": "Hunter is questionable for Friday against the Spurs due to an illness.",
-    "type": "day-to-day",
-    "updated": "2026-11-06T21:07Z"
+    "status": "Out",
+    "detail": "Hunter (illness) is listed as out for Friday's game against San Antonio.",
+    "type": "out",
+    "updated": "2026-11-07T00:36Z"
    },
    {
     "player": "Maxime Raynaud",
@@ -456,32 +449,18 @@
   ],
   "Toronto Raptors": [
    {
-    "player": "Jakob Poeltl",
-    "status": "Day-To-Day",
-    "detail": "Poeltl (shoulder) is listed as probable for Friday's game against Milwaukee.",
-    "type": "day-to-day",
-    "updated": "2026-11-06T18:03Z"
+    "player": "Scottie Barnes",
+    "status": "Out",
+    "detail": "Barnes (adductor) is listed as out for Friday's game against Milwaukee, Michael Grange of Sportsnet.ca reports.",
+    "type": "out",
+    "updated": "2026-11-06T23:44Z"
    },
    {
     "player": "Immanuel Quickley",
-    "status": "Day-To-Day",
-    "detail": "Quickley (hamstring) is questionable for Friday against the Bucks.",
-    "type": "day-to-day",
-    "updated": "2026-11-06T17:59Z"
-   },
-   {
-    "player": "Scottie Barnes",
-    "status": "Day-To-Day",
-    "detail": "Barnes (adductor) was not present at the morning shootaround, Michael Grange of Sportsnet.careports.",
-    "type": "day-to-day",
-    "updated": "2026-11-06T17:47Z"
-   },
-   {
-    "player": "Kyle Anderson",
-    "status": "Day-To-Day",
-    "detail": "Anderson is questionable for Friday against the Bucks due to illness.",
-    "type": "day-to-day",
-    "updated": "2026-11-06T16:06Z"
+    "status": "Out",
+    "detail": "Quickley (hamstring) won't play Friday in Milwaukee, Michael Grange of Sportsnet.ca reports.",
+    "type": "out",
+    "updated": "2026-11-06T23:41Z"
    },
    {
     "player": "Kawhi Leonard",
@@ -671,6 +650,55 @@
    "player": "Anthony Davis",
    "from": "Day-To-Day",
    "to": "Out"
+  },
+  {
+   "at_et": "2026-11-06 19:57",
+   "team": "Cleveland Cavaliers",
+   "player": "Jarrett Allen",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-06 19:57",
+   "team": "Cleveland Cavaliers",
+   "player": "Peyton Watson",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-06 19:57",
+   "team": "Sacramento Kings",
+   "player": "De'Andre Hunter",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-06 19:57",
+   "team": "Toronto Raptors",
+   "player": "Scottie Barnes",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-06 19:57",
+   "team": "Toronto Raptors",
+   "player": "Immanuel Quickley",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-06 19:57",
+   "team": "Toronto Raptors",
+   "player": "Jakob Poeltl",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-06 19:57",
+   "team": "Toronto Raptors",
+   "player": "Kyle Anderson",
+   "from": "Day-To-Day",
+   "to": "removed from report"
   }
  ]
 }
