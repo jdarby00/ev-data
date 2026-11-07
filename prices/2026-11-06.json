@@ -9,7 +9,9 @@
    "commence_time": "2026-11-07T00:40:00Z",
    "event_id": "85869b2fdc16ef10d3e2582bf05ead95",
    "home": "Cavaliers",
-   "issues": [],
+   "issues": [
+    "2026-11-07T00:28:08Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_points",
    "players": [],
    "requested_rev": 1,
@@ -3160,7 +3162,7 @@
    "api_away": "Boston Celtics",
    "api_home": "Charlotte Hornets",
    "away": "Celtics",
-   "commence_time": "2026-11-07T00:10:00Z",
+   "commence_time": "2026-11-07T00:11:00Z",
    "event_id": "49daf3d42e20ce4bc70f8a68cf70ce4c",
    "home": "Hornets",
    "issues": [],
@@ -9125,7 +9127,7 @@
    "api_away": "Boston Celtics",
    "api_home": "Charlotte Hornets",
    "away": "Celtics",
-   "commence_time": "2026-11-07T00:10:00Z",
+   "commence_time": "2026-11-07T00:11:00Z",
    "event_id": "49daf3d42e20ce4bc70f8a68cf70ce4c",
    "home": "Hornets",
    "issues": [],
@@ -33217,7 +33219,8 @@
    "event_id": "d24eb5492983d6e28be3b96df396fa12",
    "home": "Kings",
    "issues": [
-    "2026-11-06T23:43:27Z lock skipped: daily cap reached (30/30)"
+    "2026-11-06T23:43:27Z lock skipped: daily cap reached (30/30)",
+    "2026-11-07T00:28:08Z lock skipped: daily cap reached (30/30)"
    ],
    "market": "player_assists",
    "players": [],
@@ -38933,7 +38936,8 @@
    "event_id": "d24eb5492983d6e28be3b96df396fa12",
    "home": "Kings",
    "issues": [
-    "2026-11-06T23:43:27Z lock skipped: daily cap reached (30/30)"
+    "2026-11-06T23:43:27Z lock skipped: daily cap reached (30/30)",
+    "2026-11-07T00:28:08Z lock skipped: daily cap reached (30/30)"
    ],
    "market": "player_threes",
    "players": [],
@@ -67337,7 +67341,7 @@
    "api_away": "Washington Wizards",
    "api_home": "Atlanta Hawks",
    "away": "Wizards",
-   "commence_time": "2026-11-07T00:10:00Z",
+   "commence_time": "2026-11-07T00:12:00Z",
    "event_id": "9246c91f746732472c13e94bd8e7be85",
    "home": "Hawks",
    "issues": [],
@@ -74167,5 +74171,5 @@
  "spent_month": 98,
  "spent_today": 30,
  "stop": null,
- "updated": "2026-11-06T23:43:27Z"
+ "updated": "2026-11-07T00:28:08Z"
 }
