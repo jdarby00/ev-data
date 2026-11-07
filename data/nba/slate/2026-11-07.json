@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "updated_et": "2026-11-07 14:05",
+ "updated_et": "2026-11-07 14:37",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -12,8 +12,8 @@
    "away_name": "Denver Nuggets",
    "home_name": "Indiana Pacers",
    "state": "pre",
-   "spread_text": "DEN -8.5",
-   "spread": 8.5,
+   "spread_text": "DEN -7.5",
+   "spread": 7.5,
    "total": 229.5,
    "odds_source": "Draft Kings",
    "season_type": 2
@@ -28,7 +28,7 @@
    "state": "pre",
    "spread_text": "ATL -7.5",
    "spread": -7.5,
-   "total": 227.5,
+   "total": 226.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -68,9 +68,9 @@
    "away_name": "Orlando Magic",
    "home_name": "Golden State Warriors",
    "state": "pre",
-   "spread_text": "GS -5.5",
-   "spread": -5.5,
-   "total": 222.5,
+   "spread_text": "GS -6.5",
+   "spread": -6.5,
+   "total": 220.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -96,9 +96,9 @@
    "away_name": "San Antonio Spurs",
    "home_name": "Portland Trail Blazers",
    "state": "pre",
-   "spread_text": "SA -5.5",
-   "spread": 5.5,
-   "total": 228.5,
+   "spread_text": "SA -4.5",
+   "spread": 4.5,
+   "total": 229.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   }
@@ -319,10 +319,10 @@
   "Oklahoma City Thunder": [
    {
     "player": "Jaylin Williams",
-    "status": "Day-To-Day",
-    "detail": "Williams (back) has been ruled out for Friday's game against the Grizzlies.",
-    "type": "day-to-day",
-    "updated": "2026-11-07T15:04Z"
+    "status": "Out",
+    "detail": "Williams (back) has been ruled out for Saturday's game against the Wizards, Brandon Rahbar of DailyThunder.com reports.",
+    "type": "out",
+    "updated": "2026-11-07T19:10Z"
    },
    {
     "player": "Thomas Sorber",
@@ -456,9 +456,9 @@
    {
     "player": "Anthony Davis",
     "status": "Day-To-Day",
-    "detail": "Davis (ankle) is listed as out for Friday's game against the Hawks.",
+    "detail": "Davis (ankle) is questionable for Saturday's game against the Thunder.",
     "type": "day-to-day",
-    "updated": "2026-11-07T15:05Z"
+    "updated": "2026-11-07T19:13Z"
    },
    {
     "player": "Reece Beekman",
@@ -523,6 +523,13 @@
    "at_et": "2026-11-07 14:05",
    "team": "Cleveland Cavaliers",
    "player": "Jarrett Allen",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-07 14:37",
+   "team": "Oklahoma City Thunder",
+   "player": "Jaylin Williams",
    "from": "Day-To-Day",
    "to": "Out"
   }

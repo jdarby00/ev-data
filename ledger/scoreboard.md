@@ -1,6 +1,6 @@
 # Scoreboard
 
-Built Sat 07 Nov 2026, 2:05 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
+Built Sat 07 Nov 2026, 2:37 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
 
 ## Jake's real money
 
@@ -20,7 +20,7 @@ CLV is the expected value of the bet price against the de-vigged closing price (
 | boosted_50 | 2 | 2–0–0–0 | $+9.93 | +99.3% | $509.93 | $0.00 | 1, -6.1%, 0% | 0 |
 | boosted_20 | 2 | 2–0–0–0 | $+7.94 | +79.4% | $507.94 | $0.00 | 1, -6.1%, 0% | 0 |
 | boost_leans | 1 | 1–0–0–0 | $+4.41 | +88.2% | $504.41 | $0.00 | 1, -6.1%, 0% | 0 |
-| screener_wide | 6 | 3–3–0–0 | $+3.82 | +12.7% | $503.82 | $10.00 | – | 0 |
+| screener_wide | 6 | 3–3–0–0 | $+3.82 | +12.7% | $503.82 | $10.00 | – | 2 |
 | boost_parlay_50 | 1 | 0–1–0–0 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 0 |
 | b_selective | 7 | 3–4–0–0 | $-9.85 | -28.1% | $490.15 | $10.00 | 1, -10.2%, – | 0 |
 | blend_selective | 7 | 3–4–0–0 | $-9.85 | -28.1% | $490.15 | $20.00 | 1, -10.2%, – | 0 |
@@ -61,3 +61,4 @@ Brier score 0.261 (a coin flip is 0.250).
 ## Open items
 
 - a6ac9837fa5c: withdrawal after the start ignored
+- 2 pending (waiting for box scores or a manual settle).

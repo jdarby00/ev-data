@@ -1,6 +1,6 @@
 # NBA board, 2026-11-07
 
-Slate updated 2026-11-07 14:05 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-07 14:37 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -11,9 +11,10 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 14:05 Brooklyn Nets: Tyler Bilodeau Out → removed from report
 - 14:05 Cleveland Cavaliers: Sam Merrill Day-To-Day → Out
 - 14:05 Cleveland Cavaliers: Jarrett Allen Day-To-Day → Out
+- 14:37 Oklahoma City Thunder: Jaylin Williams Day-To-Day → Out
 
 ## DEN @ IND, 17:00 ET
-Line: DEN -8.5, total 229.5 (Draft Kings).
+Line: DEN -7.5, total 229.5 (Draft Kings).
 **DEN** (2 rest days). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Julian Strawther.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -50,7 +51,7 @@ Line: DEN -8.5, total 229.5 (Draft Kings).
 | Larry Nance Jr. | – | 20 (8.3) → 17.3 (6.9) | 4.2/3.4 → 4 (0–10) | 4/3.2 → 3 (1–7) | 0.8/0.6 → 1 (0–3) | 0.8/0.6 → 0 (0–2) | 9 (1–18) |
 
 ## BKN @ ATL, 19:30 ET
-Line: ATL -7.5, total 227.5 (Draft Kings).
+Line: ATL -7.5, total 226.5 (Draft Kings).
 **BKN** (2 rest days). Out: Egor Demin. Freed minutes: 21.8.
 - Without Egor Demin: Josh Minott min -10.5, pts -8.5, reb -4.5, ast -1 (n=2 vs 2)
 - Without Egor Demin: Nolan Traore min +9.3, pts +5, reb +1, ast +1.5 (n=4 vs 4)
@@ -148,7 +149,7 @@ Line: OKC -12.5, total 222.5 (Draft Kings).
 | Deandre Ayton | – | 17.4 (4.4) → 18.2 (10.5) | 6/5.7 → 7 (2–14) | 5.6/5.2 → 5 (2–10) | 1.4/1.1 → 1 (0–2) | 0/0 → 0 (0–0) | 14 (5–24) |
 | Khris Middleton | – | 13.8 (5.8) → 14.6 (6.4) | 2.4/2.4 → 5 (0–11) | 1.6/1.6 → 2 (0–4) | 0.4/0.4 → 1 (0–3) | 0.2/0.2 → 0 (0–2) | 8 (1–17) |
 
-**OKC** (back-to-back). Out: Jalen Williams, Chet Holmgren, Cason Wallace. Freed minutes: 78. Out all season so far (already in the lines): Thomas Sorber.
+**OKC** (back-to-back). Out: Jalen Williams, Chet Holmgren, Jaylin Williams, Cason Wallace. Freed minutes: 96.4. Out all season so far (already in the lines): Thomas Sorber.
 - Without Jalen Williams: Bennett Stirtz min +18.1, pts +9.8, reb +0.7, ast +1.7 (n=6 vs 3)
 - Without Chet Holmgren: Bennett Stirtz min +18.1, pts +9.8, reb +0.7, ast +1.7 (n=6 vs 3)
 - Without Cason Wallace: Bennett Stirtz min +18.1, pts +9.8, reb +0.7, ast +1.7 (n=6 vs 3)
@@ -165,11 +166,11 @@ Line: OKC -12.5, total 222.5 (Draft Kings).
 | Kenrich Williams | – | 23.4 (9) → 20.6 (9.4) | 9.4/6.6 → 8 (1–15) | 4.6/3.8 → 4 (1–8) | 1.8/1.1 → 1 (0–4) | 2/1.4 → 1 (0–3) | 14 (4–26) |
 | Aday Mara | – | 22.4 (5.1) → 20.5 (12.8) | 8.2/7 → 7 (2–14) | 6.6/5.7 → 5 (2–9) | 1.2/1.1 → 1 (0–3) | 0/0 → 0 (0–1) | 14 (5–24) |
 | Bennett Stirtz | – | 22.4 (9.9) → 19.8 (7.5) | 11.2/7.2 → 8 (1–16) | 1/0.8 → 2 (0–5) | 1.8/1.1 → 1 (0–4) | 2.6/1.6 → 1 (0–3) | 12 (2–24) |
-| Jaylin Williams | Day-To-Day | 19.4 (6.7) → 19.8 (11) | 2.4/2.9 → 5 (1–10) | 3.6/4.1 → 5 (1–9) | 1.4/1.6 → 2 (0–4) | 0.6/0.7 → 1 (0–3) | 12 (4–21) |
+| Jaylin Williams | Out | 19.4 (6.7) | 2.4/2.9 | 3.6/4.1 | 1.4/1.6 | 0.6/0.7 | – |
 | Alex Caruso | – | 18.2 (5) → 18.7 (11.1) | 8/8.2 → 7 (1–13) | 4.6/4.8 → 3 (1–7) | 3.8/3.3 → 2 (0–5) | 1.6/1.7 → 1 (0–3) | 13 (4–22) |
 
 ## ORL @ GS, 20:30 ET
-Line: GS -5.5, total 222.5 (Draft Kings).
+Line: GS -6.5, total 220.5 (Draft Kings).
 **ORL** (1 rest day). Out: Paolo Banchero, Jalen Suggs. Freed minutes: 66.8. Out all season so far (already in the lines): Jonathan Isaac, Noah Penda, Izaiyah Nelson.
 - Without Jalen Suggs: Jase Richardson min +10.6, pts +2.7, reb +0.9, ast +0.8 (n=5 vs 3)
 - Without Paolo Banchero: Jase Richardson min +10.2, pts +3.2, reb +0.5, ast -0.7 (n=6 vs 2)
@@ -244,7 +245,7 @@ Line: HOU -6.5, total 223.5 (Draft Kings).
 | Rasheer Fleming | Day-To-Day | 7.5 (4.5) → 8.2 (0.5) | 0.5/0.5 → 2 (0–7) | 1.5/1.5 → 1 (0–4) | 0/0 → 0 (0–1) | 0/0 → 0 (0–2) | 4 (0–11) |
 
 ## SA @ POR, 22:00 ET
-Line: SA -5.5, total 228.5 (Draft Kings).
+Line: SA -4.5, total 229.5 (Draft Kings).
 **SA** (back-to-back). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Tobias Harris, Jayden Quaintance.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
