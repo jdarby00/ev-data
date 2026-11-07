@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "updated_et": "2026-11-07 16:15",
+ "updated_et": "2026-11-07 17:42",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,11 +11,11 @@
    "home": "IND",
    "away_name": "Denver Nuggets",
    "home_name": "Indiana Pacers",
-   "state": "pre",
-   "spread_text": "DEN -7.5",
-   "spread": 7.5,
-   "total": 229.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -29,7 +29,7 @@
    "spread_text": "ATL -6.5",
    "spread": -6.5,
    "total": 226.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -40,10 +40,10 @@
    "away_name": "New York Knicks",
    "home_name": "Cleveland Cavaliers",
    "state": "pre",
-   "spread_text": "NY -5.5",
-   "spread": 5.5,
-   "total": 223.5,
-   "odds_source": "Draft Kings",
+   "spread_text": "NY -4.5",
+   "spread": 4.5,
+   "total": 224.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -56,8 +56,8 @@
    "state": "pre",
    "spread_text": "OKC -11.5",
    "spread": -11.5,
-   "total": 222.5,
-   "odds_source": "Draft Kings",
+   "total": 223.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -71,7 +71,7 @@
    "spread_text": "GS -7.5",
    "spread": -7.5,
    "total": 219.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -84,8 +84,8 @@
    "state": "pre",
    "spread_text": "HOU -6.5",
    "spread": 6.5,
-   "total": 223.5,
-   "odds_source": "Draft Kings",
+   "total": 224.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -99,7 +99,7 @@
    "spread_text": "SA -5.5",
    "spread": 5.5,
    "total": 229.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
@@ -125,13 +125,6 @@
     "detail": "Landale (hip) has been ruled out for Saturday's game against the Nets.",
     "type": "out",
     "updated": "2026-11-07T18:14Z"
-   },
-   {
-    "player": "Jalen Johnson",
-    "status": "Out",
-    "detail": "Johnson (ankle) is probable for Saturday's game against Brooklyn.",
-    "type": "out",
-    "updated": "2026-11-07T18:10Z"
    },
    {
     "player": "Mouhamed Gueye",
@@ -195,13 +188,6 @@
    }
   ],
   "Denver Nuggets": [
-   {
-    "player": "DeMar DeRozan",
-    "status": "Day-To-Day",
-    "detail": "DeRozan (back) is probable for Saturday's game against the Pacers.",
-    "type": "day-to-day",
-    "updated": "2026-11-06T22:48Z"
-   },
    {
     "player": "Julian Strawther",
     "status": "Out",
@@ -408,6 +394,13 @@
   ],
   "Portland Trail Blazers": [
    {
+    "player": "Robert Williams III",
+    "status": "Out",
+    "detail": "Williams (rest) won't play in Saturday's game against the Spurs.",
+    "type": "out",
+    "updated": "2026-11-07T21:12Z"
+   },
+   {
     "player": "Vit Krejci",
     "status": "Out",
     "detail": "Head coach Micah Nori said that Krejci suffered a left leg fracture during Wednesday's 132-119 win over the Suns, Brett Siegel of ClutchPoints.com reports.",
@@ -546,6 +539,27 @@
    "player": "Kelly Oubre Jr.",
    "from": "Day-To-Day",
    "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-07 17:42",
+   "team": "Atlanta Hawks",
+   "player": "Jalen Johnson",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-07 17:42",
+   "team": "Denver Nuggets",
+   "player": "DeMar DeRozan",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-07 17:42",
+   "team": "Portland Trail Blazers",
+   "player": "Robert Williams III",
+   "from": "not listed",
+   "to": "Out"
   }
  ]
 }
