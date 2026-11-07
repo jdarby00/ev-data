@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "built_at": "2026-11-07T13:32:22Z",
+ "built_at": "2026-11-07T17:00:49Z",
  "code_card": [
   {
    "lane": "likely",
@@ -1005,27 +1005,6 @@
    "tier": "Straight",
    "decimal": 1.4,
    "edge": -0.0756
-  },
-  {
-   "lane": "likely",
-   "sport": "soccer",
-   "game": "FCA @ RBL",
-   "start_utc": "2026-11-07T14:30Z",
-   "event_id": "401884744",
-   "kind": "game",
-   "market": "moneyline",
-   "line": 0.0,
-   "side": "home",
-   "bet": "RBL to win",
-   "book": "draftkings",
-   "price": -240,
-   "p": 0.66,
-   "p_mkt": 0.66,
-   "basis": "all-books fair (8 books)",
-   "flags": [],
-   "tier": "Straight",
-   "decimal": 1.417,
-   "edge": -0.0648
   },
   {
    "lane": "likely",
@@ -2121,27 +2100,6 @@
    "tier": "Straight",
    "decimal": 1.4,
    "edge": -0.0756
-  },
-  {
-   "lane": "likely",
-   "sport": "soccer",
-   "game": "FCA @ RBL",
-   "start_utc": "2026-11-07T14:30Z",
-   "event_id": "401884744",
-   "kind": "game",
-   "market": "moneyline",
-   "line": 0.0,
-   "side": "home",
-   "bet": "RBL to win",
-   "book": "draftkings",
-   "price": -240,
-   "p": 0.66,
-   "p_mkt": 0.66,
-   "basis": "all-books fair (8 books)",
-   "flags": [],
-   "tier": "Straight",
-   "decimal": 1.417,
-   "edge": -0.0648
   },
   {
    "lane": "likely",
