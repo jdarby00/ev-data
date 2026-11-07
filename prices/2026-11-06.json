@@ -13478,11 +13478,12 @@
    "api_away": "Utah Jazz",
    "api_home": "Dallas Mavericks",
    "away": "Jazz",
-   "commence_time": "2026-11-07T01:10:00Z",
+   "commence_time": "2026-11-07T01:10:37Z",
    "event_id": "62a92e31b546d31ba57caf792815bf65",
    "home": "Mavericks",
    "issues": [
-    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_assists",
    "players": [],
@@ -15314,11 +15315,12 @@
    "api_away": "Utah Jazz",
    "api_home": "Dallas Mavericks",
    "away": "Jazz",
-   "commence_time": "2026-11-07T01:10:00Z",
+   "commence_time": "2026-11-07T01:10:37Z",
    "event_id": "62a92e31b546d31ba57caf792815bf65",
    "home": "Mavericks",
    "issues": [
-    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points",
    "players": [],
@@ -18326,11 +18328,12 @@
    "api_away": "Utah Jazz",
    "api_home": "Dallas Mavericks",
    "away": "Jazz",
-   "commence_time": "2026-11-07T01:10:00Z",
+   "commence_time": "2026-11-07T01:10:37Z",
    "event_id": "62a92e31b546d31ba57caf792815bf65",
    "home": "Mavericks",
    "issues": [
-    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_rebounds",
    "players": [],
@@ -20650,11 +20653,12 @@
    "api_away": "Utah Jazz",
    "api_home": "Dallas Mavericks",
    "away": "Jazz",
-   "commence_time": "2026-11-07T01:10:00Z",
+   "commence_time": "2026-11-07T01:10:37Z",
    "event_id": "62a92e31b546d31ba57caf792815bf65",
    "home": "Mavericks",
    "issues": [
-    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_threes",
    "players": [],
@@ -22294,11 +22298,12 @@
    "api_away": "Toronto Raptors",
    "api_home": "Milwaukee Bucks",
    "away": "Raptors",
-   "commence_time": "2026-11-07T01:10:00Z",
+   "commence_time": "2026-11-07T01:11:43Z",
    "event_id": "1c60a090180de530cfe273a5d6a381e6",
    "home": "Bucks",
    "issues": [
-    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_assists",
    "players": [],
@@ -23754,11 +23759,12 @@
    "api_away": "Toronto Raptors",
    "api_home": "Milwaukee Bucks",
    "away": "Raptors",
-   "commence_time": "2026-11-07T01:10:00Z",
+   "commence_time": "2026-11-07T01:11:43Z",
    "event_id": "1c60a090180de530cfe273a5d6a381e6",
    "home": "Bucks",
    "issues": [
-    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points",
    "players": [],
@@ -29641,11 +29647,12 @@
    "api_away": "Toronto Raptors",
    "api_home": "Milwaukee Bucks",
    "away": "Raptors",
-   "commence_time": "2026-11-07T01:10:00Z",
+   "commence_time": "2026-11-07T01:11:43Z",
    "event_id": "1c60a090180de530cfe273a5d6a381e6",
    "home": "Bucks",
    "issues": [
-    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_rebounds",
    "players": [],
@@ -31813,11 +31820,12 @@
    "api_away": "Toronto Raptors",
    "api_home": "Milwaukee Bucks",
    "away": "Raptors",
-   "commence_time": "2026-11-07T01:10:00Z",
+   "commence_time": "2026-11-07T01:11:43Z",
    "event_id": "1c60a090180de530cfe273a5d6a381e6",
    "home": "Bucks",
    "issues": [
-    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_threes",
    "players": [],
@@ -33240,7 +33248,8 @@
     "2026-11-06T23:43:27Z lock skipped: daily cap reached (30/30)",
     "2026-11-07T00:28:08Z lock skipped: daily cap reached (30/30)",
     "2026-11-07T00:32:09Z lock skipped: daily cap reached (30/30)",
-    "2026-11-07T00:58:09Z lock skipped: daily cap reached (30/30)"
+    "2026-11-07T00:58:09Z lock skipped: daily cap reached (30/30)",
+    "2026-11-07T01:50:01Z lock skipped: daily cap reached (30/30)"
    ],
    "market": "player_assists",
    "players": [],
@@ -38959,7 +38968,8 @@
     "2026-11-06T23:43:27Z lock skipped: daily cap reached (30/30)",
     "2026-11-07T00:28:08Z lock skipped: daily cap reached (30/30)",
     "2026-11-07T00:32:09Z lock skipped: daily cap reached (30/30)",
-    "2026-11-07T00:58:09Z lock skipped: daily cap reached (30/30)"
+    "2026-11-07T00:58:09Z lock skipped: daily cap reached (30/30)",
+    "2026-11-07T01:50:01Z lock skipped: daily cap reached (30/30)"
    ],
    "market": "player_threes",
    "players": [],
@@ -38971,11 +38981,12 @@
    "api_away": "Oklahoma City Thunder",
    "api_home": "Memphis Grizzlies",
    "away": "Thunder",
-   "commence_time": "2026-11-07T01:10:00Z",
+   "commence_time": "2026-11-07T01:12:00Z",
    "event_id": "86684f64a8ec8385537a36c3b3768935",
    "home": "Grizzlies",
    "issues": [
-    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_assists",
    "players": [],
@@ -40631,11 +40642,12 @@
    "api_away": "Oklahoma City Thunder",
    "api_home": "Memphis Grizzlies",
    "away": "Thunder",
-   "commence_time": "2026-11-07T01:10:00Z",
+   "commence_time": "2026-11-07T01:12:00Z",
    "event_id": "86684f64a8ec8385537a36c3b3768935",
    "home": "Grizzlies",
    "issues": [
-    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points",
    "players": [],
@@ -44107,11 +44119,12 @@
    "api_away": "Oklahoma City Thunder",
    "api_home": "Memphis Grizzlies",
    "away": "Thunder",
-   "commence_time": "2026-11-07T01:10:00Z",
+   "commence_time": "2026-11-07T01:12:00Z",
    "event_id": "86684f64a8ec8385537a36c3b3768935",
    "home": "Grizzlies",
    "issues": [
-    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_rebounds",
    "players": [],
@@ -46735,11 +46748,12 @@
    "api_away": "Oklahoma City Thunder",
    "api_home": "Memphis Grizzlies",
    "away": "Thunder",
-   "commence_time": "2026-11-07T01:10:00Z",
+   "commence_time": "2026-11-07T01:12:00Z",
    "event_id": "86684f64a8ec8385537a36c3b3768935",
    "home": "Grizzlies",
    "issues": [
-    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_threes",
    "players": [],
@@ -48587,11 +48601,12 @@
    "api_away": "Minnesota Timberwolves",
    "api_home": "New Orleans Pelicans",
    "away": "Timberwolves",
-   "commence_time": "2026-11-07T01:10:00Z",
+   "commence_time": "2026-11-07T01:10:30Z",
    "event_id": "5e4708fadda49a3c06fd7ac50414020e",
    "home": "Pelicans",
    "issues": [
-    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_assists",
    "players": [],
@@ -50423,11 +50438,12 @@
    "api_away": "Minnesota Timberwolves",
    "api_home": "New Orleans Pelicans",
    "away": "Timberwolves",
-   "commence_time": "2026-11-07T01:10:00Z",
+   "commence_time": "2026-11-07T01:10:30Z",
    "event_id": "5e4708fadda49a3c06fd7ac50414020e",
    "home": "Pelicans",
    "issues": [
-    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points",
    "players": [],
@@ -53467,11 +53483,12 @@
    "api_away": "Minnesota Timberwolves",
    "api_home": "New Orleans Pelicans",
    "away": "Timberwolves",
-   "commence_time": "2026-11-07T01:10:00Z",
+   "commence_time": "2026-11-07T01:10:30Z",
    "event_id": "5e4708fadda49a3c06fd7ac50414020e",
    "home": "Pelicans",
    "issues": [
-    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_rebounds",
    "players": [],
@@ -55887,11 +55904,12 @@
    "api_away": "Minnesota Timberwolves",
    "api_home": "New Orleans Pelicans",
    "away": "Timberwolves",
-   "commence_time": "2026-11-07T01:10:00Z",
+   "commence_time": "2026-11-07T01:10:30Z",
    "event_id": "5e4708fadda49a3c06fd7ac50414020e",
    "home": "Pelicans",
    "issues": [
-    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_threes",
    "players": [],
@@ -74209,5 +74227,5 @@
  "spent_month": 98,
  "spent_today": 30,
  "stop": null,
- "updated": "2026-11-07T00:58:09Z"
+ "updated": "2026-11-07T01:50:01Z"
 }
