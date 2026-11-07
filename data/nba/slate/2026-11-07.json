@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "updated_et": "2026-11-07 14:45",
+ "updated_et": "2026-11-07 16:15",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -15,7 +15,7 @@
    "spread_text": "DEN -7.5",
    "spread": 7.5,
    "total": 229.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -29,7 +29,7 @@
    "spread_text": "ATL -6.5",
    "spread": -6.5,
    "total": 226.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -42,8 +42,8 @@
    "state": "pre",
    "spread_text": "NY -5.5",
    "spread": 5.5,
-   "total": 224.5,
-   "odds_source": "DraftKings",
+   "total": 223.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -54,10 +54,10 @@
    "away_name": "Washington Wizards",
    "home_name": "Oklahoma City Thunder",
    "state": "pre",
-   "spread_text": "OKC -12.5",
-   "spread": -12.5,
+   "spread_text": "OKC -11.5",
+   "spread": -11.5,
    "total": 222.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -68,10 +68,10 @@
    "away_name": "Orlando Magic",
    "home_name": "Golden State Warriors",
    "state": "pre",
-   "spread_text": "GS -6.5",
-   "spread": -6.5,
-   "total": 220.5,
-   "odds_source": "DraftKings",
+   "spread_text": "GS -7.5",
+   "spread": -7.5,
+   "total": 219.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "HOU -6.5",
    "spread": 6.5,
    "total": 223.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -96,10 +96,10 @@
    "away_name": "San Antonio Spurs",
    "home_name": "Portland Trail Blazers",
    "state": "pre",
-   "spread_text": "SA -4.5",
-   "spread": 4.5,
+   "spread_text": "SA -5.5",
+   "spread": 5.5,
    "total": 229.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   }
  ],
@@ -272,18 +272,11 @@
   ],
   "Indiana Pacers": [
    {
-    "player": "T.J. McConnell",
+    "player": "Tyrese Haliburton",
     "status": "Out",
-    "detail": "McConnell (hamstring) is questionable for Saturday's game against Denver.",
+    "detail": "Haliburton (hamstring) is progressing well but does not have a timetable to return, Dustin Dopirak of The Indianapolis Star reports.",
     "type": "out",
-    "updated": "2026-11-06T23:06Z"
-   },
-   {
-    "player": "Kelly Oubre Jr.",
-    "status": "Day-To-Day",
-    "detail": "Oubre (calf) is questionable for Saturday's game against Denver.",
-    "type": "day-to-day",
-    "updated": "2026-11-06T23:04Z"
+    "updated": "2026-11-07T20:46Z"
    },
    {
     "player": "Johnny Furphy",
@@ -298,13 +291,6 @@
     "detail": "Head coach Rick Carlise confirmed Sheppard will miss \"months\" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports.",
     "type": "out",
     "updated": "2026-10-28T21:41Z"
-   },
-   {
-    "player": "Tyrese Haliburton",
-    "status": "Out",
-    "detail": "Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports.",
-    "type": "out",
-    "updated": "2026-10-28T21:30Z"
    }
   ],
   "New York Knicks": [
@@ -357,9 +343,9 @@
    {
     "player": "Desmond Bane",
     "status": "Out",
-    "detail": "Bane delivered 19 points (7-13 FG, 5-9 3Pt), two rebounds, an assist, two steals and a block across 40 minutes in Sunday's 108-97 loss to the Celtics.",
+    "detail": "Bane (illness) has been ruled out for Saturday's game against the Warriors.",
     "type": "out",
-    "updated": "2026-11-07T19:31Z"
+    "updated": "2026-11-07T19:36Z"
    },
    {
     "player": "Jonathan Isaac",
@@ -546,6 +532,20 @@
    "player": "Desmond Bane",
    "from": "not listed",
    "to": "Out"
+  },
+  {
+   "at_et": "2026-11-07 16:15",
+   "team": "Indiana Pacers",
+   "player": "T.J. McConnell",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-07 16:15",
+   "team": "Indiana Pacers",
+   "player": "Kelly Oubre Jr.",
+   "from": "Day-To-Day",
+   "to": "removed from report"
   }
  ]
 }
