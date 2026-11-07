@@ -1,5 +1,5 @@
 {
- "credits_remaining": 394,
+ "credits_remaining": 393,
  "date": "2026-11-07",
  "groups": {
   "basketball_nba|knicks@cavaliers|player_points_rebounds_assists": {
@@ -4401,6 +4401,2049 @@
      "kind": "lock",
      "minutes_to_tip": 164.5,
      "raw": "raw/2026-11-07/e76682ca6c25a37b0a53cec226b91aab-player_rebounds-lock-20261107T192528167589Z.json",
+     "rev": 1
+    },
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1029776083",
+       "event_sid": "1029776083",
+       "last_update": "2026-11-07T21:43:18Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Christian Braun",
+         "price": -120,
+         "sid": "4407050624",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Obi Toppin",
+         "price": -112,
+         "sid": "4407050632",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Jamal Murray",
+         "price": -113,
+         "sid": "4407050638",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Andrew Nembhard",
+         "price": -136,
+         "sid": "4407059430",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "DeMar DeRozan",
+         "price": 130,
+         "sid": "4407044755",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Aaron Nesmith",
+         "price": 106,
+         "sid": "4407044759",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Aaron Gordon",
+         "price": -105,
+         "sid": "4407044763",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Kelly Oubre Jr.",
+         "price": 110,
+         "sid": "4407044769",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Pascal Siakam",
+         "price": -113,
+         "sid": "4407044785",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Cameron Johnson",
+         "price": 120,
+         "sid": "4407591557",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Ivica Zubac",
+         "price": 110,
+         "sid": "4407778385",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Nikola Jokic",
+         "price": 106,
+         "sid": "4408063063",
+         "side": "Over"
+        }
+       ]
+      },
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/denver-nuggets-at-indiana-pacers-neutral-venue-20050868",
+       "event_sid": "20050868",
+       "last_update": "2026-11-07T21:43:07Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49166-4438219-7234563&type=Single",
+         "player": "Andrew Nembhard",
+         "price": -135,
+         "sid": "7234563",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49166-4438219-7234564&type=Single",
+         "player": "Andrew Nembhard",
+         "price": 100,
+         "sid": "7234564",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49166-4438227-7234579&type=Single",
+         "player": "Christian Braun",
+         "price": 100,
+         "sid": "7234579",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49166-4438227-7234580&type=Single",
+         "player": "Christian Braun",
+         "price": -135,
+         "sid": "7234580",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49166-4438235-7234595&type=Single",
+         "player": "Cameron Johnson",
+         "price": 120,
+         "sid": "7234595",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49166-4438235-7234596&type=Single",
+         "player": "Cameron Johnson",
+         "price": -160,
+         "sid": "7234596",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49166-4438230-7234585&type=Single",
+         "player": "Aaron Gordon",
+         "price": -115,
+         "sid": "7234585",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49166-4438230-7234586&type=Single",
+         "player": "Aaron Gordon",
+         "price": -115,
+         "sid": "7234586",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49166-4438217-7234559&type=Single",
+         "player": "Pascal Siakam",
+         "price": -110,
+         "sid": "7234559",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49166-4438217-7234560&type=Single",
+         "player": "Pascal Siakam",
+         "price": -120,
+         "sid": "7234560",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49166-4438243-7234611&type=Single",
+         "player": "Jamal Murray",
+         "price": -120,
+         "sid": "7234611",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49166-4438243-7234612&type=Single",
+         "player": "Jamal Murray",
+         "price": -110,
+         "sid": "7234612",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49166-4438255-7234633&type=Single",
+         "player": "Ivica Zubac",
+         "price": -140,
+         "sid": "7234633",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49166-4438255-7234634&type=Single",
+         "player": "Ivica Zubac",
+         "price": 105,
+         "sid": "7234634",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49166-4438251-7234627&type=Single",
+         "player": "Aaron Nesmith",
+         "price": 100,
+         "sid": "7234627",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49166-4438251-7234628&type=Single",
+         "player": "Aaron Nesmith",
+         "price": -135,
+         "sid": "7234628",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49166-4438267-7234659&type=Single",
+         "player": "Nikola Jokic",
+         "price": -120,
+         "sid": "7234659",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49166-4438267-7234660&type=Single",
+         "player": "Nikola Jokic",
+         "price": -110,
+         "sid": "7234660",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49166-4441788-7242065&type=Single",
+         "player": "Obi Toppin",
+         "price": -110,
+         "sid": "7242065",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49166-4441788-7242066&type=Single",
+         "player": "Obi Toppin",
+         "price": -120,
+         "sid": "7242066",
+         "side": "Under"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49166-4442940-7244778&type=Single",
+         "player": "DeMar DeRozan",
+         "price": -225,
+         "sid": "7244778",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49166-4442940-7244779&type=Single",
+         "player": "DeMar DeRozan",
+         "price": 165,
+         "sid": "7244779",
+         "side": "Under"
+        }
+       ]
+      },
+      "betonlineag": {
+       "event_link": "https://sports.betonline.ag/sportsbook/basketball/nba/game/491174198",
+       "event_sid": "491174198",
+       "last_update": "2026-11-07T21:43:17Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Nikola Jokic",
+         "price": -128,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Nikola Jokic",
+         "price": -101,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Jamal Murray",
+         "price": -112,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Jamal Murray",
+         "price": -115,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Aaron Gordon",
+         "price": -118,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Aaron Gordon",
+         "price": -110,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Christian Braun",
+         "price": -108,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Christian Braun",
+         "price": -120,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Andrew Nembhard",
+         "price": -103,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Andrew Nembhard",
+         "price": -125,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Pascal Siakam",
+         "price": -103,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Pascal Siakam",
+         "price": -125,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Obi Toppin",
+         "price": -105,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Obi Toppin",
+         "price": -123,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Aaron Nesmith",
+         "price": 104,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Aaron Nesmith",
+         "price": -135,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Cameron Johnson",
+         "price": -164,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Cameron Johnson",
+         "price": 126,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Ivica Zubac",
+         "price": -141,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Ivica Zubac",
+         "price": 108,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Kelly Oubre Jr.",
+         "price": 126,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Kelly Oubre Jr.",
+         "price": -164,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "DeMar DeRozan",
+         "price": 122,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "DeMar DeRozan",
+         "price": -159,
+         "sid": null,
+         "side": "Under"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1029776083",
+       "event_sid": "1029776083",
+       "last_update": "2026-11-07T21:43:19Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Christian Braun",
+         "price": -120,
+         "sid": "4407050624",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Christian Braun",
+         "price": -112,
+         "sid": "4407050625",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Obi Toppin",
+         "price": -112,
+         "sid": "4407050632",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Obi Toppin",
+         "price": -121,
+         "sid": "4407050633",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Jamal Murray",
+         "price": -113,
+         "sid": "4407050638",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Jamal Murray",
+         "price": -120,
+         "sid": "4407050639",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Andrew Nembhard",
+         "price": -136,
+         "sid": "4407059430",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Andrew Nembhard",
+         "price": 100,
+         "sid": "4407059431",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "DeMar DeRozan",
+         "price": 130,
+         "sid": "4407044755",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "DeMar DeRozan",
+         "price": -180,
+         "sid": "4407044756",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Aaron Nesmith",
+         "price": 106,
+         "sid": "4407044759",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Aaron Nesmith",
+         "price": -143,
+         "sid": "4407044760",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Aaron Gordon",
+         "price": -105,
+         "sid": "4407044763",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Aaron Gordon",
+         "price": -129,
+         "sid": "4407044764",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Kelly Oubre Jr.",
+         "price": 110,
+         "sid": "4407044769",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Kelly Oubre Jr.",
+         "price": -148,
+         "sid": "4407044770",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Pascal Siakam",
+         "price": -113,
+         "sid": "4407044785",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Pascal Siakam",
+         "price": -120,
+         "sid": "4407044786",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Cameron Johnson",
+         "price": 120,
+         "sid": "4407591557",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Cameron Johnson",
+         "price": -165,
+         "sid": "4407591558",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Ivica Zubac",
+         "price": 110,
+         "sid": "4407778385",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Ivica Zubac",
+         "price": -150,
+         "sid": "4407778386",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Nikola Jokic",
+         "price": 106,
+         "sid": "4408063063",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Nikola Jokic",
+         "price": -143,
+         "sid": "4408063064",
+         "side": "Under"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083",
+       "event_sid": "1029776083",
+       "last_update": "2026-11-07T21:42:49Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4407778385|{wagerAmount}",
+         "player": "Ivica Zubac",
+         "price": 110,
+         "sid": "4407778385",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4407778386|{wagerAmount}",
+         "player": "Ivica Zubac",
+         "price": -150,
+         "sid": "4407778386",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4407591557|{wagerAmount}",
+         "player": "Cameron Johnson",
+         "price": 120,
+         "sid": "4407591557",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4407591558|{wagerAmount}",
+         "player": "Cameron Johnson",
+         "price": -165,
+         "sid": "4407591558",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4407050632|{wagerAmount}",
+         "player": "Obi Toppin",
+         "price": -112,
+         "sid": "4407050632",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4407050633|{wagerAmount}",
+         "player": "Obi Toppin",
+         "price": -121,
+         "sid": "4407050633",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4407050624|{wagerAmount}",
+         "player": "Christian Braun",
+         "price": -121,
+         "sid": "4407050624",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4407050625|{wagerAmount}",
+         "player": "Christian Braun",
+         "price": -113,
+         "sid": "4407050625",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4407050638|{wagerAmount}",
+         "player": "Jamal Murray",
+         "price": -113,
+         "sid": "4407050638",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4407050639|{wagerAmount}",
+         "player": "Jamal Murray",
+         "price": -120,
+         "sid": "4407050639",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4407044759|{wagerAmount}",
+         "player": "Aaron Nesmith",
+         "price": 106,
+         "sid": "4407044759",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4407044760|{wagerAmount}",
+         "player": "Aaron Nesmith",
+         "price": -143,
+         "sid": "4407044760",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4407044763|{wagerAmount}",
+         "player": "Aaron Gordon",
+         "price": -105,
+         "sid": "4407044763",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4407044764|{wagerAmount}",
+         "player": "Aaron Gordon",
+         "price": -129,
+         "sid": "4407044764",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4407044755|{wagerAmount}",
+         "player": "DeMar DeRozan",
+         "price": 130,
+         "sid": "4407044755",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4407044756|{wagerAmount}",
+         "player": "DeMar DeRozan",
+         "price": -180,
+         "sid": "4407044756",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4407044769|{wagerAmount}",
+         "player": "Kelly Oubre Jr.",
+         "price": 110,
+         "sid": "4407044769",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4407044770|{wagerAmount}",
+         "player": "Kelly Oubre Jr.",
+         "price": -150,
+         "sid": "4407044770",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4407044785|{wagerAmount}",
+         "player": "Pascal Siakam",
+         "price": -113,
+         "sid": "4407044785",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4407044786|{wagerAmount}",
+         "player": "Pascal Siakam",
+         "price": -120,
+         "sid": "4407044786",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4407059430|{wagerAmount}",
+         "player": "Andrew Nembhard",
+         "price": -136,
+         "sid": "4407059430",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4407059431|{wagerAmount}",
+         "player": "Andrew Nembhard",
+         "price": 100,
+         "sid": "4407059431",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4408063063|{wagerAmount}",
+         "player": "Nikola Jokic",
+         "price": 106,
+         "sid": "4408063063",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029776083?coupon={pickType}|4408063064|{wagerAmount}",
+         "player": "Nikola Jokic",
+         "price": -143,
+         "sid": "4408063064",
+         "side": "Under"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/basketball/nba/denver-nuggets-indiana-pacers-202611071700",
+       "event_sid": "33104167",
+       "last_update": "2026-11-07T21:43:38Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Aaron Gordon",
+         "price": -220,
+         "sid": "2469995219",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Aaron Gordon",
+         "price": 165,
+         "sid": "2469995220",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Aaron Gordon",
+         "price": -115,
+         "sid": "2469994140",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Aaron Gordon",
+         "price": -115,
+         "sid": "2469994141",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Aaron Gordon",
+         "price": 155,
+         "sid": "2469995221",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Aaron Gordon",
+         "price": -210,
+         "sid": "2469995222",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Aaron Nesmith",
+         "price": 110,
+         "sid": "2470102475",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Aaron Nesmith",
+         "price": -145,
+         "sid": "2470102476",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Andrew Nembhard",
+         "price": -120,
+         "sid": "2470103345",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Andrew Nembhard",
+         "price": -110,
+         "sid": "2470103346",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Cameron Johnson",
+         "price": -165,
+         "sid": "2469995534",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Cameron Johnson",
+         "price": 125,
+         "sid": "2469995535",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Cameron Johnson",
+         "price": 125,
+         "sid": "2469994136",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Cameron Johnson",
+         "price": -165,
+         "sid": "2469994137",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Christian Braun",
+         "price": -220,
+         "sid": "2469993691",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Christian Braun",
+         "price": 165,
+         "sid": "2469993692",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Christian Braun",
+         "price": -105,
+         "sid": "2469994134",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Christian Braun",
+         "price": -125,
+         "sid": "2469994135",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Christian Braun",
+         "price": 180,
+         "sid": "2469993693",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Christian Braun",
+         "price": -245,
+         "sid": "2469993694",
+         "side": "Under"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "DeMar DeRozan",
+         "price": -230,
+         "sid": "2469993699",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "DeMar DeRozan",
+         "price": 170,
+         "sid": "2469993700",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "DeMar DeRozan",
+         "price": 120,
+         "sid": "2469994144",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "DeMar DeRozan",
+         "price": -160,
+         "sid": "2469994145",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Ivica Zubac",
+         "price": -130,
+         "sid": "2470103995",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Ivica Zubac",
+         "price": 100,
+         "sid": "2470103996",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Jamal Murray",
+         "price": -220,
+         "sid": "2469994630",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Jamal Murray",
+         "price": 165,
+         "sid": "2469994631",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Jamal Murray",
+         "price": -105,
+         "sid": "2469994138",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Jamal Murray",
+         "price": -125,
+         "sid": "2469994139",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Jamal Murray",
+         "price": 180,
+         "sid": "2469993689",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Jamal Murray",
+         "price": -245,
+         "sid": "2469993690",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Nikola Jokic",
+         "price": -215,
+         "sid": "2469993707",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Nikola Jokic",
+         "price": 160,
+         "sid": "2469993708",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Nikola Jokic",
+         "price": -135,
+         "sid": "2469994142",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Nikola Jokic",
+         "price": 105,
+         "sid": "2469994143",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Nikola Jokic",
+         "price": 110,
+         "sid": "2469993709",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Nikola Jokic",
+         "price": -145,
+         "sid": "2469993710",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Nikola Jokic",
+         "price": 165,
+         "sid": "2469993711",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Nikola Jokic",
+         "price": -220,
+         "sid": "2469993712",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Obi Toppin",
+         "price": 110,
+         "sid": "2470102477",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Obi Toppin",
+         "price": -145,
+         "sid": "2470102478",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Pascal Siakam",
+         "price": 110,
+         "sid": "2470102473",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Pascal Siakam",
+         "price": -145,
+         "sid": "2470102474",
+         "side": "Under"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/34965473",
+       "event_sid": "34965473",
+       "last_update": "2026-11-07T21:43:31Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386776299%232354131406_13L42648Q1-1455563980Q20",
+         "player": "Nikola Jokic",
+         "price": -134,
+         "sid": "0QA386776299#2354131406_13L42648Q1-1455563980Q20",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386776299%232354131407_13L42648Q11950259446Q20",
+         "player": "Nikola Jokic",
+         "price": 102,
+         "sid": "0QA386776299#2354131407_13L42648Q11950259446Q20",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386776508%232353990487_13L42648Q1-25326551Q20",
+         "player": "Ivica Zubac",
+         "price": -145,
+         "sid": "0QA386776508#2353990487_13L42648Q1-25326551Q20",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386776508%232353990534_13L42648Q1-877137389Q20",
+         "player": "Ivica Zubac",
+         "price": 110,
+         "sid": "0QA386776508#2353990534_13L42648Q1-877137389Q20",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386776820%232354595368_13L42648Q1-732303018Q20",
+         "player": "Pascal Siakam",
+         "price": 108,
+         "sid": "0QA386776820#2354595368_13L42648Q1-732303018Q20",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386776820%232354595369_13L42648Q1-1595150841Q20",
+         "player": "Pascal Siakam",
+         "price": -142,
+         "sid": "0QA386776820#2354595369_13L42648Q1-1595150841Q20",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386776208%232354356187_13L42648Q1210220610Q20",
+         "player": "Aaron Gordon",
+         "price": -113,
+         "sid": "0QA386776208#2354356187_13L42648Q1210220610Q20",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386776208%232354356188_13L42648Q1-459759634Q20",
+         "player": "Aaron Gordon",
+         "price": -116,
+         "sid": "0QA386776208#2354356188_13L42648Q1-459759634Q20",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386776518%232353990475_13L42648Q1-150170292Q20",
+         "player": "Jamal Murray",
+         "price": -107,
+         "sid": "0QA386776518#2353990475_13L42648Q1-150170292Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386776518%232353990516_13L42648Q1-1659398539Q20",
+         "player": "Jamal Murray",
+         "price": -123,
+         "sid": "0QA386776518#2353990516_13L42648Q1-1659398539Q20",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386776367%232353991836_13L42648Q1-150170292Q20",
+         "player": "Christian Braun",
+         "price": -105,
+         "sid": "0QA386776367#2353991836_13L42648Q1-150170292Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386776367%232353991899_13L42648Q1-1659398539Q20",
+         "player": "Christian Braun",
+         "price": -126,
+         "sid": "0QA386776367#2353991899_13L42648Q1-1659398539Q20",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386776384%232354595354_13L42648Q1-150170292Q20",
+         "player": "Obi Toppin",
+         "price": 103,
+         "sid": "0QA386776384#2354595354_13L42648Q1-150170292Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386776384%232354595355_13L42648Q1-1659398539Q20",
+         "player": "Obi Toppin",
+         "price": -135,
+         "sid": "0QA386776384#2354595355_13L42648Q1-1659398539Q20",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386776666%232354532830_13L42648Q1-150170292Q20",
+         "player": "Cameron Johnson",
+         "price": 124,
+         "sid": "0QA386776666#2354532830_13L42648Q1-150170292Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386776666%232354532831_13L42648Q1-1659398539Q20",
+         "player": "Cameron Johnson",
+         "price": -164,
+         "sid": "0QA386776666#2354532831_13L42648Q1-1659398539Q20",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386776680%232353992239_13L42648Q11299195355Q20",
+         "player": "Aaron Nesmith",
+         "price": 112,
+         "sid": "0QA386776680#2353992239_13L42648Q11299195355Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386776680%232353992257_13L42648Q1647990913Q20",
+         "player": "Aaron Nesmith",
+         "price": -147,
+         "sid": "0QA386776680#2353992257_13L42648Q1647990913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386776668%232353992013_13L42648Q12005697320Q20",
+         "player": "Andrew Nembhard",
+         "price": -115,
+         "sid": "0QA386776668#2353992013_13L42648Q12005697320Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386776668%232353992031_13L42648Q1-9439206Q20",
+         "player": "Andrew Nembhard",
+         "price": -114,
+         "sid": "0QA386776668#2353992031_13L42648Q1-9439206Q20",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386776725%232353992019_13L42648Q12005697320Q20",
+         "player": "DeMar DeRozan",
+         "price": 119,
+         "sid": "0QA386776725#2353992019_13L42648Q12005697320Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386776725%232353992037_13L42648Q1-9439206Q20",
+         "player": "DeMar DeRozan",
+         "price": -156,
+         "sid": "0QA386776725#2353992037_13L42648Q1-9439206Q20",
+         "side": "Under"
+        }
+       ]
+      },
+      "espnbet": {
+       "event_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/nba/event/1d016cba-cf8b-4b4e-84ab-49e1485d0916",
+       "event_sid": "1d016cba-cf8b-4b4e-84ab-49e1485d0916",
+       "last_update": "2026-11-07T21:43:23Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=677db69b-6cfc-49bc-ae6b-9bbece1093ea&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Pascal Siakam",
+         "price": -105,
+         "sid": "677db69b-6cfc-49bc-ae6b-9bbece1093ea",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=5da563ac-d5f2-4dac-860f-e6bcbe009775&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Pascal Siakam",
+         "price": -125,
+         "sid": "5da563ac-d5f2-4dac-860f-e6bcbe009775",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=4534e364-390d-46d1-a80e-64f23e4af874&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Ivica Zubac",
+         "price": -140,
+         "sid": "4534e364-390d-46d1-a80e-64f23e4af874",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=5eac0b78-f0ab-4538-9567-3ae46810c2cd&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Ivica Zubac",
+         "price": 105,
+         "sid": "5eac0b78-f0ab-4538-9567-3ae46810c2cd",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=3390716a-1e23-4cc9-8306-7efda586ad3d&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Nikola Jokic",
+         "price": -130,
+         "sid": "3390716a-1e23-4cc9-8306-7efda586ad3d",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=7cb156b1-3db0-48e4-88d5-caff6d6c0576&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Nikola Jokic",
+         "price": 100,
+         "sid": "7cb156b1-3db0-48e4-88d5-caff6d6c0576",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=e50ead75-5405-4dd1-a41d-cb26bf23049c&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Aaron Gordon",
+         "price": -115,
+         "sid": "e50ead75-5405-4dd1-a41d-cb26bf23049c",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=4113578e-f373-4daf-9829-b6fa9e3fea0a&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Aaron Gordon",
+         "price": -115,
+         "sid": "4113578e-f373-4daf-9829-b6fa9e3fea0a",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=36f24658-bfc1-45db-8749-17794176c094&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Obi Toppin",
+         "price": -105,
+         "sid": "36f24658-bfc1-45db-8749-17794176c094",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=a3e30757-0801-4d70-bd18-f70eb50c293d&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Obi Toppin",
+         "price": -125,
+         "sid": "a3e30757-0801-4d70-bd18-f70eb50c293d",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=94e5b5c3-433f-449f-a603-45e4d7db11c9&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Christian Braun",
+         "price": -105,
+         "sid": "94e5b5c3-433f-449f-a603-45e4d7db11c9",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=e09a0017-39e7-49b8-a957-820be3389a4a&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Christian Braun",
+         "price": -125,
+         "sid": "e09a0017-39e7-49b8-a957-820be3389a4a",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=2dec9abe-fc9a-4b42-a93e-9c1c2d9e724c&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Cameron Johnson",
+         "price": 125,
+         "sid": "2dec9abe-fc9a-4b42-a93e-9c1c2d9e724c",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=884ac759-67bf-4303-8c3f-abe688c33658&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Cameron Johnson",
+         "price": -165,
+         "sid": "884ac759-67bf-4303-8c3f-abe688c33658",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=515d91f1-481f-44fb-8d9b-990661a2938d&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Jamal Murray",
+         "price": -110,
+         "sid": "515d91f1-481f-44fb-8d9b-990661a2938d",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=6875a9d0-306d-4fec-a670-45f68956cb58&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Jamal Murray",
+         "price": -120,
+         "sid": "6875a9d0-306d-4fec-a670-45f68956cb58",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=82656e41-0d00-4ad3-b095-21839b0f6c37&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Aaron Nesmith",
+         "price": 110,
+         "sid": "82656e41-0d00-4ad3-b095-21839b0f6c37",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=ece302a2-3b08-4816-be65-dbb872cd08c7&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Aaron Nesmith",
+         "price": -145,
+         "sid": "ece302a2-3b08-4816-be65-dbb872cd08c7",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=164880fd-e291-46c0-8800-9b5a47b2c390&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Kelly Oubre Jr.",
+         "price": 130,
+         "sid": "164880fd-e291-46c0-8800-9b5a47b2c390",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=da820e11-b534-4a52-af72-de6adcf5e256&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Kelly Oubre Jr.",
+         "price": -170,
+         "sid": "da820e11-b534-4a52-af72-de6adcf5e256",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=551253d9-37ba-4f6f-80bf-8dd084e134bc&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Andrew Nembhard",
+         "price": -115,
+         "sid": "551253d9-37ba-4f6f-80bf-8dd084e134bc",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=d4f3f796-f7f9-4120-a53f-eb929676b89e&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Andrew Nembhard",
+         "price": -115,
+         "sid": "d4f3f796-f7f9-4120-a53f-eb929676b89e",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=8da4ed11-ffb0-4984-9f62-fbe9575ebfb2&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "DeMar DeRozan",
+         "price": 130,
+         "sid": "8da4ed11-ffb0-4984-9f62-fbe9575ebfb2",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=44b5d260-747f-4142-a50c-1af74aa0075d&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "DeMar DeRozan",
+         "price": -170,
+         "sid": "44b5d260-747f-4142-a50c-1af74aa0075d",
+         "side": "Under"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/nba/denver-nuggets-%40-indiana-pacers-36282776",
+       "event_sid": "36282776",
+       "last_update": "2026-11-07T21:43:16Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623388163&selectionId=41408119",
+         "player": "Kelly Oubre Jr.",
+         "price": -172,
+         "sid": "41408119",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623388163&selectionId=41408118",
+         "player": "Kelly Oubre Jr.",
+         "price": 134,
+         "sid": "41408118",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623388440&selectionId=41641966",
+         "player": "Obi Toppin",
+         "price": -102,
+         "sid": "41641966",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623388440&selectionId=41641967",
+         "player": "Obi Toppin",
+         "price": -125,
+         "sid": "41641967",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623379257&selectionId=12730307",
+         "player": "Aaron Gordon",
+         "price": -111,
+         "sid": "12730307",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623379257&selectionId=12730306",
+         "player": "Aaron Gordon",
+         "price": -115,
+         "sid": "12730306",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623385965&selectionId=43058624",
+         "player": "Andrew Nembhard",
+         "price": -111,
+         "sid": "43058624",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623385965&selectionId=43058625",
+         "player": "Andrew Nembhard",
+         "price": -115,
+         "sid": "43058625",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623380817&selectionId=12234472",
+         "player": "DeMar DeRozan",
+         "price": 126,
+         "sid": "12234472",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623380817&selectionId=12234473",
+         "player": "DeMar DeRozan",
+         "price": -162,
+         "sid": "12234473",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623379956&selectionId=51835103",
+         "player": "Cameron Johnson",
+         "price": -156,
+         "sid": "51835103",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623379956&selectionId=51835094",
+         "player": "Cameron Johnson",
+         "price": 122,
+         "sid": "51835094",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623379056&selectionId=43026473",
+         "player": "Christian Braun",
+         "price": 100,
+         "sid": "43026473",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623379056&selectionId=43026472",
+         "player": "Christian Braun",
+         "price": -128,
+         "sid": "43026472",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623387122&selectionId=13527611",
+         "player": "Ivica Zubac",
+         "price": -142,
+         "sid": "13527611",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623387122&selectionId=22190771",
+         "player": "Ivica Zubac",
+         "price": 112,
+         "sid": "22190771",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623384897&selectionId=21558499",
+         "player": "Pascal Siakam",
+         "price": -104,
+         "sid": "21558499",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623384897&selectionId=21558500",
+         "player": "Pascal Siakam",
+         "price": -122,
+         "sid": "21558500",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623371623&selectionId=12257278",
+         "player": "Nikola Jokic",
+         "price": -132,
+         "sid": "12257278",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623371623&selectionId=12257279",
+         "player": "Nikola Jokic",
+         "price": 104,
+         "sid": "12257279",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623372332&selectionId=16127791",
+         "player": "Jamal Murray",
+         "price": -106,
+         "sid": "16127791",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623372332&selectionId=16127792",
+         "player": "Jamal Murray",
+         "price": -120,
+         "sid": "16127792",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623387575&selectionId=39494853",
+         "player": "Aaron Nesmith",
+         "price": 106,
+         "sid": "39494853",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623387575&selectionId=39494854",
+         "player": "Aaron Nesmith",
+         "price": -136,
+         "sid": "39494854",
+         "side": "Under"
+        }
+       ]
+      },
+      "hardrockbet": {
+       "event_link": "https://app.hardrock.bet/home/competition/nba/5419488762545701282",
+       "event_sid": "5419488762545701282",
+       "last_update": "2026-11-07T21:43:24Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1793388971798167939",
+         "player": "Jamal Murray",
+         "price": -115,
+         "sid": "1793388971798167939",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1618030061307429251",
+         "player": "Jamal Murray",
+         "price": -115,
+         "sid": "1618030061307429251",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6996560087886201249",
+         "player": "Christian Braun",
+         "price": -110,
+         "sid": "6996560087886201249",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1110496112401318305",
+         "player": "Christian Braun",
+         "price": -120,
+         "sid": "1110496112401318305",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2846911945194471841",
+         "player": "Aaron Gordon",
+         "price": -115,
+         "sid": "2846911945194471841",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7509896778127376801",
+         "player": "Aaron Gordon",
+         "price": -115,
+         "sid": "7509896778127376801",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2157148065836958122",
+         "player": "Cameron Johnson",
+         "price": -160,
+         "sid": "2157148065836958122",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6297363498273997226",
+         "player": "Cameron Johnson",
+         "price": 125,
+         "sid": "6297363498273997226",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3710045512349647239",
+         "player": "Nikola Jokic",
+         "price": -130,
+         "sid": "3710045512349647239",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4375381988549460359",
+         "player": "Nikola Jokic",
+         "price": 100,
+         "sid": "4375381988549460359",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3055092162537587089",
+         "player": "Pascal Siakam",
+         "price": -105,
+         "sid": "3055092162537587089",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8010459127528685969",
+         "player": "Pascal Siakam",
+         "price": -125,
+         "sid": "8010459127528685969",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6429078832298459547",
+         "player": "Andrew Nembhard",
+         "price": -115,
+         "sid": "6429078832298459547",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7118833262727922075",
+         "player": "Andrew Nembhard",
+         "price": -115,
+         "sid": "7118833262727922075",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2444069911482466721",
+         "player": "DeMar DeRozan",
+         "price": 125,
+         "sid": "2444069911482466721",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4232421176013619617",
+         "player": "DeMar DeRozan",
+         "price": -160,
+         "sid": "4232421176013619617",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1324447116522815914",
+         "player": "Ivica Zubac",
+         "price": -145,
+         "sid": "1324447116522815914",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7343296912270950826",
+         "player": "Ivica Zubac",
+         "price": 110,
+         "sid": "7343296912270950826",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1719904134357975445",
+         "player": "Aaron Nesmith",
+         "price": 105,
+         "sid": "1719904134357975445",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8693446682364477845",
+         "player": "Aaron Nesmith",
+         "price": -135,
+         "sid": "8693446682364477845",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/9079657116647686555",
+         "player": "Kelly Oubre Jr.",
+         "price": 120,
+         "sid": "9079657116647686555",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5879919950145126811",
+         "player": "Kelly Oubre Jr.",
+         "price": -155,
+         "sid": "5879919950145126811",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/9133417806407270789",
+         "player": "Obi Toppin",
+         "price": -105,
+         "sid": "9133417806407270789",
+         "side": "Over"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-07T21:43:45Z",
+     "kind": "close",
+     "minutes_to_tip": 26.2,
+     "raw": "raw/2026-11-07/e76682ca6c25a37b0a53cec226b91aab-player_rebounds-close-20261107T214345016306Z.json",
      "rev": 1
     }
    ],
@@ -21596,8 +23639,8 @@
   }
  },
  "issues": [],
- "spent_month": 106,
- "spent_today": 8,
+ "spent_month": 107,
+ "spent_today": 9,
  "stop": null,
- "updated": "2026-11-07T19:25:28Z"
+ "updated": "2026-11-07T21:43:45Z"
 }
