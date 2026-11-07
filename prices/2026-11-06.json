@@ -6,12 +6,13 @@
    "api_away": "Philadelphia 76ers",
    "api_home": "Cleveland Cavaliers",
    "away": "76ers",
-   "commence_time": "2026-11-07T00:40:00Z",
+   "commence_time": "2026-11-07T00:43:00Z",
    "event_id": "85869b2fdc16ef10d3e2582bf05ead95",
    "home": "Cavaliers",
    "issues": [
     "2026-11-07T00:28:08Z close skipped: daily cap reached (30/30)",
-    "2026-11-07T00:32:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-07T00:32:09Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points",
    "players": [],
@@ -13480,7 +13481,9 @@
    "commence_time": "2026-11-07T01:10:00Z",
    "event_id": "62a92e31b546d31ba57caf792815bf65",
    "home": "Mavericks",
-   "issues": [],
+   "issues": [
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_assists",
    "players": [],
    "requested_rev": 1,
@@ -15314,7 +15317,9 @@
    "commence_time": "2026-11-07T01:10:00Z",
    "event_id": "62a92e31b546d31ba57caf792815bf65",
    "home": "Mavericks",
-   "issues": [],
+   "issues": [
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_points",
    "players": [],
    "requested_rev": 1,
@@ -18324,7 +18329,9 @@
    "commence_time": "2026-11-07T01:10:00Z",
    "event_id": "62a92e31b546d31ba57caf792815bf65",
    "home": "Mavericks",
-   "issues": [],
+   "issues": [
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_rebounds",
    "players": [],
    "requested_rev": 1,
@@ -20646,7 +20653,9 @@
    "commence_time": "2026-11-07T01:10:00Z",
    "event_id": "62a92e31b546d31ba57caf792815bf65",
    "home": "Mavericks",
-   "issues": [],
+   "issues": [
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_threes",
    "players": [],
    "requested_rev": 1,
@@ -22288,7 +22297,9 @@
    "commence_time": "2026-11-07T01:10:00Z",
    "event_id": "1c60a090180de530cfe273a5d6a381e6",
    "home": "Bucks",
-   "issues": [],
+   "issues": [
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_assists",
    "players": [],
    "requested_rev": 1,
@@ -23746,7 +23757,9 @@
    "commence_time": "2026-11-07T01:10:00Z",
    "event_id": "1c60a090180de530cfe273a5d6a381e6",
    "home": "Bucks",
-   "issues": [],
+   "issues": [
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_points",
    "players": [],
    "requested_rev": 2,
@@ -29631,7 +29644,9 @@
    "commence_time": "2026-11-07T01:10:00Z",
    "event_id": "1c60a090180de530cfe273a5d6a381e6",
    "home": "Bucks",
-   "issues": [],
+   "issues": [
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_rebounds",
    "players": [],
    "requested_rev": 1,
@@ -31801,7 +31816,9 @@
    "commence_time": "2026-11-07T01:10:00Z",
    "event_id": "1c60a090180de530cfe273a5d6a381e6",
    "home": "Bucks",
-   "issues": [],
+   "issues": [
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_threes",
    "players": [],
    "requested_rev": 1,
@@ -33222,7 +33239,8 @@
    "issues": [
     "2026-11-06T23:43:27Z lock skipped: daily cap reached (30/30)",
     "2026-11-07T00:28:08Z lock skipped: daily cap reached (30/30)",
-    "2026-11-07T00:32:09Z lock skipped: daily cap reached (30/30)"
+    "2026-11-07T00:32:09Z lock skipped: daily cap reached (30/30)",
+    "2026-11-07T00:58:09Z lock skipped: daily cap reached (30/30)"
    ],
    "market": "player_assists",
    "players": [],
@@ -38940,7 +38958,8 @@
    "issues": [
     "2026-11-06T23:43:27Z lock skipped: daily cap reached (30/30)",
     "2026-11-07T00:28:08Z lock skipped: daily cap reached (30/30)",
-    "2026-11-07T00:32:09Z lock skipped: daily cap reached (30/30)"
+    "2026-11-07T00:32:09Z lock skipped: daily cap reached (30/30)",
+    "2026-11-07T00:58:09Z lock skipped: daily cap reached (30/30)"
    ],
    "market": "player_threes",
    "players": [],
@@ -38955,7 +38974,9 @@
    "commence_time": "2026-11-07T01:10:00Z",
    "event_id": "86684f64a8ec8385537a36c3b3768935",
    "home": "Grizzlies",
-   "issues": [],
+   "issues": [
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_assists",
    "players": [],
    "requested_rev": 1,
@@ -40613,7 +40634,9 @@
    "commence_time": "2026-11-07T01:10:00Z",
    "event_id": "86684f64a8ec8385537a36c3b3768935",
    "home": "Grizzlies",
-   "issues": [],
+   "issues": [
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_points",
    "players": [],
    "requested_rev": 1,
@@ -44087,7 +44110,9 @@
    "commence_time": "2026-11-07T01:10:00Z",
    "event_id": "86684f64a8ec8385537a36c3b3768935",
    "home": "Grizzlies",
-   "issues": [],
+   "issues": [
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_rebounds",
    "players": [],
    "requested_rev": 1,
@@ -46713,7 +46738,9 @@
    "commence_time": "2026-11-07T01:10:00Z",
    "event_id": "86684f64a8ec8385537a36c3b3768935",
    "home": "Grizzlies",
-   "issues": [],
+   "issues": [
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_threes",
    "players": [],
    "requested_rev": 1,
@@ -48563,7 +48590,9 @@
    "commence_time": "2026-11-07T01:10:00Z",
    "event_id": "5e4708fadda49a3c06fd7ac50414020e",
    "home": "Pelicans",
-   "issues": [],
+   "issues": [
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_assists",
    "players": [],
    "requested_rev": 1,
@@ -50397,7 +50426,9 @@
    "commence_time": "2026-11-07T01:10:00Z",
    "event_id": "5e4708fadda49a3c06fd7ac50414020e",
    "home": "Pelicans",
-   "issues": [],
+   "issues": [
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_points",
    "players": [],
    "requested_rev": 1,
@@ -53439,7 +53470,9 @@
    "commence_time": "2026-11-07T01:10:00Z",
    "event_id": "5e4708fadda49a3c06fd7ac50414020e",
    "home": "Pelicans",
-   "issues": [],
+   "issues": [
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_rebounds",
    "players": [],
    "requested_rev": 1,
@@ -55857,7 +55890,9 @@
    "commence_time": "2026-11-07T01:10:00Z",
    "event_id": "5e4708fadda49a3c06fd7ac50414020e",
    "home": "Pelicans",
-   "issues": [],
+   "issues": [
+    "2026-11-07T00:58:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_threes",
    "players": [],
    "requested_rev": 1,
@@ -74174,5 +74209,5 @@
  "spent_month": 98,
  "spent_today": 30,
  "stop": null,
- "updated": "2026-11-07T00:32:09Z"
+ "updated": "2026-11-07T00:58:09Z"
 }
