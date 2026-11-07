@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "updated_et": "2026-11-07 11:28",
+ "updated_et": "2026-11-07 14:05",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -12,10 +12,10 @@
    "away_name": "Denver Nuggets",
    "home_name": "Indiana Pacers",
    "state": "pre",
-   "spread_text": "DEN -7.5",
-   "spread": 7.5,
+   "spread_text": "DEN -8.5",
+   "spread": 8.5,
    "total": 229.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -28,8 +28,8 @@
    "state": "pre",
    "spread_text": "ATL -7.5",
    "spread": -7.5,
-   "total": 226.5,
-   "odds_source": "DraftKings",
+   "total": 227.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -40,10 +40,10 @@
    "away_name": "New York Knicks",
    "home_name": "Cleveland Cavaliers",
    "state": "pre",
-   "spread_text": "NY -4.5",
-   "spread": 4.5,
+   "spread_text": "NY -5.5",
+   "spread": 5.5,
    "total": 224.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -57,7 +57,7 @@
    "spread_text": "OKC -12.5",
    "spread": -12.5,
    "total": 222.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -71,7 +71,7 @@
    "spread_text": "GS -5.5",
    "spread": -5.5,
    "total": 222.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "HOU -6.5",
    "spread": 6.5,
    "total": 223.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -98,8 +98,8 @@
    "state": "pre",
    "spread_text": "SA -5.5",
    "spread": 5.5,
-   "total": 226.5,
-   "odds_source": "DraftKings",
+   "total": 228.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   }
  ],
@@ -107,31 +107,31 @@
   "Atlanta Hawks": [
    {
     "player": "Keshon Gilbert",
-    "status": "Day-To-Day",
-    "detail": "Gilbert is out for Friday's game against the Wizards due to left knee inflammation.",
-    "type": "day-to-day",
-    "updated": "2026-11-07T15:08Z"
+    "status": "Out",
+    "detail": "Gilbert (knee) is out for Saturday's game against Brooklyn.",
+    "type": "out",
+    "updated": "2026-11-07T18:17Z"
    },
    {
     "player": "Asa Newell",
-    "status": "Day-To-Day",
-    "detail": "Newell (toe) is out for Friday's game against Washington.",
-    "type": "day-to-day",
-    "updated": "2026-11-07T15:07Z"
-   },
-   {
-    "player": "Jalen Johnson",
     "status": "Out",
-    "detail": "Johnson (ankle) is out for Friday's game against the Wizards.",
+    "detail": "Newell (toe)  is out for Saturday's game against the Nets.",
     "type": "out",
-    "updated": "2026-11-06T22:06Z"
+    "updated": "2026-11-07T18:16Z"
    },
    {
     "player": "Jock Landale",
     "status": "Out",
-    "detail": "Landale (hip) has been ruled out for Friday's game against the Wizards.",
+    "detail": "Landale (hip) has been ruled out for Saturday's game against the Nets.",
     "type": "out",
-    "updated": "2026-11-05T22:12Z"
+    "updated": "2026-11-07T18:14Z"
+   },
+   {
+    "player": "Jalen Johnson",
+    "status": "Out",
+    "detail": "Johnson (ankle) is probable for Saturday's game against Brooklyn.",
+    "type": "out",
+    "updated": "2026-11-07T18:10Z"
    },
    {
     "player": "Mouhamed Gueye",
@@ -169,36 +169,29 @@
     "detail": "The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-Keaton of USA Today reports Thursday.",
     "type": "out",
     "updated": "2026-10-29T17:09Z"
-   },
-   {
-    "player": "Tyler Bilodeau",
-    "status": "Out",
-    "detail": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.",
-    "type": "out",
-    "updated": "2026-10-25T17:19Z"
    }
   ],
   "Cleveland Cavaliers": [
    {
+    "player": "Jaylon Tyson",
+    "status": "Out",
+    "detail": "Tyson (ankle) is out for Saturday's game against the Knicks.",
+    "type": "out",
+    "updated": "2026-11-07T18:14Z"
+   },
+   {
     "player": "Sam Merrill",
-    "status": "Day-To-Day",
-    "detail": "Merrill (elbow) won't return to Friday's game against the 76ers, Dave McMenamin of ESPN.com reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-07T15:08Z"
+    "status": "Out",
+    "detail": "Merrill (elbow) is out for Saturday's game against the Knicks.",
+    "type": "out",
+    "updated": "2026-11-07T18:13Z"
    },
    {
     "player": "Jarrett Allen",
-    "status": "Day-To-Day",
-    "detail": "Allen (knee) is out for Friday's game against the 76ers.",
-    "type": "day-to-day",
-    "updated": "2026-11-07T15:07Z"
-   },
-   {
-    "player": "Jaylon Tyson",
     "status": "Out",
-    "detail": "Tyson (ankle) is out for Friday's game against the 76ers.",
+    "detail": "Allen (knee) is out for Saturday's game against the Knicks",
     "type": "out",
-    "updated": "2026-11-05T22:23Z"
+    "updated": "2026-11-07T18:11Z"
    }
   ],
   "Denver Nuggets": [
@@ -497,5 +490,41 @@
    }
   ]
  },
- "status_changes": []
+ "status_changes": [
+  {
+   "at_et": "2026-11-07 14:05",
+   "team": "Atlanta Hawks",
+   "player": "Keshon Gilbert",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-07 14:05",
+   "team": "Atlanta Hawks",
+   "player": "Asa Newell",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-07 14:05",
+   "team": "Brooklyn Nets",
+   "player": "Tyler Bilodeau",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-07 14:05",
+   "team": "Cleveland Cavaliers",
+   "player": "Sam Merrill",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-07 14:05",
+   "team": "Cleveland Cavaliers",
+   "player": "Jarrett Allen",
+   "from": "Day-To-Day",
+   "to": "Out"
+  }
+ ]
 }
