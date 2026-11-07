@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "updated_et": "2026-11-07 14:37",
+ "updated_et": "2026-11-07 14:45",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -15,7 +15,7 @@
    "spread_text": "DEN -7.5",
    "spread": 7.5,
    "total": 229.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -26,10 +26,10 @@
    "away_name": "Brooklyn Nets",
    "home_name": "Atlanta Hawks",
    "state": "pre",
-   "spread_text": "ATL -7.5",
-   "spread": -7.5,
+   "spread_text": "ATL -6.5",
+   "spread": -6.5,
    "total": 226.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -43,7 +43,7 @@
    "spread_text": "NY -5.5",
    "spread": 5.5,
    "total": 224.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -57,7 +57,7 @@
    "spread_text": "OKC -12.5",
    "spread": -12.5,
    "total": 222.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -71,7 +71,7 @@
    "spread_text": "GS -6.5",
    "spread": -6.5,
    "total": 220.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "HOU -6.5",
    "spread": 6.5,
    "total": 223.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -99,7 +99,7 @@
    "spread_text": "SA -4.5",
    "spread": 4.5,
    "total": 229.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
@@ -355,6 +355,13 @@
   ],
   "Orlando Magic": [
    {
+    "player": "Desmond Bane",
+    "status": "Out",
+    "detail": "Bane delivered 19 points (7-13 FG, 5-9 3Pt), two rebounds, an assist, two steals and a block across 40 minutes in Sunday's 108-97 loss to the Celtics.",
+    "type": "out",
+    "updated": "2026-11-07T19:31Z"
+   },
+   {
     "player": "Jonathan Isaac",
     "status": "Out",
     "detail": "Orlando recalled Isaac (knee) from the G League's Osceola Magic on Wednesday.",
@@ -531,6 +538,13 @@
    "team": "Oklahoma City Thunder",
    "player": "Jaylin Williams",
    "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-07 14:45",
+   "team": "Orlando Magic",
+   "player": "Desmond Bane",
+   "from": "not listed",
    "to": "Out"
   }
  ]
