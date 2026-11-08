@@ -1,6 +1,6 @@
 {
  "date": "2026-11-08",
- "updated_et": "2026-11-08 14:57",
+ "updated_et": "2026-11-08 17:51",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,11 +11,11 @@
    "home": "CHI",
    "away_name": "Philadelphia 76ers",
    "home_name": "Chicago Bulls",
-   "state": "pre",
-   "spread_text": "PHI -9.5",
-   "spread": 9.5,
-   "total": 237.5,
-   "odds_source": "Draft Kings",
+   "state": "post",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -26,10 +26,10 @@
    "away_name": "Los Angeles Lakers",
    "home_name": "Detroit Pistons",
    "state": "pre",
-   "spread_text": "DET -6.5",
-   "spread": -6.5,
-   "total": 217.5,
-   "odds_source": "Draft Kings",
+   "spread_text": "DET -8.5",
+   "spread": -8.5,
+   "total": 216.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -43,7 +43,7 @@
    "spread_text": "MIN -11.5",
    "spread": -11.5,
    "total": 222.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -56,8 +56,8 @@
    "state": "pre",
    "spread_text": "DAL -7.5",
    "spread": -7.5,
-   "total": 222.5,
-   "odds_source": "Draft Kings",
+   "total": 223.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -70,8 +70,8 @@
    "state": "pre",
    "spread_text": "BOS -13.5",
    "spread": 13.5,
-   "total": 222.5,
-   "odds_source": "Draft Kings",
+   "total": 221.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "NO -1.5",
    "spread": 1.5,
    "total": 226.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -96,10 +96,10 @@
    "away_name": "Miami Heat",
    "home_name": "Sacramento Kings",
    "state": "pre",
-   "spread_text": "MIA -10.5",
-   "spread": 10.5,
+   "spread_text": "MIA -9.5",
+   "spread": 9.5,
    "total": 237.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
@@ -273,13 +273,6 @@
   ],
   "Philadelphia 76ers": [
    {
-    "player": "Joel Embiid",
-    "status": "Day-To-Day",
-    "detail": "Embiid (foot) is probable for Sunday's game against the Bulls.",
-    "type": "day-to-day",
-    "updated": "2026-11-07T23:12Z"
-   },
-   {
     "player": "Adem Bona",
     "status": "Out",
     "detail": "Bona (back) is out for Sunday's game in Chicago.",
@@ -302,13 +295,6 @@
    }
   ],
   "Sacramento Kings": [
-   {
-    "player": "Keegan Murray",
-    "status": "Out",
-    "detail": "Murray (ankle) is questionable for Sunday's game against the Heat.",
-    "type": "out",
-    "updated": "2026-11-08T01:30Z"
-   },
    {
     "player": "Maxime Raynaud",
     "status": "Out",
@@ -410,6 +396,20 @@
    "team": "Chicago Bulls",
    "player": "Jalen Smith",
    "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-08 17:51",
+   "team": "Philadelphia 76ers",
+   "player": "Joel Embiid",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-08 17:51",
+   "team": "Sacramento Kings",
+   "player": "Keegan Murray",
+   "from": "Out",
    "to": "removed from report"
   }
  ]

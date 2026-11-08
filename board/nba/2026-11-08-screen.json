@@ -1,7 +1,26 @@
 {
 "date": "2026-11-08",
-"built": "2026-11-08T19:57:34Z",
+"built": "2026-11-08T22:51:45Z",
 "rows": [
+{
+"market": "pra",
+"player": "Jaylen Brown",
+"line": 31.5,
+"side": "over",
+"book": "fanduel",
+"price": -115,
+"fair": 0.5541,
+"edge": 0.036,
+"n_other": 1,
+"other_books": [
+"bovada"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
+},
 {
 "market": "rebounds",
 "player": "Rudy Gobert",
@@ -27,6 +46,30 @@
 "tip": "2026-11-09T00:10:00Z",
 "api_away": "Utah Jazz",
 "api_home": "Minnesota Timberwolves"
+},
+{
+"market": "pra",
+"player": "Joel Embiid",
+"line": 33.5,
+"side": "over",
+"book": "fanduel",
+"price": -108,
+"fair": 0.5137,
+"edge": -0.0106,
+"n_other": 6,
+"other_books": [
+"betmgm",
+"betonlineag",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
 },
 {
 "market": "assists",
@@ -78,51 +121,6 @@
 "tip": "2026-11-09T02:10:00Z",
 "api_away": "Miami Heat",
 "api_home": "Sacramento Kings"
-},
-{
-"market": "pra",
-"player": "Jaylen Brown",
-"line": 31.5,
-"side": "over",
-"book": "fanduel",
-"price": -122,
-"fair": 0.5408,
-"edge": -0.0159,
-"n_other": 1,
-"other_books": [
-"bovada"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
-},
-{
-"market": "pra",
-"player": "VJ Edgecombe",
-"line": 22.5,
-"side": "over",
-"book": "fanduel",
-"price": -104,
-"fair": 0.5014,
-"edge": -0.0165,
-"n_other": 8,
-"other_books": [
-"betmgm",
-"betonlineag",
-"betparx",
-"betrivers",
-"bovada",
-"draftkings",
-"espnbet",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
 },
 {
 "market": "points",
@@ -195,6 +193,32 @@
 "tip": "2026-11-09T02:10:00Z",
 "api_away": "Miami Heat",
 "api_home": "Sacramento Kings"
+},
+{
+"market": "pra",
+"player": "VJ Edgecombe",
+"line": 22.5,
+"side": "over",
+"book": "fanduel",
+"price": -106,
+"fair": 0.5024,
+"edge": -0.0237,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
 },
 {
 "market": "pra",
@@ -288,27 +312,6 @@
 "tip": "2026-11-09T00:10:00Z",
 "api_away": "Utah Jazz",
 "api_home": "Minnesota Timberwolves"
-},
-{
-"market": "pra",
-"player": "Dean Wade",
-"line": 9.5,
-"side": "under",
-"book": "draftkings",
-"price": -109,
-"fair": 0.5072,
-"edge": -0.0274,
-"n_other": 3,
-"other_books": [
-"betonlineag",
-"espnbet",
-"fanduel"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
 },
 {
 "market": "pra",
@@ -536,6 +539,31 @@
 "api_home": "Minnesota Timberwolves"
 },
 {
+"market": "pra",
+"player": "Matas Buzelis",
+"line": 21.5,
+"side": "over",
+"book": "fanduel",
+"price": -104,
+"fair": 0.4924,
+"edge": -0.0341,
+"n_other": 7,
+"other_books": [
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
+},
+{
 "market": "assists",
 "player": "Zach LaVine",
 "line": 2.5,
@@ -560,6 +588,28 @@
 "tip": "2026-11-09T02:10:00Z",
 "api_away": "Miami Heat",
 "api_home": "Sacramento Kings"
+},
+{
+"market": "pra",
+"player": "Tre Jones",
+"line": 17.5,
+"side": "under",
+"book": "draftkings",
+"price": -104,
+"fair": 0.4919,
+"edge": -0.0351,
+"n_other": 4,
+"other_books": [
+"betonlineag",
+"bovada",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
 },
 {
 "market": "points",
@@ -611,30 +661,6 @@
 "api_home": "Minnesota Timberwolves"
 },
 {
-"market": "pra",
-"player": "Tyrese Maxey",
-"line": 34.5,
-"side": "over",
-"book": "fanduel",
-"price": -113,
-"fair": 0.5112,
-"edge": -0.0365,
-"n_other": 6,
-"other_books": [
-"betmgm",
-"betonlineag",
-"bovada",
-"draftkings",
-"espnbet",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
-},
-{
 "market": "rebounds",
 "player": "Jonathan Kuminga",
 "line": 5.5,
@@ -680,31 +706,6 @@
 "tip": "2026-11-09T00:10:00Z",
 "api_away": "Utah Jazz",
 "api_home": "Minnesota Timberwolves"
-},
-{
-"market": "pra",
-"player": "Jaylen Brown",
-"line": 32.5,
-"side": "under",
-"book": "draftkings",
-"price": -110,
-"fair": 0.5045,
-"edge": -0.0369,
-"n_other": 7,
-"other_books": [
-"betmgm",
-"betonlineag",
-"betparx",
-"betrivers",
-"bovada",
-"espnbet",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
 },
 {
 "market": "pra",
@@ -1029,30 +1030,6 @@
 "api_home": "Los Angeles Clippers"
 },
 {
-"market": "pra",
-"player": "Anfernee Simons",
-"line": 13.5,
-"side": "over",
-"book": "fanduel",
-"price": 100,
-"fair": 0.4795,
-"edge": -0.041,
-"n_other": 6,
-"other_books": [
-"betparx",
-"betrivers",
-"bovada",
-"draftkings",
-"espnbet",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
-},
-{
 "market": "points",
 "player": "Precious Achiuwa",
 "line": 8.5,
@@ -1105,32 +1082,6 @@
 },
 {
 "market": "pra",
-"player": "LeBron James",
-"line": 31.5,
-"side": "under",
-"book": "draftkings",
-"price": -109,
-"fair": 0.4998,
-"edge": -0.0416,
-"n_other": 8,
-"other_books": [
-"betmgm",
-"betonlineag",
-"betparx",
-"betrivers",
-"bovada",
-"espnbet",
-"fanduel",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
-},
-{
-"market": "pra",
 "player": "Pelle Larsson",
 "line": 18.5,
 "side": "under",
@@ -1176,31 +1127,6 @@
 "tip": "2026-11-09T00:10:00Z",
 "api_away": "Utah Jazz",
 "api_home": "Minnesota Timberwolves"
-},
-{
-"market": "pra",
-"player": "Josh Giddey",
-"line": 27.5,
-"side": "over",
-"book": "draftkings",
-"price": -109,
-"fair": 0.4996,
-"edge": -0.0421,
-"n_other": 7,
-"other_books": [
-"betonlineag",
-"betparx",
-"betrivers",
-"bovada",
-"espnbet",
-"fanduel",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
 },
 {
 "market": "rebounds",
@@ -1326,6 +1252,54 @@
 "api_home": "Sacramento Kings"
 },
 {
+"market": "pra",
+"player": "Caleb Wilson",
+"line": 30.5,
+"side": "over",
+"book": "fanduel",
+"price": -106,
+"fair": 0.4921,
+"edge": -0.0437,
+"n_other": 6,
+"other_books": [
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
+},
+{
+"market": "pra",
+"player": "Anfernee Simons",
+"line": 13.5,
+"side": "under",
+"book": "draftkings",
+"price": -120,
+"fair": 0.5216,
+"edge": -0.0438,
+"n_other": 6,
+"other_books": [
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
+},
+{
 "market": "points",
 "player": "Keegan Murray",
 "line": 9.5,
@@ -1380,23 +1354,47 @@
 {
 "market": "pra",
 "player": "Tyrese Maxey",
-"line": 34.5,
+"line": 35.5,
 "side": "under",
 "book": "draftkings",
-"price": -106,
-"fair": 0.4919,
-"edge": -0.0441,
-"n_other": 6,
+"price": -119,
+"fair": 0.5195,
+"edge": -0.044,
+"n_other": 4,
+"other_books": [
+"betparx",
+"betrivers",
+"bovada",
+"espnbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
+},
+{
+"market": "pra",
+"player": "LeBron James",
+"line": 31.5,
+"side": "under",
+"book": "fanduel",
+"price": -108,
+"fair": 0.4963,
+"edge": -0.0442,
+"n_other": 8,
 "other_books": [
 "betmgm",
 "betonlineag",
+"betparx",
+"betrivers",
 "bovada",
+"draftkings",
 "espnbet",
-"fanduel",
 "hardrockbet"
 ],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
 "tip": "2026-11-08T20:40:00Z",
 "api_away": "Philadelphia 76ers",
 "api_home": "Chicago Bulls"
@@ -1424,30 +1422,6 @@
 "tip": "2026-11-09T02:10:00Z",
 "api_away": "Miami Heat",
 "api_home": "Sacramento Kings"
-},
-{
-"market": "pra",
-"player": "Anfernee Simons",
-"line": 13.5,
-"side": "under",
-"book": "draftkings",
-"price": -121,
-"fair": 0.5233,
-"edge": -0.0443,
-"n_other": 6,
-"other_books": [
-"betparx",
-"betrivers",
-"bovada",
-"espnbet",
-"fanduel",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
 },
 {
 "market": "points",
@@ -1524,31 +1498,6 @@
 },
 {
 "market": "pra",
-"player": "Matas Buzelis",
-"line": 21.5,
-"side": "over",
-"book": "fanduel",
-"price": -106,
-"fair": 0.4913,
-"edge": -0.0452,
-"n_other": 7,
-"other_books": [
-"betonlineag",
-"betparx",
-"betrivers",
-"bovada",
-"draftkings",
-"espnbet",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
-},
-{
-"market": "pra",
 "player": "Giannis Antetokounmpo",
 "line": 48.5,
 "side": "over",
@@ -1570,6 +1519,30 @@
 "tip": "2026-11-09T02:10:00Z",
 "api_away": "Miami Heat",
 "api_home": "Sacramento Kings"
+},
+{
+"market": "pra",
+"player": "Joel Embiid",
+"line": 33.5,
+"side": "under",
+"book": "draftkings",
+"price": -106,
+"fair": 0.4911,
+"edge": -0.0457,
+"n_other": 6,
+"other_books": [
+"betmgm",
+"betonlineag",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
 },
 {
 "market": "points",
@@ -1621,26 +1594,22 @@
 },
 {
 "market": "pra",
-"player": "VJ Edgecombe",
-"line": 22.5,
+"player": "Tyrese Maxey",
+"line": 34.5,
 "side": "under",
-"book": "draftkings",
-"price": -111,
-"fair": 0.5019,
-"edge": -0.046,
-"n_other": 8,
+"book": "fanduel",
+"price": -104,
+"fair": 0.4863,
+"edge": -0.0462,
+"n_other": 4,
 "other_books": [
 "betmgm",
 "betonlineag",
-"betparx",
-"betrivers",
 "bovada",
-"espnbet",
-"fanduel",
 "hardrockbet"
 ],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
 "tip": "2026-11-08T20:40:00Z",
 "api_away": "Philadelphia 76ers",
 "api_home": "Chicago Bulls"
@@ -1667,29 +1636,6 @@
 "tip": "2026-11-09T02:10:00Z",
 "api_away": "Miami Heat",
 "api_home": "Sacramento Kings"
-},
-{
-"market": "pra",
-"player": "Caleb Wilson",
-"line": 30.5,
-"side": "under",
-"book": "draftkings",
-"price": -118,
-"fair": 0.5162,
-"edge": -0.0464,
-"n_other": 5,
-"other_books": [
-"betonlineag",
-"betparx",
-"betrivers",
-"bovada",
-"fanduel"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
 },
 {
 "market": "assists",
@@ -1790,28 +1736,6 @@
 "api_home": "Minnesota Timberwolves"
 },
 {
-"market": "pra",
-"player": "Jalen Smith",
-"line": 19.5,
-"side": "over",
-"book": "fanduel",
-"price": -115,
-"fair": 0.5096,
-"edge": -0.0472,
-"n_other": 4,
-"other_books": [
-"betonlineag",
-"draftkings",
-"espnbet",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
-},
-{
 "market": "rebounds",
 "player": "Keyonte George",
 "line": 3.5,
@@ -1836,29 +1760,6 @@
 "tip": "2026-11-09T00:10:00Z",
 "api_away": "Utah Jazz",
 "api_home": "Minnesota Timberwolves"
-},
-{
-"market": "pra",
-"player": "Caleb Wilson",
-"line": 30.5,
-"side": "under",
-"book": "fanduel",
-"price": -118,
-"fair": 0.5155,
-"edge": -0.0476,
-"n_other": 5,
-"other_books": [
-"betonlineag",
-"betparx",
-"betrivers",
-"bovada",
-"draftkings"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
 },
 {
 "market": "points",
@@ -2007,6 +1908,29 @@
 },
 {
 "market": "pra",
+"player": "Jalen Smith",
+"line": 19.5,
+"side": "under",
+"book": "fanduel",
+"price": -106,
+"fair": 0.4894,
+"edge": -0.0488,
+"n_other": 5,
+"other_books": [
+"betonlineag",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
+},
+{
+"market": "pra",
 "player": "Andrew Wiggins",
 "line": 15.5,
 "side": "under",
@@ -2053,6 +1977,29 @@
 "tip": "2026-11-09T00:10:00Z",
 "api_away": "Utah Jazz",
 "api_home": "Minnesota Timberwolves"
+},
+{
+"market": "pra",
+"player": "Josh Giddey",
+"line": 27.5,
+"side": "over",
+"book": "fanduel",
+"price": -113,
+"fair": 0.5045,
+"edge": -0.0491,
+"n_other": 5,
+"other_books": [
+"betonlineag",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
 },
 {
 "market": "rebounds",
@@ -2228,6 +2175,30 @@
 },
 {
 "market": "pra",
+"player": "Caleb Wilson",
+"line": 30.5,
+"side": "under",
+"book": "draftkings",
+"price": -116,
+"fair": 0.5098,
+"edge": -0.0507,
+"n_other": 6,
+"other_books": [
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
+},
+{
+"market": "pra",
 "player": "Saddiq Bey",
 "line": 18.5,
 "side": "over",
@@ -2297,6 +2268,31 @@
 "tip": "2026-11-09T02:10:00Z",
 "api_away": "New Orleans Pelicans",
 "api_home": "Los Angeles Clippers"
+},
+{
+"market": "pra",
+"player": "Jaylen Brown",
+"line": 32.5,
+"side": "under",
+"book": "draftkings",
+"price": -112,
+"fair": 0.5011,
+"edge": -0.0514,
+"n_other": 7,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
 },
 {
 "market": "points",
@@ -2494,6 +2490,56 @@
 "api_home": "Sacramento Kings"
 },
 {
+"market": "pra",
+"player": "Anfernee Simons",
+"line": 13.5,
+"side": "under",
+"book": "fanduel",
+"price": -122,
+"fair": 0.5203,
+"edge": -0.0532,
+"n_other": 6,
+"other_books": [
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
+},
+{
+"market": "pra",
+"player": "VJ Edgecombe",
+"line": 22.5,
+"side": "under",
+"book": "draftkings",
+"price": -112,
+"fair": 0.5002,
+"edge": -0.0532,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
+},
+{
 "market": "points",
 "player": "Bam Adebayo",
 "line": 19.5,
@@ -2584,27 +2630,6 @@
 "api_home": "Sacramento Kings"
 },
 {
-"market": "pra",
-"player": "Dean Wade",
-"line": 9.5,
-"side": "over",
-"book": "fanduel",
-"price": -111,
-"fair": 0.4979,
-"edge": -0.0536,
-"n_other": 3,
-"other_books": [
-"betonlineag",
-"draftkings",
-"espnbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
-},
-{
 "market": "points",
 "player": "Malik Monk",
 "line": 9.5,
@@ -2649,31 +2674,6 @@
 "api_home": "Minnesota Timberwolves"
 },
 {
-"market": "pra",
-"player": "Josh Giddey",
-"line": 27.5,
-"side": "under",
-"book": "fanduel",
-"price": -113,
-"fair": 0.502,
-"edge": -0.0537,
-"n_other": 7,
-"other_books": [
-"betonlineag",
-"betparx",
-"betrivers",
-"bovada",
-"draftkings",
-"espnbet",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
-},
-{
 "market": "points",
 "player": "Ayo Dosunmu",
 "line": 18.5,
@@ -2695,32 +2695,6 @@
 "tip": "2026-11-09T00:10:00Z",
 "api_away": "Utah Jazz",
 "api_home": "Minnesota Timberwolves"
-},
-{
-"market": "pra",
-"player": "LeBron James",
-"line": 31.5,
-"side": "over",
-"book": "fanduel",
-"price": -113,
-"fair": 0.5017,
-"edge": -0.0543,
-"n_other": 8,
-"other_books": [
-"betmgm",
-"betonlineag",
-"betparx",
-"betrivers",
-"bovada",
-"draftkings",
-"espnbet",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
 },
 {
 "market": "pra",
@@ -2792,30 +2766,6 @@
 "tip": "2026-11-09T00:10:00Z",
 "api_away": "Utah Jazz",
 "api_home": "Minnesota Timberwolves"
-},
-{
-"market": "pra",
-"player": "Joel Embiid",
-"line": 34.5,
-"side": "under",
-"book": "fanduel",
-"price": -120,
-"fair": 0.5155,
-"edge": -0.0549,
-"n_other": 6,
-"other_books": [
-"betparx",
-"betrivers",
-"bovada",
-"draftkings",
-"espnbet",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
 },
 {
 "market": "pra",
@@ -3012,6 +2962,28 @@
 },
 {
 "market": "pra",
+"player": "Dean Wade",
+"line": 9.5,
+"side": "under",
+"book": "fanduel",
+"price": -120,
+"fair": 0.515,
+"edge": -0.0558,
+"n_other": 4,
+"other_books": [
+"betonlineag",
+"bovada",
+"draftkings",
+"espnbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
+},
+{
+"market": "pra",
 "player": "LaMelo Ball",
 "line": 33.5,
 "side": "under",
@@ -3158,15 +3130,17 @@
 },
 {
 "market": "pra",
-"player": "Joel Embiid",
-"line": 34.5,
-"side": "over",
+"player": "LeBron James",
+"line": 31.5,
+"side": "under",
 "book": "draftkings",
-"price": -106,
-"fair": 0.4851,
+"price": -111,
+"fair": 0.496,
 "edge": -0.0572,
-"n_other": 6,
+"n_other": 8,
 "other_books": [
+"betmgm",
+"betonlineag",
 "betparx",
 "betrivers",
 "bovada",
@@ -3174,8 +3148,8 @@
 "fanduel",
 "hardrockbet"
 ],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
 "tip": "2026-11-08T20:40:00Z",
 "api_away": "Philadelphia 76ers",
 "api_home": "Chicago Bulls"
@@ -3205,6 +3179,51 @@
 "tip": "2026-11-09T00:10:00Z",
 "api_away": "Utah Jazz",
 "api_home": "Minnesota Timberwolves"
+},
+{
+"market": "pra",
+"player": "Jalen Smith",
+"line": 19.5,
+"side": "under",
+"book": "draftkings",
+"price": -108,
+"fair": 0.4894,
+"edge": -0.0575,
+"n_other": 5,
+"other_books": [
+"betonlineag",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
+},
+{
+"market": "pra",
+"player": "Dean Wade",
+"line": 9.5,
+"side": "over",
+"book": "fanduel",
+"price": -106,
+"fair": 0.485,
+"edge": -0.0575,
+"n_other": 4,
+"other_books": [
+"betonlineag",
+"bovada",
+"draftkings",
+"espnbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
 },
 {
 "market": "points",
@@ -3299,6 +3318,31 @@
 "tip": "2026-11-09T00:10:00Z",
 "api_away": "Utah Jazz",
 "api_home": "Minnesota Timberwolves"
+},
+{
+"market": "pra",
+"player": "Matas Buzelis",
+"line": 21.5,
+"side": "over",
+"book": "draftkings",
+"price": -109,
+"fair": 0.4915,
+"edge": -0.0576,
+"n_other": 7,
+"other_books": [
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
 },
 {
 "market": "assists",
@@ -3456,49 +3500,22 @@
 },
 {
 "market": "pra",
-"player": "Joel Embiid",
-"line": 34.5,
-"side": "over",
-"book": "fanduel",
-"price": -106,
-"fair": 0.4845,
-"edge": -0.0584,
-"n_other": 6,
-"other_books": [
-"betparx",
-"betrivers",
-"bovada",
-"draftkings",
-"espnbet",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
-},
-{
-"market": "pra",
-"player": "Matas Buzelis",
-"line": 21.5,
-"side": "over",
+"player": "Dean Wade",
+"line": 9.5,
+"side": "under",
 "book": "draftkings",
-"price": -109,
-"fair": 0.491,
-"edge": -0.0586,
-"n_other": 7,
+"price": -121,
+"fair": 0.5156,
+"edge": -0.0582,
+"n_other": 4,
 "other_books": [
 "betonlineag",
-"betparx",
-"betrivers",
 "bovada",
 "espnbet",
-"fanduel",
-"hardrockbet"
+"fanduel"
 ],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
 "tip": "2026-11-08T20:40:00Z",
 "api_away": "Philadelphia 76ers",
 "api_home": "Chicago Bulls"
@@ -3526,6 +3543,30 @@
 "tip": "2026-11-09T02:10:00Z",
 "api_away": "New Orleans Pelicans",
 "api_home": "Los Angeles Clippers"
+},
+{
+"market": "pra",
+"player": "Anfernee Simons",
+"line": 13.5,
+"side": "over",
+"book": "fanduel",
+"price": -104,
+"fair": 0.4797,
+"edge": -0.0591,
+"n_other": 6,
+"other_books": [
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
 },
 {
 "market": "rebounds",
@@ -3747,32 +3788,6 @@
 "api_home": "Minnesota Timberwolves"
 },
 {
-"market": "pra",
-"player": "LeBron James",
-"line": 31.5,
-"side": "under",
-"book": "fanduel",
-"price": -113,
-"fair": 0.4983,
-"edge": -0.0607,
-"n_other": 8,
-"other_books": [
-"betmgm",
-"betonlineag",
-"betparx",
-"betrivers",
-"bovada",
-"draftkings",
-"espnbet",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
-},
-{
 "market": "assists",
 "player": "Giannis Antetokounmpo",
 "line": 6.5,
@@ -3796,27 +3811,6 @@
 "tip": "2026-11-09T02:10:00Z",
 "api_away": "Miami Heat",
 "api_home": "Sacramento Kings"
-},
-{
-"market": "pra",
-"player": "Tre Jones",
-"line": 18.5,
-"side": "over",
-"book": "draftkings",
-"price": -106,
-"fair": 0.4833,
-"edge": -0.0608,
-"n_other": 3,
-"other_books": [
-"betparx",
-"betrivers",
-"bovada"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
 },
 {
 "market": "pra",
@@ -3868,28 +3862,6 @@
 "tip": "2026-11-09T02:10:00Z",
 "api_away": "Miami Heat",
 "api_home": "Sacramento Kings"
-},
-{
-"market": "pra",
-"player": "Jalen Smith",
-"line": 19.5,
-"side": "under",
-"book": "draftkings",
-"price": -110,
-"fair": 0.4918,
-"edge": -0.061,
-"n_other": 4,
-"other_books": [
-"betonlineag",
-"espnbet",
-"fanduel",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
 },
 {
 "market": "pra",
@@ -4010,52 +3982,6 @@
 "tip": "2026-11-09T02:10:00Z",
 "api_away": "New Orleans Pelicans",
 "api_home": "Los Angeles Clippers"
-},
-{
-"market": "pra",
-"player": "Dean Wade",
-"line": 9.5,
-"side": "under",
-"book": "fanduel",
-"price": -115,
-"fair": 0.5021,
-"edge": -0.0613,
-"n_other": 3,
-"other_books": [
-"betonlineag",
-"draftkings",
-"espnbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
-},
-{
-"market": "pra",
-"player": "Josh Giddey",
-"line": 27.5,
-"side": "over",
-"book": "fanduel",
-"price": -113,
-"fair": 0.498,
-"edge": -0.0614,
-"n_other": 7,
-"other_books": [
-"betonlineag",
-"betparx",
-"betrivers",
-"bovada",
-"draftkings",
-"espnbet",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
 },
 {
 "market": "points",
@@ -4459,6 +4385,29 @@
 "api_home": "Sacramento Kings"
 },
 {
+"market": "pra",
+"player": "Jalen Smith",
+"line": 19.5,
+"side": "over",
+"book": "fanduel",
+"price": -120,
+"fair": 0.5106,
+"edge": -0.064,
+"n_other": 5,
+"other_books": [
+"betonlineag",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
+},
+{
 "market": "points",
 "player": "Keegan Murray",
 "line": 9.5,
@@ -4483,6 +4432,29 @@
 "tip": "2026-11-09T02:10:00Z",
 "api_away": "Miami Heat",
 "api_home": "Sacramento Kings"
+},
+{
+"market": "pra",
+"player": "Josh Giddey",
+"line": 27.5,
+"side": "under",
+"book": "draftkings",
+"price": -113,
+"fair": 0.4963,
+"edge": -0.0644,
+"n_other": 5,
+"other_books": [
+"betonlineag",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
 },
 {
 "market": "points",
@@ -4604,6 +4576,28 @@
 "api_home": "Minnesota Timberwolves"
 },
 {
+"market": "pra",
+"player": "Tyrese Maxey",
+"line": 34.5,
+"side": "over",
+"book": "fanduel",
+"price": -122,
+"fair": 0.5137,
+"edge": -0.0652,
+"n_other": 4,
+"other_books": [
+"betmgm",
+"betonlineag",
+"bovada",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
+},
+{
 "market": "points",
 "player": "Andrew Wiggins",
 "line": 10.5,
@@ -4678,6 +4672,29 @@
 "api_home": "Sacramento Kings"
 },
 {
+"market": "pra",
+"player": "Josh Giddey",
+"line": 27.5,
+"side": "over",
+"book": "draftkings",
+"price": -117,
+"fair": 0.5037,
+"edge": -0.0659,
+"n_other": 5,
+"other_books": [
+"betonlineag",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
+},
+{
 "market": "points",
 "player": "Keegan Murray",
 "line": 9.5,
@@ -4726,6 +4743,29 @@
 "tip": "2026-11-09T02:10:00Z",
 "api_away": "New Orleans Pelicans",
 "api_home": "Los Angeles Clippers"
+},
+{
+"market": "pra",
+"player": "Josh Giddey",
+"line": 27.5,
+"side": "under",
+"book": "fanduel",
+"price": -113,
+"fair": 0.4955,
+"edge": -0.066,
+"n_other": 5,
+"other_books": [
+"betonlineag",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
 },
 {
 "market": "points",
@@ -4823,27 +4863,6 @@
 "api_home": "Minnesota Timberwolves"
 },
 {
-"market": "pra",
-"player": "Tre Jones",
-"line": 18.5,
-"side": "under",
-"book": "draftkings",
-"price": -124,
-"fair": 0.5167,
-"edge": -0.0666,
-"n_other": 3,
-"other_books": [
-"betparx",
-"betrivers",
-"bovada"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
-},
-{
 "market": "rebounds",
 "player": "Keyonte George",
 "line": 3.5,
@@ -4919,29 +4938,6 @@
 "tip": "2026-11-09T00:10:00Z",
 "api_away": "Utah Jazz",
 "api_home": "Minnesota Timberwolves"
-},
-{
-"market": "pra",
-"player": "Caleb Wilson",
-"line": 30.5,
-"side": "over",
-"book": "fanduel",
-"price": -108,
-"fair": 0.4845,
-"edge": -0.067,
-"n_other": 5,
-"other_books": [
-"betonlineag",
-"betparx",
-"betrivers",
-"bovada",
-"draftkings"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
 },
 {
 "market": "pra",
@@ -5043,31 +5039,6 @@
 "api_home": "Sacramento Kings"
 },
 {
-"market": "pra",
-"player": "Matas Buzelis",
-"line": 21.5,
-"side": "under",
-"book": "fanduel",
-"price": -120,
-"fair": 0.5087,
-"edge": -0.0674,
-"n_other": 7,
-"other_books": [
-"betonlineag",
-"betparx",
-"betrivers",
-"bovada",
-"draftkings",
-"espnbet",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
-},
-{
 "market": "rebounds",
 "player": "Terrence Shannon Jr.",
 "line": 2.5,
@@ -5115,28 +5086,6 @@
 "api_home": "Minnesota Timberwolves"
 },
 {
-"market": "pra",
-"player": "Jalen Smith",
-"line": 19.5,
-"side": "under",
-"book": "fanduel",
-"price": -111,
-"fair": 0.4904,
-"edge": -0.0679,
-"n_other": 4,
-"other_books": [
-"betonlineag",
-"draftkings",
-"espnbet",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
-},
-{
 "market": "assists",
 "player": "Giannis Antetokounmpo",
 "line": 6.5,
@@ -5160,28 +5109,6 @@
 "tip": "2026-11-09T02:10:00Z",
 "api_away": "Miami Heat",
 "api_home": "Sacramento Kings"
-},
-{
-"market": "pra",
-"player": "Jalen Smith",
-"line": 19.5,
-"side": "over",
-"book": "draftkings",
-"price": -120,
-"fair": 0.5082,
-"edge": -0.0684,
-"n_other": 4,
-"other_books": [
-"betonlineag",
-"espnbet",
-"fanduel",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
 },
 {
 "market": "points",
@@ -5234,6 +5161,56 @@
 "tip": "2026-11-09T02:10:00Z",
 "api_away": "New Orleans Pelicans",
 "api_home": "Los Angeles Clippers"
+},
+{
+"market": "pra",
+"player": "Caleb Wilson",
+"line": 30.5,
+"side": "under",
+"book": "fanduel",
+"price": -120,
+"fair": 0.5079,
+"edge": -0.0688,
+"n_other": 6,
+"other_books": [
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
+},
+{
+"market": "pra",
+"player": "LeBron James",
+"line": 31.5,
+"side": "over",
+"book": "fanduel",
+"price": -118,
+"fair": 0.5037,
+"edge": -0.0694,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
 },
 {
 "market": "assists",
@@ -5365,30 +5342,6 @@
 "api_home": "Minnesota Timberwolves"
 },
 {
-"market": "pra",
-"player": "Joel Embiid",
-"line": 34.5,
-"side": "under",
-"book": "draftkings",
-"price": -124,
-"fair": 0.5149,
-"edge": -0.0699,
-"n_other": 6,
-"other_books": [
-"betparx",
-"betrivers",
-"bovada",
-"espnbet",
-"fanduel",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
-},
-{
 "market": "points",
 "player": "Darius Acuff Jr.",
 "line": 24.5,
@@ -5457,31 +5410,6 @@
 },
 {
 "market": "pra",
-"player": "Matas Buzelis",
-"line": 21.5,
-"side": "under",
-"book": "draftkings",
-"price": -121,
-"fair": 0.509,
-"edge": -0.0703,
-"n_other": 7,
-"other_books": [
-"betonlineag",
-"betparx",
-"betrivers",
-"bovada",
-"espnbet",
-"fanduel",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
-},
-{
-"market": "pra",
 "player": "Trey Murphy III",
 "line": 23.5,
 "side": "over",
@@ -5503,6 +5431,29 @@
 "tip": "2026-11-09T02:10:00Z",
 "api_away": "New Orleans Pelicans",
 "api_home": "Los Angeles Clippers"
+},
+{
+"market": "pra",
+"player": "Jalen Smith",
+"line": 19.5,
+"side": "over",
+"book": "draftkings",
+"price": -122,
+"fair": 0.5106,
+"edge": -0.0708,
+"n_other": 5,
+"other_books": [
+"betonlineag",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
 },
 {
 "market": "pra",
@@ -5555,6 +5506,53 @@
 "tip": "2026-11-09T00:10:00Z",
 "api_away": "Utah Jazz",
 "api_home": "Minnesota Timberwolves"
+},
+{
+"market": "pra",
+"player": "Matas Buzelis",
+"line": 21.5,
+"side": "under",
+"book": "draftkings",
+"price": -121,
+"fair": 0.5085,
+"edge": -0.0712,
+"n_other": 7,
+"other_books": [
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
+},
+{
+"market": "pra",
+"player": "Dean Wade",
+"line": 9.5,
+"side": "over",
+"book": "draftkings",
+"price": -109,
+"fair": 0.4844,
+"edge": -0.0712,
+"n_other": 4,
+"other_books": [
+"betonlineag",
+"bovada",
+"espnbet",
+"fanduel"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
 },
 {
 "market": "points",
@@ -5774,6 +5772,32 @@
 "api_home": "Sacramento Kings"
 },
 {
+"market": "pra",
+"player": "LeBron James",
+"line": 31.5,
+"side": "over",
+"book": "draftkings",
+"price": -119,
+"fair": 0.504,
+"edge": -0.0724,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
+},
+{
 "market": "points",
 "player": "Giannis Antetokounmpo",
 "line": 29.5,
@@ -5820,30 +5844,6 @@
 "tip": "2026-11-09T00:10:00Z",
 "api_away": "Utah Jazz",
 "api_home": "Minnesota Timberwolves"
-},
-{
-"market": "pra",
-"player": "Anfernee Simons",
-"line": 13.5,
-"side": "under",
-"book": "fanduel",
-"price": -128,
-"fair": 0.5205,
-"edge": -0.0729,
-"n_other": 6,
-"other_books": [
-"betparx",
-"betrivers",
-"bovada",
-"draftkings",
-"espnbet",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
 },
 {
 "market": "points",
@@ -6194,6 +6194,30 @@
 "api_home": "Los Angeles Clippers"
 },
 {
+"market": "pra",
+"player": "Caleb Wilson",
+"line": 30.5,
+"side": "over",
+"book": "draftkings",
+"price": -113,
+"fair": 0.4902,
+"edge": -0.076,
+"n_other": 6,
+"other_books": [
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
+},
+{
 "market": "points",
 "player": "Terrence Shannon Jr.",
 "line": 11.5,
@@ -6318,6 +6342,31 @@
 "api_home": "Minnesota Timberwolves"
 },
 {
+"market": "pra",
+"player": "Matas Buzelis",
+"line": 21.5,
+"side": "under",
+"book": "fanduel",
+"price": -122,
+"fair": 0.5076,
+"edge": -0.0764,
+"n_other": 7,
+"other_books": [
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
+},
+{
 "market": "assists",
 "player": "Andrew Wiggins",
 "line": 1.5,
@@ -6366,6 +6415,32 @@
 "tip": "2026-11-09T00:10:00Z",
 "api_away": "Utah Jazz",
 "api_home": "Minnesota Timberwolves"
+},
+{
+"market": "pra",
+"player": "VJ Edgecombe",
+"line": 22.5,
+"side": "over",
+"book": "draftkings",
+"price": -118,
+"fair": 0.4998,
+"edge": -0.0766,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
 },
 {
 "market": "pra",
@@ -6468,6 +6543,31 @@
 },
 {
 "market": "pra",
+"player": "Jaylen Brown",
+"line": 32.5,
+"side": "over",
+"book": "draftkings",
+"price": -118,
+"fair": 0.4989,
+"edge": -0.0784,
+"n_other": 7,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
+},
+{
+"market": "pra",
 "player": "Trey Murphy III",
 "line": 23.5,
 "side": "over",
@@ -6489,30 +6589,6 @@
 "tip": "2026-11-09T02:10:00Z",
 "api_away": "New Orleans Pelicans",
 "api_home": "Los Angeles Clippers"
-},
-{
-"market": "pra",
-"player": "Tyrese Maxey",
-"line": 34.5,
-"side": "under",
-"book": "fanduel",
-"price": -113,
-"fair": 0.4888,
-"edge": -0.0786,
-"n_other": 6,
-"other_books": [
-"betmgm",
-"betonlineag",
-"bovada",
-"draftkings",
-"espnbet",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
 },
 {
 "market": "rebounds",
@@ -6687,32 +6763,6 @@
 "api_home": "Sacramento Kings"
 },
 {
-"market": "pra",
-"player": "VJ Edgecombe",
-"line": 22.5,
-"side": "over",
-"book": "draftkings",
-"price": -118,
-"fair": 0.4981,
-"edge": -0.0797,
-"n_other": 8,
-"other_books": [
-"betmgm",
-"betonlineag",
-"betparx",
-"betrivers",
-"bovada",
-"espnbet",
-"fanduel",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
-},
-{
 "market": "points",
 "player": "Terrence Shannon Jr.",
 "line": 11.5,
@@ -6734,29 +6784,6 @@
 "tip": "2026-11-09T00:10:00Z",
 "api_away": "Utah Jazz",
 "api_home": "Minnesota Timberwolves"
-},
-{
-"market": "pra",
-"player": "Caleb Wilson",
-"line": 30.5,
-"side": "over",
-"book": "draftkings",
-"price": -111,
-"fair": 0.4838,
-"edge": -0.0803,
-"n_other": 5,
-"other_books": [
-"betonlineag",
-"betparx",
-"betrivers",
-"bovada",
-"fanduel"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
 },
 {
 "market": "points",
@@ -6807,6 +6834,30 @@
 "tip": "2026-11-09T02:10:00Z",
 "api_away": "Miami Heat",
 "api_home": "Sacramento Kings"
+},
+{
+"market": "pra",
+"player": "Joel Embiid",
+"line": 33.5,
+"side": "over",
+"book": "draftkings",
+"price": -124,
+"fair": 0.5089,
+"edge": -0.0806,
+"n_other": 6,
+"other_books": [
+"betmgm",
+"betonlineag",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
 },
 {
 "market": "rebounds",
@@ -6976,30 +7027,6 @@
 "api_home": "Sacramento Kings"
 },
 {
-"market": "pra",
-"player": "Tyrese Maxey",
-"line": 34.5,
-"side": "over",
-"book": "draftkings",
-"price": -124,
-"fair": 0.5081,
-"edge": -0.0821,
-"n_other": 6,
-"other_books": [
-"betmgm",
-"betonlineag",
-"bovada",
-"espnbet",
-"fanduel",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
-},
-{
 "market": "points",
 "player": "Darryn Peterson",
 "line": 15.5,
@@ -7021,31 +7048,6 @@
 "tip": "2026-11-09T00:10:00Z",
 "api_away": "Utah Jazz",
 "api_home": "Minnesota Timberwolves"
-},
-{
-"market": "pra",
-"player": "Josh Giddey",
-"line": 27.5,
-"side": "under",
-"book": "draftkings",
-"price": -120,
-"fair": 0.5004,
-"edge": -0.0825,
-"n_other": 7,
-"other_books": [
-"betonlineag",
-"betparx",
-"betrivers",
-"bovada",
-"espnbet",
-"fanduel",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
 },
 {
 "market": "pra",
@@ -7096,6 +7098,52 @@
 "tip": "2026-11-09T00:10:00Z",
 "api_away": "Utah Jazz",
 "api_home": "Minnesota Timberwolves"
+},
+{
+"market": "pra",
+"player": "Tyrese Maxey",
+"line": 35.5,
+"side": "over",
+"book": "draftkings",
+"price": -110,
+"fair": 0.4805,
+"edge": -0.0827,
+"n_other": 4,
+"other_books": [
+"betparx",
+"betrivers",
+"bovada",
+"espnbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
+},
+{
+"market": "pra",
+"player": "Anfernee Simons",
+"line": 13.5,
+"side": "over",
+"book": "draftkings",
+"price": -109,
+"fair": 0.4784,
+"edge": -0.0827,
+"n_other": 6,
+"other_books": [
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
 },
 {
 "market": "pra",
@@ -7452,30 +7500,6 @@
 },
 {
 "market": "pra",
-"player": "Anfernee Simons",
-"line": 13.5,
-"side": "over",
-"book": "draftkings",
-"price": -109,
-"fair": 0.4767,
-"edge": -0.0859,
-"n_other": 6,
-"other_books": [
-"betparx",
-"betrivers",
-"bovada",
-"espnbet",
-"fanduel",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
-},
-{
-"market": "pra",
 "player": "Ayo Dosunmu",
 "line": 28.5,
 "side": "over",
@@ -7499,32 +7523,6 @@
 "tip": "2026-11-09T00:10:00Z",
 "api_away": "Utah Jazz",
 "api_home": "Minnesota Timberwolves"
-},
-{
-"market": "pra",
-"player": "LeBron James",
-"line": 31.5,
-"side": "over",
-"book": "draftkings",
-"price": -121,
-"fair": 0.5002,
-"edge": -0.0865,
-"n_other": 8,
-"other_books": [
-"betmgm",
-"betonlineag",
-"betparx",
-"betrivers",
-"bovada",
-"espnbet",
-"fanduel",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
 },
 {
 "market": "pra",
@@ -7600,6 +7598,32 @@
 },
 {
 "market": "pra",
+"player": "VJ Edgecombe",
+"line": 22.5,
+"side": "under",
+"book": "fanduel",
+"price": -120,
+"fair": 0.4976,
+"edge": -0.0877,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
+},
+{
+"market": "pra",
 "player": "Keyonte George",
 "line": 32.5,
 "side": "over",
@@ -7670,6 +7694,28 @@
 "tip": "2026-11-09T02:10:00Z",
 "api_away": "Miami Heat",
 "api_home": "Sacramento Kings"
+},
+{
+"market": "pra",
+"player": "Tre Jones",
+"line": 17.5,
+"side": "over",
+"book": "draftkings",
+"price": -126,
+"fair": 0.5081,
+"edge": -0.0887,
+"n_other": 4,
+"other_books": [
+"betonlineag",
+"bovada",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
 },
 {
 "market": "rebounds",
@@ -7788,31 +7834,6 @@
 },
 {
 "market": "pra",
-"player": "Jaylen Brown",
-"line": 32.5,
-"side": "over",
-"book": "draftkings",
-"price": -120,
-"fair": 0.4955,
-"edge": -0.0915,
-"n_other": 7,
-"other_books": [
-"betmgm",
-"betonlineag",
-"betparx",
-"betrivers",
-"bovada",
-"espnbet",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
-},
-{
-"market": "pra",
 "player": "Darius Garland",
 "line": 31.5,
 "side": "over",
@@ -7861,32 +7882,6 @@
 "tip": "2026-11-09T00:10:00Z",
 "api_away": "Utah Jazz",
 "api_home": "Minnesota Timberwolves"
-},
-{
-"market": "pra",
-"player": "VJ Edgecombe",
-"line": 22.5,
-"side": "under",
-"book": "fanduel",
-"price": -122,
-"fair": 0.4986,
-"edge": -0.0927,
-"n_other": 8,
-"other_books": [
-"betmgm",
-"betonlineag",
-"betparx",
-"betrivers",
-"bovada",
-"draftkings",
-"espnbet",
-"hardrockbet"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
 },
 {
 "market": "points",
@@ -8039,27 +8034,6 @@
 },
 {
 "market": "pra",
-"player": "Dean Wade",
-"line": 9.5,
-"side": "over",
-"book": "draftkings",
-"price": -120,
-"fair": 0.4928,
-"edge": -0.0966,
-"n_other": 3,
-"other_books": [
-"betonlineag",
-"espnbet",
-"fanduel"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
-},
-{
-"market": "pra",
 "player": "Zach LaVine",
 "line": 26.5,
 "side": "over",
@@ -8107,25 +8081,6 @@
 "tip": "2026-11-09T02:10:00Z",
 "api_away": "Miami Heat",
 "api_home": "Sacramento Kings"
-},
-{
-"market": "pra",
-"player": "Jaylen Brown",
-"line": 31.5,
-"side": "under",
-"book": "fanduel",
-"price": -104,
-"fair": 0.4592,
-"edge": -0.0992,
-"n_other": 1,
-"other_books": [
-"bovada"
-],
-"price_ts": "2026-11-08T19:25:29Z",
-"snapshot": "lock",
-"tip": "2026-11-08T20:40:00Z",
-"api_away": "Philadelphia 76ers",
-"api_home": "Chicago Bulls"
 },
 {
 "market": "points",
@@ -8176,6 +8131,30 @@
 "tip": "2026-11-09T02:10:00Z",
 "api_away": "Miami Heat",
 "api_home": "Sacramento Kings"
+},
+{
+"market": "pra",
+"player": "Joel Embiid",
+"line": 33.5,
+"side": "under",
+"book": "fanduel",
+"price": -118,
+"fair": 0.4863,
+"edge": -0.1016,
+"n_other": 6,
+"other_books": [
+"betmgm",
+"betonlineag",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
 },
 {
 "market": "pra",
@@ -8321,6 +8300,25 @@
 "tip": "2026-11-09T00:10:00Z",
 "api_away": "Utah Jazz",
 "api_home": "Minnesota Timberwolves"
+},
+{
+"market": "pra",
+"player": "Jaylen Brown",
+"line": 31.5,
+"side": "under",
+"book": "fanduel",
+"price": -111,
+"fair": 0.4459,
+"edge": -0.1525,
+"n_other": 1,
+"other_books": [
+"bovada"
+],
+"price_ts": "2026-11-08T20:28:08Z",
+"snapshot": "close",
+"tip": "2026-11-08T20:40:00Z",
+"api_away": "Philadelphia 76ers",
+"api_home": "Chicago Bulls"
 }
 ]
 }
