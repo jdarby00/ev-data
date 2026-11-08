@@ -1,6 +1,6 @@
 {
  "date": "2026-11-08",
- "updated_et": "2026-11-08 17:51",
+ "updated_et": "2026-11-08 17:58",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -29,7 +29,7 @@
    "spread_text": "DET -8.5",
    "spread": -8.5,
    "total": 216.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -43,7 +43,7 @@
    "spread_text": "MIN -11.5",
    "spread": -11.5,
    "total": 222.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -57,7 +57,7 @@
    "spread_text": "DAL -7.5",
    "spread": -7.5,
    "total": 223.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -71,7 +71,7 @@
    "spread_text": "BOS -13.5",
    "spread": 13.5,
    "total": 221.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "NO -1.5",
    "spread": 1.5,
    "total": 226.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -96,10 +96,10 @@
    "away_name": "Miami Heat",
    "home_name": "Sacramento Kings",
    "state": "pre",
-   "spread_text": "MIA -9.5",
-   "spread": 9.5,
-   "total": 237.5,
-   "odds_source": "DraftKings",
+   "spread_text": "MIA -11.5",
+   "spread": 11.5,
+   "total": 236.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   }
  ],
@@ -296,6 +296,13 @@
   ],
   "Sacramento Kings": [
    {
+    "player": "Domantas Sabonis",
+    "status": "Day-To-Day",
+    "detail": "Sabonis has been downgraded to questionable for Sunday's game against Miami due to left knee soreness.",
+    "type": "day-to-day",
+    "updated": "2026-11-08T22:53Z"
+   },
+   {
     "player": "Maxime Raynaud",
     "status": "Out",
     "detail": "Raynaud (knee) is progressing in his rehabilitation and will be re-evaluated in approximately two weeks, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
@@ -411,6 +418,13 @@
    "player": "Keegan Murray",
    "from": "Out",
    "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-08 17:58",
+   "team": "Sacramento Kings",
+   "player": "Domantas Sabonis",
+   "from": "not listed",
+   "to": "Day-To-Day"
   }
  ]
 }
