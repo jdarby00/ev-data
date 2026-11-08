@@ -1,6 +1,6 @@
 {
  "date": "2026-11-08",
- "updated_et": "2026-11-08 14:05",
+ "updated_et": "2026-11-08 14:45",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -14,8 +14,8 @@
    "state": "pre",
    "spread_text": "PHI -9.5",
    "spread": 9.5,
-   "total": 238.5,
-   "odds_source": "Draft Kings",
+   "total": 237.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -26,10 +26,10 @@
    "away_name": "Los Angeles Lakers",
    "home_name": "Detroit Pistons",
    "state": "pre",
-   "spread_text": "DET -7.5",
-   "spread": -7.5,
+   "spread_text": "DET -6.5",
+   "spread": -6.5,
    "total": 217.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -43,7 +43,7 @@
    "spread_text": "MIN -11.5",
    "spread": -11.5,
    "total": 222.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -57,7 +57,7 @@
    "spread_text": "DAL -7.5",
    "spread": -7.5,
    "total": 222.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -68,10 +68,10 @@
    "away_name": "Boston Celtics",
    "home_name": "Milwaukee Bucks",
    "state": "pre",
-   "spread_text": "BOS -12.5",
-   "spread": 12.5,
+   "spread_text": "BOS -13.5",
+   "spread": 13.5,
    "total": 222.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "NO -1.5",
    "spread": 1.5,
    "total": 226.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -99,7 +99,7 @@
    "spread_text": "MIA -10.5",
    "spread": 10.5,
    "total": 237.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
@@ -140,23 +140,9 @@
    {
     "player": "Norman Powell",
     "status": "Out",
-    "detail": "Powell (shoulder) is listed as questionable for Sunday's game against the 76ers.",
+    "detail": "Powell (shoulder) has been ruled out for Sunday's game against the 76ers, Adam Aaronson of PhillyVoice.com reports.",
     "type": "out",
-    "updated": "2026-11-08T18:53Z"
-   },
-   {
-    "player": "Tobe Awaka",
-    "status": "Day-To-Day",
-    "detail": "Awaka (knee) is questionable for Sundays' game against the 76ers.",
-    "type": "day-to-day",
-    "updated": "2026-11-07T21:36Z"
-   },
-   {
-    "player": "Jalen Smith",
-    "status": "Day-To-Day",
-    "detail": "Smith (finger) is probable for Sunday's game against Philadelphia.",
-    "type": "day-to-day",
-    "updated": "2026-11-07T21:31Z"
+    "updated": "2026-11-08T18:55Z"
    },
    {
     "player": "Zach Collins",
@@ -409,6 +395,20 @@
    "at_et": "2026-11-08 14:05",
    "team": "Minnesota Timberwolves",
    "player": "Joan Beringer",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-08 14:45",
+   "team": "Chicago Bulls",
+   "player": "Tobe Awaka",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-08 14:45",
+   "team": "Chicago Bulls",
+   "player": "Jalen Smith",
    "from": "Day-To-Day",
    "to": "removed from report"
   }
