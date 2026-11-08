@@ -32809,11 +32809,12 @@
    "api_away": "Houston Rockets",
    "api_home": "Phoenix Suns",
    "away": "Rockets",
-   "commence_time": "2026-11-08T02:10:00Z",
+   "commence_time": "2026-11-08T02:11:00Z",
    "event_id": "af8d920f175d73f12933c64ae296573f",
    "home": "Suns",
    "issues": [
-    "2026-11-08T01:58:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-08T01:58:09Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points",
    "players": [],
@@ -36453,7 +36454,7 @@
    "api_away": "Houston Rockets",
    "api_home": "Phoenix Suns",
    "away": "Rockets",
-   "commence_time": "2026-11-08T02:10:00Z",
+   "commence_time": "2026-11-08T02:11:00Z",
    "event_id": "af8d920f175d73f12933c64ae296573f",
    "home": "Suns",
    "issues": [],
@@ -41258,7 +41259,7 @@
    "api_away": "Houston Rockets",
    "api_home": "Phoenix Suns",
    "away": "Rockets",
-   "commence_time": "2026-11-08T02:10:00Z",
+   "commence_time": "2026-11-08T02:11:00Z",
    "event_id": "af8d920f175d73f12933c64ae296573f",
    "home": "Suns",
    "issues": [],
@@ -46351,11 +46352,12 @@
    "api_away": "Houston Rockets",
    "api_home": "Phoenix Suns",
    "away": "Rockets",
-   "commence_time": "2026-11-08T02:10:00Z",
+   "commence_time": "2026-11-08T02:11:00Z",
    "event_id": "af8d920f175d73f12933c64ae296573f",
    "home": "Suns",
    "issues": [
-    "2026-11-08T01:58:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-08T01:58:09Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_threes",
    "players": [],
@@ -48286,7 +48288,9 @@
    "commence_time": "2026-11-08T03:00:00Z",
    "event_id": "08d47dd5e50e83839e395e49870d6a0d",
    "home": "Trail Blazers",
-   "issues": [],
+   "issues": [
+    "2026-11-08T02:42:15Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_assists",
    "players": [],
    "requested_rev": 1,
@@ -50248,7 +50252,9 @@
    "commence_time": "2026-11-08T03:00:00Z",
    "event_id": "08d47dd5e50e83839e395e49870d6a0d",
    "home": "Trail Blazers",
-   "issues": [],
+   "issues": [
+    "2026-11-08T02:42:15Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_points",
    "players": [],
    "requested_rev": 1,
@@ -53114,7 +53120,9 @@
    "commence_time": "2026-11-08T03:00:00Z",
    "event_id": "08d47dd5e50e83839e395e49870d6a0d",
    "home": "Trail Blazers",
-   "issues": [],
+   "issues": [
+    "2026-11-08T02:42:15Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_points_rebounds_assists",
    "players": [],
    "requested_rev": 1,
@@ -55580,7 +55588,9 @@
    "commence_time": "2026-11-08T03:00:00Z",
    "event_id": "08d47dd5e50e83839e395e49870d6a0d",
    "home": "Trail Blazers",
-   "issues": [],
+   "issues": [
+    "2026-11-08T02:42:15Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_threes",
    "players": [],
    "requested_rev": 1,
@@ -65460,5 +65470,5 @@
  "spent_month": 128,
  "spent_today": 30,
  "stop": null,
- "updated": "2026-11-08T01:58:09Z"
+ "updated": "2026-11-08T02:42:15Z"
 }
