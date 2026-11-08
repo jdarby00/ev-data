@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "updated_et": "2026-11-07 17:42",
+ "updated_et": "2026-11-07 19:43",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,7 +11,7 @@
    "home": "IND",
    "away_name": "Denver Nuggets",
    "home_name": "Indiana Pacers",
-   "state": "in",
+   "state": "post",
    "spread_text": "",
    "spread": null,
    "total": null,
@@ -25,11 +25,11 @@
    "home": "ATL",
    "away_name": "Brooklyn Nets",
    "home_name": "Atlanta Hawks",
-   "state": "pre",
-   "spread_text": "ATL -6.5",
-   "spread": -6.5,
-   "total": 226.5,
-   "odds_source": "DraftKings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -42,8 +42,8 @@
    "state": "pre",
    "spread_text": "NY -4.5",
    "spread": 4.5,
-   "total": 224.5,
-   "odds_source": "DraftKings",
+   "total": 222.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -54,10 +54,10 @@
    "away_name": "Washington Wizards",
    "home_name": "Oklahoma City Thunder",
    "state": "pre",
-   "spread_text": "OKC -11.5",
-   "spread": -11.5,
-   "total": 223.5,
-   "odds_source": "DraftKings",
+   "spread_text": "OKC -12.5",
+   "spread": -12.5,
+   "total": 224.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -70,8 +70,8 @@
    "state": "pre",
    "spread_text": "GS -7.5",
    "spread": -7.5,
-   "total": 219.5,
-   "odds_source": "DraftKings",
+   "total": 220.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "HOU -6.5",
    "spread": 6.5,
    "total": 224.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -99,7 +99,7 @@
    "spread_text": "SA -5.5",
    "spread": 5.5,
    "total": 229.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   }
  ],
@@ -142,13 +142,6 @@
    }
   ],
   "Brooklyn Nets": [
-   {
-    "player": "Noah Clowney",
-    "status": "Day-To-Day",
-    "detail": "Clowney is listed as questionable for Saturday's game against the Hawks due to an illness.",
-    "type": "day-to-day",
-    "updated": "2026-11-07T15:19Z"
-   },
    {
     "player": "Day'Ron Sharpe",
     "status": "Day-To-Day",
@@ -198,32 +191,11 @@
   ],
   "Golden State Warriors": [
    {
-    "player": "Draymond Green",
-    "status": "Day-To-Day",
-    "detail": "Green (elbow) is listed as questionable ahead of Saturday's game against Orlando.",
-    "type": "day-to-day",
-    "updated": "2026-11-06T22:21Z"
-   },
-   {
-    "player": "Gary Payton II",
-    "status": "Day-To-Day",
-    "detail": "Payton is questionable to play Saturday against the Magic due to right calf tightness.",
-    "type": "day-to-day",
-    "updated": "2026-11-06T22:21Z"
-   },
-   {
     "player": "Kristaps Porzingis",
     "status": "Out",
     "detail": "Porzingis announced on his social media that he's stepping away from basketball.",
     "type": "out",
     "updated": "2026-11-06T21:26Z"
-   },
-   {
-    "player": "Gui Santos",
-    "status": "Day-To-Day",
-    "detail": "Santos (knee) is questionable for Saturday's game versus Orlando, per Nick Friedell of The Athletic.",
-    "type": "day-to-day",
-    "updated": "2026-11-06T20:49Z"
    },
    {
     "player": "Moses Moody",
@@ -441,10 +413,10 @@
   "Washington Wizards": [
    {
     "player": "Anthony Davis",
-    "status": "Day-To-Day",
-    "detail": "Davis (ankle) is questionable for Saturday's game against the Thunder.",
-    "type": "day-to-day",
-    "updated": "2026-11-07T19:13Z"
+    "status": "Out",
+    "detail": "Davis (ankle) won't play Saturday against the Thunder.",
+    "type": "out",
+    "updated": "2026-11-07T23:33Z"
    },
    {
     "player": "Reece Beekman",
@@ -559,6 +531,41 @@
    "team": "Portland Trail Blazers",
    "player": "Robert Williams III",
    "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-07 19:43",
+   "team": "Brooklyn Nets",
+   "player": "Noah Clowney",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-07 19:43",
+   "team": "Golden State Warriors",
+   "player": "Draymond Green",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-07 19:43",
+   "team": "Golden State Warriors",
+   "player": "Gary Payton II",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-07 19:43",
+   "team": "Golden State Warriors",
+   "player": "Gui Santos",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-07 19:43",
+   "team": "Washington Wizards",
+   "player": "Anthony Davis",
+   "from": "Day-To-Day",
    "to": "Out"
   }
  ]
