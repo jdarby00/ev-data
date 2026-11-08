@@ -48290,7 +48290,8 @@
    "home": "Trail Blazers",
    "issues": [
     "2026-11-08T02:42:15Z close skipped: daily cap reached (30/30)",
-    "2026-11-08T02:48:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-08T02:48:09Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_assists",
    "players": [],
@@ -50255,7 +50256,8 @@
    "home": "Trail Blazers",
    "issues": [
     "2026-11-08T02:42:15Z close skipped: daily cap reached (30/30)",
-    "2026-11-08T02:48:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-08T02:48:09Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points",
    "players": [],
@@ -53124,7 +53126,8 @@
    "home": "Trail Blazers",
    "issues": [
     "2026-11-08T02:42:15Z close skipped: daily cap reached (30/30)",
-    "2026-11-08T02:48:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-08T02:48:09Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points_rebounds_assists",
    "players": [],
@@ -55593,7 +55596,8 @@
    "home": "Trail Blazers",
    "issues": [
     "2026-11-08T02:42:15Z close skipped: daily cap reached (30/30)",
-    "2026-11-08T02:48:09Z close skipped: daily cap reached (30/30)"
+    "2026-11-08T02:48:09Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_threes",
    "players": [],
@@ -65472,7 +65476,7 @@
  },
  "issues": [],
  "spent_month": 128,
- "spent_today": 30,
+ "spent_today": 0,
  "stop": null,
- "updated": "2026-11-08T02:48:09Z"
+ "updated": "2026-11-08T07:38:44Z"
 }
