@@ -1,6 +1,6 @@
 {
  "date": "2026-11-08",
- "updated_et": "2026-11-08 11:41",
+ "updated_et": "2026-11-08 14:05",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -14,7 +14,7 @@
    "state": "pre",
    "spread_text": "PHI -9.5",
    "spread": 9.5,
-   "total": 237.5,
+   "total": 238.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -26,9 +26,9 @@
    "away_name": "Los Angeles Lakers",
    "home_name": "Detroit Pistons",
    "state": "pre",
-   "spread_text": "DET -4.5",
-   "spread": -4.5,
-   "total": 221.5,
+   "spread_text": "DET -7.5",
+   "spread": -7.5,
+   "total": 217.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -40,8 +40,8 @@
    "away_name": "Utah Jazz",
    "home_name": "Minnesota Timberwolves",
    "state": "pre",
-   "spread_text": "MIN -12.5",
-   "spread": -12.5,
+   "spread_text": "MIN -11.5",
+   "spread": -11.5,
    "total": 222.5,
    "odds_source": "Draft Kings",
    "season_type": 2
@@ -68,9 +68,9 @@
    "away_name": "Boston Celtics",
    "home_name": "Milwaukee Bucks",
    "state": "pre",
-   "spread_text": "BOS -13.5",
-   "spread": 13.5,
-   "total": 220.5,
+   "spread_text": "BOS -12.5",
+   "spread": 12.5,
+   "total": 222.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -104,6 +104,15 @@
   }
  ],
  "injuries": {
+  "Boston Celtics": [
+   {
+    "player": "Mitchell Robinson",
+    "status": "Day-To-Day",
+    "detail": "Robinson (illness) is questionable for Sunday's game versus Milwaukee, Bobby Krivitsky of Forbes.com reports.",
+    "type": "day-to-day",
+    "updated": "2026-11-08T18:21Z"
+   }
+  ],
   "Brooklyn Nets": [
    {
     "player": "Grant Nelson",
@@ -130,10 +139,10 @@
   "Chicago Bulls": [
    {
     "player": "Norman Powell",
-    "status": "Day-To-Day",
+    "status": "Out",
     "detail": "Powell (shoulder) is listed as questionable for Sunday's game against the 76ers.",
-    "type": "day-to-day",
-    "updated": "2026-11-08T15:07Z"
+    "type": "out",
+    "updated": "2026-11-08T18:53Z"
    },
    {
     "player": "Tobe Awaka",
@@ -148,13 +157,6 @@
     "detail": "Smith (finger) is probable for Sunday's game against Philadelphia.",
     "type": "day-to-day",
     "updated": "2026-11-07T21:31Z"
-   },
-   {
-    "player": "Nic Claxton",
-    "status": "Out",
-    "detail": "Claxton (hamstring) has been downgraded to questionable for Sunday's game against the 76ers.",
-    "type": "out",
-    "updated": "2026-11-07T21:25Z"
    },
    {
     "player": "Zach Collins",
@@ -243,20 +245,22 @@
   "Los Angeles Lakers": [
    {
     "player": "Luka Doncic",
+    "status": "Out",
+    "detail": "Doncic has been ruled out for Sunday's game at Detroit due to lower-back tightness, Trevor Lane of LakersNation.com reports.",
+    "type": "out",
+    "updated": "2026-11-08T18:19Z"
+   }
+  ],
+  "Milwaukee Bucks": [
+   {
+    "player": "Gary Trent Jr.",
     "status": "Day-To-Day",
-    "detail": "Doncic (back) is questionable for Sunday's game against the Pistons.",
+    "detail": "Trent (illness) has been downgraded to questionable for Sunday's game against Boston.",
     "type": "day-to-day",
-    "updated": "2026-11-07T22:11Z"
+    "updated": "2026-11-08T18:23Z"
    }
   ],
   "Minnesota Timberwolves": [
-   {
-    "player": "Joan Beringer",
-    "status": "Day-To-Day",
-    "detail": "Beringer (nose) is questionable for Sunday's game against the Jazz.",
-    "type": "day-to-day",
-    "updated": "2026-11-07T23:10Z"
-   },
    {
     "player": "Anthony Edwards",
     "status": "Out",
@@ -365,5 +369,48 @@
    }
   ]
  },
- "status_changes": []
+ "status_changes": [
+  {
+   "at_et": "2026-11-08 14:05",
+   "team": "Boston Celtics",
+   "player": "Mitchell Robinson",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-08 14:05",
+   "team": "Chicago Bulls",
+   "player": "Norman Powell",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-08 14:05",
+   "team": "Chicago Bulls",
+   "player": "Nic Claxton",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-08 14:05",
+   "team": "Los Angeles Lakers",
+   "player": "Luka Doncic",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-08 14:05",
+   "team": "Milwaukee Bucks",
+   "player": "Gary Trent Jr.",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-08 14:05",
+   "team": "Minnesota Timberwolves",
+   "player": "Joan Beringer",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  }
+ ]
 }
