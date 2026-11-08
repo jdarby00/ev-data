@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "updated_et": "2026-11-07 19:43",
+ "updated_et": "2026-11-07 20:46",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -39,11 +39,11 @@
    "home": "CLE",
    "away_name": "New York Knicks",
    "home_name": "Cleveland Cavaliers",
-   "state": "pre",
-   "spread_text": "NY -4.5",
-   "spread": 4.5,
-   "total": 222.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -53,11 +53,11 @@
    "home": "OKC",
    "away_name": "Washington Wizards",
    "home_name": "Oklahoma City Thunder",
-   "state": "pre",
-   "spread_text": "OKC -12.5",
-   "spread": -12.5,
-   "total": 224.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -67,11 +67,11 @@
    "home": "GS",
    "away_name": "Orlando Magic",
    "home_name": "Golden State Warriors",
-   "state": "pre",
-   "spread_text": "GS -7.5",
-   "spread": -7.5,
-   "total": 220.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -84,7 +84,7 @@
    "state": "pre",
    "spread_text": "HOU -6.5",
    "spread": 6.5,
-   "total": 224.5,
+   "total": 223.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -343,18 +343,11 @@
   ],
   "Phoenix Suns": [
    {
-    "player": "Rasheer Fleming",
-    "status": "Day-To-Day",
-    "detail": "Fleming (ankle) is questionable for Saturday's game against the Rockets.",
-    "type": "day-to-day",
-    "updated": "2026-11-07T00:20Z"
-   },
-   {
     "player": "Jordan Goodwin",
-    "status": "Day-To-Day",
-    "detail": "Goodwin (calf) is doubtful for Saturday's game against the Rockets.",
-    "type": "day-to-day",
-    "updated": "2026-11-07T00:20Z"
+    "status": "Out",
+    "detail": "Goodwin (calf) is out for Saturday's game against the Rockets.",
+    "type": "out",
+    "updated": "2026-11-08T01:08Z"
    },
    {
     "player": "Mark Williams",
@@ -567,6 +560,20 @@
    "player": "Anthony Davis",
    "from": "Day-To-Day",
    "to": "Out"
+  },
+  {
+   "at_et": "2026-11-07 20:46",
+   "team": "Phoenix Suns",
+   "player": "Jordan Goodwin",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-07 20:46",
+   "team": "Phoenix Suns",
+   "player": "Rasheer Fleming",
+   "from": "Day-To-Day",
+   "to": "removed from report"
   }
  ]
 }
