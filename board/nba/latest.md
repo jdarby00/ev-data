@@ -1,6 +1,6 @@
 # NBA board, 2026-11-08
 
-Slate updated 2026-11-08 14:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-08 14:57 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -16,7 +16,7 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 14:45 Chicago Bulls: Jalen Smith Day-To-Day → removed from report
 
 ## PHI @ CHI, 15:30 ET
-Line: PHI -9.5, total 237.5 (DraftKings).
+Line: PHI -9.5, total 237.5 (Draft Kings).
 **PHI** (1 rest day). Out: Adem Bona. Freed minutes: 14.2. Out all season so far (already in the lines): Dominick Barlow, Ariel Hukporti.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -54,7 +54,7 @@ Line: PHI -9.5, total 237.5 (DraftKings).
 | Zach Collins | Out | 8.6 (3.8) | 1.8/1.5 | 1.8/2.3 | 0.8/0.7 | 0/0 | – |
 
 ## LAL @ DET, 18:00 ET
-Line: DET -6.5, total 217.5 (DraftKings).
+Line: DET -6.5, total 217.5 (Draft Kings).
 **LAL** (1 rest day). Out: Luka Doncic. Freed minutes: 35.9.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -90,7 +90,7 @@ Line: DET -6.5, total 217.5 (DraftKings).
 | Isaiah Joe | Out | 13.7 (6.8) | 7.3/7.3 | 1.7/1.7 | 1/1 | 1/1 | – |
 
 ## UTAH @ MIN, 19:00 ET
-Line: MIN -11.5, total 222.5 (DraftKings).
+Line: MIN -11.5, total 222.5 (Draft Kings).
 **UTAH** (1 rest day). Out: Jaren Jackson Jr.. Freed minutes: 26. Out all season so far (already in the lines): Jusuf Nurkic.
 - Without Jaren Jackson Jr.: Josh Okogie min +9.2, pts +5.1, reb +2.9, ast +0.5 (n=5 vs 3)
 - Without Jaren Jackson Jr.: Ace Bailey min +5.8, pts -1, reb -2.5, ast -2.2 (n=5 vs 4)
@@ -132,7 +132,7 @@ Line: MIN -11.5, total 222.5 (DraftKings).
 | Bones Hyland | – | 14.8 (5) → 13.5 (5.8) | 11.6/8 → 7 (1–15) | 1/1.2 → 1 (0–3) | 3.6/2.5 → 2 (0–5) | 2/1.5 → 1 (0–3) | 11 (3–22) |
 
 ## BKN @ DAL, 19:30 ET
-Line: DAL -7.5, total 222.5 (DraftKings).
+Line: DAL -7.5, total 222.5 (Draft Kings).
 **BKN** (back-to-back). Out: Mikel Brown Jr., Egor Demin. Freed minutes: 45.1.
 - Without Egor Demin: Josh Minott min -10.5, pts -8.5, reb -4.5, ast -1 (n=2 vs 2)
 - Without Egor Demin: Nolan Traore min +8.5, pts +5.9, reb +0.6, ast +1.2 (n=5 vs 4)
@@ -174,7 +174,7 @@ Line: DAL -7.5, total 222.5 (DraftKings).
 | Santi Aldama | – | 13 (–) → 17.9 (10.3) | 8/8 → 9 (3–17) | 9/9 → 5 (2–9) | 1/1 → 2 (0–4) | 0/0 → 1 (0–2) | 16 (6–27) |
 
 ## BOS @ MIL, 20:00 ET
-Line: BOS -13.5, total 222.5 (DraftKings).
+Line: BOS -13.5, total 222.5 (Draft Kings).
 **BOS** (1 rest day). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -208,7 +208,7 @@ Line: BOS -13.5, total 222.5 (DraftKings).
 | Gary Trent Jr. | Day-To-Day | 6.5 (0.5) → 9.6 (2) | 3/3 → 3 (0–9) | 0.5/0.5 → 0 (0–2) | 0.5/0.5 → 0 (0–2) | 1/1 → 1 (0–2) | 4 (0–11) |
 
 ## NO @ LAC, 21:00 ET
-Line: NO -1.5, total 226.5 (DraftKings).
+Line: NO -1.5, total 226.5 (Draft Kings).
 **NO** (1 rest day). Out: Yves Missi. Freed minutes: 19.5.
 - Without Yves Missi: Jeremiah Fears min +8.2, pts +9.4, reb +3.9, ast +4.6 (n=7 vs 2)
 - Without Yves Missi: Herbert Jones min +6.9, pts +2.3, reb +2.1, ast +1.1 (n=7 vs 2)
@@ -246,7 +246,7 @@ Line: NO -1.5, total 226.5 (DraftKings).
 | Brandon Ingram | Out | none this season; last season 33.1 min, 20.9 pts | | | | |
 
 ## MIA @ SAC, 21:00 ET
-Line: MIA -10.5, total 237.5 (DraftKings).
+Line: MIA -10.5, total 237.5 (Draft Kings).
 **MIA** (2 rest days). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
