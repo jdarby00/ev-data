@@ -1,5 +1,5 @@
 {
- "credits_remaining": 383,
+ "credits_remaining": 382,
  "date": "2026-11-07",
  "groups": {
   "basketball_nba|knicks@cavaliers|player_points": {
@@ -13902,6 +13902,3345 @@
      "kind": "lock",
      "minutes_to_tip": 171.3,
      "raw": "raw/2026-11-07/ee45341df802cfb42dd48f1ad60c8b81-player_points-lock-20261107T214842013964Z.json",
+     "rev": 1
+    },
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1028754138",
+       "event_sid": "1028754138",
+       "last_update": "2026-11-08T00:27:49Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Moritz Wagner",
+         "price": -130,
+         "sid": "4407342029",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": -118,
+         "sid": "4407342074",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -121,
+         "sid": "4407342082",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Jalen Johnson",
+         "price": -108,
+         "sid": "4407354422",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -103,
+         "sid": "4407354491",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": -114,
+         "sid": "4407318948",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": -124,
+         "sid": "4407682919",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": -132,
+         "sid": "4407680358",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": -104,
+         "sid": "4407680511",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -122,
+         "sid": "4407702047",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Kingston Flemings",
+         "price": -110,
+         "sid": "4407864276",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -117,
+         "sid": "4407844081",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Mikel Brown Jr.",
+         "price": -115,
+         "sid": "4408043146",
+         "side": "Over"
+        }
+       ]
+      },
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/brooklyn-nets-at-atlanta-hawks-20050869",
+       "event_sid": "20050869",
+       "last_update": "2026-11-08T00:27:09Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 20.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4438189-7234506&type=Single",
+         "player": "Jalen Johnson",
+         "price": -110,
+         "sid": "7234506",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4438189-7234507&type=Single",
+         "player": "Jalen Johnson",
+         "price": -120,
+         "sid": "7234507",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4438408-7234937&type=Single",
+         "player": "C.J. McCollum",
+         "price": -105,
+         "sid": "7234937",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4438408-7234938&type=Single",
+         "player": "C.J. McCollum",
+         "price": -125,
+         "sid": "7234938",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4441590-7241745&type=Single",
+         "player": "Michael Porter Jr",
+         "price": -150,
+         "sid": "7241745",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4441590-7241746&type=Single",
+         "player": "Michael Porter Jr",
+         "price": 110,
+         "sid": "7241746",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4442040-7242531&type=Single",
+         "player": "Julius Randle",
+         "price": -115,
+         "sid": "7242531",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4442040-7242532&type=Single",
+         "player": "Julius Randle",
+         "price": -115,
+         "sid": "7242532",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4443636-7246593&type=Single",
+         "player": "Dyson Daniels",
+         "price": -130,
+         "sid": "7246593",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4443636-7246594&type=Single",
+         "player": "Dyson Daniels",
+         "price": -105,
+         "sid": "7246594",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4443672-7246676&type=Single",
+         "player": "Onyeka Okongwu",
+         "price": -120,
+         "sid": "7246676",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4443672-7246677&type=Single",
+         "player": "Onyeka Okongwu",
+         "price": -110,
+         "sid": "7246677",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4443887-7247197&type=Single",
+         "player": "Nolan Traore",
+         "price": -135,
+         "sid": "7247197",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4443887-7247198&type=Single",
+         "player": "Nolan Traore",
+         "price": 100,
+         "sid": "7247198",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4443894-7247211&type=Single",
+         "player": "Nickeil Alexander-Walker",
+         "price": -105,
+         "sid": "7247211",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4443894-7247212&type=Single",
+         "player": "Nickeil Alexander-Walker",
+         "price": -125,
+         "sid": "7247212",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4443903-7247229&type=Single",
+         "player": "Luguentz Dort",
+         "price": -125,
+         "sid": "7247229",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4443903-7247230&type=Single",
+         "player": "Luguentz Dort",
+         "price": -105,
+         "sid": "7247230",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4443901-7247225&type=Single",
+         "player": "Kingston Flemings",
+         "price": -125,
+         "sid": "7247225",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4443901-7247226&type=Single",
+         "player": "Kingston Flemings",
+         "price": -105,
+         "sid": "7247226",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4446834-7254795&type=Single",
+         "player": "Mikel Brown Jr.",
+         "price": -115,
+         "sid": "7254795",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4446834-7254796&type=Single",
+         "player": "Mikel Brown Jr.",
+         "price": -115,
+         "sid": "7254796",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4447606-7256679&type=Single",
+         "player": "Day'Ron Sharpe",
+         "price": 105,
+         "sid": "7256679",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4447606-7256680&type=Single",
+         "player": "Day'Ron Sharpe",
+         "price": -140,
+         "sid": "7256680",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4447608-7256683&type=Single",
+         "player": "Moritz Wagner",
+         "price": -120,
+         "sid": "7256683",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49167-4447608-7256684&type=Single",
+         "player": "Moritz Wagner",
+         "price": -111,
+         "sid": "7256684",
+         "side": "Under"
+        }
+       ]
+      },
+      "betonlineag": {
+       "event_link": "https://sports.betonline.ag/sportsbook/basketball/nba/game/491174196",
+       "event_sid": "491174196",
+       "last_update": "2026-11-08T00:27:24Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -114,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -114,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": 100,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": -130,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Kingston Flemings",
+         "price": -128,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Kingston Flemings",
+         "price": -101,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Jalen Johnson",
+         "price": -103,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Jalen Johnson",
+         "price": -125,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": -135,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": 104,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": -122,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": -106,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -109,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -119,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": -116,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": -111,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Moritz Wagner",
+         "price": -127,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Moritz Wagner",
+         "price": -102,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -119,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -109,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -122,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -106,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": -103,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": -125,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Mikel Brown Jr.",
+         "price": -116,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Mikel Brown Jr.",
+         "price": -111,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Danny Wolf",
+         "price": -130,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Danny Wolf",
+         "price": 101,
+         "sid": null,
+         "side": "Under"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1028754138",
+       "event_sid": "1028754138",
+       "last_update": "2026-11-08T00:27:20Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Moritz Wagner",
+         "price": -130,
+         "sid": "4407342029",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Moritz Wagner",
+         "price": -104,
+         "sid": "4407342030",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": -118,
+         "sid": "4407342074",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": -114,
+         "sid": "4407342075",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -121,
+         "sid": "4407342082",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -112,
+         "sid": "4407342083",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Jalen Johnson",
+         "price": -107,
+         "sid": "4407354422",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Jalen Johnson",
+         "price": -125,
+         "sid": "4407354423",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -103,
+         "sid": "4407354491",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -132,
+         "sid": "4407354492",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": -114,
+         "sid": "4407318948",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": -118,
+         "sid": "4407318949",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": -124,
+         "sid": "4407682919",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": -109,
+         "sid": "4407682920",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": -132,
+         "sid": "4407680358",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": -103,
+         "sid": "4407680359",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": -104,
+         "sid": "4407680511",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": -130,
+         "sid": "4407680512",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -122,
+         "sid": "4407702047",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -112,
+         "sid": "4407702048",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Kingston Flemings",
+         "price": -110,
+         "sid": "4407864276",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Kingston Flemings",
+         "price": -122,
+         "sid": "4407864277",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -117,
+         "sid": "4407844081",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -115,
+         "sid": "4407844082",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Mikel Brown Jr.",
+         "price": -115,
+         "sid": "4408043146",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Mikel Brown Jr.",
+         "price": -117,
+         "sid": "4408043147",
+         "side": "Under"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138",
+       "event_sid": "1028754138",
+       "last_update": "2026-11-08T00:27:43Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 19.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407844081|{wagerAmount}",
+         "player": "Nickeil Alexander-Walker",
+         "price": -117,
+         "sid": "4407844081",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407844082|{wagerAmount}",
+         "player": "Nickeil Alexander-Walker",
+         "price": -115,
+         "sid": "4407844082",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407354491|{wagerAmount}",
+         "player": "Onyeka Okongwu",
+         "price": -103,
+         "sid": "4407354491",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407354492|{wagerAmount}",
+         "player": "Onyeka Okongwu",
+         "price": -132,
+         "sid": "4407354492",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407354422|{wagerAmount}",
+         "player": "Jalen Johnson",
+         "price": -108,
+         "sid": "4407354422",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407354423|{wagerAmount}",
+         "player": "Jalen Johnson",
+         "price": -127,
+         "sid": "4407354423",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407342029|{wagerAmount}",
+         "player": "Moritz Wagner",
+         "price": -130,
+         "sid": "4407342029",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407342030|{wagerAmount}",
+         "player": "Moritz Wagner",
+         "price": -104,
+         "sid": "4407342030",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407702047|{wagerAmount}",
+         "player": "Michael Porter Jr",
+         "price": -122,
+         "sid": "4407702047",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407702048|{wagerAmount}",
+         "player": "Michael Porter Jr",
+         "price": -112,
+         "sid": "4407702048",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407342082|{wagerAmount}",
+         "player": "Julius Randle",
+         "price": -121,
+         "sid": "4407342082",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407342083|{wagerAmount}",
+         "player": "Julius Randle",
+         "price": -112,
+         "sid": "4407342083",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407342074|{wagerAmount}",
+         "player": "Day'Ron Sharpe",
+         "price": -118,
+         "sid": "4407342074",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407342075|{wagerAmount}",
+         "player": "Day'Ron Sharpe",
+         "price": -114,
+         "sid": "4407342075",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407680511|{wagerAmount}",
+         "player": "C.J. McCollum",
+         "price": -104,
+         "sid": "4407680511",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407680512|{wagerAmount}",
+         "player": "C.J. McCollum",
+         "price": -130,
+         "sid": "4407680512",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407318948|{wagerAmount}",
+         "player": "Dyson Daniels",
+         "price": -114,
+         "sid": "4407318948",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407318949|{wagerAmount}",
+         "player": "Dyson Daniels",
+         "price": -118,
+         "sid": "4407318949",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407680358|{wagerAmount}",
+         "player": "Nolan Traore",
+         "price": -132,
+         "sid": "4407680358",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407680359|{wagerAmount}",
+         "player": "Nolan Traore",
+         "price": -103,
+         "sid": "4407680359",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407682919|{wagerAmount}",
+         "player": "Luguentz Dort",
+         "price": -124,
+         "sid": "4407682919",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407682920|{wagerAmount}",
+         "player": "Luguentz Dort",
+         "price": -109,
+         "sid": "4407682920",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407864276|{wagerAmount}",
+         "player": "Kingston Flemings",
+         "price": -110,
+         "sid": "4407864276",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4407864277|{wagerAmount}",
+         "player": "Kingston Flemings",
+         "price": -122,
+         "sid": "4407864277",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4408043146|{wagerAmount}",
+         "player": "Mikel Brown Jr.",
+         "price": -115,
+         "sid": "4408043146",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754138?coupon={pickType}|4408043147|{wagerAmount}",
+         "player": "Mikel Brown Jr.",
+         "price": -117,
+         "sid": "4408043147",
+         "side": "Under"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/basketball/nba/brooklyn-nets-atlanta-hawks-202611071930",
+       "event_sid": "33128212",
+       "last_update": "2026-11-08T00:27:15Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": -295,
+         "sid": "2470231455",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": 215,
+         "sid": "2470231456",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": -210,
+         "sid": "2470231445",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": 155,
+         "sid": "2470231446",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": -150,
+         "sid": "2470231447",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": 115,
+         "sid": "2470231448",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": -115,
+         "sid": "2470229892",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": -115,
+         "sid": "2470229893",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": 115,
+         "sid": "2470231449",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": -150,
+         "sid": "2470231450",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": 150,
+         "sid": "2470231451",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": -200,
+         "sid": "2470231452",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": 190,
+         "sid": "2470231453",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "C.J. McCollum",
+         "price": -260,
+         "sid": "2470231454",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": -260,
+         "sid": "2470115706",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": 190,
+         "sid": "2470115707",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": -180,
+         "sid": "2470115708",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": 135,
+         "sid": "2470115709",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": -125,
+         "sid": "2470115654",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": -105,
+         "sid": "2470115655",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": 110,
+         "sid": "2470115710",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": -145,
+         "sid": "2470115711",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": 150,
+         "sid": "2470115712",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": -200,
+         "sid": "2470115713",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": 200,
+         "sid": "2470115714",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": -275,
+         "sid": "2470115715",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": -245,
+         "sid": "2470231469",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": 180,
+         "sid": "2470231470",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": -170,
+         "sid": "2470231471",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": 130,
+         "sid": "2470231472",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": -125,
+         "sid": "2470229888",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": -105,
+         "sid": "2470229889",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": 105,
+         "sid": "2470231232",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": -135,
+         "sid": "2470231233",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": 140,
+         "sid": "2470231854",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": -185,
+         "sid": "2470231855",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": 180,
+         "sid": "2470231473",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Dyson Daniels",
+         "price": -245,
+         "sid": "2470231474",
+         "side": "Under"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Jalen Johnson",
+         "price": -260,
+         "sid": "2470108660",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Jalen Johnson",
+         "price": 190,
+         "sid": "2470108661",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Jalen Johnson",
+         "price": -200,
+         "sid": "2470108662",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Jalen Johnson",
+         "price": 150,
+         "sid": "2470108663",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Jalen Johnson",
+         "price": -160,
+         "sid": "2470108664",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Jalen Johnson",
+         "price": 120,
+         "sid": "2470108665",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Jalen Johnson",
+         "price": -125,
+         "sid": "2470108601",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Jalen Johnson",
+         "price": -105,
+         "sid": "2470108602",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Jalen Johnson",
+         "price": 100,
+         "sid": "2470108666",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Jalen Johnson",
+         "price": -130,
+         "sid": "2470108667",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Jalen Johnson",
+         "price": 125,
+         "sid": "2470108668",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Jalen Johnson",
+         "price": -165,
+         "sid": "2470108669",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Jalen Johnson",
+         "price": 150,
+         "sid": "2470108670",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Jalen Johnson",
+         "price": -200,
+         "sid": "2470108671",
+         "side": "Under"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Jalen Johnson",
+         "price": 185,
+         "sid": "2470108672",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Jalen Johnson",
+         "price": -250,
+         "sid": "2470108673",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -230,
+         "sid": "2470115686",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": 170,
+         "sid": "2470115687",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -180,
+         "sid": "2470115688",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": 135,
+         "sid": "2470115689",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -145,
+         "sid": "2470115690",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": 110,
+         "sid": "2470115691",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -115,
+         "sid": "2470115652",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -115,
+         "sid": "2470115653",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": 110,
+         "sid": "2470115692",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -145,
+         "sid": "2470115693",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": 135,
+         "sid": "2470115694",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -180,
+         "sid": "2470115695",
+         "side": "Under"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": 165,
+         "sid": "2470115696",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -220,
+         "sid": "2470115697",
+         "side": "Under"
+        },
+        {
+         "line": 24.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": 200,
+         "sid": "2470115698",
+         "side": "Over"
+        },
+        {
+         "line": 24.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -275,
+         "sid": "2470115699",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Kingston Flemings",
+         "price": -210,
+         "sid": "2470231856",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Kingston Flemings",
+         "price": 155,
+         "sid": "2470231857",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Kingston Flemings",
+         "price": -145,
+         "sid": "2470231858",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Kingston Flemings",
+         "price": 110,
+         "sid": "2470231859",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Kingston Flemings",
+         "price": -105,
+         "sid": "2470229886",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Kingston Flemings",
+         "price": -125,
+         "sid": "2470229887",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Kingston Flemings",
+         "price": 130,
+         "sid": "2470231242",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Kingston Flemings",
+         "price": -170,
+         "sid": "2470231243",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Kingston Flemings",
+         "price": 170,
+         "sid": "2470231240",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Kingston Flemings",
+         "price": -230,
+         "sid": "2470231241",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": -215,
+         "sid": "2470231844",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": 160,
+         "sid": "2470231845",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": -145,
+         "sid": "2470231846",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": 110,
+         "sid": "2470231847",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": -105,
+         "sid": "2470229890",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": -125,
+         "sid": "2470229891",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": 130,
+         "sid": "2470231848",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": -170,
+         "sid": "2470231849",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": 175,
+         "sid": "2470231850",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Luguentz Dort",
+         "price": -240,
+         "sid": "2470231851",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -275,
+         "sid": "2470104213",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": 200,
+         "sid": "2470104214",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -215,
+         "sid": "2470104215",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": 160,
+         "sid": "2470104216",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -170,
+         "sid": "2470104217",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": 130,
+         "sid": "2470104218",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -135,
+         "sid": "2470104219",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": 105,
+         "sid": "2470104220",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -110,
+         "sid": "2470115656",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -120,
+         "sid": "2470115657",
+         "side": "Under"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": 110,
+         "sid": "2470104221",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -145,
+         "sid": "2470104222",
+         "side": "Under"
+        },
+        {
+         "line": 24.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": 135,
+         "sid": "2470104223",
+         "side": "Over"
+        },
+        {
+         "line": 24.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -180,
+         "sid": "2470104224",
+         "side": "Under"
+        },
+        {
+         "line": 25.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": 165,
+         "sid": "2470104225",
+         "side": "Over"
+        },
+        {
+         "line": 25.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -220,
+         "sid": "2470104226",
+         "side": "Under"
+        },
+        {
+         "line": 26.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": 200,
+         "sid": "2470104227",
+         "side": "Over"
+        },
+        {
+         "line": 26.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -275,
+         "sid": "2470104228",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Mikel Brown Jr.",
+         "price": -220,
+         "sid": "2470641009",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Mikel Brown Jr.",
+         "price": 165,
+         "sid": "2470641010",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Mikel Brown Jr.",
+         "price": -165,
+         "sid": "2470641011",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Mikel Brown Jr.",
+         "price": 125,
+         "sid": "2470641012",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Mikel Brown Jr.",
+         "price": -120,
+         "sid": "2470640870",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Mikel Brown Jr.",
+         "price": -110,
+         "sid": "2470640871",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Mikel Brown Jr.",
+         "price": 110,
+         "sid": "2470641489",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Mikel Brown Jr.",
+         "price": -145,
+         "sid": "2470641490",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Mikel Brown Jr.",
+         "price": 145,
+         "sid": "2470640895",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Mikel Brown Jr.",
+         "price": -190,
+         "sid": "2470640896",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Mikel Brown Jr.",
+         "price": 185,
+         "sid": "2470640897",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Mikel Brown Jr.",
+         "price": -250,
+         "sid": "2470640898",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Moritz Wagner",
+         "price": -260,
+         "sid": "2470644616",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Moritz Wagner",
+         "price": 190,
+         "sid": "2470644617",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Moritz Wagner",
+         "price": -185,
+         "sid": "2470644806",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Moritz Wagner",
+         "price": 140,
+         "sid": "2470644807",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Moritz Wagner",
+         "price": -130,
+         "sid": "2470645164",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Moritz Wagner",
+         "price": 100,
+         "sid": "2470645165",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Moritz Wagner",
+         "price": 105,
+         "sid": "2470644808",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Moritz Wagner",
+         "price": -135,
+         "sid": "2470644809",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Moritz Wagner",
+         "price": 140,
+         "sid": "2470644810",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Moritz Wagner",
+         "price": -185,
+         "sid": "2470644811",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Moritz Wagner",
+         "price": 180,
+         "sid": "2470638911",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Moritz Wagner",
+         "price": -245,
+         "sid": "2470638912",
+         "side": "Under"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -230,
+         "sid": "2470108609",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": 170,
+         "sid": "2470108610",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -180,
+         "sid": "2470108611",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": 135,
+         "sid": "2470108612",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -135,
+         "sid": "2470108613",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": 105,
+         "sid": "2470108614",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -110,
+         "sid": "2470108605",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -120,
+         "sid": "2470108606",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": 115,
+         "sid": "2470108615",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -150,
+         "sid": "2470108616",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": 140,
+         "sid": "2470108617",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -185,
+         "sid": "2470108618",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": 170,
+         "sid": "2470108607",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -230,
+         "sid": "2470108608",
+         "side": "Under"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": 210,
+         "sid": "2470108619",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "Nickeil Alexander-Walker",
+         "price": -290,
+         "sid": "2470108620",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": -275,
+         "sid": "2470104237",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": 200,
+         "sid": "2470104238",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": -190,
+         "sid": "2470104239",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": 145,
+         "sid": "2470104240",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": -145,
+         "sid": "2470115666",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": 110,
+         "sid": "2470115667",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": -105,
+         "sid": "2470115658",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": -125,
+         "sid": "2470115659",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": 125,
+         "sid": "2470115668",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": -165,
+         "sid": "2470115669",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": 165,
+         "sid": "2470115670",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": -220,
+         "sid": "2470115671",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": 210,
+         "sid": "2470514288",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": -290,
+         "sid": "2470514289",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -295,
+         "sid": "2470108651",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": 215,
+         "sid": "2470108652",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -210,
+         "sid": "2470108639",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": 155,
+         "sid": "2470108640",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -150,
+         "sid": "2470108641",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": 115,
+         "sid": "2470108642",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -115,
+         "sid": "2470108603",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -115,
+         "sid": "2470108604",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": 115,
+         "sid": "2470108643",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -150,
+         "sid": "2470108644",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": 150,
+         "sid": "2470108645",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -200,
+         "sid": "2470108646",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": 190,
+         "sid": "2470108649",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Onyeka Okongwu",
+         "price": -260,
+         "sid": "2470108650",
+         "side": "Under"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/34965476",
+       "event_sid": "34965476",
+       "last_update": "2026-11-08T00:28:02Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386790582%232354377246_13L42648Q11931915178Q20",
+         "player": "Michael Porter Jr",
+         "price": -107,
+         "sid": "0QA386790582#2354377246_13L42648Q11931915178Q20",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386790582%232354377247_13L42648Q12094929165Q20",
+         "player": "Michael Porter Jr",
+         "price": -119,
+         "sid": "0QA386790582#2354377247_13L42648Q12094929165Q20",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386791260%232354947595_13L42648Q1490767635Q20",
+         "player": "Julius Randle",
+         "price": -113,
+         "sid": "0QA386791260#2354947595_13L42648Q1490767635Q20",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386791260%232354947596_13L42648Q1175200708Q20",
+         "player": "Julius Randle",
+         "price": -113,
+         "sid": "0QA386791260#2354947596_13L42648Q1175200708Q20",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386858800%232354611190_13L42648Q1-692842954Q20",
+         "player": "Jalen Johnson",
+         "price": -125,
+         "sid": "0QA386858800#2354611190_13L42648Q1-692842954Q20",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386858800%232354611191_13L42648Q1-238425594Q20",
+         "player": "Jalen Johnson",
+         "price": -102,
+         "sid": "0QA386858800#2354611191_13L42648Q1-238425594Q20",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386790922%232355217674_13L42648Q1-692842954Q20",
+         "player": "Nickeil Alexander-Walker",
+         "price": -111,
+         "sid": "0QA386790922#2355217674_13L42648Q1-692842954Q20",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386790922%232355217675_13L42648Q1-238425594Q20",
+         "player": "Nickeil Alexander-Walker",
+         "price": -114,
+         "sid": "0QA386790922#2355217675_13L42648Q1-238425594Q20",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386791103%232355217672_13L42648Q1-1662826468Q20",
+         "player": "C.J. McCollum",
+         "price": -115,
+         "sid": "0QA386791103#2355217672_13L42648Q1-1662826468Q20",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386791103%232355217673_13L42648Q1-1693375913Q20",
+         "player": "C.J. McCollum",
+         "price": -111,
+         "sid": "0QA386791103#2355217673_13L42648Q1-1693375913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386790474%232354611155_13L42648Q1-1662826468Q20",
+         "player": "Onyeka Okongwu",
+         "price": -109,
+         "sid": "0QA386790474#2354611155_13L42648Q1-1662826468Q20",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386790474%232354611156_13L42648Q1-1693375913Q20",
+         "player": "Onyeka Okongwu",
+         "price": -117,
+         "sid": "0QA386790474#2354611156_13L42648Q1-1693375913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386790942%232354103533_13L42648Q1-1856570546Q20",
+         "player": "Mikel Brown Jr.",
+         "price": -119,
+         "sid": "0QA386790942#2354103533_13L42648Q1-1856570546Q20",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386790942%232354103603_13L42648Q1-84747951Q20",
+         "player": "Mikel Brown Jr.",
+         "price": -107,
+         "sid": "0QA386790942#2354103603_13L42648Q1-84747951Q20",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386790766%232354102677_13L42648Q1-1856570546Q20",
+         "player": "Nolan Traore",
+         "price": -105,
+         "sid": "0QA386790766#2354102677_13L42648Q1-1856570546Q20",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386790766%232354102709_13L42648Q1-84747951Q20",
+         "player": "Nolan Traore",
+         "price": -121,
+         "sid": "0QA386790766#2354102709_13L42648Q1-84747951Q20",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386790563%232354729144_13L42648Q11964356459Q20",
+         "player": "Dyson Daniels",
+         "price": -123,
+         "sid": "0QA386790563#2354729144_13L42648Q11964356459Q20",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386790563%232354729145_13L42648Q1670756388Q20",
+         "player": "Dyson Daniels",
+         "price": -104,
+         "sid": "0QA386790563#2354729145_13L42648Q1670756388Q20",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386790693%232355159051_13L42648Q1-1195564899Q20",
+         "player": "Moritz Wagner",
+         "price": -128,
+         "sid": "0QA386790693#2355159051_13L42648Q1-1195564899Q20",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386790693%232355159052_13L42648Q1-1442238935Q20",
+         "player": "Moritz Wagner",
+         "price": 101,
+         "sid": "0QA386790693#2355159052_13L42648Q1-1442238935Q20",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386790633%232354729196_13L42648Q1-1195564899Q20",
+         "player": "Kingston Flemings",
+         "price": -101,
+         "sid": "0QA386790633#2354729196_13L42648Q1-1195564899Q20",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386790633%232354729197_13L42648Q1-1442238935Q20",
+         "player": "Kingston Flemings",
+         "price": -126,
+         "sid": "0QA386790633#2354729197_13L42648Q1-1442238935Q20",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386791004%232354533958_13L42648Q11720844938Q20",
+         "player": "Day'Ron Sharpe",
+         "price": -121,
+         "sid": "0QA386791004#2354533958_13L42648Q11720844938Q20",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386791004%232354533959_13L42648Q11948178340Q20",
+         "player": "Day'Ron Sharpe",
+         "price": -105,
+         "sid": "0QA386791004#2354533959_13L42648Q11948178340Q20",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386790467%232354533897_13L42648Q11720844938Q20",
+         "player": "Luguentz Dort",
+         "price": -102,
+         "sid": "0QA386790467#2354533897_13L42648Q11720844938Q20",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA386790467%232354533898_13L42648Q11948178340Q20",
+         "player": "Luguentz Dort",
+         "price": -124,
+         "sid": "0QA386790467#2354533898_13L42648Q11948178340Q20",
+         "side": "Under"
+        }
+       ]
+      },
+      "espnbet": {
+       "event_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/nba/event/4fd21ce9-86eb-42ee-b022-b20d7ab4b175",
+       "event_sid": "4fd21ce9-86eb-42ee-b022-b20d7ab4b175",
+       "last_update": "2026-11-08T00:27:44Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=f9cc5c78-2319-4cb3-8ec3-3b6a4fd7da4f&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Nickeil Alexander-Walker",
+         "price": -125,
+         "sid": "f9cc5c78-2319-4cb3-8ec3-3b6a4fd7da4f",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=cd41e75e-6c6b-4db5-b181-d4054e36dc9a&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Nickeil Alexander-Walker",
+         "price": -105,
+         "sid": "cd41e75e-6c6b-4db5-b181-d4054e36dc9a",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=35499e58-4563-414a-a119-d7210b511dc0&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Jalen Johnson",
+         "price": -125,
+         "sid": "35499e58-4563-414a-a119-d7210b511dc0",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=1a7a3998-4536-4d75-8466-e4a536044cfc&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Jalen Johnson",
+         "price": -105,
+         "sid": "1a7a3998-4536-4d75-8466-e4a536044cfc",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=4937c9dc-f96d-46d6-9632-3c075c221660&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Michael Porter Jr",
+         "price": -120,
+         "sid": "4937c9dc-f96d-46d6-9632-3c075c221660",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=388822ff-e0df-47cd-91a9-bd1ba9d4ea51&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Michael Porter Jr",
+         "price": -110,
+         "sid": "388822ff-e0df-47cd-91a9-bd1ba9d4ea51",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=b09e2ef7-3669-4b93-b08a-ad5a09544db9&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Julius Randle",
+         "price": -110,
+         "sid": "b09e2ef7-3669-4b93-b08a-ad5a09544db9",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=d20894eb-2a5e-4202-a2dd-08cda2a03957&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Julius Randle",
+         "price": -120,
+         "sid": "d20894eb-2a5e-4202-a2dd-08cda2a03957",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=0fca0d74-4d15-496d-88ff-05ec0168d520&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Nolan Traore",
+         "price": -105,
+         "sid": "0fca0d74-4d15-496d-88ff-05ec0168d520",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=1a372454-0953-4410-abd6-01a3cbafb2c9&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Nolan Traore",
+         "price": -125,
+         "sid": "1a372454-0953-4410-abd6-01a3cbafb2c9",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=16d7919e-7bab-4147-9b95-8017bec5a17b&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Mikel Brown Jr.",
+         "price": -105,
+         "sid": "16d7919e-7bab-4147-9b95-8017bec5a17b",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=692bca4d-6eb3-4b0e-a12e-0c153bf92a53&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Mikel Brown Jr.",
+         "price": -125,
+         "sid": "692bca4d-6eb3-4b0e-a12e-0c153bf92a53",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=491c8deb-b0e1-43d8-b3a9-4a44d59380b8&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "C.J. McCollum",
+         "price": -125,
+         "sid": "491c8deb-b0e1-43d8-b3a9-4a44d59380b8",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=04406da8-8bd0-40c0-bb0f-6194a16981b5&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "C.J. McCollum",
+         "price": -105,
+         "sid": "04406da8-8bd0-40c0-bb0f-6194a16981b5",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=101eb0d9-e887-4f33-a9f0-3705e1626d8c&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Onyeka Okongwu",
+         "price": -105,
+         "sid": "101eb0d9-e887-4f33-a9f0-3705e1626d8c",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=f91e01c9-04c7-47f3-8368-4423ff113523&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Onyeka Okongwu",
+         "price": -125,
+         "sid": "f91e01c9-04c7-47f3-8368-4423ff113523",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=5125a64d-8965-4eaf-b985-5d8feed0c16c&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Dyson Daniels",
+         "price": -110,
+         "sid": "5125a64d-8965-4eaf-b985-5d8feed0c16c",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=a1812f1a-6e69-4e74-8672-5232351b7cd4&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Dyson Daniels",
+         "price": -120,
+         "sid": "a1812f1a-6e69-4e74-8672-5232351b7cd4",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=1c04ec63-7580-4884-be8a-ef831b1dbce9&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Day'Ron Sharpe",
+         "price": -120,
+         "sid": "1c04ec63-7580-4884-be8a-ef831b1dbce9",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=800e95d9-1f10-4841-879f-f7dfa4e73e27&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Day'Ron Sharpe",
+         "price": -110,
+         "sid": "800e95d9-1f10-4841-879f-f7dfa4e73e27",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=66d751c7-3eda-444b-bdc2-1ca193321e12&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Moritz Wagner",
+         "price": -125,
+         "sid": "66d751c7-3eda-444b-bdc2-1ca193321e12",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=01c43b12-aec4-4754-a301-c80a19b3f13c&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Moritz Wagner",
+         "price": -105,
+         "sid": "01c43b12-aec4-4754-a301-c80a19b3f13c",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=c0f64a82-3d3c-4865-b879-91b3548eeb4c&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Kingston Flemings",
+         "price": -130,
+         "sid": "c0f64a82-3d3c-4865-b879-91b3548eeb4c",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=42fd9df6-b745-481f-8315-85a97ffdc2fb&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Kingston Flemings",
+         "price": 100,
+         "sid": "42fd9df6-b745-481f-8315-85a97ffdc2fb",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=8233ffaa-03a2-4f5f-8aba-3840e4912325&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Luguentz Dort",
+         "price": -110,
+         "sid": "8233ffaa-03a2-4f5f-8aba-3840e4912325",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=fd52bcda-3954-4364-a2bd-81134f85ca36&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Luguentz Dort",
+         "price": -120,
+         "sid": "fd52bcda-3954-4364-a2bd-81134f85ca36",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=2b63144c-0f53-41d0-b71f-04182ee4b61e&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Danny Wolf",
+         "price": -125,
+         "sid": "2b63144c-0f53-41d0-b71f-04182ee4b61e",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=dc5b167d-7840-4d67-84da-0052eb1f6e61&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Danny Wolf",
+         "price": -105,
+         "sid": "dc5b167d-7840-4d67-84da-0052eb1f6e61",
+         "side": "Under"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/nba/brooklyn-nets-%40-atlanta-hawks-36282778",
+       "event_sid": "36282778",
+       "last_update": "2026-11-08T00:27:24Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 13.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623455076&selectionId=42160899",
+         "player": "Onyeka Okongwu",
+         "price": -102,
+         "sid": "42160899",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623455076&selectionId=42160900",
+         "player": "Onyeka Okongwu",
+         "price": -125,
+         "sid": "42160900",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623550325&selectionId=17970253",
+         "player": "Moritz Wagner",
+         "price": -125,
+         "sid": "17970253",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623550325&selectionId=17970252",
+         "player": "Moritz Wagner",
+         "price": -102,
+         "sid": "17970252",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623449987&selectionId=12260654",
+         "player": "Julius Randle",
+         "price": -111,
+         "sid": "12260654",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623449987&selectionId=12260655",
+         "player": "Julius Randle",
+         "price": -115,
+         "sid": "12260655",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623455077&selectionId=38310472",
+         "player": "Nickeil Alexander-Walker",
+         "price": -122,
+         "sid": "38310472",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623455077&selectionId=38310473",
+         "player": "Nickeil Alexander-Walker",
+         "price": -104,
+         "sid": "38310473",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623550324&selectionId=90736680",
+         "player": "Mikel Brown Jr.",
+         "price": 100,
+         "sid": "90736680",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623550324&selectionId=90736681",
+         "player": "Mikel Brown Jr.",
+         "price": -128,
+         "sid": "90736681",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623449988&selectionId=85959192",
+         "player": "Nolan Traore",
+         "price": 100,
+         "sid": "85959192",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623449988&selectionId=85959193",
+         "player": "Nolan Traore",
+         "price": -128,
+         "sid": "85959193",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623455081&selectionId=35489576",
+         "player": "Luguentz Dort",
+         "price": -113,
+         "sid": "35489576",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623455081&selectionId=35489577",
+         "player": "Luguentz Dort",
+         "price": -113,
+         "sid": "35489577",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623455079&selectionId=91126163",
+         "player": "Kingston Flemings",
+         "price": -132,
+         "sid": "91126163",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623455079&selectionId=91126164",
+         "player": "Kingston Flemings",
+         "price": 104,
+         "sid": "91126164",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623650319&selectionId=67169465",
+         "player": "Danny Wolf",
+         "price": -125,
+         "sid": "67169465",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623650319&selectionId=67169462",
+         "player": "Danny Wolf",
+         "price": -102,
+         "sid": "67169462",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623456368&selectionId=12260572",
+         "player": "C.J. McCollum",
+         "price": -128,
+         "sid": "12260572",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623456368&selectionId=12260571",
+         "player": "C.J. McCollum",
+         "price": 100,
+         "sid": "12260571",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623455080&selectionId=50686100",
+         "player": "Dyson Daniels",
+         "price": -108,
+         "sid": "50686100",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623455080&selectionId=50686102",
+         "player": "Dyson Daniels",
+         "price": -118,
+         "sid": "50686102",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623455078&selectionId=40197109",
+         "player": "Jalen Johnson",
+         "price": -125,
+         "sid": "40197109",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623455078&selectionId=40197108",
+         "player": "Jalen Johnson",
+         "price": -102,
+         "sid": "40197108",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623449986&selectionId=27559094",
+         "player": "Michael Porter Jr",
+         "price": 106,
+         "sid": "27559094",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623449986&selectionId=27559095",
+         "player": "Michael Porter Jr",
+         "price": -136,
+         "sid": "27559095",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623449989&selectionId=42351813",
+         "player": "Day'Ron Sharpe",
+         "price": -118,
+         "sid": "42351813",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623449989&selectionId=42351812",
+         "player": "Day'Ron Sharpe",
+         "price": -108,
+         "sid": "42351812",
+         "side": "Under"
+        }
+       ]
+      },
+      "hardrockbet": {
+       "event_link": "https://app.hardrock.bet/home/competition/nba/4469968097146700191",
+       "event_sid": "4469968097146700191",
+       "last_update": "2026-11-08T00:27:37Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 12.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6345516179441975708",
+         "player": "Onyeka Okongwu",
+         "price": -125,
+         "sid": "6345516179441975708",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6502825507051143580",
+         "player": "Onyeka Okongwu",
+         "price": -105,
+         "sid": "6502825507051143580",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8164284333643923867",
+         "player": "Nickeil Alexander-Walker",
+         "price": -125,
+         "sid": "8164284333643923867",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5582982875346764187",
+         "player": "Nickeil Alexander-Walker",
+         "price": -105,
+         "sid": "5582982875346764187",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/9055898103816782235",
+         "player": "Julius Randle",
+         "price": -115,
+         "sid": "9055898103816782235",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5488055439451095451",
+         "player": "Julius Randle",
+         "price": -115,
+         "sid": "5488055439451095451",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7241651141428248987",
+         "player": "Day'Ron Sharpe",
+         "price": -120,
+         "sid": "7241651141428248987",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4842428808690794907",
+         "player": "Day'Ron Sharpe",
+         "price": -110,
+         "sid": "4842428808690794907",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2324019415502422450",
+         "player": "Michael Porter Jr",
+         "price": -110,
+         "sid": "2324019415502422450",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8306576531440927154",
+         "player": "Michael Porter Jr",
+         "price": -120,
+         "sid": "8306576531440927154",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7819818335777980827",
+         "player": "Jalen Johnson",
+         "price": -105,
+         "sid": "7819818335777980827",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2665255048205959579",
+         "player": "Jalen Johnson",
+         "price": -125,
+         "sid": "2665255048205959579",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3882018595967992222",
+         "player": "Nolan Traore",
+         "price": -105,
+         "sid": "3882018595967992222",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2088811888088580510",
+         "player": "Nolan Traore",
+         "price": -125,
+         "sid": "2088811888088580510",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3400096469055832453",
+         "player": "Luguentz Dort",
+         "price": -115,
+         "sid": "3400096469055832453",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3613806345123398021",
+         "player": "Luguentz Dort",
+         "price": -115,
+         "sid": "3613806345123398021",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5675716102645219717",
+         "player": "Kingston Flemings",
+         "price": 100,
+         "sid": "5675716102645219717",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4779921989263556997",
+         "player": "Kingston Flemings",
+         "price": -130,
+         "sid": "4779921989263556997",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8854131539661947278",
+         "player": "Dyson Daniels",
+         "price": -115,
+         "sid": "8854131539661947278",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2563236178922963342",
+         "player": "Dyson Daniels",
+         "price": -115,
+         "sid": "2563236178922963342",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8775624949149860268",
+         "player": "C.J. McCollum",
+         "price": 100,
+         "sid": "8775624949149860268",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8927867727178236332",
+         "player": "C.J. McCollum",
+         "price": -130,
+         "sid": "8927867727178236332",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6199083749135745429",
+         "player": "Mikel Brown Jr.",
+         "price": -125,
+         "sid": "6199083749135745429",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1919327096994398613",
+         "player": "Mikel Brown Jr.",
+         "price": -105,
+         "sid": "1919327096994398613",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1526265616495935887",
+         "player": "Moritz Wagner",
+         "price": -125,
+         "sid": "1526265616495935887",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8468494073343377807",
+         "player": "Moritz Wagner",
+         "price": -105,
+         "sid": "8468494073343377807",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7003922874891370893",
+         "player": "Danny Wolf",
+         "price": -170,
+         "sid": "7003922874891370893",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/37276463814279565",
+         "player": "Danny Wolf",
+         "price": 125,
+         "sid": "37276463814279565",
+         "side": "Under"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-08T00:28:09Z",
+     "kind": "close",
+     "minutes_to_tip": 11.8,
+     "raw": "raw/2026-11-07/ee45341df802cfb42dd48f1ad60c8b81-player_points-close-20261108T002809006773Z.json",
      "rev": 1
     }
    ],
@@ -41825,8 +45164,8 @@
   }
  },
  "issues": [],
- "spent_month": 117,
- "spent_today": 19,
+ "spent_month": 118,
+ "spent_today": 20,
  "stop": null,
- "updated": "2026-11-07T22:51:31Z"
+ "updated": "2026-11-08T00:28:09Z"
 }
