@@ -74,6 +74,12 @@ class Plan(NoOps):
         jobs = C.plan(utc(2, 58, d=5), DAY, SLATE, None, {})
         self.assertEqual(jobs, [])
 
+    def test_bad_entries_are_skipped(self):
+        prices = {"groups": {"a": {"commence_time": "TBD", "snapshots": []}, "b": group("2026-11-05T03:10:00Z")}}
+        slate = {"games": SLATE["games"] + [{"tip_et": "TBD", "state": "pre"}, {"tip_et": None}]}
+        closes = [C.iso(f) for f, _, a, _ in C.plan(utc(13), DAY, slate, prices, {}) if a == "close"]
+        self.assertEqual(closes, ["2026-11-05T02:58:00Z"])
+
     def test_no_games_no_jobs(self):
         self.assertEqual(C.plan(utc(13), DAY, {"games": []}, None, {}), [])
 

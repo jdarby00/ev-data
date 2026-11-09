@@ -130,7 +130,7 @@ def slate_tips(slate):
             continue
         try:
             t = dt.datetime.strptime(g["tip_et"], "%Y-%m-%d %H:%M").replace(tzinfo=ET)
-        except (KeyError, ValueError):
+        except (KeyError, ValueError, TypeError):
             continue
         out.append(t.astimezone(UTC))
     return out
@@ -142,7 +142,10 @@ def price_tips(prices):
     for g in (prices or {}).get("groups", {}).values():
         if not g.get("commence_time"):
             continue
-        t = parse_utc(g["commence_time"])
+        try:
+            t = parse_utc(g["commence_time"])
+        except (ValueError, TypeError, AttributeError):
+            continue  # one bad entry must never stop the clock
         closed = any(s.get("kind") == "close" or s.get("also_close") for s in g.get("snapshots", []))
         (have if closed else need).append(t)
     return need, have
@@ -302,7 +305,7 @@ def hand_over(state, state_path, day, now, dry_run, sleep):
     print(line)
     state["log"].append(line)
     if not dry_run:
-        save_state(state_path, state, f"clock: hand-over {day.isoformat()}", tries=12)
+        save_state(state_path, state, f"clock: hand-over {day.isoformat()}", tries=3)  # ~9 min worst case, inside the 15-min margin
     ok, note = False, ""
     for i in range(HANDOVER_TRIES):
         ok, note = dispatch("self", dry_run)
