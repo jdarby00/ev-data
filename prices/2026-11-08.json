@@ -1,5 +1,5 @@
 {
- "credits_remaining": 359,
+ "credits_remaining": 358,
  "date": "2026-11-08",
  "groups": {
   "basketball_nba|76ers@bulls|player_points_rebounds_assists": {
@@ -12257,7 +12257,7 @@
    "api_away": "Utah Jazz",
    "api_home": "Minnesota Timberwolves",
    "away": "Jazz",
-   "commence_time": "2026-11-09T00:10:00Z",
+   "commence_time": "2026-11-09T00:11:00Z",
    "event_id": "758ca94b2abd151c0593b182254dab32",
    "home": "Timberwolves",
    "issues": [],
@@ -18318,7 +18318,7 @@
    "api_away": "Utah Jazz",
    "api_home": "Minnesota Timberwolves",
    "away": "Jazz",
-   "commence_time": "2026-11-09T00:10:00Z",
+   "commence_time": "2026-11-09T00:11:00Z",
    "event_id": "758ca94b2abd151c0593b182254dab32",
    "home": "Timberwolves",
    "issues": [],
@@ -22603,7 +22603,7 @@
    "api_away": "Utah Jazz",
    "api_home": "Minnesota Timberwolves",
    "away": "Jazz",
-   "commence_time": "2026-11-09T00:10:00Z",
+   "commence_time": "2026-11-09T00:11:00Z",
    "event_id": "758ca94b2abd151c0593b182254dab32",
    "home": "Timberwolves",
    "issues": [],
@@ -29250,6 +29250,2289 @@
      "minutes_to_tip": 101.1,
      "raw": "raw/2026-11-08/c5b6599e8e4949749798dcdadceb68d4-player_points_rebounds_assists-lock-20261108T225856063958Z.json",
      "rev": 1
+    },
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1028754124",
+       "event_sid": "1028754124",
+       "last_update": "2026-11-09T00:27:20Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 38.5,
+         "link": null,
+         "player": "Cooper Flagg",
+         "price": -121,
+         "sid": "4408854332",
+         "side": "Over"
+        },
+        {
+         "line": 30.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -122,
+         "sid": "4408854684",
+         "side": "Over"
+        },
+        {
+         "line": 31.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -120,
+         "sid": "4408889295",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Naji Marshall",
+         "price": -130,
+         "sid": "4408889617",
+         "side": "Over"
+        },
+        {
+         "line": 29.5,
+         "link": null,
+         "player": "Kyrie Irving",
+         "price": -113,
+         "sid": "4408851546",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": -118,
+         "sid": "4409083867",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Danny Wolf",
+         "price": -104,
+         "sid": "4409536933",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": -108,
+         "sid": "4409536937",
+         "side": "Over"
+        }
+       ]
+      },
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/brooklyn-nets-at-dallas-mavericks-20050878",
+       "event_sid": "20050878",
+       "last_update": "2026-11-09T00:27:58Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 31.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49236-4455123-7273092&type=Single",
+         "player": "Julius Randle",
+         "price": -125,
+         "sid": "7273092",
+         "side": "Over"
+        },
+        {
+         "line": 31.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49236-4455123-7273093&type=Single",
+         "player": "Julius Randle",
+         "price": -105,
+         "sid": "7273093",
+         "side": "Under"
+        },
+        {
+         "line": 38.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49236-4455117-7273086&type=Single",
+         "player": "Cooper Flagg",
+         "price": -110,
+         "sid": "7273086",
+         "side": "Over"
+        },
+        {
+         "line": 38.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49236-4455117-7273087&type=Single",
+         "player": "Cooper Flagg",
+         "price": -120,
+         "sid": "7273087",
+         "side": "Under"
+        },
+        {
+         "line": 30.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49236-4455265-7273380&type=Single",
+         "player": "Michael Porter Jr",
+         "price": -120,
+         "sid": "7273380",
+         "side": "Over"
+        },
+        {
+         "line": 30.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49236-4455265-7273381&type=Single",
+         "player": "Michael Porter Jr",
+         "price": -110,
+         "sid": "7273381",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49236-4455259-7273370&type=Single",
+         "player": "Day'Ron Sharpe",
+         "price": -125,
+         "sid": "7273370",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49236-4455259-7273371&type=Single",
+         "player": "Day'Ron Sharpe",
+         "price": -105,
+         "sid": "7273371",
+         "side": "Under"
+        },
+        {
+         "line": 29.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49236-4456419-7275510&type=Single",
+         "player": "Kyrie Irving",
+         "price": -105,
+         "sid": "7275510",
+         "side": "Over"
+        },
+        {
+         "line": 29.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49236-4456419-7275511&type=Single",
+         "player": "Kyrie Irving",
+         "price": -125,
+         "sid": "7275511",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49236-4458594-7279391&type=Single",
+         "player": "Nolan Traore",
+         "price": -111,
+         "sid": "7279391",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49236-4458594-7279392&type=Single",
+         "player": "Nolan Traore",
+         "price": -120,
+         "sid": "7279392",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49236-4459508-7280947&type=Single",
+         "player": "Naji Marshall",
+         "price": -125,
+         "sid": "7280947",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:49236-4459508-7280948&type=Single",
+         "player": "Naji Marshall",
+         "price": -105,
+         "sid": "7280948",
+         "side": "Under"
+        }
+       ]
+      },
+      "betonlineag": {
+       "event_link": "https://sports.betonline.ag/sportsbook/basketball/nba/game/491175871",
+       "event_sid": "491175871",
+       "last_update": "2026-11-09T00:27:34Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": -125,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": -103,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 38.5,
+         "link": null,
+         "player": "Cooper Flagg",
+         "price": -105,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 38.5,
+         "link": null,
+         "player": "Cooper Flagg",
+         "price": -123,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 31.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -111,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 31.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -116,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Zaccharie Risacher",
+         "price": 106,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Zaccharie Risacher",
+         "price": -137,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Naji Marshall",
+         "price": -114,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Naji Marshall",
+         "price": -114,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Danny Wolf",
+         "price": -123,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Danny Wolf",
+         "price": -105,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Caleb Martin",
+         "price": 113,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Caleb Martin",
+         "price": -147,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 28.5,
+         "link": null,
+         "player": "Kyrie Irving",
+         "price": -123,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 28.5,
+         "link": null,
+         "player": "Kyrie Irving",
+         "price": -104,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 31.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": 103,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 31.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -133,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": -120,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": -108,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Daniel Gafford",
+         "price": -125,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Daniel Gafford",
+         "price": -103,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "P.J. Washington",
+         "price": -108,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "P.J. Washington",
+         "price": -120,
+         "sid": null,
+         "side": "Under"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1028754124",
+       "event_sid": "1028754124",
+       "last_update": "2026-11-09T00:28:00Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 38.5,
+         "link": null,
+         "player": "Cooper Flagg",
+         "price": -121,
+         "sid": "4408854332",
+         "side": "Over"
+        },
+        {
+         "line": 38.5,
+         "link": null,
+         "player": "Cooper Flagg",
+         "price": -112,
+         "sid": "4408854333",
+         "side": "Under"
+        },
+        {
+         "line": 30.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -122,
+         "sid": "4408854684",
+         "side": "Over"
+        },
+        {
+         "line": 30.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -110,
+         "sid": "4408854685",
+         "side": "Under"
+        },
+        {
+         "line": 31.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -120,
+         "sid": "4408889295",
+         "side": "Over"
+        },
+        {
+         "line": 31.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -113,
+         "sid": "4408889296",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Naji Marshall",
+         "price": -130,
+         "sid": "4408889617",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Naji Marshall",
+         "price": -103,
+         "sid": "4408889618",
+         "side": "Under"
+        },
+        {
+         "line": 29.5,
+         "link": null,
+         "player": "Kyrie Irving",
+         "price": -113,
+         "sid": "4408851546",
+         "side": "Over"
+        },
+        {
+         "line": 29.5,
+         "link": null,
+         "player": "Kyrie Irving",
+         "price": -120,
+         "sid": "4408851547",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": -118,
+         "sid": "4409083867",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": -114,
+         "sid": "4409083868",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Danny Wolf",
+         "price": -104,
+         "sid": "4409536933",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Danny Wolf",
+         "price": -130,
+         "sid": "4409536934",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": -108,
+         "sid": "4409536937",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": -125,
+         "sid": "4409536938",
+         "side": "Under"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754124",
+       "event_sid": "1028754124",
+       "last_update": "2026-11-09T00:27:53Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 38.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754124?coupon={pickType}|4408854332|{wagerAmount}",
+         "player": "Cooper Flagg",
+         "price": -121,
+         "sid": "4408854332",
+         "side": "Over"
+        },
+        {
+         "line": 38.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754124?coupon={pickType}|4408854333|{wagerAmount}",
+         "player": "Cooper Flagg",
+         "price": -112,
+         "sid": "4408854333",
+         "side": "Under"
+        },
+        {
+         "line": 29.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754124?coupon={pickType}|4408851546|{wagerAmount}",
+         "player": "Kyrie Irving",
+         "price": -113,
+         "sid": "4408851546",
+         "side": "Over"
+        },
+        {
+         "line": 29.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754124?coupon={pickType}|4408851547|{wagerAmount}",
+         "player": "Kyrie Irving",
+         "price": -120,
+         "sid": "4408851547",
+         "side": "Under"
+        },
+        {
+         "line": 30.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754124?coupon={pickType}|4408854684|{wagerAmount}",
+         "player": "Michael Porter Jr",
+         "price": -122,
+         "sid": "4408854684",
+         "side": "Over"
+        },
+        {
+         "line": 30.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754124?coupon={pickType}|4408854685|{wagerAmount}",
+         "player": "Michael Porter Jr",
+         "price": -110,
+         "sid": "4408854685",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754124?coupon={pickType}|4408889617|{wagerAmount}",
+         "player": "Naji Marshall",
+         "price": -130,
+         "sid": "4408889617",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754124?coupon={pickType}|4408889618|{wagerAmount}",
+         "player": "Naji Marshall",
+         "price": -103,
+         "sid": "4408889618",
+         "side": "Under"
+        },
+        {
+         "line": 31.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754124?coupon={pickType}|4408889295|{wagerAmount}",
+         "player": "Julius Randle",
+         "price": -120,
+         "sid": "4408889295",
+         "side": "Over"
+        },
+        {
+         "line": 31.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754124?coupon={pickType}|4408889296|{wagerAmount}",
+         "player": "Julius Randle",
+         "price": -113,
+         "sid": "4408889296",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754124?coupon={pickType}|4409536933|{wagerAmount}",
+         "player": "Danny Wolf",
+         "price": -104,
+         "sid": "4409536933",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754124?coupon={pickType}|4409536934|{wagerAmount}",
+         "player": "Danny Wolf",
+         "price": -130,
+         "sid": "4409536934",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754124?coupon={pickType}|4409536937|{wagerAmount}",
+         "player": "Day'Ron Sharpe",
+         "price": -108,
+         "sid": "4409536937",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754124?coupon={pickType}|4409536938|{wagerAmount}",
+         "player": "Day'Ron Sharpe",
+         "price": -125,
+         "sid": "4409536938",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754124?coupon={pickType}|4409083867|{wagerAmount}",
+         "player": "Nolan Traore",
+         "price": -118,
+         "sid": "4409083867",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754124?coupon={pickType}|4409083868|{wagerAmount}",
+         "player": "Nolan Traore",
+         "price": -114,
+         "sid": "4409083868",
+         "side": "Under"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/basketball/nba/brooklyn-nets-dallas-mavericks-202611081930",
+       "event_sid": "33130575",
+       "last_update": "2026-11-09T00:27:46Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 35.5,
+         "link": null,
+         "player": "Cooper Flagg",
+         "price": -170,
+         "sid": "2471367526",
+         "side": "Over"
+        },
+        {
+         "line": 35.5,
+         "link": null,
+         "player": "Cooper Flagg",
+         "price": 130,
+         "sid": "2471367527",
+         "side": "Under"
+        },
+        {
+         "line": 36.5,
+         "link": null,
+         "player": "Cooper Flagg",
+         "price": -145,
+         "sid": "2471367528",
+         "side": "Over"
+        },
+        {
+         "line": 36.5,
+         "link": null,
+         "player": "Cooper Flagg",
+         "price": 110,
+         "sid": "2471367529",
+         "side": "Under"
+        },
+        {
+         "line": 37.5,
+         "link": null,
+         "player": "Cooper Flagg",
+         "price": -125,
+         "sid": "2471367530",
+         "side": "Over"
+        },
+        {
+         "line": 37.5,
+         "link": null,
+         "player": "Cooper Flagg",
+         "price": -105,
+         "sid": "2471367531",
+         "side": "Under"
+        },
+        {
+         "line": 38.5,
+         "link": null,
+         "player": "Cooper Flagg",
+         "price": -105,
+         "sid": "2471367193",
+         "side": "Over"
+        },
+        {
+         "line": 38.5,
+         "link": null,
+         "player": "Cooper Flagg",
+         "price": -125,
+         "sid": "2471367194",
+         "side": "Under"
+        },
+        {
+         "line": 39.5,
+         "link": null,
+         "player": "Cooper Flagg",
+         "price": 110,
+         "sid": "2471367532",
+         "side": "Over"
+        },
+        {
+         "line": 39.5,
+         "link": null,
+         "player": "Cooper Flagg",
+         "price": -145,
+         "sid": "2471367533",
+         "side": "Under"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Daniel Gafford",
+         "price": -200,
+         "sid": "2471791350",
+         "side": "Over"
+        },
+        {
+         "line": 13.5,
+         "link": null,
+         "player": "Daniel Gafford",
+         "price": 150,
+         "sid": "2471791351",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Daniel Gafford",
+         "price": -150,
+         "sid": "2471791352",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Daniel Gafford",
+         "price": 115,
+         "sid": "2471791353",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Daniel Gafford",
+         "price": -115,
+         "sid": "2471791348",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Daniel Gafford",
+         "price": -115,
+         "sid": "2471791349",
+         "side": "Under"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Daniel Gafford",
+         "price": 110,
+         "sid": "2471791354",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Daniel Gafford",
+         "price": -145,
+         "sid": "2471791355",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Daniel Gafford",
+         "price": 140,
+         "sid": "2471791356",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Daniel Gafford",
+         "price": -185,
+         "sid": "2471791357",
+         "side": "Under"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Danny Wolf",
+         "price": -210,
+         "sid": "2471798869",
+         "side": "Over"
+        },
+        {
+         "line": 14.5,
+         "link": null,
+         "player": "Danny Wolf",
+         "price": 155,
+         "sid": "2471798870",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Danny Wolf",
+         "price": -160,
+         "sid": "2471798871",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": null,
+         "player": "Danny Wolf",
+         "price": 120,
+         "sid": "2471798872",
+         "side": "Under"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Danny Wolf",
+         "price": -125,
+         "sid": "2471798827",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Danny Wolf",
+         "price": -105,
+         "sid": "2471798828",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Danny Wolf",
+         "price": 100,
+         "sid": "2471798873",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Danny Wolf",
+         "price": -130,
+         "sid": "2471798874",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Danny Wolf",
+         "price": 125,
+         "sid": "2471798875",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Danny Wolf",
+         "price": -165,
+         "sid": "2471798876",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": -210,
+         "sid": "2471367362",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": 155,
+         "sid": "2471367363",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": -165,
+         "sid": "2471365244",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": 125,
+         "sid": "2471365245",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": -130,
+         "sid": "2471365246",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": 100,
+         "sid": "2471365247",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": -105,
+         "sid": "2471367199",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": -125,
+         "sid": "2471367200",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": 115,
+         "sid": "2471365248",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "Day'Ron Sharpe",
+         "price": -150,
+         "sid": "2471365249",
+         "side": "Under"
+        },
+        {
+         "line": 30.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -170,
+         "sid": "2471366914",
+         "side": "Over"
+        },
+        {
+         "line": 30.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": 130,
+         "sid": "2471366915",
+         "side": "Under"
+        },
+        {
+         "line": 31.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -145,
+         "sid": "2471366916",
+         "side": "Over"
+        },
+        {
+         "line": 31.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": 110,
+         "sid": "2471367517",
+         "side": "Under"
+        },
+        {
+         "line": 32.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -120,
+         "sid": "2471367195",
+         "side": "Over"
+        },
+        {
+         "line": 32.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -110,
+         "sid": "2471367196",
+         "side": "Under"
+        },
+        {
+         "line": 33.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": 100,
+         "sid": "2471367518",
+         "side": "Over"
+        },
+        {
+         "line": 33.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -130,
+         "sid": "2471367519",
+         "side": "Under"
+        },
+        {
+         "line": 34.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": 115,
+         "sid": "2471367520",
+         "side": "Over"
+        },
+        {
+         "line": 34.5,
+         "link": null,
+         "player": "Julius Randle",
+         "price": -150,
+         "sid": "2471367521",
+         "side": "Under"
+        },
+        {
+         "line": 26.5,
+         "link": null,
+         "player": "Kyrie Irving",
+         "price": -190,
+         "sid": "2471366902",
+         "side": "Over"
+        },
+        {
+         "line": 26.5,
+         "link": null,
+         "player": "Kyrie Irving",
+         "price": 145,
+         "sid": "2471366903",
+         "side": "Under"
+        },
+        {
+         "line": 27.5,
+         "link": null,
+         "player": "Kyrie Irving",
+         "price": -160,
+         "sid": "2471366904",
+         "side": "Over"
+        },
+        {
+         "line": 27.5,
+         "link": null,
+         "player": "Kyrie Irving",
+         "price": 120,
+         "sid": "2471366905",
+         "side": "Under"
+        },
+        {
+         "line": 28.5,
+         "link": null,
+         "player": "Kyrie Irving",
+         "price": -130,
+         "sid": "2471366906",
+         "side": "Over"
+        },
+        {
+         "line": 28.5,
+         "link": null,
+         "player": "Kyrie Irving",
+         "price": 100,
+         "sid": "2471366907",
+         "side": "Under"
+        },
+        {
+         "line": 29.5,
+         "link": null,
+         "player": "Kyrie Irving",
+         "price": -110,
+         "sid": "2471367197",
+         "side": "Over"
+        },
+        {
+         "line": 29.5,
+         "link": null,
+         "player": "Kyrie Irving",
+         "price": -120,
+         "sid": "2471367198",
+         "side": "Under"
+        },
+        {
+         "line": 30.5,
+         "link": null,
+         "player": "Kyrie Irving",
+         "price": 110,
+         "sid": "2471366908",
+         "side": "Over"
+        },
+        {
+         "line": 30.5,
+         "link": null,
+         "player": "Kyrie Irving",
+         "price": -145,
+         "sid": "2471366909",
+         "side": "Under"
+        },
+        {
+         "line": 28.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -170,
+         "sid": "2471367350",
+         "side": "Over"
+        },
+        {
+         "line": 28.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": 130,
+         "sid": "2471367351",
+         "side": "Under"
+        },
+        {
+         "line": 29.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -145,
+         "sid": "2471367352",
+         "side": "Over"
+        },
+        {
+         "line": 29.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": 110,
+         "sid": "2471367353",
+         "side": "Under"
+        },
+        {
+         "line": 30.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -120,
+         "sid": "2471367201",
+         "side": "Over"
+        },
+        {
+         "line": 30.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -110,
+         "sid": "2471367202",
+         "side": "Under"
+        },
+        {
+         "line": 31.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": 100,
+         "sid": "2471367354",
+         "side": "Over"
+        },
+        {
+         "line": 31.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -130,
+         "sid": "2471367355",
+         "side": "Under"
+        },
+        {
+         "line": 32.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": 120,
+         "sid": "2471367356",
+         "side": "Over"
+        },
+        {
+         "line": 32.5,
+         "link": null,
+         "player": "Michael Porter Jr",
+         "price": -160,
+         "sid": "2471367357",
+         "side": "Under"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Naji Marshall",
+         "price": -185,
+         "sid": "2471487553",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": null,
+         "player": "Naji Marshall",
+         "price": 140,
+         "sid": "2471487554",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Naji Marshall",
+         "price": -145,
+         "sid": "2471487555",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Naji Marshall",
+         "price": 110,
+         "sid": "2471487556",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Naji Marshall",
+         "price": -115,
+         "sid": "2471487507",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Naji Marshall",
+         "price": -115,
+         "sid": "2471487508",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Naji Marshall",
+         "price": 110,
+         "sid": "2471487557",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Naji Marshall",
+         "price": -145,
+         "sid": "2471487558",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Naji Marshall",
+         "price": 135,
+         "sid": "2471487559",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Naji Marshall",
+         "price": -180,
+         "sid": "2471487560",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": -210,
+         "sid": "2471468832",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": 155,
+         "sid": "2471468833",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": -165,
+         "sid": "2471468834",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": 125,
+         "sid": "2471468835",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": -130,
+         "sid": "2471468836",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": 100,
+         "sid": "2471468837",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": -105,
+         "sid": "2471468510",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": -125,
+         "sid": "2471468511",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": 115,
+         "sid": "2471468838",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "Nolan Traore",
+         "price": -150,
+         "sid": "2471468839",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "P.J. Washington",
+         "price": -200,
+         "sid": "2471790877",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": null,
+         "player": "P.J. Washington",
+         "price": 150,
+         "sid": "2471790878",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "P.J. Washington",
+         "price": -160,
+         "sid": "2471791028",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": null,
+         "player": "P.J. Washington",
+         "price": 120,
+         "sid": "2471791029",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "P.J. Washington",
+         "price": -130,
+         "sid": "2471791211",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": null,
+         "player": "P.J. Washington",
+         "price": 100,
+         "sid": "2471791212",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "P.J. Washington",
+         "price": -105,
+         "sid": "2471791346",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": null,
+         "player": "P.J. Washington",
+         "price": -125,
+         "sid": "2471791347",
+         "side": "Under"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "P.J. Washington",
+         "price": 115,
+         "sid": "2471791213",
+         "side": "Over"
+        },
+        {
+         "line": 23.5,
+         "link": null,
+         "player": "P.J. Washington",
+         "price": -150,
+         "sid": "2471791214",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Zaccharie Risacher",
+         "price": -260,
+         "sid": "2471791217",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Zaccharie Risacher",
+         "price": 190,
+         "sid": "2471791218",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Zaccharie Risacher",
+         "price": -185,
+         "sid": "2471791030",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Zaccharie Risacher",
+         "price": 140,
+         "sid": "2471791031",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Zaccharie Risacher",
+         "price": -135,
+         "sid": "2471791219",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Zaccharie Risacher",
+         "price": 105,
+         "sid": "2471791220",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Zaccharie Risacher",
+         "price": 100,
+         "sid": "2471790992",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": null,
+         "player": "Zaccharie Risacher",
+         "price": -130,
+         "sid": "2471790993",
+         "side": "Under"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Zaccharie Risacher",
+         "price": 130,
+         "sid": "2471791032",
+         "side": "Over"
+        },
+        {
+         "line": 12.5,
+         "link": null,
+         "player": "Zaccharie Risacher",
+         "price": -170,
+         "sid": "2471791033",
+         "side": "Under"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/34973492",
+       "event_sid": "34973492",
+       "last_update": "2026-11-09T00:27:53Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 38.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA387202749%232356174765_13L42648Q11433825715Q20",
+         "player": "Cooper Flagg",
+         "price": -115,
+         "sid": "0QA387202749#2356174765_13L42648Q11433825715Q20",
+         "side": "Over"
+        },
+        {
+         "line": 38.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA387202749%232356174766_15L42648Q1-1919120915Q20",
+         "player": "Cooper Flagg",
+         "price": -115,
+         "sid": "0QA387202749#2356174766_15L42648Q1-1919120915Q20",
+         "side": "Under"
+        },
+        {
+         "line": 32.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA387202731%232356176706_13L42648Q1-1513825307Q20",
+         "player": "Julius Randle",
+         "price": -118,
+         "sid": "0QA387202731#2356176706_13L42648Q1-1513825307Q20",
+         "side": "Over"
+        },
+        {
+         "line": 32.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA387202731%232356176707_15L42648Q1781189804Q20",
+         "player": "Julius Randle",
+         "price": -111,
+         "sid": "0QA387202731#2356176707_15L42648Q1781189804Q20",
+         "side": "Under"
+        },
+        {
+         "line": 30.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA387203432%232356104774_13L42648Q1655210411Q20",
+         "player": "Michael Porter Jr",
+         "price": -118,
+         "sid": "0QA387203432#2356104774_13L42648Q1655210411Q20",
+         "side": "Over"
+        },
+        {
+         "line": 30.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA387203432%232356104775_15L42648Q1-737468840Q20",
+         "player": "Michael Porter Jr",
+         "price": -111,
+         "sid": "0QA387203432#2356104775_15L42648Q1-737468840Q20",
+         "side": "Under"
+        },
+        {
+         "line": 29.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA387203290%232356170543_13L42648Q1992551795Q20",
+         "player": "Kyrie Irving",
+         "price": -112,
+         "sid": "0QA387203290#2356170543_13L42648Q1992551795Q20",
+         "side": "Over"
+        },
+        {
+         "line": 29.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA387203290%232356170544_15L42648Q11314653630Q20",
+         "player": "Kyrie Irving",
+         "price": -118,
+         "sid": "0QA387203290#2356170544_15L42648Q11314653630Q20",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA387203087%232356170964_13L42648Q11293211352Q20",
+         "player": "P.J. Washington",
+         "price": -105,
+         "sid": "0QA387203087#2356170964_13L42648Q11293211352Q20",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA387203087%232356170965_15L42648Q1-746029333Q20",
+         "player": "P.J. Washington",
+         "price": -125,
+         "sid": "0QA387203087#2356170965_15L42648Q1-746029333Q20",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA387202823%232357154402_13L42648Q1155166553Q20",
+         "player": "Day'Ron Sharpe",
+         "price": -106,
+         "sid": "0QA387202823#2357154402_13L42648Q1155166553Q20",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA387202823%232357154403_15L42648Q1-97865098Q20",
+         "player": "Day'Ron Sharpe",
+         "price": -124,
+         "sid": "0QA387202823#2357154403_15L42648Q1-97865098Q20",
+         "side": "Under"
+        },
+        {
+         "line": 20.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA387202633%232356085159_13L42648Q1-1409456889Q20",
+         "player": "Nolan Traore",
+         "price": -104,
+         "sid": "0QA387202633#2356085159_13L42648Q1-1409456889Q20",
+         "side": "Over"
+        },
+        {
+         "line": 20.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA387202633%232356085161_15L42648Q1302267733Q20",
+         "player": "Nolan Traore",
+         "price": -127,
+         "sid": "0QA387202633#2356085161_15L42648Q1302267733Q20",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA387203294%232356262320_13L42648Q1725505769Q20",
+         "player": "Naji Marshall",
+         "price": -114,
+         "sid": "0QA387203294#2356262320_13L42648Q1725505769Q20",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA387203294%232356262321_15L42648Q11233333097Q20",
+         "player": "Naji Marshall",
+         "price": -116,
+         "sid": "0QA387203294#2356262321_15L42648Q11233333097Q20",
+         "side": "Under"
+        },
+        {
+         "line": 16.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA387203206%232356248342_13L42648Q12056725501Q20",
+         "player": "Danny Wolf",
+         "price": -125,
+         "sid": "0QA387203206#2356248342_13L42648Q12056725501Q20",
+         "side": "Over"
+        },
+        {
+         "line": 16.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA387203206%232356248343_15L42648Q1-1425095255Q20",
+         "player": "Danny Wolf",
+         "price": -105,
+         "sid": "0QA387203206#2356248343_15L42648Q1-1425095255Q20",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA387202989%232356447661_13L42648Q11467344483Q20",
+         "player": "Daniel Gafford",
+         "price": -116,
+         "sid": "0QA387202989#2356447661_13L42648Q11467344483Q20",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA387202989%232356447662_15L42648Q11216533194Q20",
+         "player": "Daniel Gafford",
+         "price": -113,
+         "sid": "0QA387202989#2356447662_15L42648Q11216533194Q20",
+         "side": "Under"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA387203293%232356262821_13L42648Q11159653413Q20",
+         "player": "Zaccharie Risacher",
+         "price": -102,
+         "sid": "0QA387203293#2356262821_13L42648Q11159653413Q20",
+         "side": "Over"
+        },
+        {
+         "line": 11.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA387203293%232356262822_15L42648Q1-818994987Q20",
+         "player": "Zaccharie Risacher",
+         "price": -128,
+         "sid": "0QA387203293#2356262822_15L42648Q1-818994987Q20",
+         "side": "Under"
+        }
+       ]
+      },
+      "espnbet": {
+       "event_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/nba/event/de32eb4e-66ab-4a2a-b62b-7c5606f70e75",
+       "event_sid": "de32eb4e-66ab-4a2a-b62b-7c5606f70e75",
+       "last_update": "2026-11-09T00:27:11Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 38.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=6936967c-0a6a-48a4-bbdf-6e6d0e4761f9&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Cooper Flagg",
+         "price": -110,
+         "sid": "6936967c-0a6a-48a4-bbdf-6e6d0e4761f9",
+         "side": "Over"
+        },
+        {
+         "line": 38.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=384ba44b-3bde-47d1-8eed-23512c3b39ec&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Cooper Flagg",
+         "price": -120,
+         "sid": "384ba44b-3bde-47d1-8eed-23512c3b39ec",
+         "side": "Under"
+        },
+        {
+         "line": 32.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=9b7acc88-f044-4d04-803e-7239436d18eb&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Julius Randle",
+         "price": -110,
+         "sid": "9b7acc88-f044-4d04-803e-7239436d18eb",
+         "side": "Over"
+        },
+        {
+         "line": 32.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=0dcc4872-7c0a-43bd-b729-7a1ff74bd19b&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Julius Randle",
+         "price": -120,
+         "sid": "0dcc4872-7c0a-43bd-b729-7a1ff74bd19b",
+         "side": "Under"
+        },
+        {
+         "line": 29.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=546ac152-2c76-4e61-bbff-814c1cba0f69&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Kyrie Irving",
+         "price": -110,
+         "sid": "546ac152-2c76-4e61-bbff-814c1cba0f69",
+         "side": "Over"
+        },
+        {
+         "line": 29.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=b878c16a-d3da-4b0f-8f3b-f5629ed7ffe1&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Kyrie Irving",
+         "price": -120,
+         "sid": "b878c16a-d3da-4b0f-8f3b-f5629ed7ffe1",
+         "side": "Under"
+        },
+        {
+         "line": 30.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=90f7b691-f7be-48e2-ab71-7d04cdd54f6e&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Michael Porter Jr",
+         "price": -125,
+         "sid": "90f7b691-f7be-48e2-ab71-7d04cdd54f6e",
+         "side": "Over"
+        },
+        {
+         "line": 30.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=aa38c1f8-dd59-497b-8d6a-22b0eebbea0d&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Michael Porter Jr",
+         "price": -105,
+         "sid": "aa38c1f8-dd59-497b-8d6a-22b0eebbea0d",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=2a8a792f-062c-4009-9e4e-caf79f798ecf&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "P.J. Washington",
+         "price": -105,
+         "sid": "2a8a792f-062c-4009-9e4e-caf79f798ecf",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=0d85d800-7cfe-4a41-8bb3-9a9856407178&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "P.J. Washington",
+         "price": -125,
+         "sid": "0d85d800-7cfe-4a41-8bb3-9a9856407178",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=78e15b53-ddf0-402a-8e8c-a161d383f858&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Day'Ron Sharpe",
+         "price": -105,
+         "sid": "78e15b53-ddf0-402a-8e8c-a161d383f858",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=19adbd8a-769d-4681-930d-06d3b6da5e6c&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Day'Ron Sharpe",
+         "price": -125,
+         "sid": "19adbd8a-769d-4681-930d-06d3b6da5e6c",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=8c2649eb-0715-4684-99eb-95bb20084b05&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Daniel Gafford",
+         "price": -110,
+         "sid": "8c2649eb-0715-4684-99eb-95bb20084b05",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=a6a57069-d9ca-4ee5-ac64-b5da6439031a&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Daniel Gafford",
+         "price": -120,
+         "sid": "a6a57069-d9ca-4ee5-ac64-b5da6439031a",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=47b99916-709f-4031-98b7-225a81d85367&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Naji Marshall",
+         "price": -115,
+         "sid": "47b99916-709f-4031-98b7-225a81d85367",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=674746f8-fe73-4a2c-8f69-b1279f92e990&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Naji Marshall",
+         "price": -115,
+         "sid": "674746f8-fe73-4a2c-8f69-b1279f92e990",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=d976d0c0-47bf-43cc-a58e-de21e9186c11&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Nolan Traore",
+         "price": -120,
+         "sid": "d976d0c0-47bf-43cc-a58e-de21e9186c11",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=3cb30601-06e8-453f-b377-146cc14e3185&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Nolan Traore",
+         "price": -110,
+         "sid": "3cb30601-06e8-453f-b377-146cc14e3185",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=32300e1e-ad82-4c1e-b731-58cb0b0cca0b&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Danny Wolf",
+         "price": -105,
+         "sid": "32300e1e-ad82-4c1e-b731-58cb0b0cca0b",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=e5d7bda8-2307-4422-996f-ed1a2cadca0a&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Danny Wolf",
+         "price": -125,
+         "sid": "e5d7bda8-2307-4422-996f-ed1a2cadca0a",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=954a3b9b-f6d2-4700-bd57-ed3de30fe660&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Zaccharie Risacher",
+         "price": -125,
+         "sid": "954a3b9b-f6d2-4700-bd57-ed3de30fe660",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=68b2e676-6b35-4bd4-b13e-18f87cb0a997&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Zaccharie Risacher",
+         "price": -105,
+         "sid": "68b2e676-6b35-4bd4-b13e-18f87cb0a997",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=e6340b69-6f78-498e-853e-d0554a8b063b&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Caleb Martin",
+         "price": -130,
+         "sid": "e6340b69-6f78-498e-853e-d0554a8b063b",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=9ffbaae3-81ae-4c8f-81ab-2f87e2b78109&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Caleb Martin",
+         "price": 100,
+         "sid": "9ffbaae3-81ae-4c8f-81ab-2f87e2b78109",
+         "side": "Under"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/nba/brooklyn-nets-%40-dallas-mavericks-36286507",
+       "event_sid": "36286507",
+       "last_update": "2026-11-09T00:27:24Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623740061&selectionId=71463821",
+         "player": "Zaccharie Risacher",
+         "price": -113,
+         "sid": "71463821",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623740061&selectionId=71463823",
+         "player": "Zaccharie Risacher",
+         "price": -113,
+         "sid": "71463823",
+         "side": "Under"
+        },
+        {
+         "line": 31.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623704936&selectionId=12260654",
+         "player": "Julius Randle",
+         "price": -111,
+         "sid": "12260654",
+         "side": "Over"
+        },
+        {
+         "line": 31.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623704936&selectionId=12260655",
+         "player": "Julius Randle",
+         "price": -115,
+         "sid": "12260655",
+         "side": "Under"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623740059&selectionId=62687064",
+         "player": "P.J. Washington",
+         "price": -104,
+         "sid": "62687064",
+         "side": "Over"
+        },
+        {
+         "line": 22.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623740059&selectionId=62687065",
+         "player": "P.J. Washington",
+         "price": -122,
+         "sid": "62687065",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623740060&selectionId=39295949",
+         "player": "Naji Marshall",
+         "price": -115,
+         "sid": "39295949",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623740060&selectionId=39295948",
+         "player": "Naji Marshall",
+         "price": -111,
+         "sid": "39295948",
+         "side": "Under"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623740058&selectionId=27543227",
+         "player": "Daniel Gafford",
+         "price": -113,
+         "sid": "27543227",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623740058&selectionId=27543228",
+         "player": "Daniel Gafford",
+         "price": -113,
+         "sid": "27543228",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623709496&selectionId=42351813",
+         "player": "Day'Ron Sharpe",
+         "price": 100,
+         "sid": "42351813",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623709496&selectionId=42351812",
+         "player": "Day'Ron Sharpe",
+         "price": -128,
+         "sid": "42351812",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623744753&selectionId=85959192",
+         "player": "Nolan Traore",
+         "price": -113,
+         "sid": "85959192",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623744753&selectionId=85959193",
+         "player": "Nolan Traore",
+         "price": -113,
+         "sid": "85959193",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623744860&selectionId=67169465",
+         "player": "Danny Wolf",
+         "price": -108,
+         "sid": "67169465",
+         "side": "Over"
+        },
+        {
+         "line": 17.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623744860&selectionId=67169462",
+         "player": "Danny Wolf",
+         "price": -118,
+         "sid": "67169462",
+         "side": "Under"
+        },
+        {
+         "line": 38.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623702846&selectionId=75811240",
+         "player": "Cooper Flagg",
+         "price": -104,
+         "sid": "75811240",
+         "side": "Over"
+        },
+        {
+         "line": 38.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623702846&selectionId=75811222",
+         "player": "Cooper Flagg",
+         "price": -122,
+         "sid": "75811222",
+         "side": "Under"
+        },
+        {
+         "line": 29.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623703122&selectionId=12260613",
+         "player": "Kyrie Irving",
+         "price": -106,
+         "sid": "12260613",
+         "side": "Over"
+        },
+        {
+         "line": 29.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623703122&selectionId=12260614",
+         "player": "Kyrie Irving",
+         "price": -120,
+         "sid": "12260614",
+         "side": "Under"
+        },
+        {
+         "line": 30.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623703482&selectionId=27559094",
+         "player": "Michael Porter Jr",
+         "price": -122,
+         "sid": "27559094",
+         "side": "Over"
+        },
+        {
+         "line": 30.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623703482&selectionId=27559095",
+         "player": "Michael Porter Jr",
+         "price": -104,
+         "sid": "27559095",
+         "side": "Under"
+        }
+       ]
+      },
+      "hardrockbet": {
+       "event_link": "https://app.hardrock.bet/home/competition/nba/9117641818077528463",
+       "event_sid": "9117641818077528463",
+       "last_update": "2026-11-09T00:27:58Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 31.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8389982562677817738",
+         "player": "Julius Randle",
+         "price": -120,
+         "sid": "8389982562677817738",
+         "side": "Over"
+        },
+        {
+         "line": 31.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1512352612985471370",
+         "player": "Julius Randle",
+         "price": -110,
+         "sid": "1512352612985471370",
+         "side": "Under"
+        },
+        {
+         "line": 30.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6890663252634763657",
+         "player": "Michael Porter Jr",
+         "price": -120,
+         "sid": "6890663252634763657",
+         "side": "Over"
+        },
+        {
+         "line": 30.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3356604182544122249",
+         "player": "Michael Porter Jr",
+         "price": -110,
+         "sid": "3356604182544122249",
+         "side": "Under"
+        },
+        {
+         "line": 29.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7555103351980032433",
+         "player": "Kyrie Irving",
+         "price": -110,
+         "sid": "7555103351980032433",
+         "side": "Over"
+        },
+        {
+         "line": 29.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7673129328152019377",
+         "player": "Kyrie Irving",
+         "price": -120,
+         "sid": "7673129328152019377",
+         "side": "Under"
+        },
+        {
+         "line": 21.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7398018238843584909",
+         "player": "Day'Ron Sharpe",
+         "price": -105,
+         "sid": "7398018238843584909",
+         "side": "Over"
+        },
+        {
+         "line": 21.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4297641739119886733",
+         "player": "Day'Ron Sharpe",
+         "price": -125,
+         "sid": "4297641739119886733",
+         "side": "Under"
+        },
+        {
+         "line": 38.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4198362917237817759",
+         "player": "Cooper Flagg",
+         "price": -110,
+         "sid": "4198362917237817759",
+         "side": "Over"
+        },
+        {
+         "line": 38.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/976688294737871263",
+         "player": "Cooper Flagg",
+         "price": -120,
+         "sid": "976688294737871263",
+         "side": "Under"
+        },
+        {
+         "line": 18.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8387457452620251560",
+         "player": "Naji Marshall",
+         "price": -120,
+         "sid": "8387457452620251560",
+         "side": "Over"
+        },
+        {
+         "line": 18.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3436488534140256680",
+         "player": "Naji Marshall",
+         "price": -110,
+         "sid": "3436488534140256680",
+         "side": "Under"
+        },
+        {
+         "line": 19.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3308050414781464990",
+         "player": "Nolan Traore",
+         "price": -120,
+         "sid": "3308050414781464990",
+         "side": "Over"
+        },
+        {
+         "line": 19.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4291312877175964062",
+         "player": "Nolan Traore",
+         "price": -110,
+         "sid": "4291312877175964062",
+         "side": "Under"
+        },
+        {
+         "line": 17.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5875319980846875012",
+         "player": "Danny Wolf",
+         "price": -105,
+         "sid": "5875319980846875012",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4954444784780575135",
+         "player": "Daniel Gafford",
+         "price": -115,
+         "sid": "4954444784780575135",
+         "side": "Over"
+        },
+        {
+         "line": 15.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7654845342598431135",
+         "player": "Daniel Gafford",
+         "price": -115,
+         "sid": "7654845342598431135",
+         "side": "Under"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-09T00:28:09Z",
+     "kind": "close",
+     "minutes_to_tip": 11.8,
+     "raw": "raw/2026-11-08/c5b6599e8e4949749798dcdadceb68d4-player_points_rebounds_assists-close-20261109T002809678263Z.json",
+     "rev": 1
     }
    ],
    "sport": "basketball_nba"
@@ -31378,8 +33661,8 @@
   }
  },
  "issues": [],
- "spent_month": 141,
- "spent_today": 13,
+ "spent_month": 142,
+ "spent_today": 14,
  "stop": null,
- "updated": "2026-11-08T23:58:08Z"
+ "updated": "2026-11-09T00:28:09Z"
 }
