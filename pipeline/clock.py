@@ -20,7 +20,9 @@ job is due and dispatches it:
             scheduled runs fired from 3:43 am to 4:25 pm ET): box scores 5:20, lab 6:10 and 2:35, the
             NBA full-board screen 10:40 and 4:20, the NFL/soccer screen (6:45 Sat/Sun, 10:30 Sun,
             10:40 Tue/Wed, 4:15 Sun/Mon/Thu) and the 6:40 pm late-news re-screen. Their own crons stay
-            as backups; every one of them is safe to run twice.
+            as backups. The screens and the lab are free; late-news and auto may spend credits, and
+            dk-odds autorequest.py counts what each mode already requested today, so a second run of
+            either never spends past one run's budget.
 
 It never calls the Odds API itself and needs no API key. Dispatching dk-odds needs the
 DK_ODDS_DISPATCH secret: a fine-grained token with Actions read/write on dk-odds only.
@@ -95,8 +97,8 @@ ACTIONS = {  # action -> (repo, workflow file, inputs, token env var)
     "lab": ("jdarby00/dk-odds", "lab.yml", {}, "DK_ODDS_DISPATCH"),
     "escreen": ("jdarby00/dk-odds", "espn-screen.yml", {}, "DK_ODDS_DISPATCH"),
     "mscreen": ("jdarby00/dk-odds", "market-screen.yml", {}, "DK_ODDS_DISPATCH"),
-    # late-news re-screens for free and may price up to 3 flagged spreads (1 credit each); autorequest skips
-    # game-markets already requested today, so a second run (its own cron firing late) adds no repeat credits.
+    # late-news re-screens for free and may price up to 3 flagged spreads (1 credit each); autorequest subtracts
+    # the late-news spreads already requested today, so a second run (its own cron firing late) spends nothing more.
     "latenews": ("jdarby00/dk-odds", "late-news.yml", {}, "DK_ODDS_DISPATCH"),
     "self": ("jdarby00/ev-data", "clock.yml", {}, "GITHUB_TOKEN"),
     # Token check: a dk-odds job that does nothing when its data is already there (no credits).
@@ -192,8 +194,8 @@ def ops_jobs(now, day, nba_tips, done):
     for key, (h, m), action, days, late_min in OPS_JOBS:
         if key in done or day.weekday() not in days:
             continue
-        if action == "latenews" and not nba_tips:
-            continue  # the late-news re-screen is for NBA nights
+        if action in ("latenews", "escreen") and not nba_tips:
+            continue  # the NBA screens are for NBA nights (and every run costs private-repo Actions minutes)
         at = dt.datetime.combine(day, dt.time(h, m), ET).astimezone(UTC)
         if now <= at + dt.timedelta(minutes=late_min):
             jobs.append((at, key, action, []))
@@ -231,6 +233,7 @@ def plan(now, day, slate, prices, done, starts=()):
                  if t <= f + dt.timedelta(minutes=COLLECTOR_REACH_MIN)}
     collector |= {k.split(":", 1)[1] for k in done if k.startswith("close:")}
     collector -= {k.split(":", 1)[1] for k in done if k.startswith("closefail:")}  # collector call gave up
+    collector |= have_keys  # tips the collector already closed
     free = sorted({t for t in starts if iso(t) not in collector and f"fclose:{iso(t)}" not in done
                    and t - now > dt.timedelta(minutes=LAST_CALL_MIN)})
     while free:
@@ -264,23 +267,27 @@ def dispatch(action, dry_run=False):
 
 
 def git(*args):
-    return subprocess.run(["git", "-C", ROOT, *args], capture_output=True, text=True)
+    try:
+        return subprocess.run(["git", "-C", ROOT, *args], capture_output=True, text=True, timeout=90)
+    except subprocess.TimeoutExpired:  # a hung git must never run the job past its time limit
+        return subprocess.CompletedProcess(args, 1, "", "timeout")
 
 
-def save_state(path_, state, msg):
+def save_state(path_, state, msg, tries=3):
     with open(path_, "w") as fh:
         json.dump(state, fh, indent=1, sort_keys=True)
         fh.write("\n")
     git("add", os.path.relpath(path_, ROOT))
     if git("diff", "--cached", "--quiet").returncode == 0:
-        return
+        return True
     git("-c", "user.name=ev-data clock", "-c", "user.email=ev-data@users.noreply.github.com",
         "commit", "-q", "-m", msg)
-    for _ in range(3):
+    for _ in range(tries):
         if git("pull", "-q", "--rebase", "origin", "main").returncode == 0 and git("push", "-q").returncode == 0:
-            return
+            return True
         time.sleep(5)
     print("  could not push clock state; it will be retried next save")
+    return False
 
 
 def next_day_start(day):
@@ -289,28 +296,56 @@ def next_day_start(day):
 
 
 def hand_over(state, state_path, day, now, dry_run, sleep):
-    """Dispatch a fresh clock run (retried); log it. Returns True if a fresh run was started."""
-    note = ""
+    """Push the state first (so the fresh run never repeats a job), then dispatch a fresh clock run
+    (retried). Returns True if a fresh run was started."""
+    line = f"{iso(now)} hand-over to a fresh clock run"
+    print(line)
+    state["log"].append(line)
+    if not dry_run:
+        save_state(state_path, state, f"clock: hand-over {day.isoformat()}", tries=12)
+    ok, note = False, ""
     for i in range(HANDOVER_TRIES):
         ok, note = dispatch("self", dry_run)
         if ok:
             break
         if i + 1 < HANDOVER_TRIES:
             sleep(30)
-    line = f"{iso(now)} hand-over to a fresh clock run: {note}"
-    print(line)
-    state["log"].append(line)
-    if not dry_run:
-        save_state(state_path, state, f"clock: hand-over {day.isoformat()}")
+    print(f"  {note}")
     return ok
 
 
 def run(once=False, dry_run=False, now_fn=lambda: dt.datetime.now(UTC), sleep=time.sleep, get=None, chain=False):
-    """Fire today's jobs. chain=True: also roll into the next ET day and keep handing over, never stopping."""
-    started = now_fn()
-    tries = {}
-    board = {"at": None, "ok": True, "starts": [], "day": None}  # scoreboard cache
-    day = state_path = state = None
+    """Fire today's jobs. chain=True: also roll into the next ET day and keep handing over, never stopping;
+    an unexpected error is logged and the loop carries on; after 5 in one run it stops without a hand-over,
+    so a persistent bug can never turn into a loop of fresh runs (the backup crons restart it)."""
+    if not chain:
+        return _run(once, dry_run, now_fn, sleep, get, chain)
+    errors = 0
+    ctx = {}
+    while True:
+        try:
+            return _run(once, dry_run, now_fn, sleep, get, chain, ctx)
+        except Exception as e:  # keep the chain alive: never die without a hand-over
+            errors += 1
+            print(f"{iso(now_fn())} clock error ({errors}): {type(e).__name__}: {e}")
+            st = ctx.get("state") or {"log": [], "done": {}}
+            if errors >= 5:  # a persistent error: stop without a hand-over (no restart loop); a backup cron restarts
+                print("  5 errors in this run: stopping; the next backup cron restarts the clock")
+                return st
+            if now_fn() >= ctx.get("started", now_fn()) + RUN_BUDGET:
+                d = ctx.get("day") or now_fn().astimezone(ET).date()
+                path_ = ctx.get("state_path") or os.path.join(ROOT, "clock", f"{d.isoformat()}.json")
+                hand_over(st, path_, d, now_fn(), dry_run, sleep)
+                return st
+            sleep(60)
+
+
+def _run(once, dry_run, now_fn, sleep, get, chain, ctx=None):
+    ctx = {} if ctx is None else ctx
+    started = ctx.setdefault("started", now_fn())
+    tries = ctx.setdefault("tries", {})
+    board = ctx.get("board") or {"at": None, "ok": True, "starts": [], "day": None}  # scoreboard cache
+    day, state_path, state = ctx.get("day"), ctx.get("state_path"), ctx.get("state")
     while True:
         now = now_fn()
         today = now.astimezone(ET).date()
@@ -323,6 +358,7 @@ def run(once=False, dry_run=False, now_fn=lambda: dt.datetime.now(UTC), sleep=ti
             os.makedirs(os.path.dirname(state_path), exist_ok=True)
             state = read_json(state_path) or {"date": day.isoformat(), "done": {}, "log": []}
             board = {"at": None, "ok": True, "starts": [], "day": day}
+            ctx.update(day=day, state_path=state_path, state=state, board=board)
         if not dry_run:
             git("pull", "-q", "--rebase", "origin", "main")
         on_disk = read_json(state_path) or {}

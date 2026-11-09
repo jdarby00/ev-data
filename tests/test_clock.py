@@ -169,6 +169,10 @@ class FreeCloses(NoOps):
         jobs = C.plan(utc(13), DAY, {"games": []}, prices, done, starts)
         self.assertEqual([(a, [C.iso(t) for t in cov]) for _, _, a, cov in jobs],
                          [("freeclose", ["2026-11-04T17:30:00Z"]), ("close", ["2026-11-05T00:10:00Z"])])
+        # a tip whose published prices already hold a collector close gets no free call
+        closed = {"groups": {"a": group("2026-11-05T00:10:00Z", closed=True)}}
+        jobs = C.plan(utc(13), DAY, {"games": []}, closed, {}, starts[-1:])
+        self.assertEqual(jobs, [])
         # a tip the collector already closed (recorded as close:<tip>) gets no free call either
         jobs = C.plan(utc(13), DAY, {"games": []}, None, {"close:2026-11-05T00:10:00Z": "x"}, starts[2:])
         self.assertEqual(jobs, [])
@@ -281,6 +285,7 @@ class OpsJobs(unittest.TestCase):
         self.assertNotIn("mscreen_0645", tue_keys)
         self.assertNotIn("news_1840", tue_keys)  # no NBA tonight: no late-news re-screen (it may spend credits)
         self.assertNotIn("board_1405", tue_keys)  # board refreshes still need an NBA slate
+        self.assertNotIn("escreen_1040", tue_keys)  # and so do the NBA full-board screens
 
     def test_late_windows_and_done(self):
         slate = {"games": [{"tip_et": "2026-11-09 19:30", "state": "pre"}]}
@@ -352,6 +357,35 @@ class Chain(unittest.TestCase):
         with mock.patch.object(C, "dispatch", lambda a, dry_run=False: (True, "ok")):
             state = C.run(dry_run=True, now_fn=lambda: t[0], sleep=sleep, get=NO_GAMES)
         self.assertEqual(state["date"], "2026-11-09")  # returned on "nothing left today" at 11 pm
+
+    def test_errors_are_survived_and_a_persistent_one_stops_without_a_loop(self):
+        t = [et(MONDAY, 20, 0)]
+        sent, boom = [], [2]
+
+        def fake_dispatch(action, dry_run=False):
+            sent.append(action)
+            return True, "ok"
+
+        def get(url):
+            if boom[0] > 0:
+                boom[0] -= 1
+                raise ValueError("bad data")
+            return {"events": []}
+
+        def sleep(s):
+            t[0] += dt.timedelta(seconds=s)
+
+        with mock.patch.object(C, "dispatch", fake_dispatch):
+            C.run(dry_run=True, now_fn=lambda: t[0], sleep=sleep, get=get, chain=True)
+        self.assertEqual(sent, ["self"])  # two errors survived; the run still reached its normal hand-over
+        sent.clear()
+
+        def always(url):
+            raise ValueError("bad data")
+
+        with mock.patch.object(C, "dispatch", fake_dispatch):
+            C.run(dry_run=True, now_fn=lambda: t[0], sleep=sleep, get=always, chain=True)
+        self.assertEqual(sent, [])  # 5 errors: stops, no fresh run, so no runaway chain of failing runs
 
     def test_hand_over_is_retried(self):
         calls = []
