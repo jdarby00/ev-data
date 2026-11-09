@@ -1,12 +1,12 @@
 # Scoreboard
 
-Built Sun 08 Nov 2026, 7:57 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
+Built Sun 08 Nov 2026, 8:56 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
 
 ## Jake's real money
 
 | Contestant | Bets | W–L–P–V | Profit | ROI | Bankroll | Max drawdown | CLV (n, avg, beat close) | Pending |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| jake | 3 | 0–3–0–0 | $-20.00 | -100.0% | $-20.00 | $20.00 | – | 0 |
+| jake | 6 | 0–6–0–0 | $-35.00 | -100.0% | $-35.00 | $35.00 | – | 1 |
 
 ## Paper contestants at real prices (start $500, logged stake)
 
@@ -16,11 +16,11 @@ CLV is the expected value of the bet price against the de-vigged closing price (
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | always_under | 99 | 53–40–0–6 | $+38.82 | +8.3% | $538.82 | $28.18 | 43, -5.6%, 45% | 0 |
 | card | 4 | 4–0–0–0 | $+16.09 | +80.5% | $516.09 | $0.00 | – | 1 |
-| screener | 4 | 3–1–0–0 | $+13.82 | +69.1% | $513.82 | $5.00 | – | 0 |
+| screener | 4 | 3–1–0–0 | $+13.82 | +69.1% | $513.82 | $5.00 | – | 2 |
 | boosted_50 | 2 | 2–0–0–0 | $+9.93 | +99.3% | $509.93 | $0.00 | 1, -6.1%, 0% | 0 |
 | boosted_20 | 2 | 2–0–0–0 | $+7.94 | +79.4% | $507.94 | $0.00 | 1, -6.1%, 0% | 0 |
 | boost_leans | 1 | 1–0–0–0 | $+4.41 | +88.2% | $504.41 | $0.00 | 1, -6.1%, 0% | 0 |
-| screener_wide | 9 | 4–5–0–0 | $-1.28 | -2.8% | $498.72 | $15.10 | – | 0 |
+| screener_wide | 9 | 4–5–0–0 | $-1.28 | -2.8% | $498.72 | $15.10 | – | 2 |
 | boost_parlay_50 | 1 | 0–1–0–0 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 0 |
 | b_selective | 7 | 3–4–0–0 | $-9.85 | -28.1% | $490.15 | $10.00 | 1, -10.2%, – | 0 |
 | blend_selective | 7 | 3–4–0–0 | $-9.85 | -28.1% | $490.15 | $20.00 | 1, -10.2%, – | 0 |
@@ -65,4 +65,4 @@ Brier score 0.260 (a coin flip is 0.250).
 ## Open items
 
 - a6ac9837fa5c: withdrawal after the start ignored
-- 3 pending (waiting for box scores or a manual settle).
+- 8 pending (waiting for box scores or a manual settle).

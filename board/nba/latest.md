@@ -1,12 +1,11 @@
 # NBA board, 2026-11-08
 
-Slate updated 2026-11-08 19:57 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-08 20:56 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 14:05 Boston Celtics: Mitchell Robinson not listed → Day-To-Day
 - 14:05 Chicago Bulls: Norman Powell Day-To-Day → Out
 - 14:05 Chicago Bulls: Nic Claxton Out → removed from report
 - 14:05 Los Angeles Lakers: Luka Doncic Day-To-Day → Out
@@ -20,6 +19,8 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 19:57 Milwaukee Bucks: Gary Trent Jr. Day-To-Day → Out
 - 19:57 Utah Jazz: Lauri Markkanen Day-To-Day → Out
 - 19:57 Utah Jazz: Keyonte George Day-To-Day → removed from report
+- 20:56 Los Angeles Lakers: Quentin Grimes not listed → Day-To-Day
+- 20:56 Sacramento Kings: Domantas Sabonis Day-To-Day → Out
 
 ## PHI @ CHI, 15:30 ET
 Line: n/a, total – (ESPN).
@@ -69,7 +70,7 @@ Line: n/a, total – (ESPN).
 | Luka Doncic | Out | 36.2 (2.3) | 43.4/40.1 | 8.6/7.8 | 7.2/7.7 | 6.2/5.8 | – |
 | Walker Kessler | – | 32 (3.1) → 31.8 (24.1) | 14.4/14.6 → 14 (7–23) | 12.6/10.4 → 11 (6–17) | 1.4/1.2 → 2 (0–4) | 0/0 → 0 (0–1) | 27 (15–41) |
 | Jake LaRavia | – | 25 (5.7) → 24.4 (16.7) | 8.2/6.4 → 7 (2–13) | 3.6/3.9 → 4 (1–7) | 2.2/1.7 → 2 (0–4) | 1.8/1.3 → 1 (0–3) | 13 (5–22) |
-| Quentin Grimes | – | 24 (5.5) → 25 (17.3) | 5/7.6 → 9 (3–15) | 1.8/2.7 → 2 (1–5) | 2/2.4 → 2 (0–5) | 0.6/0.6 → 1 (0–2) | 13 (5–23) |
+| Quentin Grimes | Day-To-Day | 24 (5.5) → 25 (17.3) | 5/7.6 → 9 (3–15) | 1.8/2.7 → 2 (1–5) | 2/2.4 → 2 (0–5) | 0.6/0.6 → 1 (0–2) | 13 (5–23) |
 | Matisse Thybulle | – | 23.8 (2.6) → 23 (15.4) | 5.4/7.4 → 7 (2–13) | 1.8/1.7 → 2 (0–4) | 1.4/1.2 → 1 (0–3) | 1.2/1.8 → 1 (0–3) | 10 (3–18) |
 | Ziaire Williams | – | 23.4 (5.4) → 23.1 (15.5) | 9.8/10.3 → 10 (3–17) | 2.6/3 → 2 (1–5) | 1.8/1.9 → 1 (0–3) | 2.2/1.9 → 1 (0–4) | 14 (5–23) |
 | Sandro Mamukelashvili | – | 22.2 (3.4) → 22.6 (14.9) | 7.4/8.8 → 10 (3–17) | 4/4.4 → 4 (2–8) | 1.4/1.6 → 2 (0–4) | 1/1 → 1 (0–3) | 16 (7–26) |
@@ -180,14 +181,14 @@ Line: n/a, total – (ESPN).
 | Santi Aldama | – | 13 (–) → 17.9 (10.3) | 8/8 → 9 (3–17) | 9/9 → 5 (2–9) | 1/1 → 2 (0–4) | 0/0 → 1 (0–2) | 16 (6–27) |
 
 ## BOS @ MIL, 20:00 ET
-Line: BOS -13.5, total 221.5 (DraftKings).
+Line: n/a, total – (ESPN).
 **BOS** (1 rest day). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
-| Jayson Tatum | – | 34.4 (4.4) → 31.7 (24) | 30.2/27.9 → 24 (14–36) | 6/6.2 → 7 (4–12) | 8/8 → 6 (3–11) | 2.2/2 → 2 (0–5) | 38 (23–55) |
-| Paul George | – | 30.6 (4.8) → 28.2 (20.5) | 17.6/19.6 → 16 (8–26) | 5.4/5.5 → 5 (2–8) | 5.8/4.5 → 4 (1–7) | 2.6/3.2 → 2 (1–5) | 25 (13–38) |
-| Derrick White | – | 30.2 (5.7) → 28.9 (21.1) | 14/13.3 → 14 (6–22) | 2.8/3.3 → 3 (1–6) | 4.2/5.1 → 4 (2–8) | 1.8/1.8 → 2 (0–4) | 22 (11–34) |
+| Jayson Tatum | – | 34.4 (4.4) → 33.2 (25.5) | 30.2/27.9 → 26 (15–38) | 6/6.2 → 8 (4–12) | 8/8 → 7 (3–11) | 2.2/2 → 2 (1–5) | 40 (25–57) |
+| Paul George | – | 30.6 (4.8) → 29.7 (22) | 17.6/19.6 → 17 (8–27) | 5.4/5.5 → 5 (2–9) | 5.8/4.5 → 4 (1–7) | 2.6/3.2 → 3 (1–5) | 26 (14–39) |
+| Derrick White | – | 30.2 (5.7) → 30.4 (22.6) | 14/13.3 → 15 (7–23) | 2.8/3.3 → 3 (1–6) | 4.2/5.1 → 5 (2–8) | 1.8/1.8 → 2 (0–4) | 23 (12–35) |
 | Payton Pritchard | – | 26.6 (4.8) → 26 (18.3) | 12.6/12.9 → 13 (5–21) | 4/3.1 → 3 (1–6) | 3.8/3.8 → 4 (1–7) | 1.4/1.9 → 2 (0–4) | 20 (10–32) |
 | Neemias Queta | – | 23.4 (4.7) → 22.3 (14.6) | 10/9.1 → 9 (3–16) | 7/5.9 → 7 (3–11) | 1.2/1.3 → 1 (0–3) | 0.2/0.2 → 0 (0–0) | 17 (7–28) |
 | Baylor Scheierman | – | 22.8 (5.3) → 21 (13.3) | 7.4/5.8 → 6 (1–12) | 4.8/4.1 → 4 (1–8) | 1.8/1.3 → 1 (0–3) | 1.8/1.3 → 1 (0–3) | 12 (4–21) |
@@ -205,8 +206,8 @@ Line: BOS -13.5, total 221.5 (DraftKings).
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
-| Tyler Herro | – | 30.6 (2.5) → 30 (22.3) | 21.4/22.3 → 20 (11–31) | 4.4/5 → 4 (2–8) | 3.6/4.6 → 4 (1–7) | 3.4/3.3 → 2 (1–5) | 29 (16–43) |
-| Jaime Jaquez Jr. | – | 27.4 (3.4) → 26.6 (18.9) | 15.6/16.4 → 14 (6–23) | 4.8/6.2 → 5 (2–8) | 2.8/2.8 → 3 (1–6) | 2.4/1.9 → 1 (0–3) | 22 (11–35) |
+| Tyler Herro | – | 30.6 (2.5) → 31.5 (23.8) | 21.4/22.3 → 21 (11–32) | 4.4/5 → 5 (2–8) | 3.6/4.6 → 4 (2–8) | 3.4/3.3 → 3 (1–5) | 31 (18–45) |
+| Jaime Jaquez Jr. | – | 27.4 (3.4) → 28.1 (20.4) | 15.6/16.4 → 15 (7–24) | 4.8/6.2 → 5 (2–9) | 2.8/2.8 → 3 (1–6) | 2.4/1.9 → 1 (0–3) | 24 (12–36) |
 | Myles Turner | – | 27.4 (5) → 27.6 (19.9) | 7.8/7.6 → 9 (3–16) | 6/5.8 → 6 (2–10) | 2.4/2.3 → 2 (0–4) | 1.6/1.3 → 2 (0–4) | 17 (8–27) |
 | Brayden Burries | – | 24.8 (7.9) → 24 (14) | 12.6/10.2 → 10 (3–18) | 6.8/5.2 → 5 (2–10) | 2.4/2 → 2 (0–5) | 0.6/0.8 → 1 (0–2) | 18 (7–30) |
 | Kyle Kuzma | – | 24.4 (5) → 26.8 (19.1) | 7.8/9.9 → 11 (4–19) | 4/6 → 5 (2–8) | 2.8/3 → 3 (1–5) | 0.8/1.2 → 1 (0–3) | 19 (9–30) |
@@ -218,7 +219,7 @@ Line: BOS -13.5, total 221.5 (DraftKings).
 | Gary Trent Jr. | Out | 6.5 (0.5) | 3/3 | 0.5/0.5 | 0.5/0.5 | 1/1 | – |
 
 ## NO @ LAC, 21:00 ET
-Line: NO -1.5, total 226.5 (DraftKings).
+Line: NO -1.5, total 225.5 (DraftKings).
 **NO** (1 rest day). Out: Yves Missi. Freed minutes: 19.5.
 - Without Yves Missi: Jeremiah Fears min +8.2, pts +9.4, reb +3.9, ast +4.6 (n=7 vs 2)
 - Without Yves Missi: Herbert Jones min +6.9, pts +2.3, reb +2.1, ast +1.1 (n=7 vs 2)
@@ -256,7 +257,7 @@ Line: NO -1.5, total 226.5 (DraftKings).
 | Brandon Ingram | Out | none this season; last season 33.1 min, 20.9 pts | | | | |
 
 ## MIA @ SAC, 21:00 ET
-Line: MIA -11.5, total 236.5 (DraftKings).
+Line: MIA -12.5, total 235.5 (DraftKings).
 **MIA** (2 rest days). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -271,13 +272,13 @@ Line: MIA -11.5, total 236.5 (DraftKings).
 | Ryan Conwell | – | 13.2 (9.2) → 14.1 (2.6) | 5/3.9 → 5 (0–12) | 1/0.7 → 2 (0–5) | 1/1 → 1 (0–3) | 1.2/0.9 → 1 (0–2) | 8 (0–18) |
 | Tim Hardaway Jr. | – | 12.8 (6.1) → 14.2 (6) | 5/5.1 → 6 (1–12) | 0.6/1.4 → 1 (0–3) | 0.6/0.7 → 0 (0–2) | 1/1 → 1 (0–3) | 8 (1–16) |
 
-**SAC** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Maxime Raynaud, Ben Simmons.
+**SAC** (1 rest day). Out: Domantas Sabonis. Freed minutes: 35.6. Out all season so far (already in the lines): Maxime Raynaud, Ben Simmons.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Darius Acuff Jr. | – | 38 (2.9) → 35.4 (27.7) | 28.2/25.2 → 20 (11–30) | 4.4/3.7 → 5 (2–8) | 9/7.1 → 6 (3–10) | 4/3 → 2 (1–5) | 30 (18–44) |
 | De'Andre Hunter | – | 35.2 (5.9) → 31.3 (23.4) | 17.4/13 → 14 (6–23) | 4.6/4.8 → 4 (2–8) | 1.4/1.2 → 2 (0–4) | 2.4/2 → 2 (0–4) | 20 (10–31) |
-| Domantas Sabonis | Day-To-Day | 35 (3.1) → 32.6 (24.9) | 12.4/15.3 → 15 (7–24) | 13/14.6 → 12 (7–19) | 5/6 → 4 (2–8) | 0.2/0.2 → 0 (0–1) | 32 (19–47) |
+| Domantas Sabonis | Out | 35 (3.1) | 12.4/15.3 | 13/14.6 | 5/6 | 0.2/0.2 | – |
 | Zach LaVine | – | 31.6 (5.8) → 31.2 (23.4) | 18/22.1 → 19 (10–29) | 3/3.2 → 3 (1–5) | 2.2/2.7 → 2 (0–4) | 2.4/2.7 → 2 (0–5) | 24 (13–36) |
 | Keegan Murray | – | 27 (1) → 27.1 (19.4) | 7/7 → 10 (3–17) | 3/3 → 4 (1–7) | 0.5/0.5 → 1 (0–2) | 0/0 → 0 (0–2) | 15 (6–24) |
 | Precious Achiuwa | – | 26.4 (8.4) → 24.8 (14.1) | 10.4/10.8 → 10 (3–18) | 6.2/5.9 → 6 (2–11) | 1.4/1.1 → 1 (0–3) | 0.4/0.3 → 0 (0–1) | 17 (7–29) |
