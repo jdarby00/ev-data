@@ -1,10 +1,14 @@
 name: clock
-# Fires the day's timed jobs on the minute (board refreshes, the 2:25 pm price request and
-# a close snapshot before each tip), because GitHub's own cron runs hours late. See
-# pipeline/clock.py. Several start times are listed only as backups: whichever fires first
-# runs the day; later ones queue behind it and exit when nothing is left.
+# Fires the day's timed jobs on the minute (board refreshes, the 2:25 pm price request, a close
+# snapshot before each tip, free closes before every NBA/NFL/soccer start, and every free dk-odds
+# screen and lab run), because GitHub's own cron runs hours late or not at all. See pipeline/clock.py.
+# It runs as a chain (--chain): each run hands over to a fresh one before the 6-hour limit, day and
+# night, so it no longer needs a cron to start each morning. The crons below only restart a broken
+# chain: whichever fires queues behind a running clock and the two never run at once.
 on:
   schedule:
+    - cron: "5 9 * * *"     # 4:05 am ET (EST): restart before the 5:20 am box scores and the 6:10 am lab
+    - cron: "45 10 * * 0,6" # 5:45 am ET Sat/Sun: early soccer kickoffs need the free closes (TEST_PLAN R3)
     - cron: "5 12 * * *"    # 7:05 am ET (EST)
     - cron: "5 15 * * *"    # 10:05 am ET
     - cron: "35 17 * * *"   # 12:35 pm ET
@@ -40,5 +44,5 @@ jobs:
           if [ "${{ inputs.check_token }}" = "true" ]; then
             python3 -I -u pipeline/clock.py --check-token
           else
-            python3 -I -u pipeline/clock.py
+            python3 -I -u pipeline/clock.py --chain
           fi
