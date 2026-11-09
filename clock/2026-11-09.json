@@ -5,6 +5,8 @@
   "board_1405": "2026-11-09T22:08:00Z",
   "board_1445": "2026-11-09T22:08:07Z",
   "board_1615": "2026-11-09T22:08:10Z",
+  "fclose:2026-11-10T00:00:00Z": "2026-11-09T23:48:00Z",
+  "fclose@2026-11-09T23:48:00Z": "2026-11-09T23:48:00Z",
   "lab_1435": "2026-11-09T23:02:31Z",
   "news_1840": "2026-11-09T23:40:00Z"
  },
@@ -14,6 +16,7 @@
   "2026-11-09T22:08:07Z board_1445: dispatched jdarby00/ev-data nba.yml (HTTP 204)",
   "2026-11-09T22:08:10Z board_1615: dispatched jdarby00/ev-data nba.yml (HTTP 204)",
   "2026-11-09T23:02:31Z lab_1435: dispatched jdarby00/dk-odds lab.yml (HTTP 204)",
-  "2026-11-09T23:40:00Z news_1840: dispatched jdarby00/dk-odds late-news.yml (HTTP 204)"
+  "2026-11-09T23:40:00Z news_1840: dispatched jdarby00/dk-odds late-news.yml (HTTP 204)",
+  "2026-11-09T23:48:00Z fclose@2026-11-09T23:48:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)"
  ]
 }
