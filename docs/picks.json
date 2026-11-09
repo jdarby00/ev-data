@@ -1,6 +1,6 @@
 {
  "date": "2026-11-08",
- "built_at": "2026-11-09T00:58:02Z",
+ "built_at": "2026-11-09T01:42:45Z",
  "code_card": [
   {
    "lane": "likely",
@@ -26,8 +26,7 @@
    "tier": "Best bet",
    "decimal": 1.463,
    "edge": -0.0245,
-   "role": "Likely to win",
-   "stake_u": 0.5
+   "role": "Likely to win"
   },
   {
    "lane": "likely",
@@ -51,40 +50,10 @@
    "tier": "Best bet",
    "decimal": 1.465,
    "edge": -0.0289,
-   "role": "Likely to win",
-   "stake_u": 0.5
-  },
-  {
-   "lane": "likely",
-   "sport": "nba",
-   "game": "BOS @ MIL",
-   "start_utc": "2026-11-09T01:00Z",
-   "event_id": "401909949",
-   "kind": "prop",
-   "player": "Kyle Kuzma",
-   "stat": "tpm",
-   "line": 1.5,
-   "side": "under",
-   "bet": "Kyle Kuzma under 1.5 threes",
-   "book": "draftkings",
-   "price": -207,
-   "p": 0.6445,
-   "p_mkt": 0.6373,
-   "p_model": 0.7096,
-   "basis": "market 64% (4 books), board 71%",
-   "flags": [
-    "minutes adj -3.0 min, mean -0.1",
-    "team status changes today: Gary Trent Jr.: not listed -> Day-To-Day; Gary Trent Jr.: Day-To-Day -> Out"
-   ],
-   "tier": "Straight",
-   "decimal": 1.483,
-   "edge": -0.0442,
-   "role": "Likely to win",
-   "stake_u": 0.5
+   "role": "Likely to win"
   },
   {
    "role": "Boost play",
-   "stake_u": 1.0,
    "book": "fanduel",
    "legs": [
     {
@@ -97,14 +66,6 @@
     },
     {
      "sport": "nba",
-     "game": "BOS @ MIL",
-     "bet": "Payton Pritchard under 2.5 threes",
-     "price": -156,
-     "p": 0.6025,
-     "tier": "Straight"
-    },
-    {
-     "sport": "nba",
      "game": "NO @ LAC",
      "bet": "Jeremiah Fears under 1.5 threes",
      "price": -158,
@@ -112,107 +73,15 @@
      "tier": "Straight"
     }
    ],
-   "p": 0.2254,
-   "decimal": 4.355,
-   "american": 335,
-   "ev": -0.0186,
-   "ev_boost30": 0.2083,
-   "ev_boost50": 0.3595
+   "p": 0.3741,
+   "decimal": 2.654,
+   "american": 165,
+   "ev": -0.0073,
+   "ev_boost30": 0.1782,
+   "ev_boost50": 0.302
   }
  ],
  "value": [
-  {
-   "lane": "value",
-   "sport": "nfl",
-   "game": "TB @ CHI",
-   "start_utc": "2026-11-09T01:20Z",
-   "bet": "Ted Hurst anytime TD",
-   "event_id": "401873050",
-   "kind": "td",
-   "player": "Ted Hurst",
-   "stat": "anytime_td",
-   "line": 0.0,
-   "side": "yes",
-   "book": "fanduel",
-   "price": 550,
-   "p": 0.1703,
-   "p_mkt": 0.1703,
-   "one_sided": true,
-   "basis": "median of 4 other books, margin left in",
-   "flags": [],
-   "tier": "Value",
-   "decimal": 6.5,
-   "edge": 0.107
-  },
-  {
-   "lane": "value",
-   "sport": "nfl",
-   "game": "TB @ CHI",
-   "start_utc": "2026-11-09T01:20Z",
-   "bet": "Cade Otton anytime TD",
-   "event_id": "401873050",
-   "kind": "td",
-   "player": "Cade Otton",
-   "stat": "anytime_td",
-   "line": 0.0,
-   "side": "yes",
-   "book": "fanduel",
-   "price": 390,
-   "p": 0.2223,
-   "p_mkt": 0.2223,
-   "one_sided": true,
-   "basis": "median of 4 other books, margin left in",
-   "flags": [],
-   "tier": "Value",
-   "decimal": 4.9,
-   "edge": 0.0893
-  },
-  {
-   "lane": "value",
-   "sport": "nfl",
-   "game": "TB @ CHI",
-   "start_utc": "2026-11-09T01:20Z",
-   "bet": "Kenneth Gainwell anytime TD",
-   "event_id": "401873050",
-   "kind": "td",
-   "player": "Kenneth Gainwell",
-   "stat": "anytime_td",
-   "line": 0.0,
-   "side": "yes",
-   "book": "fanduel",
-   "price": 400,
-   "p": 0.2164,
-   "p_mkt": 0.2164,
-   "one_sided": true,
-   "basis": "median of 4 other books, margin left in",
-   "flags": [],
-   "tier": "Value",
-   "decimal": 5.0,
-   "edge": 0.082
-  },
-  {
-   "lane": "value",
-   "sport": "nfl",
-   "game": "TB @ CHI",
-   "start_utc": "2026-11-09T01:20Z",
-   "bet": "Sam Roush anytime TD",
-   "event_id": "401873050",
-   "kind": "td",
-   "player": "Sam Roush",
-   "stat": "anytime_td",
-   "line": 0.0,
-   "side": "yes",
-   "book": "fanduel",
-   "price": 750,
-   "p": 0.125,
-   "p_mkt": 0.125,
-   "one_sided": true,
-   "basis": "median of 3 other books, margin left in",
-   "flags": [],
-   "tier": "Value",
-   "decimal": 8.5,
-   "edge": 0.0625
-  },
   {
    "lane": "value",
    "sport": "nba",
@@ -311,32 +180,6 @@
    "tier": "Value",
    "decimal": 1.926,
    "edge": 0.0221
-  },
-  {
-   "lane": "early",
-   "sport": "nba",
-   "game": "BOS @ MIL",
-   "start_utc": "2026-11-09T01:00Z",
-   "event_id": "401909949",
-   "kind": "prop",
-   "player": "Myles Turner",
-   "stat": "tpm",
-   "line": 1.5,
-   "side": "under",
-   "bet": "Myles Turner under 1.5 threes",
-   "book": "fanduel",
-   "price": 124,
-   "p": 0.4559,
-   "p_mkt": 0.4466,
-   "p_model": 0.5397,
-   "basis": "board 54% vs market 45%: lines tend to move toward the board; bet early at the best price",
-   "flags": [
-    "minutes adj -3.1 min, mean -0.2",
-    "team status changes today: Gary Trent Jr.: not listed -> Day-To-Day; Gary Trent Jr.: Day-To-Day -> Out"
-   ],
-   "tier": "Value",
-   "decimal": 2.24,
-   "edge": 0.0212
   },
   {
    "lane": "early",
@@ -673,32 +516,6 @@
   {
    "lane": "likely",
    "sport": "nba",
-   "game": "BOS @ MIL",
-   "start_utc": "2026-11-09T01:00Z",
-   "event_id": "401909949",
-   "kind": "prop",
-   "player": "Kyle Kuzma",
-   "stat": "tpm",
-   "line": 1.5,
-   "side": "under",
-   "bet": "Kyle Kuzma under 1.5 threes",
-   "book": "draftkings",
-   "price": -207,
-   "p": 0.6445,
-   "p_mkt": 0.6373,
-   "p_model": 0.7096,
-   "basis": "market 64% (4 books), board 71%",
-   "flags": [
-    "minutes adj -3.0 min, mean -0.1",
-    "team status changes today: Gary Trent Jr.: not listed -> Day-To-Day; Gary Trent Jr.: Day-To-Day -> Out"
-   ],
-   "tier": "Straight",
-   "decimal": 1.483,
-   "edge": -0.0442
-  },
-  {
-   "lane": "likely",
-   "sport": "nba",
    "game": "MIA @ SAC",
    "start_utc": "2026-11-09T02:00Z",
    "event_id": "401909951",
@@ -793,32 +610,6 @@
   {
    "lane": "likely",
    "sport": "nba",
-   "game": "BOS @ MIL",
-   "start_utc": "2026-11-09T01:00Z",
-   "event_id": "401909949",
-   "kind": "prop",
-   "player": "Brayden Burries",
-   "stat": "tpm",
-   "line": 1.5,
-   "side": "under",
-   "bet": "Brayden Burries under 1.5 threes",
-   "book": "fanduel",
-   "price": -170,
-   "p": 0.6207,
-   "p_mkt": 0.6022,
-   "p_model": 0.7867,
-   "basis": "market 60% (6 books), board 79%",
-   "flags": [
-    "minutes adj -2.7 min, mean -0.1",
-    "team status changes today: Gary Trent Jr.: not listed -> Day-To-Day; Gary Trent Jr.: Day-To-Day -> Out"
-   ],
-   "tier": "Straight",
-   "decimal": 1.588,
-   "edge": -0.0143
-  },
-  {
-   "lane": "likely",
-   "sport": "nba",
    "game": "NO @ LAC",
    "start_utc": "2026-11-09T02:00Z",
    "event_id": "401909950",
@@ -838,58 +629,6 @@
    "tier": "Straight",
    "decimal": 1.538,
    "edge": -0.0509
-  },
-  {
-   "lane": "likely",
-   "sport": "nba",
-   "game": "BOS @ MIL",
-   "start_utc": "2026-11-09T01:00Z",
-   "event_id": "401909949",
-   "kind": "prop",
-   "player": "Ryan Rollins",
-   "stat": "tpm",
-   "line": 1.5,
-   "side": "under",
-   "bet": "Ryan Rollins under 1.5 threes",
-   "book": "fanduel",
-   "price": -166,
-   "p": 0.6041,
-   "p_mkt": 0.6059,
-   "p_model": 0.5884,
-   "basis": "market 61% (7 books), board 59%",
-   "flags": [
-    "minutes adj -2.5 min, mean -0.2",
-    "team status changes today: Gary Trent Jr.: not listed -> Day-To-Day; Gary Trent Jr.: Day-To-Day -> Out"
-   ],
-   "tier": "Straight",
-   "decimal": 1.602,
-   "edge": -0.0322
-  },
-  {
-   "lane": "likely",
-   "sport": "nba",
-   "game": "BOS @ MIL",
-   "start_utc": "2026-11-09T01:00Z",
-   "event_id": "401909949",
-   "kind": "prop",
-   "player": "Payton Pritchard",
-   "stat": "tpm",
-   "line": 2.5,
-   "side": "under",
-   "bet": "Payton Pritchard under 2.5 threes",
-   "book": "fanduel",
-   "price": -156,
-   "p": 0.6025,
-   "p_mkt": 0.5888,
-   "p_model": 0.726,
-   "basis": "market 59% (6 books), board 73%",
-   "flags": [
-    "minutes adj -3.4 min, mean -0.3",
-    "team status changes today: Mitchell Robinson: not listed -> Day-To-Day"
-   ],
-   "tier": "Straight",
-   "decimal": 1.641,
-   "edge": -0.0113
   },
   {
    "lane": "likely",
@@ -931,14 +670,6 @@
     },
     {
      "sport": "nba",
-     "game": "BOS @ MIL",
-     "bet": "Payton Pritchard under 2.5 threes",
-     "price": -156,
-     "p": 0.6025,
-     "tier": "Straight"
-    },
-    {
-     "sport": "nba",
      "game": "NO @ LAC",
      "bet": "Jeremiah Fears under 1.5 threes",
      "price": -158,
@@ -946,47 +677,12 @@
      "tier": "Straight"
     }
    ],
-   "p": 0.2254,
-   "decimal": 4.355,
-   "american": 335,
-   "ev": -0.0186,
-   "ev_boost30": 0.2083,
-   "ev_boost50": 0.3595
-  },
-  {
-   "book": "fanduel",
-   "legs": [
-    {
-     "sport": "nba",
-     "game": "BOS @ MIL",
-     "bet": "Brayden Burries under 1.5 threes",
-     "price": -170,
-     "p": 0.6207,
-     "tier": "Straight"
-    },
-    {
-     "sport": "nba",
-     "game": "NO @ LAC",
-     "bet": "Jeremiah Fears under 1.5 threes",
-     "price": -158,
-     "p": 0.6017,
-     "tier": "Straight"
-    },
-    {
-     "sport": "nba",
-     "game": "MIA @ SAC",
-     "bet": "Bam Adebayo under 1.5 threes",
-     "price": -215,
-     "p": 0.6629,
-     "tier": "Best bet"
-    }
-   ],
-   "p": 0.2476,
-   "decimal": 3.799,
-   "american": 280,
-   "ev": -0.0594,
-   "ev_boost30": 0.1484,
-   "ev_boost50": 0.287
+   "p": 0.3741,
+   "decimal": 2.654,
+   "american": 165,
+   "ev": -0.0073,
+   "ev_boost30": 0.1782,
+   "ev_boost50": 0.302
   },
   {
    "book": "draftkings",
@@ -1001,14 +697,6 @@
     },
     {
      "sport": "nba",
-     "game": "BOS @ MIL",
-     "bet": "Kyle Kuzma under 1.5 threes",
-     "price": -207,
-     "p": 0.6445,
-     "tier": "Straight"
-    },
-    {
-     "sport": "nba",
      "game": "MIA @ SAC",
      "bet": "Pelle Larsson over 0.5 threes",
      "price": -194,
@@ -1016,24 +704,16 @@
      "tier": "Straight"
     }
    ],
-   "p": 0.2674,
-   "decimal": 3.287,
-   "american": 229,
-   "ev": -0.1209,
-   "ev_boost30": 0.0625,
-   "ev_boost50": 0.1849
+   "p": 0.4149,
+   "decimal": 2.216,
+   "american": 122,
+   "ev": -0.0803,
+   "ev_boost30": 0.0711,
+   "ev_boost50": 0.1721
   },
   {
    "book": "draftkings",
    "legs": [
-    {
-     "sport": "nba",
-     "game": "BOS @ MIL",
-     "bet": "Kyle Kuzma under 1.5 threes",
-     "price": -207,
-     "p": 0.6445,
-     "tier": "Straight"
-    },
     {
      "sport": "nba",
      "game": "NO @ LAC",
@@ -1051,107 +731,15 @@
      "tier": "Straight"
     }
    ],
-   "p": 0.2489,
-   "decimal": 3.398,
-   "american": 240,
-   "ev": -0.1543,
-   "ev_boost30": 0.0248,
-   "ev_boost50": 0.1442
+   "p": 0.3861,
+   "decimal": 2.292,
+   "american": 129,
+   "ev": -0.1152,
+   "ev_boost30": 0.0345,
+   "ev_boost50": 0.1342
   }
  ],
  "candidates": [
-  {
-   "lane": "value",
-   "sport": "nfl",
-   "game": "TB @ CHI",
-   "start_utc": "2026-11-09T01:20Z",
-   "bet": "Ted Hurst anytime TD",
-   "event_id": "401873050",
-   "kind": "td",
-   "player": "Ted Hurst",
-   "stat": "anytime_td",
-   "line": 0.0,
-   "side": "yes",
-   "book": "fanduel",
-   "price": 550,
-   "p": 0.1703,
-   "p_mkt": 0.1703,
-   "one_sided": true,
-   "basis": "median of 4 other books, margin left in",
-   "flags": [],
-   "tier": "Value",
-   "decimal": 6.5,
-   "edge": 0.107
-  },
-  {
-   "lane": "value",
-   "sport": "nfl",
-   "game": "TB @ CHI",
-   "start_utc": "2026-11-09T01:20Z",
-   "bet": "Cade Otton anytime TD",
-   "event_id": "401873050",
-   "kind": "td",
-   "player": "Cade Otton",
-   "stat": "anytime_td",
-   "line": 0.0,
-   "side": "yes",
-   "book": "fanduel",
-   "price": 390,
-   "p": 0.2223,
-   "p_mkt": 0.2223,
-   "one_sided": true,
-   "basis": "median of 4 other books, margin left in",
-   "flags": [],
-   "tier": "Value",
-   "decimal": 4.9,
-   "edge": 0.0893
-  },
-  {
-   "lane": "value",
-   "sport": "nfl",
-   "game": "TB @ CHI",
-   "start_utc": "2026-11-09T01:20Z",
-   "bet": "Kenneth Gainwell anytime TD",
-   "event_id": "401873050",
-   "kind": "td",
-   "player": "Kenneth Gainwell",
-   "stat": "anytime_td",
-   "line": 0.0,
-   "side": "yes",
-   "book": "fanduel",
-   "price": 400,
-   "p": 0.2164,
-   "p_mkt": 0.2164,
-   "one_sided": true,
-   "basis": "median of 4 other books, margin left in",
-   "flags": [],
-   "tier": "Value",
-   "decimal": 5.0,
-   "edge": 0.082
-  },
-  {
-   "lane": "value",
-   "sport": "nfl",
-   "game": "TB @ CHI",
-   "start_utc": "2026-11-09T01:20Z",
-   "bet": "Sam Roush anytime TD",
-   "event_id": "401873050",
-   "kind": "td",
-   "player": "Sam Roush",
-   "stat": "anytime_td",
-   "line": 0.0,
-   "side": "yes",
-   "book": "fanduel",
-   "price": 750,
-   "p": 0.125,
-   "p_mkt": 0.125,
-   "one_sided": true,
-   "basis": "median of 3 other books, margin left in",
-   "flags": [],
-   "tier": "Value",
-   "decimal": 8.5,
-   "edge": 0.0625
-  },
   {
    "lane": "value",
    "sport": "nba",
@@ -1250,32 +838,6 @@
    "tier": "Value",
    "decimal": 1.926,
    "edge": 0.0221
-  },
-  {
-   "lane": "early",
-   "sport": "nba",
-   "game": "BOS @ MIL",
-   "start_utc": "2026-11-09T01:00Z",
-   "event_id": "401909949",
-   "kind": "prop",
-   "player": "Myles Turner",
-   "stat": "tpm",
-   "line": 1.5,
-   "side": "under",
-   "bet": "Myles Turner under 1.5 threes",
-   "book": "fanduel",
-   "price": 124,
-   "p": 0.4559,
-   "p_mkt": 0.4466,
-   "p_model": 0.5397,
-   "basis": "board 54% vs market 45%: lines tend to move toward the board; bet early at the best price",
-   "flags": [
-    "minutes adj -3.1 min, mean -0.2",
-    "team status changes today: Gary Trent Jr.: not listed -> Day-To-Day; Gary Trent Jr.: Day-To-Day -> Out"
-   ],
-   "tier": "Value",
-   "decimal": 2.24,
-   "edge": 0.0212
   },
   {
    "lane": "early",
@@ -1610,32 +1172,6 @@
   {
    "lane": "likely",
    "sport": "nba",
-   "game": "BOS @ MIL",
-   "start_utc": "2026-11-09T01:00Z",
-   "event_id": "401909949",
-   "kind": "prop",
-   "player": "Kyle Kuzma",
-   "stat": "tpm",
-   "line": 1.5,
-   "side": "under",
-   "bet": "Kyle Kuzma under 1.5 threes",
-   "book": "draftkings",
-   "price": -207,
-   "p": 0.6445,
-   "p_mkt": 0.6373,
-   "p_model": 0.7096,
-   "basis": "market 64% (4 books), board 71%",
-   "flags": [
-    "minutes adj -3.0 min, mean -0.1",
-    "team status changes today: Gary Trent Jr.: not listed -> Day-To-Day; Gary Trent Jr.: Day-To-Day -> Out"
-   ],
-   "tier": "Straight",
-   "decimal": 1.483,
-   "edge": -0.0442
-  },
-  {
-   "lane": "likely",
-   "sport": "nba",
    "game": "MIA @ SAC",
    "start_utc": "2026-11-09T02:00Z",
    "event_id": "401909951",
@@ -1730,32 +1266,6 @@
   {
    "lane": "likely",
    "sport": "nba",
-   "game": "BOS @ MIL",
-   "start_utc": "2026-11-09T01:00Z",
-   "event_id": "401909949",
-   "kind": "prop",
-   "player": "Brayden Burries",
-   "stat": "tpm",
-   "line": 1.5,
-   "side": "under",
-   "bet": "Brayden Burries under 1.5 threes",
-   "book": "fanduel",
-   "price": -170,
-   "p": 0.6207,
-   "p_mkt": 0.6022,
-   "p_model": 0.7867,
-   "basis": "market 60% (6 books), board 79%",
-   "flags": [
-    "minutes adj -2.7 min, mean -0.1",
-    "team status changes today: Gary Trent Jr.: not listed -> Day-To-Day; Gary Trent Jr.: Day-To-Day -> Out"
-   ],
-   "tier": "Straight",
-   "decimal": 1.588,
-   "edge": -0.0143
-  },
-  {
-   "lane": "likely",
-   "sport": "nba",
    "game": "NO @ LAC",
    "start_utc": "2026-11-09T02:00Z",
    "event_id": "401909950",
@@ -1775,58 +1285,6 @@
    "tier": "Straight",
    "decimal": 1.538,
    "edge": -0.0509
-  },
-  {
-   "lane": "likely",
-   "sport": "nba",
-   "game": "BOS @ MIL",
-   "start_utc": "2026-11-09T01:00Z",
-   "event_id": "401909949",
-   "kind": "prop",
-   "player": "Ryan Rollins",
-   "stat": "tpm",
-   "line": 1.5,
-   "side": "under",
-   "bet": "Ryan Rollins under 1.5 threes",
-   "book": "fanduel",
-   "price": -166,
-   "p": 0.6041,
-   "p_mkt": 0.6059,
-   "p_model": 0.5884,
-   "basis": "market 61% (7 books), board 59%",
-   "flags": [
-    "minutes adj -2.5 min, mean -0.2",
-    "team status changes today: Gary Trent Jr.: not listed -> Day-To-Day; Gary Trent Jr.: Day-To-Day -> Out"
-   ],
-   "tier": "Straight",
-   "decimal": 1.602,
-   "edge": -0.0322
-  },
-  {
-   "lane": "likely",
-   "sport": "nba",
-   "game": "BOS @ MIL",
-   "start_utc": "2026-11-09T01:00Z",
-   "event_id": "401909949",
-   "kind": "prop",
-   "player": "Payton Pritchard",
-   "stat": "tpm",
-   "line": 2.5,
-   "side": "under",
-   "bet": "Payton Pritchard under 2.5 threes",
-   "book": "fanduel",
-   "price": -156,
-   "p": 0.6025,
-   "p_mkt": 0.5888,
-   "p_model": 0.726,
-   "basis": "market 59% (6 books), board 73%",
-   "flags": [
-    "minutes adj -3.4 min, mean -0.3",
-    "team status changes today: Mitchell Robinson: not listed -> Day-To-Day"
-   ],
-   "tier": "Straight",
-   "decimal": 1.641,
-   "edge": -0.0113
   },
   {
    "lane": "likely",
@@ -1868,14 +1326,6 @@
     },
     {
      "sport": "nba",
-     "game": "BOS @ MIL",
-     "bet": "Payton Pritchard under 2.5 threes",
-     "price": -156,
-     "p": 0.6025,
-     "tier": "Straight"
-    },
-    {
-     "sport": "nba",
      "game": "NO @ LAC",
      "bet": "Jeremiah Fears under 1.5 threes",
      "price": -158,
@@ -1883,47 +1333,12 @@
      "tier": "Straight"
     }
    ],
-   "p": 0.2254,
-   "decimal": 4.355,
-   "american": 335,
-   "ev": -0.0186,
-   "ev_boost30": 0.2083,
-   "ev_boost50": 0.3595
-  },
-  {
-   "book": "fanduel",
-   "legs": [
-    {
-     "sport": "nba",
-     "game": "BOS @ MIL",
-     "bet": "Brayden Burries under 1.5 threes",
-     "price": -170,
-     "p": 0.6207,
-     "tier": "Straight"
-    },
-    {
-     "sport": "nba",
-     "game": "NO @ LAC",
-     "bet": "Jeremiah Fears under 1.5 threes",
-     "price": -158,
-     "p": 0.6017,
-     "tier": "Straight"
-    },
-    {
-     "sport": "nba",
-     "game": "MIA @ SAC",
-     "bet": "Bam Adebayo under 1.5 threes",
-     "price": -215,
-     "p": 0.6629,
-     "tier": "Best bet"
-    }
-   ],
-   "p": 0.2476,
-   "decimal": 3.799,
-   "american": 280,
-   "ev": -0.0594,
-   "ev_boost30": 0.1484,
-   "ev_boost50": 0.287
+   "p": 0.3741,
+   "decimal": 2.654,
+   "american": 165,
+   "ev": -0.0073,
+   "ev_boost30": 0.1782,
+   "ev_boost50": 0.302
   },
   {
    "book": "draftkings",
@@ -1938,14 +1353,6 @@
     },
     {
      "sport": "nba",
-     "game": "BOS @ MIL",
-     "bet": "Kyle Kuzma under 1.5 threes",
-     "price": -207,
-     "p": 0.6445,
-     "tier": "Straight"
-    },
-    {
-     "sport": "nba",
      "game": "MIA @ SAC",
      "bet": "Pelle Larsson over 0.5 threes",
      "price": -194,
@@ -1953,24 +1360,16 @@
      "tier": "Straight"
     }
    ],
-   "p": 0.2674,
-   "decimal": 3.287,
-   "american": 229,
-   "ev": -0.1209,
-   "ev_boost30": 0.0625,
-   "ev_boost50": 0.1849
+   "p": 0.4149,
+   "decimal": 2.216,
+   "american": 122,
+   "ev": -0.0803,
+   "ev_boost30": 0.0711,
+   "ev_boost50": 0.1721
   },
   {
    "book": "draftkings",
    "legs": [
-    {
-     "sport": "nba",
-     "game": "BOS @ MIL",
-     "bet": "Kyle Kuzma under 1.5 threes",
-     "price": -207,
-     "p": 0.6445,
-     "tier": "Straight"
-    },
     {
      "sport": "nba",
      "game": "NO @ LAC",
@@ -1988,12 +1387,12 @@
      "tier": "Straight"
     }
    ],
-   "p": 0.2489,
-   "decimal": 3.398,
-   "american": 240,
-   "ev": -0.1543,
-   "ev_boost30": 0.0248,
-   "ev_boost50": 0.1442
+   "p": 0.3861,
+   "decimal": 2.292,
+   "american": 129,
+   "ev": -0.1152,
+   "ev_boost30": 0.0345,
+   "ev_boost50": 0.1342
   }
  ]
 }
