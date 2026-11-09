@@ -1,6 +1,6 @@
 # Scoreboard
 
-Built Mon 09 Nov 2026, 3:46 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
+Built Mon 09 Nov 2026, 5:08 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
 
 ## Jake's real money
 
@@ -41,14 +41,14 @@ CLV is the expected value of the bet price against the de-vigged closing price (
 | blend_every | 19 | 11–8–0–0 | $+4.68 | +4.9% | $504.68 | $17.73 | – | 0 |
 | b_every | 19 | 11–8–0–0 | $+4.68 | +4.9% | $504.68 | $6.45 | – | 0 |
 | always_over | 37 | 10–9–0–18 | $-1.92 | -2.0% | $498.08 | $32.35 | – | 0 |
-| chalk | 9 | 0–1–0–8 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 0 |
-| boosted_50 | 2 | 0–1–0–1 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 1 |
+| chalk | 9 | 0–1–0–8 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 5 |
+| boosted_50 | 2 | 0–1–0–1 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 2 |
 | lower_bar | 1 | 0–1–0–0 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 0 |
 | leans | 1 | 0–1–0–0 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 0 |
-| boosted_20 | 1 | 0–1–0–0 | $-5.00 | -100.0% | $495.00 | $5.00 | 1, -10.2%, – | 0 |
-| boost_parlay_20 | 1 | 0–1–0–0 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 0 |
-| boost_parlay_50 | 1 | 0–1–0–0 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 0 |
-| card | 3 | 0–3–0–0 | $-15.00 | -100.0% | $485.00 | $15.00 | 2, -5.2%, – | 0 |
+| boosted_20 | 1 | 0–1–0–0 | $-5.00 | -100.0% | $495.00 | $5.00 | 1, -10.2%, – | 1 |
+| boost_parlay_20 | 1 | 0–1–0–0 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 1 |
+| boost_parlay_50 | 1 | 0–1–0–0 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 1 |
+| card | 3 | 0–3–0–0 | $-15.00 | -100.0% | $485.00 | $15.00 | 2, -5.2%, – | 5 |
 | always_under | 38 | 9–11–0–18 | $-16.88 | -16.9% | $483.12 | $41.84 | – | 0 |
 
 ## Calibration (real-price bets with a final win chance)
@@ -65,4 +65,4 @@ Brier score 0.260 (a coin flip is 0.250).
 ## Open items
 
 - a6ac9837fa5c: withdrawal after the start ignored
-- 4 pending (waiting for box scores or a manual settle).
+- 18 pending (waiting for box scores or a manual settle).

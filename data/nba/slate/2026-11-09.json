@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "updated_et": "2026-11-09 15:46",
+ "updated_et": "2026-11-09 17:08",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -15,7 +15,7 @@
    "spread_text": "ATL -1.5",
    "spread": -1.5,
    "total": 236.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -28,8 +28,8 @@
    "state": "pre",
    "spread_text": "CLE -8.5",
    "spread": 8.5,
-   "total": 214.5,
-   "odds_source": "Draft Kings",
+   "total": 215.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -43,7 +43,7 @@
    "spread_text": "DET -10.5",
    "spread": -10.5,
    "total": 219.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -56,8 +56,8 @@
    "state": "pre",
    "spread_text": "TOR -2.5",
    "spread": -2.5,
-   "total": 228.5,
-   "odds_source": "Draft Kings",
+   "total": 227.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -68,10 +68,10 @@
    "away_name": "Indiana Pacers",
    "home_name": "Dallas Mavericks",
    "state": "pre",
-   "spread_text": "DAL -3.5",
-   "spread": -3.5,
+   "spread_text": "DAL -4.5",
+   "spread": -4.5,
    "total": 226.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "HOU -4.5",
    "spread": -4.5,
    "total": 223.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -99,7 +99,7 @@
    "spread_text": "SA -8.5",
    "spread": 8.5,
    "total": 226.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -110,10 +110,10 @@
    "away_name": "New Orleans Pelicans",
    "home_name": "Golden State Warriors",
    "state": "pre",
-   "spread_text": "GS -9.5",
-   "spread": -9.5,
-   "total": 232.5,
-   "odds_source": "Draft Kings",
+   "spread_text": "GS -11.5",
+   "spread": -11.5,
+   "total": 229.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
@@ -132,13 +132,6 @@
     "detail": "Gilbert (knee) has been ruled out for Monday's game against the Lakers.",
     "type": "out",
     "updated": "2026-11-08T22:13Z"
-   },
-   {
-    "player": "Jock Landale",
-    "status": "Out",
-    "detail": "Landale (hip) is listed as questionable for Monday's game against the Lakers.",
-    "type": "out",
-    "updated": "2026-11-08T22:11Z"
    },
    {
     "player": "Mouhamed Gueye",
@@ -450,6 +443,27 @@
   ],
   "New Orleans Pelicans": [
    {
+    "player": "Zion Williamson",
+    "status": "Out",
+    "detail": "Williamson (rest) is out for Monday's game against the Warriors.",
+    "type": "out",
+    "updated": "2026-11-09T21:49Z"
+   },
+   {
+    "player": "Trendon Watford",
+    "status": "Out",
+    "detail": "Watford (ankle) is out for Monday's game versus Utah.",
+    "type": "out",
+    "updated": "2026-11-09T20:50Z"
+   },
+   {
+    "player": "Trey Murphy III",
+    "status": "Out",
+    "detail": "Murphy (knees) has been ruled out for Monday's game against Golden State.",
+    "type": "out",
+    "updated": "2026-11-09T20:49Z"
+   },
+   {
     "player": "Yves Missi",
     "status": "Out",
     "detail": "Missi (knee) is out for Friday's game against Minnesota.",
@@ -578,5 +592,34 @@
    }
   ]
  },
- "status_changes": []
+ "status_changes": [
+  {
+   "at_et": "2026-11-09 17:08",
+   "team": "Atlanta Hawks",
+   "player": "Jock Landale",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-09 17:08",
+   "team": "New Orleans Pelicans",
+   "player": "Zion Williamson",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-09 17:08",
+   "team": "New Orleans Pelicans",
+   "player": "Trendon Watford",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-09 17:08",
+   "team": "New Orleans Pelicans",
+   "player": "Trey Murphy III",
+   "from": "not listed",
+   "to": "Out"
+  }
+ ]
 }
