@@ -1,6 +1,6 @@
 {
  "date": "2026-11-08",
- "updated_et": "2026-11-08 17:58",
+ "updated_et": "2026-11-08 19:57",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -25,11 +25,11 @@
    "home": "DET",
    "away_name": "Los Angeles Lakers",
    "home_name": "Detroit Pistons",
-   "state": "pre",
-   "spread_text": "DET -8.5",
-   "spread": -8.5,
-   "total": 216.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -39,11 +39,11 @@
    "home": "MIN",
    "away_name": "Utah Jazz",
    "home_name": "Minnesota Timberwolves",
-   "state": "pre",
-   "spread_text": "MIN -11.5",
-   "spread": -11.5,
-   "total": 222.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -53,11 +53,11 @@
    "home": "DAL",
    "away_name": "Brooklyn Nets",
    "home_name": "Dallas Mavericks",
-   "state": "pre",
-   "spread_text": "DAL -7.5",
-   "spread": -7.5,
-   "total": 223.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -71,7 +71,7 @@
    "spread_text": "BOS -13.5",
    "spread": 13.5,
    "total": 221.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "NO -1.5",
    "spread": 1.5,
    "total": 226.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -99,20 +99,11 @@
    "spread_text": "MIA -11.5",
    "spread": 11.5,
    "total": 236.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
  "injuries": {
-  "Boston Celtics": [
-   {
-    "player": "Mitchell Robinson",
-    "status": "Day-To-Day",
-    "detail": "Robinson (illness) is questionable for Sunday's game versus Milwaukee, Bobby Krivitsky of Forbes.com reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-08T18:21Z"
-   }
-  ],
   "Brooklyn Nets": [
    {
     "player": "Grant Nelson",
@@ -240,10 +231,10 @@
   "Milwaukee Bucks": [
    {
     "player": "Gary Trent Jr.",
-    "status": "Day-To-Day",
-    "detail": "Trent (illness) has been downgraded to questionable for Sunday's game against Boston.",
-    "type": "day-to-day",
-    "updated": "2026-11-08T18:23Z"
+    "status": "Out",
+    "detail": "Trent (illness) won't play in Sunday's game versus the Celtics.",
+    "type": "out",
+    "updated": "2026-11-08T23:58Z"
    }
   ],
   "Minnesota Timberwolves": [
@@ -319,18 +310,11 @@
   ],
   "Utah Jazz": [
    {
-    "player": "Keyonte George",
-    "status": "Day-To-Day",
-    "detail": "George (illness) has been downgraded to questionable for Sunday's game against Minnesota.",
-    "type": "day-to-day",
-    "updated": "2026-11-08T16:20Z"
-   },
-   {
     "player": "Lauri Markkanen",
-    "status": "Day-To-Day",
-    "detail": "Markkanen is questionable for Sunday's game against the Timberwolves due to a right wrist sprain.",
-    "type": "day-to-day",
-    "updated": "2026-11-07T23:14Z"
+    "status": "Out",
+    "detail": "Markkanen (wrist) is out for Sunday's game against the Timberwolves, Shreyas Laddha of The Salt Lake Tribune reports.",
+    "type": "out",
+    "updated": "2026-11-08T23:44Z"
    },
    {
     "player": "Jusuf Nurkic",
@@ -425,6 +409,27 @@
    "player": "Domantas Sabonis",
    "from": "not listed",
    "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-08 19:57",
+   "team": "Milwaukee Bucks",
+   "player": "Gary Trent Jr.",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-08 19:57",
+   "team": "Utah Jazz",
+   "player": "Lauri Markkanen",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-08 19:57",
+   "team": "Utah Jazz",
+   "player": "Keyonte George",
+   "from": "Day-To-Day",
+   "to": "removed from report"
   }
  ]
 }
