@@ -1,12 +1,12 @@
 # Scoreboard
 
-Built Sun 08 Nov 2026, 8:56 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
+Built Mon 09 Nov 2026, 3:46 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
 
 ## Jake's real money
 
 | Contestant | Bets | W–L–P–V | Profit | ROI | Bankroll | Max drawdown | CLV (n, avg, beat close) | Pending |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| jake | 6 | 0–6–0–0 | $-35.00 | -100.0% | $-35.00 | $35.00 | – | 1 |
+| jake | 7 | 0–7–0–0 | $-45.00 | -100.0% | $-45.00 | $45.00 | – | 1 |
 
 ## Paper contestants at real prices (start $500, logged stake)
 
@@ -15,12 +15,12 @@ CLV is the expected value of the bet price against the de-vigged closing price (
 | Contestant | Bets | W–L–P–V | Profit | ROI | Bankroll | Max drawdown | CLV (n, avg, beat close) | Pending |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | always_under | 99 | 53–40–0–6 | $+38.82 | +8.3% | $538.82 | $28.18 | 43, -5.6%, 45% | 0 |
+| screener | 6 | 5–1–0–0 | $+25.22 | +84.1% | $525.22 | $5.00 | – | 0 |
 | card | 4 | 4–0–0–0 | $+16.09 | +80.5% | $516.09 | $0.00 | – | 1 |
-| screener | 4 | 3–1–0–0 | $+13.82 | +69.1% | $513.82 | $5.00 | – | 2 |
+| screener_wide | 11 | 6–5–0–0 | $+10.12 | +18.4% | $510.12 | $15.10 | – | 0 |
 | boosted_50 | 2 | 2–0–0–0 | $+9.93 | +99.3% | $509.93 | $0.00 | 1, -6.1%, 0% | 0 |
 | boosted_20 | 2 | 2–0–0–0 | $+7.94 | +79.4% | $507.94 | $0.00 | 1, -6.1%, 0% | 0 |
 | boost_leans | 1 | 1–0–0–0 | $+4.41 | +88.2% | $504.41 | $0.00 | 1, -6.1%, 0% | 0 |
-| screener_wide | 9 | 4–5–0–0 | $-1.28 | -2.8% | $498.72 | $15.10 | – | 2 |
 | boost_parlay_50 | 1 | 0–1–0–0 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 0 |
 | b_selective | 7 | 3–4–0–0 | $-9.85 | -28.1% | $490.15 | $10.00 | 1, -10.2%, – | 0 |
 | blend_selective | 7 | 3–4–0–0 | $-9.85 | -28.1% | $490.15 | $20.00 | 1, -10.2%, – | 0 |
@@ -55,7 +55,7 @@ CLV is the expected value of the bet price against the de-vigged closing price (
 
 | Stated chance | Bets | Avg stated | Hit rate |
 | --- | --- | --- | --- |
-| 50–55% | 77 | 53.4% | 50.6% |
+| 50–55% | 79 | 53.3% | 51.9% |
 | 55–60% | 187 | 56.9% | 47.1% |
 | 60–65% | 72 | 62.3% | 29.2% |
 | 65–70% | 14 | 67.2% | 100.0% |
@@ -65,4 +65,4 @@ Brier score 0.260 (a coin flip is 0.250).
 ## Open items
 
 - a6ac9837fa5c: withdrawal after the start ignored
-- 8 pending (waiting for box scores or a manual settle).
+- 4 pending (waiting for box scores or a manual settle).
