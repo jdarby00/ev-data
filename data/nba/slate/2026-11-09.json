@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "updated_et": "2026-11-09 17:08",
+ "updated_et": "2026-11-09 18:51",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -12,10 +12,10 @@
    "away_name": "Los Angeles Lakers",
    "home_name": "Atlanta Hawks",
    "state": "pre",
-   "spread_text": "ATL -1.5",
-   "spread": -1.5,
-   "total": 236.5,
-   "odds_source": "DraftKings",
+   "spread_text": "ATL -2.5",
+   "spread": -2.5,
+   "total": 233.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -29,7 +29,7 @@
    "spread_text": "CLE -8.5",
    "spread": 8.5,
    "total": 215.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -40,10 +40,10 @@
    "away_name": "Washington Wizards",
    "home_name": "Detroit Pistons",
    "state": "pre",
-   "spread_text": "DET -10.5",
-   "spread": -10.5,
-   "total": 219.5,
-   "odds_source": "DraftKings",
+   "spread_text": "DET -9.5",
+   "spread": -9.5,
+   "total": 218.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -54,10 +54,10 @@
    "away_name": "Memphis Grizzlies",
    "home_name": "Toronto Raptors",
    "state": "pre",
-   "spread_text": "TOR -2.5",
-   "spread": -2.5,
-   "total": 227.5,
-   "odds_source": "DraftKings",
+   "spread_text": "MEM -1.5",
+   "spread": 1.5,
+   "total": 225.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -71,7 +71,7 @@
    "spread_text": "DAL -4.5",
    "spread": -4.5,
    "total": 226.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "HOU -4.5",
    "spread": -4.5,
    "total": 223.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -99,7 +99,7 @@
    "spread_text": "SA -8.5",
    "spread": 8.5,
    "total": 226.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -113,7 +113,7 @@
    "spread_text": "GS -11.5",
    "spread": -11.5,
    "total": 229.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   }
  ],
@@ -151,10 +151,10 @@
   "Charlotte Hornets": [
    {
     "player": "Moussa Diabate",
-    "status": "Day-To-Day",
-    "detail": "Diabate (quadriceps) is doubtful for Monday's game against the Cavaliers.",
-    "type": "day-to-day",
-    "updated": "2026-11-09T17:32Z"
+    "status": "Out",
+    "detail": "Diabate (quadriceps) has been downgraded to out for Monday's game against Cleveland.",
+    "type": "out",
+    "updated": "2026-11-09T22:16Z"
    },
    {
     "player": "Grant Williams",
@@ -194,13 +194,6 @@
     "updated": "2026-11-08T22:46Z"
    },
    {
-    "player": "Jarrett Allen",
-    "status": "Day-To-Day",
-    "detail": "Allen (knee) is questionable for Monday's game against Charlotte.",
-    "type": "day-to-day",
-    "updated": "2026-11-08T22:15Z"
-   },
-   {
     "player": "Jaylon Tyson",
     "status": "Out",
     "detail": "Tyson (ankle) is out for Monday's game against the Hornets.",
@@ -211,10 +204,10 @@
   "Dallas Mavericks": [
    {
     "player": "Morez Johnson Jr.",
-    "status": "Day-To-Day",
-    "detail": "Johnson (leg) is questionable for Monday's game against Indiana.",
-    "type": "day-to-day",
-    "updated": "2026-11-09T18:50Z"
+    "status": "Out",
+    "detail": "Johnson (leg) has been ruled out for Monday's game against the Pacers.",
+    "type": "out",
+    "updated": "2026-11-09T23:07Z"
    },
    {
     "player": "Sergio de Larrea",
@@ -374,13 +367,6 @@
   ],
   "Indiana Pacers": [
    {
-    "player": "T.J. McConnell",
-    "status": "Day-To-Day",
-    "detail": "McConnell is questionable for Monday's game against the Mavericks due to a right hamstring strain.",
-    "type": "day-to-day",
-    "updated": "2026-11-08T23:24Z"
-   },
-   {
     "player": "Tyrese Haliburton",
     "status": "Out",
     "detail": "Haliburton (hamstring) is progressing well but does not have a timetable to return, Dustin Dopirak of The Indianapolis Star reports.",
@@ -404,18 +390,18 @@
   ],
   "Los Angeles Lakers": [
    {
+    "player": "Austin Reaves",
+    "status": "Out",
+    "detail": "Reaves (illness) has been ruled out for Monday's game against Atlanta, Benjamin Royer of The Orange County Register reports.",
+    "type": "out",
+    "updated": "2026-11-09T22:33Z"
+   },
+   {
     "player": "Quentin Grimes",
     "status": "Out",
     "detail": "Grimes (finger) is out for Monday's game against Atlanta, per Dave McMenamin of ESPN.com.",
     "type": "out",
     "updated": "2026-11-09T18:13Z"
-   },
-   {
-    "player": "Austin Reaves",
-    "status": "Day-To-Day",
-    "detail": "Reaves is questionable for Monday's game against the Hawks due to an illness, per Dave McMenamin of ESPN.com.",
-    "type": "day-to-day",
-    "updated": "2026-11-09T18:09Z"
    }
   ],
   "Memphis Grizzlies": [
@@ -512,11 +498,25 @@
   ],
   "Toronto Raptors": [
    {
+    "player": "Immanuel Quickley",
+    "status": "Out",
+    "detail": "Quickley (hamstring) has been ruled out for Monday's game against Memphis, Esfandiar Baraheni of The Athletic reports.",
+    "type": "out",
+    "updated": "2026-11-09T22:54Z"
+   },
+   {
     "player": "Collin Murray-Boyles",
-    "status": "Day-To-Day",
-    "detail": "Murray-Boyles (illness) is questionable for Monday's game versus Memphis, per Josh Lewenberg of TSN.ca.",
-    "type": "day-to-day",
-    "updated": "2026-11-09T18:28Z"
+    "status": "Out",
+    "detail": "Murray-Boyles (illness) is out for Monday's game against the Grizzlies, Esfandiar Baraheni of The Athletic reports.",
+    "type": "out",
+    "updated": "2026-11-09T22:52Z"
+   },
+   {
+    "player": "Scottie Barnes",
+    "status": "Out",
+    "detail": "Barnes (groin) is out for Monday's game against the Grizzlies, Esfandiar Baraheni of The Athletic reports.",
+    "type": "out",
+    "updated": "2026-11-09T22:50Z"
    },
    {
     "player": "Nate Bittle",
@@ -524,20 +524,6 @@
     "detail": "Bittle (foot) is listed as out for Monday's game against Memphis.",
     "type": "out",
     "updated": "2026-11-08T21:20Z"
-   },
-   {
-    "player": "Immanuel Quickley",
-    "status": "Day-To-Day",
-    "detail": "Quickley (hamstring) was a limited participant in Sunday's practice and will be listed as questionable for Monday's game against the Grizzlies, Michael Grange of Sportsnet.ca reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-08T17:14Z"
-   },
-   {
-    "player": "Scottie Barnes",
-    "status": "Day-To-Day",
-    "detail": "Barnes (adductor) was a limited participant in Sunday's practice and will be listed as questionable for Monday's game against the Grizzlies, Michael Grange of Sportsnet.ca reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-08T17:11Z"
    },
    {
     "player": "Kawhi Leonard",
@@ -550,10 +536,10 @@
   "Washington Wizards": [
    {
     "player": "Bilal Coulibaly",
-    "status": "Day-To-Day",
-    "detail": "Coulibaly (hand) is listed as questionable for Monday's game against Detroit.",
-    "type": "day-to-day",
-    "updated": "2026-11-09T18:54Z"
+    "status": "Out",
+    "detail": "Coulibaly (hand) is out for Monday's game against the Pistons.",
+    "type": "out",
+    "updated": "2026-11-09T23:03Z"
    },
    {
     "player": "Tristan Vukcevic",
@@ -561,13 +547,6 @@
     "detail": "Vukcevic (hip) has been ruled out for Monday's game against Detroit.",
     "type": "out",
     "updated": "2026-11-08T22:17Z"
-   },
-   {
-    "player": "Anthony Davis",
-    "status": "Day-To-Day",
-    "detail": "Davis (ankle) is listed as questionable for Monday's game in Detroit.",
-    "type": "day-to-day",
-    "updated": "2026-11-08T22:08Z"
    },
    {
     "player": "Reece Beekman",
@@ -620,6 +599,76 @@
    "player": "Trey Murphy III",
    "from": "not listed",
    "to": "Out"
+  },
+  {
+   "at_et": "2026-11-09 18:51",
+   "team": "Charlotte Hornets",
+   "player": "Moussa Diabate",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-09 18:51",
+   "team": "Cleveland Cavaliers",
+   "player": "Jarrett Allen",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-09 18:51",
+   "team": "Dallas Mavericks",
+   "player": "Morez Johnson Jr.",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-09 18:51",
+   "team": "Indiana Pacers",
+   "player": "T.J. McConnell",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-09 18:51",
+   "team": "Los Angeles Lakers",
+   "player": "Austin Reaves",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-09 18:51",
+   "team": "Toronto Raptors",
+   "player": "Immanuel Quickley",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-09 18:51",
+   "team": "Toronto Raptors",
+   "player": "Collin Murray-Boyles",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-09 18:51",
+   "team": "Toronto Raptors",
+   "player": "Scottie Barnes",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-09 18:51",
+   "team": "Washington Wizards",
+   "player": "Bilal Coulibaly",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-09 18:51",
+   "team": "Washington Wizards",
+   "player": "Anthony Davis",
+   "from": "Day-To-Day",
+   "to": "removed from report"
   }
  ]
 }
