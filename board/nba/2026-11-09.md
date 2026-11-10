@@ -1,13 +1,11 @@
 # NBA board, 2026-11-09
 
-Slate updated 2026-11-09 22:37 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-09 23:18 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 21:04 Denver Nuggets: DeMar DeRozan Day-To-Day → removed from report
-- 21:04 Denver Nuggets: Jamal Murray Day-To-Day → removed from report
 - 21:04 Golden State Warriors: Gary Payton II Day-To-Day → Out
 - 21:04 Golden State Warriors: Gui Santos Day-To-Day → removed from report
 - 21:04 Memphis Grizzlies: Quinten Post not listed → Day-To-Day
@@ -21,6 +19,8 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 22:37 Toronto Raptors: Collin Murray-Boyles Out → Day-To-Day
 - 22:37 Toronto Raptors: Scottie Barnes Out → Day-To-Day
 - 22:37 Washington Wizards: Bilal Coulibaly Out → Day-To-Day
+- 23:18 Dallas Mavericks: Morez Johnson Jr. Out → Day-To-Day
+- 23:18 Houston Rockets: Oscar Tshiebwe Out → Day-To-Day
 
 ## LAL @ ATL, 19:00 ET
 Line: n/a, total – (ESPN).
@@ -202,7 +202,7 @@ Line: n/a, total – (ESPN).
 | Jay Huff | – | 20 (9.3) → 18.7 (7.1) | 8.2/7.1 → 7 (1–15) | 3.6/3.8 → 3 (1–7) | 0.6/1 → 1 (0–3) | 1/0.9 → 1 (0–3) | 12 (2–24) |
 | Jalen Slawson | – | 19 (10.5) → 16.7 (3.8) | 5/3.8 → 4 (0–11) | 3.8/3.1 → 3 (0–7) | 1.4/1.1 → 1 (0–4) | 0.4/0.2 → 0 (0–2) | 9 (0–20) |
 
-**DAL** (back-to-back). Out: Morez Johnson Jr., Sergio de Larrea. Freed minutes: 28.9. Out all season so far (already in the lines): Tarik Biberovic, Dereck Lively II.
+**DAL** (back-to-back). Out: Sergio de Larrea. Freed minutes: 11.8. Out all season so far (already in the lines): Tarik Biberovic, Dereck Lively II.
 - Without Sergio de Larrea: Max Christie min -15, pts -5.6, reb -2, ast -1.9 (n=5 vs 4)
 - Without Sergio de Larrea: Marcus Sasser min -9.1, pts -5.2, reb -1.2, ast -0.6 (n=5 vs 4)
 - Without Sergio de Larrea: Zaccharie Risacher min -8.4, pts -1, reb -1.3, ast +0 (n=6 vs 4)
@@ -217,7 +217,7 @@ Line: n/a, total – (ESPN).
 | Daniel Gafford | – | 22 (4.4) → 21.5 (13.8) | 13/9.8 → 10 (3–18) | 4.8/5.9 → 6 (2–10) | 1.2/1.9 → 1 (0–3) | 0/0.1 → 0 (0–0) | 17 (7–29) |
 | Zaccharie Risacher | – | 20.4 (5.8) → 22.1 (14.3) | 5.8/7.4 → 8 (2–15) | 4.4/5.2 → 4 (1–8) | 1.6/1.5 → 1 (0–3) | 0.8/0.9 → 1 (0–3) | 13 (5–23) |
 | Caleb Martin | – | 19.2 (4.6) → 17.6 (9.9) | 3/4.2 → 4 (0–8) | 2.2/2.2 → 2 (0–5) | 0.8/0.7 → 1 (0–3) | 0.6/0.8 → 0 (0–1) | 8 (1–15) |
-| Morez Johnson Jr. | Out | 19 (3) | 8/7.6 | 6.6/5.1 | 1.2/1.3 | 0.4/0.2 | – |
+| Morez Johnson Jr. | Day-To-Day | 19 (3) → 18.5 (10.8) | 8/7.6 → 7 (2–14) | 6.6/5.1 → 5 (2–9) | 1.2/1.3 → 1 (0–3) | 0.4/0.2 → 0 (0–2) | 13 (5–24) |
 | Walter Clayton Jr. | – | 18.6 (6.8) → 18 (9.1) | 9.6/7.3 → 7 (1–14) | 3.4/2.9 → 2 (0–5) | 3.2/3.3 → 3 (1–7) | 1.8/1.3 → 1 (0–3) | 13 (4–24) |
 | Max Christie | – | 14.8 (9.1) → 18.7 (7.3) | 3.6/6.1 → 6 (1–13) | 2.2/3.1 → 2 (0–5) | 0.6/1.4 → 1 (0–3) | 0.8/1.2 → 1 (0–3) | 9 (2–19) |
 | Santi Aldama | – | 14 (1) → 17.1 (9.4) | 10/10 → 9 (2–17) | 5.5/5.5 → 4 (1–8) | 0.5/0.5 → 1 (0–3) | 1/1 → 1 (0–3) | 15 (5–26) |
@@ -240,11 +240,11 @@ Line: n/a, total – (ESPN).
 | Marvin Bagley III | – | 13.6 (2.8) → 13.4 (5.7) | 6.8/6 → 7 (1–14) | 3.8/3.5 → 4 (1–8) | 0.6/0.6 → 1 (0–2) | 0/0 → 0 (0–1) | 11 (3–22) |
 | Tyus Jones | – | 12.2 (2.9) → 12.4 (4.7) | 3.8/2.9 → 2 (0–7) | 1/0.6 → 1 (0–3) | 2.8/2 → 2 (0–5) | 0.6/0.4 → 0 (0–1) | 6 (0–13) |
 
-**HOU** (1 rest day). Out: Clint Capela, Steven Adams, Oscar Tshiebwe. Freed minutes: 29.
+**HOU** (1 rest day). Out: Clint Capela, Steven Adams. Freed minutes: 22.2.
 - Without Clint Capela: Bogdan Bogdanovic min -10, pts -7, reb -1, ast -1.3 (n=4 vs 6)
-- Without Oscar Tshiebwe: Isaiah Crawford min -7, pts -2.7, reb -0.3, ast +0 (n=3 vs 3)
 - Without Clint Capela: Marcus Smart min -6.5, pts -8.5, reb -0.5, ast -1.5 (n=4 vs 3)
 - Without Clint Capela: Reed Sheppard min -6.2, pts -1.2, reb -1.8, ast -3.8 (n=3 vs 4)
+- Without Clint Capela: Oscar Tshiebwe min -5.7, pts -0.3, reb -3.4, ast -1 (n=3 vs 3)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -258,7 +258,7 @@ Line: n/a, total – (ESPN).
 | Reed Sheppard | – | 19.6 (5.3) → 20.1 (12.4) | 9.6/10 → 10 (3–18) | 1.2/2 → 2 (0–4) | 2.2/3.1 → 2 (0–5) | 2/2.3 → 2 (0–4) | 14 (5–25) |
 | Clint Capela | Out | 15.4 (9) | 3.8/3.2 | 5.6/5.2 | 2/1.7 | 0/0 | – |
 | Steven Adams | Out | 8 (–) | 4/4 | 2/2 | 1/1 | 0/0 | – |
-| Oscar Tshiebwe | Out | 5.4 (4.4) | 2/2.8 | 1.4/2 | 0.2/0.5 | 0/0 | – |
+| Oscar Tshiebwe | Day-To-Day | 5.4 (4.4) → 6.8 (0) | 2/2.8 → 3 (0–9) | 1.4/2 → 2 (0–6) | 0.2/0.5 → 0 (0–2) | 0/0 → 0 (0–0) | 5 (0–15) |
 
 ## SA @ PHX, 21:00 ET
 Line: n/a, total – (ESPN).

@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "updated_et": "2026-11-09 22:37",
+ "updated_et": "2026-11-09 23:18",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -67,7 +67,7 @@
    "home": "DAL",
    "away_name": "Indiana Pacers",
    "home_name": "Dallas Mavericks",
-   "state": "in",
+   "state": "post",
    "spread_text": "",
    "spread": null,
    "total": null,
@@ -81,7 +81,7 @@
    "home": "HOU",
    "away_name": "Denver Nuggets",
    "home_name": "Houston Rockets",
-   "state": "in",
+   "state": "post",
    "spread_text": "",
    "spread": null,
    "total": null,
@@ -204,10 +204,10 @@
   "Dallas Mavericks": [
    {
     "player": "Morez Johnson Jr.",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Johnson (leg) has been ruled out for Monday's game against the Pacers.",
-    "type": "out",
-    "updated": "2026-11-09T23:07Z"
+    "type": "day-to-day",
+    "updated": "2026-11-10T03:46Z"
    },
    {
     "player": "Sergio de Larrea",
@@ -295,6 +295,13 @@
   ],
   "Houston Rockets": [
    {
+    "player": "Oscar Tshiebwe",
+    "status": "Day-To-Day",
+    "detail": "Tshiebwe has been ruled out for Monday's game against the Nuggets due to an illness.",
+    "type": "day-to-day",
+    "updated": "2026-11-10T03:59Z"
+   },
+   {
     "player": "Clint Capela",
     "status": "Out",
     "detail": "Head coach Ime Udoka stated Monday that Capela (ankle) could be cleared to return either Nov. 15 in Washington or Nov. 16 in Miami, Lachard Binkley of SI.com reports.",
@@ -307,13 +314,6 @@
     "detail": "Head coach Ime Udoka said Monday that Adams could return as soon as Sunday's game at Washington, Lachard Binkley of SI.com reports.",
     "type": "out",
     "updated": "2026-11-09T23:55Z"
-   },
-   {
-    "player": "Oscar Tshiebwe",
-    "status": "Out",
-    "detail": "Tshiebwe has been ruled out for Monday's game against the Nuggets due to an illness.",
-    "type": "out",
-    "updated": "2026-11-09T17:36Z"
    }
   ],
   "Indiana Pacers": [
@@ -758,6 +758,20 @@
    "at_et": "2026-11-09 22:37",
    "team": "Washington Wizards",
    "player": "Bilal Coulibaly",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-09 23:18",
+   "team": "Dallas Mavericks",
+   "player": "Morez Johnson Jr.",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-09 23:18",
+   "team": "Houston Rockets",
+   "player": "Oscar Tshiebwe",
    "from": "Out",
    "to": "Day-To-Day"
   }
