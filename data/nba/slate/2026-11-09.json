@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "updated_et": "2026-11-09 21:04",
+ "updated_et": "2026-11-09 22:37",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,7 +11,7 @@
    "home": "ATL",
    "away_name": "Los Angeles Lakers",
    "home_name": "Atlanta Hawks",
-   "state": "in",
+   "state": "post",
    "spread_text": "",
    "spread": null,
    "total": null,
@@ -25,7 +25,7 @@
    "home": "CHA",
    "away_name": "Cleveland Cavaliers",
    "home_name": "Charlotte Hornets",
-   "state": "in",
+   "state": "post",
    "spread_text": "",
    "spread": null,
    "total": null,
@@ -39,7 +39,7 @@
    "home": "DET",
    "away_name": "Washington Wizards",
    "home_name": "Detroit Pistons",
-   "state": "in",
+   "state": "post",
    "spread_text": "",
    "spread": null,
    "total": null,
@@ -53,7 +53,7 @@
    "home": "TOR",
    "away_name": "Memphis Grizzlies",
    "home_name": "Toronto Raptors",
-   "state": "in",
+   "state": "post",
    "spread_text": "",
    "spread": null,
    "total": null,
@@ -95,11 +95,11 @@
    "home": "PHX",
    "away_name": "San Antonio Spurs",
    "home_name": "Phoenix Suns",
-   "state": "pre",
-   "spread_text": "SA -8.5",
-   "spread": 8.5,
-   "total": 225.5,
-   "odds_source": "DraftKings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -109,11 +109,11 @@
    "home": "GS",
    "away_name": "New Orleans Pelicans",
    "home_name": "Golden State Warriors",
-   "state": "pre",
-   "spread_text": "GS -11.5",
-   "spread": -11.5,
-   "total": 228.5,
-   "odds_source": "DraftKings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   }
  ],
@@ -150,11 +150,18 @@
   ],
   "Charlotte Hornets": [
    {
+    "player": "Brandon Miller",
+    "status": "Day-To-Day",
+    "detail": "Miller (groin) is listed as out for Monday's game against Cleveland.",
+    "type": "day-to-day",
+    "updated": "2026-11-10T02:51Z"
+   },
+   {
     "player": "Moussa Diabate",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Diabate (quadriceps) has been downgraded to out for Monday's game against Cleveland.",
-    "type": "out",
-    "updated": "2026-11-09T22:16Z"
+    "type": "day-to-day",
+    "updated": "2026-11-10T02:51Z"
    },
    {
     "player": "Grant Williams",
@@ -176,22 +183,15 @@
     "detail": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",
     "type": "out",
     "updated": "2026-11-08T22:26Z"
-   },
-   {
-    "player": "Brandon Miller",
-    "status": "Out",
-    "detail": "Miller (groin) is listed as out for Monday's game against Cleveland.",
-    "type": "out",
-    "updated": "2026-11-08T22:25Z"
    }
   ],
   "Cleveland Cavaliers": [
    {
     "player": "Sam Merrill",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Merrill (elbow) is listed as out for Monday's game against the Hornets.",
-    "type": "out",
-    "updated": "2026-11-08T22:46Z"
+    "type": "day-to-day",
+    "updated": "2026-11-10T02:49Z"
    },
    {
     "player": "Jaylon Tyson",
@@ -342,26 +342,33 @@
   "Los Angeles Lakers": [
    {
     "player": "Austin Reaves",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Reaves (illness) has been ruled out for Monday's game against Atlanta, Benjamin Royer of The Orange County Register reports.",
-    "type": "out",
-    "updated": "2026-11-09T22:33Z"
+    "type": "day-to-day",
+    "updated": "2026-11-10T02:53Z"
    },
    {
     "player": "Quentin Grimes",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Grimes (finger) is out for Monday's game against Atlanta, per Dave McMenamin of ESPN.com.",
-    "type": "out",
-    "updated": "2026-11-09T18:13Z"
+    "type": "day-to-day",
+    "updated": "2026-11-10T02:53Z"
    }
   ],
   "Memphis Grizzlies": [
    {
+    "player": "Isaiah Stewart",
+    "status": "Day-To-Day",
+    "detail": "Stewart (knee) has been ruled out for Monday's game against Toronto.",
+    "type": "day-to-day",
+    "updated": "2026-11-10T03:01Z"
+   },
+   {
     "player": "Quinten Post",
     "status": "Day-To-Day",
-    "detail": "Post is doubtful to return to Monday's game against Toronto due to a head injury.",
+    "detail": "Post (head) didn't return to Monday's 118-102 win over the Raptors. He ended the night with one rebound in two minutes.",
     "type": "day-to-day",
-    "updated": "2026-11-10T01:17Z"
+    "updated": "2026-11-10T02:58Z"
    },
    {
     "player": "Scotty Pippen Jr.",
@@ -369,13 +376,6 @@
     "detail": "Pippen (back) won't play in Monday's game versus the Raptors.",
     "type": "out",
     "updated": "2026-11-08T23:07Z"
-   },
-   {
-    "player": "Isaiah Stewart",
-    "status": "Out",
-    "detail": "Stewart (knee) has been ruled out for Monday's game against Toronto.",
-    "type": "out",
-    "updated": "2026-11-08T23:01Z"
    },
    {
     "player": "Richie Saunders",
@@ -457,24 +457,24 @@
   "Toronto Raptors": [
    {
     "player": "Immanuel Quickley",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Quickley (hamstring) has been ruled out for Monday's game against Memphis, Esfandiar Baraheni of The Athletic reports.",
-    "type": "out",
-    "updated": "2026-11-09T22:54Z"
+    "type": "day-to-day",
+    "updated": "2026-11-10T03:02Z"
    },
    {
     "player": "Collin Murray-Boyles",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Murray-Boyles (illness) is out for Monday's game against the Grizzlies, Esfandiar Baraheni of The Athletic reports.",
-    "type": "out",
-    "updated": "2026-11-09T22:52Z"
+    "type": "day-to-day",
+    "updated": "2026-11-10T03:01Z"
    },
    {
     "player": "Scottie Barnes",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Barnes (groin) is out for Monday's game against the Grizzlies, Esfandiar Baraheni of The Athletic reports.",
-    "type": "out",
-    "updated": "2026-11-09T22:50Z"
+    "type": "day-to-day",
+    "updated": "2026-11-10T03:01Z"
    },
    {
     "player": "Nate Bittle",
@@ -494,10 +494,10 @@
   "Washington Wizards": [
    {
     "player": "Bilal Coulibaly",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Coulibaly (hand) is out for Monday's game against the Pistons.",
-    "type": "out",
-    "updated": "2026-11-09T23:03Z"
+    "type": "day-to-day",
+    "updated": "2026-11-10T02:53Z"
    },
    {
     "player": "Tristan Vukcevic",
@@ -689,6 +689,76 @@
    "team": "Memphis Grizzlies",
    "player": "Quinten Post",
    "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-09 22:37",
+   "team": "Charlotte Hornets",
+   "player": "Brandon Miller",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-09 22:37",
+   "team": "Charlotte Hornets",
+   "player": "Moussa Diabate",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-09 22:37",
+   "team": "Cleveland Cavaliers",
+   "player": "Sam Merrill",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-09 22:37",
+   "team": "Los Angeles Lakers",
+   "player": "Austin Reaves",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-09 22:37",
+   "team": "Los Angeles Lakers",
+   "player": "Quentin Grimes",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-09 22:37",
+   "team": "Memphis Grizzlies",
+   "player": "Isaiah Stewart",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-09 22:37",
+   "team": "Toronto Raptors",
+   "player": "Immanuel Quickley",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-09 22:37",
+   "team": "Toronto Raptors",
+   "player": "Collin Murray-Boyles",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-09 22:37",
+   "team": "Toronto Raptors",
+   "player": "Scottie Barnes",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-09 22:37",
+   "team": "Washington Wizards",
+   "player": "Bilal Coulibaly",
+   "from": "Out",
    "to": "Day-To-Day"
   }
  ]
