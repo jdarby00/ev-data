@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "updated_et": "2026-11-10 14:45",
+ "updated_et": "2026-11-10 16:15",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -14,7 +14,7 @@
    "state": "pre",
    "spread_text": "NY -15.5",
    "spread": -15.5,
-   "total": 221.5,
+   "total": 222.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -68,8 +68,8 @@
    "away_name": "Orlando Magic",
    "home_name": "Sacramento Kings",
    "state": "pre",
-   "spread_text": "ORL -7.5",
-   "spread": 7.5,
+   "spread_text": "ORL -5.5",
+   "spread": 5.5,
    "total": 222.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -82,9 +82,9 @@
    "away_name": "Oklahoma City Thunder",
    "home_name": "Portland Trail Blazers",
    "state": "pre",
-   "spread_text": "OKC -2.5",
-   "spread": 2.5,
-   "total": 225.5,
+   "spread_text": "OKC -1.5",
+   "spread": 1.5,
+   "total": 226.5,
    "odds_source": "DraftKings",
    "season_type": 2
   }
@@ -267,13 +267,6 @@
   ],
   "Phoenix Suns": [
    {
-    "player": "Jordan Goodwin",
-    "status": "Out",
-    "detail": "Goodwin (calf) has been ruled out for Monday's game against the Spurs, Kellan Olson of ArizonaSports.com reports.",
-    "type": "out",
-    "updated": "2026-11-10T00:21Z"
-   },
-   {
     "player": "Mark Williams",
     "status": "Out",
     "detail": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",
@@ -311,20 +304,6 @@
     "detail": "Raynaud (knee) has been ruled out for Tuesday's game against Orlando.",
     "type": "out",
     "updated": "2026-11-10T00:37Z"
-   },
-   {
-    "player": "Keegan Murray",
-    "status": "Day-To-Day",
-    "detail": "Murray is questionable for Tuesday's game against the Magic due to right wrist soreness.",
-    "type": "day-to-day",
-    "updated": "2026-11-10T00:36Z"
-   },
-   {
-    "player": "Domantas Sabonis",
-    "status": "Day-To-Day",
-    "detail": "Sabonis (knee) is questionable to play Tuesday's game against the Magic.",
-    "type": "day-to-day",
-    "updated": "2026-11-10T00:35Z"
    },
    {
     "player": "Ben Simmons",
@@ -386,6 +365,27 @@
    "player": "Lauri Markkanen",
    "from": "Day-To-Day",
    "to": "Out"
+  },
+  {
+   "at_et": "2026-11-10 16:15",
+   "team": "Phoenix Suns",
+   "player": "Jordan Goodwin",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-10 16:15",
+   "team": "Sacramento Kings",
+   "player": "Keegan Murray",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-10 16:15",
+   "team": "Sacramento Kings",
+   "player": "Domantas Sabonis",
+   "from": "Day-To-Day",
+   "to": "removed from report"
   }
  ]
 }

@@ -1,6 +1,6 @@
 # NBA board, 2026-11-10
 
-Slate updated 2026-11-10 14:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-10 16:15 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -9,9 +9,12 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 12:52 Milwaukee Bucks: Kel'el Ware not listed → Day-To-Day
 - 12:52 Orlando Magic: Tristan da Silva not listed → Day-To-Day
 - 14:05 Utah Jazz: Lauri Markkanen Day-To-Day → Out
+- 16:15 Phoenix Suns: Jordan Goodwin Out → removed from report
+- 16:15 Sacramento Kings: Keegan Murray Day-To-Day → removed from report
+- 16:15 Sacramento Kings: Domantas Sabonis Day-To-Day → removed from report
 
 ## MIL @ NY, 19:30 ET
-Line: NY -15.5, total 221.5 (DraftKings).
+Line: NY -15.5, total 222.5 (DraftKings).
 **MIL** (1 rest day). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -98,11 +101,7 @@ Line: PHX -3.5, total 224.5 (DraftKings).
 | Gradey Dick | – | 13.6 (7.2) → 14.8 (5.5) | 6.8/7 → 6 (1–14) | 2.2/3 → 2 (0–5) | 1/0.6 → 0 (0–2) | 0.6/0.8 → 1 (0–2) | 9 (1–19) |
 | Cam Christie | Day-To-Day | 5.8 (4.4) → 5.8 (0) | 1.4/1.4 → 1 (0–6) | 0.4/0.4 → 0 (0–3) | 0.2/0.2 → 0 (0–1) | 0.2/0.2 → 0 (0–1) | 2 (0–9) |
 
-**PHX** (back-to-back). Out: Jordan Goodwin. Freed minutes: 18.8. Out all season so far (already in the lines): Mark Williams.
-- Without Jordan Goodwin: Ryan Dunn min +9.8, pts +1.2, reb +0.8, ast +1.4 (n=4 vs 5)
-- Without Jordan Goodwin: Miles Bridges min -3.4, pts -3.2, reb +1.8, ast +1.8 (n=4 vs 5)
-- Without Jordan Goodwin: Collin Gillespie min -3, pts -2.6, reb +0.5, ast -2.2 (n=4 vs 5)
-- Without Jordan Goodwin: Dillon Brooks min +2, pts -2.6, reb -0.2, ast -2.2 (n=4 vs 5)
+**PHX** (back-to-back). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Mark Williams.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -113,7 +112,7 @@ Line: PHX -3.5, total 224.5 (DraftKings).
 | Collin Gillespie | – | 23 (3.7) → 24.3 (16.6) | 4.8/6.7 → 8 (3–15) | 2.2/2.2 → 3 (1–5) | 2.6/4 → 4 (1–7) | 1.2/1.7 → 2 (0–4) | 15 (6–25) |
 | Oso Ighodaro | – | 22.4 (3.2) → 21.4 (13.7) | 7.2/6.6 → 6 (1–12) | 4.8/5.1 → 5 (2–9) | 3/3.3 → 2 (0–5) | 0/0 → 0 (0–0) | 13 (5–23) |
 | Ryan Dunn | – | 19.8 (5.3) → 19.2 (11.5) | 5.8/5.3 → 5 (1–11) | 3.8/3.6 → 4 (1–7) | 1.8/1.2 → 1 (0–3) | 1/0.9 → 1 (0–2) | 11 (3–19) |
-| Jordan Goodwin | Out | 18.8 (5.1) | 7.8/7.8 | 3.4/3.4 | 2.6/2.6 | 1.8/1.8 | – |
+| Jordan Goodwin | – | 18.8 (5.1) → 18.5 (10.8) | 7.8/7.8 → 7 (2–14) | 3.4/3.4 → 3 (1–7) | 2.6/2.6 → 2 (0–4) | 1.8/1.8 → 1 (0–3) | 13 (5–23) |
 | Khaman Maluach | – | 17.8 (4.6) → 18.1 (10.4) | 7.6/7.8 → 7 (1–13) | 5.8/6.3 → 6 (2–10) | 1.2/1.2 → 0 (0–2) | 0.2/0.2 → 0 (0–1) | 13 (4–23) |
 | Luke Kennard | – | 16.2 (2.8) → 16.3 (8.6) | 6.4/7.6 → 6 (1–13) | 1/1.4 → 1 (0–3) | 1.8/1.8 → 1 (0–4) | 1.8/2 → 1 (0–3) | 10 (2–18) |
 | Mark Williams | Out | none this season; last season 23.6 min, 11.7 pts | | | | |
@@ -154,7 +153,7 @@ Line: MIA -9.5, total 227.5 (DraftKings).
 | Brice Sensabaugh | – | 13.6 (3.2) → 14.5 (6.8) | 5.4/7.3 → 8 (2–15) | 2.4/2.8 → 2 (0–5) | 1/1 → 1 (0–3) | 0.8/1.4 → 1 (0–3) | 11 (3–21) |
 
 ## ORL @ SAC, 22:00 ET
-Line: ORL -7.5, total 222.5 (DraftKings).
+Line: ORL -5.5, total 222.5 (DraftKings).
 **ORL** (2 rest days). Out: Paolo Banchero, Jalen Suggs. Freed minutes: 66.8. Out all season so far (already in the lines): Jonathan Isaac, Noah Penda, Izaiyah Nelson.
 - Without Jalen Suggs: Jase Richardson min +11.3, pts +1.8, reb +1.2, ast +1 (n=6 vs 3)
 - Without Paolo Banchero: Jase Richardson min +11, pts +2.4, reb +0.8, ast -0.4 (n=7 vs 2)
@@ -180,10 +179,10 @@ Line: ORL -7.5, total 222.5 (DraftKings).
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Darius Acuff Jr. | – | 37.6 (2.9) → 37.4 (29.7) | 27.8/25.9 → 22 (12–32) | 4.2/3.8 → 5 (2–9) | 8.2/7.4 → 6 (3–11) | 4/3 → 2 (1–5) | 33 (20–48) |
-| Domantas Sabonis | Day-To-Day | 35 (3.1) → 34.1 (26.4) | 12.4/15.3 → 16 (8–25) | 13/14.6 → 13 (7–20) | 5/6 → 5 (2–8) | 0.2/0.2 → 0 (0–1) | 34 (20–49) |
+| Domantas Sabonis | – | 35 (3.1) → 34.1 (26.4) | 12.4/15.3 → 16 (8–25) | 13/14.6 → 13 (7–20) | 5/6 → 5 (2–8) | 0.2/0.2 → 0 (0–1) | 34 (20–49) |
 | De'Andre Hunter | – | 34.8 (5.5) → 32.3 (24.6) | 15.4/13.1 → 15 (7–23) | 4/4.6 → 4 (2–8) | 1.2/1.2 → 2 (0–4) | 1.8/2 → 2 (0–4) | 21 (11–32) |
 | Zach LaVine | – | 28.8 (6.1) → 31.1 (23.1) | 16.8/21.4 → 19 (9–29) | 3.2/3.3 → 3 (1–6) | 1.6/2.6 → 2 (0–4) | 2/2.5 → 2 (0–5) | 24 (13–36) |
-| Keegan Murray | Day-To-Day | 25.7 (2.1) → 26.9 (19.2) | 8/8 → 10 (4–17) | 2.3/2.3 → 3 (1–6) | 1/1 → 1 (0–3) | 0/0 → 0 (0–2) | 15 (6–24) |
+| Keegan Murray | – | 25.7 (2.1) → 26.9 (19.2) | 8/8 → 10 (4–17) | 2.3/2.3 → 3 (1–6) | 1/1 → 1 (0–3) | 0/0 → 0 (0–2) | 15 (6–24) |
 | Precious Achiuwa | – | 25.4 (8.5) → 27 (16.3) | 7/10.4 → 10 (3–17) | 7.2/6.7 → 7 (3–12) | 1.4/1.2 → 1 (0–3) | 0.4/0.3 → 0 (0–1) | 18 (8–31) |
 | Leaky Black | – | 23 (10.3) → 25 (12.4) | 7/7 → 6 (1–13) | 3.6/3.6 → 4 (1–8) | 1.8/1.8 → 1 (0–4) | 2/2 → 1 (0–4) | 12 (3–22) |
 | Malik Monk | – | 21.4 (6.6) → 19.3 (10.7) | 13.2/8.6 → 10 (3–19) | 1/1.2 → 1 (0–3) | 4.6/3.8 → 3 (1–6) | 2/1.2 → 1 (0–4) | 15 (5–27) |
@@ -192,7 +191,7 @@ Line: ORL -7.5, total 222.5 (DraftKings).
 | Jonathan Mogbo | – | 14.2 (8.2) → 12.7 (2.4) | 3/3 → 3 (0–7) | 2.2/2.2 → 3 (0–6) | 0.8/0.8 → 1 (0–3) | 0.2/0.2 → 0 (0–0) | 6 (0–15) |
 
 ## OKC @ POR, 23:00 ET
-Line: OKC -2.5, total 225.5 (DraftKings).
+Line: OKC -1.5, total 226.5 (DraftKings).
 **OKC** (2 rest days). Out: Jalen Williams, Chet Holmgren, Jaylin Williams, Cason Wallace. Freed minutes: 96.4. Out all season so far (already in the lines): Thomas Sorber.
 - Without Jalen Williams: Bennett Stirtz min +19, pts +9.9, reb +1.3, ast +1.9 (n=7 vs 3)
 - Without Chet Holmgren: Bennett Stirtz min +19, pts +9.9, reb +1.3, ast +1.9 (n=7 vs 3)
