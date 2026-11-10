@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "built_at": "2026-11-10T22:49:32Z",
+ "built_at": "2026-11-10T23:07:32Z",
  "code_card": [
   {
    "lane": "value",
@@ -166,7 +166,7 @@
   {
    "role": "Boost play",
    "book": "draftkings",
-   "sgp": "SGPx",
+   "sgp": "SGPx 3",
    "same_game": "MIA @ UTAH",
    "legs": [
     {
@@ -2078,7 +2078,7 @@
  "boost_plays": [
   {
    "book": "draftkings",
-   "sgp": "SGPx",
+   "sgp": "SGPx 3",
    "same_game": "MIA @ UTAH",
    "legs": [
     {
@@ -2159,6 +2159,118 @@
    "price_note": "separate legs multiplied; the book's SGP price is usually shorter: check the slip"
   },
   {
+   "book": "draftkings",
+   "sgp": "SGPx 4",
+   "same_game": "MIA @ UTAH",
+   "legs": [
+    {
+     "sport": "nba",
+     "game": "MIA @ UTAH",
+     "bet": "Giannis Antetokounmpo under 1.5 steals",
+     "price": -200,
+     "p": 0.6448,
+     "tier": "Straight",
+     "event_id": "401909963",
+     "team": "MIA"
+    },
+    {
+     "sport": "nba",
+     "game": "MIA @ UTAH",
+     "bet": "Ace Bailey under 2.5 threes",
+     "price": -151,
+     "p": 0.6029,
+     "tier": "Straight",
+     "event_id": "401909963",
+     "team": "UTAH"
+    },
+    {
+     "sport": "nba",
+     "game": "LAC @ PHX",
+     "bet": "Jalen Green under 1.5 steals",
+     "price": -215,
+     "p": 0.6525,
+     "tier": "Best bet",
+     "event_id": "401909962",
+     "team": "PHX"
+    },
+    {
+     "sport": "nba",
+     "game": "LAC @ PHX",
+     "bet": "Derrick Jones Jr. under 1.5 threes",
+     "price": -208,
+     "p": 0.6378,
+     "tier": "Straight",
+     "event_id": "401909962",
+     "team": "LAC"
+    }
+   ],
+   "p": 0.1618,
+   "decimal": 5.409,
+   "american": 441,
+   "ev": -0.1249,
+   "ev_boost30": 0.0891,
+   "ev_boost50": 0.2317,
+   "min_price_boost30": 413,
+   "min_price_boost50": 358,
+   "price_note": "separate legs multiplied; the book's SGP price is usually shorter: check the slip"
+  },
+  {
+   "book": "fanduel",
+   "sgp": "SGPx 4",
+   "same_game": "LAC @ PHX",
+   "legs": [
+    {
+     "sport": "nba",
+     "game": "LAC @ PHX",
+     "bet": "Collin Gillespie under 2.5 threes",
+     "price": -220,
+     "p": 0.6442,
+     "tier": "Straight",
+     "event_id": "401909962",
+     "team": "PHX"
+    },
+    {
+     "sport": "nba",
+     "game": "LAC @ PHX",
+     "bet": "Brook Lopez under 1.5 blocks",
+     "price": -182,
+     "p": 0.631,
+     "tier": "Straight",
+     "event_id": "401909962",
+     "team": "LAC"
+    },
+    {
+     "sport": "nba",
+     "game": "ORL @ SAC",
+     "bet": "Keegan Murray under 1.5 threes",
+     "price": -230,
+     "p": 0.6685,
+     "tier": "Best bet",
+     "event_id": "401909964",
+     "team": "SAC"
+    },
+    {
+     "sport": "nba",
+     "game": "ORL @ SAC",
+     "bet": "Jase Richardson under 1.5 threes",
+     "price": -188,
+     "p": 0.6352,
+     "tier": "Straight",
+     "event_id": "401909964",
+     "team": "ORL"
+    }
+   ],
+   "p": 0.1726,
+   "decimal": 4.955,
+   "american": 395,
+   "ev": -0.1448,
+   "ev_boost30": 0.06,
+   "ev_boost50": 0.1966,
+   "min_price_boost30": 382,
+   "min_price_boost50": 331,
+   "price_note": "separate legs multiplied; the book's SGP price is usually shorter: check the slip"
+  },
+  {
    "book": "fanduel",
    "sgp": "SGP",
    "same_game": "ORL @ SAC",
@@ -2196,7 +2308,7 @@
   },
   {
    "book": "fanduel",
-   "sgp": "SGPx",
+   "sgp": "SGPx 3",
    "same_game": "LAC @ PHX",
    "legs": [
     {
@@ -4316,7 +4428,7 @@
  "parlays": [
   {
    "book": "draftkings",
-   "sgp": "SGPx",
+   "sgp": "SGPx 3",
    "same_game": "MIA @ UTAH",
    "legs": [
     {
@@ -4397,6 +4509,118 @@
    "price_note": "separate legs multiplied; the book's SGP price is usually shorter: check the slip"
   },
   {
+   "book": "draftkings",
+   "sgp": "SGPx 4",
+   "same_game": "MIA @ UTAH",
+   "legs": [
+    {
+     "sport": "nba",
+     "game": "MIA @ UTAH",
+     "bet": "Giannis Antetokounmpo under 1.5 steals",
+     "price": -200,
+     "p": 0.6448,
+     "tier": "Straight",
+     "event_id": "401909963",
+     "team": "MIA"
+    },
+    {
+     "sport": "nba",
+     "game": "MIA @ UTAH",
+     "bet": "Ace Bailey under 2.5 threes",
+     "price": -151,
+     "p": 0.6029,
+     "tier": "Straight",
+     "event_id": "401909963",
+     "team": "UTAH"
+    },
+    {
+     "sport": "nba",
+     "game": "LAC @ PHX",
+     "bet": "Jalen Green under 1.5 steals",
+     "price": -215,
+     "p": 0.6525,
+     "tier": "Best bet",
+     "event_id": "401909962",
+     "team": "PHX"
+    },
+    {
+     "sport": "nba",
+     "game": "LAC @ PHX",
+     "bet": "Derrick Jones Jr. under 1.5 threes",
+     "price": -208,
+     "p": 0.6378,
+     "tier": "Straight",
+     "event_id": "401909962",
+     "team": "LAC"
+    }
+   ],
+   "p": 0.1618,
+   "decimal": 5.409,
+   "american": 441,
+   "ev": -0.1249,
+   "ev_boost30": 0.0891,
+   "ev_boost50": 0.2317,
+   "min_price_boost30": 413,
+   "min_price_boost50": 358,
+   "price_note": "separate legs multiplied; the book's SGP price is usually shorter: check the slip"
+  },
+  {
+   "book": "fanduel",
+   "sgp": "SGPx 4",
+   "same_game": "LAC @ PHX",
+   "legs": [
+    {
+     "sport": "nba",
+     "game": "LAC @ PHX",
+     "bet": "Collin Gillespie under 2.5 threes",
+     "price": -220,
+     "p": 0.6442,
+     "tier": "Straight",
+     "event_id": "401909962",
+     "team": "PHX"
+    },
+    {
+     "sport": "nba",
+     "game": "LAC @ PHX",
+     "bet": "Brook Lopez under 1.5 blocks",
+     "price": -182,
+     "p": 0.631,
+     "tier": "Straight",
+     "event_id": "401909962",
+     "team": "LAC"
+    },
+    {
+     "sport": "nba",
+     "game": "ORL @ SAC",
+     "bet": "Keegan Murray under 1.5 threes",
+     "price": -230,
+     "p": 0.6685,
+     "tier": "Best bet",
+     "event_id": "401909964",
+     "team": "SAC"
+    },
+    {
+     "sport": "nba",
+     "game": "ORL @ SAC",
+     "bet": "Jase Richardson under 1.5 threes",
+     "price": -188,
+     "p": 0.6352,
+     "tier": "Straight",
+     "event_id": "401909964",
+     "team": "ORL"
+    }
+   ],
+   "p": 0.1726,
+   "decimal": 4.955,
+   "american": 395,
+   "ev": -0.1448,
+   "ev_boost30": 0.06,
+   "ev_boost50": 0.1966,
+   "min_price_boost30": 382,
+   "min_price_boost50": 331,
+   "price_note": "separate legs multiplied; the book's SGP price is usually shorter: check the slip"
+  },
+  {
    "book": "fanduel",
    "sgp": "SGP",
    "same_game": "ORL @ SAC",
@@ -4434,7 +4658,7 @@
   },
   {
    "book": "fanduel",
-   "sgp": "SGPx",
+   "sgp": "SGPx 3",
    "same_game": "LAC @ PHX",
    "legs": [
     {
