@@ -1,6 +1,6 @@
 # NBA board, 2026-11-10
 
-Slate updated 2026-11-10 16:15 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-10 16:25 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -14,7 +14,7 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 16:15 Sacramento Kings: Domantas Sabonis Day-To-Day → removed from report
 
 ## MIL @ NY, 19:30 ET
-Line: NY -15.5, total 222.5 (DraftKings).
+Line: NY -15.5, total 222.5 (Draft Kings).
 **MIL** (1 rest day). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -46,7 +46,7 @@ Line: NY -15.5, total 222.5 (DraftKings).
 | Tyler Kolek | – | 12.2 (3.8) → 12 (4.3) | 2.6/2.1 → 3 (0–8) | 1.6/1.7 → 1 (0–4) | 4.8/5.1 → 3 (0–7) | 0.6/0.4 → 0 (0–2) | 8 (1–17) |
 
 ## BOS @ PHI, 20:00 ET
-Line: BOS -1.5, total 217.5 (DraftKings).
+Line: BOS -1.5, total 217.5 (Draft Kings).
 **BOS** (1 rest day). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -84,7 +84,7 @@ Line: BOS -1.5, total 217.5 (DraftKings).
 | Dominick Barlow | Out | none this season; last season 23.7 min, 7.7 pts | | | | |
 
 ## LAC @ PHX, 21:00 ET
-Line: PHX -3.5, total 224.5 (DraftKings).
+Line: PHX -3.5, total 224.5 (Draft Kings).
 **LAC** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Yanic Konan Niederhauser, Brandon Ingram, Bradley Beal, Jordan Miller.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -118,7 +118,7 @@ Line: PHX -3.5, total 224.5 (DraftKings).
 | Mark Williams | Out | none this season; last season 23.6 min, 11.7 pts | | | | |
 
 ## MIA @ UTAH, 21:00 ET
-Line: MIA -9.5, total 227.5 (DraftKings).
+Line: MIA -9.5, total 227.5 (Draft Kings).
 **MIA** (1 rest day). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -153,7 +153,7 @@ Line: MIA -9.5, total 227.5 (DraftKings).
 | Brice Sensabaugh | – | 13.6 (3.2) → 14.5 (6.8) | 5.4/7.3 → 8 (2–15) | 2.4/2.8 → 2 (0–5) | 1/1 → 1 (0–3) | 0.8/1.4 → 1 (0–3) | 11 (3–21) |
 
 ## ORL @ SAC, 22:00 ET
-Line: ORL -5.5, total 222.5 (DraftKings).
+Line: ORL -5.5, total 222.5 (Draft Kings).
 **ORL** (2 rest days). Out: Paolo Banchero, Jalen Suggs. Freed minutes: 66.8. Out all season so far (already in the lines): Jonathan Isaac, Noah Penda, Izaiyah Nelson.
 - Without Jalen Suggs: Jase Richardson min +11.3, pts +1.8, reb +1.2, ast +1 (n=6 vs 3)
 - Without Paolo Banchero: Jase Richardson min +11, pts +2.4, reb +0.8, ast -0.4 (n=7 vs 2)
@@ -191,7 +191,7 @@ Line: ORL -5.5, total 222.5 (DraftKings).
 | Jonathan Mogbo | – | 14.2 (8.2) → 12.7 (2.4) | 3/3 → 3 (0–7) | 2.2/2.2 → 3 (0–6) | 0.8/0.8 → 1 (0–3) | 0.2/0.2 → 0 (0–0) | 6 (0–15) |
 
 ## OKC @ POR, 23:00 ET
-Line: OKC -1.5, total 226.5 (DraftKings).
+Line: OKC -1.5, total 226.5 (Draft Kings).
 **OKC** (2 rest days). Out: Jalen Williams, Chet Holmgren, Jaylin Williams, Cason Wallace. Freed minutes: 96.4. Out all season so far (already in the lines): Thomas Sorber.
 - Without Jalen Williams: Bennett Stirtz min +19, pts +9.9, reb +1.3, ast +1.9 (n=7 vs 3)
 - Without Chet Holmgren: Bennett Stirtz min +19, pts +9.9, reb +1.3, ast +1.9 (n=7 vs 3)
