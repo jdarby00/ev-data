@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "updated_et": "2026-11-10 12:52",
+ "updated_et": "2026-11-10 14:05",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -28,7 +28,7 @@
    "state": "pre",
    "spread_text": "BOS -1.5",
    "spread": 1.5,
-   "total": 217.5,
+   "total": 216.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -54,8 +54,8 @@
    "away_name": "Miami Heat",
    "home_name": "Utah Jazz",
    "state": "pre",
-   "spread_text": "MIA -8.5",
-   "spread": 8.5,
+   "spread_text": "MIA -9.5",
+   "spread": 9.5,
    "total": 227.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -336,17 +336,17 @@
   ],
   "Utah Jazz": [
    {
+    "player": "Lauri Markkanen",
+    "status": "Out",
+    "detail": "Markkanen is out for Tuesday's game versus the Heat with a right wrist sprain.",
+    "type": "out",
+    "updated": "2026-11-10T18:30Z"
+   },
+   {
     "player": "Keyonte George",
     "status": "Out",
     "detail": "George (ankle) has been ruled out for Tuesday's game against the Heat.",
     "type": "out",
-    "updated": "2026-11-10T00:08Z"
-   },
-   {
-    "player": "Lauri Markkanen",
-    "status": "Day-To-Day",
-    "detail": "Markkanen (wrist) is questionable for Tuesday's game against Miami.",
-    "type": "day-to-day",
     "updated": "2026-11-10T00:08Z"
    },
    {
@@ -379,6 +379,13 @@
    "player": "Tristan da Silva",
    "from": "not listed",
    "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-10 14:05",
+   "team": "Utah Jazz",
+   "player": "Lauri Markkanen",
+   "from": "Day-To-Day",
+   "to": "Out"
   }
  ]
 }

@@ -1,6 +1,6 @@
 # NBA board, 2026-11-10
 
-Slate updated 2026-11-10 12:52 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-10 14:05 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -8,6 +8,7 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 
 - 12:52 Milwaukee Bucks: Kel'el Ware not listed → Day-To-Day
 - 12:52 Orlando Magic: Tristan da Silva not listed → Day-To-Day
+- 14:05 Utah Jazz: Lauri Markkanen Day-To-Day → Out
 
 ## MIL @ NY, 19:30 ET
 Line: NY -15.5, total 221.5 (DraftKings).
@@ -42,7 +43,7 @@ Line: NY -15.5, total 221.5 (DraftKings).
 | Tyler Kolek | – | 12.2 (3.8) → 12 (4.3) | 2.6/2.1 → 3 (0–8) | 1.6/1.7 → 1 (0–4) | 4.8/5.1 → 3 (0–7) | 0.6/0.4 → 0 (0–2) | 8 (1–17) |
 
 ## BOS @ PHI, 20:00 ET
-Line: BOS -1.5, total 217.5 (DraftKings).
+Line: BOS -1.5, total 216.5 (DraftKings).
 **BOS** (1 rest day). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -118,7 +119,7 @@ Line: PHX -3.5, total 224.5 (DraftKings).
 | Mark Williams | Out | none this season; last season 23.6 min, 11.7 pts | | | | |
 
 ## MIA @ UTAH, 21:00 ET
-Line: MIA -8.5, total 227.5 (DraftKings).
+Line: MIA -9.5, total 227.5 (DraftKings).
 **MIA** (1 rest day). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -132,18 +133,18 @@ Line: MIA -8.5, total 227.5 (DraftKings).
 | Bobby Portis | – | 17.4 (3.8) → 19.6 (11.9) | 3.6/7 → 8 (2–15) | 4.4/6.3 → 5 (2–9) | 1.8/1.8 → 1 (0–3) | 0.6/1.3 → 1 (0–3) | 15 (6–25) |
 | Ryan Conwell | – | 16.2 (9.1) → 15.3 (3.9) | 5.6/4.1 → 5 (0–12) | 1.2/0.9 → 2 (0–5) | 1.4/1.1 → 1 (0–3) | 1.4/1 → 1 (0–3) | 8 (0–19) |
 
-**UTAH** (1 rest day). Out: Keyonte George, Jaren Jackson Jr.. Freed minutes: 58.1. Out all season so far (already in the lines): Jusuf Nurkic.
+**UTAH** (1 rest day). Out: Keyonte George, Lauri Markkanen, Jaren Jackson Jr.. Freed minutes: 89. Out all season so far (already in the lines): Jusuf Nurkic.
+- Without Lauri Markkanen: Josh Green min +10.7, pts +2.8, reb -0.5, ast +1 (n=2 vs 6)
+- Without Lauri Markkanen: Jaxson Hayes min +9.9, pts +1.9, reb +2.8, ast +0.8 (n=2 vs 7)
 - Without Jaren Jackson Jr.: Josh Okogie min +8.3, pts +4.1, reb +2.3, ast +0.3 (n=6 vs 3)
-- Without Jaren Jackson Jr.: Ace Bailey min +5.6, pts -1.8, reb -3.2, ast -1.8 (n=6 vs 4)
-- Without Jaren Jackson Jr.: Josh Green min +5.3, pts +1.2, reb -0.8, ast -0.3 (n=6 vs 2)
-- Without Jaren Jackson Jr.: Lauri Markkanen min +4.7, pts +4, reb +2.5, ast +0.4 (n=4 vs 4)
+- Without Lauri Markkanen: Ace Bailey min +6.8, pts +1.4, reb -3.2, ast -0.5 (n=2 vs 8)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Darryn Peterson | – | 32.8 (3.1) → 31.5 (23.8) | 16.8/14.8 → 15 (7–23) | 3.6/4 → 5 (2–8) | 5.2/3.9 → 4 (1–7) | 2.4/1.9 → 2 (0–4) | 23 (12–35) |
 | Ace Bailey | – | 31.4 (5.7) → 31 (23.3) | 9.6/11.9 → 13 (5–21) | 5.2/6.6 → 5 (2–9) | 1.4/1.9 → 2 (0–4) | 0.8/1.2 → 1 (0–3) | 20 (10–30) |
 | Keyonte George | Out | 31.4 (5.4) | 17.8/21.1 | 4.6/4.3 | 6/6.4 | 0.8/1.8 | – |
-| Lauri Markkanen | Day-To-Day | 27.8 (9.9) → 31.8 (19.6) | 16.4/18 → 21 (10–34) | 6.4/6.8 → 6 (3–11) | 1.8/2 → 2 (0–4) | 3.8/3.6 → 3 (1–7) | 30 (15–47) |
+| Lauri Markkanen | Out | 27.8 (9.9) | 16.4/18 | 6.4/6.8 | 1.8/2 | 3.8/3.6 | – |
 | Jaren Jackson Jr. | Out | 26 (9.5) | 16.2/16.2 | 5/5 | 2/2 | 1.2/1.2 | – |
 | Jaxson Hayes | – | 24 (5.3) → 24.9 (17.2) | 8.8/8.6 → 9 (3–16) | 6.2/6.3 → 6 (2–10) | 1.4/1.9 → 1 (0–3) | 0/0 → 0 (0–0) | 17 (7–27) |
 | Josh Okogie | – | 20 (6.6) → 19.7 (11.1) | 4.8/3.4 → 4 (0–9) | 3/3.2 → 3 (1–6) | 0.6/0.9 → 1 (0–2) | 0.8/0.6 → 1 (0–2) | 8 (2–16) |
