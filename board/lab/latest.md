@@ -1,91 +1,108 @@
 # Research lab report
 
-Built 2026-11-10T02:20:42Z UTC from 580 logged code candidates (302 settled, 203 with a close, 9 games with a close). 90% ranges resample whole games, because props in one game move together. A slice is flagged only with 30+ bets, 10+ games and a range that excludes zero, and even then it is an in-sample signal: a finding needs a pre-registered out-of-sample check (TEST_PLAN.md). Many slices are tested at once, so expect some flags by chance. CLV includes the market EV at flag time (the vig paid, or our edge when positive); "close move" (CLV minus that) is what the close did afterwards (descriptive, not flagged). Ranges on fewer than 10 games are not shown: a bootstrap over that few games is too narrow to trust (they stay in latest.json).
+Built 2026-11-10T11:10:13Z UTC from 580 logged code candidates (455 settled, 203 with a close, 9 games with a close). 90% ranges resample whole games, because props in one game move together. A slice is flagged only with 30+ bets, 10+ games and a range that excludes zero, and even then it is an in-sample signal: a finding needs a pre-registered out-of-sample check (TEST_PLAN.md). Many slices are tested at once, so expect some flags by chance. CLV includes the market EV at flag time (the vig paid, or our edge when positive); "close move" (CLV minus that) is what the close did afterwards (descriptive, not flagged). Ranges on fewer than 10 games are not shown: a bootstrap over that few games is too narrow to trust (they stay in latest.json).
 
 ## In-sample signals
 
-- **stat/market = ast**: IN-SAMPLE SIGNAL: positive ROI (settled 55, ROI +20.1%; CLV n 36 over 9 games, -2.4%)
-- **stat/market = reb**: IN-SAMPLE SIGNAL: negative ROI (settled 53, ROI -23.8%; CLV n 38 over 8 games, -1.9%)
-- **side = over**: IN-SAMPLE SIGNAL: negative ROI (settled 112, ROI -26.6%; CLV n 84 over 9 games, -2.2%)
-- **book = fanduel**: IN-SAMPLE SIGNAL: negative ROI (settled 153, ROI -18.6%; CLV n 102 over 9 games, -2.9%)
-- **minutes moved = yes**: IN-SAMPLE SIGNAL: negative ROI (settled 155, ROI -14.6%; CLV n 97 over 9 games, -3.1%)
-- **status change = no**: IN-SAMPLE SIGNAL: negative ROI (settled 194, ROI -13.0%; CLV n 137 over 9 games, -3.8%)
-- **sport = nba, stat/market = ast**: IN-SAMPLE SIGNAL: positive ROI (settled 55, ROI +20.1%; CLV n 36 over 9 games, -2.4%)
-- **sport = nba, stat/market = reb**: IN-SAMPLE SIGNAL: negative ROI (settled 53, ROI -23.8%; CLV n 38 over 8 games, -1.9%)
+- **lane = early**: IN-SAMPLE SIGNAL: negative ROI (settled 227, ROI -23.8%; CLV n 110 over 9 games, -2.0%)
+- **sport = nba**: IN-SAMPLE SIGNAL: negative ROI (settled 455, ROI -12.6%; CLV n 203 over 9 games, -3.2%)
+- **tier = Value**: IN-SAMPLE SIGNAL: negative ROI (settled 285, ROI -19.7%; CLV n 134 over 9 games, -1.5%)
+- **stat/market = tpm**: IN-SAMPLE SIGNAL: negative ROI (settled 125, ROI -12.8%; CLV n 54 over 9 games, -3.9%)
+- **stat/market = pts**: IN-SAMPLE SIGNAL: negative ROI (settled 75, ROI -24.1%; CLV n 38 over 9 games, -2.8%)
+- **stat/market = reb**: IN-SAMPLE SIGNAL: negative ROI (settled 85, ROI -27.8%; CLV n 38 over 8 games, -1.9%)
+- **stat/market = pra**: IN-SAMPLE SIGNAL: negative ROI (settled 40, ROI -32.3%; CLV n 18 over 6 games, -3.5%)
+- **side = over**: IN-SAMPLE SIGNAL: negative ROI (settled 155, ROI -24.3%; CLV n 84 over 9 games, -2.2%)
+- **book = fanduel**: IN-SAMPLE SIGNAL: negative ROI (settled 226, ROI -22.1%; CLV n 102 over 9 games, -2.9%)
+- **price = -129 to +100**: IN-SAMPLE SIGNAL: negative ROI (settled 137, ROI -23.8%; CLV n 66 over 9 games, -2.7%)
+- **price = +101 or longer**: IN-SAMPLE SIGNAL: negative ROI (settled 154, ROI -16.8%; CLV n 70 over 9 games, -0.2%)
+- **chance = 50-60%**: IN-SAMPLE SIGNAL: negative ROI (settled 163, ROI -19.4%; CLV n 75 over 9 games, -2.2%)
+- **chance = 40-50%**: IN-SAMPLE SIGNAL: negative ROI (settled 127, ROI -17.8%; CLV n 62 over 9 games, -1.0%)
+- **edge = 0-3%**: IN-SAMPLE SIGNAL: negative ROI (settled 228, ROI -23.6%; CLV n 109 over 9 games, -2.1%)
+- **flagged = 2-6h before**: IN-SAMPLE SIGNAL: negative ROI (settled 266, ROI -18.4%; CLV n 119 over 8 games, -3.7%)
+- **minutes moved = yes**: IN-SAMPLE SIGNAL: negative ROI (settled 255, ROI -22.2%; CLV n 97 over 9 games, -3.1%)
+- **status change = no**: IN-SAMPLE SIGNAL: negative ROI (settled 340, ROI -18.0%; CLV n 137 over 9 games, -3.8%)
+- **lane = early, sport = nba**: IN-SAMPLE SIGNAL: negative ROI (settled 227, ROI -23.8%; CLV n 110 over 9 games, -2.0%)
+- **lane = early, side = under**: IN-SAMPLE SIGNAL: negative ROI (settled 143, ROI -17.9%; CLV n 58 over 9 games, -2.2%)
+- **lane = early, side = over**: IN-SAMPLE SIGNAL: negative ROI (settled 84, ROI -33.8%; CLV n 52 over 8 games, -1.8%)
+- **sport = nba, stat/market = tpm**: IN-SAMPLE SIGNAL: negative ROI (settled 125, ROI -12.8%; CLV n 54 over 9 games, -3.9%)
+- **sport = nba, stat/market = pts**: IN-SAMPLE SIGNAL: negative ROI (settled 75, ROI -24.1%; CLV n 38 over 9 games, -2.8%)
+- **sport = nba, stat/market = reb**: IN-SAMPLE SIGNAL: negative ROI (settled 85, ROI -27.8%; CLV n 38 over 8 games, -1.9%)
+- **sport = nba, stat/market = pra**: IN-SAMPLE SIGNAL: negative ROI (settled 40, ROI -32.3%; CLV n 18 over 6 games, -3.5%)
 
 ## Every slice
 
 | Slice | Logged | Settled (games) | Win rate | Chance given | ROI (90%) | CLV n (games) | CLV (90%) | Close move (90%) | Read |
 |---|---|---|---|---|---|---|---|---|---|
-| all | 580 | 302 (13) | 50% | 54% | -7.7% (-17.1% to +1.9%) | 203 (9) | -3.2% (9 games) | -0.4% (9 games) |  |
-| sport = nba | 474 | 302 (13) | 50% | 54% | -7.7% (-17.1% to +1.9%) | 203 (9) | -3.2% (9 games) | -0.4% (9 games) | hypothesis (range includes zero) |
-| status change = no | 461 | 194 (12) | 48% | 54% | -13.0% (-24.6% to -0.6%) | 137 (9) | -3.8% (9 games) | -0.4% (9 games) | IN-SAMPLE SIGNAL: negative ROI |
-| tier = Value | 383 | 193 (13) | 43% | 49% | -10.6% (-22.8% to +2.1%) | 134 (9) | -1.5% (9 games) | -0.2% (9 games) | hypothesis (range includes zero) |
-| side = under | 318 | 190 (13) | 57% | 55% | +3.5% (-10.9% to +16.6%) | 119 (9) | -3.9% (9 games) | -0.3% (9 games) | hypothesis (range includes zero) |
-| flagged = 2-6h before | 308 | 166 (12) | 49% | 54% | -11.2% (-25.0% to +0.3%) | 119 (8) | -3.7% (8 games) | -0.6% (8 games) | hypothesis (range includes zero) |
-| minutes moved = yes | 264 | 155 (13) | 45% | 53% | -14.6% (-27.2% to -2.6%) | 97 (9) | -3.1% (9 games) | -0.5% (9 games) | IN-SAMPLE SIGNAL: negative ROI |
-| book = fanduel | 339 | 153 (13) | 43% | 52% | -18.6% (-34.5% to -3.0%) | 102 (9) | -2.9% (9 games) | -0.4% (9 games) | IN-SAMPLE SIGNAL: negative ROI |
-| edge = 0-3% | 234 | 153 (13) | 44% | 50% | -11.2% (-27.9% to +6.8%) | 109 (9) | -2.1% (9 games) | +0.4% (9 games) | hypothesis (range includes zero) |
-| lane = early | 233 | 153 (13) | 44% | 50% | -10.8% (-26.0% to +7.4%) | 110 (9) | -2.0% (9 games) | +0.4% (9 games) | hypothesis (range includes zero) |
-| lane = early, sport = nba | 233 | 153 (13) | 44% | 50% | -10.8% (-26.0% to +7.4%) | 110 (9) | -2.0% (9 games) | +0.4% (9 games) | hypothesis (range includes zero) |
-| book = draftkings | 241 | 149 (13) | 58% | 56% | +3.5% (-6.8% to +12.2%) | 101 (9) | -3.5% (9 games) | -0.5% (9 games) | hypothesis (range includes zero) |
-| minutes moved = no | 316 | 147 (11) | 56% | 55% | -0.4% (-15.0% to +11.7%) | 106 (8) | -3.3% (8 games) | -0.3% (8 games) | hypothesis (range includes zero) |
-| chance = 50-60% | 170 | 115 (13) | 45% | 53% | -12.6% (-26.9% to +2.7%) | 75 (9) | -2.2% (9 games) | -0.7% (9 games) | hypothesis (range includes zero) |
-| side = over | 159 | 112 (13) | 38% | 51% | -26.6% (-52.4% to -4.3%) | 84 (9) | -2.2% (9 games) | -0.6% (9 games) | IN-SAMPLE SIGNAL: negative ROI |
-| status change = yes | 119 | 108 (10) | 54% | 53% | +1.9% (-11.2% to +14.7%) | 66 (7) | -2.0% (7 games) | -0.5% (7 games) | hypothesis (range includes zero) |
-| price = +101 or longer | 249 | 101 (13) | 42% | 46% | -8.1% (-24.2% to +6.8%) | 70 (9) | -0.2% (9 games) | +0.5% (9 games) | hypothesis (range includes zero) |
-| chance = 60-70% | 183 | 98 (13) | 64% | 62% | -2.4% (-18.3% to +13.6%) | 63 (9) | -7.1% (9 games) | -1.1% (9 games) | hypothesis (range includes zero) |
-| lane = likely | 183 | 98 (13) | 64% | 62% | -2.4% (-18.3% to +13.6%) | 63 (9) | -7.1% (9 games) | -1.1% (9 games) | hypothesis (range includes zero) |
-| lane = likely, sport = nba | 169 | 98 (13) | 64% | 62% | -2.4% (-18.3% to +13.6%) | 63 (9) | -7.1% (9 games) | -1.1% (9 games) | hypothesis (range includes zero) |
-| edge = under 0% | 181 | 97 (13) | 64% | 62% | -3.1% (-18.6% to +12.4%) | 63 (9) | -7.1% (9 games) | -1.1% (9 games) | hypothesis (range includes zero) |
-| price = -129 to +100 | 141 | 97 (13) | 44% | 53% | -14.0% (-27.3% to +0.9%) | 66 (9) | -2.7% (9 games) | -0.9% (9 games) | hypothesis (range includes zero) |
-| lane = early, side = under | 148 | 94 (13) | 50% | 51% | +1.7% (-17.6% to +20.9%) | 58 (9) | -2.2% (9 games) | +0.5% (9 games) | hypothesis (range includes zero) |
-| tier = Straight | 165 | 91 (13) | 64% | 62% | -2.9% (-18.9% to +13.8%) | 59 (9) | -7.2% (9 games) | -1.1% (9 games) | hypothesis (range includes zero) |
-| sport = nba, stat/market = tpm | 125 | 90 (13) | 56% | 57% | -6.2% (-16.9% to +3.4%) | 54 (9) | -3.9% (9 games) | -0.1% (9 games) | hypothesis (range includes zero) |
-| stat/market = tpm | 125 | 90 (13) | 56% | 57% | -6.2% (-16.9% to +3.4%) | 54 (9) | -3.9% (9 games) | -0.1% (9 games) | hypothesis (range includes zero) |
-| flagged = under 2h before | 167 | 89 (13) | 46% | 52% | -11.8% (-25.2% to +0.5%) | 58 (9) | -2.4% (9 games) | -0.6% (9 games) | hypothesis (range includes zero) |
-| chance = 40-50% | 134 | 83 (13) | 42% | 46% | -7.0% (-24.9% to +11.9%) | 62 (9) | -1.0% (9 games) | +0.1% (9 games) | hypothesis (range includes zero) |
-| lane = likely, side = under | 136 | 75 (13) | 67% | 62% | +1.7% (-17.1% to +21.7%) | 48 (9) | -6.9% (9 games) | -1.0% (9 games) | hypothesis (range includes zero) |
-| price = -199 to -130 | 103 | 62 (13) | 65% | 61% | +1.9% (-11.6% to +17.1%) | 43 (9) | -6.3% (9 games) | -0.9% (9 games) | hypothesis (range includes zero) |
-| lane = early, side = over | 85 | 59 (10) | 34% | 49% | -30.8% (-57.8% to +5.4%) | 52 (8) | -1.8% (8 games) | +0.3% (8 games) | hypothesis (range includes zero) |
-| sport = nba, stat/market = ast | 84 | 55 (12) | 60% | 50% | +20.1% (+0.8% to +40.4%) | 36 (9) | -2.4% (9 games) | -0.5% (9 games) | IN-SAMPLE SIGNAL: positive ROI |
-| stat/market = ast | 84 | 55 (12) | 60% | 50% | +20.1% (+0.8% to +40.4%) | 36 (9) | -2.4% (9 games) | -0.5% (9 games) | IN-SAMPLE SIGNAL: positive ROI |
-| sport = nba, stat/market = pts | 77 | 53 (13) | 43% | 52% | -14.9% (-33.7% to +2.8%) | 38 (9) | -2.8% (9 games) | -0.9% (9 games) | hypothesis (range includes zero) |
-| sport = nba, stat/market = reb | 85 | 53 (11) | 40% | 51% | -23.8% (-45.4% to -1.4%) | 38 (8) | -1.9% (8 games) | -0.3% (8 games) | IN-SAMPLE SIGNAL: negative ROI |
-| stat/market = pts | 77 | 53 (13) | 43% | 52% | -14.9% (-33.7% to +2.8%) | 38 (9) | -2.8% (9 games) | -0.9% (9 games) | hypothesis (range includes zero) |
-| stat/market = reb | 85 | 53 (11) | 40% | 51% | -23.8% (-45.4% to -1.4%) | 38 (8) | -1.9% (8 games) | -0.3% (8 games) | IN-SAMPLE SIGNAL: negative ROI |
-| lane = value | 164 | 51 (12) | 43% | 48% | -8.4% (-36.5% to +11.7%) | 30 (9) | +0.6% (9 games) | -2.1% (9 games) | hypothesis (range includes zero) |
-| lane = value, sport = nba | 72 | 51 (12) | 43% | 48% | -8.4% (-36.5% to +11.7%) | 30 (9) | +0.6% (9 games) | -2.1% (9 games) | hypothesis (range includes zero) |
-| flagged = 6h+ before | 105 | 47 (5) | 64% | 56% | +12.5% (5 games) | 26 (3) | -2.9% (3 games) | +0.6% (3 games) | too few games (<10) |
-| edge = 3-6% | 88 | 42 (12) | 48% | 48% | +0.9% (-32.1% to +22.5%) | 26 (9) | +0.2% (9 games) | -1.4% (9 games) | hypothesis (range includes zero) |
-| price = -200 or shorter | 87 | 42 (12) | 64% | 64% | -6.3% (-33.3% to +18.5%) | 24 (8) | -7.6% (8 games) | -1.0% (8 games) | hypothesis (range includes zero) |
-| lane = value, side = over | 42 | 30 (12) | 33% | 47% | -26.8% (-67.1% to +4.5%) | 17 (9) | +1.6% (9 games) | -2.6% (9 games) | hypothesis (range includes zero) |
-| sport = nba, stat/market = pra | 42 | 27 (10) | 41% | 52% | -20.9% (-49.6% to +3.1%) | 18 (6) | -3.5% (6 games) | -0.2% (6 games) | hypothesis |
-| stat/market = pra | 42 | 27 (10) | 41% | 52% | -20.9% (-49.6% to +3.1%) | 18 (6) | -3.5% (6 games) | -0.2% (6 games) | hypothesis |
-| lane = likely, side = over | 32 | 23 (11) | 57% | 63% | -15.9% (-48.4% to +13.1%) | 15 (7) | -7.8% (7 games) | -1.3% (7 games) | hypothesis |
-| lane = value, side = under | 34 | 21 (9) | 57% | 50% | +17.7% (9 games) | 13 (6) | -0.7% (6 games) | -1.3% (6 games) | hypothesis |
-| sport = nba, stat/market = stl | 37 | 18 (9) | 56% | 64% | -17.2% (9 games) | 15 (8) | -6.1% (8 games) | -0.8% (8 games) | hypothesis |
-| stat/market = stl | 37 | 18 (9) | 56% | 64% | -17.2% (9 games) | 15 (8) | -6.1% (8 games) | -0.8% (8 games) | hypothesis |
-| tier = Lean | 14 | 11 (7) | 55% | 57% | -2.6% (7 games) | 6 (4) | -0.1% (4 games) | +0.3% (4 games) | hypothesis |
-| edge = 6%+ | 77 | 10 (4) | 30% | 50% | -34.4% (4 games) | 5 (3) | +2.9% (3 games) | -4.8% (3 games) | hypothesis |
-| tier = Best bet | 18 | 7 (6) | 71% | 66% | +2.9% (6 games) | 4 (4) | -5.4% (4 games) | +0.1% (4 games) | hypothesis |
-| chance = 30-40% | 16 | 6 (4) | 33% | 38% | -9.0% (4 games) | 3 (2) | +8.2% (2 games) | +8.6% (2 games) | hypothesis |
-| sport = nba, stat/market = blk | 12 | 4 (3) | 75% | 58% | +11.1% (3 games) | 3 (2) | -10.1% (2 games) | -2.6% (2 games) | hypothesis |
-| stat/market = blk | 12 | 4 (3) | 75% | 58% | +11.1% (3 games) | 3 (2) | -10.1% (2 games) | -2.6% (2 games) | hypothesis |
-| sport = nba, stat/market = ra | 4 | 2 (2) | 50% | 52% | +4.0% (2 games) | 1 (1) | +5.7% (–) | +0.3% (–) | hypothesis |
-| stat/market = ra | 4 | 2 (2) | 50% | 52% | +4.0% (2 games) | 1 (1) | +5.7% (–) | +0.3% (–) | hypothesis |
+| all | 580 | 455 (21) | 48% | 54% | -12.6% (-20.0% to -5.0%) | 203 (9) | -3.2% (9 games) | -0.4% (9 games) |  |
+| sport = nba | 474 | 455 (21) | 48% | 54% | -12.6% (-20.0% to -5.0%) | 203 (9) | -3.2% (9 games) | -0.4% (9 games) | IN-SAMPLE SIGNAL: negative ROI |
+| status change = no | 461 | 340 (20) | 46% | 54% | -18.0% (-26.4% to -9.5%) | 137 (9) | -3.8% (9 games) | -0.4% (9 games) | IN-SAMPLE SIGNAL: negative ROI |
+| side = under | 318 | 298 (21) | 53% | 55% | -7.0% (-18.9% to +4.3%) | 119 (9) | -3.9% (9 games) | -0.3% (9 games) | hypothesis (range includes zero) |
+| tier = Value | 383 | 285 (21) | 39% | 49% | -19.7% (-30.0% to -9.2%) | 134 (9) | -1.5% (9 games) | -0.2% (9 games) | IN-SAMPLE SIGNAL: negative ROI |
+| flagged = 2-6h before | 308 | 266 (20) | 46% | 54% | -18.4% (-29.0% to -8.4%) | 119 (8) | -3.7% (8 games) | -0.6% (8 games) | IN-SAMPLE SIGNAL: negative ROI |
+| minutes moved = yes | 264 | 255 (21) | 41% | 52% | -22.2% (-31.2% to -12.8%) | 97 (9) | -3.1% (9 games) | -0.5% (9 games) | IN-SAMPLE SIGNAL: negative ROI |
+| book = draftkings | 241 | 229 (21) | 55% | 56% | -3.2% (-12.4% to +5.1%) | 101 (9) | -3.5% (9 games) | -0.5% (9 games) | hypothesis (range includes zero) |
+| edge = 0-3% | 234 | 228 (21) | 38% | 50% | -23.6% (-36.2% to -9.8%) | 109 (9) | -2.1% (9 games) | +0.4% (9 games) | IN-SAMPLE SIGNAL: negative ROI |
+| lane = early | 233 | 227 (21) | 37% | 50% | -23.8% (-36.6% to -10.3%) | 110 (9) | -2.0% (9 games) | +0.4% (9 games) | IN-SAMPLE SIGNAL: negative ROI |
+| lane = early, sport = nba | 233 | 227 (21) | 37% | 50% | -23.8% (-36.6% to -10.3%) | 110 (9) | -2.0% (9 games) | +0.4% (9 games) | IN-SAMPLE SIGNAL: negative ROI |
+| book = fanduel | 339 | 226 (21) | 42% | 52% | -22.1% (-34.2% to -10.3%) | 102 (9) | -2.9% (9 games) | -0.4% (9 games) | IN-SAMPLE SIGNAL: negative ROI |
+| minutes moved = no | 316 | 200 (19) | 57% | 56% | -0.4% (-11.1% to +9.6%) | 106 (8) | -3.3% (8 games) | -0.3% (8 games) | hypothesis (range includes zero) |
+| chance = 50-60% | 170 | 163 (21) | 42% | 52% | -19.4% (-32.2% to -6.0%) | 75 (9) | -2.2% (9 games) | -0.7% (9 games) | IN-SAMPLE SIGNAL: negative ROI |
+| chance = 60-70% | 183 | 157 (21) | 66% | 62% | -0.4% (-12.9% to +11.3%) | 63 (9) | -7.1% (9 games) | -1.1% (9 games) | hypothesis (range includes zero) |
+| lane = likely | 183 | 157 (21) | 66% | 62% | -0.4% (-12.9% to +11.3%) | 63 (9) | -7.1% (9 games) | -1.1% (9 games) | hypothesis (range includes zero) |
+| lane = likely, sport = nba | 169 | 157 (21) | 66% | 62% | -0.4% (-12.9% to +11.3%) | 63 (9) | -7.1% (9 games) | -1.1% (9 games) | hypothesis (range includes zero) |
+| edge = under 0% | 181 | 155 (21) | 65% | 62% | -1.2% (-13.4% to +10.2%) | 63 (9) | -7.1% (9 games) | -1.1% (9 games) | hypothesis (range includes zero) |
+| side = over | 159 | 155 (20) | 39% | 51% | -24.3% (-43.6% to -7.0%) | 84 (9) | -2.2% (9 games) | -0.6% (9 games) | IN-SAMPLE SIGNAL: negative ROI |
+| price = +101 or longer | 249 | 154 (21) | 38% | 46% | -16.8% (-31.6% to -3.4%) | 70 (9) | -0.2% (9 games) | +0.5% (9 games) | IN-SAMPLE SIGNAL: negative ROI |
+| tier = Straight | 165 | 144 (21) | 65% | 62% | -1.4% (-14.0% to +10.7%) | 59 (9) | -7.2% (9 games) | -1.1% (9 games) | hypothesis (range includes zero) |
+| lane = early, side = under | 148 | 143 (21) | 41% | 50% | -17.9% (-34.0% to -1.5%) | 58 (9) | -2.2% (9 games) | +0.5% (9 games) | IN-SAMPLE SIGNAL: negative ROI |
+| flagged = under 2h before | 167 | 138 (20) | 47% | 52% | -10.0% (-20.1% to +0.9%) | 58 (9) | -2.4% (9 games) | -0.6% (9 games) | hypothesis (range includes zero) |
+| price = -129 to +100 | 141 | 137 (21) | 39% | 52% | -23.8% (-37.2% to -10.2%) | 66 (9) | -2.7% (9 games) | -0.9% (9 games) | IN-SAMPLE SIGNAL: negative ROI |
+| chance = 40-50% | 134 | 127 (21) | 37% | 46% | -17.8% (-33.8% to -2.2%) | 62 (9) | -1.0% (9 games) | +0.1% (9 games) | IN-SAMPLE SIGNAL: negative ROI |
+| sport = nba, stat/market = tpm | 125 | 125 (21) | 51% | 57% | -12.8% (-23.1% to -3.9%) | 54 (9) | -3.9% (9 games) | -0.1% (9 games) | IN-SAMPLE SIGNAL: negative ROI |
+| stat/market = tpm | 125 | 125 (21) | 51% | 57% | -12.8% (-23.1% to -3.9%) | 54 (9) | -3.9% (9 games) | -0.1% (9 games) | IN-SAMPLE SIGNAL: negative ROI |
+| lane = likely, side = under | 136 | 124 (21) | 66% | 62% | +0.6% (-15.4% to +15.4%) | 48 (9) | -6.9% (9 games) | -1.0% (9 games) | hypothesis (range includes zero) |
+| status change = yes | 119 | 115 (12) | 54% | 53% | +3.2% (-10.7% to +17.6%) | 66 (7) | -2.0% (7 games) | -0.5% (7 games) | hypothesis (range includes zero) |
+| price = -199 to -130 | 103 | 98 (21) | 66% | 61% | +4.4% (-7.7% to +16.0%) | 43 (9) | -6.3% (9 games) | -0.9% (9 games) | hypothesis (range includes zero) |
+| sport = nba, stat/market = reb | 85 | 85 (18) | 36% | 50% | -27.8% (-45.0% to -7.4%) | 38 (8) | -1.9% (8 games) | -0.3% (8 games) | IN-SAMPLE SIGNAL: negative ROI |
+| stat/market = reb | 85 | 85 (18) | 36% | 50% | -27.8% (-45.0% to -7.4%) | 38 (8) | -1.9% (8 games) | -0.3% (8 games) | IN-SAMPLE SIGNAL: negative ROI |
+| lane = early, side = over | 85 | 84 (17) | 32% | 49% | -33.8% (-54.2% to -9.5%) | 52 (8) | -1.8% (8 games) | +0.3% (8 games) | IN-SAMPLE SIGNAL: negative ROI |
+| sport = nba, stat/market = ast | 84 | 78 (20) | 56% | 51% | +9.5% (-7.5% to +26.5%) | 36 (9) | -2.4% (9 games) | -0.5% (9 games) | hypothesis (range includes zero) |
+| stat/market = ast | 84 | 78 (20) | 56% | 51% | +9.5% (-7.5% to +26.5%) | 36 (9) | -2.4% (9 games) | -0.5% (9 games) | hypothesis (range includes zero) |
+| sport = nba, stat/market = pts | 77 | 75 (20) | 39% | 52% | -24.1% (-40.2% to -8.6%) | 38 (9) | -2.8% (9 games) | -0.9% (9 games) | IN-SAMPLE SIGNAL: negative ROI |
+| stat/market = pts | 77 | 75 (20) | 39% | 52% | -24.1% (-40.2% to -8.6%) | 38 (9) | -2.8% (9 games) | -0.9% (9 games) | IN-SAMPLE SIGNAL: negative ROI |
+| lane = value | 164 | 71 (19) | 45% | 48% | -4.0% (-23.7% to +13.8%) | 30 (9) | +0.6% (9 games) | -2.1% (9 games) | hypothesis (range includes zero) |
+| lane = value, sport = nba | 72 | 71 (19) | 45% | 48% | -4.0% (-23.7% to +13.8%) | 30 (9) | +0.6% (9 games) | -2.1% (9 games) | hypothesis (range includes zero) |
+| price = -200 or shorter | 87 | 66 (18) | 65% | 64% | -5.0% (-24.3% to +12.4%) | 24 (8) | -7.6% (8 games) | -1.0% (8 games) | hypothesis (range includes zero) |
+| edge = 3-6% | 88 | 59 (19) | 49% | 48% | +4.3% (-18.0% to +22.0%) | 26 (9) | +0.2% (9 games) | -1.4% (9 games) | hypothesis (range includes zero) |
+| flagged = 6h+ before | 105 | 51 (6) | 63% | 56% | +10.3% (6 games) | 26 (3) | -2.9% (3 games) | +0.6% (3 games) | too few games (<10) |
+| lane = value, side = over | 42 | 40 (18) | 38% | 47% | -16.9% (-44.1% to +8.3%) | 17 (9) | +1.6% (9 games) | -2.6% (9 games) | hypothesis (range includes zero) |
+| sport = nba, stat/market = pra | 42 | 40 (16) | 35% | 52% | -32.3% (-52.1% to -13.5%) | 18 (6) | -3.5% (6 games) | -0.2% (6 games) | IN-SAMPLE SIGNAL: negative ROI |
+| stat/market = pra | 42 | 40 (16) | 35% | 52% | -32.3% (-52.1% to -13.5%) | 18 (6) | -3.5% (6 games) | -0.2% (6 games) | IN-SAMPLE SIGNAL: negative ROI |
+| sport = nba, stat/market = stl | 37 | 35 (16) | 71% | 63% | +6.7% (-21.3% to +29.1%) | 15 (8) | -6.1% (8 games) | -0.8% (8 games) | hypothesis (range includes zero) |
+| stat/market = stl | 37 | 35 (16) | 71% | 63% | +6.7% (-21.3% to +29.1%) | 15 (8) | -6.1% (8 games) | -0.8% (8 games) | hypothesis (range includes zero) |
+| lane = likely, side = over | 32 | 31 (15) | 61% | 62% | -8.1% (-33.0% to +15.4%) | 15 (7) | -7.8% (7 games) | -1.3% (7 games) | hypothesis (range includes zero) |
+| lane = value, side = under | 34 | 31 (15) | 55% | 50% | +12.6% (-23.1% to +42.5%) | 13 (6) | -0.7% (6 games) | -1.3% (6 games) | hypothesis (range includes zero) |
+| edge = 6%+ | 77 | 13 (7) | 31% | 49% | -32.3% (7 games) | 5 (3) | +2.9% (3 games) | -4.8% (3 games) | hypothesis |
+| tier = Best bet | 18 | 13 (10) | 77% | 66% | +10.5% (-18.1% to +33.5%) | 4 (4) | -5.4% (4 games) | +0.1% (4 games) | hypothesis |
+| tier = Lean | 14 | 13 (9) | 54% | 57% | -4.6% (9 games) | 6 (4) | -0.1% (4 games) | +0.3% (4 games) | hypothesis |
+| sport = nba, stat/market = blk | 12 | 11 (6) | 91% | 61% | +36.5% (6 games) | 3 (2) | -10.1% (2 games) | -2.6% (2 games) | hypothesis |
+| stat/market = blk | 12 | 11 (6) | 91% | 61% | +36.5% (6 games) | 3 (2) | -10.1% (2 games) | -2.6% (2 games) | hypothesis |
+| chance = 30-40% | 16 | 8 (5) | 25% | 38% | -31.8% (5 games) | 3 (2) | +8.2% (2 games) | +8.6% (2 games) | hypothesis |
+| sport = nba, stat/market = ra | 4 | 4 (4) | 25% | 52% | -48.0% (4 games) | 1 (1) | +5.7% (–) | +0.3% (–) | hypothesis |
+| stat/market = ra | 4 | 4 (4) | 25% | 52% | -48.0% (4 games) | 1 (1) | +5.7% (–) | +0.3% (–) | hypothesis |
+| lane = likely, side = home | 5 | 2 (2) | 100% | 62% | +59.4% (2 games) | 0 (0) | – (–) | – (–) | hypothesis |
+| side = home | 5 | 2 (2) | 100% | 62% | +59.4% (2 games) | 0 (0) | – (–) | – (–) | hypothesis |
+| sport = nba, stat/market = moneyline | 8 | 2 (2) | 100% | 62% | +59.4% (2 games) | 0 (0) | – (–) | – (–) | hypothesis |
+| stat/market = moneyline | 15 | 2 (2) | 100% | 62% | +59.4% (2 games) | 0 (0) | – (–) | – (–) | hypothesis |
 | chance = 10-20% | 49 | 0 (0) | – | – | – (–) | 0 (0) | – (–) | – (–) | no data |
 | chance = 20-30% | 28 | 0 (0) | – | – | – (–) | 0 (0) | – (–) | – (–) | no data |
 | lane = likely, side = away | 10 | 0 (0) | – | – | – (–) | 0 (0) | – (–) | – (–) | no data |
-| lane = likely, side = home | 5 | 0 (0) | – | – | – (–) | 0 (0) | – (–) | – (–) | no data |
 | lane = likely, sport = nfl | 13 | 0 (0) | – | – | – (–) | 0 (0) | – (–) | – (–) | no data |
 | lane = likely, sport = soccer | 1 | 0 (0) | – | – | – (–) | 0 (0) | – (–) | – (–) | no data |
 | lane = value, side = yes | 88 | 0 (0) | – | – | – (–) | 0 (0) | – (–) | – (–) | no data |
 | lane = value, sport = nfl | 92 | 0 (0) | – | – | – (–) | 0 (0) | – (–) | – (–) | no data |
 | side = away | 10 | 0 (0) | – | – | – (–) | 0 (0) | – (–) | – (–) | no data |
-| side = home | 5 | 0 (0) | – | – | – (–) | 0 (0) | – (–) | – (–) | no data |
 | side = yes | 88 | 0 (0) | – | – | – (–) | 0 (0) | – (–) | – (–) | no data |
-| sport = nba, stat/market = moneyline | 8 | 0 (0) | – | – | – (–) | 0 (0) | – (–) | – (–) | no data |
 | sport = nfl | 105 | 0 (0) | – | – | – (–) | 0 (0) | – (–) | – (–) | no data |
 | sport = nfl, stat/market = anytime_td | 88 | 0 (0) | – | – | – (–) | 0 (0) | – (–) | – (–) | no data |
 | sport = nfl, stat/market = ints | 1 | 0 (0) | – | – | – (–) | 0 (0) | – (–) | – (–) | no data |
@@ -97,7 +114,6 @@ Built 2026-11-10T02:20:42Z UTC from 580 logged code candidates (302 settled, 203
 | sport = soccer, stat/market = moneyline | 1 | 0 (0) | – | – | – (–) | 0 (0) | – (–) | – (–) | no data |
 | stat/market = anytime_td | 88 | 0 (0) | – | – | – (–) | 0 (0) | – (–) | – (–) | no data |
 | stat/market = ints | 1 | 0 (0) | – | – | – (–) | 0 (0) | – (–) | – (–) | no data |
-| stat/market = moneyline | 15 | 0 (0) | – | – | – (–) | 0 (0) | – (–) | – (–) | no data |
 | stat/market = pass_tds | 4 | 0 (0) | – | – | – (–) | 0 (0) | – (–) | – (–) | no data |
 | stat/market = receptions | 5 | 0 (0) | – | – | – (–) | 0 (0) | – (–) | – (–) | no data |
 | stat/market = rush_att | 1 | 0 (0) | – | – | – (–) | 0 (0) | – (–) | – (–) | no data |
