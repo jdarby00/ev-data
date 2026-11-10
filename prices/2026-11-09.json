@@ -1,12 +1,12 @@
 {
- "credits_remaining": 337,
+ "credits_remaining": 336,
  "date": "2026-11-09",
  "groups": {
   "basketball_nba|grizzlies@raptors|player_points": {
    "api_away": "Memphis Grizzlies",
    "api_home": "Toronto Raptors",
    "away": "Grizzlies",
-   "commence_time": "2026-11-10T00:40:00Z",
+   "commence_time": "2026-11-10T00:45:00Z",
    "event_id": "56efae2815b3a18850f07a3781d652a2",
    "home": "Raptors",
    "issues": [],
@@ -6523,7 +6523,7 @@
    "api_away": "Memphis Grizzlies",
    "api_home": "Toronto Raptors",
    "away": "Grizzlies",
-   "commence_time": "2026-11-10T00:40:00Z",
+   "commence_time": "2026-11-10T00:45:00Z",
    "event_id": "56efae2815b3a18850f07a3781d652a2",
    "home": "Raptors",
    "issues": [],
@@ -11064,7 +11064,7 @@
    "api_away": "Memphis Grizzlies",
    "api_home": "Toronto Raptors",
    "away": "Grizzlies",
-   "commence_time": "2026-11-10T00:40:00Z",
+   "commence_time": "2026-11-10T00:45:00Z",
    "event_id": "56efae2815b3a18850f07a3781d652a2",
    "home": "Raptors",
    "issues": [],
@@ -29141,6 +29141,265 @@
      "minutes_to_tip": 89.6,
      "raw": "raw/2026-11-09/9866fa22adc8509d487522ef4cf0fc24-spreads-lock-20261109T234026698935Z.json",
      "rev": 1
+    },
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1028754094",
+       "event_sid": "1028754094",
+       "last_update": "2026-11-10T00:55:42Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -4.5,
+         "link": null,
+         "player": "",
+         "price": -114,
+         "sid": "4409745065",
+         "side": "Dallas Mavericks"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "",
+         "price": -108,
+         "sid": "4409745066",
+         "side": "Indiana Pacers"
+        }
+       ]
+      },
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/indiana-pacers-at-dallas-mavericks-20050886",
+       "event_sid": "20050886",
+       "last_update": "2026-11-10T00:58:04Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=20050886-1576873395-2346667730&type=Single",
+         "player": "",
+         "price": -115,
+         "sid": "2346667730",
+         "side": "Dallas Mavericks"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=20050886-1576873395-2346667729&type=Single",
+         "player": "",
+         "price": -105,
+         "sid": "2346667729",
+         "side": "Indiana Pacers"
+        }
+       ]
+      },
+      "betonlineag": {
+       "event_link": "https://sports.betonline.ag/sportsbook/basketball/nba/game/491176722",
+       "event_sid": "491176722",
+       "last_update": "2026-11-10T00:58:05Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -5.0,
+         "link": null,
+         "player": "",
+         "price": -106,
+         "sid": null,
+         "side": "Dallas Mavericks"
+        },
+        {
+         "line": 5.0,
+         "link": null,
+         "player": "",
+         "price": -114,
+         "sid": null,
+         "side": "Indiana Pacers"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1028754094",
+       "event_sid": "1028754094",
+       "last_update": "2026-11-10T00:57:28Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -4.5,
+         "link": null,
+         "player": "",
+         "price": -114,
+         "sid": "4409745065",
+         "side": "Dallas Mavericks"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "",
+         "price": -108,
+         "sid": "4409745066",
+         "side": "Indiana Pacers"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754094",
+       "event_sid": "1028754094",
+       "last_update": "2026-11-10T00:57:47Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754094?coupon={pickType}|4409745065|{wagerAmount}",
+         "player": "",
+         "price": -114,
+         "sid": "4409745065",
+         "side": "Dallas Mavericks"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754094?coupon={pickType}|4409745066|{wagerAmount}",
+         "player": "",
+         "price": -108,
+         "sid": "4409745066",
+         "side": "Indiana Pacers"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/basketball/nba/indiana-pacers-dallas-mavericks-202611092000",
+       "event_sid": "33137589",
+       "last_update": "2026-11-10T00:57:50Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -4.5,
+         "link": null,
+         "player": "",
+         "price": -115,
+         "sid": "2465308608",
+         "side": "Dallas Mavericks"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "",
+         "price": -105,
+         "sid": "2465308398",
+         "side": "Indiana Pacers"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/34978851",
+       "event_sid": "34978851",
+       "last_update": "2026-11-10T00:57:45Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0HC87138367N450_1",
+         "player": "",
+         "price": -116,
+         "sid": "0HC87138367N450_1",
+         "side": "Dallas Mavericks"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0HC87138367P450_3",
+         "player": "",
+         "price": -105,
+         "sid": "0HC87138367P450_3",
+         "side": "Indiana Pacers"
+        }
+       ]
+      },
+      "espnbet": {
+       "event_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/nba/event/51792c9f-ace2-43e1-a528-fe521231eb91",
+       "event_sid": "51792c9f-ace2-43e1-a528-fe521231eb91",
+       "last_update": "2026-11-10T00:57:30Z",
+       "market_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/nba/event/51792c9f-ace2-43e1-a528-fe521231eb91/section/lines",
+       "market_sid": "c6870446-c780-482b-a604-d0d8e6f7e645",
+       "outcomes": [
+        {
+         "line": -4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=dd4c2b44-d80f-4a8e-86dc-e95cb9568d0e&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": -115,
+         "sid": "dd4c2b44-d80f-4a8e-86dc-e95cb9568d0e",
+         "side": "Dallas Mavericks"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=acd1763c-2eb0-4bc2-b671-1122b0e63ceb&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": -105,
+         "sid": "acd1763c-2eb0-4bc2-b671-1122b0e63ceb",
+         "side": "Indiana Pacers"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/nba/indiana-pacers-%40-dallas-mavericks-36290199",
+       "event_sid": "36290199",
+       "last_update": "2026-11-10T00:57:46Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623451061&selectionId=237472",
+         "player": "",
+         "price": -114,
+         "sid": "237472",
+         "side": "Dallas Mavericks"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.623451061&selectionId=237481",
+         "player": "",
+         "price": -106,
+         "sid": "237481",
+         "side": "Indiana Pacers"
+        }
+       ]
+      },
+      "hardrockbet": {
+       "event_link": "https://app.hardrock.bet/home/competition/nba/2647038910177345962",
+       "event_sid": "2647038910177345962",
+       "last_update": "2026-11-10T00:57:13Z",
+       "market_link": null,
+       "market_sid": "4397805948645802399",
+       "outcomes": [
+        {
+         "line": -4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3132294453354693023",
+         "player": "",
+         "price": -115,
+         "sid": "3132294453354693023",
+         "side": "Dallas Mavericks"
+        },
+        {
+         "line": 4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3950823685629280671",
+         "player": "",
+         "price": -105,
+         "sid": "3950823685629280671",
+         "side": "Indiana Pacers"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-10T00:58:10Z",
+     "kind": "close",
+     "minutes_to_tip": 11.8,
+     "raw": "raw/2026-11-09/9866fa22adc8509d487522ef4cf0fc24-spreads-close-20261110T005810788124Z.json",
+     "rev": 1
     }
    ],
    "sport": "basketball_nba"
@@ -39917,8 +40176,8 @@
   }
  },
  "issues": [],
- "spent_month": 163,
- "spent_today": 17,
+ "spent_month": 164,
+ "spent_today": 18,
  "stop": null,
- "updated": "2026-11-10T00:28:10Z"
+ "updated": "2026-11-10T00:58:10Z"
 }
