@@ -1,12 +1,12 @@
 # Scoreboard
 
-Built Mon 09 Nov 2026, 11:18 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
+Built Tue 10 Nov 2026, 5:20 AM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
 
 ## Jake's real money
 
 | Contestant | Bets | W–L–P–V | Profit | ROI | Bankroll | Max drawdown | CLV (n, avg, beat close) | Pending |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| jake | 7 | 0–7–0–0 | $-45.00 | -100.0% | $-45.00 | $45.00 | – | 2 |
+| jake | 8 | 0–8–0–0 | $-50.00 | -100.0% | $-50.00 | $50.00 | – | 1 |
 
 ## Paper contestants at real prices (start $500, logged stake)
 
@@ -17,7 +17,7 @@ CLV is the expected value of the bet price against the de-vigged closing price (
 | always_under | 99 | 53–40–0–6 | $+38.82 | +8.3% | $538.82 | $28.18 | 43, -5.6%, 45% | 0 |
 | screener | 6 | 5–1–0–0 | $+25.22 | +84.1% | $525.22 | $5.00 | – | 0 |
 | card | 4 | 4–0–0–0 | $+16.09 | +80.5% | $516.09 | $0.00 | – | 1 |
-| screener_wide | 11 | 6–5–0–0 | $+10.12 | +18.4% | $510.12 | $15.10 | – | 1 |
+| screener_wide | 12 | 7–5–0–0 | $+14.55 | +24.3% | $514.55 | $15.10 | – | 0 |
 | boosted_50 | 2 | 2–0–0–0 | $+9.93 | +99.3% | $509.93 | $0.00 | 1, -6.1%, 0% | 0 |
 | boosted_20 | 2 | 2–0–0–0 | $+7.94 | +79.4% | $507.94 | $0.00 | 1, -6.1%, 0% | 0 |
 | boost_leans | 1 | 1–0–0–0 | $+4.41 | +88.2% | $504.41 | $0.00 | 1, -6.1%, 0% | 0 |
@@ -41,22 +41,22 @@ CLV is the expected value of the bet price against the de-vigged closing price (
 | blend_every | 19 | 11–8–0–0 | $+4.68 | +4.9% | $504.68 | $17.73 | – | 0 |
 | b_every | 19 | 11–8–0–0 | $+4.68 | +4.9% | $504.68 | $6.45 | – | 0 |
 | always_over | 37 | 10–9–0–18 | $-1.92 | -2.0% | $498.08 | $32.35 | – | 0 |
-| chalk | 9 | 0–1–0–8 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 5 |
-| boosted_50 | 2 | 0–1–0–1 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 2 |
 | lower_bar | 1 | 0–1–0–0 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 0 |
 | leans | 1 | 0–1–0–0 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 0 |
-| boosted_20 | 1 | 0–1–0–0 | $-5.00 | -100.0% | $495.00 | $5.00 | 1, -10.2%, – | 1 |
-| boost_parlay_20 | 1 | 0–1–0–0 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 1 |
-| boost_parlay_50 | 1 | 0–1–0–0 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 1 |
-| card | 3 | 0–3–0–0 | $-15.00 | -100.0% | $485.00 | $15.00 | 2, -5.2%, – | 5 |
+| chalk | 13 | 2–3–0–8 | $-9.61 | -38.4% | $490.39 | $10.00 | – | 1 |
+| boosted_50 | 3 | 0–2–0–1 | $-10.00 | -100.0% | $490.00 | $10.00 | – | 1 |
+| boosted_20 | 2 | 0–2–0–0 | $-10.00 | -100.0% | $490.00 | $10.00 | 1, -10.2%, – | 0 |
+| boost_parlay_20 | 2 | 0–2–0–0 | $-10.00 | -100.0% | $490.00 | $10.00 | – | 0 |
+| boost_parlay_50 | 2 | 0–2–0–0 | $-10.00 | -100.0% | $490.00 | $10.00 | – | 0 |
 | always_under | 38 | 9–11–0–18 | $-16.88 | -16.9% | $483.12 | $41.84 | – | 0 |
+| card | 7 | 1–6–0–0 | $-27.80 | -79.4% | $472.20 | $27.80 | 2, -5.2%, – | 1 |
 
 ## Calibration (real-price bets with a final win chance)
 
 | Stated chance | Bets | Avg stated | Hit rate |
 | --- | --- | --- | --- |
 | 50–55% | 79 | 53.3% | 51.9% |
-| 55–60% | 187 | 56.9% | 47.1% |
+| 55–60% | 188 | 56.9% | 47.3% |
 | 60–65% | 72 | 62.3% | 29.2% |
 | 65–70% | 14 | 67.2% | 100.0% |
 
@@ -65,4 +65,4 @@ Brier score 0.260 (a coin flip is 0.250).
 ## Open items
 
 - a6ac9837fa5c: withdrawal after the start ignored
-- 20 pending (waiting for box scores or a manual settle).
+- 6 pending (waiting for box scores or a manual settle).
