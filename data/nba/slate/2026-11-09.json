@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "updated_et": "2026-11-09 18:51",
+ "updated_et": "2026-11-09 21:04",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,11 +11,11 @@
    "home": "ATL",
    "away_name": "Los Angeles Lakers",
    "home_name": "Atlanta Hawks",
-   "state": "pre",
-   "spread_text": "ATL -2.5",
-   "spread": -2.5,
-   "total": 233.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -25,11 +25,11 @@
    "home": "CHA",
    "away_name": "Cleveland Cavaliers",
    "home_name": "Charlotte Hornets",
-   "state": "pre",
-   "spread_text": "CLE -8.5",
-   "spread": 8.5,
-   "total": 215.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -39,11 +39,11 @@
    "home": "DET",
    "away_name": "Washington Wizards",
    "home_name": "Detroit Pistons",
-   "state": "pre",
-   "spread_text": "DET -9.5",
-   "spread": -9.5,
-   "total": 218.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -53,11 +53,11 @@
    "home": "TOR",
    "away_name": "Memphis Grizzlies",
    "home_name": "Toronto Raptors",
-   "state": "pre",
-   "spread_text": "MEM -1.5",
-   "spread": 1.5,
-   "total": 225.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -67,11 +67,11 @@
    "home": "DAL",
    "away_name": "Indiana Pacers",
    "home_name": "Dallas Mavericks",
-   "state": "pre",
-   "spread_text": "DAL -4.5",
-   "spread": -4.5,
-   "total": 226.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -81,11 +81,11 @@
    "home": "HOU",
    "away_name": "Denver Nuggets",
    "home_name": "Houston Rockets",
-   "state": "pre",
-   "spread_text": "HOU -4.5",
-   "spread": -4.5,
-   "total": 223.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -98,8 +98,8 @@
    "state": "pre",
    "spread_text": "SA -8.5",
    "spread": 8.5,
-   "total": 226.5,
-   "odds_source": "Draft Kings",
+   "total": 225.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -112,8 +112,8 @@
    "state": "pre",
    "spread_text": "GS -11.5",
    "spread": -11.5,
-   "total": 229.5,
-   "odds_source": "Draft Kings",
+   "total": 228.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
@@ -233,48 +233,6 @@
   ],
   "Denver Nuggets": [
    {
-    "player": "Cameron Johnson",
-    "status": "Day-To-Day",
-    "detail": "Johnson (ankle) is probable for Monday against Houston.",
-    "type": "day-to-day",
-    "updated": "2026-11-09T19:23Z"
-   },
-   {
-    "player": "Christian Braun",
-    "status": "Day-To-Day",
-    "detail": "Braun (left calf contusion/illness) is probable for Monday's matchup against the Rockets.",
-    "type": "day-to-day",
-    "updated": "2026-11-09T19:23Z"
-   },
-   {
-    "player": "Aaron Gordon",
-    "status": "Day-To-Day",
-    "detail": "Gordon (left calf injury management) is probable for Monday's game against Houston.",
-    "type": "day-to-day",
-    "updated": "2026-11-09T19:21Z"
-   },
-   {
-    "player": "Nikola Jokic",
-    "status": "Day-To-Day",
-    "detail": "Jokic (right elbow sprain) is probable for Monday's game against the Rockets.",
-    "type": "day-to-day",
-    "updated": "2026-11-09T19:21Z"
-   },
-   {
-    "player": "DeMar DeRozan",
-    "status": "Day-To-Day",
-    "detail": "DeRozan (back) is probable for Monday against Houston.",
-    "type": "day-to-day",
-    "updated": "2026-11-09T19:20Z"
-   },
-   {
-    "player": "Jamal Murray",
-    "status": "Day-To-Day",
-    "detail": "Murray (leg) is probable for Monday against Houston.",
-    "type": "day-to-day",
-    "updated": "2026-11-09T19:18Z"
-   },
-   {
     "player": "Julian Strawther",
     "status": "Out",
     "detail": "Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports.",
@@ -301,24 +259,17 @@
   "Golden State Warriors": [
    {
     "player": "Gary Payton II",
-    "status": "Day-To-Day",
-    "detail": "Payton (left knee soreness) is listed as questionable for Monday's game against New Orleans.",
-    "type": "day-to-day",
-    "updated": "2026-11-09T19:24Z"
+    "status": "Out",
+    "detail": "Payton (knee) has been ruled out for Monday's game against the Pelicans.",
+    "type": "out",
+    "updated": "2026-11-10T01:50Z"
    },
    {
     "player": "Will Richard",
     "status": "Out",
-    "detail": "Richard is out for Monday's game against the Pelicans due to a left thumb UCL tear.",
+    "detail": "Richard is deciding between getting surgery or playing with a splint, Luca Evans of the San Francisco Chronicle reports.",
     "type": "out",
-    "updated": "2026-11-09T01:52Z"
-   },
-   {
-    "player": "Gui Santos",
-    "status": "Day-To-Day",
-    "detail": "Santos (knee) is listed as probable for Monday's game against New Orleans.",
-    "type": "day-to-day",
-    "updated": "2026-11-09T01:13Z"
+    "updated": "2026-11-10T01:26Z"
    },
    {
     "player": "Kristaps Porzingis",
@@ -344,25 +295,25 @@
   ],
   "Houston Rockets": [
    {
+    "player": "Clint Capela",
+    "status": "Out",
+    "detail": "Head coach Ime Udoka stated Monday that Capela (ankle) could be cleared to return either Nov. 15 in Washington or Nov. 16 in Miami, Lachard Binkley of SI.com reports.",
+    "type": "out",
+    "updated": "2026-11-09T23:56Z"
+   },
+   {
+    "player": "Steven Adams",
+    "status": "Out",
+    "detail": "Head coach Ime Udoka said Monday that Adams could return as soon as Sunday's game at Washington, Lachard Binkley of SI.com reports.",
+    "type": "out",
+    "updated": "2026-11-09T23:55Z"
+   },
+   {
     "player": "Oscar Tshiebwe",
     "status": "Out",
     "detail": "Tshiebwe has been ruled out for Monday's game against the Nuggets due to an illness.",
     "type": "out",
     "updated": "2026-11-09T17:36Z"
-   },
-   {
-    "player": "Clint Capela",
-    "status": "Out",
-    "detail": "Capela (ankle) is listed as out for Monday's game against Denver.",
-    "type": "out",
-    "updated": "2026-11-08T22:56Z"
-   },
-   {
-    "player": "Steven Adams",
-    "status": "Out",
-    "detail": "Head coach Ime Udoka said Wednesday that Adams (calf) is still without a timetable to return and will be evaluated on a \"weekly basis,\" Varun Shankar of the Houston Chronicle reports.",
-    "type": "out",
-    "updated": "2026-11-05T00:21Z"
    }
   ],
   "Indiana Pacers": [
@@ -405,6 +356,13 @@
    }
   ],
   "Memphis Grizzlies": [
+   {
+    "player": "Quinten Post",
+    "status": "Day-To-Day",
+    "detail": "Post is doubtful to return to Monday's game against Toronto due to a head injury.",
+    "type": "day-to-day",
+    "updated": "2026-11-10T01:17Z"
+   },
    {
     "player": "Scotty Pippen Jr.",
     "status": "Out",
@@ -461,9 +419,9 @@
    {
     "player": "Jordan Goodwin",
     "status": "Out",
-    "detail": "Goodwin (calf) is questionable for Monday's game against the Spurs.",
+    "detail": "Goodwin (calf) has been ruled out for Monday's game against the Spurs, Kellan Olson of ArizonaSports.com reports.",
     "type": "out",
-    "updated": "2026-11-09T00:23Z"
+    "updated": "2026-11-10T00:21Z"
    },
    {
     "player": "Mark Williams",
@@ -669,6 +627,69 @@
    "player": "Anthony Davis",
    "from": "Day-To-Day",
    "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-09 21:04",
+   "team": "Denver Nuggets",
+   "player": "Cameron Johnson",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-09 21:04",
+   "team": "Denver Nuggets",
+   "player": "Christian Braun",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-09 21:04",
+   "team": "Denver Nuggets",
+   "player": "Aaron Gordon",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-09 21:04",
+   "team": "Denver Nuggets",
+   "player": "Nikola Jokic",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-09 21:04",
+   "team": "Denver Nuggets",
+   "player": "DeMar DeRozan",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-09 21:04",
+   "team": "Denver Nuggets",
+   "player": "Jamal Murray",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-09 21:04",
+   "team": "Golden State Warriors",
+   "player": "Gary Payton II",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-09 21:04",
+   "team": "Golden State Warriors",
+   "player": "Gui Santos",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-09 21:04",
+   "team": "Memphis Grizzlies",
+   "player": "Quinten Post",
+   "from": "not listed",
+   "to": "Day-To-Day"
   }
  ]
 }

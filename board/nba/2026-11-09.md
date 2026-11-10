@@ -1,28 +1,29 @@
 # NBA board, 2026-11-09
 
-Slate updated 2026-11-09 18:51 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-09 21:04 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 17:08 Atlanta Hawks: Jock Landale Out → removed from report
-- 17:08 New Orleans Pelicans: Zion Williamson not listed → Out
-- 17:08 New Orleans Pelicans: Trendon Watford not listed → Out
-- 17:08 New Orleans Pelicans: Trey Murphy III not listed → Out
-- 18:51 Charlotte Hornets: Moussa Diabate Day-To-Day → Out
-- 18:51 Cleveland Cavaliers: Jarrett Allen Day-To-Day → removed from report
-- 18:51 Dallas Mavericks: Morez Johnson Jr. Day-To-Day → Out
-- 18:51 Indiana Pacers: T.J. McConnell Day-To-Day → removed from report
 - 18:51 Los Angeles Lakers: Austin Reaves Day-To-Day → Out
 - 18:51 Toronto Raptors: Immanuel Quickley Day-To-Day → Out
 - 18:51 Toronto Raptors: Collin Murray-Boyles Day-To-Day → Out
 - 18:51 Toronto Raptors: Scottie Barnes Day-To-Day → Out
 - 18:51 Washington Wizards: Bilal Coulibaly Day-To-Day → Out
 - 18:51 Washington Wizards: Anthony Davis Day-To-Day → removed from report
+- 21:04 Denver Nuggets: Cameron Johnson Day-To-Day → removed from report
+- 21:04 Denver Nuggets: Christian Braun Day-To-Day → removed from report
+- 21:04 Denver Nuggets: Aaron Gordon Day-To-Day → removed from report
+- 21:04 Denver Nuggets: Nikola Jokic Day-To-Day → removed from report
+- 21:04 Denver Nuggets: DeMar DeRozan Day-To-Day → removed from report
+- 21:04 Denver Nuggets: Jamal Murray Day-To-Day → removed from report
+- 21:04 Golden State Warriors: Gary Payton II Day-To-Day → Out
+- 21:04 Golden State Warriors: Gui Santos Day-To-Day → removed from report
+- 21:04 Memphis Grizzlies: Quinten Post not listed → Day-To-Day
 
 ## LAL @ ATL, 19:00 ET
-Line: ATL -2.5, total 233.5 (Draft Kings).
+Line: n/a, total – (ESPN).
 **LAL** (back-to-back). Out: Austin Reaves, Quentin Grimes. Freed minutes: 62.3.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -58,7 +59,7 @@ Line: ATL -2.5, total 233.5 (Draft Kings).
 | Asa Newell | Out | 11 (6.5) | 3.6/3.6 | 2.6/2.6 | 1/1 | 0.4/0.4 | – |
 
 ## CLE @ CHA, 19:00 ET
-Line: CLE -8.5, total 215.5 (Draft Kings).
+Line: n/a, total – (ESPN).
 **CLE** (1 rest day). Out: Sam Merrill, Jaylon Tyson. Freed minutes: 43.9.
 - Without Jaylon Tyson: Tyrese Proctor min +9.7, pts +4.5, reb +1.4, ast +1.1 (n=5 vs 4)
 - Without Jaylon Tyson: Jarrett Allen min -8.7, pts -0.4, reb -2.8, ast +0.7 (n=3 vs 5)
@@ -96,7 +97,7 @@ Line: CLE -8.5, total 215.5 (Draft Kings).
 | Christian Anderson | – | 13 (5.8) → 13.4 (5.6) | 4/2.8 → 4 (0–10) | 1.6/1.7 → 2 (0–5) | 2.2/1.8 → 1 (0–4) | 0.2/0.2 → 0 (0–1) | 8 (1–16) |
 
 ## WSH @ DET, 19:00 ET
-Line: DET -9.5, total 218.5 (Draft Kings).
+Line: n/a, total – (ESPN).
 **WSH** (1 rest day). Out: Bilal Coulibaly, Justin Champagnie, Reece Beekman. Freed minutes: 45.3. Out all season so far (already in the lines): Tristan Vukcevic, Jamir Watkins.
 - Without Justin Champagnie: Will Riley min +6.1, pts +1.1, reb +0.4, ast +0.4 (n=5 vs 3)
 - Without Justin Champagnie: Kyshawn George min +5.2, pts +1.2, reb -1.2, ast +3.7 (n=6 vs 4)
@@ -138,7 +139,7 @@ Line: DET -9.5, total 218.5 (Draft Kings).
 | Isaiah Joe | Out | 13.7 (6.8) | 7.3/7.3 | 1.7/1.7 | 1/1 | 1/1 | – |
 
 ## MEM @ TOR, 19:30 ET
-Line: MEM -1.5, total 225.5 (Draft Kings).
+Line: n/a, total – (ESPN).
 **MEM** (2 rest days). Out: Isaiah Stewart, Scotty Pippen Jr.. Freed minutes: 34.5. Out all season so far (already in the lines): Richie Saunders.
 - Without Scotty Pippen Jr.: Kris Murray min +9, pts +2.2, reb +0, ast +0.5 (n=4 vs 2)
 - Without Isaiah Stewart: Cedric Coward min -4, pts -7, reb -1, ast -1.8 (n=2 vs 6)
@@ -180,7 +181,7 @@ Line: MEM -1.5, total 225.5 (Draft Kings).
 | Nate Bittle | Out | no games | | | | |
 
 ## IND @ DAL, 20:00 ET
-Line: DAL -4.5, total 226.5 (Draft Kings).
+Line: n/a, total – (ESPN).
 **IND** (1 rest day). Out: Tyrese Haliburton, Ben Sheppard. Freed minutes: 45. Out all season so far (already in the lines): Johnny Furphy.
 - Without Tyrese Haliburton: Jalen Slawson min +8.8, pts +2.2, reb +0.6, ast +0.6 (n=6 vs 3)
 - Without Tyrese Haliburton: Aaron Nesmith min +7, pts +0.7, reb +1.3, ast +0.7 (n=5 vs 3)
@@ -222,17 +223,17 @@ Line: DAL -4.5, total 226.5 (Draft Kings).
 | Santi Aldama | – | 14 (1) → 17.1 (9.4) | 10/10 → 9 (2–17) | 5.5/5.5 → 4 (1–8) | 0.5/0.5 → 1 (0–3) | 1/1 → 1 (0–3) | 15 (5–26) |
 
 ## DEN @ HOU, 20:30 ET
-Line: HOU -4.5, total 223.5 (Draft Kings).
+Line: n/a, total – (ESPN).
 **DEN** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Julian Strawther.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
-| Jamal Murray | Day-To-Day | 35.2 (4) → 35.2 (27.5) | 25.4/24.2 → 24 (14–35) | 5/5.5 → 5 (2–8) | 6.4/6.1 → 6 (3–11) | 4/3.9 → 3 (1–6) | 36 (22–51) |
-| Nikola Jokic | Day-To-Day | 34.6 (3.7) → 35.1 (27.4) | 23.2/22.9 → 25 (14–36) | 10.4/10.1 → 11 (6–17) | 9.4/9.1 → 9 (5–15) | 0.6/1 → 1 (0–3) | 46 (30–64) |
-| Christian Braun | Day-To-Day | 33.4 (3.9) → 32.9 (25.2) | 15.4/13.5 → 13 (5–20) | 2.6/3.9 → 4 (1–7) | 2.4/2.1 → 2 (0–5) | 2.4/1.8 → 1 (0–3) | 19 (9–29) |
-| Aaron Gordon | Day-To-Day | 28.4 (3.6) → 28.2 (20.6) | 12.8/12.2 → 14 (6–22) | 5.4/5.2 → 5 (2–9) | 2/2.1 → 2 (0–4) | 1.2/1.2 → 1 (0–3) | 21 (11–33) |
-| Cameron Johnson | Day-To-Day | 27.6 (8.5) → 29 (18.2) | 10.8/10.8 → 11 (4–20) | 4.2/4.2 → 4 (1–7) | 1.8/1.8 → 2 (0–4) | 2/2 → 2 (0–4) | 17 (7–29) |
-| DeMar DeRozan | Day-To-Day | 24.2 (3) → 24.6 (16.9) | 10/10.7 → 12 (5–20) | 1.6/1.9 → 2 (0–4) | 3.6/3 → 3 (1–6) | 0.4/0.3 → 0 (0–1) | 17 (8–28) |
+| Jamal Murray | – | 35.2 (4) → 35.2 (27.5) | 25.4/24.2 → 24 (14–35) | 5/5.5 → 5 (2–8) | 6.4/6.1 → 6 (3–11) | 4/3.9 → 3 (1–6) | 36 (22–51) |
+| Nikola Jokic | – | 34.6 (3.7) → 35.1 (27.4) | 23.2/22.9 → 25 (14–36) | 10.4/10.1 → 11 (6–17) | 9.4/9.1 → 9 (5–15) | 0.6/1 → 1 (0–3) | 46 (30–64) |
+| Christian Braun | – | 33.4 (3.9) → 32.9 (25.2) | 15.4/13.5 → 13 (5–20) | 2.6/3.9 → 4 (1–7) | 2.4/2.1 → 2 (0–5) | 2.4/1.8 → 1 (0–3) | 19 (9–29) |
+| Aaron Gordon | – | 28.4 (3.6) → 28.2 (20.6) | 12.8/12.2 → 14 (6–22) | 5.4/5.2 → 5 (2–9) | 2/2.1 → 2 (0–4) | 1.2/1.2 → 1 (0–3) | 21 (11–33) |
+| Cameron Johnson | – | 27.6 (8.5) → 29 (18.2) | 10.8/10.8 → 11 (4–20) | 4.2/4.2 → 4 (1–7) | 1.8/1.8 → 2 (0–4) | 2/2 → 2 (0–4) | 17 (7–29) |
+| DeMar DeRozan | – | 24.2 (3) → 24.6 (16.9) | 10/10.7 → 12 (5–20) | 1.6/1.9 → 2 (0–4) | 3.6/3 → 3 (1–6) | 0.4/0.3 → 0 (0–1) | 17 (8–28) |
 | Trevon Brazile | – | 21.2 (5.7) → 20.1 (12.3) | 6.4/7.4 → 7 (1–13) | 5.4/6.1 → 4 (1–8) | 1/0.6 → 1 (0–3) | 0.6/0.9 → 1 (0–2) | 13 (4–22) |
 | Spencer Jones | – | 21 (–) → 21.4 (13.7) | 13/13 → 6 (1–12) | 6/6 → 3 (1–7) | 0/0 → 0 (0–2) | 3/3 → 1 (0–3) | 11 (3–19) |
 | Bryce Hopkins | – | 19 (11.2) → 15.9 (2.4) | 7.2/6 → 6 (0–14) | 2.4/2.3 → 2 (0–6) | 0.6/0.5 → 1 (0–3) | 0.4/0.3 → 0 (0–2) | 9 (0–21) |
@@ -260,7 +261,7 @@ Line: HOU -4.5, total 223.5 (Draft Kings).
 | Oscar Tshiebwe | Out | 5.4 (4.4) | 2/2.8 | 1.4/2 | 0.2/0.5 | 0/0 | – |
 
 ## SA @ PHX, 21:00 ET
-Line: SA -8.5, total 226.5 (Draft Kings).
+Line: SA -8.5, total 225.5 (DraftKings).
 **SA** (1 rest day). Out: Devin Vassell. Freed minutes: 30.2. Out all season so far (already in the lines): Tobias Harris, Jayden Quaintance.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -298,7 +299,7 @@ Line: SA -8.5, total 226.5 (Draft Kings).
 | Mark Williams | Out | none this season; last season 23.6 min, 11.7 pts | | | | |
 
 ## NO @ GS, 22:00 ET
-Line: GS -11.5, total 229.5 (Draft Kings).
+Line: GS -11.5, total 228.5 (DraftKings).
 **NO** (back-to-back). Out: Zion Williamson, Trey Murphy III, Yves Missi, Trendon Watford. Freed minutes: 103.2.
 - Without Trendon Watford: Karlo Matkovic min -10.5, pts -6.8, reb -2.7, ast -0.6 (n=3 vs 6)
 - Without Trendon Watford: Jeremiah Fears min -9.8, pts -11.3, reb -2.5, ast -4.7 (n=4 vs 6)
@@ -319,7 +320,7 @@ Line: GS -11.5, total 229.5 (Draft Kings).
 | Trendon Watford | Out | 18 (1.3) | 7/7.2 | 4/3.5 | 0.8/1 | 0.4/0.3 | – |
 | DeAndre Jordan | – | 16.5 (3.5) → 16.2 (8.5) | 6/6 → 4 (0–9) | 6.5/6.5 → 6 (2–11) | 1/1 → 1 (0–2) | 0/0 → 0 (0–0) | 11 (3–21) |
 
-**GS** (1 rest day). Out: Will Richard. Freed minutes: 17.1. Out all season so far (already in the lines): Kristaps Porzingis, Moses Moody, Jimmy Butler III.
+**GS** (1 rest day). Out: Will Richard, Gary Payton II. Freed minutes: 30.5. Out all season so far (already in the lines): Kristaps Porzingis, Moses Moody, Jimmy Butler III.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -332,6 +333,6 @@ Line: GS -11.5, total 229.5 (Draft Kings).
 | Brandon Williams | – | 18.8 (4.7) → 18.9 (11.2) | 11.2/11.1 → 11 (4–19) | 1.8/2.3 → 2 (0–4) | 2.2/2.6 → 3 (1–6) | 0.4/0.8 → 0 (0–2) | 16 (6–27) |
 | Will Richard | Out | 18.2 (9.1) | 5.2/5.1 | 2/1.8 | 1.6/1 | 1.2/0.9 | – |
 | Al Horford | – | 17.6 (2.4) → 17.8 (10.1) | 5.2/5 → 6 (1–12) | 4.4/4.2 → 4 (1–8) | 1.8/1.4 → 2 (0–4) | 1.2/1.2 → 1 (0–3) | 12 (4–22) |
-| Gui Santos | Day-To-Day | 17.6 (6.5) → 17.2 (8.6) | 5.8/6.6 → 6 (1–13) | 3.2/3.6 → 3 (1–6) | 1.2/1.1 → 1 (0–3) | 0.4/0.6 → 0 (0–2) | 11 (3–21) |
+| Gui Santos | – | 17.6 (6.5) → 17.2 (8.6) | 5.8/6.6 → 6 (1–13) | 3.2/3.6 → 3 (1–6) | 1.2/1.1 → 1 (0–3) | 0.4/0.6 → 0 (0–2) | 11 (3–21) |
 | Charles Bassey | – | 15.4 (7.1) → 13 (3.8) | 9.4/7.1 → 6 (0–15) | 6.6/5.1 → 5 (1–10) | 0.8/0.5 → 0 (0–2) | 0/0 → 0 (0–0) | 12 (1–25) |
 
