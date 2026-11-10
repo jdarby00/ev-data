@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "updated_et": "2026-11-10 05:20",
+ "updated_et": "2026-11-10 12:52",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -14,8 +14,8 @@
    "state": "pre",
    "spread_text": "NY -15.5",
    "spread": -15.5,
-   "total": 220.5,
-   "odds_source": "Draft Kings",
+   "total": 221.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -28,8 +28,8 @@
    "state": "pre",
    "spread_text": "BOS -1.5",
    "spread": 1.5,
-   "total": 218.5,
-   "odds_source": "Draft Kings",
+   "total": 217.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -42,8 +42,8 @@
    "state": "pre",
    "spread_text": "PHX -3.5",
    "spread": -3.5,
-   "total": 225.5,
-   "odds_source": "Draft Kings",
+   "total": 224.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -54,10 +54,10 @@
    "away_name": "Miami Heat",
    "home_name": "Utah Jazz",
    "state": "pre",
-   "spread_text": "MIA -9.5",
-   "spread": 9.5,
-   "total": 228.5,
-   "odds_source": "Draft Kings",
+   "spread_text": "MIA -8.5",
+   "spread": 8.5,
+   "total": 227.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -68,10 +68,10 @@
    "away_name": "Orlando Magic",
    "home_name": "Sacramento Kings",
    "state": "pre",
-   "spread_text": "ORL -5.5",
-   "spread": 5.5,
-   "total": 222.5,
-   "odds_source": "Draft Kings",
+   "spread_text": "ORL -6.5",
+   "spread": 6.5,
+   "total": 223.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -84,8 +84,8 @@
    "state": "pre",
    "spread_text": "OKC -2.5",
    "spread": 2.5,
-   "total": 226.5,
-   "odds_source": "Draft Kings",
+   "total": 224.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
@@ -137,6 +137,13 @@
    }
   ],
   "Milwaukee Bucks": [
+   {
+    "player": "Kel'el Ware",
+    "status": "Day-To-Day",
+    "detail": "Ware is questionable for Tuesday's game against the Knicks due to a left ankle sprain.",
+    "type": "day-to-day",
+    "updated": "2026-11-10T17:18Z"
+   },
    {
     "player": "Tyler Herro",
     "status": "Day-To-Day",
@@ -192,6 +199,13 @@
    }
   ],
   "Orlando Magic": [
+   {
+    "player": "Tristan da Silva",
+    "status": "Day-To-Day",
+    "detail": "Da Silva is questionable for Tuesday's game against the Kings due to a left calf strain.",
+    "type": "day-to-day",
+    "updated": "2026-11-10T16:50Z"
+   },
    {
     "player": "Jalen Suggs",
     "status": "Out",
@@ -351,5 +365,20 @@
    }
   ]
  },
- "status_changes": []
+ "status_changes": [
+  {
+   "at_et": "2026-11-10 12:52",
+   "team": "Milwaukee Bucks",
+   "player": "Kel'el Ware",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-10 12:52",
+   "team": "Orlando Magic",
+   "player": "Tristan da Silva",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  }
+ ]
 }
