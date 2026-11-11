@@ -61,6 +61,8 @@ def parse_summary(summ, date_iso, event_id):
         opp = abbrs[1 - i] if len(abbrs) == 2 else ""
         for st in team.get("statistics", []):
             cat = (st.get("name") or "").lower()
+            if cat not in ("passing", "rushing", "receiving"):
+                continue  # defence, kicking and returns aren't prop stats we check
             keys, labels = st.get("keys") or [], st.get("labels") or []
             for a in st.get("athletes", []):
                 ath = a.get("athlete", {})
