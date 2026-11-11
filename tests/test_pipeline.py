@@ -183,5 +183,23 @@ class TestNflBoxscores(unittest.TestCase):
         self.assertEqual((k["receptions"], k["rec_yds"], k["targets"], k["team"], k["opp"]), ("5", "61", "8", "BUF", "MIN"))
 
 
+class TestEspnGamelogs(unittest.TestCase):
+    def test_both_layouts(self):
+        import espn_gamelogs as E
+        soccer = {"rosters": [{"team": {"abbreviation": "NEW"}, "roster": [
+            {"athlete": {"displayName": "Anthony Gordon"}, "starter": True, "stats": [{"name": "totalShots", "value": 4}, {"name": "shotsOnTarget", "value": 2}]},
+            {"athlete": {"displayName": "Unused Sub"}, "starter": False, "subbedIn": False, "stats": []}]},
+            {"team": {"abbreviation": "ARS"}, "roster": []}]}
+        rows = E.parse_summary(soccer, "2026-11-08", "eng.1", "e1")
+        self.assertEqual(len(rows), 1)
+        self.assertEqual((rows[0]["player"], rows[0]["opp"], rows[0]["starter"], rows[0]["totalShots"], rows[0]["shotsOnTarget"]),
+                         ("Anthony Gordon", "ARS", "1", "4", "2"))
+        nhl = {"boxscore": {"players": [{"team": {"abbreviation": "CBJ"}, "statistics": [
+            {"name": "forwards", "keys": ["goals", "assists", "shotsTotal"], "athletes": [{"athlete": {"displayName": "Kirill Marchenko"}, "stats": ["1", "0", "5"]}]}]},
+            {"team": {"abbreviation": "PIT"}, "statistics": []}]}}
+        r = E.parse_summary(nhl, "2026-11-10", "nhl", "e2")[0]
+        self.assertEqual((r["team"], r["opp"], r["goals"], r["shotsTotal"]), ("CBJ", "PIT", "1", "5"))
+
+
 if __name__ == "__main__":
     unittest.main()
