@@ -6,6 +6,8 @@
   "board_1445": "2026-11-10T19:45:00Z",
   "board_1615": "2026-11-10T21:15:00Z",
   "box_0520": "2026-11-10T10:20:00Z",
+  "close:2026-11-11T00:40:00Z": "2026-11-11T00:28:00Z",
+  "close@2026-11-11T00:28:00Z": "2026-11-11T00:28:00Z",
   "escreen_1040": "2026-11-10T15:40:00Z",
   "escreen_1620": "2026-11-10T21:20:00Z",
   "fclose:2026-11-11T00:30:00Z": "2026-11-11T00:18:00Z",
@@ -30,6 +32,7 @@
   "2026-11-10T21:20:00Z escreen_1620: dispatched jdarby00/dk-odds espn-screen.yml (HTTP 204)",
   "2026-11-10T21:23:18Z hand-over to a fresh clock run",
   "2026-11-10T23:40:00Z news_1840: dispatched jdarby00/dk-odds late-news.yml (HTTP 204)",
-  "2026-11-11T00:18:00Z fclose@2026-11-11T00:18:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)"
+  "2026-11-11T00:18:00Z fclose@2026-11-11T00:18:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
+  "2026-11-11T00:28:00Z close@2026-11-11T00:28:00Z: dispatched jdarby00/dk-odds odds.yml (HTTP 204)"
  ]
 }
