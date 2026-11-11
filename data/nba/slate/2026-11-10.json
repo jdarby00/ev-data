@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "updated_et": "2026-11-10 19:02",
+ "updated_et": "2026-11-10 20:15",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,11 +11,11 @@
    "home": "NY",
    "away_name": "Milwaukee Bucks",
    "home_name": "New York Knicks",
-   "state": "pre",
-   "spread_text": "NY -15.5",
-   "spread": -15.5,
-   "total": 221.5,
-   "odds_source": "DraftKings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -25,11 +25,11 @@
    "home": "PHI",
    "away_name": "Boston Celtics",
    "home_name": "Philadelphia 76ers",
-   "state": "pre",
-   "spread_text": "BOS -2.5",
-   "spread": 2.5,
-   "total": 217.5,
-   "odds_source": "DraftKings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -42,8 +42,8 @@
    "state": "pre",
    "spread_text": "PHX -3.5",
    "spread": -3.5,
-   "total": 224.5,
-   "odds_source": "DraftKings",
+   "total": 223.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -54,10 +54,10 @@
    "away_name": "Miami Heat",
    "home_name": "Utah Jazz",
    "state": "pre",
-   "spread_text": "MIA -9.5",
-   "spread": 9.5,
+   "spread_text": "MIA -8.5",
+   "spread": 8.5,
    "total": 227.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -70,8 +70,8 @@
    "state": "pre",
    "spread_text": "ORL -5.5",
    "spread": 5.5,
-   "total": 221.5,
-   "odds_source": "DraftKings",
+   "total": 222.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "OKC -1.5",
    "spread": 1.5,
    "total": 226.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   }
  ],
@@ -125,15 +125,6 @@
     "detail": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic.",
     "type": "out",
     "updated": "2026-08-26T20:04Z"
-   }
-  ],
-  "Miami Heat": [
-   {
-    "player": "Giannis Antetokounmpo",
-    "status": "Day-To-Day",
-    "detail": "Antetokounmpo is probable for Tuesday's game against the Jazz due to a right wrist sprain.",
-    "type": "day-to-day",
-    "updated": "2026-11-09T23:05Z"
    }
   ],
   "Milwaukee Bucks": [
