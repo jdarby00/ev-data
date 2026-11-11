@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "updated_et": "2026-11-11 14:05",
+ "updated_et": "2026-11-11 14:45",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -110,8 +110,8 @@
    "away_name": "Orlando Magic",
    "home_name": "Utah Jazz",
    "state": "pre",
-   "spread_text": "ORL -4.5",
-   "spread": 4.5,
+   "spread_text": "ORL -3.5",
+   "spread": 3.5,
    "total": 214.5,
    "odds_source": "Draft Kings",
    "season_type": 2
@@ -173,6 +173,13 @@
   ],
   "Chicago Bulls": [
    {
+    "player": "Tobe Awaka",
+    "status": "Out",
+    "detail": "Awaka (back) has been ruled out for Wednesday's game against the Spurs.",
+    "type": "out",
+    "updated": "2026-11-11T19:18Z"
+   },
+   {
     "player": "Caleb Wilson",
     "status": "Day-To-Day",
     "detail": "Wilson has been downgraded to questionable for Wednesday's game against the Spurs due to right hip soreness.",
@@ -185,13 +192,6 @@
     "detail": "Powell (shoulder) is listed as questionable for Wednesday's game versus the Spurs.",
     "type": "day-to-day",
     "updated": "2026-11-10T22:21Z"
-   },
-   {
-    "player": "Tobe Awaka",
-    "status": "Day-To-Day",
-    "detail": "Awaka (back) is questionable for Wednesday's game against the Spurs.",
-    "type": "day-to-day",
-    "updated": "2026-11-10T22:19Z"
    },
    {
     "player": "Zach Collins",
@@ -230,9 +230,9 @@
    {
     "player": "Will Richard",
     "status": "Day-To-Day",
-    "detail": "Richard (thumb) is questionable for Wednesday's game against Houston.",
+    "detail": "Richard (thumb) has been upgraded to probable for Wednesday's game at Houston.",
     "type": "day-to-day",
-    "updated": "2026-11-11T17:03Z"
+    "updated": "2026-11-11T19:09Z"
    },
    {
     "player": "Gary Payton II",
@@ -320,9 +320,9 @@
    {
     "player": "Quentin Grimes",
     "status": "Out",
-    "detail": "Grimes (finger) is listed as questionable for Wednesday's game in Milwaukee.",
+    "detail": "Grimes (finger) has been ruled out for Wednesday's game against the Bucks.",
     "type": "out",
-    "updated": "2026-11-11T19:04Z"
+    "updated": "2026-11-11T19:06Z"
    }
   ],
   "Memphis Grizzlies": [
@@ -359,9 +359,16 @@
    {
     "player": "Tyler Herro",
     "status": "Day-To-Day",
-    "detail": "Herro (knee) is listed as out for Tuesday's game against New York.",
+    "detail": "Herro (knee) is listed as questionable for Wednesday's game against the Lakers.",
     "type": "day-to-day",
-    "updated": "2026-11-11T14:58Z"
+    "updated": "2026-11-11T19:05Z"
+   },
+   {
+    "player": "Myles Turner",
+    "status": "Out",
+    "detail": "Turner has been ruled out for Wednesday's game against the Lakers due to rest.",
+    "type": "out",
+    "updated": "2026-11-11T19:03Z"
    }
   ],
   "New Orleans Pelicans": [
@@ -746,6 +753,20 @@
    "team": "Utah Jazz",
    "player": "Lauri Markkanen",
    "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-11 14:45",
+   "team": "Chicago Bulls",
+   "player": "Tobe Awaka",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-11 14:45",
+   "team": "Milwaukee Bucks",
+   "player": "Myles Turner",
+   "from": "not listed",
    "to": "Out"
   }
  ]

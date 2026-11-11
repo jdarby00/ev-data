@@ -1,13 +1,11 @@
 # NBA board, 2026-11-11
 
-Slate updated 2026-11-11 14:05 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-11 14:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 12:51 Brooklyn Nets: Mikel Brown Jr. not listed → Out
-- 12:51 Brooklyn Nets: Egor Demin Out → removed from report
 - 12:51 Brooklyn Nets: Grant Nelson Day-To-Day → removed from report
 - 12:51 Golden State Warriors: Will Richard Out → Day-To-Day
 - 12:51 Milwaukee Bucks: Tyler Herro Out → Day-To-Day
@@ -21,6 +19,8 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 14:05 Los Angeles Lakers: Quentin Grimes Day-To-Day → Out
 - 14:05 New York Knicks: Karl-Anthony Towns not listed → Day-To-Day
 - 14:05 Utah Jazz: Lauri Markkanen Day-To-Day → Out
+- 14:45 Chicago Bulls: Tobe Awaka Day-To-Day → Out
+- 14:45 Milwaukee Bucks: Myles Turner not listed → Out
 
 ## WSH @ IND, 19:00 ET
 Line: IND -2.5, total 228.5 (Draft Kings).
@@ -161,7 +161,11 @@ Line: SA -15.5, total 238.5 (Draft Kings).
 | Tobias Harris | Out | none this season; last season 27.8 min, 13.3 pts | | | | |
 | Jayden Quaintance | Out | no games | | | | |
 
-**CHI** (2 rest days). Out: none listed. Freed minutes: 0.
+**CHI** (2 rest days). Out: Tobe Awaka. Freed minutes: 10.
+- Without Tobe Awaka: Jordan Hawkins min +7, pts +3.5, reb +0.2, ast +0.5 (n=2 vs 3)
+- Without Tobe Awaka: Matas Buzelis min +5.9, pts +3.7, reb +1.2, ast +1.4 (n=5 vs 4)
+- Without Tobe Awaka: Zach Collins min +5.7, pts +1.5, reb -0.5, ast +2 (n=2 vs 4)
+- Without Tobe Awaka: Leonard Miller min +5.2, pts +5.8, reb -1.8, ast +1 (n=4 vs 4)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -231,12 +235,12 @@ Line: LAL -14.5, total 228.5 (Draft Kings).
 | Ziaire Williams | – | 21.4 (5.1) → 23.8 (16.1) | 11.2/11.2 → 11 (4–19) | 2.6/2.8 → 2 (0–5) | 1.2/1.7 → 1 (0–3) | 2.4/2.1 → 2 (0–4) | 15 (6–24) |
 | Collin Sexton | – | 18.8 (4.5) → 20 (12.3) | 10.2/10.3 → 12 (4–21) | 1.6/1.9 → 2 (0–4) | 3/2.5 → 3 (1–6) | 0.8/1 → 1 (0–3) | 17 (7–28) |
 
-**MIL** (back-to-back). Out: none listed. Freed minutes: 0.
+**MIL** (back-to-back). Out: Myles Turner. Freed minutes: 27.1.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Tyler Herro | Day-To-Day | 30.6 (2.6) → 29 (21.4) | 19.4/21.4 → 19 (10–29) | 4/4.6 → 4 (1–7) | 4/4.3 → 4 (1–7) | 2.8/3.1 → 2 (0–5) | 27 (15–40) |
-| Myles Turner | – | 28.4 (4.5) → 26.9 (19.2) | 6.2/6.7 → 8 (2–15) | 5.8/5.5 → 5 (2–9) | 3.4/2.7 → 2 (0–5) | 1.6/1.2 → 1 (0–3) | 16 (7–26) |
+| Myles Turner | Out | 28.4 (4.5) | 6.2/6.7 | 5.8/5.5 | 3.4/2.7 | 1.6/1.2 | – |
 | Brayden Burries | – | 28.2 (7.9) → 25.3 (15.3) | 11/9.8 → 9 (3–17) | 7.2/5.3 → 5 (2–9) | 3.4/2.3 → 2 (0–5) | 0.8/0.8 → 1 (0–2) | 17 (7–29) |
 | Kyle Kuzma | – | 27.6 (4.9) → 27.3 (19.6) | 10.6/11 → 12 (5–20) | 4/5.7 → 4 (2–8) | 2.6/2.7 → 2 (1–5) | 1.8/1.6 → 1 (0–3) | 19 (9–31) |
 | Jaime Jaquez Jr. | – | 27 (3.5) → 26.7 (19) | 14.2/15.3 → 14 (6–23) | 4/5.7 → 4 (2–8) | 2.4/2.7 → 3 (1–6) | 2/1.7 → 1 (0–3) | 22 (11–34) |
@@ -290,7 +294,7 @@ Line: NO -3.5, total 228.5 (Draft Kings).
 | Trendon Watford | Out | 18 (1.3) | 7/7.2 | 4/3.5 | 0.8/1 | 0.4/0.3 | – |
 
 ## ORL @ UTAH, 21:00 ET
-Line: ORL -4.5, total 214.5 (Draft Kings).
+Line: ORL -3.5, total 214.5 (Draft Kings).
 **ORL** (back-to-back). Out: Paolo Banchero, Jalen Suggs. Freed minutes: 66.8. Out all season so far (already in the lines): Jonathan Isaac, Noah Penda, Izaiyah Nelson.
 - Without Paolo Banchero: Jase Richardson min +9.8, pts +2.4, reb +0.6, ast -0.6 (n=8 vs 2)
 - Without Jalen Suggs: Jase Richardson min +9.7, pts +1.7, reb +1, ast +0.7 (n=7 vs 3)
