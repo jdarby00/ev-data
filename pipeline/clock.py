@@ -19,7 +19,7 @@ job is due and dispatches it:
   OPS_JOBS  every free dk-odds job that used to rely on GitHub's cron (Jake, 9 Nov: none of dk-odds'
             scheduled runs fired from 3:43 am to 4:25 pm ET): box scores 5:20, lab 6:10 and 2:35, the
             NBA full-board screen 10:40 and 4:20, the NFL/soccer screen (6:45 Sat/Sun, 10:30 Sun,
-            10:40 Tue/Wed, 4:15 Sun/Mon/Thu) and the 6:40 pm late-news re-screen. Their own crons stay
+            10:40 Tue/Wed, 4:15 Sun/Mon/Thu) and the 6:10 pm late-news re-screen. Their own crons stay
             as backups. The screens and the lab are free; late-news and auto may spend credits, and
             dk-odds autorequest.py counts what each mode already requested today, so a second run of
             either never spends past one run's budget.
@@ -86,7 +86,8 @@ OPS_JOBS = [  # (key, ET time, action, weekdays, minutes it is still worth firin
     ("lab_1435", (14, 35), "lab", ALL, 240),
     ("mscreen_1615", (16, 15), "mscreen", SUN_MON_THU, 25),  # NFL night games, for the 4:45 pm run
     ("escreen_1620", (16, 20), "escreen", ALL, 20),        # after the 4:15 pm board, for the 4:45 pm run
-    ("news_1840", (18, 40), "latenews", ALL, 15),          # NBA nights only (see plan)
+    ("news_1810", (18, 10), "latenews", ALL, 25),          # NBA nights only. 6:10 pm (was 6:40): on 9 Nov the late-news reply
+                                                           # reached Jake at 6:55, after he had bet at 6:45. dk-odds keeps its own 6:40 cron.
 ]
 ACTIONS = {  # action -> (repo, workflow file, inputs, token env var)
     "board": ("jdarby00/ev-data", "nba.yml", {"boxscores": "true"}, "GITHUB_TOKEN"),

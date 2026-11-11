@@ -275,7 +275,7 @@ class OpsJobs(unittest.TestCase):
         got = self.ops(et(MONDAY, 4, 0), MONDAY, {"games": [{"tip_et": "2026-11-09 19:30", "state": "pre"}]})
         keys = [k for _, k, _ in got]
         self.assertEqual(keys, ["box_0520", "lab_0610", "escreen_1040", "board_1405", "auto_1425", "lab_1435",
-                                "board_1445", "board_1615", "mscreen_1615", "escreen_1620", "news_1840"])
+                                "board_1445", "board_1615", "mscreen_1615", "escreen_1620", "news_1810"])
         self.assertEqual(got[1], ("2026-11-09T11:10:00Z", "lab_0610", "lab"))  # 6:10 am EST
         for _, _, a in got:
             self.assertIn(a, C.ACTIONS)
@@ -289,7 +289,7 @@ class OpsJobs(unittest.TestCase):
         tue_keys = [k for _, k, _ in self.ops(et(tue, 4), tue, empty)]
         self.assertIn("mscreen_1040", tue_keys)
         self.assertNotIn("mscreen_0645", tue_keys)
-        self.assertNotIn("news_1840", tue_keys)  # no NBA tonight: no late-news re-screen (it may spend credits)
+        self.assertNotIn("news_1810", tue_keys)  # no NBA tonight: no late-news re-screen (it may spend credits)
         self.assertNotIn("board_1405", tue_keys)  # board refreshes still need an NBA slate
         self.assertNotIn("escreen_1040", tue_keys)  # and so do the NBA full-board screens
 
@@ -303,7 +303,7 @@ class OpsJobs(unittest.TestCase):
         keys = [k for _, k, _ in self.ops(et(MONDAY, 16, 42), MONDAY, slate)]
         self.assertNotIn("escreen_1620", keys)
         self.assertNotIn("mscreen_1615", keys)
-        self.assertIn("news_1840", keys)
+        self.assertIn("news_1810", keys)
         keys = [k for _, k, _ in self.ops(et(MONDAY, 4), MONDAY, slate, {"lab_0610": "x"})]
         self.assertNotIn("lab_0610", keys)
 
