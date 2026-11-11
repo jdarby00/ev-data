@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "updated_et": "2026-11-11 12:54",
+ "updated_et": "2026-11-11 14:05",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -15,7 +15,7 @@
    "spread_text": "IND -2.5",
    "spread": -2.5,
    "total": 228.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -26,10 +26,10 @@
    "away_name": "Cleveland Cavaliers",
    "home_name": "New York Knicks",
    "state": "pre",
-   "spread_text": "NY -4.5",
-   "spread": -4.5,
+   "spread_text": "NY -3.5",
+   "spread": -3.5,
    "total": 222.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -43,7 +43,7 @@
    "spread_text": "BOS -5.5",
    "spread": 5.5,
    "total": 215.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -57,7 +57,7 @@
    "spread_text": "SA -15.5",
    "spread": 15.5,
    "total": 238.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -71,7 +71,7 @@
    "spread_text": "DEN -3.5",
    "spread": 3.5,
    "total": 230.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -84,8 +84,8 @@
    "state": "pre",
    "spread_text": "LAL -14.5",
    "spread": 14.5,
-   "total": 229.5,
-   "odds_source": "DraftKings",
+   "total": 228.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -98,8 +98,8 @@
    "state": "pre",
    "spread_text": "NO -3.5",
    "spread": -3.5,
-   "total": 229.5,
-   "odds_source": "DraftKings",
+   "total": 228.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -110,10 +110,10 @@
    "away_name": "Orlando Magic",
    "home_name": "Utah Jazz",
    "state": "pre",
-   "spread_text": "ORL -2.5",
-   "spread": 2.5,
+   "spread_text": "ORL -4.5",
+   "spread": 4.5,
    "total": 214.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -127,7 +127,7 @@
    "spread_text": "HOU -6.5",
    "spread": -6.5,
    "total": 220.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -141,11 +141,20 @@
    "spread_text": "OKC -1.5",
    "spread": 1.5,
    "total": 225.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   }
  ],
  "injuries": {
+  "Boston Celtics": [
+   {
+    "player": "Paul George",
+    "status": "Out",
+    "detail": "George (illness) has been ruled out for Wednesday's game against Toronto, Taylor Snow of the Celtics' official site reports.",
+    "type": "out",
+    "updated": "2026-11-11T17:55Z"
+   }
+  ],
   "Brooklyn Nets": [
    {
     "player": "Mikel Brown Jr.",
@@ -163,6 +172,13 @@
    }
   ],
   "Chicago Bulls": [
+   {
+    "player": "Caleb Wilson",
+    "status": "Day-To-Day",
+    "detail": "Wilson has been downgraded to questionable for Wednesday's game against the Spurs due to right hip soreness.",
+    "type": "day-to-day",
+    "updated": "2026-11-11T18:21Z"
+   },
    {
     "player": "Norman Powell",
     "status": "Day-To-Day",
@@ -303,10 +319,10 @@
   "Los Angeles Lakers": [
    {
     "player": "Quentin Grimes",
-    "status": "Day-To-Day",
+    "status": "Out",
     "detail": "Grimes (finger) is listed as questionable for Wednesday's game in Milwaukee.",
-    "type": "day-to-day",
-    "updated": "2026-11-10T23:07Z"
+    "type": "out",
+    "updated": "2026-11-11T19:04Z"
    }
   ],
   "Memphis Grizzlies": [
@@ -380,11 +396,18 @@
   ],
   "New York Knicks": [
    {
+    "player": "Karl-Anthony Towns",
+    "status": "Day-To-Day",
+    "detail": "Towns (calf) is listed as questionable for Wednesday's game against Cleveland.",
+    "type": "day-to-day",
+    "updated": "2026-11-11T18:06Z"
+   },
+   {
     "player": "Josh Hart",
     "status": "Out",
-    "detail": "Hart (illness) won't play Tuesday against the Bucks, Kristian Winfield of the New York Daily News reports.",
+    "detail": "Hart (illness) is probable for Wednesday's game against the Cavaliers.",
     "type": "out",
-    "updated": "2026-11-10T22:58Z"
+    "updated": "2026-11-11T18:06Z"
    }
   ],
   "Oklahoma City Thunder": [
@@ -560,18 +583,18 @@
   ],
   "Utah Jazz": [
    {
+    "player": "Lauri Markkanen",
+    "status": "Out",
+    "detail": "Markkanen has been diagnosed with a non-displaced fracture in his right hand and will be sidelined for at least one month, Shams Charania of ESPN reports.",
+    "type": "out",
+    "updated": "2026-11-11T18:22Z"
+   },
+   {
     "player": "Keyonte George",
     "status": "Day-To-Day",
     "detail": "George (ankle) has been ruled out for Tuesday's game against the Heat.",
     "type": "day-to-day",
     "updated": "2026-11-11T15:00Z"
-   },
-   {
-    "player": "Lauri Markkanen",
-    "status": "Day-To-Day",
-    "detail": "Markkanen is out for Tuesday's game versus the Heat with a right wrist sprain.",
-    "type": "day-to-day",
-    "updated": "2026-11-11T14:45Z"
    },
    {
     "player": "Jusuf Nurkic",
@@ -689,6 +712,41 @@
    "player": "Lauri Markkanen",
    "from": "Out",
    "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-11 14:05",
+   "team": "Boston Celtics",
+   "player": "Paul George",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-11 14:05",
+   "team": "Chicago Bulls",
+   "player": "Caleb Wilson",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-11 14:05",
+   "team": "Los Angeles Lakers",
+   "player": "Quentin Grimes",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-11 14:05",
+   "team": "New York Knicks",
+   "player": "Karl-Anthony Towns",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-11 14:05",
+   "team": "Utah Jazz",
+   "player": "Lauri Markkanen",
+   "from": "Day-To-Day",
+   "to": "Out"
   }
  ]
 }
