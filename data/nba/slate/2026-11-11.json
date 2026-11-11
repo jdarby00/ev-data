@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "updated_et": "2026-11-11 08:32",
+ "updated_et": "2026-11-11 12:51",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -14,7 +14,7 @@
    "state": "pre",
    "spread_text": "IND -2.5",
    "spread": -2.5,
-   "total": 226.5,
+   "total": 228.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -28,7 +28,7 @@
    "state": "pre",
    "spread_text": "NY -4.5",
    "spread": -4.5,
-   "total": 221.5,
+   "total": 222.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -40,8 +40,8 @@
    "away_name": "Boston Celtics",
    "home_name": "Toronto Raptors",
    "state": "pre",
-   "spread_text": "BOS -7.5",
-   "spread": 7.5,
+   "spread_text": "BOS -5.5",
+   "spread": 5.5,
    "total": 215.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -70,7 +70,7 @@
    "state": "pre",
    "spread_text": "DEN -3.5",
    "spread": 3.5,
-   "total": 229.5,
+   "total": 230.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -82,9 +82,9 @@
    "away_name": "Los Angeles Lakers",
    "home_name": "Milwaukee Bucks",
    "state": "pre",
-   "spread_text": "LAL -13.5",
-   "spread": 13.5,
-   "total": 230.5,
+   "spread_text": "LAL -14.5",
+   "spread": 14.5,
+   "total": 229.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -96,8 +96,8 @@
    "away_name": "Brooklyn Nets",
    "home_name": "New Orleans Pelicans",
    "state": "pre",
-   "spread_text": "NO -4.5",
-   "spread": -4.5,
+   "spread_text": "NO -3.5",
+   "spread": -3.5,
    "total": 229.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -110,8 +110,8 @@
    "away_name": "Orlando Magic",
    "home_name": "Utah Jazz",
    "state": "pre",
-   "spread_text": "ORL -3.5",
-   "spread": 3.5,
+   "spread_text": "ORL -2.5",
+   "spread": 2.5,
    "total": 214.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -126,7 +126,7 @@
    "state": "pre",
    "spread_text": "HOU -6.5",
    "spread": -6.5,
-   "total": 222.5,
+   "total": 220.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -148,25 +148,18 @@
  "injuries": {
   "Brooklyn Nets": [
    {
+    "player": "Mikel Brown Jr.",
+    "status": "Out",
+    "detail": "Brown has been ruled out for Wednesday's game against the Pelicans due to an illness, Sharif Phillips-Keaton of USA Today reports.",
+    "type": "out",
+    "updated": "2026-11-11T16:40Z"
+   },
+   {
     "player": "Nolan Traore",
     "status": "Day-To-Day",
     "detail": "Traore (calf) is listed as questionable for Wednesday's game against New Orleans.",
     "type": "day-to-day",
     "updated": "2026-11-10T22:56Z"
-   },
-   {
-    "player": "Egor Demin",
-    "status": "Out",
-    "detail": "Demin (leg) is probable for Wednesday's game against the Pelicans, Erik Slater of ClutchPoints.com reports.",
-    "type": "out",
-    "updated": "2026-11-10T22:51Z"
-   },
-   {
-    "player": "Grant Nelson",
-    "status": "Day-To-Day",
-    "detail": "Nelson signed a two-way contract with the Nets on Friday, Michael Scotto of HoopsHype.com reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-08T16:21Z"
    }
   ],
   "Chicago Bulls": [
@@ -219,18 +212,18 @@
   ],
   "Golden State Warriors": [
    {
+    "player": "Will Richard",
+    "status": "Day-To-Day",
+    "detail": "Richard (thumb) is questionable for Wednesday's game against Houston.",
+    "type": "day-to-day",
+    "updated": "2026-11-11T17:03Z"
+   },
+   {
     "player": "Gary Payton II",
     "status": "Out",
     "detail": "Payton (knee) is out for Wednesday's game against Houston.",
     "type": "out",
     "updated": "2026-11-10T21:36Z"
-   },
-   {
-    "player": "Will Richard",
-    "status": "Out",
-    "detail": "Richard (thumb) is questionable for Wednesday's game against Houston.",
-    "type": "out",
-    "updated": "2026-11-10T21:34Z"
    },
    {
     "player": "Brandon Williams",
@@ -349,26 +342,33 @@
   "Milwaukee Bucks": [
    {
     "player": "Tyler Herro",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Herro (knee) is listed as out for Tuesday's game against New York.",
-    "type": "out",
-    "updated": "2026-11-10T23:24Z"
+    "type": "day-to-day",
+    "updated": "2026-11-11T14:58Z"
    }
   ],
   "New Orleans Pelicans": [
+   {
+    "player": "Bennedict Mathurin",
+    "status": "Out",
+    "detail": "Mathurin has been ruled out for Wednesday's game against the Nets due to a right thumb sprain.",
+    "type": "out",
+    "updated": "2026-11-11T16:55Z"
+   },
+   {
+    "player": "Trey Murphy III",
+    "status": "Day-To-Day",
+    "detail": "Murphy (knee) is doubtful for Wednesday's game against the Nets.",
+    "type": "day-to-day",
+    "updated": "2026-11-11T16:53Z"
+   },
    {
     "player": "Trendon Watford",
     "status": "Out",
     "detail": "Watford (ankle) is out for Wednesday's game against the Nets.",
     "type": "out",
     "updated": "2026-11-10T19:26Z"
-   },
-   {
-    "player": "Trey Murphy III",
-    "status": "Day-To-Day",
-    "detail": "Murphy (knee) is probable for Wednesday's game against the Nets.",
-    "type": "day-to-day",
-    "updated": "2026-11-10T19:22Z"
    },
    {
     "player": "Yves Missi",
@@ -427,10 +427,10 @@
   "Orlando Magic": [
    {
     "player": "Tristan da Silva",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Da Silva (calf) has been ruled out for Tuesday's game against the Kings, Jason Beede of the Orlando Sentinel reports.",
-    "type": "out",
-    "updated": "2026-11-11T01:34Z"
+    "type": "day-to-day",
+    "updated": "2026-11-11T15:00Z"
    },
    {
     "player": "Jalen Suggs",
@@ -517,10 +517,10 @@
   "Toronto Raptors": [
    {
     "player": "Trayce Jackson-Davis",
-    "status": "Day-To-Day",
-    "detail": "Jackson-Davis is questionable for Wednesday's game against Boston with an illness.",
-    "type": "day-to-day",
-    "updated": "2026-11-10T21:54Z"
+    "status": "Out",
+    "detail": "Jackson-Davis (illness) has been ruled out for Wednesday's game against the Celtics, Blake Murphy of Sportsnet.ca reports.",
+    "type": "out",
+    "updated": "2026-11-11T17:37Z"
    },
    {
     "player": "Collin Murray-Boyles",
@@ -560,18 +560,18 @@
   ],
   "Utah Jazz": [
    {
-    "player": "Lauri Markkanen",
-    "status": "Out",
-    "detail": "Markkanen is out for Tuesday's game versus the Heat with a right wrist sprain.",
-    "type": "out",
-    "updated": "2026-11-10T18:30Z"
+    "player": "Keyonte George",
+    "status": "Day-To-Day",
+    "detail": "George (ankle) has been ruled out for Tuesday's game against the Heat.",
+    "type": "day-to-day",
+    "updated": "2026-11-11T15:00Z"
    },
    {
-    "player": "Keyonte George",
-    "status": "Out",
-    "detail": "George (ankle) has been ruled out for Tuesday's game against the Heat.",
-    "type": "out",
-    "updated": "2026-11-10T00:08Z"
+    "player": "Lauri Markkanen",
+    "status": "Day-To-Day",
+    "detail": "Markkanen is out for Tuesday's game versus the Heat with a right wrist sprain.",
+    "type": "day-to-day",
+    "updated": "2026-11-11T14:45Z"
    },
    {
     "player": "Jusuf Nurkic",
@@ -619,5 +619,76 @@
    }
   ]
  },
- "status_changes": []
+ "status_changes": [
+  {
+   "at_et": "2026-11-11 12:51",
+   "team": "Brooklyn Nets",
+   "player": "Mikel Brown Jr.",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-11 12:51",
+   "team": "Brooklyn Nets",
+   "player": "Egor Demin",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-11 12:51",
+   "team": "Brooklyn Nets",
+   "player": "Grant Nelson",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-11 12:51",
+   "team": "Golden State Warriors",
+   "player": "Will Richard",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-11 12:51",
+   "team": "Milwaukee Bucks",
+   "player": "Tyler Herro",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-11 12:51",
+   "team": "New Orleans Pelicans",
+   "player": "Bennedict Mathurin",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-11 12:51",
+   "team": "Orlando Magic",
+   "player": "Tristan da Silva",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-11 12:51",
+   "team": "Toronto Raptors",
+   "player": "Trayce Jackson-Davis",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-11 12:51",
+   "team": "Utah Jazz",
+   "player": "Keyonte George",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-11 12:51",
+   "team": "Utah Jazz",
+   "player": "Lauri Markkanen",
+   "from": "Out",
+   "to": "Day-To-Day"
+  }
+ ]
 }
