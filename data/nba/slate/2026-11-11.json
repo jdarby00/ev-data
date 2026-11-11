@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "updated_et": "2026-11-11 14:45",
+ "updated_et": "2026-11-11 16:15",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -12,10 +12,10 @@
    "away_name": "Washington Wizards",
    "home_name": "Indiana Pacers",
    "state": "pre",
-   "spread_text": "IND -2.5",
-   "spread": -2.5,
+   "spread_text": "IND -3.5",
+   "spread": -3.5,
    "total": 228.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -28,8 +28,8 @@
    "state": "pre",
    "spread_text": "NY -3.5",
    "spread": -3.5,
-   "total": 222.5,
-   "odds_source": "Draft Kings",
+   "total": 221.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -43,7 +43,7 @@
    "spread_text": "BOS -5.5",
    "spread": 5.5,
    "total": 215.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -57,7 +57,7 @@
    "spread_text": "SA -15.5",
    "spread": 15.5,
    "total": 238.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -71,7 +71,7 @@
    "spread_text": "DEN -3.5",
    "spread": 3.5,
    "total": 230.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "LAL -14.5",
    "spread": 14.5,
    "total": 228.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -99,7 +99,7 @@
    "spread_text": "NO -3.5",
    "spread": -3.5,
    "total": 228.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -110,10 +110,10 @@
    "away_name": "Orlando Magic",
    "home_name": "Utah Jazz",
    "state": "pre",
-   "spread_text": "ORL -3.5",
-   "spread": 3.5,
+   "spread_text": "ORL -4.5",
+   "spread": 4.5,
    "total": 214.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -126,8 +126,8 @@
    "state": "pre",
    "spread_text": "HOU -6.5",
    "spread": -6.5,
-   "total": 220.5,
-   "odds_source": "Draft Kings",
+   "total": 219.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -141,7 +141,7 @@
    "spread_text": "OKC -1.5",
    "spread": 1.5,
    "total": 225.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
@@ -456,11 +456,18 @@
   ],
   "Orlando Magic": [
    {
+    "player": "Jamal Cain",
+    "status": "Day-To-Day",
+    "detail": "Cain is questionable for Wednesday's game against the Jazz due to a left shoulder contusion.",
+    "type": "day-to-day",
+    "updated": "2026-11-11T19:50Z"
+   },
+   {
     "player": "Tristan da Silva",
     "status": "Day-To-Day",
-    "detail": "Da Silva (calf) has been ruled out for Tuesday's game against the Kings, Jason Beede of the Orlando Sentinel reports.",
+    "detail": "Da Silva (calf) is listed as questionable for Wednesday's game at Utah.",
     "type": "day-to-day",
-    "updated": "2026-11-11T15:00Z"
+    "updated": "2026-11-11T19:50Z"
    },
    {
     "player": "Jalen Suggs",
@@ -500,18 +507,25 @@
   ],
   "Portland Trail Blazers": [
    {
+    "player": "Chris Youngblood",
+    "status": "Out",
+    "detail": "Youngblood has been ruled out for Wednesday's game against the Thunder.",
+    "type": "out",
+    "updated": "2026-11-11T21:05Z"
+   },
+   {
+    "player": "Vit Krejci",
+    "status": "Out",
+    "detail": "Krejci underwent surgery on his fractured left ankle Wednesday and will be re-evaluated in eight weeks, Brett Siegel of ClutchPoints.com reports.",
+    "type": "out",
+    "updated": "2026-11-11T19:56Z"
+   },
+   {
     "player": "Ja Morant",
     "status": "Out",
     "detail": "Head coach Micah Nori said Morant met with a doctor in Los Angeles, who gave him a positive outlook on his recovery from the hamstring injury. While Nori declined to update Morant's timetable, he added Morant \"may not be out for as long as we thought,\" Trail Blazers Insider Sean Highkin reports.",
     "type": "out",
     "updated": "2026-11-08T02:18Z"
-   },
-   {
-    "player": "Vit Krejci",
-    "status": "Out",
-    "detail": "Head coach Micah Nori said that Krejci suffered a left leg fracture during Wednesday's 132-119 win over the Suns, Brett Siegel of ClutchPoints.com reports.",
-    "type": "out",
-    "updated": "2026-11-05T05:17Z"
    },
    {
     "player": "Shaedon Sharpe",
@@ -590,18 +604,18 @@
   ],
   "Utah Jazz": [
    {
+    "player": "Keyonte George",
+    "status": "Day-To-Day",
+    "detail": "George (ankle) is questionable for Wednesday's game against Orlando.",
+    "type": "day-to-day",
+    "updated": "2026-11-11T20:04Z"
+   },
+   {
     "player": "Lauri Markkanen",
     "status": "Out",
     "detail": "Markkanen has been diagnosed with a non-displaced fracture in his right hand and will be sidelined for at least one month, Shams Charania of ESPN reports.",
     "type": "out",
     "updated": "2026-11-11T18:22Z"
-   },
-   {
-    "player": "Keyonte George",
-    "status": "Day-To-Day",
-    "detail": "George (ankle) has been ruled out for Tuesday's game against the Heat.",
-    "type": "day-to-day",
-    "updated": "2026-11-11T15:00Z"
    },
    {
     "player": "Jusuf Nurkic",
@@ -766,6 +780,20 @@
    "at_et": "2026-11-11 14:45",
    "team": "Milwaukee Bucks",
    "player": "Myles Turner",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-11 16:15",
+   "team": "Orlando Magic",
+   "player": "Jamal Cain",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-11 16:15",
+   "team": "Portland Trail Blazers",
+   "player": "Chris Youngblood",
    "from": "not listed",
    "to": "Out"
   }
