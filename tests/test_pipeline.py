@@ -147,5 +147,21 @@ class Board(unittest.TestCase):
         self.assertEqual(star["gp"], 6)
 
 
+class TestUnfinishedDate(unittest.TestCase):
+    """11 Nov: a run at 00:17 ET marked 10 Nov checked while two late games were still being played."""
+
+    def test_unfinished_games_are_counted_and_skipped(self):
+        import datetime as dt
+        from unittest import mock
+        sb = {"events": [{"id": "1", "date": "2026-11-11T02:00Z", "status": {"type": {"state": "post"}}, "season": {"type": 2}},
+                         {"id": "2", "date": "2026-11-11T04:00Z", "status": {"type": {"state": "in"}}, "season": {"type": 2}}]}
+        with mock.patch.object(nba_boxscores, "get_json", lambda u: sb if "scoreboard" in u else {}), \
+                mock.patch.object(nba_boxscores, "parse_summary", lambda *a: [{"date": "2026-11-10"}]), \
+                mock.patch.object(nba_boxscores.time, "sleep", lambda s: None):
+            rows = nba_boxscores.fetch_date(dt.date(2026, 11, 10))
+        self.assertEqual(len(rows), 1)
+        self.assertEqual(nba_boxscores.fetch_date.unfinished, 1)
+
+
 if __name__ == "__main__":
     unittest.main()

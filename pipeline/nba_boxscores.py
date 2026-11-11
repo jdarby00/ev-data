@@ -63,10 +63,14 @@ def fetch_date(d):
     if sb is None:
         return None  # network failure: leave the date for the next run
     rows = []
-    for ev in sb.get("events", []):
+    fetch_date.unfinished = 0  # games not final yet: the date must be fetched again (11 Nov: a 00:17 ET run
+    for ev in sb.get("events", []):  # marked 10 Nov done with two late games still going, so they were never added)
         state = ev.get("status", {}).get("type", {}).get("state")
         stype = ev.get("season", {}).get("type")
-        if state != "post" or stype not in (2, 3, None):  # regular season and playoffs, finished only
+        if stype not in (2, 3, None):
+            continue
+        if state != "post":  # regular season and playoffs, finished only
+            fetch_date.unfinished += 1
             continue
         summ = get_json(f"{ESPN}/summary?event={ev['id']}")
         if summ is None:
@@ -83,9 +87,8 @@ def main():
     ap.add_argument("--refetch", action="store_true")
     a = ap.parse_args()
     existing = read_csv(OUT)
-    have = {r["date"] for r in existing}
     checked = set(open(CHECKED).read().split()) if os.path.exists(CHECKED) else set()
-    have |= checked
+    have = set(checked) if checked else {r["date"] for r in existing}  # a date with rows but not checked is partial: refetch
     d, end = dt.date.fromisoformat(a.start), dt.date.fromisoformat(a.end)
     added, failed = 0, []
     while d <= end:
@@ -93,8 +96,11 @@ def main():
             rows = fetch_date(d)
             if rows is None:
                 failed.append(d.isoformat())
+            elif not getattr(fetch_date, "unfinished", 0) or d < today_et() - dt.timedelta(days=3):
+                checked.add(d.isoformat())  # every game final (or old enough that a postponed game won't be played)
             else:
-                checked.add(d.isoformat())
+                checked.discard(d.isoformat())
+                print(f"box scores: {d} has {fetch_date.unfinished} unfinished game(s); will fetch again")
             if rows:
                 existing = [r for r in existing if r["date"] != d.isoformat()] + rows
                 added += len(rows)
