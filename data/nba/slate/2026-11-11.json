@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "updated_et": "2026-11-11 05:20",
+ "updated_et": "2026-11-11 08:32",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -12,10 +12,10 @@
    "away_name": "Washington Wizards",
    "home_name": "Indiana Pacers",
    "state": "pre",
-   "spread_text": "IND -3.5",
-   "spread": -3.5,
-   "total": 225.5,
-   "odds_source": "Draft Kings",
+   "spread_text": "IND -2.5",
+   "spread": -2.5,
+   "total": 226.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -29,7 +29,7 @@
    "spread_text": "NY -4.5",
    "spread": -4.5,
    "total": 221.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -42,8 +42,8 @@
    "state": "pre",
    "spread_text": "BOS -7.5",
    "spread": 7.5,
-   "total": 216.5,
-   "odds_source": "Draft Kings",
+   "total": 215.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -56,8 +56,8 @@
    "state": "pre",
    "spread_text": "SA -15.5",
    "spread": 15.5,
-   "total": 240.5,
-   "odds_source": "Draft Kings",
+   "total": 238.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -70,8 +70,8 @@
    "state": "pre",
    "spread_text": "DEN -3.5",
    "spread": 3.5,
-   "total": 228.5,
-   "odds_source": "Draft Kings",
+   "total": 229.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -82,10 +82,10 @@
    "away_name": "Los Angeles Lakers",
    "home_name": "Milwaukee Bucks",
    "state": "pre",
-   "spread_text": "LAL -12.5",
-   "spread": 12.5,
-   "total": 231.5,
-   "odds_source": "Draft Kings",
+   "spread_text": "LAL -13.5",
+   "spread": 13.5,
+   "total": 230.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -99,7 +99,7 @@
    "spread_text": "NO -4.5",
    "spread": -4.5,
    "total": 229.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -110,10 +110,10 @@
    "away_name": "Orlando Magic",
    "home_name": "Utah Jazz",
    "state": "pre",
-   "spread_text": "ORL -4.5",
-   "spread": 4.5,
-   "total": 217.5,
-   "odds_source": "Draft Kings",
+   "spread_text": "ORL -3.5",
+   "spread": 3.5,
+   "total": 214.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -127,7 +127,7 @@
    "spread_text": "HOU -6.5",
    "spread": -6.5,
    "total": 222.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -141,7 +141,7 @@
    "spread_text": "OKC -1.5",
    "spread": 1.5,
    "total": 225.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
