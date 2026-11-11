@@ -1,6 +1,6 @@
 # NBA board, 2026-11-10
 
-Slate updated 2026-11-10 16:25 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-10 19:02 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -12,14 +12,17 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 16:15 Phoenix Suns: Jordan Goodwin Out → removed from report
 - 16:15 Sacramento Kings: Keegan Murray Day-To-Day → removed from report
 - 16:15 Sacramento Kings: Domantas Sabonis Day-To-Day → removed from report
+- 19:02 Milwaukee Bucks: Tyler Herro Day-To-Day → Out
+- 19:02 Milwaukee Bucks: Kel'el Ware Day-To-Day → removed from report
+- 19:02 New York Knicks: Josh Hart Day-To-Day → Out
 
 ## MIL @ NY, 19:30 ET
-Line: NY -15.5, total 222.5 (Draft Kings).
-**MIL** (1 rest day). Out: none listed. Freed minutes: 0.
+Line: NY -15.5, total 221.5 (DraftKings).
+**MIL** (1 rest day). Out: Tyler Herro. Freed minutes: 30.7.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
-| Tyler Herro | Day-To-Day | 30.6 (2.6) → 29 (21.4) | 19.4/21.4 → 19 (10–29) | 4/4.6 → 4 (1–7) | 4/4.3 → 4 (1–7) | 2.8/3.1 → 2 (0–5) | 27 (15–40) |
+| Tyler Herro | Out | 30.6 (2.6) | 19.4/21.4 | 4/4.6 | 4/4.3 | 2.8/3.1 | – |
 | Myles Turner | – | 27.8 (4.8) → 26.9 (19.2) | 7.6/7.1 → 9 (3–15) | 6.6/5.7 → 5 (2–10) | 3.4/2.8 → 2 (0–5) | 1.6/1.2 → 1 (0–3) | 17 (8–27) |
 | Brayden Burries | – | 27.2 (7.9) → 25.1 (15) | 13.2/10.5 → 10 (3–19) | 7.2/5.5 → 5 (2–10) | 3/2.2 → 2 (0–5) | 0.8/0.8 → 1 (0–2) | 19 (8–31) |
 | Kyle Kuzma | – | 27 (4.9) → 27.6 (19.9) | 12.4/11.6 → 13 (6–22) | 3.6/5.8 → 4 (2–8) | 2.6/2.7 → 2 (1–5) | 2/1.7 → 2 (0–4) | 20 (10–32) |
@@ -27,17 +30,21 @@ Line: NY -15.5, total 222.5 (Draft Kings).
 | AJ Green | – | 21.2 (2.9) → 21.6 (13.9) | 7/7.5 → 7 (2–14) | 2/1.9 → 2 (0–4) | 1.8/1.5 → 1 (0–3) | 2/2.2 → 2 (0–4) | 11 (4–19) |
 | Ryan Rollins | – | 20.2 (6.1) → 22.2 (14) | 9.8/10.7 → 11 (4–19) | 4.2/4.4 → 4 (1–7) | 4.2/4.3 → 4 (1–7) | 1.4/1.5 → 1 (0–4) | 19 (8–31) |
 | Nate Ament | – | 16.6 (4.6) → 17 (9.4) | 9.2/7.8 → 7 (1–14) | 2/2.5 → 3 (1–6) | 0.6/0.4 → 1 (0–3) | 1.2/1 → 1 (0–2) | 11 (3–20) |
-| Kel'el Ware | Day-To-Day | 15.8 (5.4) → 16.2 (8.5) | 5.4/8.6 → 7 (1–14) | 5.4/6.9 → 6 (2–11) | 1/0.7 → 0 (0–2) | 0.6/0.6 → 0 (0–2) | 14 (4–25) |
+| Kel'el Ware | – | 15.8 (5.4) → 16.2 (8.5) | 5.4/8.6 → 7 (1–14) | 5.4/6.9 → 6 (2–11) | 1/0.7 → 0 (0–2) | 0.6/0.6 → 0 (0–2) | 14 (4–25) |
 | Kasparas Jakucionis | – | 14.4 (6.2) → 15.3 (7) | 3.8/6.4 → 5 (0–10) | 2.2/2.5 → 2 (0–5) | 2.6/3.4 → 2 (0–5) | 0.4/0.5 → 1 (0–2) | 9 (2–18) |
 
-**NY** (2 rest days). Out: none listed. Freed minutes: 0.
+**NY** (2 rest days). Out: Josh Hart. Freed minutes: 31.7.
+- Without Josh Hart: Mohamed Diawara min +14, pts +5, reb +4, ast +3.5 (n=2 vs 2)
+- Without Josh Hart: Jordan Clarkson min +6.2, pts +4, reb +0, ast +0.2 (n=2 vs 6)
+- Without Josh Hart: OG Anunoby min -5.3, pts +0.1, reb -0.1, ast -0.6 (n=2 vs 7)
+- Without Josh Hart: Miles McBride min -4.9, pts -0.9, reb -1.5, ast -0.5 (n=2 vs 7)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Jalen Brunson | – | 33.2 (2.5) → 31.9 (24.2) | 29/26.2 → 25 (14–37) | 3.2/3 → 3 (1–6) | 6.4/5.6 → 6 (3–10) | 4.2/2.8 → 3 (1–5) | 34 (20–49) |
 | OG Anunoby | – | 32.2 (3.8) → 31.2 (23.5) | 16.6/16.4 → 15 (7–24) | 5/5.6 → 5 (2–8) | 2/2.4 → 2 (0–4) | 2/1.9 → 2 (0–4) | 23 (12–34) |
 | Karl-Anthony Towns | – | 31.4 (4.4) → 30 (22.3) | 19.6/20.9 → 19 (10–30) | 13.2/13.6 → 12 (7–18) | 3.4/3.1 → 3 (1–5) | 2.2/1.9 → 1 (0–4) | 34 (20–50) |
-| Josh Hart | Day-To-Day | 31.2 (3.7) → 29.5 (21.8) | 7.2/8.6 → 9 (3–16) | 6.4/7.3 → 6 (3–11) | 3.8/3.9 → 4 (1–7) | 1.8/1.9 → 1 (0–3) | 20 (10–31) |
+| Josh Hart | Out | 31.2 (3.7) | 7.2/8.6 | 6.4/7.3 | 3.8/3.9 | 1.8/1.9 | – |
 | Landry Shamet | – | 26.4 (4.8) → 25.8 (18.1) | 10.4/9.3 → 10 (3–17) | 1/1.4 → 1 (0–3) | 1.8/1.9 → 1 (0–3) | 2.4/2.2 → 2 (0–5) | 13 (5–22) |
 | Mikal Bridges | – | 22.4 (7.5) → 26 (16.4) | 7.4/6.6 → 9 (3–16) | 3.4/3.2 → 3 (1–6) | 2/2.2 → 2 (1–5) | 1/1 → 1 (0–3) | 15 (6–26) |
 | Miles McBride | – | 16.4 (5.7) → 17.5 (9.8) | 6.2/6.7 → 7 (2–14) | 2/1.7 → 1 (0–3) | 0.8/0.9 → 1 (0–3) | 1.6/1.8 → 2 (0–4) | 10 (3–19) |
@@ -46,7 +53,7 @@ Line: NY -15.5, total 222.5 (Draft Kings).
 | Tyler Kolek | – | 12.2 (3.8) → 12 (4.3) | 2.6/2.1 → 3 (0–8) | 1.6/1.7 → 1 (0–4) | 4.8/5.1 → 3 (0–7) | 0.6/0.4 → 0 (0–2) | 8 (1–17) |
 
 ## BOS @ PHI, 20:00 ET
-Line: BOS -1.5, total 217.5 (Draft Kings).
+Line: BOS -2.5, total 217.5 (DraftKings).
 **BOS** (1 rest day). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -84,7 +91,7 @@ Line: BOS -1.5, total 217.5 (Draft Kings).
 | Dominick Barlow | Out | none this season; last season 23.7 min, 7.7 pts | | | | |
 
 ## LAC @ PHX, 21:00 ET
-Line: PHX -3.5, total 224.5 (Draft Kings).
+Line: PHX -3.5, total 224.5 (DraftKings).
 **LAC** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Yanic Konan Niederhauser, Brandon Ingram, Bradley Beal, Jordan Miller.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -118,7 +125,7 @@ Line: PHX -3.5, total 224.5 (Draft Kings).
 | Mark Williams | Out | none this season; last season 23.6 min, 11.7 pts | | | | |
 
 ## MIA @ UTAH, 21:00 ET
-Line: MIA -9.5, total 227.5 (Draft Kings).
+Line: MIA -9.5, total 227.5 (DraftKings).
 **MIA** (1 rest day). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -153,7 +160,7 @@ Line: MIA -9.5, total 227.5 (Draft Kings).
 | Brice Sensabaugh | – | 13.6 (3.2) → 14.5 (6.8) | 5.4/7.3 → 8 (2–15) | 2.4/2.8 → 2 (0–5) | 1/1 → 1 (0–3) | 0.8/1.4 → 1 (0–3) | 11 (3–21) |
 
 ## ORL @ SAC, 22:00 ET
-Line: ORL -5.5, total 222.5 (Draft Kings).
+Line: ORL -5.5, total 221.5 (DraftKings).
 **ORL** (2 rest days). Out: Paolo Banchero, Jalen Suggs. Freed minutes: 66.8. Out all season so far (already in the lines): Jonathan Isaac, Noah Penda, Izaiyah Nelson.
 - Without Jalen Suggs: Jase Richardson min +11.3, pts +1.8, reb +1.2, ast +1 (n=6 vs 3)
 - Without Paolo Banchero: Jase Richardson min +11, pts +2.4, reb +0.8, ast -0.4 (n=7 vs 2)
@@ -191,7 +198,7 @@ Line: ORL -5.5, total 222.5 (Draft Kings).
 | Jonathan Mogbo | – | 14.2 (8.2) → 12.7 (2.4) | 3/3 → 3 (0–7) | 2.2/2.2 → 3 (0–6) | 0.8/0.8 → 1 (0–3) | 0.2/0.2 → 0 (0–0) | 6 (0–15) |
 
 ## OKC @ POR, 23:00 ET
-Line: OKC -1.5, total 226.5 (Draft Kings).
+Line: OKC -1.5, total 226.5 (DraftKings).
 **OKC** (2 rest days). Out: Jalen Williams, Chet Holmgren, Jaylin Williams, Cason Wallace. Freed minutes: 96.4. Out all season so far (already in the lines): Thomas Sorber.
 - Without Jalen Williams: Bennett Stirtz min +19, pts +9.9, reb +1.3, ast +1.9 (n=7 vs 3)
 - Without Chet Holmgren: Bennett Stirtz min +19, pts +9.9, reb +1.3, ast +1.9 (n=7 vs 3)

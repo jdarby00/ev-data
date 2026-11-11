@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "updated_et": "2026-11-10 16:25",
+ "updated_et": "2026-11-10 19:02",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -14,8 +14,8 @@
    "state": "pre",
    "spread_text": "NY -15.5",
    "spread": -15.5,
-   "total": 222.5,
-   "odds_source": "Draft Kings",
+   "total": 221.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -26,10 +26,10 @@
    "away_name": "Boston Celtics",
    "home_name": "Philadelphia 76ers",
    "state": "pre",
-   "spread_text": "BOS -1.5",
-   "spread": 1.5,
+   "spread_text": "BOS -2.5",
+   "spread": 2.5,
    "total": 217.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -43,7 +43,7 @@
    "spread_text": "PHX -3.5",
    "spread": -3.5,
    "total": 224.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -57,7 +57,7 @@
    "spread_text": "MIA -9.5",
    "spread": 9.5,
    "total": 227.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -70,8 +70,8 @@
    "state": "pre",
    "spread_text": "ORL -5.5",
    "spread": 5.5,
-   "total": 222.5,
-   "odds_source": "Draft Kings",
+   "total": 221.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "OKC -1.5",
    "spread": 1.5,
    "total": 226.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
@@ -138,27 +138,20 @@
   ],
   "Milwaukee Bucks": [
    {
-    "player": "Kel'el Ware",
-    "status": "Day-To-Day",
-    "detail": "Ware is questionable for Tuesday's game against the Knicks due to a left ankle sprain.",
-    "type": "day-to-day",
-    "updated": "2026-11-10T17:18Z"
-   },
-   {
     "player": "Tyler Herro",
-    "status": "Day-To-Day",
-    "detail": "Herro (contusion) is listed as questionable for Tuesday's game against the Knicks.",
-    "type": "day-to-day",
-    "updated": "2026-11-09T22:21Z"
+    "status": "Out",
+    "detail": "Herro (knee) is listed as out for Tuesday's game against New York.",
+    "type": "out",
+    "updated": "2026-11-10T23:24Z"
    }
   ],
   "New York Knicks": [
    {
     "player": "Josh Hart",
-    "status": "Day-To-Day",
-    "detail": "Hart is doubtful for Tuesday's game against the Bucks due to an illness.",
-    "type": "day-to-day",
-    "updated": "2026-11-10T19:20Z"
+    "status": "Out",
+    "detail": "Hart (illness) won't play Tuesday against the Bucks, Kristian Winfield of the New York Daily News reports.",
+    "type": "out",
+    "updated": "2026-11-10T22:58Z"
    }
   ],
   "Oklahoma City Thunder": [
@@ -386,6 +379,27 @@
    "player": "Domantas Sabonis",
    "from": "Day-To-Day",
    "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-10 19:02",
+   "team": "Milwaukee Bucks",
+   "player": "Tyler Herro",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-10 19:02",
+   "team": "Milwaukee Bucks",
+   "player": "Kel'el Ware",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-10 19:02",
+   "team": "New York Knicks",
+   "player": "Josh Hart",
+   "from": "Day-To-Day",
+   "to": "Out"
   }
  ]
 }
