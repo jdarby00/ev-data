@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "updated_et": "2026-11-10 20:15",
+ "updated_et": "2026-11-10 21:13",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -39,11 +39,11 @@
    "home": "PHX",
    "away_name": "LA Clippers",
    "home_name": "Phoenix Suns",
-   "state": "pre",
-   "spread_text": "PHX -3.5",
-   "spread": -3.5,
-   "total": 223.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -53,11 +53,11 @@
    "home": "UTAH",
    "away_name": "Miami Heat",
    "home_name": "Utah Jazz",
-   "state": "pre",
-   "spread_text": "MIA -8.5",
-   "spread": 8.5,
-   "total": 227.5,
-   "odds_source": "Draft Kings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -92,6 +92,13 @@
  "injuries": {
   "LA Clippers": [
    {
+    "player": "Cam Christie",
+    "status": "Out",
+    "detail": "Christie (ankle) is listed as out for Tuesday's game against Phoenix.",
+    "type": "out",
+    "updated": "2026-11-11T01:39Z"
+   },
+   {
     "player": "Yanic Konan Niederhauser",
     "status": "Out",
     "detail": "Niederhauser (foot) is out for Tuesday's game against Phoenix, Ohm Youngmisuk of ESPN.com reports.",
@@ -104,13 +111,6 @@
     "detail": "Ingram (Achilles) has been ruled out for Tuesday's game at Phoenix, Ohm Youngmisuk of ESPN.com reports.",
     "type": "out",
     "updated": "2026-11-10T00:00Z"
-   },
-   {
-    "player": "Cam Christie",
-    "status": "Day-To-Day",
-    "detail": "Christie is questionable for Tuesday's game against the Suns due to a right ankle sprain, Ohm Youngmisuk of ESPN.com reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-09T23:59Z"
    },
    {
     "player": "Bradley Beal",
@@ -185,10 +185,10 @@
   "Orlando Magic": [
    {
     "player": "Tristan da Silva",
-    "status": "Day-To-Day",
-    "detail": "Da Silva is questionable for Tuesday's game against the Kings due to a left calf strain.",
-    "type": "day-to-day",
-    "updated": "2026-11-10T16:50Z"
+    "status": "Out",
+    "detail": "Da Silva (calf) has been ruled out for Tuesday's game against the Kings, Jason Beede of the Orlando Sentinel reports.",
+    "type": "out",
+    "updated": "2026-11-11T01:34Z"
    },
    {
     "player": "Jalen Suggs",
@@ -389,6 +389,20 @@
    "at_et": "2026-11-10 19:02",
    "team": "New York Knicks",
    "player": "Josh Hart",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-10 21:13",
+   "team": "LA Clippers",
+   "player": "Cam Christie",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-10 21:13",
+   "team": "Orlando Magic",
+   "player": "Tristan da Silva",
    "from": "Day-To-Day",
    "to": "Out"
   }

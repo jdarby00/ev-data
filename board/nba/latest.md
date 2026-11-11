@@ -1,6 +1,6 @@
 # NBA board, 2026-11-10
 
-Slate updated 2026-11-10 20:15 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-10 21:13 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -15,6 +15,8 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 19:02 Milwaukee Bucks: Tyler Herro Day-To-Day → Out
 - 19:02 Milwaukee Bucks: Kel'el Ware Day-To-Day → removed from report
 - 19:02 New York Knicks: Josh Hart Day-To-Day → Out
+- 21:13 LA Clippers: Cam Christie Day-To-Day → Out
+- 21:13 Orlando Magic: Tristan da Silva Day-To-Day → Out
 
 ## MIL @ NY, 19:30 ET
 Line: n/a, total – (ESPN).
@@ -91,8 +93,12 @@ Line: n/a, total – (ESPN).
 | Dominick Barlow | Out | none this season; last season 23.7 min, 7.7 pts | | | | |
 
 ## LAC @ PHX, 21:00 ET
-Line: PHX -3.5, total 223.5 (Draft Kings).
-**LAC** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Yanic Konan Niederhauser, Brandon Ingram, Bradley Beal, Jordan Miller.
+Line: n/a, total – (ESPN).
+**LAC** (1 rest day). Out: Cam Christie. Freed minutes: 5.8. Out all season so far (already in the lines): Yanic Konan Niederhauser, Brandon Ingram, Bradley Beal, Jordan Miller.
+- Without Cam Christie: Derrick Jones Jr. min +6.6, pts +3, reb +1.4, ast -1 (n=3 vs 5)
+- Without Cam Christie: Darius Garland min +6.2, pts -0.4, reb +1.4, ast +1.8 (n=4 vs 5)
+- Without Cam Christie: Kris Dunn min +5.8, pts +1.2, reb +0.5, ast -1.2 (n=4 vs 5)
+- Without Cam Christie: Baba Miller min -4.7, pts -2.4, reb -2.9, ast -0.7 (n=3 vs 5)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -106,7 +112,7 @@ Line: PHX -3.5, total 223.5 (Draft Kings).
 | Isaiah Jackson | – | 20.4 (4.9) → 20.1 (12.4) | 8/8.6 → 8 (2–15) | 6.4/6.1 → 6 (2–11) | 2.2/2.2 → 1 (0–4) | 0.2/0.1 → 0 (0–0) | 16 (6–27) |
 | Keaton Wagler | – | 20.4 (4.3) → 21.3 (13.6) | 10.2/12.3 → 9 (3–17) | 3.6/3.9 → 3 (1–7) | 3.2/3.3 → 2 (0–5) | 1.4/1.8 → 1 (0–3) | 16 (6–26) |
 | Gradey Dick | – | 13.6 (7.2) → 14.8 (5.5) | 6.8/7 → 6 (1–14) | 2.2/3 → 2 (0–5) | 1/0.6 → 0 (0–2) | 0.6/0.8 → 1 (0–2) | 9 (1–19) |
-| Cam Christie | Day-To-Day | 5.8 (4.4) → 5.8 (0) | 1.4/1.4 → 1 (0–6) | 0.4/0.4 → 0 (0–3) | 0.2/0.2 → 0 (0–1) | 0.2/0.2 → 0 (0–1) | 2 (0–9) |
+| Cam Christie | Out | 5.8 (4.4) | 1.4/1.4 | 0.4/0.4 | 0.2/0.2 | 0.2/0.2 | – |
 
 **PHX** (back-to-back). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Mark Williams.
 
@@ -125,7 +131,7 @@ Line: PHX -3.5, total 223.5 (Draft Kings).
 | Mark Williams | Out | none this season; last season 23.6 min, 11.7 pts | | | | |
 
 ## MIA @ UTAH, 21:00 ET
-Line: MIA -8.5, total 227.5 (Draft Kings).
+Line: n/a, total – (ESPN).
 **MIA** (1 rest day). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -161,7 +167,7 @@ Line: MIA -8.5, total 227.5 (Draft Kings).
 
 ## ORL @ SAC, 22:00 ET
 Line: ORL -5.5, total 222.5 (Draft Kings).
-**ORL** (2 rest days). Out: Paolo Banchero, Jalen Suggs. Freed minutes: 66.8. Out all season so far (already in the lines): Jonathan Isaac, Noah Penda, Izaiyah Nelson.
+**ORL** (2 rest days). Out: Paolo Banchero, Jalen Suggs, Tristan da Silva. Freed minutes: 97.2. Out all season so far (already in the lines): Jonathan Isaac, Noah Penda, Izaiyah Nelson.
 - Without Jalen Suggs: Jase Richardson min +11.3, pts +1.8, reb +1.2, ast +1 (n=6 vs 3)
 - Without Paolo Banchero: Jase Richardson min +11, pts +2.4, reb +0.8, ast -0.4 (n=7 vs 2)
 - Without Jalen Suggs: Jamal Cain min +9.2, pts +8.3, reb +1.7, ast +0.5 (n=6 vs 3)
@@ -174,7 +180,7 @@ Line: ORL -5.5, total 222.5 (Draft Kings).
 | Desmond Bane | – | 36.2 (3.8) → 34.9 (27.2) | 19/17.5 → 19 (10–29) | 3.6/3.9 → 4 (1–7) | 2.8/2.2 → 3 (1–5) | 4/3.5 → 3 (1–6) | 26 (14–38) |
 | Paolo Banchero | Out | 33.5 (7.5) | 24.5/24.5 | 6.5/6.5 | 7.5/7.5 | 1.5/1.5 | – |
 | Jalen Suggs | Out | 33.3 (0.9) | 8/8 | 5/5 | 5.7/5.7 | 0.3/0.3 | – |
-| Tristan da Silva | Day-To-Day | 31.8 (4.4) → 31.3 (23.6) | 15.6/15.1 → 14 (6–23) | 4.6/3.7 → 4 (2–8) | 1.6/1.7 → 2 (0–4) | 3.6/3.6 → 3 (1–6) | 20 (10–31) |
+| Tristan da Silva | Out | 31.8 (4.4) | 15.6/15.1 | 4.6/3.7 | 1.6/1.7 | 3.6/3.6 | – |
 | Anthony Black | – | 31 (5.1) → 31.6 (23.9) | 15.2/15.7 → 16 (7–25) | 6.2/5.7 → 5 (2–9) | 5.2/5.2 → 4 (2–8) | 1.4/2 → 1 (0–4) | 25 (14–38) |
 | Jase Richardson | – | 28.8 (7.3) → 24 (14.6) | 5.8/5.9 → 7 (2–14) | 2.8/2.1 → 2 (0–5) | 3.4/2.7 → 2 (0–5) | 0.4/0.8 → 1 (0–2) | 12 (4–22) |
 | Jamal Cain | – | 23.8 (7.4) → 22.2 (12.7) | 10.2/7.2 → 9 (3–17) | 4.2/3.1 → 4 (1–7) | 0.6/0.3 → 1 (0–2) | 1.8/1.1 → 1 (0–3) | 14 (5–24) |
