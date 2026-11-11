@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "updated_et": "2026-11-11 16:15",
+ "updated_et": "2026-11-11 17:16",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -15,7 +15,7 @@
    "spread_text": "IND -3.5",
    "spread": -3.5,
    "total": 228.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -26,10 +26,10 @@
    "away_name": "Cleveland Cavaliers",
    "home_name": "New York Knicks",
    "state": "pre",
-   "spread_text": "NY -3.5",
-   "spread": -3.5,
+   "spread_text": "NY -4.5",
+   "spread": -4.5,
    "total": 221.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -43,7 +43,7 @@
    "spread_text": "BOS -5.5",
    "spread": 5.5,
    "total": 215.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -56,8 +56,8 @@
    "state": "pre",
    "spread_text": "SA -15.5",
    "spread": 15.5,
-   "total": 238.5,
-   "odds_source": "DraftKings",
+   "total": 237.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -68,10 +68,10 @@
    "away_name": "Denver Nuggets",
    "home_name": "Memphis Grizzlies",
    "state": "pre",
-   "spread_text": "DEN -3.5",
-   "spread": 3.5,
+   "spread_text": "DEN -4.5",
+   "spread": 4.5,
    "total": 230.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "LAL -14.5",
    "spread": 14.5,
    "total": 228.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -99,7 +99,7 @@
    "spread_text": "NO -3.5",
    "spread": -3.5,
    "total": 228.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -113,7 +113,7 @@
    "spread_text": "ORL -4.5",
    "spread": 4.5,
    "total": 214.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -127,7 +127,7 @@
    "spread_text": "HOU -6.5",
    "spread": -6.5,
    "total": 219.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -138,10 +138,10 @@
    "away_name": "Oklahoma City Thunder",
    "home_name": "Portland Trail Blazers",
    "state": "pre",
-   "spread_text": "OKC -1.5",
-   "spread": 1.5,
-   "total": 225.5,
-   "odds_source": "DraftKings",
+   "spread_text": "POR -2.5",
+   "spread": -2.5,
+   "total": 224.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   }
  ],
@@ -157,18 +157,18 @@
   ],
   "Brooklyn Nets": [
    {
+    "player": "Nolan Traore",
+    "status": "Out",
+    "detail": "Traore (calf) has been ruled out for Wednesday's game against the Pelicans, Ian Begley of SportsNet New York reports.",
+    "type": "out",
+    "updated": "2026-11-11T21:57Z"
+   },
+   {
     "player": "Mikel Brown Jr.",
     "status": "Out",
     "detail": "Brown has been ruled out for Wednesday's game against the Pelicans due to an illness, Sharif Phillips-Keaton of USA Today reports.",
     "type": "out",
     "updated": "2026-11-11T16:40Z"
-   },
-   {
-    "player": "Nolan Traore",
-    "status": "Day-To-Day",
-    "detail": "Traore (calf) is listed as questionable for Wednesday's game against New Orleans.",
-    "type": "day-to-day",
-    "updated": "2026-11-10T22:56Z"
    }
   ],
   "Chicago Bulls": [
@@ -421,9 +421,16 @@
    {
     "player": "Jaylin Williams",
     "status": "Out",
-    "detail": "Williams (back) has been ruled out for Tuesday's game against the Trail Blazers.",
+    "detail": "Williams (back) has been ruled out for Wednesday's game against Portland and remains out indefinitely.",
     "type": "out",
-    "updated": "2026-11-10T00:53Z"
+    "updated": "2026-11-11T21:19Z"
+   },
+   {
+    "player": "Ajay Mitchell",
+    "status": "Out",
+    "detail": "Mitchell has been ruled out for Wednesday's game against the Trail Blazers due to a left ankle sprain.",
+    "type": "out",
+    "updated": "2026-11-11T21:18Z"
    },
    {
     "player": "Thomas Sorber",
@@ -794,6 +801,20 @@
    "at_et": "2026-11-11 16:15",
    "team": "Portland Trail Blazers",
    "player": "Chris Youngblood",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-11 17:16",
+   "team": "Brooklyn Nets",
+   "player": "Nolan Traore",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-11 17:16",
+   "team": "Oklahoma City Thunder",
+   "player": "Ajay Mitchell",
    "from": "not listed",
    "to": "Out"
   }
