@@ -39794,7 +39794,7 @@
    "api_away": "Orlando Magic",
    "api_home": "Sacramento Kings",
    "away": "Magic",
-   "commence_time": "2026-11-11T03:10:00Z",
+   "commence_time": "2026-11-11T03:11:00Z",
    "event_id": "78ab42ddb22b68903fd53a384d0fc616",
    "home": "Kings",
    "issues": [],
@@ -43327,7 +43327,7 @@
    "api_away": "Orlando Magic",
    "api_home": "Sacramento Kings",
    "away": "Magic",
-   "commence_time": "2026-11-11T03:10:00Z",
+   "commence_time": "2026-11-11T03:11:00Z",
    "event_id": "78ab42ddb22b68903fd53a384d0fc616",
    "home": "Kings",
    "issues": [],
@@ -50012,7 +50012,7 @@
    "api_away": "Orlando Magic",
    "api_home": "Sacramento Kings",
    "away": "Magic",
-   "commence_time": "2026-11-11T03:10:00Z",
+   "commence_time": "2026-11-11T03:11:00Z",
    "event_id": "78ab42ddb22b68903fd53a384d0fc616",
    "home": "Kings",
    "issues": [],
@@ -54185,12 +54185,13 @@
    "api_away": "Orlando Magic",
    "api_home": "Sacramento Kings",
    "away": "Magic",
-   "commence_time": "2026-11-11T03:10:00Z",
+   "commence_time": "2026-11-11T03:11:00Z",
    "event_id": "78ab42ddb22b68903fd53a384d0fc616",
    "home": "Kings",
    "issues": [
     "2026-11-11T02:58:12Z close skipped: daily cap reached (30/30)",
-    "2026-11-11T03:00:05Z close skipped: daily cap reached (30/30)"
+    "2026-11-11T03:00:05Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_threes",
    "players": [],
@@ -56009,7 +56010,9 @@
    "commence_time": "2026-11-11T04:10:00Z",
    "event_id": "f5477c781c94e09e85374bbf9149c0f1",
    "home": "Trail Blazers",
-   "issues": [],
+   "issues": [
+    "2026-11-11T03:58:09Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_threes",
    "players": [],
    "requested_rev": 1,
@@ -57921,5 +57924,5 @@
  "spent_month": 196,
  "spent_today": 30,
  "stop": null,
- "updated": "2026-11-11T03:00:05Z"
+ "updated": "2026-11-11T03:58:09Z"
 }
