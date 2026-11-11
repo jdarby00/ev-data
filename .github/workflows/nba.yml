@@ -36,6 +36,9 @@ jobs:
       - name: Box scores
         if: github.event.schedule == '20 10 * * *' || (github.event_name == 'workflow_dispatch' && inputs.boxscores)
         run: python3 -I pipeline/nba_boxscores.py
+      - name: NFL game logs (for the leg checks; must never block the NBA board)
+        if: github.event.schedule == '20 10 * * *' || (github.event_name == 'workflow_dispatch' && inputs.boxscores)
+        run: python3 -I pipeline/nfl_boxscores.py || echo "nfl box scores failed"
       - name: Slate (games, lines, injuries)
         run: |
           D="${{ inputs.date }}"

@@ -163,5 +163,25 @@ class TestUnfinishedDate(unittest.TestCase):
         self.assertEqual(nba_boxscores.fetch_date.unfinished, 1)
 
 
+class TestNflBoxscores(unittest.TestCase):
+    def test_parse_summary_merges_categories_per_player(self):
+        import nfl_boxscores as N
+        summ = {"boxscore": {"players": [
+            {"team": {"abbreviation": "BUF"}, "statistics": [
+                {"name": "passing", "keys": ["completions/passingAttempts", "passingYards", "yardsPerPassAttempt", "passingTouchdowns", "interceptions"],
+                 "athletes": [{"athlete": {"id": "1", "displayName": "Josh Allen"}, "stats": ["22/31", "265", "8.5", "2", "1"]}]},
+                {"name": "rushing", "keys": ["rushingAttempts", "rushingYards", "yardsPerRushAttempt", "rushingTouchdowns", "longRushing"],
+                 "athletes": [{"athlete": {"id": "1", "displayName": "Josh Allen"}, "stats": ["7", "41", "5.9", "1", "14"]}]},
+                {"name": "receiving", "labels": ["REC", "YDS", "AVG", "TD", "LONG", "TGTS"],
+                 "athletes": [{"athlete": {"id": "2", "displayName": "Dalton Kincaid"}, "stats": ["5", "61", "12.2", "0", "23", "8"]}]}]},
+            {"team": {"abbreviation": "MIN"}, "statistics": []}]}}
+        rows = {r["player"]: r for r in N.parse_summary(summ, "2026-11-09", "e9")}
+        a = rows["Josh Allen"]
+        self.assertEqual((a["pass_cmp"], a["pass_att"], a["pass_yds"], a["pass_tds"], a["ints"], a["rush_yds"], a["rush_tds"], a["receptions"]),
+                         ("22", "31", "265", "2", "1", "41", "1", "0"))
+        k = rows["Dalton Kincaid"]
+        self.assertEqual((k["receptions"], k["rec_yds"], k["targets"], k["team"], k["opp"]), ("5", "61", "8", "BUF", "MIN"))
+
+
 if __name__ == "__main__":
     unittest.main()
