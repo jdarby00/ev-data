@@ -8,8 +8,10 @@
   "box_0520": "2026-11-11T10:20:00Z",
   "close:2026-11-12T00:10:00Z": "2026-11-11T23:58:00Z",
   "close:2026-11-12T01:10:00Z": "2026-11-12T00:58:00Z",
+  "close:2026-11-12T02:40:00Z": "2026-11-12T02:28:00Z",
   "close@2026-11-11T23:58:00Z": "2026-11-11T23:58:00Z",
   "close@2026-11-12T00:58:00Z": "2026-11-12T00:58:00Z",
+  "close@2026-11-12T02:28:00Z": "2026-11-12T02:28:00Z",
   "escreen_1040": "2026-11-11T15:40:01Z",
   "escreen_1620": "2026-11-11T21:20:00Z",
   "fclose:2026-11-12T00:00:00Z": "2026-11-11T23:48:00Z",
@@ -46,6 +48,7 @@
   "2026-11-12T00:58:00Z close@2026-11-12T00:58:00Z: dispatched jdarby00/dk-odds odds.yml (HTTP 204)",
   "2026-11-12T01:19:28Z hand-over to a fresh clock run",
   "2026-11-12T01:48:00Z fclose@2026-11-12T01:48:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
-  "2026-11-12T02:18:00Z fclose@2026-11-12T02:18:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)"
+  "2026-11-12T02:18:00Z fclose@2026-11-12T02:18:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
+  "2026-11-12T02:28:00Z close@2026-11-12T02:28:00Z: dispatched jdarby00/dk-odds odds.yml (HTTP 204)"
  ]
 }
