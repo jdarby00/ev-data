@@ -91373,10 +91373,12 @@
    "api_away": "Golden State Warriors",
    "api_home": "Houston Rockets",
    "away": "Warriors",
-   "commence_time": "2026-11-12T02:40:00Z",
+   "commence_time": "2026-11-12T02:50:00Z",
    "event_id": "f41d186dc7a7dcf01adab32579a82ca3",
    "home": "Rockets",
-   "issues": [],
+   "issues": [
+    "2026-11-12T02:28:11Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_points_rebounds_alternate",
    "players": [],
    "requested_rev": 1,
@@ -97413,10 +97415,12 @@
    "api_away": "Golden State Warriors",
    "api_home": "Houston Rockets",
    "away": "Warriors",
-   "commence_time": "2026-11-12T02:40:00Z",
+   "commence_time": "2026-11-12T02:50:00Z",
    "event_id": "f41d186dc7a7dcf01adab32579a82ca3",
    "home": "Rockets",
-   "issues": [],
+   "issues": [
+    "2026-11-12T02:28:11Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_points_rebounds_assists_alternate",
    "players": [],
    "requested_rev": 1,
@@ -122349,5 +122353,5 @@
  "spent_month": 226,
  "spent_today": 30,
  "stop": null,
- "updated": "2026-11-12T01:36:28Z"
+ "updated": "2026-11-12T02:28:11Z"
 }
