@@ -1,6 +1,6 @@
 # NBA board, 2026-11-12
 
-Slate updated 2026-11-12 14:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-12 16:15 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -12,7 +12,7 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 14:05 Charlotte Hornets: Moussa Diabate Day-To-Day → removed from report
 
 ## TOR @ PHI, 19:00 ET
-Line: PHI -7.5, total 223.5 (DraftKings).
+Line: PHI -7.5, total 224.5 (DraftKings).
 **TOR** (back-to-back). Out: Scottie Barnes, Kawhi Leonard, Trayce Jackson-Davis. Freed minutes: 66.8. Out all season so far (already in the lines): Nate Bittle.
 - Without Scottie Barnes: Alijah Martin min +15.7, pts +10.4, reb +1.6, ast +0.4 (n=3 vs 7)
 - Without Trayce Jackson-Davis: Alijah Martin min +14.7, pts +16.4, reb +1.1, ast -0.6 (n=2 vs 8)
