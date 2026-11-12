@@ -86700,7 +86700,9 @@
    "commence_time": "2026-11-12T03:10:00Z",
    "event_id": "d4f288eeb0132970825be17748f2b4f0",
    "home": "Trail Blazers",
-   "issues": [],
+   "issues": [
+    "2026-11-12T02:53:14Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_points",
    "players": [],
    "requested_rev": 1,
@@ -89398,7 +89400,9 @@
    "commence_time": "2026-11-12T03:10:00Z",
    "event_id": "d4f288eeb0132970825be17748f2b4f0",
    "home": "Trail Blazers",
-   "issues": [],
+   "issues": [
+    "2026-11-12T02:53:14Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_points_rebounds_assists",
    "players": [],
    "requested_rev": 1,
@@ -91373,12 +91377,13 @@
    "api_away": "Golden State Warriors",
    "api_home": "Houston Rockets",
    "away": "Warriors",
-   "commence_time": "2026-11-12T02:50:00Z",
+   "commence_time": "2026-11-12T02:42:48Z",
    "event_id": "f41d186dc7a7dcf01adab32579a82ca3",
    "home": "Rockets",
    "issues": [
     "2026-11-12T02:28:11Z close skipped: daily cap reached (30/30)",
-    "2026-11-12T02:38:17Z close skipped: daily cap reached (30/30)"
+    "2026-11-12T02:38:17Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points_rebounds_alternate",
    "players": [],
@@ -97416,12 +97421,13 @@
    "api_away": "Golden State Warriors",
    "api_home": "Houston Rockets",
    "away": "Warriors",
-   "commence_time": "2026-11-12T02:50:00Z",
+   "commence_time": "2026-11-12T02:42:48Z",
    "event_id": "f41d186dc7a7dcf01adab32579a82ca3",
    "home": "Rockets",
    "issues": [
     "2026-11-12T02:28:11Z close skipped: daily cap reached (30/30)",
-    "2026-11-12T02:38:17Z close skipped: daily cap reached (30/30)"
+    "2026-11-12T02:38:17Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points_rebounds_assists_alternate",
    "players": [],
@@ -122355,5 +122361,5 @@
  "spent_month": 226,
  "spent_today": 30,
  "stop": null,
- "updated": "2026-11-12T02:38:17Z"
+ "updated": "2026-11-12T02:53:14Z"
 }
