@@ -61,6 +61,14 @@ class Boxscores(unittest.TestCase):
 
 
 class Slate(unittest.TestCase):
+    def test_pregame_line_is_kept_after_tip(self):
+        old = [{"event": "1", "spread": -9.5, "spread_text": "PHI -9.5", "total": 221.5, "odds_source": "DraftKings"}]
+        new = [{"event": "1", "spread": None, "spread_text": "", "total": None, "odds_source": "", "state": "post"},
+               {"event": "2", "spread": None, "spread_text": "", "total": None, "odds_source": ""}]
+        got = nba_slate.keep_lines(new, old)
+        self.assertEqual((got[0]["spread"], got[0]["spread_text"], got[0]["total"]), (-9.5, "PHI -9.5", 221.5))
+        self.assertIsNone(got[1]["spread"])
+
     def test_parse_scoreboard(self):
         sb = {"events": [{"id": "9", "date": "2026-11-03T00:30Z", "season": {"type": 2},
                           "status": {"type": {"state": "pre"}},

@@ -78,6 +78,18 @@ def status_changes(old_inj, new_inj, stamp):
     return changes
 
 
+def keep_lines(games, old_games):
+    """ESPN drops the spread and total once a game starts. Keep the last pre-game line (12 Nov: two legs were on a
+    team that lost by 34 and there was no saved spread to test a big-underdog rule with)."""
+    old = {g.get("event"): g for g in old_games or []}
+    for g in games:
+        o = old.get(g.get("event"))
+        if g.get("spread") is None and o and o.get("spread") is not None:
+            for k in ("spread_text", "spread", "total", "odds_source"):
+                g[k] = o.get(k)
+    return games
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--date", default=today_et().isoformat())
@@ -94,6 +106,7 @@ def main():
     out_path = path("data", "nba", "slate", f"{d.isoformat()}.json")
     stamp = dt.datetime.now(ET).strftime("%Y-%m-%d %H:%M")
     old = json.load(open(out_path)) if os.path.exists(out_path) else {}
+    games = keep_lines(games, old.get("games"))
     changes = old.get("status_changes", [])
     if old.get("injuries") and injuries:
         changes += status_changes(old["injuries"], injuries, stamp)
