@@ -1,14 +1,11 @@
 # NBA board, 2026-11-11
 
-Slate updated 2026-11-11 22:19 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-11 22:53 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 20:30 Milwaukee Bucks: Tyler Herro Day-To-Day → removed from report
-- 20:30 New Orleans Pelicans: Trey Murphy III Day-To-Day → Out
-- 20:30 San Antonio Spurs: Devin Vassell Day-To-Day → Out
 - 20:30 Toronto Raptors: Collin Murray-Boyles Day-To-Day → removed from report
 - 20:30 Toronto Raptors: Immanuel Quickley Day-To-Day → removed from report
 - 20:30 Utah Jazz: Keyonte George Day-To-Day → removed from report
@@ -21,6 +18,9 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 22:19 Los Angeles Lakers: Austin Reaves not listed → Day-To-Day
 - 22:19 Milwaukee Bucks: Ryan Rollins not listed → Day-To-Day
 - 22:19 Toronto Raptors: Trayce Jackson-Davis Out → Day-To-Day
+- 22:53 Los Angeles Lakers: Luka Doncic not listed → Day-To-Day
+- 22:53 Los Angeles Lakers: Austin Reaves Day-To-Day → Out
+- 22:53 Los Angeles Lakers: Collin Sexton not listed → Day-To-Day
 
 ## WSH @ IND, 19:00 ET
 Line: n/a, total – (ESPN).
@@ -217,19 +217,19 @@ Line: n/a, total – (ESPN).
 
 ## LAL @ MIL, 20:00 ET
 Line: n/a, total – (ESPN).
-**LAL** (1 rest day). Out: Quentin Grimes. Freed minutes: 26.1.
+**LAL** (1 rest day). Out: Austin Reaves, Quentin Grimes. Freed minutes: 62.3.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
-| Austin Reaves | Day-To-Day | 37 (2.3) → 36.4 (28.7) | 27/25.3 → 26 (15–38) | 3.2/3.4 → 4 (1–7) | 3.8/4.6 → 4 (2–8) | 2.4/2.4 → 2 (0–5) | 35 (21–49) |
-| Luka Doncic | – | 36.6 (2.4) → 36.7 (29) | 42.4/39.3 → 38 (24–53) | 8.8/7.8 → 8 (4–12) | 8.2/7.9 → 8 (4–13) | 5.6/5.5 → 4 (2–8) | 54 (36–73) |
+| Austin Reaves | Out | 37 (2.3) | 27/25.3 | 3.2/3.4 | 3.8/4.6 | 2.4/2.4 | – |
+| Luka Doncic | Day-To-Day | 36.6 (2.4) → 36.7 (29) | 42.4/39.3 → 38 (24–53) | 8.8/7.8 → 8 (4–12) | 8.2/7.9 → 8 (4–13) | 5.6/5.5 → 4 (2–8) | 54 (36–73) |
 | Walker Kessler | – | 31.4 (2.9) → 31 (23.3) | 15.8/14.9 → 15 (7–23) | 12.2/10.8 → 11 (6–17) | 2.4/1.7 → 2 (1–5) | 0/0 → 0 (0–1) | 29 (16–42) |
 | Jake LaRavia | – | 26.6 (5.7) → 26.7 (19) | 6.4/6.1 → 7 (2–13) | 3.6/3.5 → 4 (1–7) | 2.4/1.8 → 2 (0–4) | 1/1.1 → 1 (0–2) | 13 (5–22) |
 | Quentin Grimes | Out | 25.2 (5.8) | 6.8/8 | 1.4/2.5 | 2.4/2.5 | 0.8/0.7 | – |
 | Matisse Thybulle | – | 23.4 (2.8) → 23.6 (15.9) | 4.2/7 → 7 (2–13) | 1.2/1.6 → 2 (0–4) | 1/1.1 → 1 (0–3) | 1/1.7 → 1 (0–3) | 10 (3–17) |
 | Sandro Mamukelashvili | – | 23.4 (4.7) → 23.7 (16) | 10.4/9.8 → 11 (4–19) | 4.6/4.6 → 5 (2–9) | 1.8/1.6 → 2 (0–4) | 1.8/1.3 → 1 (0–4) | 18 (8–29) |
 | Ziaire Williams | – | 21.4 (5.1) → 23.8 (16.1) | 11.2/11.2 → 11 (4–19) | 2.6/2.8 → 2 (0–5) | 1.2/1.7 → 1 (0–3) | 2.4/2.1 → 2 (0–4) | 15 (6–24) |
-| Collin Sexton | – | 18.8 (4.5) → 20 (12.3) | 10.2/10.3 → 12 (4–21) | 1.6/1.9 → 2 (0–4) | 3/2.5 → 3 (1–6) | 0.8/1 → 1 (0–3) | 17 (7–28) |
+| Collin Sexton | Day-To-Day | 18.8 (4.5) → 20 (12.3) | 10.2/10.3 → 12 (4–21) | 1.6/1.9 → 2 (0–4) | 3/2.5 → 3 (1–6) | 0.8/1 → 1 (0–3) | 17 (7–28) |
 
 **MIL** (back-to-back). Out: Myles Turner. Freed minutes: 27.1.
 
