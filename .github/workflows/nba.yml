@@ -16,6 +16,10 @@ on:
         description: "Also fetch box scores"
         type: boolean
         default: true
+      box_end:
+        description: "Box scores through this date (YYYY-MM-DD). Blank = yesterday. Today = tonight's finished games, for grading."
+        required: false
+        default: ""
 permissions:
   contents: write
 concurrency:
@@ -35,7 +39,9 @@ jobs:
           python3 -I tests/test_screener.py
       - name: Box scores
         if: github.event.schedule == '20 10 * * *' || (github.event_name == 'workflow_dispatch' && inputs.boxscores)
-        run: python3 -I pipeline/nba_boxscores.py
+        run: |
+          E="${{ inputs.box_end }}"
+          python3 -I pipeline/nba_boxscores.py ${E:+--end "$E"}
       - name: NFL game logs (for the leg checks; must never block the NBA board)
         if: github.event.schedule == '20 10 * * *' || (github.event_name == 'workflow_dispatch' && inputs.boxscores)
         run: python3 -I pipeline/nfl_boxscores.py || echo "nfl box scores failed"
