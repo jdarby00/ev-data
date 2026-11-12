@@ -6,7 +6,7 @@
    "api_away": "Los Angeles Lakers",
    "api_home": "Milwaukee Bucks",
    "away": "Lakers",
-   "commence_time": "2026-11-12T01:10:00Z",
+   "commence_time": "2026-11-12T01:12:00Z",
    "event_id": "c04e54e9e028676cd8b23259bb4364ff",
    "home": "Bucks",
    "issues": [],
@@ -4322,11 +4322,12 @@
    "api_away": "Los Angeles Lakers",
    "api_home": "Milwaukee Bucks",
    "away": "Lakers",
-   "commence_time": "2026-11-12T01:10:00Z",
+   "commence_time": "2026-11-12T01:12:00Z",
    "event_id": "c04e54e9e028676cd8b23259bb4364ff",
    "home": "Bucks",
    "issues": [
-    "2026-11-12T00:58:10Z close skipped: daily cap reached (30/30)"
+    "2026-11-12T00:58:10Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points_alternate",
    "players": [],
@@ -12870,7 +12871,7 @@
    "api_away": "Los Angeles Lakers",
    "api_home": "Milwaukee Bucks",
    "away": "Lakers",
-   "commence_time": "2026-11-12T01:10:00Z",
+   "commence_time": "2026-11-12T01:12:00Z",
    "event_id": "c04e54e9e028676cd8b23259bb4364ff",
    "home": "Bucks",
    "issues": [],
@@ -22990,11 +22991,12 @@
    "api_away": "Los Angeles Lakers",
    "api_home": "Milwaukee Bucks",
    "away": "Lakers",
-   "commence_time": "2026-11-12T01:10:00Z",
+   "commence_time": "2026-11-12T01:12:00Z",
    "event_id": "c04e54e9e028676cd8b23259bb4364ff",
    "home": "Bucks",
    "issues": [
-    "2026-11-12T00:58:10Z close skipped: daily cap reached (30/30)"
+    "2026-11-12T00:58:10Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_threes_alternate",
    "players": [],
@@ -27530,7 +27532,7 @@
    "api_away": "Brooklyn Nets",
    "api_home": "New Orleans Pelicans",
    "away": "Nets",
-   "commence_time": "2026-11-12T01:10:00Z",
+   "commence_time": "2026-11-12T01:10:34Z",
    "event_id": "e6a37eea1dddcbd0384c81237e81f47f",
    "home": "Pelicans",
    "issues": [],
@@ -45165,11 +45167,12 @@
    "api_away": "Brooklyn Nets",
    "api_home": "New Orleans Pelicans",
    "away": "Nets",
-   "commence_time": "2026-11-12T01:10:00Z",
+   "commence_time": "2026-11-12T01:10:34Z",
    "event_id": "e6a37eea1dddcbd0384c81237e81f47f",
    "home": "Pelicans",
    "issues": [
-    "2026-11-12T00:58:10Z close skipped: daily cap reached (30/30)"
+    "2026-11-12T00:58:10Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points_assists_alternate",
    "players": [],
@@ -48782,7 +48785,7 @@
    "api_away": "Brooklyn Nets",
    "api_home": "New Orleans Pelicans",
    "away": "Nets",
-   "commence_time": "2026-11-12T01:10:00Z",
+   "commence_time": "2026-11-12T01:10:34Z",
    "event_id": "e6a37eea1dddcbd0384c81237e81f47f",
    "home": "Pelicans",
    "issues": [],
@@ -58855,11 +58858,12 @@
    "api_away": "Brooklyn Nets",
    "api_home": "New Orleans Pelicans",
    "away": "Nets",
-   "commence_time": "2026-11-12T01:10:00Z",
+   "commence_time": "2026-11-12T01:10:34Z",
    "event_id": "e6a37eea1dddcbd0384c81237e81f47f",
    "home": "Pelicans",
    "issues": [
-    "2026-11-12T00:58:10Z close skipped: daily cap reached (30/30)"
+    "2026-11-12T00:58:10Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_threes_alternate",
    "players": [],
@@ -74356,7 +74360,7 @@
    "api_away": "San Antonio Spurs",
    "api_home": "Chicago Bulls",
    "away": "Spurs",
-   "commence_time": "2026-11-12T01:10:00Z",
+   "commence_time": "2026-11-12T01:10:36Z",
    "event_id": "8e0fdbf07b1f288b00ec5b370f6c1e2d",
    "home": "Bulls",
    "issues": [],
@@ -79263,7 +79267,7 @@
    "api_away": "San Antonio Spurs",
    "api_home": "Chicago Bulls",
    "away": "Spurs",
-   "commence_time": "2026-11-12T01:10:00Z",
+   "commence_time": "2026-11-12T01:10:36Z",
    "event_id": "8e0fdbf07b1f288b00ec5b370f6c1e2d",
    "home": "Bulls",
    "issues": [],
@@ -82906,7 +82910,7 @@
    "api_away": "San Antonio Spurs",
    "api_home": "Chicago Bulls",
    "away": "Spurs",
-   "commence_time": "2026-11-12T01:10:00Z",
+   "commence_time": "2026-11-12T01:10:36Z",
    "event_id": "8e0fdbf07b1f288b00ec5b370f6c1e2d",
    "home": "Bulls",
    "issues": [],
@@ -122345,5 +122349,5 @@
  "spent_month": 226,
  "spent_today": 30,
  "stop": null,
- "updated": "2026-11-12T00:58:10Z"
+ "updated": "2026-11-12T01:36:28Z"
 }
