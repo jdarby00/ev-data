@@ -1,7 +1,10 @@
 {
  "date": "2026-11-12",
- "done": {},
+ "done": {
+  "box_0520": "2026-11-12T10:20:00Z"
+ },
  "log": [
-  "2026-11-12T06:54:40Z hand-over to a fresh clock run"
+  "2026-11-12T06:54:40Z hand-over to a fresh clock run",
+  "2026-11-12T10:20:00Z box_0520: dispatched jdarby00/ev-data nba.yml (HTTP 204)"
  ]
 }
