@@ -1,9 +1,9 @@
 {
- "built_at": "2026-11-12T18:50:28Z",
- "candidates": 1940,
+ "built_at": "2026-11-12T19:35:20Z",
+ "candidates": 2010,
  "slices": {
   "all": {
-   "n": 1940,
+   "n": 2010,
    "settled": 1546,
    "win_rate": 0.6184,
    "avg_chance": 0.6184,
@@ -37,7 +37,7 @@
    "move_games": 36
   },
   "lane = likely": {
-   "n": 1234,
+   "n": 1294,
    "settled": 969,
    "win_rate": 0.7059,
    "avg_chance": 0.6914,
@@ -73,7 +73,7 @@
    "iid_verdict": "negative CLV"
   },
   "lane = value": {
-   "n": 236,
+   "n": 238,
    "settled": 140,
    "win_rate": 0.4571,
    "avg_chance": 0.4807,
@@ -109,7 +109,7 @@
    "iid_verdict": "positive CLV"
   },
   "lane = early": {
-   "n": 470,
+   "n": 478,
    "settled": 437,
    "win_rate": 0.476,
    "avg_chance": 0.5006,
@@ -151,7 +151,7 @@
    "iid_verdict": null
   },
   "sport = nba": {
-   "n": 1834,
+   "n": 1904,
    "settled": 1546,
    "win_rate": 0.6184,
    "avg_chance": 0.6184,
@@ -205,7 +205,7 @@
    "iid_verdict": null
   },
   "tier = Straight": {
-   "n": 455,
+   "n": 488,
    "settled": 340,
    "win_rate": 0.6412,
    "avg_chance": 0.6209,
@@ -277,7 +277,7 @@
    "iid_verdict": null
   },
   "tier = Value": {
-   "n": 680,
+   "n": 690,
    "settled": 552,
    "win_rate": 0.4674,
    "avg_chance": 0.4925,
@@ -313,7 +313,7 @@
    "iid_verdict": "negative CLV"
   },
   "tier = Best bet": {
-   "n": 779,
+   "n": 806,
    "settled": 629,
    "win_rate": 0.7409,
    "avg_chance": 0.7296,
@@ -349,7 +349,7 @@
    "iid_verdict": "negative CLV"
   },
   "stat/market = moneyline": {
-   "n": 32,
+   "n": 34,
    "settled": 16,
    "win_rate": 0.8125,
    "avg_chance": 0.6347,
@@ -385,7 +385,7 @@
    "iid_verdict": null
   },
   "stat/market = ast": {
-   "n": 224,
+   "n": 236,
    "settled": 196,
    "win_rate": 0.6224,
    "avg_chance": 0.5735,
@@ -421,7 +421,7 @@
    "iid_verdict": "negative CLV"
   },
   "stat/market = tpm": {
-   "n": 368,
+   "n": 374,
    "settled": 334,
    "win_rate": 0.5719,
    "avg_chance": 0.6064,
@@ -457,7 +457,7 @@
    "iid_verdict": "negative CLV"
   },
   "stat/market = pts": {
-   "n": 330,
+   "n": 339,
    "settled": 274,
    "win_rate": 0.5949,
    "avg_chance": 0.6029,
@@ -493,7 +493,7 @@
    "iid_verdict": "negative CLV"
   },
   "stat/market = reb": {
-   "n": 260,
+   "n": 273,
    "settled": 226,
    "win_rate": 0.5531,
    "avg_chance": 0.5675,
@@ -529,7 +529,7 @@
    "iid_verdict": "negative CLV"
   },
   "stat/market = stl": {
-   "n": 83,
+   "n": 86,
    "settled": 70,
    "win_rate": 0.7571,
    "avg_chance": 0.6274,
@@ -565,7 +565,7 @@
    "iid_verdict": "negative CLV"
   },
   "stat/market = blk": {
-   "n": 23,
+   "n": 25,
    "settled": 22,
    "win_rate": 0.7273,
    "avg_chance": 0.6114,
@@ -601,7 +601,7 @@
    "iid_verdict": null
   },
   "stat/market = pra": {
-   "n": 202,
+   "n": 207,
    "settled": 173,
    "win_rate": 0.6185,
    "avg_chance": 0.6377,
@@ -637,7 +637,7 @@
    "iid_verdict": "negative CLV"
   },
   "stat/market = ra": {
-   "n": 99,
+   "n": 104,
    "settled": 72,
    "win_rate": 0.5833,
    "avg_chance": 0.6975,
@@ -715,7 +715,7 @@
    "iid_verdict": null
   },
   "stat/market = pa": {
-   "n": 100,
+   "n": 107,
    "settled": 75,
    "win_rate": 0.7467,
    "avg_chance": 0.7373,
@@ -733,7 +733,7 @@
    "iid_verdict": null
   },
   "stat/market = pr": {
-   "n": 120,
+   "n": 126,
    "settled": 88,
    "win_rate": 0.7727,
    "avg_chance": 0.7305,
@@ -751,7 +751,7 @@
    "iid_verdict": null
   },
   "side = home": {
-   "n": 15,
+   "n": 17,
    "settled": 9,
    "win_rate": 0.6667,
    "avg_chance": 0.6295,
@@ -787,7 +787,7 @@
    "iid_verdict": null
   },
   "side = under": {
-   "n": 709,
+   "n": 724,
    "settled": 641,
    "win_rate": 0.5647,
    "avg_chance": 0.5513,
@@ -823,7 +823,7 @@
    "iid_verdict": "negative CLV"
   },
   "side = over": {
-   "n": 1111,
+   "n": 1164,
    "settled": 889,
    "win_rate": 0.6535,
    "avg_chance": 0.6665,
@@ -913,7 +913,7 @@
    "iid_verdict": null
   },
   "book = draftkings": {
-   "n": 1373,
+   "n": 1436,
    "settled": 1122,
    "win_rate": 0.6702,
    "avg_chance": 0.6517,
@@ -949,7 +949,7 @@
    "iid_verdict": "negative CLV"
   },
   "book = fanduel": {
-   "n": 567,
+   "n": 574,
    "settled": 424,
    "win_rate": 0.4811,
    "avg_chance": 0.5302,
@@ -985,7 +985,7 @@
    "iid_verdict": "negative CLV"
   },
   "price = -200 or shorter": {
-   "n": 950,
+   "n": 989,
    "settled": 739,
    "win_rate": 0.7199,
    "avg_chance": 0.7157,
@@ -1021,7 +1021,7 @@
    "iid_verdict": "negative CLV"
   },
   "price = -129 to +100": {
-   "n": 306,
+   "n": 310,
    "settled": 288,
    "win_rate": 0.5104,
    "avg_chance": 0.5248,
@@ -1057,7 +1057,7 @@
    "iid_verdict": "negative CLV"
   },
   "price = +101 or longer": {
-   "n": 392,
+   "n": 398,
    "settled": 281,
    "win_rate": 0.4235,
    "avg_chance": 0.4635,
@@ -1093,7 +1093,7 @@
    "iid_verdict": "positive CLV"
   },
   "price = -199 to -130": {
-   "n": 292,
+   "n": 313,
    "settled": 238,
    "win_rate": 0.6639,
    "avg_chance": 0.6124,
@@ -1129,7 +1129,7 @@
    "iid_verdict": "negative CLV"
   },
   "chance = 60-70%": {
-   "n": 660,
+   "n": 707,
    "settled": 493,
    "win_rate": 0.6572,
    "avg_chance": 0.6345,
@@ -1165,7 +1165,7 @@
    "iid_verdict": "negative CLV"
   },
   "chance = 50-60%": {
-   "n": 354,
+   "n": 358,
    "settled": 330,
    "win_rate": 0.5152,
    "avg_chance": 0.5247,
@@ -1201,7 +1201,7 @@
    "iid_verdict": "negative CLV"
   },
   "chance = 40-50%": {
-   "n": 256,
+   "n": 262,
    "settled": 236,
    "win_rate": 0.4153,
    "avg_chance": 0.4606,
@@ -1321,7 +1321,7 @@
    "iid_verdict": null
   },
   "chance = 70-80%": {
-   "n": 519,
+   "n": 532,
    "settled": 426,
    "win_rate": 0.7512,
    "avg_chance": 0.7428,
@@ -1350,7 +1350,7 @@
    "iid_verdict": "negative ROI"
   },
   "edge = under 0%": {
-   "n": 1229,
+   "n": 1288,
    "settled": 964,
    "win_rate": 0.7054,
    "avg_chance": 0.6918,
@@ -1386,7 +1386,7 @@
    "iid_verdict": "negative CLV"
   },
   "edge = 3-6%": {
-   "n": 147,
+   "n": 149,
    "settled": 115,
    "win_rate": 0.4609,
    "avg_chance": 0.4804,
@@ -1422,7 +1422,7 @@
    "iid_verdict": "positive CLV"
   },
   "edge = 0-3%": {
-   "n": 474,
+   "n": 483,
    "settled": 441,
    "win_rate": 0.4785,
    "avg_chance": 0.502,
@@ -1530,7 +1530,7 @@
    "iid_verdict": "negative CLV"
   },
   "flagged = 6h+ before": {
-   "n": 924,
+   "n": 944,
    "settled": 610,
    "win_rate": 0.6984,
    "avg_chance": 0.6591,
@@ -1566,7 +1566,7 @@
    "iid_verdict": "negative CLV"
   },
   "flagged = 2-6h before": {
-   "n": 679,
+   "n": 729,
    "settled": 628,
    "win_rate": 0.5653,
    "avg_chance": 0.6032,
@@ -1602,7 +1602,7 @@
    "iid_verdict": "negative CLV"
   },
   "minutes moved = no": {
-   "n": 743,
+   "n": 768,
    "settled": 554,
    "win_rate": 0.6047,
    "avg_chance": 0.6199,
@@ -1638,7 +1638,7 @@
    "iid_verdict": "negative CLV"
   },
   "minutes moved = yes": {
-   "n": 1197,
+   "n": 1242,
    "settled": 992,
    "win_rate": 0.626,
    "avg_chance": 0.6176,
@@ -1674,7 +1674,7 @@
    "iid_verdict": "negative CLV"
   },
   "status change = no": {
-   "n": 1655,
+   "n": 1720,
    "settled": 1267,
    "win_rate": 0.6322,
    "avg_chance": 0.6379,
@@ -1710,7 +1710,7 @@
    "iid_verdict": "negative CLV"
   },
   "status change = yes": {
-   "n": 285,
+   "n": 290,
    "settled": 279,
    "win_rate": 0.5556,
    "avg_chance": 0.53,
@@ -1752,7 +1752,7 @@
    "iid_verdict": null
   },
   "lane = value, sport = nba": {
-   "n": 144,
+   "n": 146,
    "settled": 140,
    "win_rate": 0.4571,
    "avg_chance": 0.4807,
@@ -1788,7 +1788,7 @@
    "iid_verdict": "positive CLV"
   },
   "lane = early, sport = nba": {
-   "n": 470,
+   "n": 478,
    "settled": 437,
    "win_rate": 0.476,
    "avg_chance": 0.5006,
@@ -1824,7 +1824,7 @@
    "iid_verdict": "negative CLV"
   },
   "lane = likely, sport = nba": {
-   "n": 1220,
+   "n": 1280,
    "settled": 969,
    "win_rate": 0.7059,
    "avg_chance": 0.6914,
@@ -1884,7 +1884,7 @@
    "iid_verdict": null
   },
   "lane = likely, side = home": {
-   "n": 15,
+   "n": 17,
    "settled": 9,
    "win_rate": 0.6667,
    "avg_chance": 0.6295,
@@ -1920,7 +1920,7 @@
    "iid_verdict": null
   },
   "lane = value, side = under": {
-   "n": 71,
+   "n": 72,
    "settled": 67,
    "win_rate": 0.5522,
    "avg_chance": 0.5014,
@@ -1956,7 +1956,7 @@
    "iid_verdict": null
   },
   "lane = value, side = over": {
-   "n": 77,
+   "n": 78,
    "settled": 73,
    "win_rate": 0.3699,
    "avg_chance": 0.4618,
@@ -1992,7 +1992,7 @@
    "iid_verdict": "positive CLV"
   },
   "lane = early, side = under": {
-   "n": 353,
+   "n": 359,
    "settled": 324,
    "win_rate": 0.5,
    "avg_chance": 0.5051,
@@ -2028,7 +2028,7 @@
    "iid_verdict": "negative CLV"
   },
   "lane = early, side = over": {
-   "n": 117,
+   "n": 119,
    "settled": 113,
    "win_rate": 0.4071,
    "avg_chance": 0.4875,
@@ -2064,7 +2064,7 @@
    "iid_verdict": "negative CLV"
   },
   "lane = likely, side = under": {
-   "n": 285,
+   "n": 293,
    "settled": 250,
    "win_rate": 0.652,
    "avg_chance": 0.6244,
@@ -2136,7 +2136,7 @@
    "iid_verdict": null
   },
   "lane = likely, side = over": {
-   "n": 917,
+   "n": 967,
    "settled": 703,
    "win_rate": 0.7226,
    "avg_chance": 0.7166,
@@ -2196,7 +2196,7 @@
    "iid_verdict": null
   },
   "sport = nba, stat/market = ast": {
-   "n": 224,
+   "n": 236,
    "settled": 196,
    "win_rate": 0.6224,
    "avg_chance": 0.5735,
@@ -2232,7 +2232,7 @@
    "iid_verdict": "negative CLV"
   },
   "sport = nba, stat/market = tpm": {
-   "n": 368,
+   "n": 374,
    "settled": 334,
    "win_rate": 0.5719,
    "avg_chance": 0.6064,
@@ -2268,7 +2268,7 @@
    "iid_verdict": "negative CLV"
   },
   "sport = nba, stat/market = pts": {
-   "n": 330,
+   "n": 339,
    "settled": 274,
    "win_rate": 0.5949,
    "avg_chance": 0.6029,
@@ -2304,7 +2304,7 @@
    "iid_verdict": "negative CLV"
   },
   "sport = nba, stat/market = reb": {
-   "n": 260,
+   "n": 273,
    "settled": 226,
    "win_rate": 0.5531,
    "avg_chance": 0.5675,
@@ -2340,7 +2340,7 @@
    "iid_verdict": "negative CLV"
   },
   "sport = nba, stat/market = stl": {
-   "n": 83,
+   "n": 86,
    "settled": 70,
    "win_rate": 0.7571,
    "avg_chance": 0.6274,
@@ -2376,7 +2376,7 @@
    "iid_verdict": "negative CLV"
   },
   "sport = nba, stat/market = moneyline": {
-   "n": 25,
+   "n": 27,
    "settled": 16,
    "win_rate": 0.8125,
    "avg_chance": 0.6347,
@@ -2412,7 +2412,7 @@
    "iid_verdict": null
   },
   "sport = nba, stat/market = blk": {
-   "n": 23,
+   "n": 25,
    "settled": 22,
    "win_rate": 0.7273,
    "avg_chance": 0.6114,
@@ -2448,7 +2448,7 @@
    "iid_verdict": null
   },
   "sport = nba, stat/market = pra": {
-   "n": 202,
+   "n": 207,
    "settled": 173,
    "win_rate": 0.6185,
    "avg_chance": 0.6377,
@@ -2484,7 +2484,7 @@
    "iid_verdict": "negative CLV"
   },
   "sport = nba, stat/market = ra": {
-   "n": 99,
+   "n": 104,
    "settled": 72,
    "win_rate": 0.5833,
    "avg_chance": 0.6975,
@@ -2568,7 +2568,7 @@
    "iid_verdict": null
   },
   "sport = nba, stat/market = pa": {
-   "n": 100,
+   "n": 107,
    "settled": 75,
    "win_rate": 0.7467,
    "avg_chance": 0.7373,
@@ -2586,7 +2586,7 @@
    "iid_verdict": null
   },
   "sport = nba, stat/market = pr": {
-   "n": 120,
+   "n": 126,
    "settled": 88,
    "win_rate": 0.7727,
    "avg_chance": 0.7305,
