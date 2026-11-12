@@ -1,12 +1,12 @@
 # Scoreboard
 
-Built Wed 11 Nov 2026, 5:16 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
+Built Wed 11 Nov 2026, 8:30 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
 
 ## Jake's real money
 
 | Contestant | Bets | W–L–P–V | Profit | ROI | Bankroll | Max drawdown | CLV (n, avg, beat close) | Pending |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| jake | 9 | 0–9–0–0 | $-55.00 | -100.0% | $-55.00 | $55.00 | – | 1 |
+| jake | 9 | 0–9–0–0 | $-55.00 | -100.0% | $-55.00 | $55.00 | – | 2 |
 
 ## Paper contestants at real prices (start $500, logged stake)
 
@@ -47,10 +47,10 @@ CLV is the expected value of the bet price against the de-vigged closing price (
 | chalk | 13 | 2–3–0–8 | $-9.61 | -38.4% | $490.39 | $10.00 | – | 1 |
 | boosted_50 | 3 | 0–2–0–1 | $-10.00 | -100.0% | $490.00 | $10.00 | – | 1 |
 | boosted_20 | 2 | 0–2–0–0 | $-10.00 | -100.0% | $490.00 | $10.00 | 1, -10.2%, – | 0 |
-| boost_parlay_20 | 2 | 0–2–0–0 | $-10.00 | -100.0% | $490.00 | $10.00 | – | 0 |
-| boost_parlay_50 | 2 | 0–2–0–0 | $-10.00 | -100.0% | $490.00 | $10.00 | – | 0 |
+| boost_parlay_20 | 2 | 0–2–0–0 | $-10.00 | -100.0% | $490.00 | $10.00 | – | 1 |
+| boost_parlay_50 | 2 | 0–2–0–0 | $-10.00 | -100.0% | $490.00 | $10.00 | – | 1 |
 | always_under | 38 | 9–11–0–18 | $-16.88 | -16.9% | $483.12 | $41.84 | – | 0 |
-| card | 8 | 2–6–0–0 | $-22.80 | -57.0% | $477.20 | $27.80 | 3, -4.7%, 100% | 1 |
+| card | 8 | 2–6–0–0 | $-22.80 | -57.0% | $477.20 | $27.80 | 3, -4.7%, 100% | 2 |
 
 ## Calibration (real-price bets with a final win chance)
 
@@ -66,4 +66,4 @@ Brier score 0.259 (a coin flip is 0.250).
 ## Open items
 
 - a6ac9837fa5c: withdrawal after the start ignored
-- 8 pending (waiting for box scores or a manual settle).
+- 12 pending (waiting for box scores or a manual settle).
