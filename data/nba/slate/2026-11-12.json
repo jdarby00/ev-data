@@ -1,6 +1,6 @@
 {
  "date": "2026-11-12",
- "updated_et": "2026-11-12 05:20",
+ "updated_et": "2026-11-12 13:21",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -12,10 +12,10 @@
    "away_name": "Toronto Raptors",
    "home_name": "Philadelphia 76ers",
    "state": "pre",
-   "spread_text": "PHI -9.5",
-   "spread": -9.5,
-   "total": 221.5,
-   "odds_source": "DraftKings",
+   "spread_text": "PHI -7.5",
+   "spread": -7.5,
+   "total": 223.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -28,8 +28,8 @@
    "state": "pre",
    "spread_text": "DET -10.5",
    "spread": 10.5,
-   "total": 221.5,
-   "odds_source": "DraftKings",
+   "total": 220.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -42,8 +42,8 @@
    "state": "pre",
    "spread_text": "MIN -5.5",
    "spread": -5.5,
-   "total": 227.5,
-   "odds_source": "DraftKings",
+   "total": 225.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -57,7 +57,7 @@
    "spread_text": "PHX -6.5",
    "spread": -6.5,
    "total": 214.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   }
  ],
@@ -170,32 +170,32 @@
   ],
   "Philadelphia 76ers": [
    {
-    "player": "Adem Bona",
-    "status": "Out",
-    "detail": "Bona (back) is out for Thursday's game against the Raptors, Kyle Neubeck of AllPHLY.com reports.",
-    "type": "out",
-    "updated": "2026-11-11T22:10Z"
-   },
-   {
-    "player": "Joel Embiid",
-    "status": "Day-To-Day",
-    "detail": "Embiid (foot) is listed as questionable for Thursday's game against Toronto, Adam Aaronson of PhillyVoice.com reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-11T22:06Z"
-   },
-   {
     "player": "LeBron James",
-    "status": "Day-To-Day",
-    "detail": "James (back) is questionable for Thursday's game against the Raptors, Kyle Neubeck of AllPHLY.com reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-11T22:06Z"
+    "status": "Out",
+    "detail": "James (back) is out for Thursday's game against Toronto.",
+    "type": "out",
+    "updated": "2026-11-12T18:07Z"
    },
    {
     "player": "Dominick Barlow",
     "status": "Out",
-    "detail": "Head coach Nick Nurse said Wednesday that Barlow (back) likely needs another 10-12 days before he's cleared to return to the court, Derek Bodner of AllPHLY.com reports.",
+    "detail": "Barlow (back) participated in Thursday's shootaround but doesn't have a timeline to return to game action, Ky Carlin of USA Today reports.",
     "type": "out",
-    "updated": "2026-11-04T22:41Z"
+    "updated": "2026-11-12T16:37Z"
+   },
+   {
+    "player": "Adem Bona",
+    "status": "Out",
+    "detail": "Bona (back) will be re-evaluated in approximately one week after seeing a specialist, Ky Carlin of USA Today reports.",
+    "type": "out",
+    "updated": "2026-11-12T16:36Z"
+   },
+   {
+    "player": "Joel Embiid",
+    "status": "Day-To-Day",
+    "detail": "Embiid (foot) remains questionable for Thursday's game against the Raptors, but he participated in the team's morning shootaround, Ky Carlin of USA Today reports.",
+    "type": "day-to-day",
+    "updated": "2026-11-12T16:34Z"
    },
    {
     "player": "Ariel Hukporti",
@@ -217,10 +217,10 @@
   "Toronto Raptors": [
    {
     "player": "Trayce Jackson-Davis",
-    "status": "Day-To-Day",
+    "status": "Out",
     "detail": "Jackson-Davis (illness) has been ruled out for Wednesday's game against the Celtics, Blake Murphy of Sportsnet.ca reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-12T03:01Z"
+    "type": "out",
+    "updated": "2026-11-12T18:05Z"
    },
    {
     "player": "Kawhi Leonard",
@@ -275,5 +275,20 @@
    }
   ]
  },
- "status_changes": []
+ "status_changes": [
+  {
+   "at_et": "2026-11-12 13:21",
+   "team": "Philadelphia 76ers",
+   "player": "LeBron James",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-12 13:21",
+   "team": "Toronto Raptors",
+   "player": "Trayce Jackson-Davis",
+   "from": "Day-To-Day",
+   "to": "Out"
+  }
+ ]
 }

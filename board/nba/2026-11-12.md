@@ -1,16 +1,21 @@
 # NBA board, 2026-11-12
 
-Slate updated 2026-11-12 05:20 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-12 13:21 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
+## Status changes today
+
+- 13:21 Philadelphia 76ers: LeBron James Day-To-Day → Out
+- 13:21 Toronto Raptors: Trayce Jackson-Davis Day-To-Day → Out
+
 ## TOR @ PHI, 19:00 ET
-Line: PHI -9.5, total 221.5 (DraftKings).
-**TOR** (back-to-back). Out: Scottie Barnes, Kawhi Leonard. Freed minutes: 59.4. Out all season so far (already in the lines): Nate Bittle.
+Line: PHI -7.5, total 223.5 (Draft Kings).
+**TOR** (back-to-back). Out: Scottie Barnes, Kawhi Leonard, Trayce Jackson-Davis. Freed minutes: 66.8. Out all season so far (already in the lines): Nate Bittle.
 - Without Scottie Barnes: Alijah Martin min +15.7, pts +10.4, reb +1.6, ast +0.4 (n=3 vs 7)
+- Without Trayce Jackson-Davis: Alijah Martin min +14.7, pts +16.4, reb +1.1, ast -0.6 (n=2 vs 8)
 - Without Scottie Barnes: Jakob Poeltl min +11.3, pts +9.1, reb +3.6, ast +0.7 (n=3 vs 6)
 - Without Kawhi Leonard: Alijah Martin min +10.9, pts +6.1, reb +2, ast +1.2 (n=8 vs 2)
-- Without Scottie Barnes: Jamal Shead min +9.2, pts +5.5, reb +0.7, ast +5.6 (n=3 vs 8)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -26,18 +31,18 @@ Line: PHI -9.5, total 221.5 (DraftKings).
 | Alijah Martin | – | 16.6 (8.7) → 14.5 (3.5) | 9.8/6.4 → 6 (0–13) | 2.2/1.6 → 2 (0–4) | 0.8/1 → 1 (0–3) | 2/1.2 → 1 (0–3) | 9 (0–19) |
 | Allen Graves | – | 13.6 (4.7) → 14.1 (6.4) | 4.8/5 → 5 (0–11) | 2/2.5 → 2 (0–5) | 0.8/0.7 → 1 (0–2) | 1/0.6 → 1 (0–2) | 9 (2–17) |
 
-**PHI** (1 rest day). Out: Adem Bona. Freed minutes: 14.2. Out all season so far (already in the lines): Dominick Barlow, Ariel Hukporti.
+**PHI** (1 rest day). Out: LeBron James, Adem Bona. Freed minutes: 46.7. Out all season so far (already in the lines): Dominick Barlow, Ariel Hukporti.
 - Without Adem Bona: Jabari Walker min +9, pts +2.3, reb +4.7, ast -0.3 (n=3 vs 5)
 - Without Adem Bona: Dean Wade min -5.6, pts -1.4, reb +1.9, ast -1.4 (n=3 vs 7)
-- Without Adem Bona: Anfernee Simons min -5.2, pts -1.3, reb +1.1, ast +0.2 (n=3 vs 9)
-- Without Adem Bona: Joel Embiid min -5, pts -6.3, reb -2.3, ast -2.1 (n=3 vs 7)
+- Without LeBron James: Dean Wade min +5.5, pts +2.3, reb -0.3, ast +4.1 (n=2 vs 8)
+- Without LeBron James: Jabari Walker min +5.5, pts +5.5, reb +1, ast +0 (n=2 vs 6)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Tyrese Maxey | – | 34.4 (1.8) → 35.4 (27.7) | 22.6/26.7 → 25 (15–37) | 2.6/3.5 → 3 (1–6) | 6.6/5.3 → 5 (2–9) | 2.4/2.6 → 3 (1–5) | 34 (21–49) |
 | VJ Edgecombe | – | 33.4 (2.4) → 33.6 (25.9) | 14.4/12.7 → 14 (6–22) | 4.4/6.3 → 5 (2–9) | 3.6/3.1 → 3 (1–6) | 1.8/1.7 → 2 (0–4) | 23 (12–34) |
 | Jaylen Brown | – | 33 (3.7) → 33.4 (25.7) | 23.4/21.5 → 24 (13–35) | 7/6.5 → 6 (3–10) | 3.4/3.8 → 4 (1–7) | 2.4/1.9 → 2 (0–4) | 34 (20–49) |
-| LeBron James | Day-To-Day | 31.6 (1.4) → 31.9 (24.2) | 13.8/15.1 → 17 (8–26) | 7.4/7.2 → 6 (3–11) | 6/6.5 → 6 (3–10) | 0.8/0.9 → 1 (0–3) | 30 (17–43) |
+| LeBron James | Out | 31.6 (1.4) | 13.8/15.1 | 7.4/7.2 | 6/6.5 | 0.8/0.9 | – |
 | Joel Embiid | Day-To-Day | 28.6 (4.2) → 30.6 (22.9) | 16.2/17.7 → 20 (11–31) | 9.2/9.3 → 8 (4–13) | 2.4/3.8 → 3 (1–6) | 0.2/0.4 → 1 (0–2) | 32 (19–47) |
 | Dean Wade | – | 21.4 (5.7) → 22.8 (15.1) | 3.8/3.7 → 5 (0–9) | 4.4/3.7 → 4 (1–8) | 0.8/1.7 → 1 (0–3) | 0.8/0.7 → 1 (0–2) | 10 (3–18) |
 | Kentavious Caldwell-Pope | – | 17.6 (5.1) → 19.4 (11.7) | 3.8/5.2 → 6 (1–11) | 2/2.4 → 2 (0–4) | 1/1.4 → 2 (0–4) | 1/1.2 → 1 (0–2) | 10 (3–18) |
@@ -47,7 +52,7 @@ Line: PHI -9.5, total 221.5 (DraftKings).
 | Dominick Barlow | Out | none this season; last season 23.7 min, 7.7 pts | | | | |
 
 ## DET @ WSH, 19:00 ET
-Line: DET -10.5, total 221.5 (DraftKings).
+Line: DET -10.5, total 220.5 (Draft Kings).
 **DET** (2 rest days). Out: Jalen Duren, Isaiah Joe. Freed minutes: 32.7.
 - Without Jalen Duren: Daniss Jenkins min +9.3, pts +4.6, reb +0.1, ast +0.9 (n=8 vs 2)
 - Without Isaiah Joe: Paul Reed min +5.7, pts +0.6, reb -1.3, ast -0.3 (n=7 vs 3)
@@ -89,7 +94,7 @@ Line: DET -10.5, total 221.5 (DraftKings).
 | Deandre Ayton | – | 12.6 (5.3) → 14.7 (7) | 3.8/4.8 → 5 (1–11) | 5.2/4.8 → 4 (1–9) | 0.8/0.8 → 0 (0–2) | 0/0 → 0 (0–0) | 10 (3–20) |
 
 ## DAL @ MIN, 20:00 ET
-Line: MIN -5.5, total 227.5 (DraftKings).
+Line: MIN -5.5, total 225.5 (Draft Kings).
 **DAL** (2 rest days). Out: Sergio de Larrea. Freed minutes: 11.8. Out all season so far (already in the lines): Dereck Lively II, Tarik Biberovic.
 - Without Sergio de Larrea: Max Christie min -16.6, pts -6.2, reb -2, ast -2 (n=6 vs 4)
 - Without Sergio de Larrea: Zaccharie Risacher min -9.3, pts -1.4, reb -1.7, ast -0.2 (n=7 vs 4)
@@ -131,7 +136,7 @@ Line: MIN -5.5, total 227.5 (DraftKings).
 | Bones Hyland | – | 13.4 (4.1) → 13.5 (5.8) | 10.6/8.5 → 8 (1–16) | 1.4/1.3 → 1 (0–3) | 2.4/2.5 → 2 (0–5) | 1.6/1.5 → 1 (0–3) | 11 (3–22) |
 
 ## CHA @ PHX, 21:00 ET
-Line: PHX -6.5, total 214.5 (DraftKings).
+Line: PHX -6.5, total 214.5 (Draft Kings).
 **CHA** (2 rest days). Out: Brandon Miller, Dennis Schroder, Kon Knueppel. Freed minutes: 67. Out all season so far (already in the lines): Grant Williams.
 - Without Dennis Schroder: Hannes Steinbach min +12.3, pts +0.3, reb +4.7, ast +0.2 (n=2 vs 3)
 - Without Dennis Schroder: Ryan Kalkbrenner min +11.2, pts +1.4, reb +5.7, ast -0.1 (n=2 vs 9)
