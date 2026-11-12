@@ -1,6 +1,6 @@
 # NBA board, 2026-11-12
 
-Slate updated 2026-11-12 13:21 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-12 14:05 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -8,9 +8,11 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 
 - 13:21 Philadelphia 76ers: LeBron James Day-To-Day → Out
 - 13:21 Toronto Raptors: Trayce Jackson-Davis Day-To-Day → Out
+- 14:05 Charlotte Hornets: Grant Williams Out → removed from report
+- 14:05 Charlotte Hornets: Moussa Diabate Day-To-Day → removed from report
 
 ## TOR @ PHI, 19:00 ET
-Line: PHI -7.5, total 223.5 (Draft Kings).
+Line: PHI -7.5, total 223.5 (DraftKings).
 **TOR** (back-to-back). Out: Scottie Barnes, Kawhi Leonard, Trayce Jackson-Davis. Freed minutes: 66.8. Out all season so far (already in the lines): Nate Bittle.
 - Without Scottie Barnes: Alijah Martin min +15.7, pts +10.4, reb +1.6, ast +0.4 (n=3 vs 7)
 - Without Trayce Jackson-Davis: Alijah Martin min +14.7, pts +16.4, reb +1.1, ast -0.6 (n=2 vs 8)
@@ -52,7 +54,7 @@ Line: PHI -7.5, total 223.5 (Draft Kings).
 | Dominick Barlow | Out | none this season; last season 23.7 min, 7.7 pts | | | | |
 
 ## DET @ WSH, 19:00 ET
-Line: DET -10.5, total 220.5 (Draft Kings).
+Line: DET -10.5, total 220.5 (DraftKings).
 **DET** (2 rest days). Out: Jalen Duren, Isaiah Joe. Freed minutes: 32.7.
 - Without Jalen Duren: Daniss Jenkins min +9.3, pts +4.6, reb +0.1, ast +0.9 (n=8 vs 2)
 - Without Isaiah Joe: Paul Reed min +5.7, pts +0.6, reb -1.3, ast -0.3 (n=7 vs 3)
@@ -94,7 +96,7 @@ Line: DET -10.5, total 220.5 (Draft Kings).
 | Deandre Ayton | – | 12.6 (5.3) → 14.7 (7) | 3.8/4.8 → 5 (1–11) | 5.2/4.8 → 4 (1–9) | 0.8/0.8 → 0 (0–2) | 0/0 → 0 (0–0) | 10 (3–20) |
 
 ## DAL @ MIN, 20:00 ET
-Line: MIN -5.5, total 225.5 (Draft Kings).
+Line: MIN -5.5, total 225.5 (DraftKings).
 **DAL** (2 rest days). Out: Sergio de Larrea. Freed minutes: 11.8. Out all season so far (already in the lines): Dereck Lively II, Tarik Biberovic.
 - Without Sergio de Larrea: Max Christie min -16.6, pts -6.2, reb -2, ast -2 (n=6 vs 4)
 - Without Sergio de Larrea: Zaccharie Risacher min -9.3, pts -1.4, reb -1.7, ast -0.2 (n=7 vs 4)
@@ -136,8 +138,8 @@ Line: MIN -5.5, total 225.5 (Draft Kings).
 | Bones Hyland | – | 13.4 (4.1) → 13.5 (5.8) | 10.6/8.5 → 8 (1–16) | 1.4/1.3 → 1 (0–3) | 2.4/2.5 → 2 (0–5) | 1.6/1.5 → 1 (0–3) | 11 (3–22) |
 
 ## CHA @ PHX, 21:00 ET
-Line: PHX -6.5, total 214.5 (Draft Kings).
-**CHA** (2 rest days). Out: Brandon Miller, Dennis Schroder, Kon Knueppel. Freed minutes: 67. Out all season so far (already in the lines): Grant Williams.
+Line: PHX -6.5, total 214.5 (DraftKings).
+**CHA** (2 rest days). Out: Brandon Miller, Dennis Schroder, Kon Knueppel. Freed minutes: 67.
 - Without Dennis Schroder: Hannes Steinbach min +12.3, pts +0.3, reb +4.7, ast +0.2 (n=2 vs 3)
 - Without Dennis Schroder: Ryan Kalkbrenner min +11.2, pts +1.4, reb +5.7, ast -0.1 (n=2 vs 9)
 - Without Dennis Schroder: Liam McNeeley min +10.7, pts +6.2, reb -0.3, ast +1.8 (n=2 vs 4)
@@ -146,7 +148,7 @@ Line: PHX -6.5, total 214.5 (Draft Kings).
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Naz Reid | – | 31.4 (6.8) → 29.6 (20.8) | 18.8/17.4 → 17 (8–27) | 7.8/8.5 → 8 (4–13) | 2.4/2.1 → 2 (0–5) | 2/2.5 → 2 (0–5) | 27 (14–41) |
-| Moussa Diabate | Day-To-Day | 29.4 (5.2) → 28.3 (20.6) | 8.6/8.9 → 8 (3–15) | 8.8/9.1 → 9 (4–14) | 2/2 → 2 (0–4) | 0/0 → 0 (0–0) | 19 (9–30) |
+| Moussa Diabate | – | 29.4 (5.2) → 28.3 (20.6) | 8.6/8.9 → 8 (3–15) | 8.8/9.1 → 9 (4–14) | 2/2 → 2 (0–4) | 0/0 → 0 (0–0) | 19 (9–30) |
 | Brandon Miller | Out | 28.2 (7.4) | 15.6/20.6 | 3.8/5 | 2.6/2.2 | 2.4/2.7 | – |
 | Dennis Schroder | Out | 28.2 (6.8) | 7.2/10.2 | 3.2/3.6 | 5/4.9 | 0.8/0.8 | – |
 | Grayson Allen | – | 26.4 (5.4) → 27.1 (19.4) | 17.4/15.3 → 15 (7–25) | 2.6/2.8 → 3 (1–5) | 3.2/3 → 3 (1–6) | 4.2/3.5 → 3 (1–6) | 22 (11–34) |

@@ -1,6 +1,6 @@
 {
  "date": "2026-11-12",
- "updated_et": "2026-11-12 13:21",
+ "updated_et": "2026-11-12 14:05",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -15,7 +15,7 @@
    "spread_text": "PHI -7.5",
    "spread": -7.5,
    "total": 223.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -29,7 +29,7 @@
    "spread_text": "DET -10.5",
    "spread": 10.5,
    "total": 220.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -43,7 +43,7 @@
    "spread_text": "MIN -5.5",
    "spread": -5.5,
    "total": 225.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -57,26 +57,12 @@
    "spread_text": "PHX -6.5",
    "spread": -6.5,
    "total": 214.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
  "injuries": {
   "Charlotte Hornets": [
-   {
-    "player": "Grant Williams",
-    "status": "Out",
-    "detail": "Williams (hamstring) is listed as probable for Thursday's game against the Suns.",
-    "type": "out",
-    "updated": "2026-11-12T00:12Z"
-   },
-   {
-    "player": "Moussa Diabate",
-    "status": "Day-To-Day",
-    "detail": "Diabate (quadriceps) is listed as probable for Thursday's game against the Suns.",
-    "type": "day-to-day",
-    "updated": "2026-11-12T00:10Z"
-   },
    {
     "player": "Brandon Miller",
     "status": "Out",
@@ -218,7 +204,14 @@
    {
     "player": "Trayce Jackson-Davis",
     "status": "Out",
-    "detail": "Jackson-Davis (illness) has been ruled out for Wednesday's game against the Celtics, Blake Murphy of Sportsnet.ca reports.",
+    "detail": "Jackson-Davis is out for Thursday's game against the 76ers due to an illness.",
+    "type": "out",
+    "updated": "2026-11-12T18:09Z"
+   },
+   {
+    "player": "Scottie Barnes",
+    "status": "Out",
+    "detail": "Barnes (groin) is out for Thursday's game against Philadelphia.",
     "type": "out",
     "updated": "2026-11-12T18:05Z"
    },
@@ -228,13 +221,6 @@
     "detail": "Head coach Darko Rajakovic said Wednesday that Leonard (knee) is doing individual on-court work and is progressing well, Michael Grange of Sportsnet.ca reports.",
     "type": "out",
     "updated": "2026-11-11T22:33Z"
-   },
-   {
-    "player": "Scottie Barnes",
-    "status": "Out",
-    "detail": "Barnes (groin) is out for Wednesday's game against Boston.",
-    "type": "out",
-    "updated": "2026-11-10T21:48Z"
    },
    {
     "player": "Nate Bittle",
@@ -289,6 +275,20 @@
    "player": "Trayce Jackson-Davis",
    "from": "Day-To-Day",
    "to": "Out"
+  },
+  {
+   "at_et": "2026-11-12 14:05",
+   "team": "Charlotte Hornets",
+   "player": "Grant Williams",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-12 14:05",
+   "team": "Charlotte Hornets",
+   "player": "Moussa Diabate",
+   "from": "Day-To-Day",
+   "to": "removed from report"
   }
  ]
 }
