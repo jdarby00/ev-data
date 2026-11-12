@@ -1,17 +1,11 @@
 # NBA board, 2026-11-11
 
-Slate updated 2026-11-11 21:18 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-11 22:19 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 20:30 Chicago Bulls: Caleb Wilson Day-To-Day → removed from report
-- 20:30 Chicago Bulls: Zach Collins Day-To-Day → removed from report
-- 20:30 Cleveland Cavaliers: Jaylon Tyson Out → removed from report
-- 20:30 Golden State Warriors: Will Richard Day-To-Day → removed from report
-- 20:30 Indiana Pacers: T.J. McConnell Day-To-Day → removed from report
-- 20:30 Memphis Grizzlies: Isaiah Stewart Day-To-Day → removed from report
 - 20:30 Milwaukee Bucks: Tyler Herro Day-To-Day → removed from report
 - 20:30 New Orleans Pelicans: Trey Murphy III Day-To-Day → Out
 - 20:30 San Antonio Spurs: Devin Vassell Day-To-Day → Out
@@ -21,6 +15,12 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 21:18 Indiana Pacers: Aaron Nesmith not listed → Day-To-Day
 - 21:18 Orlando Magic: Tristan da Silva Day-To-Day → Out
 - 21:18 Orlando Magic: Jamal Cain Day-To-Day → Out
+- 22:19 Boston Celtics: Paul George Out → Day-To-Day
+- 22:19 Chicago Bulls: Caleb Wilson not listed → Day-To-Day
+- 22:19 Golden State Warriors: Stephen Curry not listed → Day-To-Day
+- 22:19 Los Angeles Lakers: Austin Reaves not listed → Day-To-Day
+- 22:19 Milwaukee Bucks: Ryan Rollins not listed → Day-To-Day
+- 22:19 Toronto Raptors: Trayce Jackson-Davis Out → Day-To-Day
 
 ## WSH @ IND, 19:00 ET
 Line: n/a, total – (ESPN).
@@ -103,12 +103,12 @@ Line: n/a, total – (ESPN).
 
 ## BOS @ TOR, 19:00 ET
 Line: n/a, total – (ESPN).
-**BOS** (back-to-back). Out: Paul George. Freed minutes: 30.1.
+**BOS** (back-to-back). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Jayson Tatum | – | 31.2 (4.3) → 32.2 (24.6) | 25.4/26.5 → 24 (13–35) | 5.6/6 → 7 (4–12) | 7/7.4 → 6 (3–10) | 3/2.4 → 3 (1–5) | 37 (23–53) |
-| Paul George | Out | 29.6 (4.3) | 22.6/22 | 4.4/5.2 | 3.2/3.8 | 4.2/3.7 | – |
+| Paul George | Day-To-Day | 29.6 (4.3) → 29.5 (21.8) | 22.6/22 → 20 (11–31) | 4.4/5.2 → 5 (2–8) | 3.2/3.8 → 3 (1–6) | 4.2/3.7 → 3 (1–6) | 28 (16–42) |
 | Derrick White | – | 28 (5.5) → 28.3 (20.6) | 12.6/12.2 → 12 (5–20) | 2.8/3.1 → 3 (1–6) | 5/5.1 → 4 (2–8) | 1.6/1.6 → 2 (0–4) | 20 (10–32) |
 | Payton Pritchard | – | 26 (4.7) → 27.5 (19.8) | 11.2/13.3 → 14 (6–22) | 4.2/3.5 → 4 (1–7) | 4.4/3.9 → 4 (2–8) | 2.4/2.3 → 2 (0–5) | 22 (11–34) |
 | Neemias Queta | – | 22.8 (4.5) → 22.3 (14.6) | 9.2/9 → 9 (3–15) | 7.2/6.2 → 7 (3–12) | 2.4/1.7 → 2 (0–4) | 0.2/0.2 → 0 (0–0) | 17 (8–29) |
@@ -119,7 +119,7 @@ Line: n/a, total – (ESPN).
 | Hugo Gonzalez | – | 14.8 (5.6) → 14.4 (6.7) | 5.6/4.4 → 4 (0–9) | 2/2.1 → 2 (0–6) | 0.6/0.6 → 0 (0–2) | 0.6/0.5 → 0 (0–2) | 7 (1–15) |
 | Luka Garza | – | 14.6 (5.5) → 13.4 (5.7) | 7.4/6.5 → 6 (1–13) | 4.2/3.5 → 3 (1–7) | 1.6/1.4 → 1 (0–3) | 1.8/1.2 → 1 (0–2) | 11 (2–21) |
 
-**TOR** (1 rest day). Out: Scottie Barnes, Kawhi Leonard, Trayce Jackson-Davis. Freed minutes: 66.8. Out all season so far (already in the lines): Nate Bittle.
+**TOR** (1 rest day). Out: Scottie Barnes, Kawhi Leonard. Freed minutes: 59.4. Out all season so far (already in the lines): Nate Bittle.
 - Without Scottie Barnes: Alijah Martin min +19, pts +11.2, reb +2.4, ast +1.1 (n=2 vs 7)
 - Without Scottie Barnes: Jamal Shead min +13.5, pts +9.5, reb +0.5, ast +8.1 (n=2 vs 8)
 - Without Scottie Barnes: Jakob Poeltl min +11, pts +13.3, reb +3.8, ast +1 (n=2 vs 6)
@@ -165,7 +165,7 @@ Line: n/a, total – (ESPN).
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
-| Caleb Wilson | – | 31.4 (4.4) → 31.3 (23.6) | 18/19.3 → 15 (7–24) | 5.6/6.3 → 6 (3–10) | 2.4/2.1 → 2 (0–4) | 3.2/2.3 → 2 (0–4) | 23 (12–35) |
+| Caleb Wilson | Day-To-Day | 31.4 (4.4) → 31.3 (23.6) | 18/19.3 → 15 (7–24) | 5.6/6.3 → 6 (3–10) | 2.4/2.1 → 2 (0–4) | 3.2/2.3 → 2 (0–4) | 23 (12–35) |
 | Josh Giddey | – | 29.8 (3.6) → 29.5 (21.8) | 13/10.3 → 14 (6–22) | 4.8/4.9 → 6 (3–10) | 9.4/8.4 → 9 (4–14) | 1.4/1 → 1 (0–3) | 28 (16–42) |
 | Norman Powell | Out | 28.6 (5.3) | 19.2/19.2 | 1.8/2.5 | 1.6/1.6 | 2/2.1 | – |
 | Matas Buzelis | – | 26.6 (5.7) → 26.7 (18.9) | 13.2/13.6 → 14 (6–23) | 4.6/4.4 → 5 (2–8) | 2.2/2 → 2 (0–4) | 1.8/1.4 → 2 (0–4) | 21 (10–33) |
@@ -221,7 +221,7 @@ Line: n/a, total – (ESPN).
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
-| Austin Reaves | – | 37 (2.3) → 36.4 (28.7) | 27/25.3 → 26 (15–38) | 3.2/3.4 → 4 (1–7) | 3.8/4.6 → 4 (2–8) | 2.4/2.4 → 2 (0–5) | 35 (21–49) |
+| Austin Reaves | Day-To-Day | 37 (2.3) → 36.4 (28.7) | 27/25.3 → 26 (15–38) | 3.2/3.4 → 4 (1–7) | 3.8/4.6 → 4 (2–8) | 2.4/2.4 → 2 (0–5) | 35 (21–49) |
 | Luka Doncic | – | 36.6 (2.4) → 36.7 (29) | 42.4/39.3 → 38 (24–53) | 8.8/7.8 → 8 (4–12) | 8.2/7.9 → 8 (4–13) | 5.6/5.5 → 4 (2–8) | 54 (36–73) |
 | Walker Kessler | – | 31.4 (2.9) → 31 (23.3) | 15.8/14.9 → 15 (7–23) | 12.2/10.8 → 11 (6–17) | 2.4/1.7 → 2 (1–5) | 0/0 → 0 (0–1) | 29 (16–42) |
 | Jake LaRavia | – | 26.6 (5.7) → 26.7 (19) | 6.4/6.1 → 7 (2–13) | 3.6/3.5 → 4 (1–7) | 2.4/1.8 → 2 (0–4) | 1/1.1 → 1 (0–2) | 13 (5–22) |
@@ -240,7 +240,7 @@ Line: n/a, total – (ESPN).
 | Brayden Burries | – | 28.2 (7.9) → 25.3 (15.3) | 11/9.8 → 9 (3–17) | 7.2/5.3 → 5 (2–9) | 3.4/2.3 → 2 (0–5) | 0.8/0.8 → 1 (0–2) | 17 (7–29) |
 | Kyle Kuzma | – | 27.6 (4.9) → 27.3 (19.6) | 10.6/11 → 12 (5–20) | 4/5.7 → 4 (2–8) | 2.6/2.7 → 2 (1–5) | 1.8/1.6 → 1 (0–3) | 19 (9–31) |
 | Jaime Jaquez Jr. | – | 27 (3.5) → 26.7 (19) | 14.2/15.3 → 14 (6–23) | 4/5.7 → 4 (2–8) | 2.4/2.7 → 3 (1–6) | 2/1.7 → 1 (0–3) | 22 (11–34) |
-| Ryan Rollins | – | 19.8 (6.1) → 22.7 (14.6) | 10.8/11 → 11 (4–20) | 4.6/4.5 → 4 (1–7) | 3.2/4.1 → 4 (1–7) | 2/1.7 → 2 (0–4) | 19 (9–31) |
+| Ryan Rollins | Day-To-Day | 19.8 (6.1) → 22.7 (14.6) | 10.8/11 → 11 (4–20) | 4.6/4.5 → 4 (1–7) | 3.2/4.1 → 4 (1–7) | 2/1.7 → 2 (0–4) | 19 (9–31) |
 | AJ Green | – | 18.8 (4.5) → 19 (11.3) | 7/6.8 → 6 (1–12) | 1.4/1.7 → 1 (0–4) | 1.4/1.4 → 1 (0–3) | 2/2 → 2 (0–4) | 9 (2–17) |
 | Nate Ament | – | 17.2 (4.8) → 18.2 (10.5) | 8.4/8 → 7 (2–14) | 2.2/2.4 → 3 (1–6) | 0.4/0.4 → 1 (0–3) | 1.2/1.1 → 1 (0–3) | 11 (4–21) |
 | Kasparas Jakucionis | – | 14.8 (6) → 16.9 (8.9) | 5/6.8 → 6 (1–11) | 1.6/2.3 → 2 (0–4) | 2.8/3.5 → 2 (0–5) | 0.6/0.6 → 1 (0–2) | 10 (3–19) |
@@ -332,14 +332,14 @@ Line: n/a, total – (ESPN).
 | Isaiah Collier | – | 13.6 (6.1) → 17.4 (9.2) | 6.8/7.2 → 8 (2–15) | 3/3.5 → 2 (0–5) | 2.4/4.2 → 4 (1–8) | 0.8/0.4 → 0 (0–2) | 14 (5–26) |
 
 ## GS @ HOU, 21:30 ET
-Line: HOU -6.5, total 219.5 (DraftKings).
+Line: n/a, total – (ESPN).
 **GS** (1 rest day). Out: Brandon Williams, Gary Payton II. Freed minutes: 29.6. Out all season so far (already in the lines): Kristaps Porzingis, Moses Moody, Jimmy Butler III.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Brandin Podziemski | – | 33.4 (3.4) → 32.2 (24.5) | 17.2/16.8 → 16 (8–26) | 5.2/5 → 5 (2–9) | 3.6/4.2 → 4 (1–7) | 3.2/2.8 → 3 (1–5) | 25 (14–38) |
 | Yaxel Lendeborg | – | 31.4 (4.3) → 31.1 (23.4) | 23.2/21.4 → 17 (9–27) | 6.4/7.2 → 6 (3–10) | 4.8/4 → 3 (1–6) | 3/2.5 → 2 (0–4) | 27 (15–40) |
-| Stephen Curry | – | 29.8 (4.8) → 29 (21.3) | 32/30.6 → 28 (16–42) | 4.4/4.1 → 4 (1–7) | 5/4.3 → 4 (2–8) | 5.6/4.7 → 4 (2–8) | 37 (22–53) |
+| Stephen Curry | Day-To-Day | 29.8 (4.8) → 29 (21.3) | 32/30.6 → 28 (16–42) | 4.4/4.1 → 4 (1–7) | 5/4.3 → 4 (2–8) | 5.6/4.7 → 4 (2–8) | 37 (22–53) |
 | Draymond Green | – | 26.2 (5.6) → 26.6 (18.9) | 2.4/2.8 → 5 (1–10) | 4.4/4.9 → 5 (2–9) | 8.2/7.6 → 6 (3–11) | 0/0.2 → 1 (0–2) | 17 (7–27) |
 | De'Anthony Melton | – | 23.2 (4.2) → 22.4 (14.7) | 9.6/10 → 11 (4–19) | 4.8/4.3 → 3 (1–7) | 2.2/2.2 → 2 (0–5) | 2.2/2.2 → 2 (0–4) | 17 (7–28) |
 | Georges Niang | – | 21.8 (3.2) → 21.2 (13.5) | 9.8/8.3 → 8 (2–15) | 2.6/2.9 → 3 (1–6) | 2.2/1.6 → 2 (0–4) | 1.6/1.4 → 1 (0–3) | 14 (5–23) |
@@ -369,7 +369,7 @@ Line: HOU -6.5, total 219.5 (DraftKings).
 | Steven Adams | Out | 8 (–) | 4/4 | 2/2 | 1/1 | 0/0 | – |
 
 ## OKC @ POR, 22:00 ET
-Line: POR -2.5, total 224.5 (DraftKings).
+Line: n/a, total – (ESPN).
 **OKC** (back-to-back). Out: Jalen Williams, Chet Holmgren, Ajay Mitchell, Jaylin Williams, Cason Wallace. Freed minutes: 123.7. Out all season so far (already in the lines): Thomas Sorber.
 - Without Jalen Williams: Bennett Stirtz min +18.3, pts +10.2, reb +1.2, ast +1.8 (n=8 vs 3)
 - Without Chet Holmgren: Bennett Stirtz min +18.3, pts +10.2, reb +1.2, ast +1.8 (n=8 vs 3)
