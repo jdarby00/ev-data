@@ -1,14 +1,11 @@
 # NBA board, 2026-11-11
 
-Slate updated 2026-11-11 20:30 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-11 21:18 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 17:16 Oklahoma City Thunder: Ajay Mitchell not listed → Out
-- 20:30 Chicago Bulls: Dailyn Swain not listed → Out
-- 20:30 Chicago Bulls: Norman Powell Day-To-Day → Out
 - 20:30 Chicago Bulls: Caleb Wilson Day-To-Day → removed from report
 - 20:30 Chicago Bulls: Zach Collins Day-To-Day → removed from report
 - 20:30 Cleveland Cavaliers: Jaylon Tyson Out → removed from report
@@ -21,6 +18,9 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 20:30 Toronto Raptors: Collin Murray-Boyles Day-To-Day → removed from report
 - 20:30 Toronto Raptors: Immanuel Quickley Day-To-Day → removed from report
 - 20:30 Utah Jazz: Keyonte George Day-To-Day → removed from report
+- 21:18 Indiana Pacers: Aaron Nesmith not listed → Day-To-Day
+- 21:18 Orlando Magic: Tristan da Silva Day-To-Day → Out
+- 21:18 Orlando Magic: Jamal Cain Day-To-Day → Out
 
 ## WSH @ IND, 19:00 ET
 Line: n/a, total – (ESPN).
@@ -55,7 +55,7 @@ Line: n/a, total – (ESPN).
 | Andrew Nembhard | – | 33.6 (2.5) → 33.3 (25.6) | 17.6/17.1 → 17 (8–26) | 2.2/2.1 → 2 (1–5) | 7.6/7.7 → 8 (4–13) | 3/2.3 → 2 (0–4) | 27 (15–40) |
 | Tyrese Haliburton | Out | 33 (1.6) | 21.8/21.8 | 4.5/4.5 | 9.5/9.5 | 2.5/2.5 | – |
 | Pascal Siakam | – | 32.4 (3.5) → 32.7 (25) | 20.4/22.2 → 23 (12–34) | 5/6.7 → 6 (3–10) | 4.8/4.3 → 4 (2–8) | 1.8/1.7 → 2 (0–4) | 33 (20–48) |
-| Aaron Nesmith | – | 28.4 (5.1) → 28 (20.3) | 12.4/12.8 → 13 (6–21) | 3/2.4 → 3 (1–6) | 2.2/1.8 → 2 (0–4) | 1.8/2 → 2 (0–4) | 18 (8–29) |
+| Aaron Nesmith | Day-To-Day | 28.4 (5.1) → 28 (20.3) | 12.4/12.8 → 13 (6–21) | 3/2.4 → 3 (1–6) | 2.2/1.8 → 2 (0–4) | 1.8/2 → 2 (0–4) | 18 (8–29) |
 | Quenton Jackson | – | 24.6 (5.8) → 22.4 (14.6) | 12.2/10 → 11 (4–19) | 5.2/3.6 → 3 (1–7) | 2.4/2.6 → 3 (1–6) | 1.8/1.1 → 1 (0–3) | 17 (7–28) |
 | Jarace Walker | – | 22.4 (9.1) → 21.6 (10.3) | 7.8/7.4 → 8 (2–17) | 5.4/5.7 → 4 (1–9) | 1.8/1.8 → 2 (0–4) | 1.2/1.2 → 1 (0–3) | 15 (5–27) |
 | Kelly Oubre Jr. | – | 22.2 (4.1) → 22.7 (15) | 10.4/9.1 → 10 (3–17) | 2.4/2.3 → 3 (1–6) | 1/1.4 → 1 (0–3) | 1/0.9 → 1 (0–3) | 14 (6–24) |
@@ -290,12 +290,12 @@ Line: n/a, total – (ESPN).
 | Trendon Watford | Out | 18 (1.3) | 7/7.2 | 4/3.5 | 0.8/1 | 0.4/0.3 | – |
 
 ## ORL @ UTAH, 21:00 ET
-Line: ORL -3.5, total 216.5 (DraftKings).
-**ORL** (back-to-back). Out: Paolo Banchero, Jalen Suggs. Freed minutes: 66.8. Out all season so far (already in the lines): Jonathan Isaac, Noah Penda, Izaiyah Nelson.
+Line: n/a, total – (ESPN).
+**ORL** (back-to-back). Out: Paolo Banchero, Jalen Suggs, Tristan da Silva, Jamal Cain. Freed minutes: 116.7. Out all season so far (already in the lines): Jonathan Isaac, Noah Penda, Izaiyah Nelson.
 - Without Paolo Banchero: Jase Richardson min +9.8, pts +2.4, reb +0.6, ast -0.6 (n=8 vs 2)
 - Without Jalen Suggs: Jase Richardson min +9.7, pts +1.7, reb +1, ast +0.7 (n=7 vs 3)
-- Without Jalen Suggs: Jamal Cain min +8.8, pts +7.6, reb +1.6, ast +0.6 (n=7 vs 3)
-- Without Paolo Banchero: Jamal Cain min +8.7, pts +8.8, reb +3.3, ast +0.5 (n=8 vs 2)
+- Without Paolo Banchero: Franz Wagner min +7, pts +2.5, reb +0.5, ast +4.5 (n=8 vs 2)
+- Without Paolo Banchero: Nikola Vucevic min +6.3, pts +3.4, reb +1.4, ast +0.9 (n=8 vs 2)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -305,9 +305,9 @@ Line: ORL -3.5, total 216.5 (DraftKings).
 | Paolo Banchero | Out | 33.5 (7.5) | 24.5/24.5 | 6.5/6.5 | 7.5/7.5 | 1.5/1.5 | – |
 | Jalen Suggs | Out | 33.3 (0.9) | 8/8 | 5/5 | 5.7/5.7 | 0.3/0.3 | – |
 | Anthony Black | – | 33.2 (4.8) → 31.9 (24.2) | 18.8/17.1 → 17 (8–26) | 7.2/5.9 → 5 (2–9) | 6/5.1 → 4 (2–8) | 1.8/2 → 2 (0–4) | 27 (15–40) |
-| Tristan da Silva | Day-To-Day | 31.8 (4.4) → 31.3 (23.6) | 15.6/15.1 → 14 (6–23) | 4.6/3.7 → 4 (2–8) | 1.6/1.7 → 2 (0–4) | 3.6/3.6 → 3 (1–6) | 20 (10–31) |
+| Tristan da Silva | Out | 31.8 (4.4) | 15.6/15.1 | 4.6/3.7 | 1.6/1.7 | 3.6/3.6 | – |
 | Jase Richardson | – | 25.2 (7.3) → 21.9 (12.5) | 6.2/5.9 → 7 (1–13) | 1.8/2 → 2 (0–4) | 3.2/2.5 → 2 (0–5) | 0.4/0.7 → 1 (0–2) | 11 (4–21) |
-| Jamal Cain | Day-To-Day | 24.8 (7) → 21.6 (12.5) | 8.6/7 → 8 (2–16) | 4.8/3.1 → 3 (1–7) | 0.8/0.4 → 1 (0–2) | 1.4/1.1 → 1 (0–3) | 13 (5–23) |
+| Jamal Cain | Out | 24.8 (7) | 8.6/7 | 4.8/3.1 | 0.8/0.4 | 1.4/1.1 | – |
 | Alex Morales | – | 14.6 (7.9) → 13.9 (3.9) | 2/1.7 → 3 (0–9) | 2.4/2.1 → 2 (0–5) | 0.2/0.3 → 1 (0–4) | 0.2/0.1 → 0 (0–0) | 7 (0–15) |
 | Jevon Carter | – | 12.4 (6.9) → 11.6 (2.5) | 4/3.3 → 4 (0–10) | 0.4/0.5 → 1 (0–3) | 1.4/1.3 → 1 (0–3) | 1.2/1 → 1 (0–3) | 6 (0–14) |
 

@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "updated_et": "2026-11-11 20:30",
+ "updated_et": "2026-11-11 21:18",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -109,11 +109,11 @@
    "home": "UTAH",
    "away_name": "Orlando Magic",
    "home_name": "Utah Jazz",
-   "state": "pre",
-   "spread_text": "ORL -3.5",
-   "spread": 3.5,
-   "total": 216.5,
-   "odds_source": "DraftKings",
+   "state": "in",
+   "spread_text": "",
+   "spread": null,
+   "total": null,
+   "odds_source": "",
    "season_type": 2
   },
   {
@@ -267,6 +267,13 @@
   ],
   "Indiana Pacers": [
    {
+    "player": "Aaron Nesmith",
+    "status": "Day-To-Day",
+    "detail": "Nesmith will not return to Wednesday's game against the Wizards due to right knee soreness. He'll finish with two points (1-6 FG, 0-4 3Pt), one rebound and one assist across 22 minutes.",
+    "type": "day-to-day",
+    "updated": "2026-11-12T01:59Z"
+   },
+   {
     "player": "Tyrese Haliburton",
     "status": "Out",
     "detail": "Head coach Rick Carlisle said Wednesday that Haliburton (hamstring) will miss at least 10 more days, Alex Golden of SI.com reports.",
@@ -405,18 +412,18 @@
   ],
   "Orlando Magic": [
    {
-    "player": "Jamal Cain",
-    "status": "Day-To-Day",
-    "detail": "Cain is questionable for Wednesday's game against the Jazz due to a left shoulder contusion.",
-    "type": "day-to-day",
-    "updated": "2026-11-11T19:50Z"
+    "player": "Tristan da Silva",
+    "status": "Out",
+    "detail": "Da Silva (calf) is listed as out for Wednesday's game versus the Jazz.",
+    "type": "out",
+    "updated": "2026-11-12T01:33Z"
    },
    {
-    "player": "Tristan da Silva",
-    "status": "Day-To-Day",
-    "detail": "Da Silva (calf) is listed as questionable for Wednesday's game at Utah.",
-    "type": "day-to-day",
-    "updated": "2026-11-11T19:50Z"
+    "player": "Jamal Cain",
+    "status": "Out",
+    "detail": "Cain (shoulder) is out for Wednesday's game in Utah.",
+    "type": "out",
+    "updated": "2026-11-12T01:28Z"
    },
    {
     "player": "Jalen Suggs",
@@ -836,6 +843,27 @@
    "player": "Keyonte George",
    "from": "Day-To-Day",
    "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-11 21:18",
+   "team": "Indiana Pacers",
+   "player": "Aaron Nesmith",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-11 21:18",
+   "team": "Orlando Magic",
+   "player": "Tristan da Silva",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-11 21:18",
+   "team": "Orlando Magic",
+   "player": "Jamal Cain",
+   "from": "Day-To-Day",
+   "to": "Out"
   }
  ]
 }
