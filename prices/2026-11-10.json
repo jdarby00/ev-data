@@ -56007,13 +56007,14 @@
    "api_away": "Oklahoma City Thunder",
    "api_home": "Portland Trail Blazers",
    "away": "Thunder",
-   "commence_time": "2026-11-12T03:10:00Z",
+   "commence_time": "2026-11-12T03:13:00Z",
    "event_id": "d4f288eeb0132970825be17748f2b4f0",
    "home": "Trail Blazers",
    "issues": [
     "2026-11-11T03:58:09Z close skipped: daily cap reached (30/30)",
     "2026-11-12T02:53:14Z close skipped: daily cap reached (30/30)",
-    "2026-11-12T02:58:11Z close skipped: daily cap reached (30/30)"
+    "2026-11-12T02:58:11Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_threes",
    "players": [],
@@ -57926,5 +57927,5 @@
  "spent_month": 226,
  "spent_today": 30,
  "stop": null,
- "updated": "2026-11-12T02:58:11Z"
+ "updated": "2026-11-12T04:14:42Z"
 }
