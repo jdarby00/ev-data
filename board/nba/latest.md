@@ -1,11 +1,18 @@
 # NBA board, 2026-11-13
 
-Slate updated 2026-11-13 12:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-13 14:05 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
+## Status changes today
+
+- 14:05 Miami Heat: Giannis Antetokounmpo Day-To-Day → removed from report
+- 14:05 New Orleans Pelicans: Bryce McGowens Day-To-Day → Out
+- 14:05 New Orleans Pelicans: Dejounte Murray not listed → Day-To-Day
+- 14:05 New Orleans Pelicans: Trey Murphy III Day-To-Day → Out
+
 ## NY @ IND, 19:00 ET
-Line: NY -8.5, total 219.5 (DraftKings).
+Line: NY -8.5, total 219.5 (Draft Kings).
 **NY** (1 rest day). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -42,7 +49,7 @@ Line: NY -8.5, total 219.5 (DraftKings).
 | Jalen Slawson | – | 17.8 (10) → 15.9 (3.5) | 4.6/3.6 → 4 (0–10) | 3.6/3.1 → 3 (0–6) | 1.4/1.1 → 1 (0–4) | 0.4/0.2 → 0 (0–2) | 8 (0–19) |
 
 ## MIL @ ORL, 19:00 ET
-Line: ORL -9.5, total 223.5 (DraftKings).
+Line: ORL -9.5, total 224.5 (Draft Kings).
 **MIL** (1 rest day). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -79,7 +86,7 @@ Line: ORL -9.5, total 223.5 (DraftKings).
 | Jevon Carter | – | 13.6 (8.4) → 15.4 (4.8) | 5/4.4 → 5 (0–12) | 1/0.9 → 1 (0–3) | 1.6/1.7 → 1 (0–4) | 1.4/1.3 → 1 (0–3) | 8 (0–18) |
 
 ## ATL @ CHI, 20:00 ET
-Line: ATL -7.5, total 245.5 (DraftKings).
+Line: ATL -7.5, total 245.5 (Draft Kings).
 **ATL** (3 rest days). Out: Asa Newell. Freed minutes: 11. Out all season so far (already in the lines): Mouhamed Gueye, Keshon Gilbert, Henri Veesaar.
 - Without Asa Newell: Jock Landale min +4.5, pts +1.3, reb +1.4, ast -1.3 (n=5 vs 3)
 - Without Asa Newell: Jalen Johnson min +4, pts +2.3, reb +1.3, ast +3.3 (n=6 vs 3)
@@ -121,7 +128,7 @@ Line: ATL -7.5, total 245.5 (DraftKings).
 | Tobe Awaka | Out | 10 (4.7) | 2/2 | 5.2/5.2 | 0.8/0.8 | 0/0 | – |
 
 ## CLE @ MIA, 20:00 ET
-Line: MIA -2.5, total 235.5 (DraftKings).
+Line: MIA -2.5, total 235.5 (Draft Kings).
 **CLE** (1 rest day). Out: Evan Mobley, Sam Merrill. Freed minutes: 55.2.
 - Without Sam Merrill: Tyrese Proctor min +8, pts +3.4, reb -0.7, ast +0.7 (n=3 vs 8)
 - Without Sam Merrill: Craig Porter Jr. min +7.7, pts +3.8, reb -0.2, ast +1.5 (n=2 vs 7)
@@ -148,7 +155,7 @@ Line: MIA -2.5, total 235.5 (DraftKings).
 |---|---|---|---|---|---|---|---|
 | Davion Mitchell | – | 37.6 (3.8) → 36.2 (28.6) | 16.8/16.5 → 15 (7–23) | 2.4/2 → 3 (1–5) | 8.8/8.5 → 8 (4–13) | 2.6/2.3 → 2 (0–4) | 26 (15–38) |
 | Bam Adebayo | – | 35.2 (4.8) → 34.3 (26.6) | 19.6/17.8 → 19 (10–29) | 9/8.4 → 9 (5–14) | 3.2/3.3 → 3 (1–6) | 0.6/0.5 → 1 (0–2) | 32 (19–46) |
-| Giannis Antetokounmpo | Day-To-Day | 34.2 (4.3) → 32.7 (25) | 27.2/27.7 → 28 (17–41) | 13/12.6 → 12 (7–18) | 4.8/5.2 → 5 (2–9) | 0.4/0.5 → 0 (0–1) | 46 (29–64) |
+| Giannis Antetokounmpo | – | 34.2 (4.3) → 32.7 (25) | 27.2/27.7 → 28 (17–41) | 13/12.6 → 12 (7–18) | 4.8/5.2 → 5 (2–9) | 0.4/0.5 → 0 (0–1) | 46 (29–64) |
 | Klay Thompson | Day-To-Day | 29.4 (5.9) → 26.8 (18.9) | 18.8/14.4 → 15 (7–24) | 1.8/1.5 → 2 (0–4) | 2.6/1.9 → 2 (0–4) | 4.6/3.8 → 4 (1–7) | 19 (9–30) |
 | Pelle Larsson | Day-To-Day | 29.4 (4.3) → 28.8 (21.1) | 10.8/11.4 → 12 (5–20) | 3.4/3.5 → 3 (1–7) | 3/3.5 → 3 (1–6) | 1.8/1.4 → 1 (0–3) | 19 (9–30) |
 | Andrew Wiggins | – | 23.8 (5.2) → 25.4 (17.7) | 6.2/8.7 → 10 (4–18) | 2.6/2.8 → 3 (1–6) | 1.6/1.5 → 2 (0–4) | 1.4/1.4 → 1 (0–3) | 15 (6–25) |
@@ -156,7 +163,7 @@ Line: MIA -2.5, total 235.5 (DraftKings).
 | Bobby Portis | – | 17.4 (3.7) → 19.2 (11.5) | 3/6.8 → 8 (2–15) | 4/5.8 → 4 (2–8) | 1.8/1.7 → 1 (0–3) | 0.4/1.3 → 1 (0–3) | 14 (5–24) |
 
 ## MEM @ NO, 20:00 ET
-Line: MEM -2.5, total 237.5 (DraftKings).
+Line: MEM -3.5, total 235.5 (Draft Kings).
 **MEM** (1 rest day). Out: Zach Edey, Scotty Pippen Jr., Quinten Post. Freed minutes: 49.9. Out all season so far (already in the lines): Richie Saunders.
 - Without Quinten Post: Kris Murray min +11, pts -0.4, reb +1.1, ast +0.4 (n=2 vs 5)
 - Without Quinten Post: Isaiah Stewart min +6.5, pts +4.7, reb +0.3, ast +0.9 (n=3 vs 5)
@@ -177,18 +184,18 @@ Line: MEM -2.5, total 237.5 (DraftKings).
 | Scotty Pippen Jr. | Out | 16.2 (2.5) | 6.4/6.4 | 2.2/2.2 | 2.2/2.2 | 0.4/0.4 | – |
 | GG Jackson | – | 14.8 (4.3) → 15.5 (7.8) | 6.4/6.3 → 7 (1–14) | 1.4/3 → 2 (0–5) | 0.6/0.8 → 1 (0–2) | 1/0.9 → 1 (0–2) | 11 (3–20) |
 
-**NO** (1 rest day). Out: Yves Missi, Trendon Watford. Freed minutes: 37.3.
+**NO** (1 rest day). Out: Trey Murphy III, Yves Missi, Trendon Watford, Bryce McGowens. Freed minutes: 80.7.
+- Without Trey Murphy III: Jordan Poole min +11.5, pts +4.5, reb -0.5, ast -1.5 (n=2 vs 4)
+- Without Bryce McGowens: Dejounte Murray min +9.8, pts +9.4, reb +1, ast +2.2 (n=5 vs 4)
 - Without Trendon Watford: Jeremiah Fears min -8, pts -10.1, reb -2.4, ast -3.2 (n=6 vs 6)
-- Without Yves Missi: Jeremiah Fears min +7.6, pts +9.3, reb +3.6, ast +4.7 (n=10 vs 2)
-- Without Trendon Watford: Karlo Matkovic min -7.4, pts -7.2, reb -1.6, ast -0.3 (n=5 vs 6)
-- Without Trendon Watford: Bryce McGowens min +7.2, pts +4.5, reb +0.5, ast -0.5 (n=3 vs 4)
+- Without Trey Murphy III: Herbert Jones min +7.7, pts -1.3, reb +1.7, ast +0.8 (n=3 vs 9)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Zion Williamson | – | 34 (2.5) → 32.5 (24.8) | 23/21.7 → 22 (12–33) | 6.2/5.2 → 5 (2–9) | 2.8/2.6 → 3 (1–5) | 0.2/0.4 → 0 (0–1) | 31 (18–45) |
-| Trey Murphy III | Day-To-Day | 33 (3.4) → 33.1 (25.4) | 17.6/15.6 → 18 (9–28) | 5.2/4.8 → 5 (2–9) | 4.2/3.6 → 4 (1–7) | 2.2/2.2 → 2 (1–5) | 27 (15–40) |
+| Trey Murphy III | Out | 33 (3.4) | 17.6/15.6 | 5.2/4.8 | 4.2/3.6 | 2.2/2.2 | – |
 | Jeremiah Fears | – | 31.2 (4.6) → 29.7 (22) | 18.6/15.2 → 16 (8–25) | 4.8/4.5 → 4 (2–8) | 5/4.9 → 5 (2–8) | 1.4/1.2 → 1 (0–3) | 25 (14–38) |
-| Dejounte Murray | – | 30.8 (6.9) → 29.3 (20.4) | 10/13.4 → 13 (6–22) | 3.6/4.6 → 4 (2–8) | 3.2/4.4 → 5 (2–9) | 1/0.9 → 1 (0–3) | 23 (12–36) |
+| Dejounte Murray | Day-To-Day | 30.8 (6.9) → 29.3 (20.4) | 10/13.4 → 13 (6–22) | 3.6/4.6 → 4 (2–8) | 3.2/4.4 → 5 (2–9) | 1/0.9 → 1 (0–3) | 23 (12–36) |
 | Saddiq Bey | – | 27.8 (3.6) → 27.9 (20.2) | 15.2/15.4 → 15 (7–24) | 2.8/3.4 → 4 (1–7) | 3.2/2.3 → 2 (1–5) | 2/1.8 → 2 (0–4) | 21 (11–33) |
 | Herbert Jones | – | 24 (6.8) → 24.2 (15.4) | 3.6/5.7 → 6 (1–12) | 3.4/3 → 3 (1–6) | 1.2/1.1 → 2 (0–4) | 0.4/0.7 → 1 (0–2) | 11 (4–20) |
 | Jordan Poole | – | 20.8 (8.2) → 21.3 (10.9) | 8.2/7.5 → 10 (3–19) | 1.8/1.8 → 1 (0–4) | 2.4/2.5 → 2 (0–5) | 1.2/1 → 1 (0–4) | 14 (5–25) |
@@ -198,7 +205,7 @@ Line: MEM -2.5, total 237.5 (DraftKings).
 | Trendon Watford | Out | 18 (1.3) | 7/7.2 | 4/3.5 | 0.8/1 | 0.4/0.3 | – |
 
 ## UTAH @ HOU, 20:30 ET
-Line: HOU -15.5, total 220.5 (DraftKings).
+Line: HOU -14.5, total 221.5 (Draft Kings).
 **UTAH** (1 rest day). Out: Lauri Markkanen, Jaren Jackson Jr.. Freed minutes: 56.9. Out all season so far (already in the lines): Trey Alexander, Jusuf Nurkic.
 - Without Lauri Markkanen: Josh Green min +11.7, pts +1, reb +0.7, ast +1.5 (n=4 vs 6)
 - Without Lauri Markkanen: Kyle Filipowski min +8.3, pts +6.5, reb +4.3, ast +0.7 (n=2 vs 6)
@@ -239,7 +246,7 @@ Line: HOU -15.5, total 220.5 (DraftKings).
 | Steven Adams | Out | 8 (–) | 4/4 | 2/2 | 1/1 | 0/0 | – |
 
 ## GS @ SA, 21:30 ET
-Line: SA -11.5, total 217.5 (DraftKings).
+Line: SA -12.5, total 218.5 (Draft Kings).
 **GS** (1 rest day). Out: Stephen Curry, Brandon Williams. Freed minutes: 42.7. Out all season so far (already in the lines): Kristaps Porzingis, Moses Moody, Jimmy Butler III.
 - Without Stephen Curry: Will Richard min +11.3, pts +1.9, reb -2.4, ast +1.3 (n=2 vs 9)
 - Without Stephen Curry: Graham Ike min +8.7, pts +2.9, reb +4.6, ast +0.1 (n=2 vs 7)
@@ -277,7 +284,7 @@ Line: SA -11.5, total 217.5 (DraftKings).
 | Tobias Harris | Out | none this season; last season 27.8 min, 13.3 pts | | | | |
 
 ## POR @ SAC, 22:00 ET
-Line: POR -10.5, total 228.5 (DraftKings).
+Line: POR -10.5, total 229.5 (Draft Kings).
 **POR** (1 rest day). Out: Ja Morant, Chris Youngblood, Vit Krejci. Freed minutes: 49.8. Out all season so far (already in the lines): Shaedon Sharpe.
 - Without Chris Youngblood: Scoot Henderson min -5.8, pts -2.5, reb +0.2, ast +0.1 (n=5 vs 6)
 - Without Ja Morant: Toumani Camara min +5.4, pts -3.8, reb +2.6, ast -0.1 (n=7 vs 4)
@@ -315,7 +322,7 @@ Line: POR -10.5, total 228.5 (DraftKings).
 | Jonathan Mogbo | – | 14.2 (8.2) → 12.7 (2.4) | 3/3 → 3 (0–7) | 2.2/2.2 → 3 (0–6) | 0.8/0.8 → 1 (0–3) | 0.2/0.2 → 0 (0–0) | 6 (0–15) |
 
 ## OKC @ LAC, 22:30 ET
-Line: OKC -7.5, total 222.5 (DraftKings).
+Line: OKC -7.5, total 222.5 (Draft Kings).
 **OKC** (1 rest day). Out: Jalen Williams, Chet Holmgren, Jaylin Williams, Cason Wallace. Freed minutes: 96.4. Out all season so far (already in the lines): Thomas Sorber.
 - Without Jalen Williams: Bennett Stirtz min +18.5, pts +9.6, reb +1.1, ast +1.7 (n=9 vs 3)
 - Without Chet Holmgren: Bennett Stirtz min +18.5, pts +9.6, reb +1.1, ast +1.7 (n=9 vs 3)

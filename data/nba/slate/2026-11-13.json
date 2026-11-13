@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "updated_et": "2026-11-13 12:45",
+ "updated_et": "2026-11-13 14:05",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -15,7 +15,7 @@
    "spread_text": "NY -8.5",
    "spread": 8.5,
    "total": 219.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -28,8 +28,8 @@
    "state": "pre",
    "spread_text": "ORL -9.5",
    "spread": -9.5,
-   "total": 223.5,
-   "odds_source": "DraftKings",
+   "total": 224.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -43,7 +43,7 @@
    "spread_text": "ATL -7.5",
    "spread": 7.5,
    "total": 245.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -57,7 +57,7 @@
    "spread_text": "MIA -2.5",
    "spread": -2.5,
    "total": 235.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -68,10 +68,10 @@
    "away_name": "Memphis Grizzlies",
    "home_name": "New Orleans Pelicans",
    "state": "pre",
-   "spread_text": "MEM -2.5",
-   "spread": 2.5,
-   "total": 237.5,
-   "odds_source": "DraftKings",
+   "spread_text": "MEM -3.5",
+   "spread": 3.5,
+   "total": 235.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -82,10 +82,10 @@
    "away_name": "Utah Jazz",
    "home_name": "Houston Rockets",
    "state": "pre",
-   "spread_text": "HOU -15.5",
-   "spread": -15.5,
-   "total": 220.5,
-   "odds_source": "DraftKings",
+   "spread_text": "HOU -14.5",
+   "spread": -14.5,
+   "total": 221.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -96,10 +96,10 @@
    "away_name": "Golden State Warriors",
    "home_name": "San Antonio Spurs",
    "state": "pre",
-   "spread_text": "SA -11.5",
-   "spread": -11.5,
-   "total": 217.5,
-   "odds_source": "DraftKings",
+   "spread_text": "SA -12.5",
+   "spread": -12.5,
+   "total": 218.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -112,8 +112,8 @@
    "state": "pre",
    "spread_text": "POR -10.5",
    "spread": 10.5,
-   "total": 228.5,
-   "odds_source": "DraftKings",
+   "total": 229.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -127,7 +127,7 @@
    "spread_text": "OKC -7.5",
    "spread": 7.5,
    "total": 222.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   }
  ],
@@ -383,32 +383,53 @@
    {
     "player": "Klay Thompson",
     "status": "Day-To-Day",
-    "detail": "Thompson (ankle) is listed as questionable for Friday's game against the Cavaliers.",
+    "detail": "Thompson (ankle) is listed as probable for Friday's game against the Cavaliers.",
     "type": "day-to-day",
-    "updated": "2026-11-12T21:23Z"
-   },
-   {
-    "player": "Giannis Antetokounmpo",
-    "status": "Day-To-Day",
-    "detail": "Antetokounmpo (wrist) is probable for Friday's game against Cleveland.",
-    "type": "day-to-day",
-    "updated": "2026-11-12T21:22Z"
+    "updated": "2026-11-13T18:22Z"
    },
    {
     "player": "Pelle Larsson",
     "status": "Day-To-Day",
-    "detail": "Larsson (illness) is listed as questionable for Friday's game against Cleveland.",
+    "detail": "Larsson (illness) is listed as doubtful for Friday's game against Cleveland.",
     "type": "day-to-day",
-    "updated": "2026-11-12T21:20Z"
+    "updated": "2026-11-13T18:20Z"
    }
   ],
   "New Orleans Pelicans": [
    {
     "player": "Bryce McGowens",
+    "status": "Out",
+    "detail": "McGowens (elbow) is listed as out for Friday's game against the Grizzlies.",
+    "type": "out",
+    "updated": "2026-11-13T18:12Z"
+   },
+   {
+    "player": "Yves Missi",
+    "status": "Out",
+    "detail": "Missi (knee) is out for Friday's game against the Grizzlies.",
+    "type": "out",
+    "updated": "2026-11-13T18:11Z"
+   },
+   {
+    "player": "Bennedict Mathurin",
     "status": "Day-To-Day",
-    "detail": "McGowens (elbow) is listed as doubtful for Friday's game against the Grizzlies.",
+    "detail": "Mathurin (thumb) is listed as questionable for Friday's game against Memphis.",
     "type": "day-to-day",
-    "updated": "2026-11-12T20:56Z"
+    "updated": "2026-11-13T18:10Z"
+   },
+   {
+    "player": "Dejounte Murray",
+    "status": "Day-To-Day",
+    "detail": "Murray (ankle) is doubtful for Friday's game against Memphis.",
+    "type": "day-to-day",
+    "updated": "2026-11-13T18:09Z"
+   },
+   {
+    "player": "Trey Murphy III",
+    "status": "Out",
+    "detail": "Murphy (knee) is out for Friday's game against Memphis.",
+    "type": "out",
+    "updated": "2026-11-13T18:07Z"
    },
    {
     "player": "Trendon Watford",
@@ -416,27 +437,6 @@
     "detail": "Watford (ankle) is listed as out for Friday's game against the Grizzlies.",
     "type": "out",
     "updated": "2026-11-12T20:53Z"
-   },
-   {
-    "player": "Bennedict Mathurin",
-    "status": "Day-To-Day",
-    "detail": "Mathurin (thumb) is listed as doubtful for Friday's game against Memphis.",
-    "type": "day-to-day",
-    "updated": "2026-11-12T20:53Z"
-   },
-   {
-    "player": "Yves Missi",
-    "status": "Out",
-    "detail": "Missi (knee) is listed as doubtful for Friday's game against the Grizzlies.",
-    "type": "out",
-    "updated": "2026-11-12T20:50Z"
-   },
-   {
-    "player": "Trey Murphy III",
-    "status": "Day-To-Day",
-    "detail": "Murphy (knee) is listed as doubtful for Friday's game against the Grizzlies.",
-    "type": "day-to-day",
-    "updated": "2026-11-12T20:48Z"
    }
   ],
   "Oklahoma City Thunder": [
@@ -648,5 +648,34 @@
    }
   ]
  },
- "status_changes": []
+ "status_changes": [
+  {
+   "at_et": "2026-11-13 14:05",
+   "team": "Miami Heat",
+   "player": "Giannis Antetokounmpo",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-13 14:05",
+   "team": "New Orleans Pelicans",
+   "player": "Bryce McGowens",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-13 14:05",
+   "team": "New Orleans Pelicans",
+   "player": "Dejounte Murray",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-13 14:05",
+   "team": "New Orleans Pelicans",
+   "player": "Trey Murphy III",
+   "from": "Day-To-Day",
+   "to": "Out"
+  }
+ ]
 }
