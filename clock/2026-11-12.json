@@ -7,7 +7,9 @@
   "board_1615": "2026-11-12T21:15:00Z",
   "box_0520": "2026-11-12T10:20:00Z",
   "close:2026-11-13T00:10:00Z": "2026-11-12T23:58:00Z",
+  "close:2026-11-13T01:10:00Z": "2026-11-13T00:58:00Z",
   "close@2026-11-12T23:58:00Z": "2026-11-12T23:58:00Z",
+  "close@2026-11-13T00:58:00Z": "2026-11-13T00:58:00Z",
   "escreen_1040": "2026-11-12T15:40:01Z",
   "escreen_1620": "2026-11-12T21:20:00Z",
   "fclose:2026-11-13T00:00:00Z": "2026-11-12T23:48:01Z",
@@ -37,6 +39,7 @@
   "2026-11-12T23:40:22Z hand-over to a fresh clock run",
   "2026-11-12T23:48:01Z fclose@2026-11-12T23:48:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
   "2026-11-12T23:58:00Z close@2026-11-12T23:58:00Z: dispatched jdarby00/dk-odds odds.yml (HTTP 204)",
-  "2026-11-13T00:48:00Z fclose@2026-11-13T00:48:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)"
+  "2026-11-13T00:48:00Z fclose@2026-11-13T00:48:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
+  "2026-11-13T00:58:00Z close@2026-11-13T00:58:00Z: dispatched jdarby00/dk-odds odds.yml (HTTP 204)"
  ]
 }
