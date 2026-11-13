@@ -1,5 +1,5 @@
 {
- "credits_remaining": 239,
+ "credits_remaining": 238,
  "date": "2026-11-13",
  "groups": {
   "basketball_nba|bucks@magic|player_points_rebounds_assists": {
@@ -2159,6 +2159,280 @@
      "kind": "lock",
      "minutes_to_tip": 284.4,
      "raw": "raw/2026-11-13/76416359b5453c01968e94702a375f16-player_points_rebounds_assists-lock-20261113T192536012774Z.json",
+     "rev": 1
+    }
+   ],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|bucks@magic|spreads": {
+   "api_away": "Milwaukee Bucks",
+   "api_home": "Orlando Magic",
+   "away": "Bucks",
+   "commence_time": "2026-11-14T00:10:00Z",
+   "event_id": "76416359b5453c01968e94702a375f16",
+   "home": "Magic",
+   "issues": [],
+   "market": "spreads",
+   "players": [],
+   "requested_rev": 1,
+   "snapshots": [
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1028744814",
+       "event_sid": "1028744814",
+       "last_update": "2026-11-13T23:10:08Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "",
+         "price": -107,
+         "sid": "4415020697",
+         "side": "Milwaukee Bucks"
+        },
+        {
+         "line": -9.5,
+         "link": null,
+         "player": "",
+         "price": -115,
+         "sid": "4415020696",
+         "side": "Orlando Magic"
+        }
+       ]
+      },
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/milwaukee-bucks-at-orlando-magic-20050408",
+       "event_sid": "20050408",
+       "last_update": "2026-11-13T23:09:49Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 9.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=20050408-1578264765-2350498034&type=Single",
+         "player": "",
+         "price": -110,
+         "sid": "2350498034",
+         "side": "Milwaukee Bucks"
+        },
+        {
+         "line": -9.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=20050408-1578264765-2350498035&type=Single",
+         "player": "",
+         "price": -110,
+         "sid": "2350498035",
+         "side": "Orlando Magic"
+        }
+       ]
+      },
+      "betonlineag": {
+       "event_link": "https://sports.betonline.ag/sportsbook/basketball/nba/game/491180034",
+       "event_sid": "491180034",
+       "last_update": "2026-11-13T23:09:49Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "",
+         "price": -105,
+         "sid": null,
+         "side": "Milwaukee Bucks"
+        },
+        {
+         "line": -9.5,
+         "link": null,
+         "player": "",
+         "price": -115,
+         "sid": null,
+         "side": "Orlando Magic"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1028744814",
+       "event_sid": "1028744814",
+       "last_update": "2026-11-13T23:10:11Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "",
+         "price": -107,
+         "sid": "4415020697",
+         "side": "Milwaukee Bucks"
+        },
+        {
+         "line": -9.5,
+         "link": null,
+         "player": "",
+         "price": -115,
+         "sid": "4415020696",
+         "side": "Orlando Magic"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1028744814",
+       "event_sid": "1028744814",
+       "last_update": "2026-11-13T23:10:09Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 9.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028744814?coupon={pickType}|4415020697|{wagerAmount}",
+         "player": "",
+         "price": -107,
+         "sid": "4415020697",
+         "side": "Milwaukee Bucks"
+        },
+        {
+         "line": -9.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028744814?coupon={pickType}|4415020696|{wagerAmount}",
+         "player": "",
+         "price": -115,
+         "sid": "4415020696",
+         "side": "Orlando Magic"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/basketball/nba/milwaukee-bucks-orlando-magic-202611131900",
+       "event_sid": "33282991",
+       "last_update": "2026-11-13T23:10:31Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "",
+         "price": -110,
+         "sid": "2468686269",
+         "side": "Milwaukee Bucks"
+        },
+        {
+         "line": -9.5,
+         "link": null,
+         "player": "",
+         "price": -110,
+         "sid": "2468687964",
+         "side": "Orlando Magic"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/35010441",
+       "event_sid": "35010441",
+       "last_update": "2026-11-13T23:09:31Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0HC87219862P950_3",
+         "player": "",
+         "price": -108,
+         "sid": "0HC87219862P950_3",
+         "side": "Milwaukee Bucks"
+        },
+        {
+         "line": -9.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0HC87219862N950_1",
+         "player": "",
+         "price": -112,
+         "sid": "0HC87219862N950_1",
+         "side": "Orlando Magic"
+        }
+       ]
+      },
+      "espnbet": {
+       "event_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/nba/event/e434f468-5d6f-4d73-a01e-67415cfc661e",
+       "event_sid": "e434f468-5d6f-4d73-a01e-67415cfc661e",
+       "last_update": "2026-11-13T23:09:50Z",
+       "market_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/nba/event/e434f468-5d6f-4d73-a01e-67415cfc661e/section/lines",
+       "market_sid": "948cadde-c842-4df2-b184-1a09e62d6441",
+       "outcomes": [
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=ee6ea32c-08a2-4198-870c-a482e97854ea&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": -110,
+         "sid": "ee6ea32c-08a2-4198-870c-a482e97854ea",
+         "side": "Milwaukee Bucks"
+        },
+        {
+         "line": -9.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=99c248be-069e-4e25-a9bc-d861bb5a69cc&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": -110,
+         "sid": "99c248be-069e-4e25-a9bc-d861bb5a69cc",
+         "side": "Orlando Magic"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/nba/milwaukee-bucks-%40-orlando-magic-36307625",
+       "event_sid": "36307625",
+       "last_update": "2026-11-13T23:10:27Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.624524276&selectionId=237477",
+         "player": "",
+         "price": -105,
+         "sid": "237477",
+         "side": "Milwaukee Bucks"
+        },
+        {
+         "line": -9.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.624524276&selectionId=237475",
+         "player": "",
+         "price": -115,
+         "sid": "237475",
+         "side": "Orlando Magic"
+        }
+       ]
+      },
+      "hardrockbet": {
+       "event_link": "https://app.hardrock.bet/home/competition/nba/7045117122904719764",
+       "event_sid": "7045117122904719764",
+       "last_update": "2026-11-13T23:10:12Z",
+       "market_link": null,
+       "market_sid": "8334175419383284144",
+       "outcomes": [
+        {
+         "line": 9.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2699046385635951024",
+         "player": "",
+         "price": -110,
+         "sid": "2699046385635951024",
+         "side": "Milwaukee Bucks"
+        },
+        {
+         "line": -9.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/559836562634965424",
+         "player": "",
+         "price": -110,
+         "sid": "559836562634965424",
+         "side": "Orlando Magic"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-13T23:10:38Z",
+     "kind": "lock",
+     "minutes_to_tip": 59.4,
+     "raw": "raw/2026-11-13/76416359b5453c01968e94702a375f16-spreads-lock-20261113T231038226336Z.json",
      "rev": 1
     }
    ],
@@ -20988,8 +21262,8 @@
   }
  },
  "issues": [],
- "spent_month": 261,
- "spent_today": 8,
+ "spent_month": 262,
+ "spent_today": 9,
  "stop": null,
- "updated": "2026-11-13T19:25:36Z"
+ "updated": "2026-11-13T23:10:38Z"
 }
