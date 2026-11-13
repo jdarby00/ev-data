@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "updated_et": "2026-11-13 14:45",
+ "updated_et": "2026-11-13 16:15",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -56,7 +56,7 @@
    "state": "pre",
    "spread_text": "MIA -2.5",
    "spread": -2.5,
-   "total": 235.5,
+   "total": 236.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -82,9 +82,9 @@
    "away_name": "Utah Jazz",
    "home_name": "Houston Rockets",
    "state": "pre",
-   "spread_text": "HOU -14.5",
-   "spread": -14.5,
-   "total": 221.5,
+   "spread_text": "HOU -15.5",
+   "spread": -15.5,
+   "total": 220.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -397,6 +397,13 @@
   ],
   "New Orleans Pelicans": [
    {
+    "player": "Dejounte Murray",
+    "status": "Out",
+    "detail": "Murray (ankle) is out for Friday's game against Memphis.",
+    "type": "out",
+    "updated": "2026-11-13T20:19Z"
+   },
+   {
     "player": "Bryce McGowens",
     "status": "Out",
     "detail": "McGowens (elbow) is listed as out for Friday's game against the Grizzlies.",
@@ -416,13 +423,6 @@
     "detail": "Mathurin (thumb) is listed as questionable for Friday's game against Memphis.",
     "type": "day-to-day",
     "updated": "2026-11-13T18:10Z"
-   },
-   {
-    "player": "Dejounte Murray",
-    "status": "Day-To-Day",
-    "detail": "Murray (ankle) is doubtful for Friday's game against Memphis.",
-    "type": "day-to-day",
-    "updated": "2026-11-13T18:09Z"
    },
    {
     "player": "Trey Murphy III",
@@ -674,6 +674,13 @@
    "at_et": "2026-11-13 14:05",
    "team": "New Orleans Pelicans",
    "player": "Trey Murphy III",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-13 16:15",
+   "team": "New Orleans Pelicans",
+   "player": "Dejounte Murray",
    "from": "Day-To-Day",
    "to": "Out"
   }
