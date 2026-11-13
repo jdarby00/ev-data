@@ -1,6 +1,6 @@
 # NBA board, 2026-11-13
 
-Slate updated 2026-11-13 14:05 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-13 14:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -246,7 +246,7 @@ Line: HOU -14.5, total 221.5 (Draft Kings).
 | Steven Adams | Out | 8 (–) | 4/4 | 2/2 | 1/1 | 0/0 | – |
 
 ## GS @ SA, 21:30 ET
-Line: SA -12.5, total 218.5 (Draft Kings).
+Line: SA -12.5, total 217.5 (Draft Kings).
 **GS** (1 rest day). Out: Stephen Curry, Brandon Williams. Freed minutes: 42.7. Out all season so far (already in the lines): Kristaps Porzingis, Moses Moody, Jimmy Butler III.
 - Without Stephen Curry: Will Richard min +11.3, pts +1.9, reb -2.4, ast +1.3 (n=2 vs 9)
 - Without Stephen Curry: Graham Ike min +8.7, pts +2.9, reb +4.6, ast +0.1 (n=2 vs 7)
