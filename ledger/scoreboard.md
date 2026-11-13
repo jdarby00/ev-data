@@ -1,12 +1,12 @@
 # Scoreboard
 
-Built Thu 12 Nov 2026, 7:18 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
+Built Thu 12 Nov 2026, 8:52 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
 
 ## Jake's real money
 
 | Contestant | Bets | W–L–P–V | Profit | ROI | Bankroll | Max drawdown | CLV (n, avg, beat close) | Pending |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| jake | 10 | 0–10–0–0 | $-60.00 | -100.0% | $-60.00 | $60.00 | – | 1 |
+| jake | 10 | 0–10–0–0 | $-60.00 | -100.0% | $-60.00 | $60.00 | – | 2 |
 
 ## Paper contestants at real prices (start $500, logged stake)
 
@@ -66,4 +66,4 @@ Brier score 0.259 (a coin flip is 0.250).
 ## Open items
 
 - a6ac9837fa5c: withdrawal after the start ignored
-- 14 pending (waiting for box scores or a manual settle).
+- 15 pending (waiting for box scores or a manual settle).
