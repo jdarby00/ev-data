@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "updated_et": "2026-11-13 05:20",
+ "updated_et": "2026-11-13 12:45",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -12,8 +12,8 @@
    "away_name": "New York Knicks",
    "home_name": "Indiana Pacers",
    "state": "pre",
-   "spread_text": "NY -7.5",
-   "spread": 7.5,
+   "spread_text": "NY -8.5",
+   "spread": 8.5,
    "total": 219.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -28,7 +28,7 @@
    "state": "pre",
    "spread_text": "ORL -9.5",
    "spread": -9.5,
-   "total": 224.5,
+   "total": 223.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -56,7 +56,7 @@
    "state": "pre",
    "spread_text": "MIA -2.5",
    "spread": -2.5,
-   "total": 236.5,
+   "total": 235.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -68,9 +68,9 @@
    "away_name": "Memphis Grizzlies",
    "home_name": "New Orleans Pelicans",
    "state": "pre",
-   "spread_text": "MEM -3.5",
-   "spread": 3.5,
-   "total": 235.5,
+   "spread_text": "MEM -2.5",
+   "spread": 2.5,
+   "total": 237.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -82,9 +82,9 @@
    "away_name": "Utah Jazz",
    "home_name": "Houston Rockets",
    "state": "pre",
-   "spread_text": "HOU -16.5",
-   "spread": -16.5,
-   "total": 219.5,
+   "spread_text": "HOU -15.5",
+   "spread": -15.5,
+   "total": 220.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -96,9 +96,9 @@
    "away_name": "Golden State Warriors",
    "home_name": "San Antonio Spurs",
    "state": "pre",
-   "spread_text": "SA -13.5",
-   "spread": -13.5,
-   "total": 220.5,
+   "spread_text": "SA -11.5",
+   "spread": -11.5,
+   "total": 217.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -112,7 +112,7 @@
    "state": "pre",
    "spread_text": "POR -10.5",
    "spread": 10.5,
-   "total": 229.5,
+   "total": 228.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -124,8 +124,8 @@
    "away_name": "Oklahoma City Thunder",
    "home_name": "LA Clippers",
    "state": "pre",
-   "spread_text": "OKC -6.5",
-   "spread": 6.5,
+   "spread_text": "OKC -7.5",
+   "spread": 7.5,
    "total": 222.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -485,25 +485,25 @@
   ],
   "Orlando Magic": [
    {
-    "player": "Tristan da Silva",
-    "status": "Day-To-Day",
-    "detail": "Da Silva (calf) is questionable for Friday's game against Milwaukee.",
-    "type": "day-to-day",
-    "updated": "2026-11-12T22:07Z"
-   },
-   {
     "player": "Jamal Cain",
     "status": "Day-To-Day",
-    "detail": "Cain (shoulder) is questionable for Friday's game against the Bucks.",
+    "detail": "Cain (shoulder) participated in Friday morning's shootaround and remains questionable for Friday's game against the Bucks, Jason Beede of the Orlando Sentinel reports.",
     "type": "day-to-day",
-    "updated": "2026-11-12T22:04Z"
+    "updated": "2026-11-13T17:12Z"
+   },
+   {
+    "player": "Tristan da Silva",
+    "status": "Day-To-Day",
+    "detail": "Da Silva (calf) participated in Friday's morning shootaround and remains questionable for Friday's game against Milwaukee, Jason Beede of the Orlando Sentinel reports.",
+    "type": "day-to-day",
+    "updated": "2026-11-13T17:09Z"
    },
    {
     "player": "Jalen Suggs",
     "status": "Out",
-    "detail": "Suggs (knee) is questionable for Friday's game against Milwaukee.",
+    "detail": "Suggs (knee) participated in Friday's morning shootaround and remains questionable for Friday's game against the Bucks, Jason Beede of the Orlando Sentinel reports.",
     "type": "out",
-    "updated": "2026-11-12T22:03Z"
+    "updated": "2026-11-13T17:08Z"
    },
    {
     "player": "Jonathan Isaac",

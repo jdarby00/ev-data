@@ -1,11 +1,11 @@
 # NBA board, 2026-11-13
 
-Slate updated 2026-11-13 05:20 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-13 12:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## NY @ IND, 19:00 ET
-Line: NY -7.5, total 219.5 (DraftKings).
+Line: NY -8.5, total 219.5 (DraftKings).
 **NY** (1 rest day). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -42,7 +42,7 @@ Line: NY -7.5, total 219.5 (DraftKings).
 | Jalen Slawson | – | 17.8 (10) → 15.9 (3.5) | 4.6/3.6 → 4 (0–10) | 3.6/3.1 → 3 (0–6) | 1.4/1.1 → 1 (0–4) | 0.4/0.2 → 0 (0–2) | 8 (0–19) |
 
 ## MIL @ ORL, 19:00 ET
-Line: ORL -9.5, total 224.5 (DraftKings).
+Line: ORL -9.5, total 223.5 (DraftKings).
 **MIL** (1 rest day). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -121,7 +121,7 @@ Line: ATL -7.5, total 245.5 (DraftKings).
 | Tobe Awaka | Out | 10 (4.7) | 2/2 | 5.2/5.2 | 0.8/0.8 | 0/0 | – |
 
 ## CLE @ MIA, 20:00 ET
-Line: MIA -2.5, total 236.5 (DraftKings).
+Line: MIA -2.5, total 235.5 (DraftKings).
 **CLE** (1 rest day). Out: Evan Mobley, Sam Merrill. Freed minutes: 55.2.
 - Without Sam Merrill: Tyrese Proctor min +8, pts +3.4, reb -0.7, ast +0.7 (n=3 vs 8)
 - Without Sam Merrill: Craig Porter Jr. min +7.7, pts +3.8, reb -0.2, ast +1.5 (n=2 vs 7)
@@ -156,7 +156,7 @@ Line: MIA -2.5, total 236.5 (DraftKings).
 | Bobby Portis | – | 17.4 (3.7) → 19.2 (11.5) | 3/6.8 → 8 (2–15) | 4/5.8 → 4 (2–8) | 1.8/1.7 → 1 (0–3) | 0.4/1.3 → 1 (0–3) | 14 (5–24) |
 
 ## MEM @ NO, 20:00 ET
-Line: MEM -3.5, total 235.5 (DraftKings).
+Line: MEM -2.5, total 237.5 (DraftKings).
 **MEM** (1 rest day). Out: Zach Edey, Scotty Pippen Jr., Quinten Post. Freed minutes: 49.9. Out all season so far (already in the lines): Richie Saunders.
 - Without Quinten Post: Kris Murray min +11, pts -0.4, reb +1.1, ast +0.4 (n=2 vs 5)
 - Without Quinten Post: Isaiah Stewart min +6.5, pts +4.7, reb +0.3, ast +0.9 (n=3 vs 5)
@@ -198,7 +198,7 @@ Line: MEM -3.5, total 235.5 (DraftKings).
 | Trendon Watford | Out | 18 (1.3) | 7/7.2 | 4/3.5 | 0.8/1 | 0.4/0.3 | – |
 
 ## UTAH @ HOU, 20:30 ET
-Line: HOU -16.5, total 219.5 (DraftKings).
+Line: HOU -15.5, total 220.5 (DraftKings).
 **UTAH** (1 rest day). Out: Lauri Markkanen, Jaren Jackson Jr.. Freed minutes: 56.9. Out all season so far (already in the lines): Trey Alexander, Jusuf Nurkic.
 - Without Lauri Markkanen: Josh Green min +11.7, pts +1, reb +0.7, ast +1.5 (n=4 vs 6)
 - Without Lauri Markkanen: Kyle Filipowski min +8.3, pts +6.5, reb +4.3, ast +0.7 (n=2 vs 6)
@@ -239,7 +239,7 @@ Line: HOU -16.5, total 219.5 (DraftKings).
 | Steven Adams | Out | 8 (–) | 4/4 | 2/2 | 1/1 | 0/0 | – |
 
 ## GS @ SA, 21:30 ET
-Line: SA -13.5, total 220.5 (DraftKings).
+Line: SA -11.5, total 217.5 (DraftKings).
 **GS** (1 rest day). Out: Stephen Curry, Brandon Williams. Freed minutes: 42.7. Out all season so far (already in the lines): Kristaps Porzingis, Moses Moody, Jimmy Butler III.
 - Without Stephen Curry: Will Richard min +11.3, pts +1.9, reb -2.4, ast +1.3 (n=2 vs 9)
 - Without Stephen Curry: Graham Ike min +8.7, pts +2.9, reb +4.6, ast +0.1 (n=2 vs 7)
@@ -277,7 +277,7 @@ Line: SA -13.5, total 220.5 (DraftKings).
 | Tobias Harris | Out | none this season; last season 27.8 min, 13.3 pts | | | | |
 
 ## POR @ SAC, 22:00 ET
-Line: POR -10.5, total 229.5 (DraftKings).
+Line: POR -10.5, total 228.5 (DraftKings).
 **POR** (1 rest day). Out: Ja Morant, Chris Youngblood, Vit Krejci. Freed minutes: 49.8. Out all season so far (already in the lines): Shaedon Sharpe.
 - Without Chris Youngblood: Scoot Henderson min -5.8, pts -2.5, reb +0.2, ast +0.1 (n=5 vs 6)
 - Without Ja Morant: Toumani Camara min +5.4, pts -3.8, reb +2.6, ast -0.1 (n=7 vs 4)
@@ -315,7 +315,7 @@ Line: POR -10.5, total 229.5 (DraftKings).
 | Jonathan Mogbo | – | 14.2 (8.2) → 12.7 (2.4) | 3/3 → 3 (0–7) | 2.2/2.2 → 3 (0–6) | 0.8/0.8 → 1 (0–3) | 0.2/0.2 → 0 (0–0) | 6 (0–15) |
 
 ## OKC @ LAC, 22:30 ET
-Line: OKC -6.5, total 222.5 (DraftKings).
+Line: OKC -7.5, total 222.5 (DraftKings).
 **OKC** (1 rest day). Out: Jalen Williams, Chet Holmgren, Jaylin Williams, Cason Wallace. Freed minutes: 96.4. Out all season so far (already in the lines): Thomas Sorber.
 - Without Jalen Williams: Bennett Stirtz min +18.5, pts +9.6, reb +1.1, ast +1.7 (n=9 vs 3)
 - Without Chet Holmgren: Bennett Stirtz min +18.5, pts +9.6, reb +1.1, ast +1.7 (n=9 vs 3)
