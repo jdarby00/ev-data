@@ -6,15 +6,15 @@ Residual = how often the side won minus the fair chance the books gave it. The r
 
 ## Ideas under test
 
-| Idea | Sides | Games | Won | Fair | Residual (90% range) | ROI at price | Halves | Verdict |
+| Idea | Verdict | Won | Fair | Residual (90% range) | Halves | ROI at price | Sides | Games |
 |---|---|---|---|---|---|---|---|---|
-| NBA PRA unders (R15) | 987 | 79 | 55.5% | 50.2% | +5.3% (+2.1% to +8.3%) | +9.5% (n=660) | +0.4% / +7.7% | one half only |
-| NBA combo unders PR/RA/PRA | 2909 | 79 | 53.9% | 50.2% | +3.7% (+1.1% to +6.1%) | +5.7% (n=1919) | -0.4% / +5.7% | one half only |
-| NBA assists unders | 819 | 79 | 54.7% | 51.0% | +3.7% (+1.3% to +6.1%) | +2.5% (n=496) | +2.7% / +4.4% | edge (both halves agree) |
-| NBA all unders | 8029 | 79 | 53.1% | 50.7% | +2.4% (+0.6% to +4.2%) | +2.2% (n=5243) | -0.4% / +4.0% | one half only |
-| NFL rushing unders (yds, rush+rec, att) | 1745 | 100 | 52.3% | 50.2% | +2.1% (-1.6% to +6.2%) | -5.5% (n=175) | +5.4% / -0.3% | no edge |
-| NFL receiving-yards overs | 1690 | 100 | 53.0% | 50.0% | +3.0% (+0.1% to +5.9%) | +3.3% (n=194) | +3.1% / +2.9% | edge (both halves agree) |
-| Favourites 65%+ (both leagues) | 262 | 107 | 68.3% | 67.5% | +0.8% (-3.7% to +5.3%) | -1.7% (n=32) | -1.6% / +2.8% | no edge |
+| NBA PRA unders (R15) | one half only | 55.5% | 50.2% | +5.3% (+2.1% to +8.3%) | +0.4% / +7.7% | +9.5% (n=660) | 987 | 79 |
+| NBA combo unders PR/RA/PRA | one half only | 53.9% | 50.2% | +3.7% (+1.1% to +6.1%) | -0.4% / +5.7% | +5.7% (n=1919) | 2909 | 79 |
+| NBA assists unders | edge (both halves agree) | 54.7% | 51.0% | +3.7% (+1.3% to +6.1%) | +2.7% / +4.4% | +2.5% (n=496) | 819 | 79 |
+| NBA all unders | one half only | 53.1% | 50.7% | +2.4% (+0.6% to +4.2%) | -0.4% / +4.0% | +2.2% (n=5243) | 8029 | 79 |
+| NFL rushing unders (yds, rush+rec, att) | no edge | 52.3% | 50.2% | +2.1% (-1.6% to +6.2%) | +5.4% / -0.3% | -5.5% (n=175) | 1745 | 100 |
+| NFL receiving-yards overs | edge (both halves agree) | 53.0% | 50.0% | +3.0% (+0.1% to +5.9%) | +3.1% / +2.9% | +3.3% (n=194) | 1690 | 100 |
+| Favourites 65%+ (both leagues) | no edge | 68.3% | 67.5% | +0.8% (-3.7% to +5.3%) | -1.6% / +2.8% | -1.7% (n=32) | 262 | 107 |
 
 ## Calibration: do the books' chances come true?
 
