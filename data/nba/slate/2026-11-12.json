@@ -1,6 +1,6 @@
 {
  "date": "2026-11-12",
- "updated_et": "2026-11-12 20:52",
+ "updated_et": "2026-11-12 21:53",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,7 +11,7 @@
    "home": "PHI",
    "away_name": "Toronto Raptors",
    "home_name": "Philadelphia 76ers",
-   "state": "in",
+   "state": "post",
    "spread_text": "PHI -7.5",
    "spread": -7.5,
    "total": 223.5,
@@ -53,7 +53,7 @@
    "home": "PHX",
    "away_name": "Charlotte Hornets",
    "home_name": "Phoenix Suns",
-   "state": "pre",
+   "state": "in",
    "spread_text": "PHX -6.5",
    "spread": -6.5,
    "total": 214.5,
