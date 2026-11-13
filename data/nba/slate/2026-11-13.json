@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "updated_et": "2026-11-13 16:15",
+ "updated_et": "2026-11-13 16:37",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -28,7 +28,7 @@
    "state": "pre",
    "spread_text": "ORL -9.5",
    "spread": -9.5,
-   "total": 224.5,
+   "total": 223.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -567,10 +567,10 @@
   "Sacramento Kings": [
    {
     "player": "Precious Achiuwa",
-    "status": "Day-To-Day",
-    "detail": "Achiuwa (ankle) is questionable to play Friday's game against the Trail Blazers.",
-    "type": "day-to-day",
-    "updated": "2026-11-13T00:22Z"
+    "status": "Out",
+    "detail": "Achiuwa (ankle) is out for Friday's game against the Trail Blazers.",
+    "type": "out",
+    "updated": "2026-11-13T21:20Z"
    },
    {
     "player": "Maxime Raynaud",
@@ -681,6 +681,13 @@
    "at_et": "2026-11-13 16:15",
    "team": "New Orleans Pelicans",
    "player": "Dejounte Murray",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-13 16:37",
+   "team": "Sacramento Kings",
+   "player": "Precious Achiuwa",
    "from": "Day-To-Day",
    "to": "Out"
   }

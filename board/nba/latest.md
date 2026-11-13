@@ -1,6 +1,6 @@
 # NBA board, 2026-11-13
 
-Slate updated 2026-11-13 16:15 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-13 16:37 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -11,6 +11,7 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 14:05 New Orleans Pelicans: Dejounte Murray not listed → Day-To-Day
 - 14:05 New Orleans Pelicans: Trey Murphy III Day-To-Day → Out
 - 16:15 New Orleans Pelicans: Dejounte Murray Day-To-Day → Out
+- 16:37 Sacramento Kings: Precious Achiuwa Day-To-Day → Out
 
 ## NY @ IND, 19:00 ET
 Line: NY -8.5, total 219.5 (Draft Kings).
@@ -50,7 +51,7 @@ Line: NY -8.5, total 219.5 (Draft Kings).
 | Jalen Slawson | – | 17.8 (10) → 15.9 (3.5) | 4.6/3.6 → 4 (0–10) | 3.6/3.1 → 3 (0–6) | 1.4/1.1 → 1 (0–4) | 0.4/0.2 → 0 (0–2) | 8 (0–19) |
 
 ## MIL @ ORL, 19:00 ET
-Line: ORL -9.5, total 224.5 (Draft Kings).
+Line: ORL -9.5, total 223.5 (Draft Kings).
 **MIL** (1 rest day). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -306,7 +307,7 @@ Line: POR -10.5, total 229.5 (Draft Kings).
 | Chris Youngblood | Out | 14.8 (8.3) | 6.6/6 | 1.6/1.3 | 1.2/1 | 1.4/1.3 | – |
 | Vit Krejci | Out | 10.6 (7.2) | 3.6/2.7 | 1.4/1.6 | 1/1.1 | 0.6/0.4 | – |
 
-**SAC** (2 rest days). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Maxime Raynaud, Ben Simmons.
+**SAC** (2 rest days). Out: Precious Achiuwa. Freed minutes: 26.4. Out all season so far (already in the lines): Maxime Raynaud, Ben Simmons.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -316,7 +317,7 @@ Line: POR -10.5, total 229.5 (Draft Kings).
 | Zach LaVine | – | 31.2 (6) → 30 (21.9) | 20.8/22.3 → 19 (10–30) | 3.8/3.3 → 3 (1–5) | 1.8/2.5 → 2 (0–4) | 3.2/2.8 → 2 (1–5) | 24 (13–37) |
 | Keegan Murray | – | 25.2 (1.9) → 26.3 (18.6) | 8.8/8.8 → 10 (4–17) | 2.2/2.2 → 3 (1–6) | 1/1 → 1 (0–3) | 0.5/0.5 → 1 (0–2) | 15 (6–24) |
 | Leaky Black | – | 25 (9.6) → 23.4 (11.6) | 6.6/5.8 → 5 (1–11) | 4/3.5 → 4 (1–7) | 2/1.8 → 1 (0–3) | 2/1.7 → 1 (0–3) | 11 (3–20) |
-| Precious Achiuwa | Day-To-Day | 23.2 (9.4) → 24.4 (12.7) | 7.8/10.4 → 9 (2–18) | 6.8/6.4 → 6 (2–12) | 1.2/1.1 → 1 (0–3) | 0.6/0.4 → 0 (0–1) | 17 (6–30) |
+| Precious Achiuwa | Out | 23.2 (9.4) | 7.8/10.4 | 6.8/6.4 | 1.2/1.1 | 0.6/0.4 | – |
 | Malik Monk | – | 19.2 (7.5) → 16.1 (6.5) | 11.8/7.8 → 8 (2–17) | 1/1.1 → 1 (0–3) | 4/3.4 → 2 (0–5) | 2/1.1 → 1 (0–3) | 12 (3–24) |
 | Dylan Cardwell | – | 18.8 (6.2) → 20.3 (11.7) | 4.5/4.5 → 5 (0–10) | 7/7 → 7 (3–13) | 1.8/1.8 → 1 (0–3) | 0/0 → 0 (0–0) | 13 (5–24) |
 | Emanuel Sharp | – | 18.4 (5.9) → 18.5 (10.6) | 5.6/4.6 → 6 (1–11) | 2.4/1.4 → 2 (1–5) | 0.6/0.6 → 1 (0–3) | 1.6/1.2 → 1 (0–2) | 9 (2–18) |
