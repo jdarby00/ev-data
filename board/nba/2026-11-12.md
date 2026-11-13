@@ -1,6 +1,6 @@
 # NBA board, 2026-11-12
 
-Slate updated 2026-11-12 16:55 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-12 19:18 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -10,6 +10,8 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 13:21 Toronto Raptors: Trayce Jackson-Davis Day-To-Day → Out
 - 14:05 Charlotte Hornets: Grant Williams Out → removed from report
 - 14:05 Charlotte Hornets: Moussa Diabate Day-To-Day → removed from report
+- 19:18 Dallas Mavericks: Morez Johnson Jr. Day-To-Day → removed from report
+- 19:18 Philadelphia 76ers: Joel Embiid Day-To-Day → removed from report
 
 ## TOR @ PHI, 19:00 ET
 Line: PHI -7.5, total 223.5 (DraftKings).
@@ -45,7 +47,7 @@ Line: PHI -7.5, total 223.5 (DraftKings).
 | VJ Edgecombe | – | 33.4 (2.4) → 33.6 (25.9) | 14.4/12.7 → 14 (6–22) | 4.4/6.3 → 5 (2–9) | 3.6/3.1 → 3 (1–6) | 1.8/1.7 → 2 (0–4) | 23 (12–34) |
 | Jaylen Brown | – | 33 (3.7) → 33.4 (25.7) | 23.4/21.5 → 24 (13–35) | 7/6.5 → 6 (3–10) | 3.4/3.8 → 4 (1–7) | 2.4/1.9 → 2 (0–4) | 34 (20–49) |
 | LeBron James | Out | 31.6 (1.4) | 13.8/15.1 | 7.4/7.2 | 6/6.5 | 0.8/0.9 | – |
-| Joel Embiid | Day-To-Day | 28.6 (4.2) → 30.6 (22.9) | 16.2/17.7 → 20 (11–31) | 9.2/9.3 → 8 (4–13) | 2.4/3.8 → 3 (1–6) | 0.2/0.4 → 1 (0–2) | 32 (19–47) |
+| Joel Embiid | – | 28.6 (4.2) → 30.6 (22.9) | 16.2/17.7 → 20 (11–31) | 9.2/9.3 → 8 (4–13) | 2.4/3.8 → 3 (1–6) | 0.2/0.4 → 1 (0–2) | 32 (19–47) |
 | Dean Wade | – | 21.4 (5.7) → 22.8 (15.1) | 3.8/3.7 → 5 (0–9) | 4.4/3.7 → 4 (1–8) | 0.8/1.7 → 1 (0–3) | 0.8/0.7 → 1 (0–2) | 10 (3–18) |
 | Kentavious Caldwell-Pope | – | 17.6 (5.1) → 19.4 (11.7) | 3.8/5.2 → 6 (1–11) | 2/2.4 → 2 (0–4) | 1/1.4 → 2 (0–4) | 1/1.2 → 1 (0–2) | 10 (3–18) |
 | Anfernee Simons | – | 17.4 (5.9) → 20.1 (12.1) | 6.4/9.7 → 10 (3–18) | 2.4/2.2 → 2 (0–4) | 1/1.2 → 1 (0–3) | 1.2/2.2 → 2 (0–4) | 14 (5–24) |
@@ -96,7 +98,7 @@ Line: DET -10.5, total 221.5 (DraftKings).
 | Deandre Ayton | – | 12.6 (5.3) → 14.7 (7) | 3.8/4.8 → 5 (1–11) | 5.2/4.8 → 4 (1–9) | 0.8/0.8 → 0 (0–2) | 0/0 → 0 (0–0) | 10 (3–20) |
 
 ## DAL @ MIN, 20:00 ET
-Line: MIN -5.5, total 225.5 (DraftKings).
+Line: MIN -5.5, total 225.5 (Draft Kings).
 **DAL** (2 rest days). Out: Sergio de Larrea. Freed minutes: 11.8. Out all season so far (already in the lines): Dereck Lively II, Tarik Biberovic.
 - Without Sergio de Larrea: Max Christie min -16.6, pts -6.2, reb -2, ast -2 (n=6 vs 4)
 - Without Sergio de Larrea: Zaccharie Risacher min -9.3, pts -1.4, reb -1.7, ast -0.2 (n=7 vs 4)
@@ -111,7 +113,7 @@ Line: MIN -5.5, total 225.5 (DraftKings).
 | Naji Marshall | – | 23 (5) → 24.1 (16.4) | 9.6/11.1 → 11 (4–19) | 2.8/3 → 3 (1–6) | 3.8/4.5 → 3 (1–6) | 0.8/0.9 → 1 (0–2) | 18 (8–29) |
 | Walter Clayton Jr. | – | 21.8 (7) → 19.4 (10.3) | 10.2/7.2 → 7 (2–14) | 4.2/3.2 → 3 (1–6) | 3.8/3.4 → 3 (1–7) | 1.8/1.3 → 1 (0–3) | 14 (5–25) |
 | Daniel Gafford | – | 20.2 (4.5) → 21.2 (13.5) | 11/9.6 → 10 (3–17) | 3.8/5.5 → 5 (2–10) | 1.4/2 → 1 (0–3) | 0/0.1 → 0 (0–0) | 17 (7–28) |
-| Morez Johnson Jr. | Day-To-Day | 19 (3) → 18.5 (10.8) | 8/7.6 → 7 (2–14) | 6.6/5.1 → 5 (2–9) | 1.2/1.3 → 1 (0–3) | 0.4/0.2 → 0 (0–2) | 13 (5–24) |
+| Morez Johnson Jr. | – | 19 (3) → 18.5 (10.8) | 8/7.6 → 7 (2–14) | 6.6/5.1 → 5 (2–9) | 1.2/1.3 → 1 (0–3) | 0.4/0.2 → 0 (0–2) | 13 (5–24) |
 | Caleb Martin | – | 18 (4.3) → 17.8 (10.1) | 1.4/3.6 → 3 (0–8) | 2.8/2.3 → 2 (0–5) | 1.8/1.3 → 2 (0–4) | 0.2/0.7 → 0 (0–1) | 8 (2–15) |
 | Zaccharie Risacher | – | 17.8 (6.5) → 20.7 (12.2) | 4.2/7.1 → 7 (2–14) | 3.6/4.9 → 4 (1–7) | 1/1.4 → 1 (0–3) | 0.2/0.8 → 1 (0–2) | 12 (4–22) |
 | Santi Aldama | – | 15.7 (2.5) → 18.1 (10.4) | 10/10 → 9 (3–17) | 5/5 → 4 (1–8) | 0.7/0.7 → 1 (0–3) | 1/1 → 1 (0–3) | 15 (6–27) |
@@ -138,7 +140,7 @@ Line: MIN -5.5, total 225.5 (DraftKings).
 | Bones Hyland | – | 13.4 (4.1) → 13.5 (5.8) | 10.6/8.5 → 8 (1–16) | 1.4/1.3 → 1 (0–3) | 2.4/2.5 → 2 (0–5) | 1.6/1.5 → 1 (0–3) | 11 (3–22) |
 
 ## CHA @ PHX, 21:00 ET
-Line: PHX -6.5, total 214.5 (DraftKings).
+Line: PHX -6.5, total 214.5 (Draft Kings).
 **CHA** (2 rest days). Out: Brandon Miller, Dennis Schroder, Kon Knueppel. Freed minutes: 67.
 - Without Dennis Schroder: Hannes Steinbach min +12.3, pts +0.3, reb +4.7, ast +0.2 (n=2 vs 3)
 - Without Dennis Schroder: Ryan Kalkbrenner min +11.2, pts +1.4, reb +5.7, ast -0.1 (n=2 vs 9)

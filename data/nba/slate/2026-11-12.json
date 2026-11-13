@@ -1,6 +1,6 @@
 {
  "date": "2026-11-12",
- "updated_et": "2026-11-12 16:55",
+ "updated_et": "2026-11-12 19:18",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,7 +11,7 @@
    "home": "PHI",
    "away_name": "Toronto Raptors",
    "home_name": "Philadelphia 76ers",
-   "state": "pre",
+   "state": "in",
    "spread_text": "PHI -7.5",
    "spread": -7.5,
    "total": 223.5,
@@ -25,7 +25,7 @@
    "home": "WSH",
    "away_name": "Detroit Pistons",
    "home_name": "Washington Wizards",
-   "state": "pre",
+   "state": "in",
    "spread_text": "DET -10.5",
    "spread": 10.5,
    "total": 221.5,
@@ -43,7 +43,7 @@
    "spread_text": "MIN -5.5",
    "spread": -5.5,
    "total": 225.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -57,7 +57,7 @@
    "spread_text": "PHX -6.5",
    "spread": -6.5,
    "total": 214.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   }
  ],
@@ -106,13 +106,6 @@
     "detail": "De Larrea (knee) has been ruled out for Thursday's game at Minnesota.",
     "type": "out",
     "updated": "2026-11-11T22:10Z"
-   },
-   {
-    "player": "Morez Johnson Jr.",
-    "status": "Day-To-Day",
-    "detail": "Johnson (shin) is listed as probable for Thursday's game against Minnesota.",
-    "type": "day-to-day",
-    "updated": "2026-11-11T22:08Z"
    }
   ],
   "Detroit Pistons": [
@@ -175,13 +168,6 @@
     "detail": "Bona (back) will be re-evaluated in approximately one week after seeing a specialist, Ky Carlin of USA Today reports.",
     "type": "out",
     "updated": "2026-11-12T16:36Z"
-   },
-   {
-    "player": "Joel Embiid",
-    "status": "Day-To-Day",
-    "detail": "Embiid (foot) remains questionable for Thursday's game against the Raptors, but he participated in the team's morning shootaround, Ky Carlin of USA Today reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-12T16:34Z"
    },
    {
     "player": "Ariel Hukporti",
@@ -287,6 +273,20 @@
    "at_et": "2026-11-12 14:05",
    "team": "Charlotte Hornets",
    "player": "Moussa Diabate",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-12 19:18",
+   "team": "Dallas Mavericks",
+   "player": "Morez Johnson Jr.",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-12 19:18",
+   "team": "Philadelphia 76ers",
+   "player": "Joel Embiid",
    "from": "Day-To-Day",
    "to": "removed from report"
   }
