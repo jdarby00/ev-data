@@ -33,8 +33,8 @@ Residual = how often the side won minus the fair chance the books gave it. The r
 
 | Contestant | Rows | Nights | Graded | Won | Fair | ROI |
 |---|---|---|---|---|---|---|
-| r15_ast_under | 98 | 1 | 96 | 51.0% | 50.0% | -2.3% |
-| r15_combo_under | 211 | 1 | 207 | 53.1% | 50.2% | -0.4% |
-| r15_pra_under | 105 | 1 | 103 | 52.4% | 50.3% | -1.5% |
+| r15_ast_under | 139 | 2 | 96 | 51.0% | 50.0% | -2.3% |
+| r15_combo_under | 310 | 2 | 207 | 53.1% | 50.2% | -0.4% |
+| r15_pra_under | 154 | 2 | 103 | 52.4% | 50.3% | -1.5% |
 
 Pass mark (pre-registered): 15+ nights and 500+ r15_pra_under rows, ROI > 0, day-resampled 5% bound above -2%.
