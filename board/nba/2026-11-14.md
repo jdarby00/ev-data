@@ -1,6 +1,6 @@
 # NBA board, 2026-11-14
 
-Slate updated 2026-11-14 15:05 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-14 16:15 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -141,7 +141,7 @@ Line: MEM -1.5, total 227.5 (DraftKings).
 | GG Jackson | – | 15 (4.6) → 16.9 (9.2) | 5/7 → 8 (2–16) | 2/3.3 → 3 (1–6) | 1/1.1 → 1 (0–3) | 0.6/1.1 → 1 (0–3) | 13 (4–23) |
 
 ## DET @ MIA, 20:00 ET
-Line: DET -3.5, total 229.5 (DraftKings).
+Line: DET -4.5, total 229.5 (DraftKings).
 **DET** (1 rest day). Out: Jalen Duren, Isaiah Joe. Freed minutes: 32.7.
 - Without Jalen Duren: Daniss Jenkins min +10.8, pts +5.4, reb +0.4, ast +0.3 (n=9 vs 2)
 - Without Isaiah Joe: Paul Reed min +7, pts +0.8, reb -0.8, ast -0.2 (n=8 vs 3)
