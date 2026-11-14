@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "updated_et": "2026-11-13 20:28",
+ "updated_et": "2026-11-13 21:40",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -25,7 +25,7 @@
    "home": "ORL",
    "away_name": "Milwaukee Bucks",
    "home_name": "Orlando Magic",
-   "state": "in",
+   "state": "post",
    "spread_text": "ORL -9.5",
    "spread": -9.5,
    "total": 223.5,
@@ -81,7 +81,7 @@
    "home": "HOU",
    "away_name": "Utah Jazz",
    "home_name": "Houston Rockets",
-   "state": "pre",
+   "state": "in",
    "spread_text": "HOU -15.5",
    "spread": -15.5,
    "total": 221.5,
@@ -98,7 +98,7 @@
    "state": "pre",
    "spread_text": "SA -12.5",
    "spread": -12.5,
-   "total": 215.5,
+   "total": 217.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -124,8 +124,8 @@
    "away_name": "Oklahoma City Thunder",
    "home_name": "LA Clippers",
    "state": "pre",
-   "spread_text": "OKC -7.5",
-   "spread": 7.5,
+   "spread_text": "OKC -6.5",
+   "spread": 6.5,
    "total": 222.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -209,13 +209,6 @@
    }
   ],
   "Golden State Warriors": [
-   {
-    "player": "Charles Bassey",
-    "status": "Day-To-Day",
-    "detail": "Bassey is probable for Friday's game against the Spurs due to left toe soreness.",
-    "type": "day-to-day",
-    "updated": "2026-11-12T22:18Z"
-   },
    {
     "player": "Stephen Curry",
     "status": "Out",
@@ -413,18 +406,18 @@
   ],
   "Oklahoma City Thunder": [
    {
+    "player": "Ajay Mitchell",
+    "status": "Out",
+    "detail": "Mitchell (ankle) is questionable for Friday's game against the Clippers.",
+    "type": "out",
+    "updated": "2026-11-14T02:32Z"
+   },
+   {
     "player": "Thomas Sorber",
     "status": "Out",
     "detail": "Sorber (knee) has been ruled out for Friday's game against the Clippers.",
     "type": "out",
     "updated": "2026-11-13T01:07Z"
-   },
-   {
-    "player": "Ajay Mitchell",
-    "status": "Day-To-Day",
-    "detail": "Mitchell (ankle) is questionable for Friday's game against the Clippers.",
-    "type": "day-to-day",
-    "updated": "2026-11-13T01:03Z"
    },
    {
     "player": "Jaylin Williams",
@@ -539,20 +532,6 @@
    }
   ],
   "San Antonio Spurs": [
-   {
-    "player": "Devin Vassell",
-    "status": "Day-To-Day",
-    "detail": "Vassell is questionable for Friday's game against the Warriors due to left adductor tightness.",
-    "type": "day-to-day",
-    "updated": "2026-11-12T23:07Z"
-   },
-   {
-    "player": "De'Aaron Fox",
-    "status": "Day-To-Day",
-    "detail": "Fox is questionable for Friday's game against the Warriors due to left hip soreness.",
-    "type": "day-to-day",
-    "updated": "2026-11-12T23:05Z"
-   },
    {
     "player": "Tobias Harris",
     "status": "Out",
@@ -725,6 +704,34 @@
    "player": "Dailyn Swain",
    "from": "Day-To-Day",
    "to": "Out"
+  },
+  {
+   "at_et": "2026-11-13 21:40",
+   "team": "Golden State Warriors",
+   "player": "Charles Bassey",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-13 21:40",
+   "team": "Oklahoma City Thunder",
+   "player": "Ajay Mitchell",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-13 21:40",
+   "team": "San Antonio Spurs",
+   "player": "Devin Vassell",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-13 21:40",
+   "team": "San Antonio Spurs",
+   "player": "De'Aaron Fox",
+   "from": "Day-To-Day",
+   "to": "removed from report"
   }
  ]
 }
