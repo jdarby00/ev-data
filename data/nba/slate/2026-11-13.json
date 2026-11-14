@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "updated_et": "2026-11-13 19:19",
+ "updated_et": "2026-11-13 20:28",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -39,7 +39,7 @@
    "home": "CHI",
    "away_name": "Atlanta Hawks",
    "home_name": "Chicago Bulls",
-   "state": "pre",
+   "state": "in",
    "spread_text": "ATL -6.5",
    "spread": 6.5,
    "total": 246.5,
@@ -53,7 +53,7 @@
    "home": "MIA",
    "away_name": "Cleveland Cavaliers",
    "home_name": "Miami Heat",
-   "state": "pre",
+   "state": "in",
    "spread_text": "MIA -2.5",
    "spread": -2.5,
    "total": 235.5,
@@ -67,7 +67,7 @@
    "home": "NO",
    "away_name": "Memphis Grizzlies",
    "home_name": "New Orleans Pelicans",
-   "state": "pre",
+   "state": "in",
    "spread_text": "MEM -3.5",
    "spread": 3.5,
    "total": 235.5,
@@ -85,7 +85,7 @@
    "spread_text": "HOU -15.5",
    "spread": -15.5,
    "total": 221.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -98,8 +98,8 @@
    "state": "pre",
    "spread_text": "SA -12.5",
    "spread": -12.5,
-   "total": 216.5,
-   "odds_source": "Draft Kings",
+   "total": 215.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -113,7 +113,7 @@
    "spread_text": "POR -10.5",
    "spread": 10.5,
    "total": 229.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -127,7 +127,7 @@
    "spread_text": "OKC -7.5",
    "spread": 7.5,
    "total": 222.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
@@ -164,18 +164,18 @@
   ],
   "Chicago Bulls": [
    {
+    "player": "Dailyn Swain",
+    "status": "Out",
+    "detail": "Swain (back) is out for Friday's game against the Hawks.",
+    "type": "out",
+    "updated": "2026-11-14T00:17Z"
+   },
+   {
     "player": "Tobe Awaka",
     "status": "Out",
     "detail": "Awaka (back) has been ruled out for Friday's game against the Hawks.",
     "type": "out",
     "updated": "2026-11-12T21:40Z"
-   },
-   {
-    "player": "Dailyn Swain",
-    "status": "Day-To-Day",
-    "detail": "Swain (back) is listed as questionable for Friday's game against Atlanta.",
-    "type": "day-to-day",
-    "updated": "2026-11-12T21:38Z"
    },
    {
     "player": "Caleb Wilson",
@@ -718,6 +718,13 @@
    "player": "Jalen Suggs",
    "from": "Out",
    "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-13 20:28",
+   "team": "Chicago Bulls",
+   "player": "Dailyn Swain",
+   "from": "Day-To-Day",
+   "to": "Out"
   }
  ]
 }
