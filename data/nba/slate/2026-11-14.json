@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "updated_et": "2026-11-14 05:20",
+ "updated_et": "2026-11-14 11:37",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -14,7 +14,7 @@
    "state": "pre",
    "spread_text": "DEN -12.5",
    "spread": 12.5,
-   "total": 233.5,
+   "total": 234.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -26,8 +26,8 @@
    "away_name": "Dallas Mavericks",
    "home_name": "Cleveland Cavaliers",
    "state": "pre",
-   "spread_text": "CLE -2.5",
-   "spread": -2.5,
+   "spread_text": "DAL -1.5",
+   "spread": 1.5,
    "total": 231.5,
    "odds_source": "Draft Kings",
    "season_type": 2
@@ -40,9 +40,9 @@
    "away_name": "Brooklyn Nets",
    "home_name": "Memphis Grizzlies",
    "state": "pre",
-   "spread_text": "MEM -4.5",
-   "spread": -4.5,
-   "total": 226.5,
+   "spread_text": "MEM -3.5",
+   "spread": -3.5,
+   "total": 228.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -68,8 +68,8 @@
    "away_name": "Chicago Bulls",
    "home_name": "Minnesota Timberwolves",
    "state": "pre",
-   "spread_text": "MIN -14.5",
-   "spread": -14.5,
+   "spread_text": "MIN -15.5",
+   "spread": -15.5,
    "total": 235.5,
    "odds_source": "Draft Kings",
    "season_type": 2
@@ -94,25 +94,25 @@
   ],
   "Chicago Bulls": [
    {
+    "player": "Dailyn Swain",
+    "status": "Day-To-Day",
+    "detail": "Swain (back) is out for Friday's game against the Hawks.",
+    "type": "day-to-day",
+    "updated": "2026-11-14T15:00Z"
+   },
+   {
+    "player": "Tobe Awaka",
+    "status": "Day-To-Day",
+    "detail": "Awaka (back) has been ruled out for Friday's game against the Hawks.",
+    "type": "day-to-day",
+    "updated": "2026-11-14T15:00Z"
+   },
+   {
     "player": "Jalen Smith",
     "status": "Day-To-Day",
     "detail": "Smith (hand) exited Friday's 125-117 win over the Hawks in overtime and did not return, finishing with 15 points (6-15 FG, 1-6 3Pt, 2-2 FT), 12 rebounds, three assists and three steals across 32 minutes.",
     "type": "day-to-day",
     "updated": "2026-11-14T03:50Z"
-   },
-   {
-    "player": "Dailyn Swain",
-    "status": "Out",
-    "detail": "Swain (back) is out for Friday's game against the Hawks.",
-    "type": "out",
-    "updated": "2026-11-14T00:17Z"
-   },
-   {
-    "player": "Tobe Awaka",
-    "status": "Out",
-    "detail": "Awaka (back) has been ruled out for Friday's game against the Hawks.",
-    "type": "out",
-    "updated": "2026-11-12T21:40Z"
    },
    {
     "player": "Caleb Wilson",
@@ -125,10 +125,10 @@
   "Cleveland Cavaliers": [
    {
     "player": "Evan Mobley",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Mobley (toe) is out for Friday's game against the Heat.",
-    "type": "out",
-    "updated": "2026-11-12T22:08Z"
+    "type": "day-to-day",
+    "updated": "2026-11-14T15:01Z"
    },
    {
     "player": "Sam Merrill",
@@ -217,17 +217,17 @@
   "Memphis Grizzlies": [
    {
     "player": "Quinten Post",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Post (concussion) has been ruled out for Friday's game against New Orleans.",
-    "type": "out",
-    "updated": "2026-11-12T23:17Z"
+    "type": "day-to-day",
+    "updated": "2026-11-14T15:02Z"
    },
    {
     "player": "Zach Edey",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Edey won't play in Friday's game against the Pelicans due to left ankle injury management.",
-    "type": "out",
-    "updated": "2026-11-12T23:16Z"
+    "type": "day-to-day",
+    "updated": "2026-11-14T15:02Z"
    },
    {
     "player": "Scotty Pippen Jr.",
@@ -246,18 +246,18 @@
   ],
   "Miami Heat": [
    {
-    "player": "Klay Thompson",
-    "status": "Out",
-    "detail": "Thompson (ankle) is out for Friday's game against the Cavaliers.",
-    "type": "out",
-    "updated": "2026-11-13T23:21Z"
+    "player": "Pelle Larsson",
+    "status": "Day-To-Day",
+    "detail": "Larsson (illness) is out for Friday's game against Cleveland.",
+    "type": "day-to-day",
+    "updated": "2026-11-14T15:02Z"
    },
    {
-    "player": "Pelle Larsson",
-    "status": "Out",
-    "detail": "Larsson (illness) is out for Friday's game against Cleveland.",
-    "type": "out",
-    "updated": "2026-11-13T23:04Z"
+    "player": "Klay Thompson",
+    "status": "Day-To-Day",
+    "detail": "Thompson (ankle) is out for Friday's game against the Cavaliers.",
+    "type": "day-to-day",
+    "updated": "2026-11-14T15:01Z"
    }
   ],
   "Minnesota Timberwolves": [
@@ -278,18 +278,18 @@
   ],
   "New Orleans Pelicans": [
    {
+    "player": "Bryce McGowens",
+    "status": "Day-To-Day",
+    "detail": "McGowens (elbow) is listed as out for Friday's game against the Grizzlies.",
+    "type": "day-to-day",
+    "updated": "2026-11-14T14:59Z"
+   },
+   {
     "player": "Dejounte Murray",
     "status": "Out",
     "detail": "Murray (ankle) is out for Friday's game against Memphis.",
     "type": "out",
     "updated": "2026-11-13T20:19Z"
-   },
-   {
-    "player": "Bryce McGowens",
-    "status": "Out",
-    "detail": "McGowens (elbow) is listed as out for Friday's game against the Grizzlies.",
-    "type": "out",
-    "updated": "2026-11-13T18:12Z"
    },
    {
     "player": "Yves Missi",
@@ -314,5 +314,62 @@
    }
   ]
  },
- "status_changes": []
+ "status_changes": [
+  {
+   "at_et": "2026-11-14 11:37",
+   "team": "Chicago Bulls",
+   "player": "Dailyn Swain",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-14 11:37",
+   "team": "Chicago Bulls",
+   "player": "Tobe Awaka",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-14 11:37",
+   "team": "Cleveland Cavaliers",
+   "player": "Evan Mobley",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-14 11:37",
+   "team": "Memphis Grizzlies",
+   "player": "Quinten Post",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-14 11:37",
+   "team": "Memphis Grizzlies",
+   "player": "Zach Edey",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-14 11:37",
+   "team": "Miami Heat",
+   "player": "Pelle Larsson",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-14 11:37",
+   "team": "Miami Heat",
+   "player": "Klay Thompson",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-14 11:37",
+   "team": "New Orleans Pelicans",
+   "player": "Bryce McGowens",
+   "from": "Out",
+   "to": "Day-To-Day"
+  }
+ ]
 }
