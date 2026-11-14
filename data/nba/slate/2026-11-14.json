@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "updated_et": "2026-11-14 16:15",
+ "updated_et": "2026-11-14 17:57",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -26,9 +26,9 @@
    "away_name": "Dallas Mavericks",
    "home_name": "Cleveland Cavaliers",
    "state": "pre",
-   "spread_text": "DAL -4.5",
-   "spread": 4.5,
-   "total": 227.5,
+   "spread_text": "DAL -8.5",
+   "spread": 8.5,
+   "total": 228.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -54,9 +54,9 @@
    "away_name": "Detroit Pistons",
    "home_name": "Miami Heat",
    "state": "pre",
-   "spread_text": "DET -4.5",
-   "spread": 4.5,
-   "total": 229.5,
+   "spread_text": "DET -3.5",
+   "spread": 3.5,
+   "total": 228.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -131,6 +131,13 @@
   ],
   "Cleveland Cavaliers": [
    {
+    "player": "Jarrett Allen",
+    "status": "Out",
+    "detail": "Allen (knee) has been ruled out for Saturday's game against the Mavericks.",
+    "type": "out",
+    "updated": "2026-11-14T22:52Z"
+   },
+   {
     "player": "Peyton Watson",
     "status": "Day-To-Day",
     "detail": "Watson (hamstring) is listed as questionable for Saturday's game against the Mavericks.",
@@ -143,13 +150,6 @@
     "detail": "Mobley (toe) has been ruled out for Saturday's meeting with Dallas.",
     "type": "out",
     "updated": "2026-11-14T18:33Z"
-   },
-   {
-    "player": "Jarrett Allen",
-    "status": "Day-To-Day",
-    "detail": "Allen (knee) is listed as questionable for Saturday's game against Dallas.",
-    "type": "day-to-day",
-    "updated": "2026-11-14T18:31Z"
    },
    {
     "player": "Donovan Mitchell",
@@ -334,13 +334,6 @@
   ],
   "New Orleans Pelicans": [
    {
-    "player": "Yves Missi",
-    "status": "Out",
-    "detail": "Missi (knee) has been upgraded to probable for Saturday's game versus the Nuggets.",
-    "type": "out",
-    "updated": "2026-11-14T18:01Z"
-   },
-   {
     "player": "Trendon Watford",
     "status": "Out",
     "detail": "Watford (ankle) has been ruled out for Saturday's game against Denver.",
@@ -524,6 +517,20 @@
    "player": "Jerami Grant",
    "from": "not listed",
    "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-14 17:57",
+   "team": "Cleveland Cavaliers",
+   "player": "Jarrett Allen",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-14 17:57",
+   "team": "New Orleans Pelicans",
+   "player": "Yves Missi",
+   "from": "Out",
+   "to": "removed from report"
   }
  ]
 }
