@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "updated_et": "2026-11-14 14:45",
+ "updated_et": "2026-11-14 15:05",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -42,7 +42,7 @@
    "state": "pre",
    "spread_text": "MEM -1.5",
    "spread": -1.5,
-   "total": 226.5,
+   "total": 227.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -56,7 +56,7 @@
    "state": "pre",
    "spread_text": "DET -3.5",
    "spread": 3.5,
-   "total": 228.5,
+   "total": 229.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -251,25 +251,32 @@
   ],
   "Memphis Grizzlies": [
    {
-    "player": "Ty Jerome",
+    "player": "Quinten Post",
     "status": "Out",
-    "detail": "Jerome produced 22 points (9-18 FG, 1-5 3Pt, 3-3 FT), two rebounds and five assists over 32 minutes in Wednesday's 123-118 loss to the Nuggets.",
+    "detail": "Post (concussion) has been ruled out for Saturday's game against the Nets.",
     "type": "out",
-    "updated": "2026-11-14T19:43Z"
+    "updated": "2026-11-14T19:47Z"
    },
    {
-    "player": "Quinten Post",
+    "player": "Jerami Grant",
     "status": "Day-To-Day",
-    "detail": "Post (concussion) has been ruled out for Friday's game against New Orleans.",
+    "detail": "Grant (head) is questionable for Saturday's game against the Nets.",
     "type": "day-to-day",
-    "updated": "2026-11-14T15:02Z"
+    "updated": "2026-11-14T19:46Z"
    },
    {
     "player": "Zach Edey",
     "status": "Day-To-Day",
-    "detail": "Edey won't play in Friday's game against the Pelicans due to left ankle injury management.",
+    "detail": "Edey (ankle) is listed as questionable for Saturday's game against Brooklyn.",
     "type": "day-to-day",
-    "updated": "2026-11-14T15:02Z"
+    "updated": "2026-11-14T19:45Z"
+   },
+   {
+    "player": "Ty Jerome",
+    "status": "Out",
+    "detail": "Jerome (hip) has been ruled out for Saturday's game against the Nets.",
+    "type": "out",
+    "updated": "2026-11-14T19:44Z"
    },
    {
     "player": "Scotty Pippen Jr.",
@@ -503,6 +510,20 @@
    "player": "Ty Jerome",
    "from": "not listed",
    "to": "Out"
+  },
+  {
+   "at_et": "2026-11-14 15:05",
+   "team": "Memphis Grizzlies",
+   "player": "Quinten Post",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-14 15:05",
+   "team": "Memphis Grizzlies",
+   "player": "Jerami Grant",
+   "from": "not listed",
+   "to": "Day-To-Day"
   }
  ]
 }

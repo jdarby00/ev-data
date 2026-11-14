@@ -1,13 +1,11 @@
 # NBA board, 2026-11-14
 
-Slate updated 2026-11-14 14:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-14 15:05 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 11:37 Miami Heat: Pelle Larsson Out → Day-To-Day
-- 11:37 Miami Heat: Klay Thompson Out → Day-To-Day
 - 11:37 New Orleans Pelicans: Bryce McGowens Out → Day-To-Day
 - 14:05 Chicago Bulls: Tobe Awaka Day-To-Day → Out
 - 14:05 Chicago Bulls: Nic Claxton not listed → Day-To-Day
@@ -21,6 +19,8 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 14:05 Miami Heat: Giannis Antetokounmpo not listed → Day-To-Day
 - 14:05 New Orleans Pelicans: Bryce McGowens Day-To-Day → Out
 - 14:45 Memphis Grizzlies: Ty Jerome not listed → Out
+- 15:05 Memphis Grizzlies: Quinten Post Day-To-Day → Out
+- 15:05 Memphis Grizzlies: Jerami Grant not listed → Day-To-Day
 
 ## DEN @ NO, 19:00 ET
 Line: DEN -12.5, total 235.5 (DraftKings).
@@ -103,7 +103,7 @@ Line: DAL -4.5, total 227.5 (DraftKings).
 | Thomas Bryant | – | 15 (3.7) → 13.9 (6.2) | 9.2/8.7 → 7 (1–15) | 2.4/2 → 3 (1–6) | 0.4/0.3 → 0 (0–2) | 1/1.1 → 1 (0–2) | 11 (3–21) |
 
 ## BKN @ MEM, 20:00 ET
-Line: MEM -1.5, total 226.5 (DraftKings).
+Line: MEM -1.5, total 227.5 (DraftKings).
 **BKN** (2 rest days). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -120,11 +120,11 @@ Line: MEM -1.5, total 226.5 (DraftKings).
 | Noah Clowney | – | 17 (4.3) → 19 (11.3) | 6/6 → 8 (2–14) | 4/4.4 → 3 (1–6) | 0.6/0.6 → 1 (0–2) | 0.8/0.7 → 1 (0–3) | 12 (4–21) |
 | Terance Mann | – | 16.8 (3.3) → 17.7 (10.1) | 1.2/1.3 → 4 (0–8) | 1.4/1.2 → 2 (0–4) | 1.4/1.5 → 2 (0–4) | 0.4/0.3 → 0 (0–2) | 8 (2–15) |
 
-**MEM** (back-to-back). Out: Ty Jerome, Scotty Pippen Jr.. Freed minutes: 46.8. Out all season so far (already in the lines): Richie Saunders.
+**MEM** (back-to-back). Out: Ty Jerome, Scotty Pippen Jr., Quinten Post. Freed minutes: 59.7. Out all season so far (already in the lines): Richie Saunders.
+- Without Quinten Post: Isaiah Stewart min +6, pts +4.2, reb +0.8, ast +0.6 (n=4 vs 5)
 - Without Scotty Pippen Jr.: Taylor Hendricks min +5.8, pts +7.2, reb +3, ast +0.6 (n=5 vs 2)
-- Without Scotty Pippen Jr.: Quinten Post min -5.7, pts -6.9, reb -1.3, ast -0.6 (n=3 vs 5)
-- Without Scotty Pippen Jr.: Kris Murray min +3.7, pts +1.5, reb -0.5, ast +0.2 (n=6 vs 2)
-- Without Scotty Pippen Jr.: Cam Spencer min +3.1, pts +1.8, reb -0.7, ast +2.5 (n=7 vs 5)
+- Without Quinten Post: Javon Small min -5.8, pts -2.8, reb -1.7, ast +1.2 (n=3 vs 2)
+- Without Quinten Post: Kris Murray min +4.7, pts -0.7, reb +0.6, ast +0.1 (n=3 vs 5)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -132,7 +132,7 @@ Line: MEM -1.5, total 226.5 (DraftKings).
 | Ty Jerome | Out | 30 (3.2) | 22/25.4 | 3.2/3.4 | 4.8/5.3 | 2.4/2.5 | – |
 | Cedric Coward | – | 28.2 (3.4) → 28 (20.3) | 13/12.9 → 13 (6–22) | 8.4/8.5 → 7 (3–12) | 3.6/3 → 3 (1–6) | 1.6/2.1 → 1 (0–3) | 24 (13–37) |
 | Jaylen Wells | – | 26 (4.2) → 27.1 (19.4) | 10.8/11.9 → 12 (5–20) | 1.8/2.8 → 2 (1–5) | 1.2/1.2 → 1 (0–3) | 2.4/2.2 → 2 (0–4) | 16 (7–26) |
-| Jerami Grant | – | 22.8 (2) → 23.9 (16.3) | 14.8/11.7 → 14 (6–24) | 1.4/2.1 → 2 (0–5) | 1.8/2 → 2 (0–4) | 2.4/1.8 → 2 (0–4) | 18 (8–30) |
+| Jerami Grant | Day-To-Day | 22.8 (2) → 23.9 (16.3) | 14.8/11.7 → 14 (6–24) | 1.4/2.1 → 2 (0–5) | 1.8/2 → 2 (0–4) | 2.4/1.8 → 2 (0–4) | 18 (8–30) |
 | Zach Edey | Day-To-Day | 21.4 (2) → 21.5 (13.8) | 8.2/7.6 → 9 (3–17) | 8.4/7.7 → 8 (4–14) | 0.8/0.9 → 1 (0–2) | 0/0.1 → 0 (0–0) | 18 (8–30) |
 | Cam Spencer | – | 20.8 (3.1) → 21 (13.3) | 10/9.7 → 10 (3–18) | 2.8/3.2 → 2 (0–5) | 4.2/4.8 → 5 (2–9) | 1.8/1.9 → 2 (0–4) | 17 (7–29) |
 | Isaiah Stewart | – | 19.4 (4.8) → 19 (11.3) | 11.8/10.9 → 9 (3–17) | 3.2/3.3 → 3 (1–7) | 0.8/0.7 → 1 (0–2) | 1/1 → 0 (0–2) | 14 (5–24) |
@@ -141,7 +141,7 @@ Line: MEM -1.5, total 226.5 (DraftKings).
 | GG Jackson | – | 15 (4.6) → 16.9 (9.2) | 5/7 → 8 (2–16) | 2/3.3 → 3 (1–6) | 1/1.1 → 1 (0–3) | 0.6/1.1 → 1 (0–3) | 13 (4–23) |
 
 ## DET @ MIA, 20:00 ET
-Line: DET -3.5, total 228.5 (DraftKings).
+Line: DET -3.5, total 229.5 (DraftKings).
 **DET** (1 rest day). Out: Jalen Duren, Isaiah Joe. Freed minutes: 32.7.
 - Without Jalen Duren: Daniss Jenkins min +10.8, pts +5.4, reb +0.4, ast +0.3 (n=9 vs 2)
 - Without Isaiah Joe: Paul Reed min +7, pts +0.8, reb -0.8, ast -0.2 (n=8 vs 3)
