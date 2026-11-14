@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "updated_et": "2026-11-14 14:05",
+ "updated_et": "2026-11-14 14:45",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -28,7 +28,7 @@
    "state": "pre",
    "spread_text": "DAL -4.5",
    "spread": 4.5,
-   "total": 228.5,
+   "total": 227.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -40,9 +40,9 @@
    "away_name": "Brooklyn Nets",
    "home_name": "Memphis Grizzlies",
    "state": "pre",
-   "spread_text": "MEM -2.5",
-   "spread": -2.5,
-   "total": 228.5,
+   "spread_text": "MEM -1.5",
+   "spread": -1.5,
+   "total": 226.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -56,7 +56,7 @@
    "state": "pre",
    "spread_text": "DET -3.5",
    "spread": 3.5,
-   "total": 229.5,
+   "total": 228.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -70,7 +70,7 @@
    "state": "pre",
    "spread_text": "MIN -15.5",
    "spread": -15.5,
-   "total": 235.5,
+   "total": 234.5,
    "odds_source": "DraftKings",
    "season_type": 2
   }
@@ -250,6 +250,13 @@
    }
   ],
   "Memphis Grizzlies": [
+   {
+    "player": "Ty Jerome",
+    "status": "Out",
+    "detail": "Jerome produced 22 points (9-18 FG, 1-5 3Pt, 3-3 FT), two rebounds and five assists over 32 minutes in Wednesday's 123-118 loss to the Nuggets.",
+    "type": "out",
+    "updated": "2026-11-14T19:43Z"
+   },
    {
     "player": "Quinten Post",
     "status": "Day-To-Day",
@@ -488,6 +495,13 @@
    "team": "New Orleans Pelicans",
    "player": "Bryce McGowens",
    "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-14 14:45",
+   "team": "Memphis Grizzlies",
+   "player": "Ty Jerome",
+   "from": "not listed",
    "to": "Out"
   }
  ]
