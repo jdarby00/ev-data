@@ -1,5 +1,5 @@
 {
- "credits_remaining": 221,
+ "credits_remaining": 220,
  "date": "2026-11-14",
  "groups": {
   "basketball_nba|bulls@timberwolves|player_points": {
@@ -9554,6 +9554,280 @@
    ],
    "sport": "basketball_nba"
   },
+  "basketball_nba|mavericks@cavaliers|spreads": {
+   "api_away": "Dallas Mavericks",
+   "api_home": "Cleveland Cavaliers",
+   "away": "Mavericks",
+   "commence_time": "2026-11-15T00:40:00Z",
+   "event_id": "2cc2c254049b0bd0a6219f70cbb0b69a",
+   "home": "Cavaliers",
+   "issues": [],
+   "market": "spreads",
+   "players": [],
+   "requested_rev": 1,
+   "snapshots": [
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1028754049",
+       "event_sid": "1028754049",
+       "last_update": "2026-11-14T23:09:58Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "",
+         "price": -114,
+         "sid": "4417260297",
+         "side": "Cleveland Cavaliers"
+        },
+        {
+         "line": -8.5,
+         "link": null,
+         "player": "",
+         "price": -108,
+         "sid": "4417260298",
+         "side": "Dallas Mavericks"
+        }
+       ]
+      },
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/dallas-mavericks-at-cleveland-cavaliers-20050417",
+       "event_sid": "20050417",
+       "last_update": "2026-11-14T23:10:13Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=20050417-1578715965-2351710725&type=Single",
+         "player": "",
+         "price": -115,
+         "sid": "2351710725",
+         "side": "Cleveland Cavaliers"
+        },
+        {
+         "line": -8.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=20050417-1578715965-2351710697&type=Single",
+         "player": "",
+         "price": -105,
+         "sid": "2351710697",
+         "side": "Dallas Mavericks"
+        }
+       ]
+      },
+      "betonlineag": {
+       "event_link": "https://sports.betonline.ag/sportsbook/basketball/nba/game/491180036",
+       "event_sid": "491180036",
+       "last_update": "2026-11-14T23:09:39Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "",
+         "price": -115,
+         "sid": null,
+         "side": "Cleveland Cavaliers"
+        },
+        {
+         "line": -8.5,
+         "link": null,
+         "player": "",
+         "price": -105,
+         "sid": null,
+         "side": "Dallas Mavericks"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1028754049",
+       "event_sid": "1028754049",
+       "last_update": "2026-11-14T23:09:39Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "",
+         "price": -114,
+         "sid": "4417260297",
+         "side": "Cleveland Cavaliers"
+        },
+        {
+         "line": -8.5,
+         "link": null,
+         "player": "",
+         "price": -108,
+         "sid": "4417260298",
+         "side": "Dallas Mavericks"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754049",
+       "event_sid": "1028754049",
+       "last_update": "2026-11-14T23:09:55Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754049?coupon={pickType}|4417260297|{wagerAmount}",
+         "player": "",
+         "price": -114,
+         "sid": "4417260297",
+         "side": "Cleveland Cavaliers"
+        },
+        {
+         "line": -8.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754049?coupon={pickType}|4417260298|{wagerAmount}",
+         "player": "",
+         "price": -108,
+         "sid": "4417260298",
+         "side": "Dallas Mavericks"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/basketball/nba/dallas-mavericks-cleveland-cavaliers-202611141930",
+       "event_sid": "33366781",
+       "last_update": "2026-11-14T23:09:58Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 8.0,
+         "link": null,
+         "player": "",
+         "price": -110,
+         "sid": "2470876824",
+         "side": "Cleveland Cavaliers"
+        },
+        {
+         "line": -8.0,
+         "link": null,
+         "player": "",
+         "price": -110,
+         "sid": "2470876823",
+         "side": "Dallas Mavericks"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/35014685",
+       "event_sid": "35014685",
+       "last_update": "2026-11-14T23:09:55Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0HC87230642P850_1",
+         "player": "",
+         "price": -105,
+         "sid": "0HC87230642P850_1",
+         "side": "Cleveland Cavaliers"
+        },
+        {
+         "line": -8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0HC87230642N850_3",
+         "player": "",
+         "price": -115,
+         "sid": "0HC87230642N850_3",
+         "side": "Dallas Mavericks"
+        }
+       ]
+      },
+      "espnbet": {
+       "event_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/nba/event/1c3723e9-9b29-492f-bf4b-a5f816e34168",
+       "event_sid": "1c3723e9-9b29-492f-bf4b-a5f816e34168",
+       "last_update": "2026-11-14T23:10:01Z",
+       "market_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/nba/event/1c3723e9-9b29-492f-bf4b-a5f816e34168/section/lines",
+       "market_sid": "f1e8cace-c381-4f1b-b284-b941f20ed166",
+       "outcomes": [
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=4d2ad9f8-2e4f-408f-8bee-e3e29a7c94e2&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": 100,
+         "sid": "4d2ad9f8-2e4f-408f-8bee-e3e29a7c94e2",
+         "side": "Cleveland Cavaliers"
+        },
+        {
+         "line": -7.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=e36a0a6c-4115-47bf-a1a0-f8aca45777c6&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": -120,
+         "sid": "e36a0a6c-4115-47bf-a1a0-f8aca45777c6",
+         "side": "Dallas Mavericks"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/nba/dallas-mavericks-%40-cleveland-cavaliers-36311556",
+       "event_sid": "36311556",
+       "last_update": "2026-11-14T23:09:56Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.624836947&selectionId=60424",
+         "player": "",
+         "price": -118,
+         "sid": "60424",
+         "side": "Cleveland Cavaliers"
+        },
+        {
+         "line": -8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.624836947&selectionId=237472",
+         "player": "",
+         "price": -104,
+         "sid": "237472",
+         "side": "Dallas Mavericks"
+        }
+       ]
+      },
+      "hardrockbet": {
+       "event_link": "https://app.hardrock.bet/home/competition/nba/8365240161243627937",
+       "event_sid": "8365240161243627937",
+       "last_update": "2026-11-14T23:09:41Z",
+       "market_link": null,
+       "market_sid": "1011240495757787570",
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4671541092903158194",
+         "player": "",
+         "price": -115,
+         "sid": "4671541092903158194",
+         "side": "Cleveland Cavaliers"
+        },
+        {
+         "line": -8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3171842416988783026",
+         "player": "",
+         "price": -105,
+         "sid": "3171842416988783026",
+         "side": "Dallas Mavericks"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-14T23:10:25Z",
+     "kind": "lock",
+     "minutes_to_tip": 89.6,
+     "raw": "raw/2026-11-14/2cc2c254049b0bd0a6219f70cbb0b69a-spreads-lock-20261114T231025925023Z.json",
+     "rev": 1
+    }
+   ],
+   "sport": "basketball_nba"
+  },
   "basketball_nba|nets@grizzlies|player_points": {
    "api_away": "Brooklyn Nets",
    "api_home": "Memphis Grizzlies",
@@ -18908,8 +19182,8 @@
   }
  },
  "issues": [],
- "spent_month": 279,
- "spent_today": 8,
+ "spent_month": 280,
+ "spent_today": 9,
  "stop": null,
- "updated": "2026-11-14T22:46:33Z"
+ "updated": "2026-11-14T23:10:25Z"
 }
