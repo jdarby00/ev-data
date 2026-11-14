@@ -31,4 +31,10 @@ Residual = how often the side won minus the fair chance the books gave it. The r
 
 ## R15 forward test (paper, ev-data ledger)
 
-No r15 rows in the ledger yet (first night 13 Nov).
+| Contestant | Rows | Nights | Graded | Won | Fair | ROI |
+|---|---|---|---|---|---|---|
+| r15_ast_under | 98 | 1 | 0 | 0.0% | 0.0% | +0.0% |
+| r15_combo_under | 211 | 1 | 0 | 0.0% | 0.0% | +0.0% |
+| r15_pra_under | 105 | 1 | 0 | 0.0% | 0.0% | +0.0% |
+
+Pass mark (pre-registered): 15+ nights and 500+ r15_pra_under rows, ROI > 0, day-resampled 5% bound above -2%.
