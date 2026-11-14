@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "updated_et": "2026-11-13 16:37",
+ "updated_et": "2026-11-13 19:19",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,7 +11,7 @@
    "home": "IND",
    "away_name": "New York Knicks",
    "home_name": "Indiana Pacers",
-   "state": "pre",
+   "state": "in",
    "spread_text": "NY -8.5",
    "spread": 8.5,
    "total": 219.5,
@@ -25,7 +25,7 @@
    "home": "ORL",
    "away_name": "Milwaukee Bucks",
    "home_name": "Orlando Magic",
-   "state": "pre",
+   "state": "in",
    "spread_text": "ORL -9.5",
    "spread": -9.5,
    "total": 223.5,
@@ -40,9 +40,9 @@
    "away_name": "Atlanta Hawks",
    "home_name": "Chicago Bulls",
    "state": "pre",
-   "spread_text": "ATL -7.5",
-   "spread": 7.5,
-   "total": 245.5,
+   "spread_text": "ATL -6.5",
+   "spread": 6.5,
+   "total": 246.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -56,7 +56,7 @@
    "state": "pre",
    "spread_text": "MIA -2.5",
    "spread": -2.5,
-   "total": 236.5,
+   "total": 235.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -84,7 +84,7 @@
    "state": "pre",
    "spread_text": "HOU -15.5",
    "spread": -15.5,
-   "total": 220.5,
+   "total": 221.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -98,7 +98,7 @@
    "state": "pre",
    "spread_text": "SA -12.5",
    "spread": -12.5,
-   "total": 217.5,
+   "total": 216.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -155,13 +155,6 @@
     "updated": "2026-11-12T23:08Z"
    },
    {
-    "player": "Kingston Flemings",
-    "status": "Day-To-Day",
-    "detail": "Flemings (back) is questionable for Friday's game against the Bulls.",
-    "type": "day-to-day",
-    "updated": "2026-11-12T23:04Z"
-   },
-   {
     "player": "Henri Veesaar",
     "status": "Out",
     "detail": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",
@@ -181,13 +174,6 @@
     "player": "Dailyn Swain",
     "status": "Day-To-Day",
     "detail": "Swain (back) is listed as questionable for Friday's game against Atlanta.",
-    "type": "day-to-day",
-    "updated": "2026-11-12T21:38Z"
-   },
-   {
-    "player": "Norman Powell",
-    "status": "Day-To-Day",
-    "detail": "Powell (shoulder) is questionable for Friday's game against the Hawks.",
     "type": "day-to-day",
     "updated": "2026-11-12T21:38Z"
    },
@@ -213,6 +199,13 @@
     "detail": "Merrill (elbow) is listed as out for Wednesday's game against the Knicks.",
     "type": "out",
     "updated": "2026-11-10T22:12Z"
+   },
+   {
+    "player": "Nae'Qwan Tomlin",
+    "status": "Out",
+    "detail": "Tomlin is set to miss several weeks with a lower back stress reaction, Chris Fedor of The Cleveland Plain Dealer reports.",
+    "type": "out",
+    "updated": "2026-10-20T15:11Z"
    }
   ],
   "Golden State Warriors": [
@@ -283,20 +276,6 @@
    }
   ],
   "Indiana Pacers": [
-   {
-    "player": "T.J. McConnell",
-    "status": "Day-To-Day",
-    "detail": "McConnell is probable for Friday's game against the Knicks due to a right hamstring strain.",
-    "type": "day-to-day",
-    "updated": "2026-11-12T23:08Z"
-   },
-   {
-    "player": "Aaron Nesmith",
-    "status": "Day-To-Day",
-    "detail": "Nesmith (knee) is questionable for Friday's game against the Knicks.",
-    "type": "day-to-day",
-    "updated": "2026-11-12T23:02Z"
-   },
    {
     "player": "Tyrese Haliburton",
     "status": "Out",
@@ -382,17 +361,17 @@
   "Miami Heat": [
    {
     "player": "Klay Thompson",
-    "status": "Day-To-Day",
-    "detail": "Thompson (ankle) is listed as probable for Friday's game against the Cavaliers.",
-    "type": "day-to-day",
-    "updated": "2026-11-13T18:22Z"
+    "status": "Out",
+    "detail": "Thompson (ankle) is out for Friday's game against the Cavaliers.",
+    "type": "out",
+    "updated": "2026-11-13T23:21Z"
    },
    {
     "player": "Pelle Larsson",
-    "status": "Day-To-Day",
-    "detail": "Larsson (illness) is listed as doubtful for Friday's game against Cleveland.",
-    "type": "day-to-day",
-    "updated": "2026-11-13T18:20Z"
+    "status": "Out",
+    "detail": "Larsson (illness) is out for Friday's game against Cleveland.",
+    "type": "out",
+    "updated": "2026-11-13T23:04Z"
    }
   ],
   "New Orleans Pelicans": [
@@ -416,13 +395,6 @@
     "detail": "Missi (knee) is out for Friday's game against the Grizzlies.",
     "type": "out",
     "updated": "2026-11-13T18:11Z"
-   },
-   {
-    "player": "Bennedict Mathurin",
-    "status": "Day-To-Day",
-    "detail": "Mathurin (thumb) is listed as questionable for Friday's game against Memphis.",
-    "type": "day-to-day",
-    "updated": "2026-11-13T18:10Z"
    },
    {
     "player": "Trey Murphy III",
@@ -484,27 +456,6 @@
    }
   ],
   "Orlando Magic": [
-   {
-    "player": "Jamal Cain",
-    "status": "Day-To-Day",
-    "detail": "Cain (shoulder) participated in Friday morning's shootaround and remains questionable for Friday's game against the Bucks, Jason Beede of the Orlando Sentinel reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-13T17:12Z"
-   },
-   {
-    "player": "Tristan da Silva",
-    "status": "Day-To-Day",
-    "detail": "Da Silva (calf) participated in Friday's morning shootaround and remains questionable for Friday's game against Milwaukee, Jason Beede of the Orlando Sentinel reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-13T17:09Z"
-   },
-   {
-    "player": "Jalen Suggs",
-    "status": "Out",
-    "detail": "Suggs (knee) participated in Friday's morning shootaround and remains questionable for Friday's game against the Bucks, Jason Beede of the Orlando Sentinel reports.",
-    "type": "out",
-    "updated": "2026-11-13T17:08Z"
-   },
    {
     "player": "Jonathan Isaac",
     "status": "Out",
@@ -690,6 +641,83 @@
    "player": "Precious Achiuwa",
    "from": "Day-To-Day",
    "to": "Out"
+  },
+  {
+   "at_et": "2026-11-13 19:19",
+   "team": "Atlanta Hawks",
+   "player": "Kingston Flemings",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-13 19:19",
+   "team": "Chicago Bulls",
+   "player": "Norman Powell",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-13 19:19",
+   "team": "Cleveland Cavaliers",
+   "player": "Nae'Qwan Tomlin",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-13 19:19",
+   "team": "Indiana Pacers",
+   "player": "T.J. McConnell",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-13 19:19",
+   "team": "Indiana Pacers",
+   "player": "Aaron Nesmith",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-13 19:19",
+   "team": "Miami Heat",
+   "player": "Klay Thompson",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-13 19:19",
+   "team": "Miami Heat",
+   "player": "Pelle Larsson",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-13 19:19",
+   "team": "New Orleans Pelicans",
+   "player": "Bennedict Mathurin",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-13 19:19",
+   "team": "Orlando Magic",
+   "player": "Jamal Cain",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-13 19:19",
+   "team": "Orlando Magic",
+   "player": "Tristan da Silva",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-13 19:19",
+   "team": "Orlando Magic",
+   "player": "Jalen Suggs",
+   "from": "Out",
+   "to": "removed from report"
   }
  ]
 }
