@@ -1,0 +1,318 @@
+{
+ "date": "2026-11-14",
+ "updated_et": "2026-11-14 05:20",
+ "source": "ESPN public scoreboard and injuries feeds",
+ "injuries_fetched": true,
+ "games": [
+  {
+   "event": "401909980",
+   "tip_et": "2026-11-14 19:00",
+   "away": "DEN",
+   "home": "NO",
+   "away_name": "Denver Nuggets",
+   "home_name": "New Orleans Pelicans",
+   "state": "pre",
+   "spread_text": "DEN -12.5",
+   "spread": 12.5,
+   "total": 233.5,
+   "odds_source": "Draft Kings",
+   "season_type": 2
+  },
+  {
+   "event": "401909981",
+   "tip_et": "2026-11-14 19:30",
+   "away": "DAL",
+   "home": "CLE",
+   "away_name": "Dallas Mavericks",
+   "home_name": "Cleveland Cavaliers",
+   "state": "pre",
+   "spread_text": "CLE -2.5",
+   "spread": -2.5,
+   "total": 231.5,
+   "odds_source": "Draft Kings",
+   "season_type": 2
+  },
+  {
+   "event": "401909983",
+   "tip_et": "2026-11-14 20:00",
+   "away": "BKN",
+   "home": "MEM",
+   "away_name": "Brooklyn Nets",
+   "home_name": "Memphis Grizzlies",
+   "state": "pre",
+   "spread_text": "MEM -4.5",
+   "spread": -4.5,
+   "total": 226.5,
+   "odds_source": "Draft Kings",
+   "season_type": 2
+  },
+  {
+   "event": "401909982",
+   "tip_et": "2026-11-14 20:00",
+   "away": "DET",
+   "home": "MIA",
+   "away_name": "Detroit Pistons",
+   "home_name": "Miami Heat",
+   "state": "pre",
+   "spread_text": "DET -4.5",
+   "spread": 4.5,
+   "total": 228.5,
+   "odds_source": "Draft Kings",
+   "season_type": 2
+  },
+  {
+   "event": "401909984",
+   "tip_et": "2026-11-14 20:00",
+   "away": "CHI",
+   "home": "MIN",
+   "away_name": "Chicago Bulls",
+   "home_name": "Minnesota Timberwolves",
+   "state": "pre",
+   "spread_text": "MIN -14.5",
+   "spread": -14.5,
+   "total": 235.5,
+   "odds_source": "Draft Kings",
+   "season_type": 2
+  }
+ ],
+ "injuries": {
+  "Brooklyn Nets": [
+   {
+    "player": "Mikel Brown Jr.",
+    "status": "Day-To-Day",
+    "detail": "Brown (illness) is listed as questionable for Saturday's game against Memphis.",
+    "type": "day-to-day",
+    "updated": "2026-11-13T22:08Z"
+   },
+   {
+    "player": "Nolan Traore",
+    "status": "Day-To-Day",
+    "detail": "Traore (calf) is listed as probable for Saturday's game against Memphis.",
+    "type": "day-to-day",
+    "updated": "2026-11-13T22:07Z"
+   }
+  ],
+  "Chicago Bulls": [
+   {
+    "player": "Jalen Smith",
+    "status": "Day-To-Day",
+    "detail": "Smith (hand) exited Friday's 125-117 win over the Hawks in overtime and did not return, finishing with 15 points (6-15 FG, 1-6 3Pt, 2-2 FT), 12 rebounds, three assists and three steals across 32 minutes.",
+    "type": "day-to-day",
+    "updated": "2026-11-14T03:50Z"
+   },
+   {
+    "player": "Dailyn Swain",
+    "status": "Out",
+    "detail": "Swain (back) is out for Friday's game against the Hawks.",
+    "type": "out",
+    "updated": "2026-11-14T00:17Z"
+   },
+   {
+    "player": "Tobe Awaka",
+    "status": "Out",
+    "detail": "Awaka (back) has been ruled out for Friday's game against the Hawks.",
+    "type": "out",
+    "updated": "2026-11-12T21:40Z"
+   },
+   {
+    "player": "Caleb Wilson",
+    "status": "Out",
+    "detail": "Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports.",
+    "type": "out",
+    "updated": "2026-11-12T21:35Z"
+   }
+  ],
+  "Cleveland Cavaliers": [
+   {
+    "player": "Evan Mobley",
+    "status": "Out",
+    "detail": "Mobley (toe) is out for Friday's game against the Heat.",
+    "type": "out",
+    "updated": "2026-11-12T22:08Z"
+   },
+   {
+    "player": "Sam Merrill",
+    "status": "Out",
+    "detail": "Merrill (elbow) is listed as out for Wednesday's game against the Knicks.",
+    "type": "out",
+    "updated": "2026-11-10T22:12Z"
+   },
+   {
+    "player": "Nae'Qwan Tomlin",
+    "status": "Out",
+    "detail": "Tomlin is set to miss several weeks with a lower back stress reaction, Chris Fedor of The Cleveland Plain Dealer reports.",
+    "type": "out",
+    "updated": "2026-10-20T15:11Z"
+   }
+  ],
+  "Dallas Mavericks": [
+   {
+    "player": "Max Christie",
+    "status": "Day-To-Day",
+    "detail": "Christie is questionable for Saturday's game against the Cavaliers due to a sprained left ankle.",
+    "type": "day-to-day",
+    "updated": "2026-11-13T22:06Z"
+   },
+   {
+    "player": "Morez Johnson Jr.",
+    "status": "Day-To-Day",
+    "detail": "Johnson (left shin contusion) is listed as probable for Saturday against Cleveland.",
+    "type": "day-to-day",
+    "updated": "2026-11-13T22:05Z"
+   },
+   {
+    "player": "Dereck Lively II",
+    "status": "Out",
+    "detail": "Lively (foot) is listed as out for Thursday's game in Minnesota.",
+    "type": "out",
+    "updated": "2026-11-11T22:13Z"
+   },
+   {
+    "player": "Tarik Biberovic",
+    "status": "Out",
+    "detail": "Biberovic (heel) is out for Thursday's game against Minnesota.",
+    "type": "out",
+    "updated": "2026-11-11T22:12Z"
+   },
+   {
+    "player": "Sergio de Larrea",
+    "status": "Out",
+    "detail": "De Larrea (knee) has been ruled out for Thursday's game at Minnesota.",
+    "type": "out",
+    "updated": "2026-11-11T22:10Z"
+   }
+  ],
+  "Denver Nuggets": [
+   {
+    "player": "Julian Strawther",
+    "status": "Out",
+    "detail": "Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports.",
+    "type": "out",
+    "updated": "2026-10-17T00:52Z"
+   }
+  ],
+  "Detroit Pistons": [
+   {
+    "player": "Ugonna Onyenso",
+    "status": "Day-To-Day",
+    "detail": "Onyenso agreed to a two-way contract with the Pistons on Thursday.",
+    "type": "day-to-day",
+    "updated": "2026-11-11T15:16Z"
+   },
+   {
+    "player": "Isaiah Joe",
+    "status": "Out",
+    "detail": "Joe (hip) is out for Monday against the Wizards.",
+    "type": "out",
+    "updated": "2026-11-09T18:54Z"
+   },
+   {
+    "player": "Jalen Duren",
+    "status": "Out",
+    "detail": "Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports.",
+    "type": "out",
+    "updated": "2026-11-08T16:05Z"
+   }
+  ],
+  "Memphis Grizzlies": [
+   {
+    "player": "Quinten Post",
+    "status": "Out",
+    "detail": "Post (concussion) has been ruled out for Friday's game against New Orleans.",
+    "type": "out",
+    "updated": "2026-11-12T23:17Z"
+   },
+   {
+    "player": "Zach Edey",
+    "status": "Out",
+    "detail": "Edey won't play in Friday's game against the Pelicans due to left ankle injury management.",
+    "type": "out",
+    "updated": "2026-11-12T23:16Z"
+   },
+   {
+    "player": "Scotty Pippen Jr.",
+    "status": "Out",
+    "detail": "Pippen (back) remains out for Wednesday's game against Denver, Michael Wallace of the Grizzlies' official site reports.",
+    "type": "out",
+    "updated": "2026-11-10T23:09Z"
+   },
+   {
+    "player": "Richie Saunders",
+    "status": "Out",
+    "detail": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports.",
+    "type": "out",
+    "updated": "2026-11-07T17:24Z"
+   }
+  ],
+  "Miami Heat": [
+   {
+    "player": "Klay Thompson",
+    "status": "Out",
+    "detail": "Thompson (ankle) is out for Friday's game against the Cavaliers.",
+    "type": "out",
+    "updated": "2026-11-13T23:21Z"
+   },
+   {
+    "player": "Pelle Larsson",
+    "status": "Out",
+    "detail": "Larsson (illness) is out for Friday's game against Cleveland.",
+    "type": "out",
+    "updated": "2026-11-13T23:04Z"
+   }
+  ],
+  "Minnesota Timberwolves": [
+   {
+    "player": "Anthony Edwards",
+    "status": "Out",
+    "detail": "Edwards underwent a successful arthroscopic procedure on his right knee Thursday, the Timberwolves announced.",
+    "type": "out",
+    "updated": "2026-10-29T18:33Z"
+   },
+   {
+    "player": "Donte DiVincenzo",
+    "status": "Out",
+    "detail": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
+    "type": "out",
+    "updated": "2026-10-05T20:53Z"
+   }
+  ],
+  "New Orleans Pelicans": [
+   {
+    "player": "Dejounte Murray",
+    "status": "Out",
+    "detail": "Murray (ankle) is out for Friday's game against Memphis.",
+    "type": "out",
+    "updated": "2026-11-13T20:19Z"
+   },
+   {
+    "player": "Bryce McGowens",
+    "status": "Out",
+    "detail": "McGowens (elbow) is listed as out for Friday's game against the Grizzlies.",
+    "type": "out",
+    "updated": "2026-11-13T18:12Z"
+   },
+   {
+    "player": "Yves Missi",
+    "status": "Out",
+    "detail": "Missi (knee) is out for Friday's game against the Grizzlies.",
+    "type": "out",
+    "updated": "2026-11-13T18:11Z"
+   },
+   {
+    "player": "Trey Murphy III",
+    "status": "Out",
+    "detail": "Murphy (knee) is out for Friday's game against Memphis.",
+    "type": "out",
+    "updated": "2026-11-13T18:07Z"
+   },
+   {
+    "player": "Trendon Watford",
+    "status": "Out",
+    "detail": "Watford (ankle) is listed as out for Friday's game against the Grizzlies.",
+    "type": "out",
+    "updated": "2026-11-12T20:53Z"
+   }
+  ]
+ },
+ "status_changes": []
+}

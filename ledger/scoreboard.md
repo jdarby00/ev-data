@@ -1,6 +1,6 @@
 # Scoreboard
 
-Built Fri 13 Nov 2026, 9:40 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
+Built Sat 14 Nov 2026, 5:20 AM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
 
 ## Jake's real money
 
@@ -41,20 +41,20 @@ CLV is the expected value of the bet price against the de-vigged closing price (
 | a_every | 17 | 10–7–0–0 | $+4.78 | +5.6% | $504.78 | $15.00 | – | 0 |
 | blend_every | 19 | 11–8–0–0 | $+4.68 | +4.9% | $504.68 | $17.73 | – | 0 |
 | b_every | 19 | 11–8–0–0 | $+4.68 | +4.9% | $504.68 | $6.45 | – | 0 |
-| r15_pra_under | 0 | 0–0–0–0 | $+0.00 | – | $500.00 | $0.00 | – | 105 |
-| r16_avg_under | 0 | 0–0–0–0 | $+0.00 | – | $500.00 | $0.00 | – | 444 |
-| r15_combo_under | 0 | 0–0–0–0 | $+0.00 | – | $500.00 | $0.00 | – | 211 |
-| r15_ast_under | 0 | 0–0–0–0 | $+0.00 | – | $500.00 | $0.00 | – | 98 |
 | always_over | 37 | 10–9–0–18 | $-1.92 | -2.0% | $498.08 | $32.35 | – | 0 |
+| r15_combo_under | 211 | 110–97–0–4 | $-3.93 | -0.4% | $496.07 | $79.57 | – | 0 |
 | lower_bar | 1 | 0–1–0–0 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 0 |
 | leans | 1 | 0–1–0–0 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 0 |
+| r15_pra_under | 105 | 54–49–0–2 | $-7.90 | -1.5% | $492.10 | $42.58 | 33, -4.5%, 41% | 0 |
 | boosted_50 | 3 | 0–2–0–1 | $-10.00 | -100.0% | $490.00 | $10.00 | – | 1 |
 | boosted_20 | 2 | 0–2–0–0 | $-10.00 | -100.0% | $490.00 | $10.00 | 1, -10.2%, – | 0 |
+| r15_ast_under | 98 | 49–47–0–2 | $-11.19 | -2.3% | $488.81 | $52.88 | 10, -4.3%, 44% | 0 |
 | chalk | 14 | 2–4–0–8 | $-14.61 | -48.7% | $485.39 | $15.00 | – | 1 |
 | boost_parlay_20 | 3 | 0–3–0–0 | $-15.00 | -100.0% | $485.00 | $15.00 | – | 0 |
 | always_under | 38 | 9–11–0–18 | $-16.88 | -16.9% | $483.12 | $41.84 | – | 0 |
 | boost_parlay_50 | 4 | 0–4–0–0 | $-20.00 | -100.0% | $480.00 | $20.00 | – | 0 |
 | card | 10 | 2–8–0–0 | $-32.80 | -65.6% | $467.20 | $32.80 | 3, -4.7%, 100% | 1 |
+| r16_avg_under | 444 | 210–226–0–8 | $-258.89 | -11.9% | $241.11 | $304.81 | 44, -4.9%, 39% | 0 |
 
 ## Calibration (real-price bets with a final win chance)
 
@@ -70,4 +70,4 @@ Brier score 0.260 (a coin flip is 0.250).
 ## Open items
 
 - a6ac9837fa5c: withdrawal after the start ignored
-- 866 pending (waiting for box scores or a manual settle).
+- 8 pending (waiting for box scores or a manual settle).
