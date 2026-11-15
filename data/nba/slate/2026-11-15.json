@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "updated_et": "2026-11-15 05:20",
+ "updated_et": "2026-11-15 12:12",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -12,10 +12,10 @@
    "away_name": "Indiana Pacers",
    "home_name": "Philadelphia 76ers",
    "state": "pre",
-   "spread_text": "PHI -7.5",
-   "spread": -7.5,
-   "total": 224.5,
-   "odds_source": "DraftKings",
+   "spread_text": "PHI -8.5",
+   "spread": -8.5,
+   "total": 225.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -29,7 +29,7 @@
    "spread_text": "LAL -2.5",
    "spread": 2.5,
    "total": 226.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -40,10 +40,10 @@
    "away_name": "Charlotte Hornets",
    "home_name": "LA Clippers",
    "state": "pre",
-   "spread_text": "LAC -1.5",
-   "spread": -1.5,
-   "total": 215.5,
-   "odds_source": "DraftKings",
+   "spread_text": "CHA -1.5",
+   "spread": 1.5,
+   "total": 213.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -54,10 +54,10 @@
    "away_name": "San Antonio Spurs",
    "home_name": "Utah Jazz",
    "state": "pre",
-   "spread_text": "SA -17.5",
-   "spread": 17.5,
-   "total": 224.5,
-   "odds_source": "DraftKings",
+   "spread_text": "SA -15.5",
+   "spread": 15.5,
+   "total": 225.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -70,8 +70,8 @@
    "state": "pre",
    "spread_text": "BOS -13.5",
    "spread": -13.5,
-   "total": 217.5,
-   "odds_source": "DraftKings",
+   "total": 219.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "NY -4.5",
    "spread": 4.5,
    "total": 217.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -96,10 +96,10 @@
    "away_name": "Houston Rockets",
    "home_name": "Washington Wizards",
    "state": "pre",
-   "spread_text": "HOU -9.5",
-   "spread": 9.5,
-   "total": 222.5,
-   "odds_source": "DraftKings",
+   "spread_text": "HOU -8.5",
+   "spread": 8.5,
+   "total": 223.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -110,10 +110,10 @@
    "away_name": "Atlanta Hawks",
    "home_name": "Milwaukee Bucks",
    "state": "pre",
-   "spread_text": "ATL -7.5",
-   "spread": 7.5,
-   "total": 235.5,
-   "odds_source": "DraftKings",
+   "spread_text": "ATL -8.5",
+   "spread": 8.5,
+   "total": 234.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -126,8 +126,8 @@
    "state": "pre",
    "spread_text": "OKC -10.5",
    "spread": 10.5,
-   "total": 222.5,
-   "odds_source": "DraftKings",
+   "total": 223.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   }
  ],
@@ -188,17 +188,17 @@
   "Dallas Mavericks": [
    {
     "player": "Daniel Gafford",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Gafford (face) won't return to Saturday's game against the Cavaliers, Grant Afseth of DallasHoopsJournal.com reports.",
-    "type": "out",
-    "updated": "2026-11-15T02:31Z"
+    "type": "day-to-day",
+    "updated": "2026-11-15T15:22Z"
    },
    {
     "player": "Max Christie",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Christie (ankle) has been ruled out for Saturday's game against Cleveland.",
-    "type": "out",
-    "updated": "2026-11-14T23:02Z"
+    "type": "day-to-day",
+    "updated": "2026-11-15T15:22Z"
    },
    {
     "player": "Dereck Lively II",
@@ -255,10 +255,10 @@
   "Indiana Pacers": [
    {
     "player": "Andrew Nembhard",
-    "status": "Day-To-Day",
-    "detail": "Nembhard is questionable for Sunday's game against the 76ers due to left hip soreness.",
-    "type": "day-to-day",
-    "updated": "2026-11-15T01:14Z"
+    "status": "Out",
+    "detail": "Nembhard (hip) has been ruled out for Sunday's game against the 76ers, Tony East of Forbes.com reports.",
+    "type": "out",
+    "updated": "2026-11-15T16:44Z"
    },
    {
     "player": "T.J. McConnell",
@@ -613,5 +613,27 @@
    }
   ]
  },
- "status_changes": []
+ "status_changes": [
+  {
+   "at_et": "2026-11-15 12:12",
+   "team": "Dallas Mavericks",
+   "player": "Daniel Gafford",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-15 12:12",
+   "team": "Dallas Mavericks",
+   "player": "Max Christie",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-15 12:12",
+   "team": "Indiana Pacers",
+   "player": "Andrew Nembhard",
+   "from": "Day-To-Day",
+   "to": "Out"
+  }
+ ]
 }
