@@ -5,7 +5,8 @@
   "fclose:2026-11-15T14:30:00Z": "2026-11-15T14:18:00Z",
   "fclose@2026-11-15T14:18:00Z": "2026-11-15T14:18:00Z",
   "lab_0610": "2026-11-15T11:10:00Z",
-  "mscreen_0645": "2026-11-15T11:45:00Z"
+  "mscreen_0645": "2026-11-15T11:45:00Z",
+  "mscreen_1030": "2026-11-15T15:30:00Z"
  },
  "log": [
   "2026-11-15T07:32:45Z hand-over to a fresh clock run",
@@ -13,6 +14,7 @@
   "2026-11-15T11:10:00Z lab_0610: dispatched jdarby00/dk-odds lab.yml (HTTP 204)",
   "2026-11-15T11:45:00Z mscreen_0645: dispatched jdarby00/dk-odds market-screen.yml (HTTP 204)",
   "2026-11-15T13:08:01Z hand-over to a fresh clock run",
-  "2026-11-15T14:18:00Z fclose@2026-11-15T14:18:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)"
+  "2026-11-15T14:18:00Z fclose@2026-11-15T14:18:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
+  "2026-11-15T15:30:00Z mscreen_1030: dispatched jdarby00/dk-odds market-screen.yml (HTTP 204)"
  ]
 }
