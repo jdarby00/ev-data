@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "updated_et": "2026-11-15 15:45",
+ "updated_et": "2026-11-15 18:22",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -25,7 +25,7 @@
    "home": "PHX",
    "away_name": "Los Angeles Lakers",
    "home_name": "Phoenix Suns",
-   "state": "pre",
+   "state": "in",
    "spread_text": "LAL -3.5",
    "spread": 3.5,
    "total": 227.5,
@@ -39,7 +39,7 @@
    "home": "LAC",
    "away_name": "Charlotte Hornets",
    "home_name": "LA Clippers",
-   "state": "pre",
+   "state": "in",
    "spread_text": "LAC -1.5",
    "spread": -1.5,
    "total": 213.5,
@@ -53,7 +53,7 @@
    "home": "UTAH",
    "away_name": "San Antonio Spurs",
    "home_name": "Utah Jazz",
-   "state": "pre",
+   "state": "in",
    "spread_text": "SA -14.5",
    "spread": 14.5,
    "total": 223.5,
@@ -67,7 +67,7 @@
    "home": "BOS",
    "away_name": "Dallas Mavericks",
    "home_name": "Boston Celtics",
-   "state": "pre",
+   "state": "in",
    "spread_text": "BOS -14.5",
    "spread": -14.5,
    "total": 218.5,
@@ -81,7 +81,7 @@
    "home": "TOR",
    "away_name": "New York Knicks",
    "home_name": "Toronto Raptors",
-   "state": "pre",
+   "state": "in",
    "spread_text": "NY -5.5",
    "spread": 5.5,
    "total": 217.5,
@@ -96,8 +96,8 @@
    "away_name": "Houston Rockets",
    "home_name": "Washington Wizards",
    "state": "pre",
-   "spread_text": "HOU -8.5",
-   "spread": 8.5,
+   "spread_text": "HOU -7.5",
+   "spread": 7.5,
    "total": 223.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -195,31 +195,24 @@
   "Dallas Mavericks": [
    {
     "player": "Santi Aldama",
-    "status": "Day-To-Day",
-    "detail": "Aldama (ankle) is listed as questionable for Sunday's game in Boston.",
-    "type": "day-to-day",
-    "updated": "2026-11-15T18:19Z"
+    "status": "Out",
+    "detail": "Aldama (ankle) is out for Sunday's game against the Celtics.",
+    "type": "out",
+    "updated": "2026-11-15T22:27Z"
    },
    {
     "player": "Max Christie",
-    "status": "Day-To-Day",
-    "detail": "Christie (ankle) is doubtful to play Sunday's game against the Celtics.",
-    "type": "day-to-day",
-    "updated": "2026-11-15T18:18Z"
+    "status": "Out",
+    "detail": "Christie (ankle) has been ruled out for Sunday's game against the Celtics.",
+    "type": "out",
+    "updated": "2026-11-15T21:24Z"
    },
    {
     "player": "Kyrie Irving",
-    "status": "Day-To-Day",
-    "detail": "Irving (knee) is questionable to play in Sunday's game against the Celtics.",
-    "type": "day-to-day",
-    "updated": "2026-11-15T18:14Z"
-   },
-   {
-    "player": "Daniel Gafford",
-    "status": "Day-To-Day",
-    "detail": "Gafford (shoulder) is probable to play in Sunday's game against the Celtics.",
-    "type": "day-to-day",
-    "updated": "2026-11-15T18:09Z"
+    "status": "Out",
+    "detail": "Irving (knee) has been ruled out for Sunday's game against the Celtics.",
+    "type": "out",
+    "updated": "2026-11-15T21:20Z"
    },
    {
     "player": "Dereck Lively II",
@@ -269,10 +262,10 @@
   "Indiana Pacers": [
    {
     "player": "Andrew Nembhard",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Nembhard (hip) has been ruled out for Sunday's game against the 76ers, Tony East of Forbes.com reports.",
-    "type": "out",
-    "updated": "2026-11-15T16:44Z"
+    "type": "day-to-day",
+    "updated": "2026-11-15T20:57Z"
    },
    {
     "player": "Tyrese Haliburton",
@@ -398,10 +391,10 @@
   "Philadelphia 76ers": [
    {
     "player": "Joel Embiid",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Embiid (right foot injury management) has been ruled out for Sunday's game against the Pacers.",
-    "type": "out",
-    "updated": "2026-11-14T22:05Z"
+    "type": "day-to-day",
+    "updated": "2026-11-15T20:58Z"
    },
    {
     "player": "Dominick Barlow",
@@ -468,9 +461,9 @@
    {
     "player": "De'Aaron Fox",
     "status": "Out",
-    "detail": "Fox (hip) is listed as questionable for Sunday's game against Utah.",
+    "detail": "Fox (hip) has been ruled out for Sunday's game against the Jazz.",
     "type": "out",
-    "updated": "2026-11-15T20:32Z"
+    "updated": "2026-11-15T20:33Z"
    },
    {
     "player": "Tobias Harris",
@@ -494,13 +487,6 @@
     "detail": "Bittle (foot) has been ruled out for Sunday's game against the Knicks, Zulfi Sheikh of Sportsnet.ca reports.",
     "type": "out",
     "updated": "2026-11-14T21:59Z"
-   },
-   {
-    "player": "Scottie Barnes",
-    "status": "Out",
-    "detail": "Barnes (groin) is listed as questionable for Sunday's game against the Knicks, Michael Grange of Sportsnet.ca reports.",
-    "type": "out",
-    "updated": "2026-11-14T17:33Z"
    },
    {
     "player": "Kevin McCullar Jr.",
@@ -557,10 +543,10 @@
   "Washington Wizards": [
    {
     "player": "Tre Johnson",
-    "status": "Day-To-Day",
-    "detail": "Johnson is listed as questionable for Sunday's game against the Rockets due to lower-back soreness.",
-    "type": "day-to-day",
-    "updated": "2026-11-14T21:09Z"
+    "status": "Out",
+    "detail": "Johnson (back) won't play in Sunday's game against Houston, Josh Robbins of The Athletic reports.",
+    "type": "out",
+    "updated": "2026-11-15T22:31Z"
    },
    {
     "player": "Tristan Vukcevic",
@@ -709,6 +695,62 @@
    "at_et": "2026-11-15 15:45",
    "team": "San Antonio Spurs",
    "player": "De'Aaron Fox",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-15 18:22",
+   "team": "Dallas Mavericks",
+   "player": "Santi Aldama",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-15 18:22",
+   "team": "Dallas Mavericks",
+   "player": "Max Christie",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-15 18:22",
+   "team": "Dallas Mavericks",
+   "player": "Kyrie Irving",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-15 18:22",
+   "team": "Dallas Mavericks",
+   "player": "Daniel Gafford",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-15 18:22",
+   "team": "Indiana Pacers",
+   "player": "Andrew Nembhard",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-15 18:22",
+   "team": "Philadelphia 76ers",
+   "player": "Joel Embiid",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-15 18:22",
+   "team": "Toronto Raptors",
+   "player": "Scottie Barnes",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-15 18:22",
+   "team": "Washington Wizards",
+   "player": "Tre Johnson",
    "from": "Day-To-Day",
    "to": "Out"
   }
