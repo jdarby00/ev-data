@@ -7,8 +7,11 @@
   "box_0520": "2026-11-15T10:20:00Z",
   "close:2026-11-15T18:00:00Z": "2026-11-15T17:48:00Z",
   "close:2026-11-15T21:05:00Z": "2026-11-15T20:53:00Z",
+  "close:2026-11-15T21:25:00Z": "2026-11-15T21:13:00Z",
+  "close:2026-11-15T21:40:00Z": "2026-11-15T21:13:00Z",
   "close@2026-11-15T17:48:00Z": "2026-11-15T17:48:00Z",
   "close@2026-11-15T20:53:00Z": "2026-11-15T20:53:00Z",
+  "close@2026-11-15T21:13:00Z": "2026-11-15T21:13:00Z",
   "escreen_1040": "2026-11-15T15:40:00Z",
   "fclose:2026-11-15T14:30:00Z": "2026-11-15T14:18:00Z",
   "fclose:2026-11-15T21:00:00Z": "2026-11-15T20:48:00Z",
@@ -35,6 +38,7 @@
   "2026-11-15T20:45:08Z board_1405: dispatched jdarby00/ev-data nba.yml (HTTP 204)",
   "2026-11-15T20:45:12Z board_1445: dispatched jdarby00/ev-data nba.yml (HTTP 204)",
   "2026-11-15T20:48:00Z fclose@2026-11-15T20:48:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
-  "2026-11-15T20:53:00Z close@2026-11-15T20:53:00Z: dispatched jdarby00/dk-odds odds.yml (HTTP 204)"
+  "2026-11-15T20:53:00Z close@2026-11-15T20:53:00Z: dispatched jdarby00/dk-odds odds.yml (HTTP 204)",
+  "2026-11-15T21:13:00Z close@2026-11-15T21:13:00Z: dispatched jdarby00/dk-odds odds.yml (HTTP 204)"
  ]
 }
