@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "updated_et": "2026-11-15 15:35",
+ "updated_et": "2026-11-15 15:45",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -28,7 +28,7 @@
    "state": "pre",
    "spread_text": "LAL -3.5",
    "spread": 3.5,
-   "total": 226.5,
+   "total": 227.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -40,8 +40,8 @@
    "away_name": "Charlotte Hornets",
    "home_name": "LA Clippers",
    "state": "pre",
-   "spread_text": "CHA -1.5",
-   "spread": 1.5,
+   "spread_text": "LAC -1.5",
+   "spread": -1.5,
    "total": 213.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -54,9 +54,9 @@
    "away_name": "San Antonio Spurs",
    "home_name": "Utah Jazz",
    "state": "pre",
-   "spread_text": "SA -15.5",
-   "spread": 15.5,
-   "total": 224.5,
+   "spread_text": "SA -14.5",
+   "spread": 14.5,
+   "total": 223.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -467,10 +467,10 @@
   "San Antonio Spurs": [
    {
     "player": "De'Aaron Fox",
-    "status": "Day-To-Day",
+    "status": "Out",
     "detail": "Fox (hip) is listed as questionable for Sunday's game against Utah.",
-    "type": "day-to-day",
-    "updated": "2026-11-15T18:27Z"
+    "type": "out",
+    "updated": "2026-11-15T20:32Z"
    },
    {
     "player": "Tobias Harris",
@@ -704,6 +704,13 @@
    "player": "Bub Carrington",
    "from": "Day-To-Day",
    "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-15 15:45",
+   "team": "San Antonio Spurs",
+   "player": "De'Aaron Fox",
+   "from": "Day-To-Day",
+   "to": "Out"
   }
  ]
 }

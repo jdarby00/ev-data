@@ -1,12 +1,11 @@
 # NBA board, 2026-11-15
 
-Slate updated 2026-11-15 15:35 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-15 15:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 12:12 Dallas Mavericks: Max Christie Out → Day-To-Day
 - 12:12 Indiana Pacers: Andrew Nembhard Day-To-Day → Out
 - 15:35 Atlanta Hawks: Jock Landale not listed → Day-To-Day
 - 15:35 Dallas Mavericks: Santi Aldama not listed → Day-To-Day
@@ -21,6 +20,7 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 15:35 San Antonio Spurs: De'Aaron Fox not listed → Day-To-Day
 - 15:35 Washington Wizards: Alex Sarr Day-To-Day → removed from report
 - 15:35 Washington Wizards: Bub Carrington Day-To-Day → removed from report
+- 15:45 San Antonio Spurs: De'Aaron Fox Day-To-Day → Out
 
 ## IND @ PHI, 13:00 ET
 Line: PHI -8.5, total 225.5 (Draft Kings).
@@ -65,7 +65,7 @@ Line: PHI -8.5, total 225.5 (Draft Kings).
 | Dominick Barlow | Out | none this season; last season 23.7 min, 7.7 pts | | | | |
 
 ## LAL @ PHX, 16:00 ET
-Line: LAL -3.5, total 226.5 (DraftKings).
+Line: LAL -3.5, total 227.5 (DraftKings).
 **LAL** (3 rest days). Out: Austin Reaves. Freed minutes: 35.2.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -97,7 +97,7 @@ Line: LAL -3.5, total 226.5 (DraftKings).
 | Drew Timme | Day-To-Day | none this season; last season 8.7 min, 3.4 pts | | | | |
 
 ## CHA @ LAC, 16:30 ET
-Line: CHA -1.5, total 213.5 (DraftKings).
+Line: LAC -1.5, total 213.5 (DraftKings).
 **CHA** (2 rest days). Out: Dennis Schroder, Kon Knueppel. Freed minutes: 36.
 - Without Dennis Schroder: Hannes Steinbach min +12.3, pts +0.3, reb +4.7, ast +0.2 (n=2 vs 3)
 - Without Dennis Schroder: Liam McNeeley min +10.7, pts +6.2, reb -0.3, ast +1.8 (n=2 vs 4)
@@ -135,8 +135,8 @@ Line: CHA -1.5, total 213.5 (DraftKings).
 | Baba Miller | – | 12 (5.9) → 12.1 (4.2) | 6.6/4.6 → 5 (0–11) | 2.4/2.7 → 2 (0–5) | 1.4/1 → 1 (0–3) | 0.4/0.2 → 0 (0–1) | 8 (1–18) |
 
 ## SA @ UTAH, 17:00 ET
-Line: SA -15.5, total 224.5 (DraftKings).
-**SA** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Tobias Harris, Jayden Quaintance.
+Line: SA -14.5, total 223.5 (DraftKings).
+**SA** (1 rest day). Out: De'Aaron Fox. Freed minutes: 28.6. Out all season so far (already in the lines): Tobias Harris, Jayden Quaintance.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -146,7 +146,7 @@ Line: SA -15.5, total 224.5 (DraftKings).
 | Devin Vassell | – | 26.4 (5.8) → 27.7 (19.9) | 10.8/11.5 → 12 (5–20) | 3/3.6 → 3 (1–6) | 2.4/3 → 2 (1–5) | 1.4/1.5 → 2 (0–4) | 18 (8–28) |
 | Julian Champagnie | – | 25.6 (4.4) → 26.1 (18.4) | 10.4/10 → 10 (3–17) | 4.4/4 → 5 (2–8) | 1.8/1.5 → 1 (0–4) | 2.6/2.7 → 2 (0–5) | 16 (7–26) |
 | Victor Wembanyama | – | 25.6 (5.5) → 27.3 (19.6) | 28.6/28.8 → 26 (14–39) | 10.6/11.7 → 11 (6–17) | 3/3.1 → 3 (1–6) | 2.2/1.8 → 2 (0–4) | 40 (24–58) |
-| De'Aaron Fox | Day-To-Day | 25 (6.4) → 26.6 (18.2) | 11.2/13.6 → 14 (6–23) | 4.6/4.4 → 4 (1–7) | 5.2/5.8 → 5 (2–9) | 1/1 → 1 (0–3) | 23 (11–36) |
+| De'Aaron Fox | Out | 25 (6.4) | 11.2/13.6 | 4.6/4.4 | 5.2/5.8 | 1/1 | – |
 | Harrison Barnes | – | 18.6 (6.1) → 17.8 (9.7) | 8.6/6 → 7 (1–14) | 1.6/0.9 → 1 (0–4) | 0.2/0.1 → 1 (0–2) | 1.8/1.3 → 1 (0–3) | 9 (2–18) |
 | Luke Kornet | – | 15.2 (1.6) → 15.6 (7.9) | 4.6/3.6 → 4 (0–10) | 5.2/4.5 → 4 (1–9) | 1.4/1.1 → 1 (0–3) | 0/0 → 0 (0–0) | 10 (3–20) |
 | Carter Bryant | – | 13.6 (5) → 13.5 (5.8) | 6.4/4.1 → 5 (0–11) | 1.8/0.9 → 2 (0–5) | 1.2/0.8 → 1 (0–2) | 1.6/1 → 1 (0–3) | 8 (1–17) |
