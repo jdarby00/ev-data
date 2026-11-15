@@ -6,10 +6,12 @@
    "api_away": "New England Patriots",
    "api_home": "Detroit Lions",
    "away": "Patriots",
-   "commence_time": "2026-11-15T14:30:00Z",
+   "commence_time": "2026-11-15T14:33:33Z",
    "event_id": "b8c10fdf1e0ac4e13deee7f7c0af0b0b",
    "home": "Lions",
-   "issues": [],
+   "issues": [
+    "no close snapshot before start"
+   ],
    "market": "player_reception_yds_alternate",
    "players": [],
    "requested_rev": 1,
@@ -45582,5 +45584,5 @@
  "spent_month": 290,
  "spent_today": 0,
  "stop": null,
- "updated": "2026-11-15T08:35:50Z"
+ "updated": "2026-11-15T16:31:57Z"
 }
