@@ -30,7 +30,8 @@
   "lab_1435": "2026-11-15T19:35:00Z",
   "mscreen_0645": "2026-11-15T11:45:00Z",
   "mscreen_1030": "2026-11-15T15:30:00Z",
-  "mscreen_1615": "2026-11-15T21:15:00Z"
+  "mscreen_1615": "2026-11-15T21:15:00Z",
+  "news_1810": "2026-11-15T23:10:00Z"
  },
  "log": [
   "2026-11-15T07:32:45Z hand-over to a fresh clock run",
@@ -55,6 +56,7 @@
   "2026-11-15T21:20:00Z escreen_1620: dispatched jdarby00/dk-odds espn-screen.yml (HTTP 204)",
   "2026-11-15T21:48:00Z fclose@2026-11-15T21:48:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
   "2026-11-15T22:48:00Z fclose@2026-11-15T22:48:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
-  "2026-11-15T22:58:00Z close@2026-11-15T22:58:00Z: dispatched jdarby00/dk-odds odds.yml (HTTP 204)"
+  "2026-11-15T22:58:00Z close@2026-11-15T22:58:00Z: dispatched jdarby00/dk-odds odds.yml (HTTP 204)",
+  "2026-11-15T23:10:00Z news_1810: dispatched jdarby00/dk-odds late-news.yml (HTTP 204)"
  ]
 }
