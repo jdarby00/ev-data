@@ -1,26 +1,26 @@
 # NBA board, 2026-11-14
 
-Slate updated 2026-11-14 17:57 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-14 20:05 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 14:05 Chicago Bulls: Nic Claxton not listed → Day-To-Day
-- 14:05 Chicago Bulls: Norman Powell not listed → Day-To-Day
-- 14:05 Chicago Bulls: Dailyn Swain Day-To-Day → removed from report
-- 14:05 Cleveland Cavaliers: Peyton Watson not listed → Day-To-Day
-- 14:05 Cleveland Cavaliers: Evan Mobley Day-To-Day → Out
-- 14:05 Cleveland Cavaliers: Jarrett Allen not listed → Day-To-Day
-- 14:05 Cleveland Cavaliers: Donovan Mitchell not listed → Day-To-Day
-- 14:05 Cleveland Cavaliers: James Harden not listed → Day-To-Day
-- 14:05 Miami Heat: Giannis Antetokounmpo not listed → Day-To-Day
-- 14:05 New Orleans Pelicans: Bryce McGowens Day-To-Day → Out
-- 14:45 Memphis Grizzlies: Ty Jerome not listed → Out
-- 15:05 Memphis Grizzlies: Quinten Post Day-To-Day → Out
-- 15:05 Memphis Grizzlies: Jerami Grant not listed → Day-To-Day
-- 17:57 Cleveland Cavaliers: Jarrett Allen Day-To-Day → Out
-- 17:57 New Orleans Pelicans: Yves Missi Out → removed from report
+- 20:05 Brooklyn Nets: Nolan Traore Day-To-Day → removed from report
+- 20:05 Chicago Bulls: Jalen Smith Day-To-Day → Out
+- 20:05 Chicago Bulls: Nic Claxton Day-To-Day → Out
+- 20:05 Chicago Bulls: Norman Powell Day-To-Day → removed from report
+- 20:05 Cleveland Cavaliers: Peyton Watson Day-To-Day → Out
+- 20:05 Cleveland Cavaliers: James Harden Day-To-Day → Out
+- 20:05 Cleveland Cavaliers: Donovan Mitchell Day-To-Day → Out
+- 20:05 Dallas Mavericks: Max Christie Day-To-Day → Out
+- 20:05 Dallas Mavericks: Morez Johnson Jr. Day-To-Day → removed from report
+- 20:05 Memphis Grizzlies: Zach Edey Day-To-Day → Out
+- 20:05 Memphis Grizzlies: Jerami Grant Day-To-Day → Out
+- 20:05 Miami Heat: Pelle Larsson Day-To-Day → Out
+- 20:05 Miami Heat: Klay Thompson Day-To-Day → removed from report
+- 20:05 Miami Heat: Giannis Antetokounmpo Day-To-Day → removed from report
+- 20:05 New Orleans Pelicans: Bennedict Mathurin not listed → Out
 
 ## DEN @ NO, 19:00 ET
 Line: DEN -12.5, total 235.5 (DraftKings).
@@ -40,7 +40,7 @@ Line: DEN -12.5, total 235.5 (DraftKings).
 | Marvin Bagley III | – | 12.4 (2.5) → 13.2 (5.5) | 7.2/5.8 → 6 (1–13) | 2.8/3.3 → 3 (1–7) | 0.6/0.6 → 1 (0–2) | 0/0 → 0 (0–1) | 11 (2–21) |
 | Julian Strawther | Out | none this season; last season 15.1 min, 7.2 pts | | | | |
 
-**NO** (back-to-back). Out: Trey Murphy III, Dejounte Murray, Trendon Watford, Bryce McGowens. Freed minutes: 92.6.
+**NO** (back-to-back). Out: Trey Murphy III, Dejounte Murray, Trendon Watford, Bennedict Mathurin, Bryce McGowens. Freed minutes: 107.8.
 - Without Trey Murphy III: Jordan Poole min +9.3, pts +5.3, reb -0.3, ast -0.3 (n=3 vs 4)
 - Without Trey Murphy III: Herbert Jones min +8.5, pts -0.5, reb +1.2, ast +1.1 (n=4 vs 9)
 - Without Dejounte Murray: Herbert Jones min +8.1, pts +7.4, reb +0.4, ast +1.4 (n=4 vs 9)
@@ -62,11 +62,11 @@ Line: DEN -12.5, total 235.5 (DraftKings).
 
 ## DAL @ CLE, 19:30 ET
 Line: DAL -8.5, total 228.5 (DraftKings).
-**DAL** (1 rest day). Out: Sergio de Larrea. Freed minutes: 11.8. Out all season so far (already in the lines): Dereck Lively II, Tarik Biberovic.
-- Without Sergio de Larrea: Max Christie min -17.5, pts -6.2, reb -2.1, ast -2.1 (n=7 vs 4)
+**DAL** (1 rest day). Out: Sergio de Larrea, Max Christie. Freed minutes: 30.4. Out all season so far (already in the lines): Dereck Lively II, Tarik Biberovic.
 - Without Sergio de Larrea: Marcus Sasser min -9.7, pts -5.3, reb -1.1, ast -0.9 (n=6 vs 4)
 - Without Sergio de Larrea: Zaccharie Risacher min -8.8, pts +0.5, reb -1.5, ast +0 (n=8 vs 4)
 - Without Sergio de Larrea: Walter Clayton Jr. min +8.4, pts +1.4, reb +0.9, ast +0.6 (n=8 vs 3)
+- Without Sergio de Larrea: Cooper Flagg min +4.9, pts -0.5, reb +2.2, ast +0.3 (n=8 vs 3)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -77,23 +77,23 @@ Line: DAL -8.5, total 228.5 (DraftKings).
 | Walter Clayton Jr. | – | 21.4 (4.8) → 20 (12.3) | 7.2/7 → 7 (2–14) | 4.2/3 → 2 (0–5) | 4.2/3.5 → 4 (1–7) | 1/1.2 → 1 (0–3) | 13 (5–23) |
 | Zaccharie Risacher | – | 19 (5.9) → 21.6 (13.6) | 8.6/8.3 → 9 (3–16) | 3.8/5 → 4 (1–7) | 1.4/1.5 → 1 (0–3) | 1/1.1 → 1 (0–3) | 14 (6–25) |
 | Daniel Gafford | – | 18.2 (4.3) → 20.2 (12.5) | 7.6/9.1 → 9 (3–16) | 3/5.3 → 5 (2–9) | 1.6/1.9 → 1 (0–3) | 0/0.1 → 0 (0–0) | 15 (6–26) |
-| Morez Johnson Jr. | Day-To-Day | 18.2 (3.2) → 17.3 (9.6) | 7.6/6.9 → 6 (1–12) | 6.6/4.8 → 4 (1–8) | 1/1.2 → 1 (0–3) | 0.4/0.2 → 0 (0–2) | 12 (4–21) |
+| Morez Johnson Jr. | – | 18.2 (3.2) → 17.3 (9.6) | 7.6/6.9 → 6 (1–12) | 6.6/4.8 → 4 (1–8) | 1/1.2 → 1 (0–3) | 0.4/0.2 → 0 (0–2) | 12 (4–21) |
 | Caleb Martin | – | 18 (4.1) → 18.4 (10.8) | 1.8/4 → 4 (0–9) | 2/2.2 → 2 (0–5) | 2.8/1.8 → 2 (0–4) | 0.2/0.8 → 0 (0–1) | 9 (2–16) |
 | Santi Aldama | – | 14.2 (3.3) → 16 (8.4) | 8.2/8.2 → 8 (2–15) | 4/4 → 4 (1–7) | 0.8/0.8 → 1 (0–3) | 1/1 → 1 (0–2) | 13 (4–24) |
 | Sergio de Larrea | Out | 11.8 (12.5) | 5.2/5.2 | 2/2 | 1.2/1.2 | 0.8/0.8 | – |
 
-**CLE** (back-to-back). Out: Evan Mobley, Jarrett Allen, Sam Merrill. Freed minutes: 81. Out all season so far (already in the lines): Nae'Qwan Tomlin.
+**CLE** (back-to-back). Out: Donovan Mitchell, James Harden, Evan Mobley, Peyton Watson, Jarrett Allen, Sam Merrill. Freed minutes: 174.6. Out all season so far (already in the lines): Nae'Qwan Tomlin.
 - Without Sam Merrill: Tyrese Proctor min +9, pts +6.6, reb -0.2, ast +0.8 (n=4 vs 8)
+- Without Peyton Watson: Mario Hezonja min +8, pts +5.3, reb +3.2, ast +0.7 (n=2 vs 11)
 - Without Sam Merrill: Mario Hezonja min -7.6, pts -5.8, reb -3.3, ast -1.7 (n=4 vs 9)
 - Without Sam Merrill: Jaylon Tyson min +5.7, pts +1.7, reb -2.1, ast -1.8 (n=2 vs 5)
-- Without Jarrett Allen: Mario Hezonja min +5.6, pts +0, reb +2.6, ast -0.5 (n=2 vs 11)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
-| Donovan Mitchell | Day-To-Day | 32.4 (4.5) → 32.5 (24.8) | 23.8/23 → 24 (14–36) | 4.8/4.9 → 4 (2–8) | 5.8/5.6 → 5 (2–9) | 2.8/2.8 → 3 (1–6) | 34 (21–50) |
-| James Harden | Day-To-Day | 31.4 (3.6) → 32.5 (24.8) | 17.4/16.9 → 20 (10–30) | 3.8/4.7 → 4 (2–8) | 5/5.8 → 6 (3–10) | 2.6/2.6 → 3 (1–5) | 30 (17–44) |
+| Donovan Mitchell | Out | 32.4 (4.5) | 23.8/23 | 4.8/4.9 | 5.8/5.6 | 2.8/2.8 | – |
+| James Harden | Out | 31.4 (3.6) | 17.4/16.9 | 3.8/4.7 | 5/5.8 | 2.6/2.6 | – |
 | Evan Mobley | Out | 31 (3.9) | 13.8/16.9 | 6.4/7.3 | 3.6/3.6 | 1.4/1.9 | – |
-| Peyton Watson | Day-To-Day | 27.6 (4.7) → 27.8 (20.1) | 9.8/10.4 → 11 (4–18) | 5.2/4.5 → 4 (2–8) | 2.4/2.7 → 2 (0–5) | 1.2/0.9 → 1 (0–3) | 18 (8–28) |
+| Peyton Watson | Out | 27.6 (4.7) | 9.8/10.4 | 5.2/4.5 | 2.4/2.7 | 1.2/0.9 | – |
 | Jarrett Allen | Out | 23.6 (7.2) | 9.2/12.5 | 7.2/8.3 | 1.2/1.4 | 0.2/0.3 | – |
 | Meleek Thomas | – | 23.6 (3.4) → 22.3 (14.6) | 13/13 → 10 (4–18) | 2.4/2.5 → 3 (1–6) | 2/1.4 → 2 (0–4) | 2.6/2.6 → 2 (0–4) | 15 (6–26) |
 | Tyrese Proctor | – | 23 (5.3) → 20.7 (13) | 10.6/8.1 → 10 (3–18) | 3.4/2.9 → 2 (1–5) | 2.8/2.2 → 2 (0–5) | 2/1.6 → 2 (0–4) | 15 (6–26) |
@@ -103,16 +103,16 @@ Line: DAL -8.5, total 228.5 (DraftKings).
 | Thomas Bryant | – | 15 (3.7) → 13.9 (6.2) | 9.2/8.7 → 7 (1–15) | 2.4/2 → 3 (1–6) | 0.4/0.3 → 0 (0–2) | 1/1.1 → 1 (0–2) | 11 (3–21) |
 
 ## BKN @ MEM, 20:00 ET
-Line: MEM -1.5, total 227.5 (DraftKings).
-**BKN** (2 rest days). Out: none listed. Freed minutes: 0.
+Line: MEM -4.5, total 223.5 (DraftKings).
+**BKN** (2 rest days). Out: Michael Porter Jr.. Freed minutes: 32.5.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
-| Michael Porter Jr. | – | 33.6 (5.8) → 32.3 (24.5) | 22/21.5 → 22 (12–33) | 7.8/7.5 → 7 (4–12) | 1.2/1.3 → 2 (0–4) | 3.8/3.5 → 3 (1–6) | 32 (18–46) |
+| Michael Porter Jr. | Out | 33.6 (5.8) | 22/21.5 | 7.8/7.5 | 1.2/1.3 | 3.8/3.5 | – |
 | Julius Randle | – | 32 (5.7) → 32.1 (24.4) | 18.4/19.7 → 19 (10–29) | 5.8/6.5 → 6 (3–10) | 4.6/5 → 5 (2–8) | 0.6/1.4 → 1 (0–3) | 30 (17–44) |
 | Danny Wolf | – | 25.4 (8.8) → 25.7 (14.6) | 10.4/9.7 → 10 (3–18) | 6.8/6 → 6 (2–11) | 2.4/2.2 → 2 (0–5) | 1.8/1.8 → 1 (0–3) | 19 (8–32) |
-| Nolan Traore | Day-To-Day | 25 (6.7) → 23.3 (14.5) | 16.4/12.9 → 12 (4–20) | 2.2/2 → 2 (0–4) | 3.2/2.6 → 3 (1–6) | 3/1.8 → 1 (0–4) | 17 (7–28) |
-| Mikel Brown Jr. | Day-To-Day | 24.6 (3.2) → 23.6 (15.9) | 15.2/12.9 → 11 (4–19) | 2/2.1 → 3 (1–6) | 3.8/3.9 → 3 (1–5) | 2.2/2 → 1 (0–3) | 17 (8–28) |
+| Nolan Traore | – | 25 (6.7) → 23.3 (14.5) | 16.4/12.9 → 12 (4–20) | 2.2/2 → 2 (0–4) | 3.2/2.6 → 3 (1–6) | 3/1.8 → 1 (0–4) | 17 (7–28) |
+| Mikel Brown Jr. | – | 24.6 (3.2) → 23.6 (15.9) | 15.2/12.9 → 11 (4–19) | 2/2.1 → 3 (1–6) | 3.8/3.9 → 3 (1–5) | 2.2/2 → 1 (0–3) | 17 (8–28) |
 | Day'Ron Sharpe | – | 24 (4.7) → 22.7 (15) | 8.6/8.3 → 10 (3–17) | 5.8/6.8 → 7 (3–12) | 7/4.1 → 4 (1–7) | 0.4/0.5 → 0 (0–1) | 21 (10–33) |
 | Egor Demin | – | 22 (7.2) → 21.4 (12) | 10.6/10.6 → 10 (3–18) | 2/2 → 2 (0–5) | 2.4/2.4 → 2 (0–5) | 2/2 → 2 (0–4) | 14 (5–25) |
 | Keon Ellis | – | 20.6 (5.7) → 21.7 (14) | 4/5 → 6 (1–11) | 2/1.9 → 2 (0–4) | 1.6/2.1 → 1 (0–3) | 0.8/1 → 1 (0–3) | 9 (3–17) |
@@ -120,11 +120,11 @@ Line: MEM -1.5, total 227.5 (DraftKings).
 | Noah Clowney | – | 17 (4.3) → 19 (11.3) | 6/6 → 8 (2–14) | 4/4.4 → 3 (1–6) | 0.6/0.6 → 1 (0–2) | 0.8/0.7 → 1 (0–3) | 12 (4–21) |
 | Terance Mann | – | 16.8 (3.3) → 17.7 (10.1) | 1.2/1.3 → 4 (0–8) | 1.4/1.2 → 2 (0–4) | 1.4/1.5 → 2 (0–4) | 0.4/0.3 → 0 (0–2) | 8 (2–15) |
 
-**MEM** (back-to-back). Out: Ty Jerome, Scotty Pippen Jr., Quinten Post. Freed minutes: 59.7. Out all season so far (already in the lines): Richie Saunders.
+**MEM** (back-to-back). Out: Ty Jerome, Jerami Grant, Zach Edey, Scotty Pippen Jr., Quinten Post. Freed minutes: 104.2. Out all season so far (already in the lines): Richie Saunders.
 - Without Quinten Post: Isaiah Stewart min +6, pts +4.2, reb +0.8, ast +0.6 (n=4 vs 5)
 - Without Scotty Pippen Jr.: Taylor Hendricks min +5.8, pts +7.2, reb +3, ast +0.6 (n=5 vs 2)
 - Without Quinten Post: Javon Small min -5.8, pts -2.8, reb -1.7, ast +1.2 (n=3 vs 2)
-- Without Quinten Post: Kris Murray min +4.7, pts -0.7, reb +0.6, ast +0.1 (n=3 vs 5)
+- Without Zach Edey: Taylor Hendricks min +5.4, pts -0.2, reb +4.7, ast +0.8 (n=2 vs 5)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -132,8 +132,8 @@ Line: MEM -1.5, total 227.5 (DraftKings).
 | Ty Jerome | Out | 30 (3.2) | 22/25.4 | 3.2/3.4 | 4.8/5.3 | 2.4/2.5 | – |
 | Cedric Coward | – | 28.2 (3.4) → 28 (20.3) | 13/12.9 → 13 (6–22) | 8.4/8.5 → 7 (3–12) | 3.6/3 → 3 (1–6) | 1.6/2.1 → 1 (0–3) | 24 (13–37) |
 | Jaylen Wells | – | 26 (4.2) → 27.1 (19.4) | 10.8/11.9 → 12 (5–20) | 1.8/2.8 → 2 (1–5) | 1.2/1.2 → 1 (0–3) | 2.4/2.2 → 2 (0–4) | 16 (7–26) |
-| Jerami Grant | Day-To-Day | 22.8 (2) → 23.9 (16.3) | 14.8/11.7 → 14 (6–24) | 1.4/2.1 → 2 (0–5) | 1.8/2 → 2 (0–4) | 2.4/1.8 → 2 (0–4) | 18 (8–30) |
-| Zach Edey | Day-To-Day | 21.4 (2) → 21.5 (13.8) | 8.2/7.6 → 9 (3–17) | 8.4/7.7 → 8 (4–14) | 0.8/0.9 → 1 (0–2) | 0/0.1 → 0 (0–0) | 18 (8–30) |
+| Jerami Grant | Out | 22.8 (2) | 14.8/11.7 | 1.4/2.1 | 1.8/2 | 2.4/1.8 | – |
+| Zach Edey | Out | 21.4 (2) | 8.2/7.6 | 8.4/7.7 | 0.8/0.9 | 0/0.1 | – |
 | Cam Spencer | – | 20.8 (3.1) → 21 (13.3) | 10/9.7 → 10 (3–18) | 2.8/3.2 → 2 (0–5) | 4.2/4.8 → 5 (2–9) | 1.8/1.9 → 2 (0–4) | 17 (7–29) |
 | Isaiah Stewart | – | 19.4 (4.8) → 19 (11.3) | 11.8/10.9 → 9 (3–17) | 3.2/3.3 → 3 (1–7) | 0.8/0.7 → 1 (0–2) | 1/1 → 0 (0–2) | 14 (5–24) |
 | Javon Small | – | 19 (3.5) → 18.5 (10.8) | 7.8/7.8 → 8 (2–15) | 2/2 → 2 (0–5) | 4.2/4.2 → 3 (1–7) | 1.4/1.4 → 1 (0–3) | 14 (5–25) |
@@ -141,7 +141,7 @@ Line: MEM -1.5, total 227.5 (DraftKings).
 | GG Jackson | – | 15 (4.6) → 16.9 (9.2) | 5/7 → 8 (2–16) | 2/3.3 → 3 (1–6) | 1/1.1 → 1 (0–3) | 0.6/1.1 → 1 (0–3) | 13 (4–23) |
 
 ## DET @ MIA, 20:00 ET
-Line: DET -3.5, total 228.5 (DraftKings).
+Line: DET -4.5, total 228.5 (DraftKings).
 **DET** (1 rest day). Out: Jalen Duren, Isaiah Joe. Freed minutes: 32.7.
 - Without Jalen Duren: Daniss Jenkins min +10.8, pts +5.4, reb +0.4, ast +0.3 (n=9 vs 2)
 - Without Isaiah Joe: Paul Reed min +7, pts +0.8, reb -0.8, ast -0.2 (n=8 vs 3)
@@ -162,38 +162,38 @@ Line: DET -3.5, total 228.5 (DraftKings).
 | Ronald Holland II | – | 15 (4.4) → 15.6 (7.9) | 4.4/4.9 → 5 (1–11) | 3.2/3.5 → 3 (1–7) | 1/1.7 → 1 (0–3) | 1/0.6 → 0 (0–2) | 10 (2–19) |
 | Isaiah Joe | Out | 13.7 (6.8) | 7.3/7.3 | 1.7/1.7 | 1/1 | 1/1 | – |
 
-**MIA** (back-to-back). Out: none listed. Freed minutes: 0.
+**MIA** (back-to-back). Out: Pelle Larsson. Freed minutes: 29.5.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Davion Mitchell | – | 39.6 (3.8) → 36.6 (28.9) | 18.2/16.9 → 15 (7–24) | 3.4/2.2 → 3 (1–6) | 10.8/9.2 → 9 (5–15) | 2.4/2.3 → 2 (0–4) | 28 (16–41) |
 | Bam Adebayo | – | 36.6 (3.4) → 34.9 (27.2) | 23.8/19.4 → 22 (12–32) | 10/8.8 → 10 (5–15) | 3/3.2 → 3 (1–6) | 0.8/0.7 → 1 (0–3) | 35 (21–50) |
-| Giannis Antetokounmpo | Day-To-Day | 33.6 (4.3) → 32.3 (24.6) | 28.6/28.5 → 29 (17–43) | 12.4/12.3 → 11 (6–17) | 3.8/4.9 → 5 (2–8) | 0.6/0.6 → 0 (0–2) | 46 (29–65) |
-| Klay Thompson | Day-To-Day | 29.4 (5.9) → 26.8 (18.9) | 18.8/14.4 → 15 (7–24) | 1.8/1.5 → 2 (0–4) | 2.6/1.9 → 2 (0–4) | 4.6/3.8 → 4 (1–7) | 19 (9–30) |
-| Pelle Larsson | Day-To-Day | 29.4 (4.3) → 28.8 (21.1) | 10.8/11.4 → 12 (5–20) | 3.4/3.5 → 3 (1–7) | 3/3.5 → 3 (1–6) | 1.8/1.4 → 1 (0–3) | 19 (9–30) |
+| Giannis Antetokounmpo | – | 33.6 (4.3) → 32.3 (24.6) | 28.6/28.5 → 29 (17–43) | 12.4/12.3 → 11 (6–17) | 3.8/4.9 → 5 (2–8) | 0.6/0.6 → 0 (0–2) | 46 (29–65) |
+| Klay Thompson | – | 29.4 (5.9) → 26.8 (18.9) | 18.8/14.4 → 15 (7–24) | 1.8/1.5 → 2 (0–4) | 2.6/1.9 → 2 (0–4) | 4.6/3.8 → 4 (1–7) | 19 (9–30) |
+| Pelle Larsson | Out | 29.4 (4.3) | 10.8/11.4 | 3.4/3.5 | 3/3.5 | 1.8/1.4 | – |
 | Andrew Wiggins | – | 25.4 (5.6) → 26.7 (19) | 6.4/8.7 → 10 (4–18) | 3.2/2.8 → 3 (1–6) | 2/1.7 → 2 (0–4) | 1.2/1.3 → 1 (0–3) | 16 (7–26) |
 | Ryan Conwell | – | 24 (10.6) → 20.3 (7.2) | 8.8/5.8 → 7 (1–16) | 2.8/1.6 → 3 (0–7) | 2/1.3 → 1 (0–4) | 2/1.3 → 1 (0–3) | 12 (2–25) |
 | Bobby Portis | – | 16.8 (4) → 18.5 (10.8) | 3.6/6.7 → 8 (2–15) | 4/5.6 → 4 (1–8) | 1.8/1.8 → 1 (0–3) | 0.6/1.2 → 1 (0–3) | 14 (5–24) |
 
 ## CHI @ MIN, 20:00 ET
-Line: MIN -15.5, total 234.5 (DraftKings).
-**CHI** (back-to-back). Out: Caleb Wilson, Tobe Awaka. Freed minutes: 40.7.
+Line: MIN -16.5, total 237.5 (DraftKings).
+**CHI** (back-to-back). Out: Caleb Wilson, Jalen Smith, Nic Claxton, Tobe Awaka. Freed minutes: 84.
+- Without Nic Claxton: Jordan Hawkins min -15, pts -6, reb -1.5, ast -1.5 (n=4 vs 2)
+- Without Nic Claxton: Isaac Okoro min -11.8, pts -4, reb -1.1, ast -1.2 (n=8 vs 3)
 - Without Tobe Awaka: Jordan Hawkins min +11, pts +4, reb +1.4, ast +1 (n=3 vs 3)
 - Without Tobe Awaka: Matas Buzelis min +6.4, pts +2.8, reb +1.1, ast +1.2 (n=7 vs 4)
-- Without Tobe Awaka: Isaac Okoro min +6.4, pts +3.6, reb +0.5, ast -0.5 (n=7 vs 4)
-- Without Tobe Awaka: Norman Powell min +4.7, pts +6.4, reb +0, ast +0.3 (n=5 vs 4)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Josh Giddey | – | 31.4 (4.6) → 29.3 (21.6) | 13.2/10.6 → 13 (6–21) | 4.8/5.1 → 6 (3–10) | 10.4/8.8 → 9 (4–14) | 1.6/1.2 → 1 (0–3) | 28 (16–42) |
-| Norman Powell | Day-To-Day | 30 (5) → 27.4 (19.7) | 21.8/20.8 → 20 (10–31) | 2.6/2.8 → 3 (1–5) | 1.6/1.7 → 2 (0–4) | 2/2.3 → 2 (0–4) | 25 (13–38) |
+| Norman Powell | – | 30 (5) → 27.4 (19.7) | 21.8/20.8 → 20 (10–31) | 2.6/2.8 → 3 (1–5) | 1.6/1.7 → 2 (0–4) | 2/2.3 → 2 (0–4) | 25 (13–38) |
 | Matas Buzelis | – | 28 (5.7) → 27.9 (20.2) | 11.8/13.3 → 14 (6–22) | 4.4/4.5 → 5 (2–8) | 2.2/2 → 2 (0–4) | 2/1.7 → 2 (0–4) | 21 (10–32) |
 | Caleb Wilson | Out | 26.8 (6.7) | 17/18.9 | 5.4/6.2 | 1.6/1.9 | 3/2.3 | – |
-| Jalen Smith | Day-To-Day | 25.4 (7) → 25.8 (16.7) | 14.2/13 → 13 (5–22) | 6.6/7.8 → 8 (3–13) | 2.4/2 → 2 (0–4) | 2/1.7 → 2 (0–4) | 23 (11–36) |
+| Jalen Smith | Out | 25.4 (7) | 14.2/13 | 6.6/7.8 | 2.4/2 | 2/1.7 | – |
 | Isaac Okoro | – | 25 (8.2) → 24.8 (14.4) | 7.4/6.1 → 8 (2–14) | 1.8/1.5 → 2 (0–4) | 1.4/1.5 → 1 (0–3) | 0.4/0.5 → 1 (0–2) | 11 (4–21) |
 | Patrick Williams | – | 24.2 (2.9) → 24 (16.3) | 8.2/8.2 → 8 (2–15) | 3.5/3.5 → 3 (1–7) | 2.8/2.8 → 2 (0–4) | 1.2/1.2 → 1 (0–3) | 14 (6–23) |
 | Tre Jones | – | 18.8 (4.1) → 19.5 (11.8) | 9/10 → 10 (3–17) | 1.8/2.4 → 2 (0–4) | 2.8/2.9 → 3 (1–6) | 0.4/0.4 → 0 (0–1) | 15 (6–26) |
-| Nic Claxton | Day-To-Day | 18.7 (2.5) → 20.5 (12.8) | 7.7/7.7 → 8 (2–15) | 5.3/5.3 → 5 (2–9) | 2.3/2.3 → 2 (0–5) | 0/0 → 0 (0–0) | 16 (6–27) |
+| Nic Claxton | Out | 18.7 (2.5) | 7.7/7.7 | 5.3/5.3 | 2.3/2.3 | 0/0 | – |
 | Buddy Hield | – | 14.2 (4.7) → 15.2 (7.5) | 6.4/6.3 → 7 (1–14) | 2.2/1.9 → 2 (0–4) | 1.8/1.8 → 1 (0–3) | 1/1.1 → 1 (0–3) | 10 (3–20) |
 | Noa Essengue | – | 12.4 (2.9) → 11.3 (3.6) | 7.4/5.5 → 2 (0–5) | 4.2/3.3 → 1 (0–3) | 1/0.7 → 0 (0–1) | 0.6/0.5 → 0 (0–1) | 3 (0–8) |
 
