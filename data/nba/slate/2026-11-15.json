@@ -1,0 +1,617 @@
+{
+ "date": "2026-11-15",
+ "updated_et": "2026-11-15 05:20",
+ "source": "ESPN public scoreboard and injuries feeds",
+ "injuries_fetched": true,
+ "games": [
+  {
+   "event": "401909985",
+   "tip_et": "2026-11-15 13:00",
+   "away": "IND",
+   "home": "PHI",
+   "away_name": "Indiana Pacers",
+   "home_name": "Philadelphia 76ers",
+   "state": "pre",
+   "spread_text": "PHI -7.5",
+   "spread": -7.5,
+   "total": 224.5,
+   "odds_source": "DraftKings",
+   "season_type": 2
+  },
+  {
+   "event": "401909986",
+   "tip_et": "2026-11-15 16:00",
+   "away": "LAL",
+   "home": "PHX",
+   "away_name": "Los Angeles Lakers",
+   "home_name": "Phoenix Suns",
+   "state": "pre",
+   "spread_text": "LAL -2.5",
+   "spread": 2.5,
+   "total": 226.5,
+   "odds_source": "DraftKings",
+   "season_type": 2
+  },
+  {
+   "event": "401909987",
+   "tip_et": "2026-11-15 16:30",
+   "away": "CHA",
+   "home": "LAC",
+   "away_name": "Charlotte Hornets",
+   "home_name": "LA Clippers",
+   "state": "pre",
+   "spread_text": "LAC -1.5",
+   "spread": -1.5,
+   "total": 215.5,
+   "odds_source": "DraftKings",
+   "season_type": 2
+  },
+  {
+   "event": "401909988",
+   "tip_et": "2026-11-15 17:00",
+   "away": "SA",
+   "home": "UTAH",
+   "away_name": "San Antonio Spurs",
+   "home_name": "Utah Jazz",
+   "state": "pre",
+   "spread_text": "SA -17.5",
+   "spread": 17.5,
+   "total": 224.5,
+   "odds_source": "DraftKings",
+   "season_type": 2
+  },
+  {
+   "event": "401909989",
+   "tip_et": "2026-11-15 18:00",
+   "away": "DAL",
+   "home": "BOS",
+   "away_name": "Dallas Mavericks",
+   "home_name": "Boston Celtics",
+   "state": "pre",
+   "spread_text": "BOS -13.5",
+   "spread": -13.5,
+   "total": 217.5,
+   "odds_source": "DraftKings",
+   "season_type": 2
+  },
+  {
+   "event": "401909990",
+   "tip_et": "2026-11-15 18:00",
+   "away": "NY",
+   "home": "TOR",
+   "away_name": "New York Knicks",
+   "home_name": "Toronto Raptors",
+   "state": "pre",
+   "spread_text": "NY -4.5",
+   "spread": 4.5,
+   "total": 217.5,
+   "odds_source": "DraftKings",
+   "season_type": 2
+  },
+  {
+   "event": "401909991",
+   "tip_et": "2026-11-15 19:00",
+   "away": "HOU",
+   "home": "WSH",
+   "away_name": "Houston Rockets",
+   "home_name": "Washington Wizards",
+   "state": "pre",
+   "spread_text": "HOU -9.5",
+   "spread": 9.5,
+   "total": 222.5,
+   "odds_source": "DraftKings",
+   "season_type": 2
+  },
+  {
+   "event": "401909992",
+   "tip_et": "2026-11-15 20:00",
+   "away": "ATL",
+   "home": "MIL",
+   "away_name": "Atlanta Hawks",
+   "home_name": "Milwaukee Bucks",
+   "state": "pre",
+   "spread_text": "ATL -7.5",
+   "spread": 7.5,
+   "total": 235.5,
+   "odds_source": "DraftKings",
+   "season_type": 2
+  },
+  {
+   "event": "401909993",
+   "tip_et": "2026-11-15 21:00",
+   "away": "OKC",
+   "home": "SAC",
+   "away_name": "Oklahoma City Thunder",
+   "home_name": "Sacramento Kings",
+   "state": "pre",
+   "spread_text": "OKC -10.5",
+   "spread": 10.5,
+   "total": 222.5,
+   "odds_source": "DraftKings",
+   "season_type": 2
+  }
+ ],
+ "injuries": {
+  "Atlanta Hawks": [
+   {
+    "player": "Kingston Flemings",
+    "status": "Out",
+    "detail": "Flemings (back) has been ruled out for Sunday's game against the Bucks.",
+    "type": "out",
+    "updated": "2026-11-14T23:08Z"
+   },
+   {
+    "player": "Mouhamed Gueye",
+    "status": "Out",
+    "detail": "Gueye (foot) is ready to begin on-court activities and will be re-evaluated in four weeks, Brad Rowland of the Locked On Podcast Network reports.",
+    "type": "out",
+    "updated": "2026-11-13T00:06Z"
+   },
+   {
+    "player": "Keshon Gilbert",
+    "status": "Out",
+    "detail": "Gilbert (knee) has been ruled out for Friday's game against the Bulls.",
+    "type": "out",
+    "updated": "2026-11-12T23:10Z"
+   },
+   {
+    "player": "Asa Newell",
+    "status": "Out",
+    "detail": "Newell (toe) has been ruled out for Friday's game against Chicago.",
+    "type": "out",
+    "updated": "2026-11-12T23:08Z"
+   },
+   {
+    "player": "Henri Veesaar",
+    "status": "Out",
+    "detail": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",
+    "type": "out",
+    "updated": "2026-09-21T19:50Z"
+   }
+  ],
+  "Charlotte Hornets": [
+   {
+    "player": "Kon Knueppel",
+    "status": "Out",
+    "detail": "Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks.",
+    "type": "out",
+    "updated": "2026-11-08T22:31Z"
+   },
+   {
+    "player": "Dennis Schroder",
+    "status": "Out",
+    "detail": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",
+    "type": "out",
+    "updated": "2026-11-08T22:26Z"
+   }
+  ],
+  "Dallas Mavericks": [
+   {
+    "player": "Daniel Gafford",
+    "status": "Out",
+    "detail": "Gafford (face) won't return to Saturday's game against the Cavaliers, Grant Afseth of DallasHoopsJournal.com reports.",
+    "type": "out",
+    "updated": "2026-11-15T02:31Z"
+   },
+   {
+    "player": "Max Christie",
+    "status": "Out",
+    "detail": "Christie (ankle) has been ruled out for Saturday's game against Cleveland.",
+    "type": "out",
+    "updated": "2026-11-14T23:02Z"
+   },
+   {
+    "player": "Dereck Lively II",
+    "status": "Out",
+    "detail": "Lively (foot) is listed as out for Thursday's game in Minnesota.",
+    "type": "out",
+    "updated": "2026-11-11T22:13Z"
+   },
+   {
+    "player": "Tarik Biberovic",
+    "status": "Out",
+    "detail": "Biberovic (heel) is out for Thursday's game against Minnesota.",
+    "type": "out",
+    "updated": "2026-11-11T22:12Z"
+   },
+   {
+    "player": "Sergio de Larrea",
+    "status": "Out",
+    "detail": "De Larrea (knee) has been ruled out for Thursday's game at Minnesota.",
+    "type": "out",
+    "updated": "2026-11-11T22:10Z"
+   }
+  ],
+  "Houston Rockets": [
+   {
+    "player": "Clint Capela",
+    "status": "Out",
+    "detail": "Capela (ankle) has been ruled out for Sunday's game at Washington.",
+    "type": "out",
+    "updated": "2026-11-14T21:54Z"
+   },
+   {
+    "player": "Steven Adams",
+    "status": "Out",
+    "detail": "Adams (calf) has been upgraded to probable for Sunday's game against the Wizards.",
+    "type": "out",
+    "updated": "2026-11-14T21:52Z"
+   },
+   {
+    "player": "Fred VanVleet",
+    "status": "Out",
+    "detail": "VanVleet (right knee injury management) has been ruled out for Sunday's game against the Wizards.",
+    "type": "out",
+    "updated": "2026-11-14T21:52Z"
+   },
+   {
+    "player": "Marcus Smart",
+    "status": "Suspension",
+    "detail": "Smart has been suspended three games for throwing a punch during Wednesday's matchup against Golden State, Shams Charania of ESPN reports.",
+    "type": "Suspension",
+    "updated": "2026-11-12T22:45Z"
+   }
+  ],
+  "Indiana Pacers": [
+   {
+    "player": "Andrew Nembhard",
+    "status": "Day-To-Day",
+    "detail": "Nembhard is questionable for Sunday's game against the 76ers due to left hip soreness.",
+    "type": "day-to-day",
+    "updated": "2026-11-15T01:14Z"
+   },
+   {
+    "player": "T.J. McConnell",
+    "status": "Day-To-Day",
+    "detail": "McConnell (hamstring) is listed as probable for Sunday's game against the 76ers.",
+    "type": "day-to-day",
+    "updated": "2026-11-14T21:23Z"
+   },
+   {
+    "player": "Aaron Nesmith",
+    "status": "Day-To-Day",
+    "detail": "Nesmith (hand) is listed as questionable for Sunday's game against Philadelphia.",
+    "type": "day-to-day",
+    "updated": "2026-11-14T21:21Z"
+   },
+   {
+    "player": "Tyrese Haliburton",
+    "status": "Out",
+    "detail": "Head coach Rick Carlisle said Wednesday that Haliburton (hamstring) will miss at least 10 more days, Alex Golden of SI.com reports.",
+    "type": "out",
+    "updated": "2026-11-11T22:29Z"
+   },
+   {
+    "player": "Johnny Furphy",
+    "status": "Out",
+    "detail": "Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com.",
+    "type": "out",
+    "updated": "2026-10-30T19:06Z"
+   },
+   {
+    "player": "Ben Sheppard",
+    "status": "Out",
+    "detail": "Head coach Rick Carlise confirmed Sheppard will miss \"months\" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports.",
+    "type": "out",
+    "updated": "2026-10-28T21:41Z"
+   }
+  ],
+  "LA Clippers": [
+   {
+    "player": "Brandon Ingram",
+    "status": "Out",
+    "detail": "Ingram (Achilles) won't play in Friday's game against the Thunder, per Law Murray of The Athletic.",
+    "type": "out",
+    "updated": "2026-11-12T21:05Z"
+   },
+   {
+    "player": "Yanic Konan Niederhauser",
+    "status": "Out",
+    "detail": "Niederhauser (foot) is out for Tuesday's game against Phoenix, Ohm Youngmisuk of ESPN.com reports.",
+    "type": "out",
+    "updated": "2026-11-10T00:05Z"
+   },
+   {
+    "player": "Bradley Beal",
+    "status": "Out",
+    "detail": "Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo reports.",
+    "type": "out",
+    "updated": "2026-10-15T01:03Z"
+   },
+   {
+    "player": "Jordan Miller",
+    "status": "Out",
+    "detail": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic.",
+    "type": "out",
+    "updated": "2026-08-26T20:04Z"
+   }
+  ],
+  "Los Angeles Lakers": [
+   {
+    "player": "Adou Thiero",
+    "status": "Day-To-Day",
+    "detail": "Thiero (ankle) is questionable for Sunday's game against the Suns.",
+    "type": "day-to-day",
+    "updated": "2026-11-15T00:40Z"
+   },
+   {
+    "player": "Collin Sexton",
+    "status": "Day-To-Day",
+    "detail": "Sexton (head) is questionable for Sunday's game against the Suns, Daniel Starkand of LakersNation.com reports.",
+    "type": "day-to-day",
+    "updated": "2026-11-15T00:27Z"
+   },
+   {
+    "player": "Austin Reaves",
+    "status": "Out",
+    "detail": "Reaves (heel) has been ruled out for Sunday's game against the Suns, Daniel Starkand of LakersNation.com reports.",
+    "type": "out",
+    "updated": "2026-11-15T00:17Z"
+   }
+  ],
+  "Milwaukee Bucks": [
+   {
+    "player": "Ousmane Dieng",
+    "status": "Out",
+    "detail": "Dieng (finger) has been ruled out for Sunday's game against the Hawks.",
+    "type": "out",
+    "updated": "2026-11-14T22:40Z"
+   }
+  ],
+  "Oklahoma City Thunder": [
+   {
+    "player": "Jaylin Williams",
+    "status": "Out",
+    "detail": "Williams (back) has been ruled out for Sunday's game against the Kings.",
+    "type": "out",
+    "updated": "2026-11-15T01:14Z"
+   },
+   {
+    "player": "Ajay Mitchell",
+    "status": "Day-To-Day",
+    "detail": "Mitchell (ankle) is questionable to suit up for Sunday's game against the Kings.",
+    "type": "day-to-day",
+    "updated": "2026-11-15T01:10Z"
+   },
+   {
+    "player": "Thomas Sorber",
+    "status": "Out",
+    "detail": "Sorber (knee) has been ruled out for Friday's game against the Clippers.",
+    "type": "out",
+    "updated": "2026-11-13T01:07Z"
+   },
+   {
+    "player": "Cason Wallace",
+    "status": "Out",
+    "detail": "Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be re-evaluated before the end of the regular season, Clemente Almanza of USA Today reports.",
+    "type": "out",
+    "updated": "2026-10-31T01:16Z"
+   },
+   {
+    "player": "Chet Holmgren",
+    "status": "Out",
+    "detail": "Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports.",
+    "type": "out",
+    "updated": "2026-10-31T01:02Z"
+   },
+   {
+    "player": "Jalen Williams",
+    "status": "Out",
+    "detail": "Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation.\" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports.",
+    "type": "out",
+    "updated": "2026-10-28T23:41Z"
+   }
+  ],
+  "Philadelphia 76ers": [
+   {
+    "player": "Joel Embiid",
+    "status": "Out",
+    "detail": "Embiid (right foot injury management) has been ruled out for Sunday's game against the Pacers.",
+    "type": "out",
+    "updated": "2026-11-14T22:05Z"
+   },
+   {
+    "player": "Dominick Barlow",
+    "status": "Out",
+    "detail": "Barlow (back) participated in Thursday's shootaround but doesn't have a timeline to return to game action, Ky Carlin of USA Today reports.",
+    "type": "out",
+    "updated": "2026-11-12T16:37Z"
+   },
+   {
+    "player": "Adem Bona",
+    "status": "Out",
+    "detail": "Bona (back) will be re-evaluated in approximately one week after seeing a specialist, Ky Carlin of USA Today reports.",
+    "type": "out",
+    "updated": "2026-11-12T16:36Z"
+   },
+   {
+    "player": "Ariel Hukporti",
+    "status": "Out",
+    "detail": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",
+    "type": "out",
+    "updated": "2026-10-06T19:17Z"
+   }
+  ],
+  "Phoenix Suns": [
+   {
+    "player": "Drew Timme",
+    "status": "Day-To-Day",
+    "detail": "The Suns claimed Timme off waivers Monday, per Michael Scotto of HoopsHype.com.",
+    "type": "day-to-day",
+    "updated": "2026-11-13T16:22Z"
+   },
+   {
+    "player": "Mark Williams",
+    "status": "Out",
+    "detail": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",
+    "type": "out",
+    "updated": "2026-09-11T16:03Z"
+   }
+  ],
+  "Sacramento Kings": [
+   {
+    "player": "Maxime Raynaud",
+    "status": "Out",
+    "detail": "Raynaud (knee) has been ruled out for Sunday's game against the Thunder.",
+    "type": "out",
+    "updated": "2026-11-15T01:00Z"
+   },
+   {
+    "player": "Keegan Murray",
+    "status": "Day-To-Day",
+    "detail": "Murray (illness) is questionable for Sunday's game against the Thunder.",
+    "type": "day-to-day",
+    "updated": "2026-11-15T01:00Z"
+   },
+   {
+    "player": "Precious Achiuwa",
+    "status": "Day-To-Day",
+    "detail": "Achiuwa (ankle) is questionable for Sunday's game against the Thunder.",
+    "type": "day-to-day",
+    "updated": "2026-11-15T00:57Z"
+   },
+   {
+    "player": "Ben Simmons",
+    "status": "Out",
+    "detail": "Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports.",
+    "type": "out",
+    "updated": "2026-10-21T04:22Z"
+   }
+  ],
+  "San Antonio Spurs": [
+   {
+    "player": "Tobias Harris",
+    "status": "Out",
+    "detail": "Harris (calf) is out for Wednesday's game against Chicago, Jared Weiss of The Athletic reports.",
+    "type": "out",
+    "updated": "2026-11-10T22:46Z"
+   },
+   {
+    "player": "Jayden Quaintance",
+    "status": "Out",
+    "detail": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",
+    "type": "out",
+    "updated": "2026-10-05T21:43Z"
+   }
+  ],
+  "Toronto Raptors": [
+   {
+    "player": "Nate Bittle",
+    "status": "Out",
+    "detail": "Bittle (foot) has been ruled out for Sunday's game against the Knicks, Zulfi Sheikh of Sportsnet.ca reports.",
+    "type": "out",
+    "updated": "2026-11-14T21:59Z"
+   },
+   {
+    "player": "Scottie Barnes",
+    "status": "Out",
+    "detail": "Barnes (groin) is listed as questionable for Sunday's game against the Knicks, Michael Grange of Sportsnet.ca reports.",
+    "type": "out",
+    "updated": "2026-11-14T17:33Z"
+   },
+   {
+    "player": "Kevin McCullar Jr.",
+    "status": "Day-To-Day",
+    "detail": "McCullar signed a two-way contract with the Raptors on Thursday, Michael Scotto of HoopsHype.com reports.",
+    "type": "day-to-day",
+    "updated": "2026-11-13T15:37Z"
+   },
+   {
+    "player": "Kawhi Leonard",
+    "status": "Out",
+    "detail": "Head coach Darko Rajakovic said Wednesday that Leonard (knee) is doing individual on-court work and is progressing well, Michael Grange of Sportsnet.ca reports.",
+    "type": "out",
+    "updated": "2026-11-11T22:33Z"
+   }
+  ],
+  "Utah Jazz": [
+   {
+    "player": "Jaxson Hayes",
+    "status": "Out",
+    "detail": "Hayes (knee) has been ruled out for Sunday's game against the Spurs.",
+    "type": "out",
+    "updated": "2026-11-15T00:07Z"
+   },
+   {
+    "player": "Trey Alexander",
+    "status": "Out",
+    "detail": "Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise.",
+    "type": "out",
+    "updated": "2026-11-12T15:42Z"
+   },
+   {
+    "player": "Lauri Markkanen",
+    "status": "Out",
+    "detail": "Markkanen has been diagnosed with a non-displaced fracture in his right hand and will be sidelined for at least one month, Shams Charania of ESPN reports.",
+    "type": "out",
+    "updated": "2026-11-11T18:22Z"
+   },
+   {
+    "player": "Jusuf Nurkic",
+    "status": "Out",
+    "detail": "Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 preseason game against Denver. He will be re-evaluated in two weeks, the Jazz announced Friday.",
+    "type": "out",
+    "updated": "2026-11-06T18:20Z"
+   },
+   {
+    "player": "Jaren Jackson Jr.",
+    "status": "Out",
+    "detail": "Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN.",
+    "type": "out",
+    "updated": "2026-10-27T19:25Z"
+   }
+  ],
+  "Washington Wizards": [
+   {
+    "player": "Alex Sarr",
+    "status": "Day-To-Day",
+    "detail": "Sarr (illness) is listed as questionable for Sunday's game against Houston.",
+    "type": "day-to-day",
+    "updated": "2026-11-14T21:24Z"
+   },
+   {
+    "player": "Tre Johnson",
+    "status": "Day-To-Day",
+    "detail": "Johnson is listed as questionable for Sunday's game against the Rockets due to lower-back soreness.",
+    "type": "day-to-day",
+    "updated": "2026-11-14T21:09Z"
+   },
+   {
+    "player": "Bub Carrington",
+    "status": "Day-To-Day",
+    "detail": "Carrington (chest) is listed as questionable for Sunday's game against Houston.",
+    "type": "day-to-day",
+    "updated": "2026-11-14T21:05Z"
+   },
+   {
+    "player": "Tristan Vukcevic",
+    "status": "Out",
+    "detail": "Vukcevic (hip) has been ruled out for Monday's game against Detroit.",
+    "type": "out",
+    "updated": "2026-11-08T22:17Z"
+   },
+   {
+    "player": "Reece Beekman",
+    "status": "Out",
+    "detail": "The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury and will be re-evaluated in approximately three weeks.",
+    "type": "out",
+    "updated": "2026-11-02T18:22Z"
+   },
+   {
+    "player": "Justin Champagnie",
+    "status": "Out",
+    "detail": "Champagnie (foot) is expected to miss several months, per Josh Robbins of The Athletic.",
+    "type": "out",
+    "updated": "2026-10-28T18:38Z"
+   },
+   {
+    "player": "Jamir Watkins",
+    "status": "Out",
+    "detail": "The Wizards announced Thursday that Watkins has undergone surgery for a torn ACL.",
+    "type": "out",
+    "updated": "2026-07-30T20:11Z"
+   }
+  ]
+ },
+ "status_changes": []
+}
