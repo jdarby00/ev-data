@@ -1,15 +1,11 @@
 # NBA board, 2026-11-15
 
-Slate updated 2026-11-15 18:22 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-15 20:05 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 15:35 Los Angeles Lakers: Collin Sexton Day-To-Day → removed from report
-- 15:35 Milwaukee Bucks: Ryan Rollins not listed → Day-To-Day
-- 15:35 Sacramento Kings: Keegan Murray Day-To-Day → removed from report
-- 15:35 San Antonio Spurs: De'Aaron Fox not listed → Day-To-Day
 - 15:35 Washington Wizards: Alex Sarr Day-To-Day → removed from report
 - 15:35 Washington Wizards: Bub Carrington Day-To-Day → removed from report
 - 15:45 San Antonio Spurs: De'Aaron Fox Day-To-Day → Out
@@ -21,6 +17,10 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 18:22 Philadelphia 76ers: Joel Embiid Out → Day-To-Day
 - 18:22 Toronto Raptors: Scottie Barnes Out → removed from report
 - 18:22 Washington Wizards: Tre Johnson Day-To-Day → Out
+- 20:05 Atlanta Hawks: Jock Landale Day-To-Day → Out
+- 20:05 Milwaukee Bucks: Ryan Rollins Day-To-Day → Out
+- 20:05 Sacramento Kings: Precious Achiuwa Day-To-Day → Out
+- 20:05 Sacramento Kings: De'Andre Hunter not listed → Day-To-Day
 
 ## IND @ PHI, 13:00 ET
 Line: PHI -8.5, total 225.5 (Draft Kings).
@@ -289,12 +289,12 @@ Line: HOU -7.5, total 223.5 (DraftKings).
 | Deandre Ayton | – | 12.2 (5.5) → 13.8 (6.1) | 3.2/4.5 → 5 (0–11) | 5.2/4.8 → 4 (1–8) | 0.6/0.8 → 0 (0–1) | 0/0 → 0 (0–0) | 10 (2–19) |
 
 ## ATL @ MIL, 20:00 ET
-Line: ATL -8.5, total 233.5 (DraftKings).
-**ATL** (1 rest day). Out: Kingston Flemings, Asa Newell. Freed minutes: 32.5. Out all season so far (already in the lines): Mouhamed Gueye, Keshon Gilbert, Henri Veesaar.
+Line: ATL -8.5, total 233.5 (Draft Kings).
+**ATL** (1 rest day). Out: Kingston Flemings, Jock Landale, Asa Newell. Freed minutes: 47.9. Out all season so far (already in the lines): Mouhamed Gueye, Keshon Gilbert, Henri Veesaar.
+- Without Jock Landale: Zuby Ejiofor min +11.9, pts +6.8, reb +4.1, ast +2.2 (n=4 vs 3)
+- Without Jock Landale: Corey Kispert min +8.7, pts +4.7, reb +0.7, ast +0 (n=3 vs 3)
+- Without Jock Landale: Luguentz Dort min +5.8, pts +3.8, reb +0.6, ast +0.3 (n=4 vs 9)
 - Without Asa Newell: Jalen Johnson min +4.7, pts +3.3, reb +1.6, ast +3.6 (n=7 vs 3)
-- Without Asa Newell: Jock Landale min +4.7, pts +2.2, reb +1.3, ast -1.5 (n=6 vs 3)
-- Without Asa Newell: Dyson Daniels min +3.5, pts +3.5, reb -0.6, ast +1.3 (n=8 vs 5)
-- Without Asa Newell: Nickeil Alexander-Walker min +3.4, pts +3, reb +0.8, ast -0.6 (n=8 vs 5)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -307,14 +307,14 @@ Line: ATL -8.5, total 233.5 (DraftKings).
 | Luguentz Dort | – | 24.2 (5.1) → 23.9 (16.2) | 9.6/9.4 → 8 (2–15) | 3.2/3.1 → 3 (1–6) | 2.4/1.8 → 1 (0–3) | 2/1.7 → 1 (0–4) | 13 (5–22) |
 | Kingston Flemings | Out | 23.2 (4.6) | 8.6/7.8 | 2/2.5 | 3.2/4.1 | 0.8/0.8 | – |
 | Zuby Ejiofor | – | 13.8 (6.3) → 11.5 (3.1) | 6.2/4.9 → 4 (0–10) | 3.8/3 → 2 (0–5) | 1.8/1.3 → 1 (0–3) | 0.6/0.6 → 0 (0–2) | 7 (0–17) |
-| Jock Landale | Day-To-Day | 13 (5.4) → 15.2 (7.5) | 6.6/6.8 → 7 (1–14) | 5.2/4.9 → 4 (1–8) | 0.4/1.7 → 1 (0–3) | 0.8/0.6 → 0 (0–2) | 12 (3–23) |
+| Jock Landale | Out | 13 (5.4) | 6.6/6.8 | 5.2/4.9 | 0.4/1.7 | 0.8/0.6 | – |
 | Asa Newell | Out | 11 (6.5) | 3.6/3.6 | 2.6/2.6 | 1/1 | 0.4/0.4 | – |
 
-**MIL** (1 rest day). Out: Ousmane Dieng. Freed minutes: 12.3.
+**MIL** (1 rest day). Out: Ryan Rollins, Ousmane Dieng. Freed minutes: 36.1.
 - Without Ousmane Dieng: Nate Ament min -8.7, pts -4.9, reb -1.3, ast -0.8 (n=3 vs 8)
 - Without Ousmane Dieng: Brayden Burries min +7.3, pts +5.4, reb +4.1, ast +1 (n=3 vs 10)
-- Without Ousmane Dieng: Ryan Rollins min -6.7, pts +1.5, reb -3.1, ast -2.1 (n=3 vs 10)
 - Without Ousmane Dieng: AJ Green min +6.5, pts +7.8, reb +1, ast -0.5 (n=3 vs 10)
+- Without Ousmane Dieng: Myles Turner min -3.2, pts -4, reb -0.3, ast -2.3 (n=3 vs 9)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -323,14 +323,14 @@ Line: ATL -8.5, total 233.5 (DraftKings).
 | Myles Turner | – | 28.4 (4.6) → 27.7 (20) | 6.4/7.3 → 9 (3–16) | 7/5.9 → 6 (3–10) | 3.6/2.8 → 2 (0–5) | 1.8/1.4 → 2 (0–4) | 18 (8–28) |
 | Brayden Burries | – | 27 (6.2) → 23.6 (15.4) | 9.6/9.2 → 8 (2–15) | 6.2/5.2 → 5 (2–9) | 3.4/2.2 → 2 (0–5) | 1/0.8 → 1 (0–2) | 15 (6–26) |
 | Jaime Jaquez Jr. | – | 26.8 (2.6) → 27.5 (19.8) | 16.2/16.5 → 16 (8–26) | 4.2/5.7 → 5 (2–8) | 3/2.8 → 3 (1–7) | 2.2/2 → 1 (0–4) | 25 (13–38) |
-| Ryan Rollins | Day-To-Day | 22.2 (5.4) → 24.5 (16.8) | 9.4/10.5 → 11 (4–19) | 5.6/5.1 → 5 (2–8) | 3/3.9 → 4 (1–7) | 1.8/1.6 → 2 (0–4) | 20 (9–32) |
+| Ryan Rollins | Out | 22.2 (5.4) | 9.4/10.5 | 5.6/5.1 | 3/3.9 | 1.8/1.6 | – |
 | Nate Ament | – | 20.8 (4.5) → 19.7 (12) | 8/7.5 → 7 (2–14) | 3/2.6 → 3 (1–6) | 0.8/0.5 → 1 (0–3) | 1.2/1.1 → 1 (0–3) | 12 (4–21) |
 | Kel'el Ware | – | 15.8 (4.1) → 17.8 (10.1) | 6/8.6 → 8 (2–15) | 3.6/6.5 → 6 (2–11) | 0.8/0.8 → 0 (0–2) | 0.4/0.6 → 1 (0–2) | 15 (5–26) |
 | AJ Green | – | 13.2 (6.5) → 15.6 (7.1) | 4/6 → 5 (0–11) | 0.6/1.5 → 1 (0–3) | 0.8/1.4 → 1 (0–3) | 1.2/1.8 → 1 (0–3) | 7 (1–15) |
 | Ousmane Dieng | Out | 12.8 (7.4) | 5.4/3.9 | 1.2/1.2 | 0.8/1 | 1.2/0.7 | – |
 
 ## OKC @ SAC, 21:00 ET
-Line: OKC -10.5, total 223.5 (DraftKings).
+Line: OKC -11.5, total 223.5 (Draft Kings).
 **OKC** (1 rest day). Out: Jalen Williams, Chet Holmgren, Jaylin Williams, Cason Wallace. Freed minutes: 96.4. Out all season so far (already in the lines): Thomas Sorber.
 - Without Jalen Williams: Kenrich Williams min +17.7, pts +5.1, reb +3.3, ast +1.4 (n=10 vs 3)
 - Without Chet Holmgren: Kenrich Williams min +17.7, pts +5.1, reb +3.3, ast +1.4 (n=10 vs 3)
@@ -351,16 +351,16 @@ Line: OKC -10.5, total 223.5 (DraftKings).
 | Bennett Stirtz | – | 21.6 (5.8) → 19.8 (12) | 9.4/7.7 → 8 (2–14) | 1.8/1.2 → 2 (0–5) | 1.4/1.2 → 1 (0–3) | 1.8/1.6 → 1 (0–3) | 12 (4–21) |
 | Micah Peavy | – | 20 (6.3) → 17.3 (9) | 3.2/3.2 → 4 (0–9) | 4.2/3.4 → 2 (0–5) | 0.2/0.1 → 0 (0–2) | 0.4/0.5 → 0 (0–1) | 7 (1–14) |
 
-**SAC** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Maxime Raynaud, Ben Simmons.
+**SAC** (1 rest day). Out: Precious Achiuwa. Freed minutes: 26.4. Out all season so far (already in the lines): Maxime Raynaud, Ben Simmons.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Darius Acuff Jr. | – | 37.8 (3) → 35.8 (28.1) | 24.4/25.4 → 20 (11–30) | 3.8/3.8 → 5 (2–8) | 8.4/7.2 → 5 (2–9) | 3.2/3.1 → 2 (1–5) | 31 (18–44) |
-| De'Andre Hunter | – | 36.2 (4.6) → 32.8 (25.1) | 14.6/14.3 → 16 (8–25) | 4.2/4.5 → 4 (2–8) | 1.8/1.4 → 2 (0–4) | 1.6/2.1 → 2 (0–4) | 22 (11–33) |
+| De'Andre Hunter | Day-To-Day | 36.2 (4.6) → 32.8 (25.1) | 14.6/14.3 → 16 (8–25) | 4.2/4.5 → 4 (2–8) | 1.8/1.4 → 2 (0–4) | 1.6/2.1 → 2 (0–4) | 22 (11–33) |
 | Zach LaVine | – | 32.8 (5.8) → 30.9 (23.1) | 18.6/21.4 → 18 (9–28) | 3.6/3.2 → 3 (1–5) | 2.8/2.8 → 2 (1–5) | 2.8/2.8 → 2 (1–5) | 24 (13–36) |
 | Domantas Sabonis | – | 31.2 (4.5) → 31 (23.3) | 12.6/14.5 → 14 (6–22) | 10/13.2 → 11 (6–17) | 4/5.8 → 4 (2–8) | 0.4/0.3 → 0 (0–1) | 30 (17–44) |
 | Keegan Murray | – | 28.2 (6.1) → 28.5 (20.1) | 10.2/10.2 → 11 (4–19) | 3.2/3.2 → 4 (1–7) | 1.6/1.6 → 1 (0–3) | 0.8/0.8 → 1 (0–3) | 17 (7–27) |
-| Precious Achiuwa | Day-To-Day | 23.2 (9.4) → 24.4 (12.7) | 7.8/10.4 → 9 (2–18) | 6.8/6.4 → 6 (2–12) | 1.2/1.1 → 1 (0–3) | 0.6/0.4 → 0 (0–1) | 17 (6–30) |
+| Precious Achiuwa | Out | 23.2 (9.4) | 7.8/10.4 | 6.8/6.4 | 1.2/1.1 | 0.6/0.4 | – |
 | Leaky Black | – | 22.4 (9.5) → 21 (9.2) | 4.2/5 → 4 (0–10) | 3.4/3 → 3 (1–6) | 1.8/1.6 → 1 (0–3) | 1.2/1.4 → 1 (0–3) | 9 (2–18) |
 | Dylan Cardwell | – | 17.6 (6) → 18.4 (10.1) | 4.8/4.8 → 5 (0–10) | 6.2/6.2 → 6 (2–11) | 2/2 → 1 (0–4) | 0/0 → 0 (0–0) | 12 (4–23) |
 | Malik Monk | – | 16.8 (7.4) → 16.6 (7) | 8.4/7.7 → 8 (2–17) | 1.6/1.4 → 1 (0–3) | 3.2/3.4 → 2 (0–6) | 1/1 → 1 (0–3) | 13 (3–24) |

@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "updated_et": "2026-11-15 18:22",
+ "updated_et": "2026-11-15 20:05",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -25,7 +25,7 @@
    "home": "PHX",
    "away_name": "Los Angeles Lakers",
    "home_name": "Phoenix Suns",
-   "state": "in",
+   "state": "post",
    "spread_text": "LAL -3.5",
    "spread": 3.5,
    "total": 227.5,
@@ -39,7 +39,7 @@
    "home": "LAC",
    "away_name": "Charlotte Hornets",
    "home_name": "LA Clippers",
-   "state": "in",
+   "state": "post",
    "spread_text": "LAC -1.5",
    "spread": -1.5,
    "total": 213.5,
@@ -53,7 +53,7 @@
    "home": "UTAH",
    "away_name": "San Antonio Spurs",
    "home_name": "Utah Jazz",
-   "state": "in",
+   "state": "post",
    "spread_text": "SA -14.5",
    "spread": 14.5,
    "total": 223.5,
@@ -95,7 +95,7 @@
    "home": "WSH",
    "away_name": "Houston Rockets",
    "home_name": "Washington Wizards",
-   "state": "pre",
+   "state": "in",
    "spread_text": "HOU -7.5",
    "spread": 7.5,
    "total": 223.5,
@@ -113,7 +113,7 @@
    "spread_text": "ATL -8.5",
    "spread": 8.5,
    "total": 233.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -124,10 +124,10 @@
    "away_name": "Oklahoma City Thunder",
    "home_name": "Sacramento Kings",
    "state": "pre",
-   "spread_text": "OKC -10.5",
-   "spread": 10.5,
+   "spread_text": "OKC -11.5",
+   "spread": 11.5,
    "total": 223.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   }
  ],
@@ -135,10 +135,10 @@
   "Atlanta Hawks": [
    {
     "player": "Jock Landale",
-    "status": "Day-To-Day",
-    "detail": "Landale (hip) is listed as questionable for Sunday's game against Milwakee.",
-    "type": "day-to-day",
-    "updated": "2026-11-15T17:55Z"
+    "status": "Out",
+    "detail": "Landale (hip) is out for Sunday's game against Bucks, Brad Rowland of the Locked On Podcast Network reports.",
+    "type": "out",
+    "updated": "2026-11-15T23:22Z"
    },
    {
     "player": "Kingston Flemings",
@@ -332,16 +332,16 @@
    {
     "player": "Ousmane Dieng",
     "status": "Out",
-    "detail": "Dieng (finger) is listed as out for Sunday's game versus the Hawks.",
+    "detail": "Dieng will undergo a procedure to repair a fractured left finger Monday, Justin Garcia of the Milwaukee Bucks Radio Network reports.",
     "type": "out",
-    "updated": "2026-11-15T20:13Z"
+    "updated": "2026-11-15T23:46Z"
    },
    {
     "player": "Ryan Rollins",
-    "status": "Day-To-Day",
-    "detail": "Rollins (illness) is questionable to play in Sunday's game against the Hawks.",
-    "type": "day-to-day",
-    "updated": "2026-11-15T17:23Z"
+    "status": "Out",
+    "detail": "Rollins (illness) is out for Sunday's game against the Hawks.",
+    "type": "out",
+    "updated": "2026-11-15T23:19Z"
    }
   ],
   "Oklahoma City Thunder": [
@@ -436,18 +436,25 @@
   ],
   "Sacramento Kings": [
    {
+    "player": "Precious Achiuwa",
+    "status": "Out",
+    "detail": "Achiuwa (ankle) has been ruled out for Sunday's game against the Thunder, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
+    "type": "out",
+    "updated": "2026-11-16T00:24Z"
+   },
+   {
+    "player": "De'Andre Hunter",
+    "status": "Day-To-Day",
+    "detail": "Hunter is questionable for Sunday's game against the Thunder due to left hip soreness.",
+    "type": "day-to-day",
+    "updated": "2026-11-16T00:18Z"
+   },
+   {
     "player": "Maxime Raynaud",
     "status": "Out",
     "detail": "Raynaud (knee) has been ruled out for Sunday's game against the Thunder.",
     "type": "out",
     "updated": "2026-11-15T01:00Z"
-   },
-   {
-    "player": "Precious Achiuwa",
-    "status": "Day-To-Day",
-    "detail": "Achiuwa (ankle) is questionable for Sunday's game against the Thunder.",
-    "type": "day-to-day",
-    "updated": "2026-11-15T00:57Z"
    },
    {
     "player": "Ben Simmons",
@@ -753,6 +760,34 @@
    "player": "Tre Johnson",
    "from": "Day-To-Day",
    "to": "Out"
+  },
+  {
+   "at_et": "2026-11-15 20:05",
+   "team": "Atlanta Hawks",
+   "player": "Jock Landale",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-15 20:05",
+   "team": "Milwaukee Bucks",
+   "player": "Ryan Rollins",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-15 20:05",
+   "team": "Sacramento Kings",
+   "player": "Precious Achiuwa",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-15 20:05",
+   "team": "Sacramento Kings",
+   "player": "De'Andre Hunter",
+   "from": "not listed",
+   "to": "Day-To-Day"
   }
  ]
 }
