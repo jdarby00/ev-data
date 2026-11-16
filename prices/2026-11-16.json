@@ -1,5 +1,5 @@
 {
- "credits_remaining": 139,
+ "credits_remaining": 138,
  "date": "2026-11-16",
  "groups": {
   "basketball_nba|76ers@nets|player_assists": {
@@ -35479,6 +35479,5074 @@
      "kind": "lock",
      "minutes_to_tip": 278.3,
      "raw": "raw/2026-11-16/7c2ac54a119f461bf8fc1a23da536f29-player_threes-lock-20261116T193144135521Z.json",
+     "rev": 1
+    }
+   ],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|orlando magic@boston celtics|player_threes_alternate": {
+   "api_away": "Orlando Magic",
+   "api_home": "Boston Celtics",
+   "away": "Orlando Magic",
+   "close": false,
+   "commence_time": "2026-11-17T00:10:00Z",
+   "event_id": "7c2ac54a119f461bf8fc1a23da536f29",
+   "home": "Boston Celtics",
+   "issues": [],
+   "market": "player_threes_alternate",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1028754064",
+       "event_sid": "1028754064",
+       "last_update": "2026-11-16T19:35:59Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": 190,
+         "sid": "4419250799",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Sam Hauser",
+         "price": -162,
+         "sid": "4419250803",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": null,
+         "player": "Sam Hauser",
+         "price": -670,
+         "sid": "4419250809",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Anthony Black",
+         "price": 500,
+         "sid": "4419250811",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": null,
+         "player": "Jalen Suggs",
+         "price": -400,
+         "sid": "4419250815",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Derrick White",
+         "price": 310,
+         "sid": "4419250821",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": -295,
+         "sid": "4419250823",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Derrick White",
+         "price": -215,
+         "sid": "4419250827",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": null,
+         "player": "Franz Wagner",
+         "price": -670,
+         "sid": "4419250831",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": 550,
+         "sid": "4419250837",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Paul George",
+         "price": -167,
+         "sid": "4419250853",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Paul George",
+         "price": 140,
+         "sid": "4419250855",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": 285,
+         "sid": "4419250871",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Paul George",
+         "price": 550,
+         "sid": "4419250877",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Sam Hauser",
+         "price": 163,
+         "sid": "4419259359",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Franz Wagner",
+         "price": -136,
+         "sid": "4419259363",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": -1667,
+         "sid": "4419259369",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": 400,
+         "sid": "4419259373",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Sam Hauser",
+         "price": 370,
+         "sid": "4419259379",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": 650,
+         "sid": "4419259397",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": 132,
+         "sid": "4419259399",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": -175,
+         "sid": "4419259419",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Paul George",
+         "price": -500,
+         "sid": "4419259431",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Jalen Suggs",
+         "price": 102,
+         "sid": "4419253673",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Franz Wagner",
+         "price": 210,
+         "sid": "4419253681",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": null,
+         "player": "Anthony Black",
+         "price": -590,
+         "sid": "4419253685",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Derrick White",
+         "price": 133,
+         "sid": "4419253689",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Franz Wagner",
+         "price": 480,
+         "sid": "4419253693",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Anthony Black",
+         "price": 210,
+         "sid": "4419253695",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": 225,
+         "sid": "4419253697",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": null,
+         "player": "Derrick White",
+         "price": -1250,
+         "sid": "4419253699",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": -360,
+         "sid": "4419253701",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Jalen Suggs",
+         "price": 285,
+         "sid": "4419253703",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Anthony Black",
+         "price": -134,
+         "sid": "4419253711",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": -104,
+         "sid": "4419253713",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": -124,
+         "sid": "4419253715",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": 135,
+         "sid": "4419253717",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": 310,
+         "sid": "4419253721",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Paul George",
+         "price": 295,
+         "sid": "4419253727",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": -530,
+         "sid": "4419253731",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": -215,
+         "sid": "4419253765",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": 475,
+         "sid": "4419796635",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": -1000,
+         "sid": "4419811408",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Jalen Suggs",
+         "price": 650,
+         "sid": "4419860597",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Sam Hauser",
+         "price": 700,
+         "sid": "4419851825",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": 750,
+         "sid": "4419851827",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Derrick White",
+         "price": 650,
+         "sid": "4419845947",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": -3335,
+         "sid": "4419845979",
+         "side": "Over"
+        }
+       ]
+      },
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/orlando-magic-at-boston-celtics-20050490",
+       "event_sid": "20050490",
+       "last_update": "2026-11-16T19:33:18Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586541-7555552&type=Single",
+         "player": "Jayson Tatum",
+         "price": -135,
+         "sid": "7555552",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586550-7555562&type=Single",
+         "player": "Paul George",
+         "price": 140,
+         "sid": "7555562",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586545-7555548&type=Single",
+         "player": "Jayson Tatum",
+         "price": 825,
+         "sid": "7555548",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586556-7555572&type=Single",
+         "player": "Jayson Tatum",
+         "price": 1450,
+         "sid": "7555572",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586561-7555578&type=Single",
+         "player": "Jayson Tatum",
+         "price": 400,
+         "sid": "7555578",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586575-7555612&type=Single",
+         "player": "Payton Pritchard",
+         "price": -285,
+         "sid": "7555612",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586566-7555592&type=Single",
+         "player": "Paul George",
+         "price": -525,
+         "sid": "7555592",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586563-7555586&type=Single",
+         "player": "Desmond Bane",
+         "price": 120,
+         "sid": "7555586",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586554-7555574&type=Single",
+         "player": "Desmond Bane",
+         "price": 525,
+         "sid": "7555574",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586663-7555788&type=Single",
+         "player": "Derrick White",
+         "price": 900,
+         "sid": "7555788",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586626-7555714&type=Single",
+         "player": "Payton Pritchard",
+         "price": 550,
+         "sid": "7555714",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586611-7555688&type=Single",
+         "player": "Jayson Tatum",
+         "price": -400,
+         "sid": "7555688",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586615-7555692&type=Single",
+         "player": "Payton Pritchard",
+         "price": 100,
+         "sid": "7555692",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586631-7555724&type=Single",
+         "player": "Derrick White",
+         "price": -190,
+         "sid": "7555724",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586641-7555744&type=Single",
+         "player": "Derrick White",
+         "price": 155,
+         "sid": "7555744",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586612-7555684&type=Single",
+         "player": "Jayson Tatum",
+         "price": 180,
+         "sid": "7555684",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586621-7555706&type=Single",
+         "player": "Paul George",
+         "price": 650,
+         "sid": "7555706",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586628-7555718&type=Single",
+         "player": "Desmond Bane",
+         "price": 950,
+         "sid": "7555718",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586630-7555722&type=Single",
+         "player": "Desmond Bane",
+         "price": 260,
+         "sid": "7555722",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586672-7555804&type=Single",
+         "player": "Paul George",
+         "price": 1200,
+         "sid": "7555804",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586624-7555708&type=Single",
+         "player": "Paul George",
+         "price": 320,
+         "sid": "7555708",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586674-7555810&type=Single",
+         "player": "Paul George",
+         "price": -175,
+         "sid": "7555810",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586559-7555588&type=Single",
+         "player": "Derrick White",
+         "price": 1600,
+         "sid": "7555588",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586614-7555690&type=Single",
+         "player": "Payton Pritchard",
+         "price": 250,
+         "sid": "7555690",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586685-7555840&type=Single",
+         "player": "Payton Pritchard",
+         "price": -1400,
+         "sid": "7555840",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586675-7555814&type=Single",
+         "player": "Payton Pritchard",
+         "price": 1100,
+         "sid": "7555814",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586782-7556026&type=Single",
+         "player": "Desmond Bane",
+         "price": -625,
+         "sid": "7556026",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586780-7556022&type=Single",
+         "player": "Derrick White",
+         "price": -900,
+         "sid": "7556022",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586762-7555986&type=Single",
+         "player": "Tristan da Silva",
+         "price": 1500,
+         "sid": "7555986",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586783-7556028&type=Single",
+         "player": "Jalen Suggs",
+         "price": 125,
+         "sid": "7556028",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586792-7556046&type=Single",
+         "player": "Tristan da Silva",
+         "price": 425,
+         "sid": "7556046",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586790-7556040&type=Single",
+         "player": "Derrick White",
+         "price": 390,
+         "sid": "7556040",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586789-7556038&type=Single",
+         "player": "Anthony Black",
+         "price": 1250,
+         "sid": "7556038",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586781-7556020&type=Single",
+         "player": "Jalen Suggs",
+         "price": -350,
+         "sid": "7556020",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586895-7556252&type=Single",
+         "player": "Franz Wagner",
+         "price": 1550,
+         "sid": "7556252",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586906-7556274&type=Single",
+         "player": "Franz Wagner",
+         "price": 310,
+         "sid": "7556274",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586880-7556222&type=Single",
+         "player": "Anthony Black",
+         "price": 675,
+         "sid": "7556222",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586879-7556220&type=Single",
+         "player": "Tristan da Silva",
+         "price": 195,
+         "sid": "7556220",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586877-7556216&type=Single",
+         "player": "Anthony Black",
+         "price": 260,
+         "sid": "7556216",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586885-7556234&type=Single",
+         "player": "Jalen Suggs",
+         "price": 1800,
+         "sid": "7556234",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586904-7556270&type=Single",
+         "player": "Tristan da Silva",
+         "price": -2000,
+         "sid": "7556270",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586965-7556396&type=Single",
+         "player": "Franz Wagner",
+         "price": 800,
+         "sid": "7556396",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586905-7556266&type=Single",
+         "player": "Tristan da Silva",
+         "price": -125,
+         "sid": "7556266",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586973-7556406&type=Single",
+         "player": "Desmond Bane",
+         "price": -200,
+         "sid": "7556406",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586959-7556378&type=Single",
+         "player": "Tristan da Silva",
+         "price": 850,
+         "sid": "7556378",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586962-7556380&type=Single",
+         "player": "Anthony Black",
+         "price": -500,
+         "sid": "7556380",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586902-7556268&type=Single",
+         "player": "Franz Wagner",
+         "price": -450,
+         "sid": "7556268",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586981-7556424&type=Single",
+         "player": "Franz Wagner",
+         "price": 105,
+         "sid": "7556424",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586948-7556358&type=Single",
+         "player": "Jalen Suggs",
+         "price": 950,
+         "sid": "7556358",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586971-7556398&type=Single",
+         "player": "Jalen Suggs",
+         "price": 380,
+         "sid": "7556398",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586977-7556416&type=Single",
+         "player": "Anthony Black",
+         "price": -118,
+         "sid": "7556416",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4586903-7556272&type=Single",
+         "player": "Tristan da Silva",
+         "price": -375,
+         "sid": "7556272",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4588807-7560017&type=Single",
+         "player": "Sam Hauser",
+         "price": 165,
+         "sid": "7560017",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4588800-7560013&type=Single",
+         "player": "Sam Hauser",
+         "price": 850,
+         "sid": "7560013",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4588798-7559997&type=Single",
+         "player": "Sam Hauser",
+         "price": 390,
+         "sid": "7559997",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4588786-7559977&type=Single",
+         "player": "Sam Hauser",
+         "price": -175,
+         "sid": "7559977",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4588815-7560035&type=Single",
+         "player": "Sam Hauser",
+         "price": 1500,
+         "sid": "7560035",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50109-4588814-7560033&type=Single",
+         "player": "Sam Hauser",
+         "price": -800,
+         "sid": "7560033",
+         "side": "Over"
+        }
+       ]
+      },
+      "betonlineag": {
+       "event_link": "https://sports.betonline.ag/sportsbook/basketball/nba/game/491182835",
+       "event_sid": "491182835",
+       "last_update": "2026-11-16T19:35:43Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": 1100,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": -476,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": -105,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": 210,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": 2500,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": 475,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": 149,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": 775,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": 425,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": 1450,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": 230,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": -189,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Sam Hauser",
+         "price": -161,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Sam Hauser",
+         "price": 151,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Sam Hauser",
+         "price": 320,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Sam Hauser",
+         "price": 1500,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Sam Hauser",
+         "price": 700,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Franz Wagner",
+         "price": 220,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Franz Wagner",
+         "price": 1250,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Franz Wagner",
+         "price": -111,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Franz Wagner",
+         "price": 3100,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Franz Wagner",
+         "price": 525,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Derrick White",
+         "price": 310,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Derrick White",
+         "price": -182,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Derrick White",
+         "price": 1500,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Derrick White",
+         "price": 675,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Derrick White",
+         "price": 141,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Jalen Suggs",
+         "price": 113,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Jalen Suggs",
+         "price": 475,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Jalen Suggs",
+         "price": 1000,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Jalen Suggs",
+         "price": 220,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Jalen Suggs",
+         "price": 2100,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": 400,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": -204,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": 220,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": 1450,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": 130,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": 750,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": -500,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": 475,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": 2600,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": -111,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": 210,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": 1100,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Paul George",
+         "price": 126,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Paul George",
+         "price": 230,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Paul George",
+         "price": -161,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Paul George",
+         "price": 775,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Paul George",
+         "price": -625,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Paul George",
+         "price": 425,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Wendell Carter Jr",
+         "price": 1800,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Wendell Carter Jr",
+         "price": 650,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Wendell Carter Jr",
+         "price": 240,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Wendell Carter Jr",
+         "price": 4800,
+         "sid": null,
+         "side": "Over"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1028754064",
+       "event_sid": "1028754064",
+       "last_update": "2026-11-16T19:34:54Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": 190,
+         "sid": "4419250799",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Sam Hauser",
+         "price": -165,
+         "sid": "4419250803",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": null,
+         "player": "Sam Hauser",
+         "price": -715,
+         "sid": "4419250809",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Anthony Black",
+         "price": 480,
+         "sid": "4419250811",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": null,
+         "player": "Jalen Suggs",
+         "price": -400,
+         "sid": "4419250815",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Derrick White",
+         "price": 300,
+         "sid": "4419250821",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": -305,
+         "sid": "4419250823",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Derrick White",
+         "price": -215,
+         "sid": "4419250827",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": null,
+         "player": "Franz Wagner",
+         "price": -670,
+         "sid": "4419250831",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": 525,
+         "sid": "4419250837",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Paul George",
+         "price": -175,
+         "sid": "4419250853",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Paul George",
+         "price": 138,
+         "sid": "4419250855",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": 275,
+         "sid": "4419250871",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Paul George",
+         "price": 550,
+         "sid": "4419250877",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Sam Hauser",
+         "price": 163,
+         "sid": "4419259359",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Franz Wagner",
+         "price": -137,
+         "sid": "4419259363",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": -1667,
+         "sid": "4419259369",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": 390,
+         "sid": "4419259373",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Sam Hauser",
+         "price": 370,
+         "sid": "4419259379",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": 600,
+         "sid": "4419259397",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": 128,
+         "sid": "4419259399",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": -180,
+         "sid": "4419259419",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Paul George",
+         "price": -530,
+         "sid": "4419259431",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Jalen Suggs",
+         "price": 102,
+         "sid": "4419253673",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Franz Wagner",
+         "price": 205,
+         "sid": "4419253681",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": null,
+         "player": "Anthony Black",
+         "price": -590,
+         "sid": "4419253685",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Derrick White",
+         "price": 130,
+         "sid": "4419253689",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Franz Wagner",
+         "price": 480,
+         "sid": "4419253693",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Anthony Black",
+         "price": 205,
+         "sid": "4419253695",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": 220,
+         "sid": "4419253697",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": null,
+         "player": "Derrick White",
+         "price": -1250,
+         "sid": "4419253699",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": -375,
+         "sid": "4419253701",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Jalen Suggs",
+         "price": 285,
+         "sid": "4419253703",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Anthony Black",
+         "price": -136,
+         "sid": "4419253711",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": -107,
+         "sid": "4419253713",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": -125,
+         "sid": "4419253715",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": 133,
+         "sid": "4419253717",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": 310,
+         "sid": "4419253721",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Paul George",
+         "price": 285,
+         "sid": "4419253727",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": -530,
+         "sid": "4419253731",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": -225,
+         "sid": "4419253765",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": 460,
+         "sid": "4419796635",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": -1115,
+         "sid": "4419811408",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Jalen Suggs",
+         "price": 650,
+         "sid": "4419860597",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Sam Hauser",
+         "price": 700,
+         "sid": "4419851825",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": 750,
+         "sid": "4419851827",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Derrick White",
+         "price": 650,
+         "sid": "4419845947",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": -3335,
+         "sid": "4419845979",
+         "side": "Over"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064",
+       "event_sid": "1028754064",
+       "last_update": "2026-11-16T19:35:45Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419259359|{wagerAmount}",
+         "player": "Sam Hauser",
+         "price": 163,
+         "sid": "4419259359",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419259363|{wagerAmount}",
+         "player": "Franz Wagner",
+         "price": -136,
+         "sid": "4419259363",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419259369|{wagerAmount}",
+         "player": "Tristan da Silva",
+         "price": -1667,
+         "sid": "4419259369",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419259373|{wagerAmount}",
+         "player": "Jayson Tatum",
+         "price": 400,
+         "sid": "4419259373",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419259379|{wagerAmount}",
+         "player": "Sam Hauser",
+         "price": 370,
+         "sid": "4419259379",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419259399|{wagerAmount}",
+         "player": "Payton Pritchard",
+         "price": 132,
+         "sid": "4419259399",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419259397|{wagerAmount}",
+         "player": "Payton Pritchard",
+         "price": 650,
+         "sid": "4419259397",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419259419|{wagerAmount}",
+         "player": "Desmond Bane",
+         "price": -175,
+         "sid": "4419259419",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419259431|{wagerAmount}",
+         "player": "Paul George",
+         "price": -500,
+         "sid": "4419259431",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419860597|{wagerAmount}",
+         "player": "Jalen Suggs",
+         "price": 650,
+         "sid": "4419860597",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419253673|{wagerAmount}",
+         "player": "Jalen Suggs",
+         "price": 102,
+         "sid": "4419253673",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419253681|{wagerAmount}",
+         "player": "Franz Wagner",
+         "price": 210,
+         "sid": "4419253681",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419253685|{wagerAmount}",
+         "player": "Anthony Black",
+         "price": -590,
+         "sid": "4419253685",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419253689|{wagerAmount}",
+         "player": "Derrick White",
+         "price": 133,
+         "sid": "4419253689",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419253695|{wagerAmount}",
+         "player": "Anthony Black",
+         "price": 210,
+         "sid": "4419253695",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419253693|{wagerAmount}",
+         "player": "Franz Wagner",
+         "price": 480,
+         "sid": "4419253693",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419253699|{wagerAmount}",
+         "player": "Derrick White",
+         "price": -1250,
+         "sid": "4419253699",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419253697|{wagerAmount}",
+         "player": "Tristan da Silva",
+         "price": 225,
+         "sid": "4419253697",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419253703|{wagerAmount}",
+         "player": "Jalen Suggs",
+         "price": 285,
+         "sid": "4419253703",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419253701|{wagerAmount}",
+         "player": "Jayson Tatum",
+         "price": -360,
+         "sid": "4419253701",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419253711|{wagerAmount}",
+         "player": "Anthony Black",
+         "price": -134,
+         "sid": "4419253711",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419253715|{wagerAmount}",
+         "player": "Jayson Tatum",
+         "price": -124,
+         "sid": "4419253715",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419253713|{wagerAmount}",
+         "player": "Tristan da Silva",
+         "price": -104,
+         "sid": "4419253713",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419253717|{wagerAmount}",
+         "player": "Desmond Bane",
+         "price": 135,
+         "sid": "4419253717",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419253721|{wagerAmount}",
+         "player": "Payton Pritchard",
+         "price": 310,
+         "sid": "4419253721",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419253727|{wagerAmount}",
+         "player": "Paul George",
+         "price": 295,
+         "sid": "4419253727",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419253731|{wagerAmount}",
+         "player": "Desmond Bane",
+         "price": -530,
+         "sid": "4419253731",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419253765|{wagerAmount}",
+         "player": "Payton Pritchard",
+         "price": -215,
+         "sid": "4419253765",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419851825|{wagerAmount}",
+         "player": "Sam Hauser",
+         "price": 700,
+         "sid": "4419851825",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419851827|{wagerAmount}",
+         "player": "Jayson Tatum",
+         "price": 750,
+         "sid": "4419851827",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419250799|{wagerAmount}",
+         "player": "Jayson Tatum",
+         "price": 190,
+         "sid": "4419250799",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419250803|{wagerAmount}",
+         "player": "Sam Hauser",
+         "price": -162,
+         "sid": "4419250803",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419250809|{wagerAmount}",
+         "player": "Sam Hauser",
+         "price": -670,
+         "sid": "4419250809",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419250811|{wagerAmount}",
+         "player": "Anthony Black",
+         "price": 500,
+         "sid": "4419250811",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419250815|{wagerAmount}",
+         "player": "Jalen Suggs",
+         "price": -400,
+         "sid": "4419250815",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419250821|{wagerAmount}",
+         "player": "Derrick White",
+         "price": 310,
+         "sid": "4419250821",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419250823|{wagerAmount}",
+         "player": "Tristan da Silva",
+         "price": -295,
+         "sid": "4419250823",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419250827|{wagerAmount}",
+         "player": "Derrick White",
+         "price": -215,
+         "sid": "4419250827",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419250831|{wagerAmount}",
+         "player": "Franz Wagner",
+         "price": -670,
+         "sid": "4419250831",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419250837|{wagerAmount}",
+         "player": "Desmond Bane",
+         "price": 550,
+         "sid": "4419250837",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419796635|{wagerAmount}",
+         "player": "Tristan da Silva",
+         "price": 475,
+         "sid": "4419796635",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419250853|{wagerAmount}",
+         "player": "Paul George",
+         "price": -167,
+         "sid": "4419250853",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419250855|{wagerAmount}",
+         "player": "Paul George",
+         "price": 140,
+         "sid": "4419250855",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419250871|{wagerAmount}",
+         "player": "Desmond Bane",
+         "price": 285,
+         "sid": "4419250871",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419250877|{wagerAmount}",
+         "player": "Paul George",
+         "price": 550,
+         "sid": "4419250877",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419811408|{wagerAmount}",
+         "player": "Payton Pritchard",
+         "price": -1000,
+         "sid": "4419811408",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419845947|{wagerAmount}",
+         "player": "Derrick White",
+         "price": 650,
+         "sid": "4419845947",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419845979|{wagerAmount}",
+         "player": "Jayson Tatum",
+         "price": -3335,
+         "sid": "4419845979",
+         "side": "Over"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/basketball/nba/orlando-magic-boston-celtics-202611161900",
+       "event_sid": "33415192",
+       "last_update": "2026-11-16T19:34:01Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 0.5,
+         "link": null,
+         "player": "Anthony Black",
+         "price": -725,
+         "sid": "2479811370",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Anthony Black",
+         "price": -130,
+         "sid": "2479811371",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Anthony Black",
+         "price": 230,
+         "sid": "2479811372",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Anthony Black",
+         "price": 600,
+         "sid": "2479811373",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Anthony Black",
+         "price": 1400,
+         "sid": "2479811374",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Anthony Black",
+         "price": 2800,
+         "sid": "2479811375",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Anthony Black",
+         "price": 4500,
+         "sid": "2479811376",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": null,
+         "player": "Derrick White",
+         "price": -1500,
+         "sid": "2479811419",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Derrick White",
+         "price": -210,
+         "sid": "2479811420",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Derrick White",
+         "price": 150,
+         "sid": "2479811421",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Derrick White",
+         "price": 375,
+         "sid": "2479811422",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Derrick White",
+         "price": 900,
+         "sid": "2479811423",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Derrick White",
+         "price": 1900,
+         "sid": "2479811424",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Derrick White",
+         "price": 3000,
+         "sid": "2479811425",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Derrick White",
+         "price": 4500,
+         "sid": "2479811426",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": -750,
+         "sid": "2479810307",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": -210,
+         "sid": "2479810308",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": 120,
+         "sid": "2479810309",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": 275,
+         "sid": "2479810310",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": 575,
+         "sid": "2479810311",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": 1100,
+         "sid": "2479810312",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": 2100,
+         "sid": "2479810313",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": 3500,
+         "sid": "2479810314",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Desmond Bane",
+         "price": 4500,
+         "sid": "2479810315",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": null,
+         "player": "Franz Wagner",
+         "price": -600,
+         "sid": "2479810284",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Franz Wagner",
+         "price": -115,
+         "sid": "2479810285",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Franz Wagner",
+         "price": 265,
+         "sid": "2479810286",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Franz Wagner",
+         "price": 700,
+         "sid": "2479810287",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Franz Wagner",
+         "price": 1600,
+         "sid": "2479810288",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Franz Wagner",
+         "price": 3000,
+         "sid": "2479810289",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Franz Wagner",
+         "price": 4500,
+         "sid": "2479810290",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": null,
+         "player": "Jalen Suggs",
+         "price": -475,
+         "sid": "2479811030",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Jalen Suggs",
+         "price": 105,
+         "sid": "2479811031",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Jalen Suggs",
+         "price": 320,
+         "sid": "2479811032",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Jalen Suggs",
+         "price": 850,
+         "sid": "2479811033",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Jalen Suggs",
+         "price": 2000,
+         "sid": "2479811034",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Jalen Suggs",
+         "price": 3500,
+         "sid": "2479811035",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": -450,
+         "sid": "2479828518",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": -145,
+         "sid": "2479828519",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": 180,
+         "sid": "2479828520",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": 400,
+         "sid": "2479828521",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": 850,
+         "sid": "2479828522",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": 1700,
+         "sid": "2479828523",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": 3000,
+         "sid": "2479828524",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Jayson Tatum",
+         "price": 4000,
+         "sid": "2479828525",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Paul George",
+         "price": -650,
+         "sid": "2479810275",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Paul George",
+         "price": -180,
+         "sid": "2479810276",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Paul George",
+         "price": 135,
+         "sid": "2479810277",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Paul George",
+         "price": 305,
+         "sid": "2479810278",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Paul George",
+         "price": 650,
+         "sid": "2479810279",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Paul George",
+         "price": 1200,
+         "sid": "2479810280",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Paul George",
+         "price": 2400,
+         "sid": "2479810281",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Paul George",
+         "price": 3500,
+         "sid": "2479810282",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Paul George",
+         "price": 4500,
+         "sid": "2479810283",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": -2500,
+         "sid": "2479810320",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": -260,
+         "sid": "2479810321",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": 120,
+         "sid": "2479810322",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": 300,
+         "sid": "2479810323",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": 700,
+         "sid": "2479810324",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": 1400,
+         "sid": "2479810325",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": 2800,
+         "sid": "2479810326",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Payton Pritchard",
+         "price": 4000,
+         "sid": "2479810327",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": null,
+         "player": "Sam Hauser",
+         "price": -1100,
+         "sid": "2479811390",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Sam Hauser",
+         "price": -180,
+         "sid": "2479811391",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Sam Hauser",
+         "price": 175,
+         "sid": "2479811392",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Sam Hauser",
+         "price": 450,
+         "sid": "2479811393",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Sam Hauser",
+         "price": 1000,
+         "sid": "2479811394",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Sam Hauser",
+         "price": 2200,
+         "sid": "2479811395",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Sam Hauser",
+         "price": 3500,
+         "sid": "2479811396",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": -10000,
+         "sid": "2479811350",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": -350,
+         "sid": "2479811351",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": -110,
+         "sid": "2479811352",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": 225,
+         "sid": "2479811353",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": 500,
+         "sid": "2479811354",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": 1100,
+         "sid": "2479811355",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": 2200,
+         "sid": "2479811356",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": 3500,
+         "sid": "2479811357",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Tristan da Silva",
+         "price": 4500,
+         "sid": "2479842021",
+         "side": "Over"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/35020946",
+       "event_sid": "35020946",
+       "last_update": "2026-11-16T19:35:04Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 0.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664311%232367502362_13L42648Q1-1448361665Q20",
+         "player": "Desmond Bane",
+         "price": -4000,
+         "sid": "0QA389664311#2367502362_13L42648Q1-1448361665Q20",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664311%232367502477_13L42648Q1-1510870681Q20",
+         "player": "Desmond Bane",
+         "price": -538,
+         "sid": "0QA389664311#2367502477_13L42648Q1-1510870681Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664311%232367502538_13L42648Q1-1551344353Q20",
+         "player": "Desmond Bane",
+         "price": -182,
+         "sid": "0QA389664311#2367502538_13L42648Q1-1551344353Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664311%232367502626_13L42648Q11728117274Q20",
+         "player": "Desmond Bane",
+         "price": 130,
+         "sid": "0QA389664311#2367502626_13L42648Q11728117274Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664311%232367502690_13L42648Q1-1858791537Q20",
+         "player": "Desmond Bane",
+         "price": 277,
+         "sid": "0QA389664311#2367502690_13L42648Q1-1858791537Q20",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664311%232367502793_13L42648Q1-798405509Q20",
+         "player": "Desmond Bane",
+         "price": 570,
+         "sid": "0QA389664311#2367502793_13L42648Q1-798405509Q20",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664311%232367502851_13L42648Q1327359527Q20",
+         "player": "Desmond Bane",
+         "price": 1120,
+         "sid": "0QA389664311#2367502851_13L42648Q1327359527Q20",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664311%232367714677_13L42648Q12125812256Q20",
+         "player": "Desmond Bane",
+         "price": 2000,
+         "sid": "0QA389664311#2367714677_13L42648Q12125812256Q20",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664612%232367503833_13L42648Q1-1510870681Q20",
+         "player": "Paul George",
+         "price": -523,
+         "sid": "0QA389664612#2367503833_13L42648Q1-1510870681Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664612%232367503846_13L42648Q1-1551344353Q20",
+         "player": "Paul George",
+         "price": -172,
+         "sid": "0QA389664612#2367503846_13L42648Q1-1551344353Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664612%232367503885_13L42648Q11728117274Q20",
+         "player": "Paul George",
+         "price": 140,
+         "sid": "0QA389664612#2367503885_13L42648Q11728117274Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664612%232367503921_13L42648Q1-1858791537Q20",
+         "player": "Paul George",
+         "price": 307,
+         "sid": "0QA389664612#2367503921_13L42648Q1-1858791537Q20",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664612%232367503960_13L42648Q1-798405509Q20",
+         "player": "Paul George",
+         "price": 650,
+         "sid": "0QA389664612#2367503960_13L42648Q1-798405509Q20",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664612%232367503988_13L42648Q1327359527Q20",
+         "player": "Paul George",
+         "price": 1320,
+         "sid": "0QA389664612#2367503988_13L42648Q1327359527Q20",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664612%232367504015_13L42648Q12125812256Q20",
+         "player": "Paul George",
+         "price": 2300,
+         "sid": "0QA389664612#2367504015_13L42648Q12125812256Q20",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664339%232367502077_13L42648Q1-1448361665Q20",
+         "player": "Jayson Tatum",
+         "price": -2500,
+         "sid": "0QA389664339#2367502077_13L42648Q1-1448361665Q20",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664339%232367502120_13L42648Q1-1510870681Q20",
+         "player": "Jayson Tatum",
+         "price": -400,
+         "sid": "0QA389664339#2367502120_13L42648Q1-1510870681Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664339%232367502158_13L42648Q1-1551344353Q20",
+         "player": "Jayson Tatum",
+         "price": -133,
+         "sid": "0QA389664339#2367502158_13L42648Q1-1551344353Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664339%232367502215_13L42648Q11728117274Q20",
+         "player": "Jayson Tatum",
+         "price": 185,
+         "sid": "0QA389664339#2367502215_13L42648Q11728117274Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664339%232367502301_13L42648Q1-1858791537Q20",
+         "player": "Jayson Tatum",
+         "price": 423,
+         "sid": "0QA389664339#2367502301_13L42648Q1-1858791537Q20",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664339%232367502368_13L42648Q1-798405509Q20",
+         "player": "Jayson Tatum",
+         "price": 900,
+         "sid": "0QA389664339#2367502368_13L42648Q1-798405509Q20",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664339%232367502485_13L42648Q1327359527Q20",
+         "player": "Jayson Tatum",
+         "price": 1820,
+         "sid": "0QA389664339#2367502485_13L42648Q1327359527Q20",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664207%232367501968_13L42648Q1-1448361665Q20",
+         "player": "Tristan da Silva",
+         "price": -1740,
+         "sid": "0QA389664207#2367501968_13L42648Q1-1448361665Q20",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664207%232367501991_13L42648Q1-1510870681Q20",
+         "player": "Tristan da Silva",
+         "price": -308,
+         "sid": "0QA389664207#2367501991_13L42648Q1-1510870681Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664207%232367502032_13L42648Q1-1551344353Q20",
+         "player": "Tristan da Silva",
+         "price": -106,
+         "sid": "0QA389664207#2367502032_13L42648Q1-1551344353Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664207%232367502066_13L42648Q11728117274Q20",
+         "player": "Tristan da Silva",
+         "price": 227,
+         "sid": "0QA389664207#2367502066_13L42648Q11728117274Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664207%232367502112_13L42648Q1-1858791537Q20",
+         "player": "Tristan da Silva",
+         "price": 504,
+         "sid": "0QA389664207#2367502112_13L42648Q1-1858791537Q20",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664207%232367502137_13L42648Q1-798405509Q20",
+         "player": "Tristan da Silva",
+         "price": 1080,
+         "sid": "0QA389664207#2367502137_13L42648Q1-798405509Q20",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664207%232367502175_13L42648Q1327359527Q20",
+         "player": "Tristan da Silva",
+         "price": 2000,
+         "sid": "0QA389664207#2367502175_13L42648Q1327359527Q20",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664222%232367502426_13L42648Q1-1448361665Q20",
+         "player": "Payton Pritchard",
+         "price": -1100,
+         "sid": "0QA389664222#2367502426_13L42648Q1-1448361665Q20",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664222%232367502435_13L42648Q1-1510870681Q20",
+         "player": "Payton Pritchard",
+         "price": -221,
+         "sid": "0QA389664222#2367502435_13L42648Q1-1510870681Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664222%232367502526_13L42648Q1-1551344353Q20",
+         "player": "Payton Pritchard",
+         "price": 127,
+         "sid": "0QA389664222#2367502526_13L42648Q1-1551344353Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664222%232367502616_13L42648Q11728117274Q20",
+         "player": "Payton Pritchard",
+         "price": 310,
+         "sid": "0QA389664222#2367502616_13L42648Q11728117274Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664222%232367502699_13L42648Q1-1858791537Q20",
+         "player": "Payton Pritchard",
+         "price": 700,
+         "sid": "0QA389664222#2367502699_13L42648Q1-1858791537Q20",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664222%232367502800_13L42648Q1-798405509Q20",
+         "player": "Payton Pritchard",
+         "price": 1440,
+         "sid": "0QA389664222#2367502800_13L42648Q1-798405509Q20",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664222%232367714683_13L42648Q1327359527Q20",
+         "player": "Payton Pritchard",
+         "price": 2600,
+         "sid": "0QA389664222#2367714683_13L42648Q1327359527Q20",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664210%232367501970_13L42648Q1-1448361665Q20",
+         "player": "Derrick White",
+         "price": -960,
+         "sid": "0QA389664210#2367501970_13L42648Q1-1448361665Q20",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664210%232367501985_13L42648Q1-1510870681Q20",
+         "player": "Derrick White",
+         "price": -187,
+         "sid": "0QA389664210#2367501985_13L42648Q1-1510870681Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664210%232367502012_13L42648Q1-1551344353Q20",
+         "player": "Derrick White",
+         "price": 160,
+         "sid": "0QA389664210#2367502012_13L42648Q1-1551344353Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664210%232367502050_13L42648Q11728117274Q20",
+         "player": "Derrick White",
+         "price": 407,
+         "sid": "0QA389664210#2367502050_13L42648Q11728117274Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664210%232367502083_13L42648Q1-1858791537Q20",
+         "player": "Derrick White",
+         "price": 940,
+         "sid": "0QA389664210#2367502083_13L42648Q1-1858791537Q20",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664210%232367502125_13L42648Q1-798405509Q20",
+         "player": "Derrick White",
+         "price": 2000,
+         "sid": "0QA389664210#2367502125_13L42648Q1-798405509Q20",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664469%232367502824_13L42648Q1-1448361665Q20",
+         "player": "Sam Hauser",
+         "price": -770,
+         "sid": "0QA389664469#2367502824_13L42648Q1-1448361665Q20",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664469%232367502893_13L42648Q1-1510870681Q20",
+         "player": "Sam Hauser",
+         "price": -167,
+         "sid": "0QA389664469#2367502893_13L42648Q1-1510870681Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664469%232367502903_13L42648Q1-1551344353Q20",
+         "player": "Sam Hauser",
+         "price": 175,
+         "sid": "0QA389664469#2367502903_13L42648Q1-1551344353Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664469%232367502999_13L42648Q11728117274Q20",
+         "player": "Sam Hauser",
+         "price": 435,
+         "sid": "0QA389664469#2367502999_13L42648Q11728117274Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664469%232367503031_13L42648Q1-1858791537Q20",
+         "player": "Sam Hauser",
+         "price": 1040,
+         "sid": "0QA389664469#2367503031_13L42648Q1-1858791537Q20",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664469%232367638420_13L42648Q1-798405509Q20",
+         "player": "Sam Hauser",
+         "price": 2000,
+         "sid": "0QA389664469#2367638420_13L42648Q1-798405509Q20",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664784%232367504391_13L42648Q1-1448361665Q20",
+         "player": "Anthony Black",
+         "price": -538,
+         "sid": "0QA389664784#2367504391_13L42648Q1-1448361665Q20",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664784%232367504392_13L42648Q1-1510870681Q20",
+         "player": "Anthony Black",
+         "price": -125,
+         "sid": "0QA389664784#2367504392_13L42648Q1-1510870681Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664784%232367504393_13L42648Q1-1551344353Q20",
+         "player": "Anthony Black",
+         "price": 236,
+         "sid": "0QA389664784#2367504393_13L42648Q1-1551344353Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664784%232367504394_13L42648Q11728117274Q20",
+         "player": "Anthony Black",
+         "price": 610,
+         "sid": "0QA389664784#2367504394_13L42648Q11728117274Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664784%232367504395_13L42648Q1-1858791537Q20",
+         "player": "Anthony Black",
+         "price": 1460,
+         "sid": "0QA389664784#2367504395_13L42648Q1-1858791537Q20",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664784%232367504396_13L42648Q1-798405509Q20",
+         "player": "Anthony Black",
+         "price": 2700,
+         "sid": "0QA389664784#2367504396_13L42648Q1-798405509Q20",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664721%232367503499_13L42648Q1-1448361665Q20",
+         "player": "Franz Wagner",
+         "price": -497,
+         "sid": "0QA389664721#2367503499_13L42648Q1-1448361665Q20",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664721%232367503547_13L42648Q1-1510870681Q20",
+         "player": "Franz Wagner",
+         "price": -109,
+         "sid": "0QA389664721#2367503547_13L42648Q1-1510870681Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664721%232367503619_13L42648Q1-1551344353Q20",
+         "player": "Franz Wagner",
+         "price": 263,
+         "sid": "0QA389664721#2367503619_13L42648Q1-1551344353Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664721%232367503633_13L42648Q11728117274Q20",
+         "player": "Franz Wagner",
+         "price": 690,
+         "sid": "0QA389664721#2367503633_13L42648Q11728117274Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664721%232367714782_13L42648Q1-1858791537Q20",
+         "player": "Franz Wagner",
+         "price": 1540,
+         "sid": "0QA389664721#2367714782_13L42648Q1-1858791537Q20",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664721%232367714866_13L42648Q1-798405509Q20",
+         "player": "Franz Wagner",
+         "price": 2900,
+         "sid": "0QA389664721#2367714866_13L42648Q1-798405509Q20",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664082%232367501710_13L42648Q1-1448361665Q20",
+         "player": "Jalen Suggs",
+         "price": -396,
+         "sid": "0QA389664082#2367501710_13L42648Q1-1448361665Q20",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664082%232367501718_13L42648Q1-1510870681Q20",
+         "player": "Jalen Suggs",
+         "price": 109,
+         "sid": "0QA389664082#2367501718_13L42648Q1-1510870681Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664082%232367501725_13L42648Q1-1551344353Q20",
+         "player": "Jalen Suggs",
+         "price": 320,
+         "sid": "0QA389664082#2367501725_13L42648Q1-1551344353Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664082%232367501732_13L42648Q11728117274Q20",
+         "player": "Jalen Suggs",
+         "price": 840,
+         "sid": "0QA389664082#2367501732_13L42648Q11728117274Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664082%232367501738_13L42648Q1-1858791537Q20",
+         "player": "Jalen Suggs",
+         "price": 1860,
+         "sid": "0QA389664082#2367501738_13L42648Q1-1858791537Q20",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664150%232367501890_13L42648Q1-1448361665Q20",
+         "player": "Wendell Carter Jr",
+         "price": -128,
+         "sid": "0QA389664150#2367501890_13L42648Q1-1448361665Q20",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664150%232367501913_13L42648Q1-1510870681Q20",
+         "player": "Wendell Carter Jr",
+         "price": 371,
+         "sid": "0QA389664150#2367501913_13L42648Q1-1510870681Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389664150%232367501929_13L42648Q1-1551344353Q20",
+         "player": "Wendell Carter Jr",
+         "price": 1340,
+         "sid": "0QA389664150#2367501929_13L42648Q1-1551344353Q20",
+         "side": "Over"
+        }
+       ]
+      },
+      "espnbet": {
+       "event_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/nba/event/3aa232e0-6457-4a92-8506-3efd114f64d2",
+       "event_sid": "3aa232e0-6457-4a92-8506-3efd114f64d2",
+       "last_update": "2026-11-16T19:34:54Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=6e67ff66-4b2a-416f-b8c6-83daa7e31462&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Desmond Bane",
+         "price": -750,
+         "sid": "6e67ff66-4b2a-416f-b8c6-83daa7e31462",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=0de58b38-e734-46ec-bc61-76dbd612ffd5&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Desmond Bane",
+         "price": -190,
+         "sid": "0de58b38-e734-46ec-bc61-76dbd612ffd5",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=571e0452-a8be-4584-bf65-be8c9e364808&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Desmond Bane",
+         "price": 130,
+         "sid": "571e0452-a8be-4584-bf65-be8c9e364808",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=a1dfdf9f-8896-4a58-ad50-e01b0117ec3e&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Desmond Bane",
+         "price": 275,
+         "sid": "a1dfdf9f-8896-4a58-ad50-e01b0117ec3e",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=b6a90521-2ce1-4e2b-b128-a19ec15115cf&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Desmond Bane",
+         "price": 600,
+         "sid": "b6a90521-2ce1-4e2b-b128-a19ec15115cf",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=29aded87-0bbc-4b59-af07-8dcaf15c4e45&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Desmond Bane",
+         "price": 1100,
+         "sid": "29aded87-0bbc-4b59-af07-8dcaf15c4e45",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=cf0db43c-eed1-49f9-b037-463bf8e4d60b&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Paul George",
+         "price": -500,
+         "sid": "cf0db43c-eed1-49f9-b037-463bf8e4d60b",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=fb3834b8-9936-4b59-869c-0912bd266dad&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Paul George",
+         "price": -150,
+         "sid": "fb3834b8-9936-4b59-869c-0912bd266dad",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=bb48f019-7857-46be-9c8c-d59298446407&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Paul George",
+         "price": 150,
+         "sid": "bb48f019-7857-46be-9c8c-d59298446407",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=b3d8cdcf-6ebf-4ecc-8c87-d3a64aaad83d&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Paul George",
+         "price": 340,
+         "sid": "b3d8cdcf-6ebf-4ecc-8c87-d3a64aaad83d",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=d508cd39-6cdf-4ea8-9d13-5fdbc2f86884&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Paul George",
+         "price": 700,
+         "sid": "d508cd39-6cdf-4ea8-9d13-5fdbc2f86884",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=65e50079-30d2-41c7-bd55-8e07ff849ac1&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Paul George",
+         "price": 1200,
+         "sid": "65e50079-30d2-41c7-bd55-8e07ff849ac1",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=954e16f9-df71-4d90-acf4-e4613ced8914&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Jayson Tatum",
+         "price": -425,
+         "sid": "954e16f9-df71-4d90-acf4-e4613ced8914",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=7eb20521-38cc-49c2-a901-cfbcd97f0640&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Jayson Tatum",
+         "price": -125,
+         "sid": "7eb20521-38cc-49c2-a901-cfbcd97f0640",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=3cb7e680-302f-466f-8774-ba7f656e4376&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Jayson Tatum",
+         "price": 200,
+         "sid": "3cb7e680-302f-466f-8774-ba7f656e4376",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=7e8cf7a4-5b1e-401c-8883-cf9029b17345&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Jayson Tatum",
+         "price": 475,
+         "sid": "7e8cf7a4-5b1e-401c-8883-cf9029b17345",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=a9e655bd-a46e-4084-a003-530ea00b2667&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Jayson Tatum",
+         "price": 1000,
+         "sid": "a9e655bd-a46e-4084-a003-530ea00b2667",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=bee87363-c129-4c07-8eb0-739a1b070e86&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Jayson Tatum",
+         "price": 1600,
+         "sid": "bee87363-c129-4c07-8eb0-739a1b070e86",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=98dacf96-81ce-4812-9e41-07b466d81fee&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Tristan da Silva",
+         "price": -375,
+         "sid": "98dacf96-81ce-4812-9e41-07b466d81fee",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=19cb3dd7-954f-4573-9756-22a5f9882a00&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Tristan da Silva",
+         "price": -110,
+         "sid": "19cb3dd7-954f-4573-9756-22a5f9882a00",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=c999d7e5-0cc5-4c62-9c98-b47271c8ace5&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Tristan da Silva",
+         "price": 220,
+         "sid": "c999d7e5-0cc5-4c62-9c98-b47271c8ace5",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=b2c08d15-6337-4bf9-88e4-a3e77dc9dff0&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Tristan da Silva",
+         "price": 500,
+         "sid": "b2c08d15-6337-4bf9-88e4-a3e77dc9dff0",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=a8dfebaf-3ff4-4b55-a333-f7a8c326be22&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Tristan da Silva",
+         "price": 1100,
+         "sid": "a8dfebaf-3ff4-4b55-a333-f7a8c326be22",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=1f50c245-65c8-4a6a-9fb3-1b2ef78a29e9&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Tristan da Silva",
+         "price": 1600,
+         "sid": "1f50c245-65c8-4a6a-9fb3-1b2ef78a29e9",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=9988033f-cf59-4833-98c6-a75536410116&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Payton Pritchard",
+         "price": -215,
+         "sid": "9988033f-cf59-4833-98c6-a75536410116",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=cdb29f16-d921-4490-a4ea-f791d71f5a9a&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Payton Pritchard",
+         "price": 140,
+         "sid": "cdb29f16-d921-4490-a4ea-f791d71f5a9a",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=786135e2-d21f-46bc-bce8-b09e48395fae&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Payton Pritchard",
+         "price": 340,
+         "sid": "786135e2-d21f-46bc-bce8-b09e48395fae",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=706c7a67-6cf7-44ea-9357-477b12c0ceaa&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Payton Pritchard",
+         "price": 800,
+         "sid": "706c7a67-6cf7-44ea-9357-477b12c0ceaa",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=c6cd25bd-d1bb-4f35-875e-035350235c4b&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Payton Pritchard",
+         "price": 1400,
+         "sid": "c6cd25bd-d1bb-4f35-875e-035350235c4b",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=f96e7031-c06c-4ffd-8841-f3d37aad14dd&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Payton Pritchard",
+         "price": 2000,
+         "sid": "f96e7031-c06c-4ffd-8841-f3d37aad14dd",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=225dcd17-b711-4d6b-935f-8c7e780e0a94&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Derrick White",
+         "price": -190,
+         "sid": "225dcd17-b711-4d6b-935f-8c7e780e0a94",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=557c7629-82af-4777-9eaa-5c49ac02511f&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Derrick White",
+         "price": 150,
+         "sid": "557c7629-82af-4777-9eaa-5c49ac02511f",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=d5ad5899-d173-4436-8ad8-839586bd63b2&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Derrick White",
+         "price": 375,
+         "sid": "d5ad5899-d173-4436-8ad8-839586bd63b2",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=c31b4aa9-6920-4131-80d8-40b870936582&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Derrick White",
+         "price": 900,
+         "sid": "c31b4aa9-6920-4131-80d8-40b870936582",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=a40bf600-8536-433a-8147-92f8c935c4eb&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Derrick White",
+         "price": 1400,
+         "sid": "a40bf600-8536-433a-8147-92f8c935c4eb",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=08e0c2ad-8eb7-42fe-ab2c-7aa89b1e7c7b&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Sam Hauser",
+         "price": -165,
+         "sid": "08e0c2ad-8eb7-42fe-ab2c-7aa89b1e7c7b",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=10b1e763-26c0-4550-b09b-cebf587985a7&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Sam Hauser",
+         "price": 175,
+         "sid": "10b1e763-26c0-4550-b09b-cebf587985a7",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=a1e8993f-9c12-4a45-9fd2-dac85c679099&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Sam Hauser",
+         "price": 425,
+         "sid": "a1e8993f-9c12-4a45-9fd2-dac85c679099",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=da009ff6-b892-47c0-b6fd-2afee06a818a&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Sam Hauser",
+         "price": 1000,
+         "sid": "da009ff6-b892-47c0-b6fd-2afee06a818a",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=2c7def7e-d70a-47db-8c5c-26bef9358317&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Sam Hauser",
+         "price": 1600,
+         "sid": "2c7def7e-d70a-47db-8c5c-26bef9358317",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=c1e6b72d-2a41-4d50-a8e5-f8da7b5d353e&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Anthony Black",
+         "price": -130,
+         "sid": "c1e6b72d-2a41-4d50-a8e5-f8da7b5d353e",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=d7690991-e672-4d35-a878-c484e9e14133&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Anthony Black",
+         "price": 225,
+         "sid": "d7690991-e672-4d35-a878-c484e9e14133",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=fae405e6-279e-42e9-a74b-68b93084e428&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Anthony Black",
+         "price": 600,
+         "sid": "fae405e6-279e-42e9-a74b-68b93084e428",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=5a264b62-9f60-483c-9bf4-40f0c0c4fef3&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Anthony Black",
+         "price": 1400,
+         "sid": "5a264b62-9f60-483c-9bf4-40f0c0c4fef3",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=496a4996-4d7d-497f-bf09-37a33e74f5be&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Anthony Black",
+         "price": 2000,
+         "sid": "496a4996-4d7d-497f-bf09-37a33e74f5be",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=3f0b7fed-2f45-4fb7-a4db-889f3550327c&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Franz Wagner",
+         "price": -120,
+         "sid": "3f0b7fed-2f45-4fb7-a4db-889f3550327c",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=e3b613ab-ef85-4839-8fde-d757de7cf60f&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Franz Wagner",
+         "price": 250,
+         "sid": "e3b613ab-ef85-4839-8fde-d757de7cf60f",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=64c9c142-93a0-4549-8591-817b0d1ae766&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Franz Wagner",
+         "price": 700,
+         "sid": "64c9c142-93a0-4549-8591-817b0d1ae766",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=bd02544d-b599-4e22-b5cd-2e364fc0d712&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Franz Wagner",
+         "price": 1400,
+         "sid": "bd02544d-b599-4e22-b5cd-2e364fc0d712",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=5e5508a2-c89d-48b5-83cc-0546a326fa55&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Franz Wagner",
+         "price": 2500,
+         "sid": "5e5508a2-c89d-48b5-83cc-0546a326fa55",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=411af588-9327-4fe4-a5b0-f154d7c276c1&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Jalen Suggs",
+         "price": 100,
+         "sid": "411af588-9327-4fe4-a5b0-f154d7c276c1",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=1b19d883-d452-4266-9f6b-b25e2468ed32&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Jalen Suggs",
+         "price": 285,
+         "sid": "1b19d883-d452-4266-9f6b-b25e2468ed32",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=f4857f1d-00fc-4cec-89f8-827be5fa485f&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Jalen Suggs",
+         "price": 800,
+         "sid": "f4857f1d-00fc-4cec-89f8-827be5fa485f",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=ada25269-f482-48f4-b77a-1c0742f0d3f8&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Jalen Suggs",
+         "price": 1400,
+         "sid": "ada25269-f482-48f4-b77a-1c0742f0d3f8",
+         "side": "Over"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/nba/orlando-magic-%40-boston-celtics-36319063",
+       "event_sid": "36319063",
+       "last_update": "2026-11-16T19:35:10Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841769&selectionId=26969962",
+         "player": "Desmond Bane",
+         "price": -186,
+         "sid": "26969962",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841769&selectionId=5066351",
+         "player": "Paul George",
+         "price": -158,
+         "sid": "5066351",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841769&selectionId=13080925",
+         "player": "Jayson Tatum",
+         "price": -122,
+         "sid": "13080925",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841769&selectionId=50426351",
+         "player": "Tristan da Silva",
+         "price": -108,
+         "sid": "50426351",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841769&selectionId=26799201",
+         "player": "Payton Pritchard",
+         "price": 134,
+         "sid": "26799201",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841769&selectionId=21559329",
+         "player": "Derrick White",
+         "price": 150,
+         "sid": "21559329",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841769&selectionId=36981582",
+         "player": "Sam Hauser",
+         "price": 196,
+         "sid": "36981582",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841769&selectionId=49763856",
+         "player": "Anthony Black",
+         "price": 240,
+         "sid": "49763856",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841769&selectionId=36981633",
+         "player": "Franz Wagner",
+         "price": 255,
+         "sid": "36981633",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841769&selectionId=36981591",
+         "player": "Jalen Suggs",
+         "price": 310,
+         "sid": "36981591",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841770&selectionId=26969962",
+         "player": "Desmond Bane",
+         "price": 134,
+         "sid": "26969962",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841770&selectionId=5066351",
+         "player": "Paul George",
+         "price": 164,
+         "sid": "5066351",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841770&selectionId=13080925",
+         "player": "Jayson Tatum",
+         "price": 220,
+         "sid": "13080925",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841770&selectionId=50426351",
+         "player": "Tristan da Silva",
+         "price": 240,
+         "sid": "50426351",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841770&selectionId=26799201",
+         "player": "Payton Pritchard",
+         "price": 340,
+         "sid": "26799201",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841770&selectionId=21559329",
+         "player": "Derrick White",
+         "price": 400,
+         "sid": "21559329",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841770&selectionId=36981582",
+         "player": "Sam Hauser",
+         "price": 470,
+         "sid": "36981582",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841770&selectionId=49763856",
+         "player": "Anthony Black",
+         "price": 600,
+         "sid": "49763856",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841770&selectionId=36981633",
+         "player": "Franz Wagner",
+         "price": 680,
+         "sid": "36981633",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841770&selectionId=36981591",
+         "player": "Jalen Suggs",
+         "price": 800,
+         "sid": "36981591",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841773&selectionId=26969962",
+         "player": "Desmond Bane",
+         "price": 1200,
+         "sid": "26969962",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841773&selectionId=5066351",
+         "player": "Paul George",
+         "price": 1500,
+         "sid": "5066351",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841773&selectionId=50426351",
+         "player": "Tristan da Silva",
+         "price": 1700,
+         "sid": "50426351",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841773&selectionId=13080925",
+         "player": "Jayson Tatum",
+         "price": 1800,
+         "sid": "13080925",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841773&selectionId=26799201",
+         "player": "Payton Pritchard",
+         "price": 3000,
+         "sid": "26799201",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841768&selectionId=26969962",
+         "player": "Desmond Bane",
+         "price": -650,
+         "sid": "26969962",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841768&selectionId=5066351",
+         "player": "Paul George",
+         "price": -480,
+         "sid": "5066351",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841768&selectionId=13080925",
+         "player": "Jayson Tatum",
+         "price": -390,
+         "sid": "13080925",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841768&selectionId=50426351",
+         "player": "Tristan da Silva",
+         "price": -340,
+         "sid": "50426351",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841768&selectionId=26799201",
+         "player": "Payton Pritchard",
+         "price": -225,
+         "sid": "26799201",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841768&selectionId=21559329",
+         "player": "Derrick White",
+         "price": -205,
+         "sid": "21559329",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841768&selectionId=36981582",
+         "player": "Sam Hauser",
+         "price": -158,
+         "sid": "36981582",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841768&selectionId=49763856",
+         "player": "Anthony Black",
+         "price": -130,
+         "sid": "49763856",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841768&selectionId=36981633",
+         "player": "Franz Wagner",
+         "price": -122,
+         "sid": "36981633",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841768&selectionId=36981591",
+         "player": "Jalen Suggs",
+         "price": 106,
+         "sid": "36981591",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841771&selectionId=26969962",
+         "player": "Desmond Bane",
+         "price": 300,
+         "sid": "26969962",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841771&selectionId=5066351",
+         "player": "Paul George",
+         "price": 390,
+         "sid": "5066351",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841771&selectionId=50426351",
+         "player": "Tristan da Silva",
+         "price": 500,
+         "sid": "50426351",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841771&selectionId=13080925",
+         "player": "Jayson Tatum",
+         "price": 500,
+         "sid": "13080925",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841771&selectionId=26799201",
+         "player": "Payton Pritchard",
+         "price": 800,
+         "sid": "26799201",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841771&selectionId=21559329",
+         "player": "Derrick White",
+         "price": 900,
+         "sid": "21559329",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841771&selectionId=36981582",
+         "player": "Sam Hauser",
+         "price": 1000,
+         "sid": "36981582",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841771&selectionId=49763856",
+         "player": "Anthony Black",
+         "price": 1500,
+         "sid": "49763856",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841771&selectionId=36981591",
+         "player": "Jalen Suggs",
+         "price": 1800,
+         "sid": "36981591",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841771&selectionId=36981633",
+         "player": "Franz Wagner",
+         "price": 1900,
+         "sid": "36981633",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841774&selectionId=26969962",
+         "player": "Desmond Bane",
+         "price": 2000,
+         "sid": "26969962",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841774&selectionId=5066351",
+         "player": "Paul George",
+         "price": 3500,
+         "sid": "5066351",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841774&selectionId=50426351",
+         "player": "Tristan da Silva",
+         "price": 4000,
+         "sid": "50426351",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841772&selectionId=26969962",
+         "player": "Desmond Bane",
+         "price": 630,
+         "sid": "26969962",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841772&selectionId=5066351",
+         "player": "Paul George",
+         "price": 830,
+         "sid": "5066351",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841772&selectionId=50426351",
+         "player": "Tristan da Silva",
+         "price": 1060,
+         "sid": "50426351",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841772&selectionId=13080925",
+         "player": "Jayson Tatum",
+         "price": 1060,
+         "sid": "13080925",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841772&selectionId=26799201",
+         "player": "Payton Pritchard",
+         "price": 1500,
+         "sid": "26799201",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841772&selectionId=21559329",
+         "player": "Derrick White",
+         "price": 1700,
+         "sid": "21559329",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841772&selectionId=36981582",
+         "player": "Sam Hauser",
+         "price": 1800,
+         "sid": "36981582",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841772&selectionId=49763856",
+         "player": "Anthony Black",
+         "price": 3000,
+         "sid": "49763856",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841767&selectionId=26969962",
+         "player": "Desmond Bane",
+         "price": -6000,
+         "sid": "26969962",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841767&selectionId=5066351",
+         "player": "Paul George",
+         "price": -4500,
+         "sid": "5066351",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841767&selectionId=13080925",
+         "player": "Jayson Tatum",
+         "price": -3500,
+         "sid": "13080925",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841767&selectionId=50426351",
+         "player": "Tristan da Silva",
+         "price": -2500,
+         "sid": "50426351",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841767&selectionId=26799201",
+         "player": "Payton Pritchard",
+         "price": -1200,
+         "sid": "26799201",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841767&selectionId=21559329",
+         "player": "Derrick White",
+         "price": -1100,
+         "sid": "21559329",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841767&selectionId=36981582",
+         "player": "Sam Hauser",
+         "price": -770,
+         "sid": "36981582",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841767&selectionId=49763856",
+         "player": "Anthony Black",
+         "price": -650,
+         "sid": "49763856",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841767&selectionId=36981633",
+         "player": "Franz Wagner",
+         "price": -620,
+         "sid": "36981633",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625841767&selectionId=36981591",
+         "player": "Jalen Suggs",
+         "price": -440,
+         "sid": "36981591",
+         "side": "Over"
+        }
+       ]
+      },
+      "hardrockbet": {
+       "event_link": "https://app.hardrock.bet/home/competition/nba/2940403838999462316",
+       "event_sid": "2940403838999462316",
+       "last_update": "2026-11-16T19:35:16Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 1.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7515451807022317969",
+         "player": "Payton Pritchard",
+         "price": -195,
+         "sid": "7515451807022317969",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5497839173960335775",
+         "player": "Payton Pritchard",
+         "price": 1400,
+         "sid": "5497839173960335775",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7533466205531799959",
+         "player": "Payton Pritchard",
+         "price": 325,
+         "sid": "7533466205531799959",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/84512421860999571",
+         "player": "Payton Pritchard",
+         "price": 5000,
+         "sid": "84512421860999571",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6412069898316546471",
+         "player": "Jayson Tatum",
+         "price": 6000,
+         "sid": "6412069898316546471",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3243224610507981223",
+         "player": "Jayson Tatum",
+         "price": 210,
+         "sid": "3243224610507981223",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/9204301667286253974",
+         "player": "Jayson Tatum",
+         "price": 4000,
+         "sid": "9204301667286253974",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3687392123757396391",
+         "player": "Payton Pritchard",
+         "price": 140,
+         "sid": "3687392123757396391",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/9046675680328286638",
+         "player": "Payton Pritchard",
+         "price": 3000,
+         "sid": "9046675680328286638",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8890738543230583212",
+         "player": "Jayson Tatum",
+         "price": 475,
+         "sid": "8890738543230583212",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4633710995458621870",
+         "player": "Jayson Tatum",
+         "price": -120,
+         "sid": "4633710995458621870",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1854427075417604502",
+         "player": "Jayson Tatum",
+         "price": 5000,
+         "sid": "1854427075417604502",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7633108347287372199",
+         "player": "Jayson Tatum",
+         "price": 5000,
+         "sid": "7633108347287372199",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8735927306039722393",
+         "player": "Jayson Tatum",
+         "price": 2000,
+         "sid": "8735927306039722393",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/965106886500286875",
+         "player": "Jayson Tatum",
+         "price": -325,
+         "sid": "965106886500286875",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4768818984279736727",
+         "player": "Jayson Tatum",
+         "price": 900,
+         "sid": "4768818984279736727",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5917384023027614117",
+         "player": "Payton Pritchard",
+         "price": -850,
+         "sid": "5917384023027614117",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7353322220436980121",
+         "player": "Payton Pritchard",
+         "price": 6000,
+         "sid": "7353322220436980121",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6722818272605110675",
+         "player": "Payton Pritchard",
+         "price": 700,
+         "sid": "6722818272605110675",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3948600902144885151",
+         "player": "Payton Pritchard",
+         "price": 6000,
+         "sid": "3948600902144885151",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2221540813792477590",
+         "player": "Franz Wagner",
+         "price": -475,
+         "sid": "2221540813792477590",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8723612775808631187",
+         "player": "Franz Wagner",
+         "price": 1300,
+         "sid": "8723612775808631187",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6447887589102977437",
+         "player": "Franz Wagner",
+         "price": 240,
+         "sid": "6447887589102977437",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1701375056831185326",
+         "player": "Franz Wagner",
+         "price": 4000,
+         "sid": "1701375056831185326",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2974767851470193051",
+         "player": "Franz Wagner",
+         "price": 575,
+         "sid": "2974767851470193051",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1013450213750342041",
+         "player": "Franz Wagner",
+         "price": -115,
+         "sid": "1013450213750342041",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/21532395821990292",
+         "player": "Franz Wagner",
+         "price": 5000,
+         "sid": "21532395821990292",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7510455626185703831",
+         "player": "Franz Wagner",
+         "price": 3000,
+         "sid": "7510455626185703831",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3226763461151293833",
+         "player": "Jalen Suggs",
+         "price": 4000,
+         "sid": "3226763461151293833",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3930873115392999831",
+         "player": "Jalen Suggs",
+         "price": 5000,
+         "sid": "3930873115392999831",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/806923086369784229",
+         "player": "Jalen Suggs",
+         "price": 6000,
+         "sid": "806923086369784229",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1716368736121913752",
+         "player": "Jalen Suggs",
+         "price": -350,
+         "sid": "1716368736121913752",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/840137133621641605",
+         "player": "Jalen Suggs",
+         "price": 110,
+         "sid": "840137133621641605",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2279318689543225765",
+         "player": "Jalen Suggs",
+         "price": 750,
+         "sid": "2279318689543225765",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4613449933916340613",
+         "player": "Sam Hauser",
+         "price": -150,
+         "sid": "4613449933916340613",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5426631141633425799",
+         "player": "Sam Hauser",
+         "price": 4000,
+         "sid": "5426631141633425799",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8490064050663850402",
+         "player": "Sam Hauser",
+         "price": 425,
+         "sid": "8490064050663850402",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4958256780386894254",
+         "player": "Sam Hauser",
+         "price": 6000,
+         "sid": "4958256780386894254",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7476331922040422803",
+         "player": "Sam Hauser",
+         "price": -600,
+         "sid": "7476331922040422803",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6664135876741824930",
+         "player": "Sam Hauser",
+         "price": 2000,
+         "sid": "6664135876741824930",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1294015533567574419",
+         "player": "Sam Hauser",
+         "price": 180,
+         "sid": "1294015533567574419",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6826124725838807447",
+         "player": "Sam Hauser",
+         "price": 900,
+         "sid": "6826124725838807447",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/420880155811119532",
+         "player": "Anthony Black",
+         "price": 1100,
+         "sid": "420880155811119532",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4659611830096888223",
+         "player": "Anthony Black",
+         "price": 3000,
+         "sid": "4659611830096888223",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7014150010281525666",
+         "player": "Anthony Black",
+         "price": 4000,
+         "sid": "7014150010281525666",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3621813590964699549",
+         "player": "Anthony Black",
+         "price": 5000,
+         "sid": "3621813590964699549",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2334206310001803655",
+         "player": "Anthony Black",
+         "price": -525,
+         "sid": "2334206310001803655",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/9162789245002318246",
+         "player": "Anthony Black",
+         "price": -125,
+         "sid": "9162789245002318246",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5426631141633425821",
+         "player": "Anthony Black",
+         "price": 525,
+         "sid": "5426631141633425821",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7762416051494715795",
+         "player": "Sam Hauser",
+         "price": 5000,
+         "sid": "7762416051494715795",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6299520228785258923",
+         "player": "Anthony Black",
+         "price": 220,
+         "sid": "6299520228785258923",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/565312003235774898",
+         "player": "Jalen Suggs",
+         "price": 1600,
+         "sid": "565312003235774898",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5200360444730147205",
+         "player": "Jalen Suggs",
+         "price": 300,
+         "sid": "5200360444730147205",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6869137620717404568",
+         "player": "Derrick White",
+         "price": 6000,
+         "sid": "6869137620717404568",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6790324627238420910",
+         "player": "Tristan da Silva",
+         "price": 220,
+         "sid": "6790324627238420910",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8340636022402580873",
+         "player": "Derrick White",
+         "price": 5000,
+         "sid": "8340636022402580873",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2720196464002335151",
+         "player": "Tristan da Silva",
+         "price": 4000,
+         "sid": "2720196464002335151",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6893907418667942316",
+         "player": "Derrick White",
+         "price": 400,
+         "sid": "6893907418667942316",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6237226298001981855",
+         "player": "Tristan da Silva",
+         "price": -110,
+         "sid": "6237226298001981855",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7409569576001864101",
+         "player": "Derrick White",
+         "price": 6000,
+         "sid": "7409569576001864101",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8899346258987188645",
+         "player": "Tristan da Silva",
+         "price": 475,
+         "sid": "8899346258987188645",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6462687754347217322",
+         "player": "Derrick White",
+         "price": 4000,
+         "sid": "6462687754347217322",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7011563958932996524",
+         "player": "Tristan da Silva",
+         "price": 2250,
+         "sid": "7011563958932996524",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5484421472789332394",
+         "player": "Derrick White",
+         "price": 800,
+         "sid": "5484421472789332394",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8412693616440508823",
+         "player": "Tristan da Silva",
+         "price": 5000,
+         "sid": "8412693616440508823",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8742635065703530914",
+         "player": "Derrick White",
+         "price": 160,
+         "sid": "8742635065703530914",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4791799516034630023",
+         "player": "Derrick White",
+         "price": -800,
+         "sid": "4791799516034630023",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5863709003906941358",
+         "player": "Tristan da Silva",
+         "price": -300,
+         "sid": "5863709003906941358",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5141444213667398052",
+         "player": "Tristan da Silva",
+         "price": 1000,
+         "sid": "5141444213667398052",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7586335861376156066",
+         "player": "Derrick White",
+         "price": 2000,
+         "sid": "7586335861376156066",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1284674082777989523",
+         "player": "Derrick White",
+         "price": -180,
+         "sid": "1284674082777989523",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6875395078830031253",
+         "player": "Tristan da Silva",
+         "price": 6000,
+         "sid": "6875395078830031253",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1098511611550892424",
+         "player": "Desmond Bane",
+         "price": 4000,
+         "sid": "1098511611550892424",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2548670691564192166",
+         "player": "Desmond Bane",
+         "price": 575,
+         "sid": "2548670691564192166",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1792065954165948827",
+         "player": "Desmond Bane",
+         "price": -175,
+         "sid": "1792065954165948827",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2611721086347379106",
+         "player": "Desmond Bane",
+         "price": 2250,
+         "sid": "2611721086347379106",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2116325127336624547",
+         "player": "Desmond Bane",
+         "price": 275,
+         "sid": "2116325127336624547",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2422569901997818260",
+         "player": "Desmond Bane",
+         "price": -500,
+         "sid": "2422569901997818260",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3494426613311996293",
+         "player": "Desmond Bane",
+         "price": 130,
+         "sid": "3494426613311996293",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6475809566631264688",
+         "player": "Desmond Bane",
+         "price": 1000,
+         "sid": "6475809566631264688",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/981418021239259565",
+         "player": "Desmond Bane",
+         "price": 6000,
+         "sid": "981418021239259565",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6866790953666085297",
+         "player": "Paul George",
+         "price": 1400,
+         "sid": "6866790953666085297",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5416631873652785584",
+         "player": "Paul George",
+         "price": 325,
+         "sid": "5416631873652785584",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6578560577514373549",
+         "player": "Paul George",
+         "price": 4000,
+         "sid": "6578560577514373549",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2615392905428337072",
+         "player": "Paul George",
+         "price": -155,
+         "sid": "2615392905428337072",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5839970238625612176",
+         "player": "Paul George",
+         "price": 155,
+         "sid": "5839970238625612176",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5602405358281818504",
+         "player": "Paul George",
+         "price": 2500,
+         "sid": "5602405358281818504",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2950911077667439011",
+         "player": "Paul George",
+         "price": 6000,
+         "sid": "2950911077667439011",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5894013434154058120",
+         "player": "Paul George",
+         "price": -450,
+         "sid": "5894013434154058120",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/9028518774803923370",
+         "player": "Paul George",
+         "price": 700,
+         "sid": "9028518774803923370",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2282541678636171690",
+         "player": "Tristan da Silva",
+         "price": 6000,
+         "sid": "2282541678636171690",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3505151656140603796",
+         "player": "Wendell Carter Jr",
+         "price": 1000,
+         "sid": "3505151656140603796",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/802991879718306206",
+         "player": "Wendell Carter Jr",
+         "price": 3000,
+         "sid": "802991879718306206",
+         "side": "Over"
+        },
+        {
+         "line": 0.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7076506160645407148",
+         "player": "Wendell Carter Jr",
+         "price": -120,
+         "sid": "7076506160645407148",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1883855790287225259",
+         "player": "Wendell Carter Jr",
+         "price": 350,
+         "sid": "1883855790287225259",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/392601363674169756",
+         "player": "Wendell Carter Jr",
+         "price": 5000,
+         "sid": "392601363674169756",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8675284028361933212",
+         "player": "Wendell Carter Jr",
+         "price": 4000,
+         "sid": "8675284028361933212",
+         "side": "Over"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-16T19:36:04Z",
+     "kind": "lock",
+     "minutes_to_tip": 273.9,
+     "raw": "raw/2026-11-16/7c2ac54a119f461bf8fc1a23da536f29-player_threes_alternate-lock-20261116T193604397656Z.json",
      "rev": 1
     }
    ],
@@ -77931,8 +82999,8 @@
   }
  },
  "issues": [],
- "spent_month": 361,
- "spent_today": 26,
+ "spent_month": 362,
+ "spent_today": 27,
  "stop": null,
- "updated": "2026-11-16T19:31:44Z"
+ "updated": "2026-11-16T19:36:04Z"
 }
