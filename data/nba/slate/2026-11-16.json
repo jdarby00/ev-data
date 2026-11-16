@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "updated_et": "2026-11-16 16:15",
+ "updated_et": "2026-11-16 18:50",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -12,10 +12,10 @@
    "away_name": "Orlando Magic",
    "home_name": "Boston Celtics",
    "state": "pre",
-   "spread_text": "BOS -8.5",
-   "spread": -8.5,
-   "total": 212.5,
-   "odds_source": "Draft Kings",
+   "spread_text": "BOS -9.5",
+   "spread": -9.5,
+   "total": 214.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -29,7 +29,7 @@
    "spread_text": "CLE -8.5",
    "spread": -8.5,
    "total": 241.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -40,10 +40,10 @@
    "away_name": "Memphis Grizzlies",
    "home_name": "Washington Wizards",
    "state": "pre",
-   "spread_text": "MEM -3.5",
-   "spread": 3.5,
-   "total": 233.5,
-   "odds_source": "Draft Kings",
+   "spread_text": "MEM -4.5",
+   "spread": 4.5,
+   "total": 231.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -54,10 +54,10 @@
    "away_name": "Philadelphia 76ers",
    "home_name": "Brooklyn Nets",
    "state": "pre",
-   "spread_text": "PHI -5.5",
-   "spread": 5.5,
+   "spread_text": "PHI -4.5",
+   "spread": 4.5,
    "total": 226.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -68,10 +68,10 @@
    "away_name": "Houston Rockets",
    "home_name": "Miami Heat",
    "state": "pre",
-   "spread_text": "HOU -2.5",
-   "spread": 2.5,
-   "total": 231.5,
-   "odds_source": "Draft Kings",
+   "spread_text": "HOU -1.5",
+   "spread": 1.5,
+   "total": 233.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "MIN -2.5",
    "spread": -2.5,
    "total": 227.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -99,7 +99,7 @@
    "spread_text": "GS -3.5",
    "spread": 3.5,
    "total": 223.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -113,7 +113,7 @@
    "spread_text": "DEN -9.5",
    "spread": -9.5,
    "total": 229.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
@@ -121,10 +121,10 @@
   "Boston Celtics": [
    {
     "player": "Neemias Queta",
-    "status": "Day-To-Day",
-    "detail": "Queta (rest) is questionable for Monday's game against the Magic.",
-    "type": "day-to-day",
-    "updated": "2026-11-16T18:12Z"
+    "status": "Out",
+    "detail": "Queta (rest) won't play in Monday's game against the Magic, Taylor Snow of the Celtics' official site reports.",
+    "type": "out",
+    "updated": "2026-11-16T22:10Z"
    }
   ],
   "Chicago Bulls": [
@@ -134,13 +134,6 @@
     "detail": "Awaka (back) has been ruled out for Monday's game against the Cavaliers.",
     "type": "out",
     "updated": "2026-11-15T21:30Z"
-   },
-   {
-    "player": "Jalen Smith",
-    "status": "Day-To-Day",
-    "detail": "Smith (finger) is listed as questionable for Monday's game against Cleveland.",
-    "type": "day-to-day",
-    "updated": "2026-11-15T21:29Z"
    },
    {
     "player": "Caleb Wilson",
@@ -153,24 +146,17 @@
   "Cleveland Cavaliers": [
    {
     "player": "Jaylon Tyson",
-    "status": "Day-To-Day",
-    "detail": "Tyson (ankle) has been downgraded to doubtful for Monday's game against the Bulls.",
-    "type": "day-to-day",
-    "updated": "2026-11-16T17:35Z"
-   },
-   {
-    "player": "Peyton Watson",
-    "status": "Day-To-Day",
-    "detail": "Watson (abdominal soreness) is questionable to play in Monday's game against the Bulls.",
-    "type": "day-to-day",
-    "updated": "2026-11-15T22:04Z"
+    "status": "Out",
+    "detail": "Tyson (ankle) has been ruled out for Monday's game against Chicago.",
+    "type": "out",
+    "updated": "2026-11-16T22:39Z"
    },
    {
     "player": "Evan Mobley",
     "status": "Out",
-    "detail": "Mobley (toe) has been ruled out for Monday's game against Chicago.",
+    "detail": "Mobley will receive treatment and participate in rehab after the team confirmed a diagnosis of a right great toe sprain, and he'll be re-evaluated in the next 7-to-10 days.",
     "type": "out",
-    "updated": "2026-11-15T21:58Z"
+    "updated": "2026-11-16T22:06Z"
    },
    {
     "player": "Sam Merrill",
@@ -307,20 +293,6 @@
     "updated": "2026-11-15T22:13Z"
    },
    {
-    "player": "Quinten Post",
-    "status": "Out",
-    "detail": "Post (concussion) is questionable for Monday's game against the Wizards.",
-    "type": "out",
-    "updated": "2026-11-15T22:12Z"
-   },
-   {
-    "player": "Zach Edey",
-    "status": "Day-To-Day",
-    "detail": "Edey (ankle) is questionable for Monday's game against Washington.",
-    "type": "day-to-day",
-    "updated": "2026-11-15T22:11Z"
-   },
-   {
     "player": "Richie Saunders",
     "status": "Out",
     "detail": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports.",
@@ -331,17 +303,17 @@
   "Miami Heat": [
    {
     "player": "Nikola Jovic",
-    "status": "Day-To-Day",
-    "detail": "Jovic (illness) has been downgraded to questionable for Monday's game against Houston.",
-    "type": "day-to-day",
-    "updated": "2026-11-16T17:41Z"
+    "status": "Out",
+    "detail": "Jovic (illness) is out for Monday's game against Houston.",
+    "type": "out",
+    "updated": "2026-11-16T22:50Z"
    },
    {
     "player": "Pelle Larsson",
-    "status": "Day-To-Day",
-    "detail": "Larsson (illness) has been downgraded to doubtful for Monday's game against Houston.",
-    "type": "day-to-day",
-    "updated": "2026-11-16T17:39Z"
+    "status": "Out",
+    "detail": "Larsson won't play in Monday's game against the Rockets due to an illness, Ira Winderman of the South Florida Sun Sentinel reports.",
+    "type": "out",
+    "updated": "2026-11-16T22:49Z"
    }
   ],
   "Minnesota Timberwolves": [
@@ -519,13 +491,6 @@
   ],
   "Washington Wizards": [
    {
-    "player": "Tre Johnson",
-    "status": "Day-To-Day",
-    "detail": "Johnson (back) is listed as questionable for Monday's game against Memphis.",
-    "type": "day-to-day",
-    "updated": "2026-11-16T18:18Z"
-   },
-   {
     "player": "Tristan Vukcevic",
     "status": "Out",
     "detail": "Vukcevic (hip) has been ruled out for Monday's game against Memphis.",
@@ -632,6 +597,69 @@
    "player": "Ryan Dunn",
    "from": "not listed",
    "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-16 18:50",
+   "team": "Boston Celtics",
+   "player": "Neemias Queta",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-16 18:50",
+   "team": "Chicago Bulls",
+   "player": "Jalen Smith",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-16 18:50",
+   "team": "Cleveland Cavaliers",
+   "player": "Jaylon Tyson",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-16 18:50",
+   "team": "Cleveland Cavaliers",
+   "player": "Peyton Watson",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-16 18:50",
+   "team": "Memphis Grizzlies",
+   "player": "Quinten Post",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-16 18:50",
+   "team": "Memphis Grizzlies",
+   "player": "Zach Edey",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-16 18:50",
+   "team": "Miami Heat",
+   "player": "Nikola Jovic",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-16 18:50",
+   "team": "Miami Heat",
+   "player": "Pelle Larsson",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-16 18:50",
+   "team": "Washington Wizards",
+   "player": "Tre Johnson",
+   "from": "Day-To-Day",
+   "to": "removed from report"
   }
  ]
 }
