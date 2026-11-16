@@ -223491,11 +223491,12 @@
    "api_away": "Oklahoma City Thunder",
    "api_home": "Sacramento Kings",
    "away": "Thunder",
-   "commence_time": "2026-11-16T02:10:00Z",
+   "commence_time": "2026-11-16T02:11:00Z",
    "event_id": "f8334b355cf9346d423fa9eb93b425f0",
    "home": "Kings",
    "issues": [
-    "2026-11-16T01:55:41Z close skipped: daily cap reached (45/45)"
+    "2026-11-16T01:55:41Z close skipped: daily cap reached (45/45)",
+    "no close snapshot before start"
    ],
    "market": "player_assists",
    "players": [],
@@ -225119,7 +225120,7 @@
    "api_away": "Oklahoma City Thunder",
    "api_home": "Sacramento Kings",
    "away": "Thunder",
-   "commence_time": "2026-11-16T02:10:00Z",
+   "commence_time": "2026-11-16T02:11:00Z",
    "event_id": "f8334b355cf9346d423fa9eb93b425f0",
    "home": "Kings",
    "issues": [],
@@ -230988,11 +230989,12 @@
    "api_away": "Oklahoma City Thunder",
    "api_home": "Sacramento Kings",
    "away": "Thunder",
-   "commence_time": "2026-11-16T02:10:00Z",
+   "commence_time": "2026-11-16T02:11:00Z",
    "event_id": "f8334b355cf9346d423fa9eb93b425f0",
    "home": "Kings",
    "issues": [
-    "2026-11-16T01:55:41Z close skipped: daily cap reached (45/45)"
+    "2026-11-16T01:55:41Z close skipped: daily cap reached (45/45)",
+    "no close snapshot before start"
    ],
    "market": "player_points_alternate",
    "players": [],
@@ -237640,7 +237642,7 @@
    "api_away": "Oklahoma City Thunder",
    "api_home": "Sacramento Kings",
    "away": "Thunder",
-   "commence_time": "2026-11-16T02:10:00Z",
+   "commence_time": "2026-11-16T02:11:00Z",
    "event_id": "f8334b355cf9346d423fa9eb93b425f0",
    "home": "Kings",
    "issues": [],
@@ -241733,7 +241735,7 @@
    "api_away": "Oklahoma City Thunder",
    "api_home": "Sacramento Kings",
    "away": "Thunder",
-   "commence_time": "2026-11-16T02:10:00Z",
+   "commence_time": "2026-11-16T02:11:00Z",
    "event_id": "f8334b355cf9346d423fa9eb93b425f0",
    "home": "Kings",
    "issues": [],
@@ -245899,5 +245901,5 @@
  "spent_month": 335,
  "spent_today": 45,
  "stop": null,
- "updated": "2026-11-16T01:55:41Z"
+ "updated": "2026-11-16T03:06:52Z"
 }
