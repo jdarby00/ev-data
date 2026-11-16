@@ -1,5 +1,5 @@
 {
- "credits_remaining": 137,
+ "credits_remaining": 135,
  "date": "2026-11-16",
  "groups": {
   "basketball_nba|76ers@nets|player_assists": {
@@ -9333,6 +9333,282 @@
      "kind": "lock",
      "minutes_to_tip": 284.4,
      "raw": "raw/2026-11-16/39dbdb7fdc78bd01ceac2fc7048bc1fd-player_points-lock-20261116T192535451616Z.json",
+     "rev": 1
+    }
+   ],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|bulls@cavaliers|spreads": {
+   "api_away": "Chicago Bulls",
+   "api_home": "Cleveland Cavaliers",
+   "away": "Bulls",
+   "close": true,
+   "commence_time": "2026-11-17T00:10:00Z",
+   "event_id": "39dbdb7fdc78bd01ceac2fc7048bc1fd",
+   "home": "Cavaliers",
+   "issues": [],
+   "market": "spreads",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1028754075",
+       "event_sid": "1028754075",
+       "last_update": "2026-11-16T23:10:05Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "",
+         "price": -106,
+         "sid": "4419705786",
+         "side": "Chicago Bulls"
+        },
+        {
+         "line": -8.5,
+         "link": null,
+         "player": "",
+         "price": -117,
+         "sid": "4419705785",
+         "side": "Cleveland Cavaliers"
+        }
+       ]
+      },
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/chicago-bulls-at-cleveland-cavaliers-20050491",
+       "event_sid": "20050491",
+       "last_update": "2026-11-16T23:10:21Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=20050491-1579407820-2353483405&type=Single",
+         "player": "",
+         "price": -110,
+         "sid": "2353483405",
+         "side": "Chicago Bulls"
+        },
+        {
+         "line": -8.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=20050491-1579407820-2353483422&type=Single",
+         "player": "",
+         "price": -110,
+         "sid": "2353483422",
+         "side": "Cleveland Cavaliers"
+        }
+       ]
+      },
+      "betonlineag": {
+       "event_link": "https://sports.betonline.ag/sportsbook/basketball/nba/game/491182837",
+       "event_sid": "491182837",
+       "last_update": "2026-11-16T23:10:05Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "",
+         "price": -114,
+         "sid": null,
+         "side": "Chicago Bulls"
+        },
+        {
+         "line": -8.5,
+         "link": null,
+         "player": "",
+         "price": -106,
+         "sid": null,
+         "side": "Cleveland Cavaliers"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1028754075",
+       "event_sid": "1028754075",
+       "last_update": "2026-11-16T23:10:05Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "",
+         "price": -106,
+         "sid": "4419705786",
+         "side": "Chicago Bulls"
+        },
+        {
+         "line": -8.5,
+         "link": null,
+         "player": "",
+         "price": -117,
+         "sid": "4419705785",
+         "side": "Cleveland Cavaliers"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754075",
+       "event_sid": "1028754075",
+       "last_update": "2026-11-16T23:10:05Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754075?coupon={pickType}|4419705786|{wagerAmount}",
+         "player": "",
+         "price": -106,
+         "sid": "4419705786",
+         "side": "Chicago Bulls"
+        },
+        {
+         "line": -8.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754075?coupon={pickType}|4419705785|{wagerAmount}",
+         "player": "",
+         "price": -117,
+         "sid": "4419705785",
+         "side": "Cleveland Cavaliers"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/basketball/nba/chicago-bulls-cleveland-cavaliers-202611161900",
+       "event_sid": "33416368",
+       "last_update": "2026-11-16T23:09:56Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "",
+         "price": -105,
+         "sid": "2472175070",
+         "side": "Chicago Bulls"
+        },
+        {
+         "line": -8.5,
+         "link": null,
+         "player": "",
+         "price": -115,
+         "sid": "2472175071",
+         "side": "Cleveland Cavaliers"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/35020947",
+       "event_sid": "35020947",
+       "last_update": "2026-11-16T23:10:05Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0HC87246914P850_3",
+         "player": "",
+         "price": -114,
+         "sid": "0HC87246914P850_3",
+         "side": "Chicago Bulls"
+        },
+        {
+         "line": -8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0HC87246914N850_1",
+         "player": "",
+         "price": -106,
+         "sid": "0HC87246914N850_1",
+         "side": "Cleveland Cavaliers"
+        }
+       ]
+      },
+      "espnbet": {
+       "event_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/nba/event/d2170064-63cb-4e18-baab-4045f61fbe9c",
+       "event_sid": "d2170064-63cb-4e18-baab-4045f61fbe9c",
+       "last_update": "2026-11-16T23:10:06Z",
+       "market_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/nba/event/d2170064-63cb-4e18-baab-4045f61fbe9c/section/lines",
+       "market_sid": "736ea86e-a5df-478b-a0b9-e837136d2ca7",
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=6d6cfbee-2bdb-49e1-bcfb-e173fa9ac177&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": -110,
+         "sid": "6d6cfbee-2bdb-49e1-bcfb-e173fa9ac177",
+         "side": "Chicago Bulls"
+        },
+        {
+         "line": -8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=c05f1da4-e4a8-4768-b9b0-dab24058672b&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": -110,
+         "sid": "c05f1da4-e4a8-4768-b9b0-dab24058672b",
+         "side": "Cleveland Cavaliers"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/nba/chicago-bulls-%40-cleveland-cavaliers-36319064",
+       "event_sid": "36319064",
+       "last_update": "2026-11-16T23:10:07Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625364161&selectionId=237494",
+         "player": "",
+         "price": -110,
+         "sid": "237494",
+         "side": "Chicago Bulls"
+        },
+        {
+         "line": -8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625364161&selectionId=60424",
+         "player": "",
+         "price": -110,
+         "sid": "60424",
+         "side": "Cleveland Cavaliers"
+        }
+       ]
+      },
+      "hardrockbet": {
+       "event_link": "https://app.hardrock.bet/home/competition/nba/795564516464263580",
+       "event_sid": "795564516464263580",
+       "last_update": "2026-11-16T23:09:38Z",
+       "market_link": null,
+       "market_sid": "5438346820279468454",
+       "outcomes": [
+        {
+         "line": 8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4293306615020519846",
+         "player": "",
+         "price": -110,
+         "sid": "4293306615020519846",
+         "side": "Chicago Bulls"
+        },
+        {
+         "line": -8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7984006509650641318",
+         "player": "",
+         "price": -110,
+         "sid": "7984006509650641318",
+         "side": "Cleveland Cavaliers"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-16T23:10:33Z",
+     "kind": "lock",
+     "minutes_to_tip": 59.4,
+     "raw": "raw/2026-11-16/39dbdb7fdc78bd01ceac2fc7048bc1fd-spreads-lock-20261116T231033039589Z.json",
      "rev": 1
     }
    ],
@@ -19498,6 +19774,24 @@
    ],
    "sport": "basketball_nba"
   },
+  "basketball_nba|grizzlies@wizards|spreads": {
+   "api_away": "Memphis Grizzlies",
+   "api_home": "Washington Wizards",
+   "away": "Grizzlies",
+   "close": true,
+   "commence_time": "2026-11-17T00:10:00Z",
+   "event_id": "a613d212acef6f86d71b6ef99049fb7b",
+   "home": "Wizards",
+   "issues": [
+    "2026-11-16T23:10:33Z lock skipped: daily cap reached (30/30)"
+   ],
+   "market": "spreads",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [],
+   "sport": "basketball_nba"
+  },
   "basketball_nba|houston rockets@miami heat|player_points_assists": {
    "api_away": "Houston Rockets",
    "api_home": "Miami Heat",
@@ -29224,6 +29518,282 @@
      "kind": "lock",
      "minutes_to_tip": 284.4,
      "raw": "raw/2026-11-16/7c2ac54a119f461bf8fc1a23da536f29-player_rebounds-lock-20261116T192535451616Z.json",
+     "rev": 1
+    }
+   ],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|magic@celtics|spreads": {
+   "api_away": "Orlando Magic",
+   "api_home": "Boston Celtics",
+   "away": "Magic",
+   "close": true,
+   "commence_time": "2026-11-17T00:10:00Z",
+   "event_id": "7c2ac54a119f461bf8fc1a23da536f29",
+   "home": "Celtics",
+   "issues": [],
+   "market": "spreads",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1028754064",
+       "event_sid": "1028754064",
+       "last_update": "2026-11-16T23:10:05Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -9.5,
+         "link": null,
+         "player": "",
+         "price": -107,
+         "sid": "4419206230",
+         "side": "Boston Celtics"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "",
+         "price": -115,
+         "sid": "4419206231",
+         "side": "Orlando Magic"
+        }
+       ]
+      },
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/orlando-magic-at-boston-celtics-20050490",
+       "event_sid": "20050490",
+       "last_update": "2026-11-16T23:10:21Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -9.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=20050490-1579401342-2353466352&type=Single",
+         "player": "",
+         "price": -105,
+         "sid": "2353466352",
+         "side": "Boston Celtics"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=20050490-1579401342-2353466349&type=Single",
+         "player": "",
+         "price": -115,
+         "sid": "2353466349",
+         "side": "Orlando Magic"
+        }
+       ]
+      },
+      "betonlineag": {
+       "event_link": "https://sports.betonline.ag/sportsbook/basketball/nba/game/491182835",
+       "event_sid": "491182835",
+       "last_update": "2026-11-16T23:10:05Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -9.0,
+         "link": null,
+         "player": "",
+         "price": -114,
+         "sid": null,
+         "side": "Boston Celtics"
+        },
+        {
+         "line": 9.0,
+         "link": null,
+         "player": "",
+         "price": -106,
+         "sid": null,
+         "side": "Orlando Magic"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1028754064",
+       "event_sid": "1028754064",
+       "last_update": "2026-11-16T23:10:05Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -9.5,
+         "link": null,
+         "player": "",
+         "price": -107,
+         "sid": "4419206230",
+         "side": "Boston Celtics"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "",
+         "price": -115,
+         "sid": "4419206231",
+         "side": "Orlando Magic"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064",
+       "event_sid": "1028754064",
+       "last_update": "2026-11-16T23:10:05Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -9.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419206230|{wagerAmount}",
+         "player": "",
+         "price": -107,
+         "sid": "4419206230",
+         "side": "Boston Celtics"
+        },
+        {
+         "line": 9.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754064?coupon={pickType}|4419206231|{wagerAmount}",
+         "player": "",
+         "price": -115,
+         "sid": "4419206231",
+         "side": "Orlando Magic"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/basketball/nba/orlando-magic-boston-celtics-202611161900",
+       "event_sid": "33415192",
+       "last_update": "2026-11-16T23:09:56Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -9.0,
+         "link": null,
+         "player": "",
+         "price": -110,
+         "sid": "2472175520",
+         "side": "Boston Celtics"
+        },
+        {
+         "line": 9.0,
+         "link": null,
+         "player": "",
+         "price": -110,
+         "sid": "2472175518",
+         "side": "Orlando Magic"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/35020946",
+       "event_sid": "35020946",
+       "last_update": "2026-11-16T23:10:05Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -9.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0HC87246913N950_1",
+         "player": "",
+         "price": -102,
+         "sid": "0HC87246913N950_1",
+         "side": "Boston Celtics"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0HC87246913P950_3",
+         "player": "",
+         "price": -118,
+         "sid": "0HC87246913P950_3",
+         "side": "Orlando Magic"
+        }
+       ]
+      },
+      "espnbet": {
+       "event_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/nba/event/3aa232e0-6457-4a92-8506-3efd114f64d2",
+       "event_sid": "3aa232e0-6457-4a92-8506-3efd114f64d2",
+       "last_update": "2026-11-16T23:10:06Z",
+       "market_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/nba/event/3aa232e0-6457-4a92-8506-3efd114f64d2/section/lines",
+       "market_sid": "7dfdce32-bc40-427d-8352-9f00dd15b54d",
+       "outcomes": [
+        {
+         "line": -8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=439f5141-a57b-4ca8-b243-c0108ae3a9d3&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": -120,
+         "sid": "439f5141-a57b-4ca8-b243-c0108ae3a9d3",
+         "side": "Boston Celtics"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=a93ee306-3128-45df-ad62-8aab756ef20b&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": 100,
+         "sid": "a93ee306-3128-45df-ad62-8aab756ef20b",
+         "side": "Orlando Magic"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/nba/orlando-magic-%40-boston-celtics-36319063",
+       "event_sid": "36319063",
+       "last_update": "2026-11-16T23:10:07Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -9.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625364164&selectionId=60427",
+         "player": "",
+         "price": -105,
+         "sid": "60427",
+         "side": "Boston Celtics"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625364164&selectionId=237475",
+         "player": "",
+         "price": -115,
+         "sid": "237475",
+         "side": "Orlando Magic"
+        }
+       ]
+      },
+      "hardrockbet": {
+       "event_link": "https://app.hardrock.bet/home/competition/nba/2940403838999462316",
+       "event_sid": "2940403838999462316",
+       "last_update": "2026-11-16T23:09:38Z",
+       "market_link": null,
+       "market_sid": "4596418640536011177",
+       "outcomes": [
+        {
+         "line": -8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1655568083863077289",
+         "player": "",
+         "price": -120,
+         "sid": "1655568083863077289",
+         "side": "Boston Celtics"
+        },
+        {
+         "line": 8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6500315383006888361",
+         "player": "",
+         "price": 100,
+         "sid": "6500315383006888361",
+         "side": "Orlando Magic"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-16T23:10:33Z",
+     "kind": "lock",
+     "minutes_to_tip": 59.4,
+     "raw": "raw/2026-11-16/7c2ac54a119f461bf8fc1a23da536f29-spreads-lock-20261116T231033039589Z.json",
      "rev": 1
     }
    ],
@@ -86881,8 +87451,8 @@
   }
  },
  "issues": [],
- "spent_month": 363,
- "spent_today": 28,
+ "spent_month": 365,
+ "spent_today": 30,
  "stop": null,
- "updated": "2026-11-16T22:48:14Z"
+ "updated": "2026-11-16T23:10:33Z"
 }
