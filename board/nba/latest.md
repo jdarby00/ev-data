@@ -1,14 +1,11 @@
 # NBA board, 2026-11-15
 
-Slate updated 2026-11-15 20:05 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-15 21:22 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 15:35 Washington Wizards: Alex Sarr Day-To-Day → removed from report
-- 15:35 Washington Wizards: Bub Carrington Day-To-Day → removed from report
-- 15:45 San Antonio Spurs: De'Aaron Fox Day-To-Day → Out
 - 18:22 Dallas Mavericks: Santi Aldama Day-To-Day → Out
 - 18:22 Dallas Mavericks: Max Christie Day-To-Day → Out
 - 18:22 Dallas Mavericks: Kyrie Irving Day-To-Day → Out
@@ -21,6 +18,9 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 20:05 Milwaukee Bucks: Ryan Rollins Day-To-Day → Out
 - 20:05 Sacramento Kings: Precious Achiuwa Day-To-Day → Out
 - 20:05 Sacramento Kings: De'Andre Hunter not listed → Day-To-Day
+- 21:22 Oklahoma City Thunder: Ajay Mitchell Day-To-Day → removed from report
+- 21:22 Sacramento Kings: De'Andre Hunter Day-To-Day → Out
+- 21:22 Sacramento Kings: Zach LaVine not listed → Out
 
 ## IND @ PHI, 13:00 ET
 Line: PHI -8.5, total 225.5 (Draft Kings).
@@ -342,7 +342,7 @@ Line: OKC -11.5, total 223.5 (Draft Kings).
 | Shai Gilgeous-Alexander | – | 32.6 (4) → 32.3 (24.6) | 31/30.5 → 30 (18–44) | 4.2/4.2 → 4 (1–7) | 4.6/4.5 → 5 (2–9) | 1.6/2.2 → 2 (0–4) | 39 (24–56) |
 | Jalen Williams | Out | 31.7 (1.2) | 13.7/13.7 | 4.7/4.7 | 3.3/3.3 | 1/1 | – |
 | Chet Holmgren | Out | 30 (1.4) | 12/12 | 9.3/9.3 | 1.3/1.3 | 0.7/0.7 | – |
-| Ajay Mitchell | Day-To-Day | 29.4 (3.8) → 27.6 (19.9) | 20.8/18.5 → 17 (8–26) | 4/3.6 → 3 (1–6) | 2.6/3.3 → 3 (1–6) | 1/0.8 → 1 (0–2) | 23 (12–36) |
+| Ajay Mitchell | – | 29.4 (3.8) → 27.6 (19.9) | 20.8/18.5 → 17 (8–26) | 4/3.6 → 3 (1–6) | 2.6/3.3 → 3 (1–6) | 1/0.8 → 1 (0–2) | 23 (12–36) |
 | Jared McCain | – | 29 (2.6) → 27.4 (19.7) | 18.8/13.5 → 14 (6–23) | 4.6/3.6 → 3 (1–7) | 2/1.9 → 2 (0–4) | 3.6/2.3 → 2 (1–5) | 20 (10–31) |
 | Isaiah Hartenstein | – | 26.4 (3.9) → 26.7 (19) | 10.4/9 → 11 (4–18) | 11.2/10.5 → 11 (6–17) | 6/3.8 → 4 (2–8) | 0/0 → 0 (0–0) | 26 (14–39) |
 | Aday Mara | – | 24.8 (4.2) → 24 (16.3) | 11.6/8.6 → 9 (3–17) | 6.8/6 → 5 (2–9) | 1.4/1.3 → 1 (0–4) | 0.2/0.1 → 0 (0–2) | 16 (7–27) |
@@ -351,13 +351,13 @@ Line: OKC -11.5, total 223.5 (Draft Kings).
 | Bennett Stirtz | – | 21.6 (5.8) → 19.8 (12) | 9.4/7.7 → 8 (2–14) | 1.8/1.2 → 2 (0–5) | 1.4/1.2 → 1 (0–3) | 1.8/1.6 → 1 (0–3) | 12 (4–21) |
 | Micah Peavy | – | 20 (6.3) → 17.3 (9) | 3.2/3.2 → 4 (0–9) | 4.2/3.4 → 2 (0–5) | 0.2/0.1 → 0 (0–2) | 0.4/0.5 → 0 (0–1) | 7 (1–14) |
 
-**SAC** (1 rest day). Out: Precious Achiuwa. Freed minutes: 26.4. Out all season so far (already in the lines): Maxime Raynaud, Ben Simmons.
+**SAC** (1 rest day). Out: De'Andre Hunter, Zach LaVine, Precious Achiuwa. Freed minutes: 91.9. Out all season so far (already in the lines): Maxime Raynaud, Ben Simmons.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Darius Acuff Jr. | – | 37.8 (3) → 35.8 (28.1) | 24.4/25.4 → 20 (11–30) | 3.8/3.8 → 5 (2–8) | 8.4/7.2 → 5 (2–9) | 3.2/3.1 → 2 (1–5) | 31 (18–44) |
-| De'Andre Hunter | Day-To-Day | 36.2 (4.6) → 32.8 (25.1) | 14.6/14.3 → 16 (8–25) | 4.2/4.5 → 4 (2–8) | 1.8/1.4 → 2 (0–4) | 1.6/2.1 → 2 (0–4) | 22 (11–33) |
-| Zach LaVine | – | 32.8 (5.8) → 30.9 (23.1) | 18.6/21.4 → 18 (9–28) | 3.6/3.2 → 3 (1–5) | 2.8/2.8 → 2 (1–5) | 2.8/2.8 → 2 (1–5) | 24 (13–36) |
+| De'Andre Hunter | Out | 36.2 (4.6) | 14.6/14.3 | 4.2/4.5 | 1.8/1.4 | 1.6/2.1 | – |
+| Zach LaVine | Out | 32.8 (5.8) | 18.6/21.4 | 3.6/3.2 | 2.8/2.8 | 2.8/2.8 | – |
 | Domantas Sabonis | – | 31.2 (4.5) → 31 (23.3) | 12.6/14.5 → 14 (6–22) | 10/13.2 → 11 (6–17) | 4/5.8 → 4 (2–8) | 0.4/0.3 → 0 (0–1) | 30 (17–44) |
 | Keegan Murray | – | 28.2 (6.1) → 28.5 (20.1) | 10.2/10.2 → 11 (4–19) | 3.2/3.2 → 4 (1–7) | 1.6/1.6 → 1 (0–3) | 0.8/0.8 → 1 (0–3) | 17 (7–27) |
 | Precious Achiuwa | Out | 23.2 (9.4) | 7.8/10.4 | 6.8/6.4 | 1.2/1.1 | 0.6/0.4 | – |

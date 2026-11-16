@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "updated_et": "2026-11-15 20:05",
+ "updated_et": "2026-11-15 21:22",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -67,7 +67,7 @@
    "home": "BOS",
    "away_name": "Dallas Mavericks",
    "home_name": "Boston Celtics",
-   "state": "in",
+   "state": "post",
    "spread_text": "BOS -14.5",
    "spread": -14.5,
    "total": 218.5,
@@ -81,7 +81,7 @@
    "home": "TOR",
    "away_name": "New York Knicks",
    "home_name": "Toronto Raptors",
-   "state": "in",
+   "state": "post",
    "spread_text": "NY -5.5",
    "spread": 5.5,
    "total": 217.5,
@@ -109,7 +109,7 @@
    "home": "MIL",
    "away_name": "Atlanta Hawks",
    "home_name": "Milwaukee Bucks",
-   "state": "pre",
+   "state": "in",
    "spread_text": "ATL -8.5",
    "spread": 8.5,
    "total": 233.5,
@@ -123,7 +123,7 @@
    "home": "SAC",
    "away_name": "Oklahoma City Thunder",
    "home_name": "Sacramento Kings",
-   "state": "pre",
+   "state": "in",
    "spread_text": "OKC -11.5",
    "spread": 11.5,
    "total": 223.5,
@@ -353,13 +353,6 @@
     "updated": "2026-11-15T01:14Z"
    },
    {
-    "player": "Ajay Mitchell",
-    "status": "Day-To-Day",
-    "detail": "Mitchell (ankle) is questionable to suit up for Sunday's game against the Kings.",
-    "type": "day-to-day",
-    "updated": "2026-11-15T01:10Z"
-   },
-   {
     "player": "Thomas Sorber",
     "status": "Out",
     "detail": "Sorber (knee) has been ruled out for Friday's game against the Clippers.",
@@ -436,18 +429,25 @@
   ],
   "Sacramento Kings": [
    {
+    "player": "De'Andre Hunter",
+    "status": "Out",
+    "detail": "Hunter (hip) is out for Sunday's game against the Thunder.",
+    "type": "out",
+    "updated": "2026-11-16T01:18Z"
+   },
+   {
+    "player": "Zach LaVine",
+    "status": "Out",
+    "detail": "LaVine is out for Sunday's game against Oklahoma City due to illness, Brandon Rahbar of DailyThunder.com reports.",
+    "type": "out",
+    "updated": "2026-11-16T01:06Z"
+   },
+   {
     "player": "Precious Achiuwa",
     "status": "Out",
     "detail": "Achiuwa (ankle) has been ruled out for Sunday's game against the Thunder, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
     "type": "out",
     "updated": "2026-11-16T00:24Z"
-   },
-   {
-    "player": "De'Andre Hunter",
-    "status": "Day-To-Day",
-    "detail": "Hunter is questionable for Sunday's game against the Thunder due to left hip soreness.",
-    "type": "day-to-day",
-    "updated": "2026-11-16T00:18Z"
    },
    {
     "player": "Maxime Raynaud",
@@ -788,6 +788,27 @@
    "player": "De'Andre Hunter",
    "from": "not listed",
    "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-15 21:22",
+   "team": "Oklahoma City Thunder",
+   "player": "Ajay Mitchell",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-15 21:22",
+   "team": "Sacramento Kings",
+   "player": "De'Andre Hunter",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-15 21:22",
+   "team": "Sacramento Kings",
+   "player": "Zach LaVine",
+   "from": "not listed",
+   "to": "Out"
   }
  ]
 }
