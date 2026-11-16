@@ -1,11 +1,12 @@
 {
- "credits_remaining": 159,
+ "credits_remaining": 154,
  "date": "2026-11-16",
  "groups": {
   "basketball_nba|grizzlies@wizards|player_points_alternate": {
    "api_away": "Memphis Grizzlies",
    "api_home": "Washington Wizards",
    "away": "Grizzlies",
+   "close": true,
    "commence_time": "2026-11-17T00:10:00Z",
    "event_id": "a613d212acef6f86d71b6ef99049fb7b",
    "home": "Wizards",
@@ -7104,6 +7105,7 @@
    "api_away": "Orlando Magic",
    "api_home": "Boston Celtics",
    "away": "Magic",
+   "close": true,
    "commence_time": "2026-11-17T00:10:00Z",
    "event_id": "7c2ac54a119f461bf8fc1a23da536f29",
    "home": "Celtics",
@@ -10984,6 +10986,7 @@
    "api_away": "Phoenix Suns",
    "api_home": "Denver Nuggets",
    "away": "Suns",
+   "close": true,
    "commence_time": "2026-11-17T02:10:00Z",
    "event_id": "c2c9d9729305c19d4a453f92c83feae8",
    "home": "Nuggets",
@@ -14440,6 +14443,7 @@
    "api_away": "Portland Trail Blazers",
    "api_home": "Minnesota Timberwolves",
    "away": "Trail Blazers",
+   "close": true,
    "commence_time": "2026-11-17T01:10:00Z",
    "event_id": "b9dd15890ac45468b3e3ec1092f67c18",
    "home": "Timberwolves",
@@ -18529,6 +18533,7 @@
    "api_away": "Golden State Warriors",
    "api_home": "New Orleans Pelicans",
    "away": "Warriors",
+   "close": true,
    "commence_time": "2026-11-17T01:10:00Z",
    "event_id": "77094bf6e4d9bf58f3cb98b6a4fb3b22",
    "home": "Pelicans",
@@ -25883,6 +25888,7 @@
    "api_away": "Golden State Warriors",
    "api_home": "New Orleans Pelicans",
    "away": "Warriors",
+   "close": true,
    "commence_time": "2026-11-17T01:10:00Z",
    "event_id": "77094bf6e4d9bf58f3cb98b6a4fb3b22",
    "home": "Pelicans",
@@ -29550,11 +29556,1286 @@
     }
    ],
    "sport": "basketball_nba"
+  },
+  "basketball_ncaab|abilene@missouri|h2h": {
+   "api_away": "Abilene Christian Wildcats",
+   "api_home": "Missouri St Bears",
+   "away": "Abilene",
+   "close": false,
+   "commence_time": "2026-11-17T01:00:00Z",
+   "event_id": "34ef63b5d05083472f9c48c62ad3b7cf",
+   "home": "Missouri",
+   "issues": [],
+   "market": "h2h",
+   "players": [],
+   "requested_rev": 1,
+   "snapshots": [
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1028934614",
+       "event_sid": "1028934614",
+       "last_update": "2026-11-16T16:25:14Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": 205,
+         "sid": "4419131204",
+         "side": "Abilene Christian Wildcats"
+        },
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": -265,
+         "sid": "4419131203",
+         "side": "Missouri St Bears"
+        }
+       ]
+      },
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/abilene-christian-at-missouri-state-20110422",
+       "event_sid": "20110422",
+       "last_update": "2026-11-16T16:25:01Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=20110422-1579225449-2353024750&type=Single",
+         "player": "",
+         "price": 200,
+         "sid": "2353024750",
+         "side": "Abilene Christian Wildcats"
+        },
+        {
+         "line": null,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=20110422-1579225449-2353024751&type=Single",
+         "player": "",
+         "price": -250,
+         "sid": "2353024751",
+         "side": "Missouri St Bears"
+        }
+       ]
+      },
+      "betonlineag": {
+       "event_link": "https://sports.betonline.ag/sportsbook/basketball/ncaa/game/491182863",
+       "event_sid": "491182863",
+       "last_update": "2026-11-16T16:24:34Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": 207,
+         "sid": null,
+         "side": "Abilene Christian Wildcats"
+        },
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": -250,
+         "sid": null,
+         "side": "Missouri St Bears"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1028934614",
+       "event_sid": "1028934614",
+       "last_update": "2026-11-16T16:25:14Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": 205,
+         "sid": "4419131204",
+         "side": "Abilene Christian Wildcats"
+        },
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": -265,
+         "sid": "4419131203",
+         "side": "Missouri St Bears"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1028934614",
+       "event_sid": "1028934614",
+       "last_update": "2026-11-16T16:24:47Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028934614?coupon={pickType}|4419131204|{wagerAmount}",
+         "player": "",
+         "price": 205,
+         "sid": "4419131204",
+         "side": "Abilene Christian Wildcats"
+        },
+        {
+         "line": null,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028934614?coupon={pickType}|4419131203|{wagerAmount}",
+         "player": "",
+         "price": -265,
+         "sid": "4419131203",
+         "side": "Missouri St Bears"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/basketball/college-basketball/abilene-christian-missouri-state-202611162000",
+       "event_sid": "33551404",
+       "last_update": "2026-11-16T16:24:42Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": 200,
+         "sid": "2475310296",
+         "side": "Abilene Christian Wildcats"
+        },
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": -240,
+         "sid": "2475310297",
+         "side": "Missouri St Bears"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/35031636",
+       "event_sid": "35031636",
+       "last_update": "2026-11-16T16:25:15Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0ML87273259_3",
+         "player": "",
+         "price": 205,
+         "sid": "0ML87273259_3",
+         "side": "Abilene Christian Wildcats"
+        },
+        {
+         "line": null,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0ML87273259_1",
+         "player": "",
+         "price": -250,
+         "sid": "0ML87273259_1",
+         "side": "Missouri St Bears"
+        }
+       ]
+      },
+      "espnbet": {
+       "event_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/ncaab/event/a6c82f77-14b8-46c9-a57f-fd8233be75f3",
+       "event_sid": "a6c82f77-14b8-46c9-a57f-fd8233be75f3",
+       "last_update": "2026-11-16T16:25:16Z",
+       "market_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/ncaab/event/a6c82f77-14b8-46c9-a57f-fd8233be75f3/section/lines",
+       "market_sid": "1abb2b05-d1f2-48a7-ac16-8f8bf6f85089",
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=ac220736-862e-4f55-bef2-65d9caf10e33&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": 200,
+         "sid": "ac220736-862e-4f55-bef2-65d9caf10e33",
+         "side": "Abilene Christian Wildcats"
+        },
+        {
+         "line": null,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=e5af1056-bb98-40cc-bbce-1688509412b3&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": -240,
+         "sid": "e5af1056-bb98-40cc-bbce-1688509412b3",
+         "side": "Missouri St Bears"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/ncaa-basketball-mens-games/abilene-christian-%40-missouri-state-36326096",
+       "event_sid": "36326096",
+       "last_update": "2026-11-16T16:24:33Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625797438&selectionId=17630412",
+         "player": "",
+         "price": 202,
+         "sid": "17630412",
+         "side": "Abilene Christian Wildcats"
+        },
+        {
+         "line": null,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625797438&selectionId=1399579",
+         "player": "",
+         "price": -250,
+         "sid": "1399579",
+         "side": "Missouri St Bears"
+        }
+       ]
+      },
+      "hardrockbet": {
+       "event_link": "https://app.hardrock.bet/home/competition/ncaam/3441907459172729257",
+       "event_sid": "3441907459172729257",
+       "last_update": "2026-11-16T16:24:35Z",
+       "market_link": null,
+       "market_sid": "4907852173777437078",
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4193468682885792150",
+         "player": "",
+         "price": 210,
+         "sid": "4193468682885792150",
+         "side": "Abilene Christian Wildcats"
+        },
+        {
+         "line": null,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/162747016389198230",
+         "player": "",
+         "price": -260,
+         "sid": "162747016389198230",
+         "side": "Missouri St Bears"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-16T16:25:18Z",
+     "kind": "lock",
+     "minutes_to_tip": 514.7,
+     "raw": "raw/2026-11-16/34ef63b5d05083472f9c48c62ad3b7cf-h2h-lock-20261116T162518144235Z.json",
+     "rev": 1
+    }
+   ],
+   "sport": "basketball_ncaab"
+  },
+  "basketball_ncaab|iona@umbc|h2h": {
+   "api_away": "Iona Gaels",
+   "api_home": "UMBC Retrievers",
+   "away": "Iona",
+   "close": false,
+   "commence_time": "2026-11-16T23:00:00Z",
+   "event_id": "e0d6bcc95d3255db6ac0b3c48284edc6",
+   "home": "UMBC",
+   "issues": [],
+   "market": "h2h",
+   "players": [],
+   "requested_rev": 1,
+   "snapshots": [
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1028813475",
+       "event_sid": "1028813475",
+       "last_update": "2026-11-16T16:25:14Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": -150,
+         "sid": "4419075272",
+         "side": "Iona Gaels"
+        },
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": 120,
+         "sid": "4419075271",
+         "side": "UMBC Retrievers"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1028813475",
+       "event_sid": "1028813475",
+       "last_update": "2026-11-16T16:25:14Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": -150,
+         "sid": "4419075272",
+         "side": "Iona Gaels"
+        },
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": 120,
+         "sid": "4419075271",
+         "side": "UMBC Retrievers"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1028813475",
+       "event_sid": "1028813475",
+       "last_update": "2026-11-16T16:24:46Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028813475?coupon={pickType}|4419075272|{wagerAmount}",
+         "player": "",
+         "price": -150,
+         "sid": "4419075272",
+         "side": "Iona Gaels"
+        },
+        {
+         "line": null,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028813475?coupon={pickType}|4419075271|{wagerAmount}",
+         "player": "",
+         "price": 120,
+         "sid": "4419075271",
+         "side": "UMBC Retrievers"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/basketball/college-basketball/iona-md-baltimore-county-202611161800",
+       "event_sid": "33546996",
+       "last_update": "2026-11-16T16:24:42Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": -135,
+         "sid": "2475225452",
+         "side": "Iona Gaels"
+        },
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": 115,
+         "sid": "2475225013",
+         "side": "UMBC Retrievers"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/35032119",
+       "event_sid": "35032119",
+       "last_update": "2026-11-16T16:25:15Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0ML87274293_3",
+         "player": "",
+         "price": -142,
+         "sid": "0ML87274293_3",
+         "side": "Iona Gaels"
+        },
+        {
+         "line": null,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0ML87274293_1",
+         "player": "",
+         "price": 120,
+         "sid": "0ML87274293_1",
+         "side": "UMBC Retrievers"
+        }
+       ]
+      },
+      "espnbet": {
+       "event_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/ncaab/event/dffc8f82-ea76-4e7a-b472-0beae3dbf890",
+       "event_sid": "dffc8f82-ea76-4e7a-b472-0beae3dbf890",
+       "last_update": "2026-11-16T16:25:16Z",
+       "market_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/ncaab/event/dffc8f82-ea76-4e7a-b472-0beae3dbf890/section/lines",
+       "market_sid": "941d71f2-98ca-4d2e-b46b-5d1af7b451af",
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=3fc07ed1-dd22-4d56-a472-c68c66d16cb0&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": -145,
+         "sid": "3fc07ed1-dd22-4d56-a472-c68c66d16cb0",
+         "side": "Iona Gaels"
+        },
+        {
+         "line": null,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=f5bbd583-0759-400e-a30a-b9ca47a52c73&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": 125,
+         "sid": "f5bbd583-0759-400e-a30a-b9ca47a52c73",
+         "side": "UMBC Retrievers"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/ncaa-basketball-mens-games/iona-%40-umbc-36326427",
+       "event_sid": "36326427",
+       "last_update": "2026-11-16T16:24:33Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625843090&selectionId=662739",
+         "player": "",
+         "price": -152,
+         "sid": "662739",
+         "side": "Iona Gaels"
+        },
+        {
+         "line": null,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625843090&selectionId=2909588",
+         "player": "",
+         "price": 126,
+         "sid": "2909588",
+         "side": "UMBC Retrievers"
+        }
+       ]
+      },
+      "hardrockbet": {
+       "event_link": "https://app.hardrock.bet/home/competition/ncaam/1541856984469471644",
+       "event_sid": "1541856984469471644",
+       "last_update": "2026-11-16T16:24:34Z",
+       "market_link": null,
+       "market_sid": "7516444936605139372",
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5534966653678387628",
+         "player": "",
+         "price": -150,
+         "sid": "5534966653678387628",
+         "side": "Iona Gaels"
+        },
+        {
+         "line": null,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/9115222804321665452",
+         "player": "",
+         "price": 120,
+         "sid": "9115222804321665452",
+         "side": "UMBC Retrievers"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-16T16:25:18Z",
+     "kind": "lock",
+     "minutes_to_tip": 394.7,
+     "raw": "raw/2026-11-16/e0d6bcc95d3255db6ac0b3c48284edc6-h2h-lock-20261116T162518144235Z.json",
+     "rev": 1
+    }
+   ],
+   "sport": "basketball_ncaab"
+  },
+  "basketball_ncaab|tarleton@drake|h2h": {
+   "api_away": "Tarleton State Texans",
+   "api_home": "Drake Bulldogs",
+   "away": "Tarleton",
+   "close": false,
+   "commence_time": "2026-11-17T00:30:00Z",
+   "event_id": "9c9906480af93da224cd3dc2f4351b9d",
+   "home": "Drake",
+   "issues": [],
+   "market": "h2h",
+   "players": [],
+   "requested_rev": 1,
+   "snapshots": [
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1029150205",
+       "event_sid": "1029150205",
+       "last_update": "2026-11-16T16:25:14Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": -435,
+         "sid": "4419111086",
+         "side": "Drake Bulldogs"
+        },
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": 320,
+         "sid": "4419111087",
+         "side": "Tarleton State Texans"
+        }
+       ]
+      },
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/tarleton-state-at-drake-20110418",
+       "event_sid": "20110418",
+       "last_update": "2026-11-16T16:25:01Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=20110418-1579225437-2353024743&type=Single",
+         "player": "",
+         "price": -450,
+         "sid": "2353024743",
+         "side": "Drake Bulldogs"
+        },
+        {
+         "line": null,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=20110418-1579225437-2353024742&type=Single",
+         "player": "",
+         "price": 340,
+         "sid": "2353024742",
+         "side": "Tarleton State Texans"
+        }
+       ]
+      },
+      "betonlineag": {
+       "event_link": "https://sports.betonline.ag/sportsbook/basketball/ncaa/game/491182858",
+       "event_sid": "491182858",
+       "last_update": "2026-11-16T16:24:34Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": -475,
+         "sid": null,
+         "side": "Drake Bulldogs"
+        },
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": 367,
+         "sid": null,
+         "side": "Tarleton State Texans"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1029150205",
+       "event_sid": "1029150205",
+       "last_update": "2026-11-16T16:25:14Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": -435,
+         "sid": "4419111086",
+         "side": "Drake Bulldogs"
+        },
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": 320,
+         "sid": "4419111087",
+         "side": "Tarleton State Texans"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1029150205",
+       "event_sid": "1029150205",
+       "last_update": "2026-11-16T16:24:47Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029150205?coupon={pickType}|4419111086|{wagerAmount}",
+         "player": "",
+         "price": -435,
+         "sid": "4419111086",
+         "side": "Drake Bulldogs"
+        },
+        {
+         "line": null,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029150205?coupon={pickType}|4419111087|{wagerAmount}",
+         "player": "",
+         "price": 320,
+         "sid": "4419111087",
+         "side": "Tarleton State Texans"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/basketball/college-basketball/tarleton-state-drake-202611161930",
+       "event_sid": "33549231",
+       "last_update": "2026-11-16T16:24:42Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": -470,
+         "sid": "2475289412",
+         "side": "Drake Bulldogs"
+        },
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": 345,
+         "sid": "2475289411",
+         "side": "Tarleton State Texans"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/35031634",
+       "event_sid": "35031634",
+       "last_update": "2026-11-16T16:25:15Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0ML87273256_1",
+         "player": "",
+         "price": -470,
+         "sid": "0ML87273256_1",
+         "side": "Drake Bulldogs"
+        },
+        {
+         "line": null,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0ML87273256_3",
+         "player": "",
+         "price": 360,
+         "sid": "0ML87273256_3",
+         "side": "Tarleton State Texans"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/ncaa-basketball-mens-games/tarleton-state-%40-drake-36326081",
+       "event_sid": "36326081",
+       "last_update": "2026-11-16T16:24:33Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625796458&selectionId=735897",
+         "player": "",
+         "price": -430,
+         "sid": "735897",
+         "side": "Drake Bulldogs"
+        },
+        {
+         "line": null,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625796458&selectionId=37225957",
+         "player": "",
+         "price": 330,
+         "sid": "37225957",
+         "side": "Tarleton State Texans"
+        }
+       ]
+      },
+      "hardrockbet": {
+       "event_link": "https://app.hardrock.bet/home/competition/ncaam/2331258456406884761",
+       "event_sid": "2331258456406884761",
+       "last_update": "2026-11-16T16:24:35Z",
+       "market_link": null,
+       "market_sid": "8810914252457116046",
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3402091099985150350",
+         "player": "",
+         "price": -425,
+         "sid": "3402091099985150350",
+         "side": "Drake Bulldogs"
+        },
+        {
+         "line": null,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8029539717108334990",
+         "player": "",
+         "price": 325,
+         "sid": "8029539717108334990",
+         "side": "Tarleton State Texans"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-16T16:25:18Z",
+     "kind": "lock",
+     "minutes_to_tip": 484.7,
+     "raw": "raw/2026-11-16/9c9906480af93da224cd3dc2f4351b9d-h2h-lock-20261116T162518144235Z.json",
+     "rev": 1
+    }
+   ],
+   "sport": "basketball_ncaab"
+  },
+  "basketball_ncaab|tommies@sharks|spreads": {
+   "api_away": "St. Thomas (MN) Tommies",
+   "api_home": "LIU Sharks",
+   "away": "Tommies",
+   "close": false,
+   "commence_time": "2026-11-17T00:00:00Z",
+   "event_id": "338b21f638d734fbd36a5e77eb3b0bbd",
+   "home": "Sharks",
+   "issues": [],
+   "market": "spreads",
+   "players": [],
+   "requested_rev": 1,
+   "snapshots": [
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1028994154",
+       "event_sid": "1028994154",
+       "last_update": "2026-11-16T16:25:14Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -1.5,
+         "link": null,
+         "player": "",
+         "price": -105,
+         "sid": "4419748937",
+         "side": "LIU Sharks"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "",
+         "price": -117,
+         "sid": "4419748938",
+         "side": "St. Thomas (MN) Tommies"
+        }
+       ]
+      },
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/st.-thomas-minnesota-at-long-island-20110434",
+       "event_sid": "20110434",
+       "last_update": "2026-11-16T16:25:01Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 1.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=20110434-1579493483-2353724561&type=Single",
+         "player": "",
+         "price": -120,
+         "sid": "2353724561",
+         "side": "LIU Sharks"
+        },
+        {
+         "line": -1.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=20110434-1579493483-2353724560&type=Single",
+         "player": "",
+         "price": 100,
+         "sid": "2353724560",
+         "side": "St. Thomas (MN) Tommies"
+        }
+       ]
+      },
+      "betonlineag": {
+       "event_link": "https://sports.betonline.ag/sportsbook/basketball/ncaa/game/491182846",
+       "event_sid": "491182846",
+       "last_update": "2026-11-16T16:24:34Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 0.0,
+         "link": null,
+         "player": "",
+         "price": -105,
+         "sid": null,
+         "side": "LIU Sharks"
+        },
+        {
+         "line": 0.0,
+         "link": null,
+         "player": "",
+         "price": -115,
+         "sid": null,
+         "side": "St. Thomas (MN) Tommies"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1028994154",
+       "event_sid": "1028994154",
+       "last_update": "2026-11-16T16:25:14Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -1.5,
+         "link": null,
+         "player": "",
+         "price": -105,
+         "sid": "4419748937",
+         "side": "LIU Sharks"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "",
+         "price": -117,
+         "sid": "4419748938",
+         "side": "St. Thomas (MN) Tommies"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1028994154",
+       "event_sid": "1028994154",
+       "last_update": "2026-11-16T16:24:47Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -1.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028994154?coupon={pickType}|4419748937|{wagerAmount}",
+         "player": "",
+         "price": -106,
+         "sid": "4419748937",
+         "side": "LIU Sharks"
+        },
+        {
+         "line": 1.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028994154?coupon={pickType}|4419748938|{wagerAmount}",
+         "player": "",
+         "price": -118,
+         "sid": "4419748938",
+         "side": "St. Thomas (MN) Tommies"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/basketball/college-basketball/st-thomas-mn-long-island-202611161900",
+       "event_sid": "33549799",
+       "last_update": "2026-11-16T16:24:42Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -1.0,
+         "link": null,
+         "player": "",
+         "price": -110,
+         "sid": "2475268223",
+         "side": "LIU Sharks"
+        },
+        {
+         "line": 1.0,
+         "link": null,
+         "player": "",
+         "price": -110,
+         "sid": "2475268222",
+         "side": "St. Thomas (MN) Tommies"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/35032123",
+       "event_sid": "35032123",
+       "last_update": "2026-11-16T16:25:15Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0HC87274297P150_1",
+         "player": "",
+         "price": -125,
+         "sid": "0HC87274297P150_1",
+         "side": "LIU Sharks"
+        },
+        {
+         "line": -1.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0HC87274297N150_3",
+         "player": "",
+         "price": 105,
+         "sid": "0HC87274297N150_3",
+         "side": "St. Thomas (MN) Tommies"
+        }
+       ]
+      },
+      "espnbet": {
+       "event_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/ncaab/event/3a40849b-c407-4bd5-a6c2-77254cba3d33",
+       "event_sid": "3a40849b-c407-4bd5-a6c2-77254cba3d33",
+       "last_update": "2026-11-16T16:25:16Z",
+       "market_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/ncaab/event/3a40849b-c407-4bd5-a6c2-77254cba3d33/section/lines",
+       "market_sid": "a6815798-147a-4410-a320-ce2310c03ba7",
+       "outcomes": [
+        {
+         "line": -1.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=63619d7f-64c4-4d8b-96d2-4c72b4f28804&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": 100,
+         "sid": "63619d7f-64c4-4d8b-96d2-4c72b4f28804",
+         "side": "LIU Sharks"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=f63bf534-2de3-4110-8f09-78b834d0969f&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": -125,
+         "sid": "f63bf534-2de3-4110-8f09-78b834d0969f",
+         "side": "St. Thomas (MN) Tommies"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/ncaa-basketball-mens-games/st-thomas-%40-long-island-university-36326455",
+       "event_sid": "36326455",
+       "last_update": "2026-11-16T16:24:33Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625846105&selectionId=42024495",
+         "player": "",
+         "price": -118,
+         "sid": "42024495",
+         "side": "LIU Sharks"
+        },
+        {
+         "line": -1.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625846105&selectionId=50026764",
+         "player": "",
+         "price": -104,
+         "sid": "50026764",
+         "side": "St. Thomas (MN) Tommies"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-16T16:25:18Z",
+     "kind": "lock",
+     "minutes_to_tip": 454.7,
+     "raw": "raw/2026-11-16/338b21f638d734fbd36a5e77eb3b0bbd-spreads-lock-20261116T162518144235Z.json",
+     "rev": 1
+    }
+   ],
+   "sport": "basketball_ncaab"
+  },
+  "basketball_ncaab|western kentucky@tulsa|h2h": {
+   "api_away": "Western Kentucky Hilltoppers",
+   "api_home": "Tulsa Golden Hurricane",
+   "away": "Western Kentucky",
+   "close": false,
+   "commence_time": "2026-11-17T00:00:00Z",
+   "event_id": "3ea03086daebd51dbd93ac315be259c8",
+   "home": "Tulsa",
+   "issues": [],
+   "market": "h2h",
+   "players": [],
+   "requested_rev": 1,
+   "snapshots": [
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1029221999",
+       "event_sid": "1029221999",
+       "last_update": "2026-11-16T16:25:14Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": -265,
+         "sid": "4419100919",
+         "side": "Tulsa Golden Hurricane"
+        },
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": 205,
+         "sid": "4419100921",
+         "side": "Western Kentucky Hilltoppers"
+        }
+       ]
+      },
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/western-kentucky-at-tulsa-20110414",
+       "event_sid": "20110414",
+       "last_update": "2026-11-16T16:25:01Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=20110414-1579225425-2353024735&type=Single",
+         "player": "",
+         "price": -285,
+         "sid": "2353024735",
+         "side": "Tulsa Golden Hurricane"
+        },
+        {
+         "line": null,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=20110414-1579225425-2353024734&type=Single",
+         "player": "",
+         "price": 225,
+         "sid": "2353024734",
+         "side": "Western Kentucky Hilltoppers"
+        }
+       ]
+      },
+      "betonlineag": {
+       "event_link": "https://sports.betonline.ag/sportsbook/basketball/ncaa/game/491182864",
+       "event_sid": "491182864",
+       "last_update": "2026-11-16T16:24:34Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": -275,
+         "sid": null,
+         "side": "Tulsa Golden Hurricane"
+        },
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": 226,
+         "sid": null,
+         "side": "Western Kentucky Hilltoppers"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1029221999",
+       "event_sid": "1029221999",
+       "last_update": "2026-11-16T16:25:14Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": -265,
+         "sid": "4419100919",
+         "side": "Tulsa Golden Hurricane"
+        },
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": 205,
+         "sid": "4419100921",
+         "side": "Western Kentucky Hilltoppers"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1029221999",
+       "event_sid": "1029221999",
+       "last_update": "2026-11-16T16:24:47Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029221999?coupon={pickType}|4419100919|{wagerAmount}",
+         "player": "",
+         "price": -265,
+         "sid": "4419100919",
+         "side": "Tulsa Golden Hurricane"
+        },
+        {
+         "line": null,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1029221999?coupon={pickType}|4419100921|{wagerAmount}",
+         "player": "",
+         "price": 205,
+         "sid": "4419100921",
+         "side": "Western Kentucky Hilltoppers"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/basketball/college-basketball/western-kentucky-tulsa-202611161900",
+       "event_sid": "33549796",
+       "last_update": "2026-11-16T16:24:42Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": -285,
+         "sid": "2475268168",
+         "side": "Tulsa Golden Hurricane"
+        },
+        {
+         "line": null,
+         "link": null,
+         "player": "",
+         "price": 235,
+         "sid": "2475268167",
+         "side": "Western Kentucky Hilltoppers"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/35031643",
+       "event_sid": "35031643",
+       "last_update": "2026-11-16T16:25:15Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0ML87273264_1",
+         "player": "",
+         "price": -285,
+         "sid": "0ML87273264_1",
+         "side": "Tulsa Golden Hurricane"
+        },
+        {
+         "line": null,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0ML87273264_3",
+         "player": "",
+         "price": 230,
+         "sid": "0ML87273264_3",
+         "side": "Western Kentucky Hilltoppers"
+        }
+       ]
+      },
+      "espnbet": {
+       "event_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/ncaab/event/fb08c6f0-ca0c-4f36-98e8-7e53141804c1",
+       "event_sid": "fb08c6f0-ca0c-4f36-98e8-7e53141804c1",
+       "last_update": "2026-11-16T16:25:16Z",
+       "market_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/ncaab/event/fb08c6f0-ca0c-4f36-98e8-7e53141804c1/section/lines",
+       "market_sid": "3c724f7b-a841-4e5a-94b1-b7f2cc4e95bc",
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=e533f061-3f9b-46a0-a6d4-ddaea545d3bb&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": -270,
+         "sid": "e533f061-3f9b-46a0-a6d4-ddaea545d3bb",
+         "side": "Tulsa Golden Hurricane"
+        },
+        {
+         "line": null,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=b6b9d28a-7f2d-4fba-afad-033332943a10&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": 220,
+         "sid": "b6b9d28a-7f2d-4fba-afad-033332943a10",
+         "side": "Western Kentucky Hilltoppers"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/ncaa-basketball-mens-games/western-kentucky-%40-tulsa-36326070",
+       "event_sid": "36326070",
+       "last_update": "2026-11-16T16:24:33Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625795111&selectionId=711056",
+         "player": "",
+         "price": -280,
+         "sid": "711056",
+         "side": "Tulsa Golden Hurricane"
+        },
+        {
+         "line": null,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625795111&selectionId=716828",
+         "player": "",
+         "price": 225,
+         "sid": "716828",
+         "side": "Western Kentucky Hilltoppers"
+        }
+       ]
+      },
+      "hardrockbet": {
+       "event_link": "https://app.hardrock.bet/home/competition/ncaam/1078035103067799962",
+       "event_sid": "1078035103067799962",
+       "last_update": "2026-11-16T16:24:35Z",
+       "market_link": null,
+       "market_sid": "5912943000000004514",
+       "outcomes": [
+        {
+         "line": null,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2188466108164604322",
+         "player": "",
+         "price": -260,
+         "sid": "2188466108164604322",
+         "side": "Tulsa Golden Hurricane"
+        },
+        {
+         "line": null,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2351440119680074146",
+         "player": "",
+         "price": 210,
+         "sid": "2351440119680074146",
+         "side": "Western Kentucky Hilltoppers"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-16T16:25:18Z",
+     "kind": "lock",
+     "minutes_to_tip": 454.7,
+     "raw": "raw/2026-11-16/3ea03086daebd51dbd93ac315be259c8-h2h-lock-20261116T162518144235Z.json",
+     "rev": 1
+    }
+   ],
+   "sport": "basketball_ncaab"
   }
  },
  "issues": [],
- "spent_month": 341,
- "spent_today": 6,
+ "spent_month": 346,
+ "spent_today": 11,
  "stop": null,
- "updated": "2026-11-16T15:41:05Z"
+ "updated": "2026-11-16T16:25:18Z"
 }
