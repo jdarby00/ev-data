@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "updated_et": "2026-11-16 05:20",
+ "updated_et": "2026-11-16 14:05",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -15,7 +15,7 @@
    "spread_text": "BOS -8.5",
    "spread": -8.5,
    "total": 212.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -28,8 +28,8 @@
    "state": "pre",
    "spread_text": "CLE -8.5",
    "spread": -8.5,
-   "total": 242.5,
-   "odds_source": "Draft Kings",
+   "total": 241.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -40,10 +40,10 @@
    "away_name": "Memphis Grizzlies",
    "home_name": "Washington Wizards",
    "state": "pre",
-   "spread_text": "MEM -4.5",
-   "spread": 4.5,
-   "total": 229.5,
-   "odds_source": "Draft Kings",
+   "spread_text": "MEM -3.5",
+   "spread": 3.5,
+   "total": 232.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -54,10 +54,10 @@
    "away_name": "Philadelphia 76ers",
    "home_name": "Brooklyn Nets",
    "state": "pre",
-   "spread_text": "PHI -6.5",
-   "spread": 6.5,
-   "total": 224.5,
-   "odds_source": "Draft Kings",
+   "spread_text": "PHI -4.5",
+   "spread": 4.5,
+   "total": 225.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -68,10 +68,10 @@
    "away_name": "Houston Rockets",
    "home_name": "Miami Heat",
    "state": "pre",
-   "spread_text": "HOU -2.5",
-   "spread": 2.5,
-   "total": 230.5,
-   "odds_source": "Draft Kings",
+   "spread_text": "HOU -1.5",
+   "spread": 1.5,
+   "total": 231.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -82,10 +82,10 @@
    "away_name": "Portland Trail Blazers",
    "home_name": "Minnesota Timberwolves",
    "state": "pre",
-   "spread_text": "MIN -1.5",
-   "spread": -1.5,
-   "total": 228.5,
-   "odds_source": "Draft Kings",
+   "spread_text": "MIN -2.5",
+   "spread": -2.5,
+   "total": 227.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -96,10 +96,10 @@
    "away_name": "Golden State Warriors",
    "home_name": "New Orleans Pelicans",
    "state": "pre",
-   "spread_text": "GS -2.5",
-   "spread": 2.5,
-   "total": 225.5,
-   "odds_source": "Draft Kings",
+   "spread_text": "GS -3.5",
+   "spread": 3.5,
+   "total": 223.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -110,14 +110,23 @@
    "away_name": "Phoenix Suns",
    "home_name": "Denver Nuggets",
    "state": "pre",
-   "spread_text": "DEN -10.5",
-   "spread": -10.5,
-   "total": 227.5,
-   "odds_source": "Draft Kings",
+   "spread_text": "DEN -9.5",
+   "spread": -9.5,
+   "total": 229.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
  "injuries": {
+  "Boston Celtics": [
+   {
+    "player": "Neemias Queta",
+    "status": "Day-To-Day",
+    "detail": "Queta (rest) is questionable for Monday's game against the Magic.",
+    "type": "day-to-day",
+    "updated": "2026-11-16T18:12Z"
+   }
+  ],
   "Chicago Bulls": [
    {
     "player": "Tobe Awaka",
@@ -145,9 +154,9 @@
    {
     "player": "Jaylon Tyson",
     "status": "Day-To-Day",
-    "detail": "Tyson (ankle) is questionable for Monday's game against the Bulls.",
+    "detail": "Tyson (ankle) has been downgraded to doubtful for Monday's game against the Bulls.",
     "type": "day-to-day",
-    "updated": "2026-11-15T22:09Z"
+    "updated": "2026-11-16T17:35Z"
    },
    {
     "player": "Peyton Watson",
@@ -233,18 +242,32 @@
   ],
   "Houston Rockets": [
    {
-    "player": "Clint Capela",
-    "status": "Out",
-    "detail": "Capela (ankle) has been ruled out for Sunday's game at Washington.",
-    "type": "out",
-    "updated": "2026-11-14T21:54Z"
+    "player": "Amen Thompson",
+    "status": "Day-To-Day",
+    "detail": "Thompson (knee) is listed as questionable for Monday's game against the Heat.",
+    "type": "day-to-day",
+    "updated": "2026-11-16T18:13Z"
    },
    {
-    "player": "Fred VanVleet",
+    "player": "Clint Capela",
     "status": "Out",
-    "detail": "VanVleet (right knee injury management) has been ruled out for Sunday's game against the Wizards.",
+    "detail": "Capela (ankle) is out for Monday's game against the Heat.",
     "type": "out",
-    "updated": "2026-11-14T21:52Z"
+    "updated": "2026-11-16T18:09Z"
+   },
+   {
+    "player": "Steven Adams",
+    "status": "Out",
+    "detail": "Adams (calf) is out for Monday's game against the Heat.",
+    "type": "out",
+    "updated": "2026-11-16T18:07Z"
+   },
+   {
+    "player": "Julian Phillips",
+    "status": "Day-To-Day",
+    "detail": "Phillips (illness) is available for Wednesday's game against Dallas.",
+    "type": "day-to-day",
+    "updated": "2026-11-16T15:28Z"
    },
    {
     "player": "Marcus Smart",
@@ -256,18 +279,25 @@
   ],
   "Memphis Grizzlies": [
    {
-    "player": "GG Jackson",
+    "player": "Isaiah Stewart",
     "status": "Out",
-    "detail": "Jackson (foot) is out for Monday's game against Washington.",
+    "detail": "Stewart is out for Monday's game against the Wizards due to an illness.",
     "type": "out",
-    "updated": "2026-11-15T22:16Z"
+    "updated": "2026-11-16T18:05Z"
    },
    {
-    "player": "Isaiah Stewart",
-    "status": "Day-To-Day",
-    "detail": "Stewart is questionable for Monday's game against the Wizards due to an illness.",
-    "type": "day-to-day",
-    "updated": "2026-11-15T22:15Z"
+    "player": "Scotty Pippen Jr.",
+    "status": "Out",
+    "detail": "Pippen (back) is progressing in his recovery but is still considered week-to-week.",
+    "type": "out",
+    "updated": "2026-11-16T17:16Z"
+   },
+   {
+    "player": "GG Jackson",
+    "status": "Out",
+    "detail": "Jackson will undergo surgery to repair the broken fifth metatarsal in his left foot and is set to miss significant time.",
+    "type": "out",
+    "updated": "2026-11-16T17:12Z"
    },
    {
     "player": "Ty Jerome",
@@ -291,13 +321,6 @@
     "updated": "2026-11-15T22:11Z"
    },
    {
-    "player": "Scotty Pippen Jr.",
-    "status": "Out",
-    "detail": "Pippen (back) remains out for Wednesday's game against Denver, Michael Wallace of the Grizzlies' official site reports.",
-    "type": "out",
-    "updated": "2026-11-10T23:09Z"
-   },
-   {
     "player": "Richie Saunders",
     "status": "Out",
     "detail": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports.",
@@ -307,11 +330,18 @@
   ],
   "Miami Heat": [
    {
+    "player": "Nikola Jovic",
+    "status": "Day-To-Day",
+    "detail": "Jovic (illness) has been downgraded to questionable for Monday's game against Houston.",
+    "type": "day-to-day",
+    "updated": "2026-11-16T17:41Z"
+   },
+   {
     "player": "Pelle Larsson",
     "status": "Day-To-Day",
-    "detail": "Larsson (illness) is questionable to play in Monday's game against the Rockets.",
+    "detail": "Larsson (illness) has been downgraded to doubtful for Monday's game against Houston.",
     "type": "day-to-day",
-    "updated": "2026-11-15T22:47Z"
+    "updated": "2026-11-16T17:39Z"
    }
   ],
   "Minnesota Timberwolves": [
@@ -408,9 +438,16 @@
    {
     "player": "Joel Embiid",
     "status": "Day-To-Day",
-    "detail": "Embiid (right foot injury management) has been ruled out for Sunday's game against the Pacers.",
+    "detail": "Embiid (foot) is questionable for Monday's game against the Nets.",
     "type": "day-to-day",
-    "updated": "2026-11-15T20:58Z"
+    "updated": "2026-11-16T18:09Z"
+   },
+   {
+    "player": "LeBron James",
+    "status": "Out",
+    "detail": "James (back) has been ruled out for Monday's game against the Nets.",
+    "type": "out",
+    "updated": "2026-11-16T18:07Z"
    },
    {
     "player": "Dominick Barlow",
@@ -435,13 +472,6 @@
    }
   ],
   "Phoenix Suns": [
-   {
-    "player": "Drew Timme",
-    "status": "Day-To-Day",
-    "detail": "The Suns claimed Timme off waivers Monday, per Michael Scotto of HoopsHype.com.",
-    "type": "day-to-day",
-    "updated": "2026-11-13T16:22Z"
-   },
    {
     "player": "Mark Williams",
     "status": "Out",
@@ -483,17 +513,17 @@
   "Washington Wizards": [
    {
     "player": "Tre Johnson",
-    "status": "Out",
-    "detail": "Johnson (back) won't play in Sunday's game against Houston, Josh Robbins of The Athletic reports.",
-    "type": "out",
-    "updated": "2026-11-15T22:31Z"
+    "status": "Day-To-Day",
+    "detail": "Johnson (back) is listed as questionable for Monday's game against Memphis.",
+    "type": "day-to-day",
+    "updated": "2026-11-16T18:18Z"
    },
    {
     "player": "Tristan Vukcevic",
     "status": "Out",
-    "detail": "Vukcevic (hip) has been ruled out for Monday's game against Detroit.",
+    "detail": "Vukcevic (hip) has been ruled out for Monday's game against Memphis.",
     "type": "out",
-    "updated": "2026-11-08T22:17Z"
+    "updated": "2026-11-16T18:14Z"
    },
    {
     "player": "Reece Beekman",
@@ -518,5 +548,76 @@
    }
   ]
  },
- "status_changes": []
+ "status_changes": [
+  {
+   "at_et": "2026-11-16 14:05",
+   "team": "Boston Celtics",
+   "player": "Neemias Queta",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-16 14:05",
+   "team": "Houston Rockets",
+   "player": "Amen Thompson",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-16 14:05",
+   "team": "Houston Rockets",
+   "player": "Steven Adams",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-16 14:05",
+   "team": "Houston Rockets",
+   "player": "Julian Phillips",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-16 14:05",
+   "team": "Houston Rockets",
+   "player": "Fred VanVleet",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-16 14:05",
+   "team": "Memphis Grizzlies",
+   "player": "Isaiah Stewart",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-16 14:05",
+   "team": "Miami Heat",
+   "player": "Nikola Jovic",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-16 14:05",
+   "team": "Philadelphia 76ers",
+   "player": "LeBron James",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-16 14:05",
+   "team": "Phoenix Suns",
+   "player": "Drew Timme",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-16 14:05",
+   "team": "Washington Wizards",
+   "player": "Tre Johnson",
+   "from": "Out",
+   "to": "Day-To-Day"
+  }
+ ]
 }

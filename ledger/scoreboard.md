@@ -1,12 +1,12 @@
 # Scoreboard
 
-Built Mon 16 Nov 2026, 5:20 AM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
+Built Mon 16 Nov 2026, 2:05 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
 
 ## Jake's real money
 
 | Contestant | Bets | W–L–P–V | Profit | ROI | Bankroll | Max drawdown | CLV (n, avg, beat close) | Pending |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| jake | 14 | 0–14–0–0 | $-92.65 | -100.0% | $-92.65 | $92.65 | – | 2 |
+| jake | 15 | 0–15–0–0 | $-97.65 | -100.0% | $-97.65 | $97.65 | – | 1 |
 
 ## Paper contestants at real prices (start $500, logged stake)
 
@@ -17,10 +17,10 @@ CLV is the expected value of the bet price against the de-vigged closing price (
 | always_under | 99 | 53–40–0–6 | $+38.82 | +8.3% | $538.82 | $28.18 | 43, -5.6%, 45% | 0 |
 | screener | 7 | 6–1–0–0 | $+32.52 | +92.9% | $532.52 | $5.00 | 1, -0.6%, 100% | 0 |
 | screener_wide | 15 | 9–6–0–0 | $+21.52 | +28.7% | $521.52 | $15.10 | 3, -1.9%, 67% | 0 |
-| card | 7 | 6–1–0–0 | $+18.05 | +51.6% | $518.05 | $5.00 | 3, -10.0%, 0% | 5 |
 | boosted_20 | 3 | 3–0–0–0 | $+13.55 | +90.3% | $513.55 | $0.00 | 2, -11.7%, 0% | 0 |
 | boosted_50 | 4 | 3–1–0–0 | $+11.94 | +59.7% | $511.94 | $5.00 | 2, -11.7%, 0% | 0 |
 | boost_leans | 1 | 1–0–0–0 | $+4.41 | +88.2% | $504.41 | $0.00 | 1, -6.1%, 0% | 0 |
+| card | 10 | 6–4–0–0 | $+3.05 | +6.1% | $503.05 | $15.00 | 3, -10.0%, 0% | 5 |
 | boost_parlay_20 | 1 | 0–1–0–0 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 0 |
 | b_selective | 7 | 3–4–0–0 | $-9.85 | -28.1% | $490.15 | $10.00 | 1, -10.2%, – | 0 |
 | blend_selective | 7 | 3–4–0–0 | $-9.85 | -28.1% | $490.15 | $20.00 | 1, -10.2%, – | 0 |
@@ -50,7 +50,7 @@ CLV is the expected value of the bet price against the de-vigged closing price (
 | boost_parlay_20 | 3 | 0–3–0–0 | $-15.00 | -100.0% | $485.00 | $15.00 | – | 0 |
 | always_under | 38 | 9–11–0–18 | $-16.88 | -16.9% | $483.12 | $41.84 | – | 0 |
 | boost_parlay_50 | 4 | 0–4–0–0 | $-20.00 | -100.0% | $480.00 | $20.00 | – | 0 |
-| card | 11 | 2–9–0–0 | $-37.80 | -68.7% | $462.20 | $37.80 | 3, -4.7%, 100% | 1 |
+| card | 11 | 2–9–0–0 | $-37.80 | -68.7% | $462.20 | $37.80 | 3, -4.7%, 100% | 5 |
 | r15_pra_under | 248 | 122–117–0–9 | $-42.31 | -3.5% | $457.69 | $88.26 | 84, -6.4%, 42% | 0 |
 | r15_combo_under | 508 | 252–236–0–20 | $-70.07 | -2.9% | $429.93 | $143.75 | – | 0 |
 | r15_ast_under | 230 | 106–115–0–9 | $-102.37 | -9.3% | $397.63 | $127.26 | 10, -4.3%, 44% | 0 |
@@ -65,9 +65,9 @@ CLV is the expected value of the bet price against the de-vigged closing price (
 | 60–65% | 76 | 62.4% | 30.3% |
 | 65–70% | 16 | 67.1% | 87.5% |
 
-Brier score 0.259 (a coin flip is 0.250).
+Brier score 0.257 (a coin flip is 0.250).
 
 ## Open items
 
 - a6ac9837fa5c: withdrawal after the start ignored
-- 12 pending (waiting for box scores or a manual settle).
+- 15 pending (waiting for box scores or a manual settle).
