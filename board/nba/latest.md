@@ -1,6 +1,6 @@
 # NBA board, 2026-11-16
 
-Slate updated 2026-11-16 14:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-16 15:30 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -16,6 +16,7 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 14:05 Philadelphia 76ers: LeBron James not listed → Out
 - 14:05 Phoenix Suns: Drew Timme Day-To-Day → removed from report
 - 14:05 Washington Wizards: Tre Johnson Out → Day-To-Day
+- 15:30 Phoenix Suns: Ryan Dunn not listed → Day-To-Day
 
 ## ORL @ BOS, 19:00 ET
 Line: BOS -8.5, total 212.5 (Draft Kings).
@@ -98,7 +99,7 @@ Line: CLE -8.5, total 241.5 (Draft Kings).
 | Mario Hezonja | – | 17.2 (7.8) → 19.6 (9.7) | 7.2/8.6 → 8 (2–16) | 3.8/5.4 → 4 (1–8) | 1/1.6 → 1 (0–4) | 0.4/1.1 → 1 (0–2) | 14 (4–25) |
 
 ## MEM @ WSH, 19:00 ET
-Line: MEM -3.5, total 232.5 (Draft Kings).
+Line: MEM -3.5, total 233.5 (Draft Kings).
 **MEM** (1 rest day). Out: Ty Jerome, Isaiah Stewart, Scotty Pippen Jr., GG Jackson, Quinten Post. Freed minutes: 92.8. Out all season so far (already in the lines): Richie Saunders.
 - Without Ty Jerome: Kris Murray min +10.7, pts +1.5, reb -0.2, ast +1.4 (n=2 vs 7)
 - Without Ty Jerome: Cam Spencer min +10.1, pts +3.9, reb +0, ast +6.4 (n=2 vs 11)
@@ -140,7 +141,7 @@ Line: MEM -3.5, total 232.5 (Draft Kings).
 | Reece Beekman | Out | 1 (–) | 0/0 | 0/0 | 0/0 | 0/0 | – |
 
 ## PHI @ BKN, 19:30 ET
-Line: PHI -4.5, total 225.5 (Draft Kings).
+Line: PHI -5.5, total 226.5 (Draft Kings).
 **PHI** (back-to-back). Out: LeBron James, Adem Bona. Freed minutes: 46.7. Out all season so far (already in the lines): Dominick Barlow, Ariel Hukporti.
 - Without Adem Bona: Jabari Walker min +10.4, pts +3.8, reb +5, ast +0 (n=5 vs 5)
 - Without LeBron James: Dean Wade min +5.9, pts +1.5, reb -0.1, ast +2.9 (n=3 vs 9)
@@ -178,7 +179,7 @@ Line: PHI -4.5, total 225.5 (Draft Kings).
 | Terance Mann | – | 15.6 (3.9) → 15.9 (8.2) | 1.6/1.4 → 3 (0–8) | 1.4/1.1 → 2 (0–4) | 1.4/1.4 → 2 (0–4) | 0.4/0.3 → 0 (0–2) | 7 (1–14) |
 
 ## HOU @ MIA, 19:30 ET
-Line: HOU -1.5, total 231.5 (Draft Kings).
+Line: HOU -2.5, total 231.5 (Draft Kings).
 **HOU** (back-to-back). Out: Clint Capela, Steven Adams. Freed minutes: 24.2.
 - Without Clint Capela: Marcus Smart min -7.5, pts -8.5, reb -0.7, ast -1.5 (n=6 vs 3)
 - Without Clint Capela: Bogdan Bogdanovic min -5.6, pts -3.6, reb -0.4, ast -0.4 (n=8 vs 6)
@@ -309,7 +310,7 @@ Line: DEN -9.5, total 229.5 (Draft Kings).
 | Collin Gillespie | – | 24.2 (3.5) → 25.4 (17.7) | 12.8/9.2 → 12 (5–20) | 2.6/2.3 → 3 (1–6) | 4/4.1 → 4 (1–7) | 3/2.2 → 3 (1–5) | 19 (9–30) |
 | Jalen Green | – | 24.2 (5.5) → 24.7 (17) | 11.2/11.6 → 14 (6–22) | 3.8/3.2 → 3 (1–6) | 2.4/2.9 → 2 (0–5) | 1/0.9 → 1 (0–3) | 19 (9–31) |
 | Oso Ighodaro | – | 22 (4.5) → 22.1 (14.4) | 4.6/5.8 → 6 (1–11) | 4.6/4.9 → 4 (2–8) | 3.4/3.5 → 3 (1–6) | 0/0 → 0 (0–0) | 13 (5–22) |
-| Ryan Dunn | – | 21 (6.1) → 19.4 (11.3) | 4.8/5.1 → 5 (1–10) | 5/4.2 → 4 (1–8) | 1.2/1.2 → 1 (0–3) | 1/0.8 → 1 (0–2) | 11 (3–20) |
+| Ryan Dunn | Day-To-Day | 21 (6.1) → 19.4 (11.3) | 4.8/5.1 → 5 (1–10) | 5/4.2 → 4 (1–8) | 1.2/1.2 → 1 (0–3) | 1/0.8 → 1 (0–2) | 11 (3–20) |
 | Jordan Goodwin | – | 20.8 (6.2) → 21.7 (13.4) | 10.6/9.6 → 9 (3–17) | 4.4/4 → 4 (1–8) | 3.2/2.8 → 2 (0–5) | 2.4/2.2 → 2 (0–4) | 16 (7–27) |
 | Luke Kennard | – | 18.8 (3.8) → 19.3 (11.6) | 10.8/9.2 → 9 (2–16) | 2/1.7 → 2 (0–4) | 2/2 → 2 (0–4) | 2/2 → 1 (0–4) | 13 (5–23) |
 | Khaman Maluach | – | 17.8 (4) → 16.9 (9.2) | 8.2/7.7 → 6 (1–12) | 5.6/5.8 → 5 (2–9) | 1.2/1.2 → 0 (0–2) | 0.2/0.2 → 0 (0–1) | 12 (4–22) |

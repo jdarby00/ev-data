@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "updated_et": "2026-11-16 14:45",
+ "updated_et": "2026-11-16 15:30",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -42,7 +42,7 @@
    "state": "pre",
    "spread_text": "MEM -3.5",
    "spread": 3.5,
-   "total": 232.5,
+   "total": 233.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -54,9 +54,9 @@
    "away_name": "Philadelphia 76ers",
    "home_name": "Brooklyn Nets",
    "state": "pre",
-   "spread_text": "PHI -4.5",
-   "spread": 4.5,
-   "total": 225.5,
+   "spread_text": "PHI -5.5",
+   "spread": 5.5,
+   "total": 226.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -68,8 +68,8 @@
    "away_name": "Houston Rockets",
    "home_name": "Miami Heat",
    "state": "pre",
-   "spread_text": "HOU -1.5",
-   "spread": 1.5,
+   "spread_text": "HOU -2.5",
+   "spread": 2.5,
    "total": 231.5,
    "odds_source": "Draft Kings",
    "season_type": 2
@@ -473,6 +473,13 @@
   ],
   "Phoenix Suns": [
    {
+    "player": "Ryan Dunn",
+    "status": "Day-To-Day",
+    "detail": "Dunn (thumb) is listed as questionable for Monday's game against Denver.",
+    "type": "day-to-day",
+    "updated": "2026-11-16T20:18Z"
+   },
+   {
     "player": "Mark Williams",
     "status": "Out",
     "detail": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",
@@ -617,6 +624,13 @@
    "team": "Washington Wizards",
    "player": "Tre Johnson",
    "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-16 15:30",
+   "team": "Phoenix Suns",
+   "player": "Ryan Dunn",
+   "from": "not listed",
    "to": "Day-To-Day"
   }
  ]
