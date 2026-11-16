@@ -30,3 +30,4 @@
 {"action":"withdraw","at":"2026-11-16T21:59:32Z","bet_id":"82b2ed605ab8","reason":"replaced before tip by a new NBA +300 boost ticket (2026-11-16T21:58:57Z)"}
 {"action":"withdraw","at":"2026-11-16T21:59:33Z","bet_id":"0b74f25fb5b4","reason":"replaced before tip by a new NBA +300 boost ticket (2026-11-16T21:58:57Z)"}
 {"action":"withdraw","at":"2026-11-16T22:28:06Z","bet_id":"f0e7e3f1017a","reason":"logged wrong: Jake's slip is boosted 30% TO +391 (+301 before the boost); replaced by the corrected row in 2026-11-16-jake2.jsonl"}
+{"action":"withdraw","at":"2026-11-16T22:49:01Z","bet_id":"dd1c3f6eb292","reason":"leg prices were FanDuel's boost-adjusted slip display; replaced by 2026-11-16-jake3.jsonl with the real leg prices"}
