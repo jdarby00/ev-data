@@ -10,7 +10,9 @@
    "commence_time": "2026-11-17T00:40:00Z",
    "event_id": "efd4d1a289cc2aca91d30116e3629d1f",
    "home": "Nets",
-   "issues": [],
+   "issues": [
+    "2026-11-17T00:18:15Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_assists",
    "players": [],
    "requested_rev": 1,
@@ -1774,7 +1776,9 @@
    "commence_time": "2026-11-17T00:40:00Z",
    "event_id": "efd4d1a289cc2aca91d30116e3629d1f",
    "home": "Nets",
-   "issues": [],
+   "issues": [
+    "2026-11-17T00:18:15Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_points_rebounds_assists",
    "players": [],
    "requested_rev": 1,
@@ -4162,7 +4166,9 @@
    "commence_time": "2026-11-17T00:40:00Z",
    "event_id": "efd4d1a289cc2aca91d30116e3629d1f",
    "home": "Nets",
-   "issues": [],
+   "issues": [
+    "2026-11-17T00:18:15Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_rebounds",
    "players": [],
    "requested_rev": 1,
@@ -6515,11 +6521,12 @@
    "api_home": "Cleveland Cavaliers",
    "away": "Bulls",
    "close": true,
-   "commence_time": "2026-11-17T00:10:00Z",
+   "commence_time": "2026-11-17T00:11:09Z",
    "event_id": "39dbdb7fdc78bd01ceac2fc7048bc1fd",
    "home": "Cavaliers",
    "issues": [
-    "2026-11-16T23:48:14Z close skipped: daily cap reached (30/30)"
+    "2026-11-16T23:48:14Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points",
    "players": [],
@@ -9345,11 +9352,12 @@
    "api_home": "Cleveland Cavaliers",
    "away": "Bulls",
    "close": true,
-   "commence_time": "2026-11-17T00:10:00Z",
+   "commence_time": "2026-11-17T00:11:09Z",
    "event_id": "39dbdb7fdc78bd01ceac2fc7048bc1fd",
    "home": "Cavaliers",
    "issues": [
-    "2026-11-16T23:48:14Z close skipped: daily cap reached (30/30)"
+    "2026-11-16T23:48:14Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "spreads",
    "players": [],
@@ -9623,11 +9631,12 @@
    "api_home": "Washington Wizards",
    "away": "Grizzlies",
    "close": true,
-   "commence_time": "2026-11-17T00:10:00Z",
+   "commence_time": "2026-11-17T00:12:00Z",
    "event_id": "a613d212acef6f86d71b6ef99049fb7b",
    "home": "Wizards",
    "issues": [
-    "2026-11-16T23:48:14Z close skipped: daily cap reached (30/30)"
+    "2026-11-16T23:48:14Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points",
    "players": [],
@@ -12685,11 +12694,12 @@
    "api_home": "Washington Wizards",
    "away": "Grizzlies",
    "close": true,
-   "commence_time": "2026-11-17T00:10:00Z",
+   "commence_time": "2026-11-17T00:12:00Z",
    "event_id": "a613d212acef6f86d71b6ef99049fb7b",
    "home": "Wizards",
    "issues": [
-    "2026-11-16T23:48:14Z close skipped: daily cap reached (30/30)"
+    "2026-11-16T23:48:14Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points_alternate",
    "players": [],
@@ -19787,12 +19797,13 @@
    "api_home": "Washington Wizards",
    "away": "Grizzlies",
    "close": true,
-   "commence_time": "2026-11-17T00:10:00Z",
+   "commence_time": "2026-11-17T00:12:00Z",
    "event_id": "a613d212acef6f86d71b6ef99049fb7b",
    "home": "Wizards",
    "issues": [
     "2026-11-16T23:10:33Z lock skipped: daily cap reached (30/30)",
-    "2026-11-16T23:48:14Z close skipped: daily cap reached (30/30)"
+    "2026-11-16T23:48:14Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "spreads",
    "players": [],
@@ -20903,11 +20914,12 @@
    "api_home": "Boston Celtics",
    "away": "Magic",
    "close": true,
-   "commence_time": "2026-11-17T00:10:00Z",
+   "commence_time": "2026-11-17T00:11:00Z",
    "event_id": "7c2ac54a119f461bf8fc1a23da536f29",
    "home": "Celtics",
    "issues": [
-    "2026-11-16T23:48:14Z close skipped: daily cap reached (30/30)"
+    "2026-11-16T23:48:14Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points_rebounds_alternate",
    "players": [],
@@ -24787,11 +24799,12 @@
    "api_home": "Boston Celtics",
    "away": "Magic",
    "close": true,
-   "commence_time": "2026-11-17T00:10:00Z",
+   "commence_time": "2026-11-17T00:11:00Z",
    "event_id": "7c2ac54a119f461bf8fc1a23da536f29",
    "home": "Celtics",
    "issues": [
-    "2026-11-16T23:48:14Z close skipped: daily cap reached (30/30)"
+    "2026-11-16T23:48:14Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points_rebounds_assists",
    "players": [],
@@ -27097,11 +27110,12 @@
    "api_home": "Boston Celtics",
    "away": "Magic",
    "close": true,
-   "commence_time": "2026-11-17T00:10:00Z",
+   "commence_time": "2026-11-17T00:11:00Z",
    "event_id": "7c2ac54a119f461bf8fc1a23da536f29",
    "home": "Celtics",
    "issues": [
-    "2026-11-16T23:48:14Z close skipped: daily cap reached (30/30)"
+    "2026-11-16T23:48:14Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_rebounds",
    "players": [],
@@ -29543,11 +29557,12 @@
    "api_home": "Boston Celtics",
    "away": "Magic",
    "close": true,
-   "commence_time": "2026-11-17T00:10:00Z",
+   "commence_time": "2026-11-17T00:11:00Z",
    "event_id": "7c2ac54a119f461bf8fc1a23da536f29",
    "home": "Celtics",
    "issues": [
-    "2026-11-16T23:48:14Z close skipped: daily cap reached (30/30)"
+    "2026-11-16T23:48:14Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "spreads",
    "players": [],
@@ -29821,7 +29836,7 @@
    "api_home": "Boston Celtics",
    "away": "Orlando Magic",
    "close": false,
-   "commence_time": "2026-11-17T00:10:00Z",
+   "commence_time": "2026-11-17T00:11:00Z",
    "event_id": "7c2ac54a119f461bf8fc1a23da536f29",
    "home": "Boston Celtics",
    "issues": [],
@@ -34312,7 +34327,7 @@
    "api_home": "Boston Celtics",
    "away": "Orlando Magic",
    "close": false,
-   "commence_time": "2026-11-17T00:10:00Z",
+   "commence_time": "2026-11-17T00:11:00Z",
    "event_id": "7c2ac54a119f461bf8fc1a23da536f29",
    "home": "Boston Celtics",
    "issues": [],
@@ -36076,7 +36091,7 @@
    "api_home": "Boston Celtics",
    "away": "Orlando Magic",
    "close": false,
-   "commence_time": "2026-11-17T00:10:00Z",
+   "commence_time": "2026-11-17T00:11:00Z",
    "event_id": "7c2ac54a119f461bf8fc1a23da536f29",
    "home": "Boston Celtics",
    "issues": [],
@@ -86944,7 +86959,7 @@
    "api_home": "LIU Sharks",
    "away": "Tommies",
    "close": false,
-   "commence_time": "2026-11-17T00:00:00Z",
+   "commence_time": "2026-11-17T00:08:23Z",
    "event_id": "338b21f638d734fbd36a5e77eb3b0bbd",
    "home": "Sharks",
    "issues": [],
@@ -87471,5 +87486,5 @@
  "spent_month": 365,
  "spent_today": 30,
  "stop": null,
- "updated": "2026-11-16T23:48:14Z"
+ "updated": "2026-11-17T00:18:15Z"
 }
