@@ -1,6 +1,6 @@
 # NBA board, 2026-11-17
 
-Slate updated 2026-11-17 14:11 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-17 14:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -9,6 +9,7 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 14:05 Toronto Raptors: Scottie Barnes not listed → Day-To-Day
 - 14:11 Minnesota Timberwolves: Zyon Pullin not listed → Out
 - 14:11 Minnesota Timberwolves: Jonathan Kuminga Day-To-Day → Out
+- 14:45 Portland Trail Blazers: Deni Avdija not listed → Day-To-Day
 
 ## NY @ TOR, 19:30 ET
 Line: NY -4.5, total 214.5 (DraftKings).
@@ -48,7 +49,7 @@ Line: NY -4.5, total 214.5 (DraftKings).
 | Allen Graves | – | 15.2 (3.6) → 14.3 (6.6) | 4.2/4.4 → 4 (0–10) | 3.2/2.7 → 2 (0–6) | 0.8/0.8 → 1 (0–3) | 0.8/0.5 → 0 (0–2) | 8 (2–17) |
 
 ## POR @ MIN, 20:00 ET
-Line: MIN -1.5, total 227.5 (DraftKings).
+Line: MIN -3.5, total 225.5 (DraftKings).
 **POR** (back-to-back). Out: Ja Morant, Chris Youngblood, Vit Krejci. Freed minutes: 49.8. Out all season so far (already in the lines): Shaedon Sharpe.
 - Without Ja Morant: Toumani Camara min +5.6, pts -4.5, reb +1.9, ast -0.3 (n=9 vs 4)
 - Without Ja Morant: Scoot Henderson min +4.8, pts +1.7, reb -0.5, ast -0.2 (n=9 vs 4)
@@ -57,7 +58,7 @@ Line: MIN -1.5, total 227.5 (DraftKings).
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
-| Deni Avdija | – | 31.6 (3.9) → 32.7 (25) | 25.6/24.2 → 25 (14–36) | 5.4/6.2 → 6 (3–10) | 4.6/6.1 → 6 (3–10) | 2.8/2.1 → 2 (0–4) | 37 (22–53) |
+| Deni Avdija | Day-To-Day | 31.6 (3.9) → 32.7 (25) | 25.6/24.2 → 25 (14–36) | 5.4/6.2 → 6 (3–10) | 4.6/6.1 → 6 (3–10) | 2.8/2.1 → 2 (0–4) | 37 (22–53) |
 | Toumani Camara | – | 30.2 (4.7) → 30.5 (22.9) | 9.4/12.4 → 11 (4–19) | 2.8/3.1 → 3 (1–6) | 1.4/1.3 → 1 (0–3) | 1.2/2.6 → 2 (0–4) | 16 (7–26) |
 | Damian Lillard | – | 26.6 (4.9) → 28.5 (20.8) | 18.6/19.7 → 15 (7–24) | 2/3 → 3 (1–7) | 4.6/4.3 → 3 (1–7) | 3.2/3 → 2 (0–5) | 22 (12–35) |
 | Sidy Cissoko | – | 26.4 (5) → 24.8 (17.1) | 9.6/7.6 → 7 (2–13) | 3.2/3.6 → 3 (1–6) | 1.6/2 → 2 (0–4) | 1.8/1.3 → 1 (0–3) | 12 (4–21) |
