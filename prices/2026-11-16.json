@@ -54679,11 +54679,12 @@
    "api_home": "Denver Nuggets",
    "away": "Suns",
    "close": true,
-   "commence_time": "2026-11-17T02:10:00Z",
+   "commence_time": "2026-11-17T02:11:15Z",
    "event_id": "c2c9d9729305c19d4a453f92c83feae8",
    "home": "Nuggets",
    "issues": [
-    "2026-11-17T01:58:14Z close skipped: daily cap reached (30/30)"
+    "2026-11-17T01:58:14Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points_assists_alternate",
    "players": [],
@@ -58139,11 +58140,12 @@
    "api_home": "Denver Nuggets",
    "away": "Suns",
    "close": true,
-   "commence_time": "2026-11-17T02:10:00Z",
+   "commence_time": "2026-11-17T02:11:15Z",
    "event_id": "c2c9d9729305c19d4a453f92c83feae8",
    "home": "Nuggets",
    "issues": [
-    "2026-11-17T01:58:14Z close skipped: daily cap reached (30/30)"
+    "2026-11-17T01:58:14Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points_rebounds_assists",
    "players": [],
@@ -76297,7 +76299,7 @@
    "close": false,
    "commence_time": "2026-11-17T03:00:00Z",
    "event_id": "slate",
-   "games": 18,
+   "games": 12,
    "home": "*",
    "issues": [],
    "market": "h2h",
@@ -80427,7 +80429,7 @@
    "close": false,
    "commence_time": "2026-11-17T03:00:00Z",
    "event_id": "slate",
-   "games": 18,
+   "games": 12,
    "home": "*",
    "issues": [],
    "market": "spreads",
@@ -87502,5 +87504,5 @@
  "spent_month": 365,
  "spent_today": 30,
  "stop": null,
- "updated": "2026-11-17T01:58:14Z"
+ "updated": "2026-11-17T02:32:34Z"
 }
