@@ -45044,7 +45044,7 @@
    "api_home": "Minnesota Timberwolves",
    "away": "Portland Trail Blazers",
    "close": false,
-   "commence_time": "2026-11-17T01:10:00Z",
+   "commence_time": "2026-11-17T01:12:00Z",
    "event_id": "b9dd15890ac45468b3e3ec1092f67c18",
    "home": "Minnesota Timberwolves",
    "issues": [],
@@ -49053,7 +49053,7 @@
    "api_home": "Minnesota Timberwolves",
    "away": "Portland Trail Blazers",
    "close": false,
-   "commence_time": "2026-11-17T01:10:00Z",
+   "commence_time": "2026-11-17T01:12:00Z",
    "event_id": "b9dd15890ac45468b3e3ec1092f67c18",
    "home": "Minnesota Timberwolves",
    "issues": [],
@@ -54682,7 +54682,9 @@
    "commence_time": "2026-11-17T02:10:00Z",
    "event_id": "c2c9d9729305c19d4a453f92c83feae8",
    "home": "Nuggets",
-   "issues": [],
+   "issues": [
+    "2026-11-17T01:58:14Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_points_assists_alternate",
    "players": [],
    "requested_rev": 1,
@@ -58140,7 +58142,9 @@
    "commence_time": "2026-11-17T02:10:00Z",
    "event_id": "c2c9d9729305c19d4a453f92c83feae8",
    "home": "Nuggets",
-   "issues": [],
+   "issues": [
+    "2026-11-17T01:58:14Z close skipped: daily cap reached (30/30)"
+   ],
    "market": "player_points_rebounds_assists",
    "players": [],
    "requested_rev": 1,
@@ -60661,11 +60665,12 @@
    "api_home": "Minnesota Timberwolves",
    "away": "Trail Blazers",
    "close": true,
-   "commence_time": "2026-11-17T01:10:00Z",
+   "commence_time": "2026-11-17T01:12:00Z",
    "event_id": "b9dd15890ac45468b3e3ec1092f67c18",
    "home": "Timberwolves",
    "issues": [
-    "2026-11-17T00:48:13Z close skipped: daily cap reached (30/30)"
+    "2026-11-17T00:48:13Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_threes_alternate",
    "players": [],
@@ -64754,11 +64759,12 @@
    "api_home": "New Orleans Pelicans",
    "away": "Warriors",
    "close": true,
-   "commence_time": "2026-11-17T01:10:00Z",
+   "commence_time": "2026-11-17T01:11:00Z",
    "event_id": "77094bf6e4d9bf58f3cb98b6a4fb3b22",
    "home": "Pelicans",
    "issues": [
-    "2026-11-17T00:48:13Z close skipped: daily cap reached (30/30)"
+    "2026-11-17T00:48:13Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points_alternate",
    "players": [],
@@ -72112,11 +72118,12 @@
    "api_home": "New Orleans Pelicans",
    "away": "Warriors",
    "close": true,
-   "commence_time": "2026-11-17T01:10:00Z",
+   "commence_time": "2026-11-17T01:11:00Z",
    "event_id": "77094bf6e4d9bf58f3cb98b6a4fb3b22",
    "home": "Pelicans",
    "issues": [
-    "2026-11-17T00:48:13Z close skipped: daily cap reached (30/30)"
+    "2026-11-17T00:48:13Z close skipped: daily cap reached (30/30)",
+    "no close snapshot before start"
    ],
    "market": "player_points_rebounds_alternate",
    "players": [],
@@ -76290,7 +76297,7 @@
    "close": false,
    "commence_time": "2026-11-17T03:00:00Z",
    "event_id": "slate",
-   "games": 21,
+   "games": 18,
    "home": "*",
    "issues": [],
    "market": "h2h",
@@ -80420,7 +80427,7 @@
    "close": false,
    "commence_time": "2026-11-17T03:00:00Z",
    "event_id": "slate",
-   "games": 21,
+   "games": 18,
    "home": "*",
    "issues": [],
    "market": "spreads",
@@ -87495,5 +87502,5 @@
  "spent_month": 365,
  "spent_today": 30,
  "stop": null,
- "updated": "2026-11-17T00:48:13Z"
+ "updated": "2026-11-17T01:58:14Z"
 }
