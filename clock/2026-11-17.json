@@ -6,7 +6,8 @@
   "escreen_1040": "2026-11-17T15:40:05Z",
   "lab_0610": "2026-11-17T11:10:01Z",
   "mscreen_1040": "2026-11-17T15:40:08Z",
-  "record_0640": "2026-11-17T11:40:00Z"
+  "record_0640": "2026-11-17T11:40:00Z",
+  "sgo_1045": "2026-11-17T15:45:00Z"
  },
  "log": [
   "2026-11-17T09:50:08Z hand-over to a fresh clock run",
@@ -16,6 +17,7 @@
   "2026-11-17T15:25:32Z hand-over to a fresh clock run",
   "2026-11-17T15:40:00Z boosts_1040: dispatched jdarby00/dk-odds boosts.yml (HTTP 204)",
   "2026-11-17T15:40:05Z escreen_1040: dispatched jdarby00/dk-odds espn-screen.yml (HTTP 204)",
-  "2026-11-17T15:40:08Z mscreen_1040: dispatched jdarby00/dk-odds market-screen.yml (HTTP 204)"
+  "2026-11-17T15:40:08Z mscreen_1040: dispatched jdarby00/dk-odds market-screen.yml (HTTP 204)",
+  "2026-11-17T15:45:00Z sgo_1045: dispatched jdarby00/dk-odds sgo-links.yml (HTTP 204)"
  ]
 }
