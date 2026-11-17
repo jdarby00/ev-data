@@ -1,12 +1,12 @@
 # Scoreboard
 
-Built Mon 16 Nov 2026, 10:57 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
+Built Mon 16 Nov 2026, 11:45 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
 
 ## Jake's real money
 
 | Contestant | Bets | W–L–P–V | Profit | ROI | Bankroll | Max drawdown | CLV (n, avg, beat close) | Pending |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| jake | 15 | 0–15–0–0 | $-97.65 | -100.0% | $-97.65 | $97.65 | – | 2 |
+| jake | 16 | 0–16–0–0 | $-102.65 | -100.0% | $-102.65 | $102.65 | – | 2 |
 
 ## Paper contestants at real prices (start $500, logged stake)
 

@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "updated_et": "2026-11-16 22:57",
+ "updated_et": "2026-11-16 23:45",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -109,7 +109,7 @@
    "home": "DEN",
    "away_name": "Phoenix Suns",
    "home_name": "Denver Nuggets",
-   "state": "in",
+   "state": "post",
    "spread_text": "DEN -9.5",
    "spread": -9.5,
    "total": 229.5,
@@ -369,18 +369,18 @@
   ],
   "New Orleans Pelicans": [
    {
+    "player": "Bennedict Mathurin",
+    "status": "Day-To-Day",
+    "detail": "Mathurin (foot) has been ruled out for Monday's game against the Warriors.",
+    "type": "day-to-day",
+    "updated": "2026-11-17T03:48Z"
+   },
+   {
     "player": "Bryce McGowens",
     "status": "Out",
     "detail": "McGowens (elbow) has been ruled out for Monday's game against the Warriors.",
     "type": "out",
     "updated": "2026-11-15T23:10Z"
-   },
-   {
-    "player": "Bennedict Mathurin",
-    "status": "Out",
-    "detail": "Mathurin (foot) has been ruled out for Monday's game against the Warriors.",
-    "type": "out",
-    "updated": "2026-11-15T23:06Z"
    },
    {
     "player": "Trey Murphy III",
@@ -435,6 +435,13 @@
    }
   ],
   "Philadelphia 76ers": [
+   {
+    "player": "Jaylen Brown",
+    "status": "Day-To-Day",
+    "detail": "Brown amassed 31 points (9-19 FG, 3-8 3Pt, 10-13 FT), 13 rebounds, four assists, one steal and one block in 33 minutes during Monday's 135-123 win over Brooklyn.",
+    "type": "day-to-day",
+    "updated": "2026-11-17T04:28Z"
+   },
    {
     "player": "LeBron James",
     "status": "Day-To-Day",
@@ -799,6 +806,20 @@
    "team": "Philadelphia 76ers",
    "player": "LeBron James",
    "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-16 23:45",
+   "team": "New Orleans Pelicans",
+   "player": "Bennedict Mathurin",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-16 23:45",
+   "team": "Philadelphia 76ers",
+   "player": "Jaylen Brown",
+   "from": "not listed",
    "to": "Day-To-Day"
   }
  ]

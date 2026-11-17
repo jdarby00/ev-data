@@ -1,13 +1,11 @@
 # NBA board, 2026-11-16
 
-Slate updated 2026-11-16 22:57 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-16 23:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 21:27 Golden State Warriors: Gui Santos Day-To-Day → removed from report
-- 21:27 Houston Rockets: Amen Thompson Day-To-Day → Out
 - 21:27 Miami Heat: Bam Adebayo not listed → Day-To-Day
 - 21:27 Philadelphia 76ers: Joel Embiid Day-To-Day → removed from report
 - 21:27 Phoenix Suns: Ryan Dunn Day-To-Day → removed from report
@@ -21,6 +19,8 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 22:57 Miami Heat: Nikola Jovic Out → Day-To-Day
 - 22:57 Minnesota Timberwolves: Jonathan Kuminga not listed → Day-To-Day
 - 22:57 Philadelphia 76ers: LeBron James Out → Day-To-Day
+- 23:45 New Orleans Pelicans: Bennedict Mathurin Out → Day-To-Day
+- 23:45 Philadelphia 76ers: Jaylen Brown not listed → Day-To-Day
 
 ## ORL @ BOS, 19:00 ET
 Line: BOS -9.5, total 214.5 (DraftKings).
@@ -156,7 +156,7 @@ Line: PHI -4.5, total 226.5 (DraftKings).
 |---|---|---|---|---|---|---|---|
 | Tyrese Maxey | – | 34.6 (1.7) → 35.5 (27.8) | 24.4/26.7 → 26 (15–38) | 2.8/3.4 → 3 (1–6) | 5.8/5.6 → 6 (3–10) | 2.8/2.6 → 3 (1–5) | 35 (21–50) |
 | VJ Edgecombe | – | 33.2 (2.5) → 33.5 (25.8) | 13.2/12.8 → 14 (6–22) | 5/6.2 → 5 (2–9) | 4.8/3.7 → 4 (2–8) | 1.4/1.5 → 1 (0–3) | 23 (13–35) |
-| Jaylen Brown | – | 32.6 (3.6) → 33.5 (25.8) | 22.2/21.9 → 24 (14–36) | 5/6.2 → 6 (3–10) | 3/3.5 → 3 (1–7) | 1.6/1.8 → 2 (0–4) | 34 (20–49) |
+| Jaylen Brown | Day-To-Day | 32.6 (3.6) → 33.5 (25.8) | 22.2/21.9 → 24 (14–36) | 5/6.2 → 6 (3–10) | 3/3.5 → 3 (1–7) | 1.6/1.8 → 2 (0–4) | 34 (20–49) |
 | LeBron James | Day-To-Day | 32 (1.4) → 32.1 (24.4) | 13.8/15.1 → 17 (8–26) | 7.4/7.2 → 6 (3–11) | 6.4/6.9 → 7 (3–11) | 0.8/0.8 → 1 (0–2) | 30 (17–44) |
 | Joel Embiid | – | 29.2 (4.4) → 30.1 (22.4) | 17.2/17.9 → 21 (11–31) | 8.4/8.8 → 7 (4–12) | 2.4/3.7 → 3 (1–6) | 0.2/0.4 → 0 (0–2) | 31 (18–46) |
 | Dean Wade | – | 26.2 (6) → 26.9 (18.9) | 5.2/4.6 → 6 (1–12) | 5.4/4.1 → 5 (2–9) | 1.4/1.8 → 2 (0–4) | 1.4/1 → 1 (0–3) | 13 (5–22) |
@@ -286,11 +286,11 @@ Line: GS -3.5, total 223.5 (DraftKings).
 | Charles Bassey | – | 15.2 (7) → 15 (5.9) | 9.2/7.9 → 8 (1–16) | 6.4/5.6 → 5 (1–11) | 0.6/0.6 → 0 (0–2) | 0/0 → 0 (0–0) | 14 (3–27) |
 | Gui Santos | – | 15 (5.9) → 17.8 (9.9) | 3.4/5.6 → 6 (1–12) | 3.6/3.9 → 3 (1–7) | 1.4/1.4 → 2 (0–4) | 0.2/0.5 → 0 (0–2) | 11 (3–21) |
 
-**NO** (1 rest day). Out: Trey Murphy III, Dejounte Murray, Trendon Watford, Bennedict Mathurin, Bryce McGowens. Freed minutes: 107.8.
+**NO** (1 rest day). Out: Trey Murphy III, Dejounte Murray, Trendon Watford, Bryce McGowens. Freed minutes: 92.6.
 - Without Trey Murphy III: Jordan Poole min +9, pts +6, reb -0.2, ast +0.2 (n=4 vs 4)
 - Without Trey Murphy III: Herbert Jones min +8, pts +0.4, reb +0.8, ast +0.9 (n=5 vs 9)
 - Without Dejounte Murray: Herbert Jones min +7.7, pts +7.2, reb +0.2, ast +1.2 (n=5 vs 9)
-- Without Bennedict Mathurin: Saddiq Bey min +7.7, pts -1.2, reb -0.7, ast +0.8 (n=2 vs 12)
+- Without Trendon Watford: Karlo Matkovic min -6.9, pts -7.7, reb -1.7, ast -0.4 (n=7 vs 6)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
