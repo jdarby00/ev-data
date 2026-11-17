@@ -274,7 +274,7 @@ class OpsJobs(unittest.TestCase):
     def test_monday_with_nba_and_nfl_night(self):
         got = self.ops(et(MONDAY, 4, 0), MONDAY, {"games": [{"tip_et": "2026-11-09 19:30", "state": "pre"}]})
         keys = [k for _, k, _ in got]
-        self.assertEqual(keys, ["box_0520", "lab_0610", "boosts_1040", "escreen_1040", "sgo_1045", "board_1405",
+        self.assertEqual(keys, ["box_0520", "lab_0610", "record_0640", "boosts_1040", "escreen_1040", "sgo_1045", "board_1405",
                                 "auto_1425", "lab_1435", "board_1445", "boosts_1550", "cbbscreen_1605", "board_1615",
                                 "mscreen_1615", "escreen_1620", "sgo_1620", "recheck_1740", "news_1810", "recheck_1820",
                                 "recheck_1852"])

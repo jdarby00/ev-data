@@ -79,6 +79,7 @@ SAT_SUN, SUN, TUE_WED, SUN_MON_THU = (5, 6), (6,), (1, 2), (6, 0, 3)
 OPS_JOBS = [  # (key, ET time, action, weekdays, minutes it is still worth firing late); all free, no credits
     ("box_0520", (5, 20), "boxscores", ALL, 120),    # ev-data: yesterday's box scores (the lab grades from them)
     ("lab_0610", (6, 10), "lab", ALL, 240),
+    ("record_0640", (6, 40), "record", ALL, 240),        # dk-odds record.py: last night graded (after the 5:20 box scores)
     ("mscreen_0645", (6, 45), "mscreen", SAT_SUN, 90),   # soccer, before the 7:59 am run
     ("mscreen_1030", (10, 30), "mscreen", SUN, 55),       # NFL, before the 11:29 am run
     ("escreen_1040", (10, 40), "escreen", ALL, 45),       # NBA full board, before the 11:29 am run
@@ -117,6 +118,7 @@ ACTIONS = {  # action -> (repo, workflow file, inputs, token env var)
     "sgo": ("jdarby00/dk-odds", "sgo-links.yml", {}, "DK_ODDS_DISPATCH"),
     "cbbscreen": ("jdarby00/dk-odds", "market-screen.yml", {"sport": "cbb"}, "DK_ODDS_DISPATCH"),
     "recheck": ("jdarby00/dk-odds", "recheck.yml", {}, "DK_ODDS_DISPATCH"),
+    "record": ("jdarby00/dk-odds", "record.yml", {}, "DK_ODDS_DISPATCH"),
     "self": ("jdarby00/ev-data", "clock.yml", {}, "GITHUB_TOKEN"),
     # Token check: a dk-odds job that does nothing when its data is already there (no credits).
     "check": ("jdarby00/dk-odds", "fetch-espn.yml", {}, "DK_ODDS_DISPATCH"),
