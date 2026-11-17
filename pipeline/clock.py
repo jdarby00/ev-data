@@ -87,7 +87,19 @@ OPS_JOBS = [  # (key, ET time, action, weekdays, minutes it is still worth firin
     ("mscreen_1615", (16, 15), "mscreen", SUN_MON_THU, 25),  # NFL night games, for the 4:45 pm run
     ("escreen_1620", (16, 20), "escreen", ALL, 20),        # after the 4:15 pm board, for the 4:45 pm run
     ("news_1810", (18, 10), "latenews", ALL, 25),          # NBA nights only. 6:10 pm (was 6:40): on 9 Nov the late-news reply
-                                                           # reached Jake at 6:55, after he had bet at 6:45. dk-odds keeps its own 6:40 cron.
+                                                           # reached Jake at 6:55, after he had bet at 6:45. dk-odds keeps its own 6:40 cron.    # 17 Nov: these dk-odds jobs ran on GitHub's cron, which fired them 5-7 hours late on 16 Nov (the 3:50 pm boosts
+    # at 10:12 pm, the 4:05 pm college screen at 10:28 pm, the 5:40 pm price check at 11:47 pm), so the 4:45 pm card
+    # and the pre-tip check missed them. The clock fires them on time; their crons stay only as a backup.
+    ("cbbscreen_1005", (10, 5), "cbbscreen", SAT_SUN, 45),  # college lines for the 11:29 am weekend early card
+    ("boosts_1040", (10, 40), "boosts", ALL, 60),          # FanDuel's public boosts (boosts.py)
+    ("sgo_1045", (10, 45), "sgo", ALL, 45),                # free DraftKings/FanDuel bet-slip links (sgo_links.py)
+    ("recheck_1155", (11, 55), "recheck", SAT_SUN, 20),    # pre-tip price check + phone alert, weekend early games
+    ("boosts_1550", (15, 50), "boosts", ALL, 40),
+    ("cbbscreen_1605", (16, 5), "cbbscreen", ALL, 30),     # college lines for the 4:45 pm card
+    ("sgo_1620", (16, 20), "sgo", ALL, 20),
+    ("recheck_1740", (17, 40), "recheck", ALL, 25),        # pre-tip price check + phone alert (GitHub app)
+    ("recheck_1820", (18, 20), "recheck", ALL, 20),
+    ("recheck_1852", (18, 52), "recheck", ALL, 6),         # last look before 7:00 tips
 ]
 ACTIONS = {  # action -> (repo, workflow file, inputs, token env var)
     "board": ("jdarby00/ev-data", "nba.yml", {"boxscores": "true"}, "GITHUB_TOKEN"),
@@ -101,6 +113,10 @@ ACTIONS = {  # action -> (repo, workflow file, inputs, token env var)
     # late-news re-screens for free and may price up to 3 flagged spreads (1 credit each); autorequest subtracts
     # the late-news spreads already requested today, so a second run (its own cron firing late) spends nothing more.
     "latenews": ("jdarby00/dk-odds", "late-news.yml", {}, "DK_ODDS_DISPATCH"),
+    "boosts": ("jdarby00/dk-odds", "boosts.yml", {}, "DK_ODDS_DISPATCH"),
+    "sgo": ("jdarby00/dk-odds", "sgo-links.yml", {}, "DK_ODDS_DISPATCH"),
+    "cbbscreen": ("jdarby00/dk-odds", "market-screen.yml", {"sport": "cbb"}, "DK_ODDS_DISPATCH"),
+    "recheck": ("jdarby00/dk-odds", "recheck.yml", {}, "DK_ODDS_DISPATCH"),
     "self": ("jdarby00/ev-data", "clock.yml", {}, "GITHUB_TOKEN"),
     # Token check: a dk-odds job that does nothing when its data is already there (no credits).
     "check": ("jdarby00/dk-odds", "fetch-espn.yml", {}, "DK_ODDS_DISPATCH"),

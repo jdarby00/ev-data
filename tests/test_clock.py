@@ -274,8 +274,10 @@ class OpsJobs(unittest.TestCase):
     def test_monday_with_nba_and_nfl_night(self):
         got = self.ops(et(MONDAY, 4, 0), MONDAY, {"games": [{"tip_et": "2026-11-09 19:30", "state": "pre"}]})
         keys = [k for _, k, _ in got]
-        self.assertEqual(keys, ["box_0520", "lab_0610", "escreen_1040", "board_1405", "auto_1425", "lab_1435",
-                                "board_1445", "board_1615", "mscreen_1615", "escreen_1620", "news_1810"])
+        self.assertEqual(keys, ["box_0520", "lab_0610", "boosts_1040", "escreen_1040", "sgo_1045", "board_1405",
+                                "auto_1425", "lab_1435", "board_1445", "boosts_1550", "cbbscreen_1605", "board_1615",
+                                "mscreen_1615", "escreen_1620", "sgo_1620", "recheck_1740", "news_1810", "recheck_1820",
+                                "recheck_1852"])
         self.assertEqual(got[1], ("2026-11-09T11:10:00Z", "lab_0610", "lab"))  # 6:10 am EST
         for _, _, a in got:
             self.assertIn(a, C.ACTIONS)
@@ -292,6 +294,10 @@ class OpsJobs(unittest.TestCase):
         self.assertNotIn("news_1810", tue_keys)  # no NBA tonight: no late-news re-screen (it may spend credits)
         self.assertNotIn("board_1405", tue_keys)  # board refreshes still need an NBA slate
         self.assertNotIn("escreen_1040", tue_keys)  # and so do the NBA full-board screens
+        self.assertTrue({"boosts_1550", "cbbscreen_1605", "recheck_1740", "recheck_1852"} <= set(tue_keys))  # every day
+        self.assertIn("recheck_1155", sun_keys)
+        self.assertNotIn("recheck_1155", tue_keys)
+        self.assertEqual(C.ACTIONS["cbbscreen"][2], {"sport": "cbb"})
 
     def test_late_windows_and_done(self):
         slate = {"games": [{"tip_et": "2026-11-09 19:30", "state": "pre"}]}
