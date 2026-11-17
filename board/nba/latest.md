@@ -1,15 +1,17 @@
 # NBA board, 2026-11-17
 
-Slate updated 2026-11-17 14:05 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-17 14:11 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
 - 14:05 Toronto Raptors: Scottie Barnes not listed → Day-To-Day
+- 14:11 Minnesota Timberwolves: Zyon Pullin not listed → Out
+- 14:11 Minnesota Timberwolves: Jonathan Kuminga Day-To-Day → Out
 
 ## NY @ TOR, 19:30 ET
-Line: NY -4.5, total 214.5 (Draft Kings).
+Line: NY -4.5, total 214.5 (DraftKings).
 **NY** (1 rest day). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -46,7 +48,7 @@ Line: NY -4.5, total 214.5 (Draft Kings).
 | Allen Graves | – | 15.2 (3.6) → 14.3 (6.6) | 4.2/4.4 → 4 (0–10) | 3.2/2.7 → 2 (0–6) | 0.8/0.8 → 1 (0–3) | 0.8/0.5 → 0 (0–2) | 8 (2–17) |
 
 ## POR @ MIN, 20:00 ET
-Line: MIN -1.5, total 227.5 (Draft Kings).
+Line: MIN -1.5, total 227.5 (DraftKings).
 **POR** (back-to-back). Out: Ja Morant, Chris Youngblood, Vit Krejci. Freed minutes: 49.8. Out all season so far (already in the lines): Shaedon Sharpe.
 - Without Ja Morant: Toumani Camara min +5.6, pts -4.5, reb +1.9, ast -0.3 (n=9 vs 4)
 - Without Ja Morant: Scoot Henderson min +4.8, pts +1.7, reb -0.5, ast -0.2 (n=9 vs 4)
@@ -67,7 +69,7 @@ Line: MIN -1.5, total 227.5 (Draft Kings).
 | Chris Youngblood | Out | 14.8 (8.3) | 6.6/6 | 1.6/1.3 | 1.2/1 | 1.4/1.3 | – |
 | Vit Krejci | Out | 10.6 (7.2) | 3.6/2.7 | 1.4/1.6 | 1/1.1 | 0.6/0.4 | – |
 
-**MIN** (back-to-back). Out: Anthony Edwards, Jaylen Clark. Freed minutes: 47.4. Out all season so far (already in the lines): Donte DiVincenzo.
+**MIN** (back-to-back). Out: Anthony Edwards, Jonathan Kuminga, Jaylen Clark, Zyon Pullin. Freed minutes: 81.5. Out all season so far (already in the lines): Donte DiVincenzo.
 - Without Jaylen Clark: Terrence Shannon Jr. min +8.3, pts +13.4, reb -0.1, ast +3.3 (n=2 vs 9)
 - Without Anthony Edwards: Bones Hyland min +8, pts +10.4, reb -0.2, ast +2.8 (n=10 vs 4)
 - Without Anthony Edwards: Ayo Dosunmu min +6.8, pts +8.1, reb +1, ast -0.9 (n=10 vs 4)
@@ -78,7 +80,7 @@ Line: MIN -1.5, total 227.5 (Draft Kings).
 | Anthony Edwards | Out | 33.8 (4.7) | 33.2/33.2 | 4.8/4.8 | 3.5/3.5 | 4.5/4.5 | – |
 | Jaden McDaniels | – | 33.2 (4.4) → 33 (25.3) | 17.2/16.7 → 16 (8–25) | 6.4/6.3 → 5 (2–9) | 4/3.7 → 3 (1–6) | 1.2/1.3 → 1 (0–3) | 25 (13–37) |
 | Ayo Dosunmu | – | 31.8 (3.8) → 31.3 (23.6) | 20.4/17.8 → 18 (9–27) | 3.6/4.7 → 4 (1–7) | 1.6/3.4 → 3 (1–6) | 2.4/1.8 → 2 (0–4) | 25 (13–37) |
-| Jonathan Kuminga | Day-To-Day | 29.4 (5.3) → 29.5 (21.8) | 11.8/12.4 → 13 (6–21) | 5.6/5.6 → 6 (3–10) | 2.6/2.8 → 2 (1–5) | 0.6/1.6 → 1 (0–3) | 22 (11–34) |
+| Jonathan Kuminga | Out | 29.4 (5.3) | 11.8/12.4 | 5.6/5.6 | 2.6/2.8 | 0.6/1.6 | – |
 | LaMelo Ball | – | 28.8 (4.2) → 27.9 (20.2) | 18.6/17.7 → 18 (9–29) | 4.2/3.7 → 4 (2–8) | 5.6/5.8 → 6 (2–10) | 3.8/3.5 → 3 (1–7) | 29 (16–43) |
 | Rudy Gobert | – | 27.6 (4.7) → 29 (21.3) | 9.2/8.2 → 9 (3–16) | 11.4/11.7 → 11 (6–17) | 2/1.7 → 2 (0–4) | 0/0 → 0 (0–0) | 22 (12–34) |
 | Terrence Shannon Jr. | – | 22.8 (4.8) → 23 (15.3) | 12.2/13 → 12 (5–21) | 3.4/3.5 → 3 (1–5) | 3.4/2.8 → 2 (0–5) | 0.6/1.5 → 1 (0–3) | 17 (8–28) |
@@ -88,7 +90,7 @@ Line: MIN -1.5, total 227.5 (Draft Kings).
 | Joan Beringer | – | 14.8 (6.8) → 15.3 (6.4) | 4.2/5.5 → 6 (1–12) | 4.8/6.1 → 4 (1–9) | 0/0.5 → 0 (0–1) | 0/0 → 0 (0–0) | 11 (2–21) |
 
 ## DET @ SA, 20:00 ET
-Line: SA -9.5, total 222.5 (Draft Kings).
+Line: SA -9.5, total 222.5 (DraftKings).
 **DET** (2 rest days). Out: Duncan Robinson, Jalen Duren, Ronald Holland II, Isaiah Joe, Taurean Prince. Freed minutes: 86.2.
 - Without Jalen Duren: Daniss Jenkins min +11.4, pts +5, reb +0.1, ast +0.4 (n=10 vs 2)
 - Without Jalen Duren: Kevin Huerter min +6.5, pts +7.1, reb -2.3, ast +0.6 (n=10 vs 2)
@@ -126,7 +128,7 @@ Line: SA -9.5, total 222.5 (Draft Kings).
 | Tobias Harris | Out | none this season; last season 27.8 min, 13.3 pts | | | | |
 
 ## UTAH @ LAC, 22:30 ET
-Line: LAC -6.5, total 225.5 (Draft Kings).
+Line: LAC -6.5, total 225.5 (DraftKings).
 **UTAH** (1 rest day). Out: Lauri Markkanen, Jaren Jackson Jr., Jaxson Hayes. Freed minutes: 80.9. Out all season so far (already in the lines): Jusuf Nurkic.
 - Without Jaxson Hayes: Mo Bamba min +16, pts +13.4, reb +0.2, ast +1.9 (n=2 vs 8)
 - Without Jaren Jackson Jr.: Josh Okogie min +8.3, pts +4.9, reb +2.2, ast +0.4 (n=10 vs 3)
@@ -164,7 +166,7 @@ Line: LAC -6.5, total 225.5 (Draft Kings).
 | Yanic Konan Niederhauser | Out | none this season; last season 10.4 min, 4.3 pts | | | | |
 
 ## CHA @ LAL, 23:00 ET
-Line: LAL -7.5, total 221.5 (Draft Kings).
+Line: LAL -7.5, total 221.5 (DraftKings).
 **CHA** (1 rest day). Out: Dennis Schroder, Kon Knueppel. Freed minutes: 36.
 - Without Dennis Schroder: Brandon Miller min -13.9, pts -15.5, reb -3.3, ast +0.2 (n=2 vs 9)
 - Without Dennis Schroder: Hannes Steinbach min +12.3, pts +0.3, reb +4.7, ast +0.2 (n=2 vs 3)

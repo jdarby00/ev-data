@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17",
- "updated_et": "2026-11-17 14:05",
+ "updated_et": "2026-11-17 14:11",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -15,7 +15,7 @@
    "spread_text": "NY -4.5",
    "spread": 4.5,
    "total": 214.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -29,7 +29,7 @@
    "spread_text": "MIN -1.5",
    "spread": -1.5,
    "total": 227.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -43,7 +43,7 @@
    "spread_text": "SA -9.5",
    "spread": -9.5,
    "total": 222.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -57,7 +57,7 @@
    "spread_text": "LAC -6.5",
    "spread": -6.5,
    "total": 225.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -71,7 +71,7 @@
    "spread_text": "LAL -7.5",
    "spread": -7.5,
    "total": 221.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
@@ -177,11 +177,18 @@
   ],
   "Minnesota Timberwolves": [
    {
+    "player": "Zyon Pullin",
+    "status": "Out",
+    "detail": "Pullin is in the starting lineup for Friday's preseason matchup with the Bulls.",
+    "type": "out",
+    "updated": "2026-11-17T19:04Z"
+   },
+   {
     "player": "Jonathan Kuminga",
-    "status": "Day-To-Day",
+    "status": "Out",
     "detail": "Kuminga (shoulder) exited in the fourth quarter of Monday's 106-98 win over Portland and did not return. He closed with 13 points (5-12 FG, 1-2 3Pt, 2-2 FT), nine rebounds and one assist across 29 minutes.",
-    "type": "day-to-day",
-    "updated": "2026-11-17T03:32Z"
+    "type": "out",
+    "updated": "2026-11-17T19:01Z"
    },
    {
     "player": "Jaylen Clark",
@@ -319,6 +326,20 @@
    "player": "Scottie Barnes",
    "from": "not listed",
    "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-17 14:11",
+   "team": "Minnesota Timberwolves",
+   "player": "Zyon Pullin",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-17 14:11",
+   "team": "Minnesota Timberwolves",
+   "player": "Jonathan Kuminga",
+   "from": "Day-To-Day",
+   "to": "Out"
   }
  ]
 }
