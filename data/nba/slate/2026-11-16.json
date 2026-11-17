@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "updated_et": "2026-11-16 18:50",
+ "updated_et": "2026-11-16 21:27",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,7 +11,7 @@
    "home": "BOS",
    "away_name": "Orlando Magic",
    "home_name": "Boston Celtics",
-   "state": "pre",
+   "state": "in",
    "spread_text": "BOS -9.5",
    "spread": -9.5,
    "total": 214.5,
@@ -25,7 +25,7 @@
    "home": "CLE",
    "away_name": "Chicago Bulls",
    "home_name": "Cleveland Cavaliers",
-   "state": "pre",
+   "state": "in",
    "spread_text": "CLE -8.5",
    "spread": -8.5,
    "total": 241.5,
@@ -39,7 +39,7 @@
    "home": "WSH",
    "away_name": "Memphis Grizzlies",
    "home_name": "Washington Wizards",
-   "state": "pre",
+   "state": "in",
    "spread_text": "MEM -4.5",
    "spread": 4.5,
    "total": 231.5,
@@ -53,7 +53,7 @@
    "home": "BKN",
    "away_name": "Philadelphia 76ers",
    "home_name": "Brooklyn Nets",
-   "state": "pre",
+   "state": "in",
    "spread_text": "PHI -4.5",
    "spread": 4.5,
    "total": 226.5,
@@ -67,7 +67,7 @@
    "home": "MIA",
    "away_name": "Houston Rockets",
    "home_name": "Miami Heat",
-   "state": "pre",
+   "state": "in",
    "spread_text": "HOU -1.5",
    "spread": 1.5,
    "total": 233.5,
@@ -81,7 +81,7 @@
    "home": "MIN",
    "away_name": "Portland Trail Blazers",
    "home_name": "Minnesota Timberwolves",
-   "state": "pre",
+   "state": "in",
    "spread_text": "MIN -2.5",
    "spread": -2.5,
    "total": 227.5,
@@ -95,7 +95,7 @@
    "home": "NO",
    "away_name": "Golden State Warriors",
    "home_name": "New Orleans Pelicans",
-   "state": "pre",
+   "state": "in",
    "spread_text": "GS -3.5",
    "spread": 3.5,
    "total": 223.5,
@@ -109,7 +109,7 @@
    "home": "DEN",
    "away_name": "Phoenix Suns",
    "home_name": "Denver Nuggets",
-   "state": "pre",
+   "state": "in",
    "spread_text": "DEN -9.5",
    "spread": -9.5,
    "total": 229.5,
@@ -129,6 +129,20 @@
   ],
   "Chicago Bulls": [
    {
+    "player": "Jalen Smith",
+    "status": "Day-To-Day",
+    "detail": "Smith (finger) will play in Monday's game against the Cavaliers, K.C. Johnson of Chicago Sports Network reports.",
+    "type": "day-to-day",
+    "updated": "2026-11-17T02:17Z"
+   },
+   {
+    "player": "Patrick Williams",
+    "status": "Day-To-Day",
+    "detail": "Williams (finger) has been ruled out for the remainder of Monday's game against Cleveland.",
+    "type": "day-to-day",
+    "updated": "2026-11-17T02:12Z"
+   },
+   {
     "player": "Tobe Awaka",
     "status": "Out",
     "detail": "Awaka (back) has been ruled out for Monday's game against the Cavaliers.",
@@ -144,6 +158,13 @@
    }
   ],
   "Cleveland Cavaliers": [
+   {
+    "player": "Peyton Watson",
+    "status": "Day-To-Day",
+    "detail": "Watson (abdomen) will play in Monday's game against the Bulls, Danny Cunningham of Sports Radio 92.3 The Fan Cleveland reports.",
+    "type": "day-to-day",
+    "updated": "2026-11-17T02:18Z"
+   },
    {
     "player": "Jaylon Tyson",
     "status": "Out",
@@ -184,13 +205,6 @@
   ],
   "Golden State Warriors": [
    {
-    "player": "Gui Santos",
-    "status": "Day-To-Day",
-    "detail": "Santos is questionable for Monday's game against New Orleans due to right ankle inflammation.",
-    "type": "day-to-day",
-    "updated": "2026-11-15T23:03Z"
-   },
-   {
     "player": "Stephen Curry",
     "status": "Out",
     "detail": "Curry has been diagnosed with an oblique abdominal tear and will be re-evaluated in two weeks, Shams Charania of ESPN reports.",
@@ -229,10 +243,10 @@
   "Houston Rockets": [
    {
     "player": "Amen Thompson",
-    "status": "Day-To-Day",
-    "detail": "Thompson (knee) is listed as questionable for Monday's game against the Heat.",
-    "type": "day-to-day",
-    "updated": "2026-11-16T18:13Z"
+    "status": "Out",
+    "detail": "Thompson (knee) is out for Monday's game against the Heat.",
+    "type": "out",
+    "updated": "2026-11-16T23:48Z"
    },
    {
     "player": "Clint Capela",
@@ -301,6 +315,13 @@
    }
   ],
   "Miami Heat": [
+   {
+    "player": "Bam Adebayo",
+    "status": "Day-To-Day",
+    "detail": "Adebayo is dealing with tightness in his right hip and is questionable to return to Monday's game versus Houston, Zachary Weinberger of ClutchPoints.com reports.",
+    "type": "day-to-day",
+    "updated": "2026-11-17T02:05Z"
+   },
    {
     "player": "Nikola Jovic",
     "status": "Out",
@@ -408,11 +429,11 @@
   ],
   "Philadelphia 76ers": [
    {
-    "player": "Joel Embiid",
-    "status": "Day-To-Day",
-    "detail": "Embiid (foot) is questionable for Monday's game against the Nets.",
-    "type": "day-to-day",
-    "updated": "2026-11-16T18:09Z"
+    "player": "Dominick Barlow",
+    "status": "Out",
+    "detail": "Barlow (back) will be re-evaluated later in the week and is thought to be nearing his 2026-27 season debut, Tony Jones of The Athletic reports.",
+    "type": "out",
+    "updated": "2026-11-16T23:45Z"
    },
    {
     "player": "LeBron James",
@@ -420,13 +441,6 @@
     "detail": "James (back) has been ruled out for Monday's game against the Nets.",
     "type": "out",
     "updated": "2026-11-16T18:07Z"
-   },
-   {
-    "player": "Dominick Barlow",
-    "status": "Out",
-    "detail": "Barlow (back) participated in Thursday's shootaround but doesn't have a timeline to return to game action, Ky Carlin of USA Today reports.",
-    "type": "out",
-    "updated": "2026-11-12T16:37Z"
    },
    {
     "player": "Adem Bona",
@@ -444,13 +458,6 @@
    }
   ],
   "Phoenix Suns": [
-   {
-    "player": "Ryan Dunn",
-    "status": "Day-To-Day",
-    "detail": "Dunn (thumb) is listed as questionable for Monday's game against Denver.",
-    "type": "day-to-day",
-    "updated": "2026-11-16T20:18Z"
-   },
    {
     "player": "Mark Williams",
     "status": "Out",
@@ -658,6 +665,62 @@
    "at_et": "2026-11-16 18:50",
    "team": "Washington Wizards",
    "player": "Tre Johnson",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-16 21:27",
+   "team": "Chicago Bulls",
+   "player": "Jalen Smith",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-16 21:27",
+   "team": "Chicago Bulls",
+   "player": "Patrick Williams",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-16 21:27",
+   "team": "Cleveland Cavaliers",
+   "player": "Peyton Watson",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-16 21:27",
+   "team": "Golden State Warriors",
+   "player": "Gui Santos",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-16 21:27",
+   "team": "Houston Rockets",
+   "player": "Amen Thompson",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-16 21:27",
+   "team": "Miami Heat",
+   "player": "Bam Adebayo",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-16 21:27",
+   "team": "Philadelphia 76ers",
+   "player": "Joel Embiid",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-16 21:27",
+   "team": "Phoenix Suns",
+   "player": "Ryan Dunn",
    "from": "Day-To-Day",
    "to": "removed from report"
   }
