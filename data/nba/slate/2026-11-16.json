@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "updated_et": "2026-11-16 21:27",
+ "updated_et": "2026-11-16 22:57",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,7 +11,7 @@
    "home": "BOS",
    "away_name": "Orlando Magic",
    "home_name": "Boston Celtics",
-   "state": "in",
+   "state": "post",
    "spread_text": "BOS -9.5",
    "spread": -9.5,
    "total": 214.5,
@@ -25,7 +25,7 @@
    "home": "CLE",
    "away_name": "Chicago Bulls",
    "home_name": "Cleveland Cavaliers",
-   "state": "in",
+   "state": "post",
    "spread_text": "CLE -8.5",
    "spread": -8.5,
    "total": 241.5,
@@ -39,7 +39,7 @@
    "home": "WSH",
    "away_name": "Memphis Grizzlies",
    "home_name": "Washington Wizards",
-   "state": "in",
+   "state": "post",
    "spread_text": "MEM -4.5",
    "spread": 4.5,
    "total": 231.5,
@@ -53,7 +53,7 @@
    "home": "BKN",
    "away_name": "Philadelphia 76ers",
    "home_name": "Brooklyn Nets",
-   "state": "in",
+   "state": "post",
    "spread_text": "PHI -4.5",
    "spread": 4.5,
    "total": 226.5,
@@ -67,7 +67,7 @@
    "home": "MIA",
    "away_name": "Houston Rockets",
    "home_name": "Miami Heat",
-   "state": "in",
+   "state": "post",
    "spread_text": "HOU -1.5",
    "spread": 1.5,
    "total": 233.5,
@@ -81,7 +81,7 @@
    "home": "MIN",
    "away_name": "Portland Trail Blazers",
    "home_name": "Minnesota Timberwolves",
-   "state": "in",
+   "state": "post",
    "spread_text": "MIN -2.5",
    "spread": -2.5,
    "total": 227.5,
@@ -95,7 +95,7 @@
    "home": "NO",
    "away_name": "Golden State Warriors",
    "home_name": "New Orleans Pelicans",
-   "state": "in",
+   "state": "post",
    "spread_text": "GS -3.5",
    "spread": 3.5,
    "total": 223.5,
@@ -121,19 +121,19 @@
   "Boston Celtics": [
    {
     "player": "Neemias Queta",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Queta (rest) won't play in Monday's game against the Magic, Taylor Snow of the Celtics' official site reports.",
-    "type": "out",
-    "updated": "2026-11-16T22:10Z"
+    "type": "day-to-day",
+    "updated": "2026-11-17T03:37Z"
    }
   ],
   "Chicago Bulls": [
    {
     "player": "Jalen Smith",
     "status": "Day-To-Day",
-    "detail": "Smith (finger) will play in Monday's game against the Cavaliers, K.C. Johnson of Chicago Sports Network reports.",
+    "detail": "Smith (undisclosed) exited in the fourth quarter of Monday's 126-115 loss to the Cavaliers and did not return.",
     "type": "day-to-day",
-    "updated": "2026-11-17T02:17Z"
+    "updated": "2026-11-17T02:58Z"
    },
    {
     "player": "Patrick Williams",
@@ -159,18 +159,18 @@
   ],
   "Cleveland Cavaliers": [
    {
-    "player": "Peyton Watson",
+    "player": "Jaylon Tyson",
     "status": "Day-To-Day",
-    "detail": "Watson (abdomen) will play in Monday's game against the Bulls, Danny Cunningham of Sports Radio 92.3 The Fan Cleveland reports.",
+    "detail": "Tyson (ankle) has been ruled out for Monday's game against Chicago.",
     "type": "day-to-day",
-    "updated": "2026-11-17T02:18Z"
+    "updated": "2026-11-17T03:37Z"
    },
    {
-    "player": "Jaylon Tyson",
-    "status": "Out",
-    "detail": "Tyson (ankle) has been ruled out for Monday's game against Chicago.",
-    "type": "out",
-    "updated": "2026-11-16T22:39Z"
+    "player": "Peyton Watson",
+    "status": "Day-To-Day",
+    "detail": "Watson left Monday's 126-115 win over Chicago due to a head injury and did not return.",
+    "type": "day-to-day",
+    "updated": "2026-11-17T02:58Z"
    },
    {
     "player": "Evan Mobley",
@@ -243,10 +243,24 @@
   "Houston Rockets": [
    {
     "player": "Amen Thompson",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Thompson (knee) is out for Monday's game against the Heat.",
-    "type": "out",
-    "updated": "2026-11-16T23:48Z"
+    "type": "day-to-day",
+    "updated": "2026-11-17T03:39Z"
+   },
+   {
+    "player": "Marcus Smart",
+    "status": "Day-To-Day",
+    "detail": "Smart has been suspended three games for throwing a punch during Wednesday's matchup against Golden State, Shams Charania of ESPN reports.",
+    "type": "day-to-day",
+    "updated": "2026-11-17T03:39Z"
+   },
+   {
+    "player": "Steven Adams",
+    "status": "Day-To-Day",
+    "detail": "Adams (calf) is out for Monday's game against the Heat.",
+    "type": "day-to-day",
+    "updated": "2026-11-17T03:38Z"
    },
    {
     "player": "Clint Capela",
@@ -256,34 +270,27 @@
     "updated": "2026-11-16T18:09Z"
    },
    {
-    "player": "Steven Adams",
-    "status": "Out",
-    "detail": "Adams (calf) is out for Monday's game against the Heat.",
-    "type": "out",
-    "updated": "2026-11-16T18:07Z"
-   },
-   {
     "player": "Julian Phillips",
     "status": "Day-To-Day",
     "detail": "Phillips (illness) is available for Wednesday's game against Dallas.",
     "type": "day-to-day",
     "updated": "2026-11-16T15:28Z"
-   },
-   {
-    "player": "Marcus Smart",
-    "status": "Suspension",
-    "detail": "Smart has been suspended three games for throwing a punch during Wednesday's matchup against Golden State, Shams Charania of ESPN reports.",
-    "type": "Suspension",
-    "updated": "2026-11-12T22:45Z"
    }
   ],
   "Memphis Grizzlies": [
    {
     "player": "Isaiah Stewart",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Stewart is out for Monday's game against the Wizards due to an illness.",
-    "type": "out",
-    "updated": "2026-11-16T18:05Z"
+    "type": "day-to-day",
+    "updated": "2026-11-17T03:35Z"
+   },
+   {
+    "player": "Ty Jerome",
+    "status": "Day-To-Day",
+    "detail": "Jerome (hip) has been ruled out for Monday's game against the Wizards.",
+    "type": "day-to-day",
+    "updated": "2026-11-17T03:35Z"
    },
    {
     "player": "Scotty Pippen Jr.",
@@ -300,13 +307,6 @@
     "updated": "2026-11-16T17:12Z"
    },
    {
-    "player": "Ty Jerome",
-    "status": "Out",
-    "detail": "Jerome (hip) has been ruled out for Monday's game against the Wizards.",
-    "type": "out",
-    "updated": "2026-11-15T22:13Z"
-   },
-   {
     "player": "Richie Saunders",
     "status": "Out",
     "detail": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports.",
@@ -316,18 +316,18 @@
   ],
   "Miami Heat": [
    {
-    "player": "Bam Adebayo",
+    "player": "Nikola Jovic",
     "status": "Day-To-Day",
-    "detail": "Adebayo is dealing with tightness in his right hip and is questionable to return to Monday's game versus Houston, Zachary Weinberger of ClutchPoints.com reports.",
+    "detail": "Jovic (illness) is out for Monday's game against Houston.",
     "type": "day-to-day",
-    "updated": "2026-11-17T02:05Z"
+    "updated": "2026-11-17T03:40Z"
    },
    {
-    "player": "Nikola Jovic",
-    "status": "Out",
-    "detail": "Jovic (illness) is out for Monday's game against Houston.",
-    "type": "out",
-    "updated": "2026-11-16T22:50Z"
+    "player": "Bam Adebayo",
+    "status": "Day-To-Day",
+    "detail": "Coach Erik Spoelstra stated after Monday's 128-110 win over Houston that the team held Adebayo (hip) out of the second half in an effort to be proactive, and the injury isn't expected to be a long-term issue, Anthony Chiang of the Miami Herald reports.",
+    "type": "day-to-day",
+    "updated": "2026-11-17T03:34Z"
    },
    {
     "player": "Pelle Larsson",
@@ -338,6 +338,13 @@
    }
   ],
   "Minnesota Timberwolves": [
+   {
+    "player": "Jonathan Kuminga",
+    "status": "Day-To-Day",
+    "detail": "Kuminga (shoulder) exited in the fourth quarter of Monday's 106-98 win over Portland and did not return. He closed with 13 points (5-12 FG, 1-2 3Pt, 2-2 FT), nine rebounds and one assist across 29 minutes.",
+    "type": "day-to-day",
+    "updated": "2026-11-17T03:32Z"
+   },
    {
     "player": "Jaylen Clark",
     "status": "Out",
@@ -429,18 +436,18 @@
   ],
   "Philadelphia 76ers": [
    {
+    "player": "LeBron James",
+    "status": "Day-To-Day",
+    "detail": "James (back) has been ruled out for Monday's game against the Nets.",
+    "type": "day-to-day",
+    "updated": "2026-11-17T03:41Z"
+   },
+   {
     "player": "Dominick Barlow",
     "status": "Out",
     "detail": "Barlow (back) will be re-evaluated later in the week and is thought to be nearing his 2026-27 season debut, Tony Jones of The Athletic reports.",
     "type": "out",
     "updated": "2026-11-16T23:45Z"
-   },
-   {
-    "player": "LeBron James",
-    "status": "Out",
-    "detail": "James (back) has been ruled out for Monday's game against the Nets.",
-    "type": "out",
-    "updated": "2026-11-16T18:07Z"
    },
    {
     "player": "Adem Bona",
@@ -723,6 +730,76 @@
    "player": "Ryan Dunn",
    "from": "Day-To-Day",
    "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-16 22:57",
+   "team": "Boston Celtics",
+   "player": "Neemias Queta",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-16 22:57",
+   "team": "Cleveland Cavaliers",
+   "player": "Jaylon Tyson",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-16 22:57",
+   "team": "Houston Rockets",
+   "player": "Amen Thompson",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-16 22:57",
+   "team": "Houston Rockets",
+   "player": "Marcus Smart",
+   "from": "Suspension",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-16 22:57",
+   "team": "Houston Rockets",
+   "player": "Steven Adams",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-16 22:57",
+   "team": "Memphis Grizzlies",
+   "player": "Isaiah Stewart",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-16 22:57",
+   "team": "Memphis Grizzlies",
+   "player": "Ty Jerome",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-16 22:57",
+   "team": "Miami Heat",
+   "player": "Nikola Jovic",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-16 22:57",
+   "team": "Minnesota Timberwolves",
+   "player": "Jonathan Kuminga",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-16 22:57",
+   "team": "Philadelphia 76ers",
+   "player": "LeBron James",
+   "from": "Out",
+   "to": "Day-To-Day"
   }
  ]
 }
