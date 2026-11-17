@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17",
- "updated_et": "2026-11-17 16:15",
+ "updated_et": "2026-11-17 18:09",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -12,10 +12,10 @@
    "away_name": "New York Knicks",
    "home_name": "Toronto Raptors",
    "state": "pre",
-   "spread_text": "NY -4.5",
-   "spread": 4.5,
-   "total": 214.5,
-   "odds_source": "Draft Kings",
+   "spread_text": "NY -2.5",
+   "spread": 2.5,
+   "total": 215.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -26,10 +26,10 @@
    "away_name": "Portland Trail Blazers",
    "home_name": "Minnesota Timberwolves",
    "state": "pre",
-   "spread_text": "MIN -3.5",
-   "spread": -3.5,
+   "spread_text": "MIN -2.5",
+   "spread": -2.5,
    "total": 225.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -43,7 +43,7 @@
    "spread_text": "SA -9.5",
    "spread": -9.5,
    "total": 221.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -57,7 +57,7 @@
    "spread_text": "LAC -6.5",
    "spread": -6.5,
    "total": 225.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -70,8 +70,8 @@
    "state": "pre",
    "spread_text": "LAL -7.5",
    "spread": -7.5,
-   "total": 221.5,
-   "odds_source": "Draft Kings",
+   "total": 222.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
@@ -267,11 +267,11 @@
   ],
   "Toronto Raptors": [
    {
-    "player": "Scottie Barnes",
-    "status": "Day-To-Day",
-    "detail": "Barnes (illness) has been downgraded to questionable for Tuesday's game against the Knicks, Blake Murphy of Sportsnet.ca reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-17T17:29Z"
+    "player": "Kawhi Leonard",
+    "status": "Out",
+    "detail": "Leonard (knee) has progressed in his strength and conditioning program but will miss at least one more week, Michael Scotto of HoopsHype.com reports.",
+    "type": "out",
+    "updated": "2026-11-17T22:25Z"
    },
    {
     "player": "Nate Bittle",
@@ -286,13 +286,6 @@
     "detail": "McCullar signed a two-way contract with the Raptors on Thursday, Michael Scotto of HoopsHype.com reports.",
     "type": "day-to-day",
     "updated": "2026-11-13T15:37Z"
-   },
-   {
-    "player": "Kawhi Leonard",
-    "status": "Out",
-    "detail": "Head coach Darko Rajakovic said Wednesday that Leonard (knee) is doing individual on-court work and is progressing well, Michael Grange of Sportsnet.ca reports.",
-    "type": "out",
-    "updated": "2026-11-11T22:33Z"
    }
   ],
   "Utah Jazz": [
@@ -354,6 +347,13 @@
    "player": "Deni Avdija",
    "from": "not listed",
    "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-17 18:09",
+   "team": "Toronto Raptors",
+   "player": "Scottie Barnes",
+   "from": "Day-To-Day",
+   "to": "removed from report"
   }
  ]
 }
