@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "updated_et": "2026-11-18 14:45",
+ "updated_et": "2026-11-18 16:15",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -14,8 +14,8 @@
    "state": "pre",
    "spread_text": "CLE -4.5",
    "spread": -4.5,
-   "total": 237.5,
-   "odds_source": "DraftKings",
+   "total": 238.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -28,8 +28,8 @@
    "state": "pre",
    "spread_text": "HOU -7.5",
    "spread": 7.5,
-   "total": 224.5,
-   "odds_source": "DraftKings",
+   "total": 225.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -42,8 +42,8 @@
    "state": "pre",
    "spread_text": "MIA -11.5",
    "spread": -11.5,
-   "total": 237.5,
-   "odds_source": "DraftKings",
+   "total": 235.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -54,10 +54,10 @@
    "away_name": "Philadelphia 76ers",
    "home_name": "Orlando Magic",
    "state": "pre",
-   "spread_text": "ORL -1.5",
-   "spread": -1.5,
-   "total": 222.5,
-   "odds_source": "DraftKings",
+   "spread_text": "PHI -1.5",
+   "spread": 1.5,
+   "total": 221.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -70,8 +70,8 @@
    "state": "pre",
    "spread_text": "BKN -2.5",
    "spread": -2.5,
-   "total": 240.5,
-   "odds_source": "DraftKings",
+   "total": 239.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "TOR -4.5",
    "spread": -4.5,
    "total": 225.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -99,7 +99,7 @@
    "spread_text": "DAL -4.5",
    "spread": -4.5,
    "total": 224.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -113,7 +113,7 @@
    "spread_text": "DET -4.5",
    "spread": 4.5,
    "total": 225.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -127,7 +127,7 @@
    "spread_text": "OKC -5.5",
    "spread": -5.5,
    "total": 228.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -140,8 +140,8 @@
    "state": "pre",
    "spread_text": "BOS -2.5",
    "spread": 2.5,
-   "total": 219.5,
-   "odds_source": "DraftKings",
+   "total": 218.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -152,10 +152,10 @@
    "away_name": "Utah Jazz",
    "home_name": "Los Angeles Lakers",
    "state": "pre",
-   "spread_text": "LAL -10.5",
-   "spread": -10.5,
-   "total": 228.5,
-   "odds_source": "DraftKings",
+   "spread_text": "LAL -11.5",
+   "spread": -11.5,
+   "total": 231.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -166,10 +166,10 @@
    "away_name": "Phoenix Suns",
    "home_name": "Sacramento Kings",
    "state": "pre",
-   "spread_text": "PHX -7.5",
-   "spread": 7.5,
-   "total": 226.5,
-   "odds_source": "DraftKings",
+   "spread_text": "PHX -6.5",
+   "spread": 6.5,
+   "total": 227.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   }
  ],
@@ -489,17 +489,10 @@
   "Los Angeles Lakers": [
    {
     "player": "Austin Reaves",
-    "status": "Day-To-Day",
+    "status": "Out",
     "detail": "Reaves (heel) is out for Tuesday's game against the Hornets, Dave McMenamin of ESPN.com reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-18T15:02Z"
-   },
-   {
-    "player": "Walker Kessler",
-    "status": "Day-To-Day",
-    "detail": "Head coach JJ Redick said he expects Walker (leg) to be available for Wednesday's game against the Jazz, Thuc Nhi Nguyen of the Los Angeles Times reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-18T15:02Z"
+    "type": "out",
+    "updated": "2026-11-18T21:02Z"
    }
   ],
   "Memphis Grizzlies": [
@@ -772,22 +765,15 @@
     "detail": "Bittle (foot) has been ruled out for Sunday's game against the Knicks, Zulfi Sheikh of Sportsnet.ca reports.",
     "type": "out",
     "updated": "2026-11-14T21:59Z"
-   },
-   {
-    "player": "Kevin McCullar Jr.",
-    "status": "Day-To-Day",
-    "detail": "McCullar signed a two-way contract with the Raptors on Thursday, Michael Scotto of HoopsHype.com reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-13T15:37Z"
    }
   ],
   "Utah Jazz": [
    {
     "player": "Jaxson Hayes",
     "status": "Day-To-Day",
-    "detail": "Hayes (knee) has been ruled out for Tuesday's game against the Clippers.",
+    "detail": "Hayes (knee) is questionable for Wednesday's game against the Lakers.",
     "type": "day-to-day",
-    "updated": "2026-11-18T14:59Z"
+    "updated": "2026-11-18T21:05Z"
    },
    {
     "player": "Lauri Markkanen",
@@ -968,6 +954,27 @@
    "player": "Taurean Prince",
    "from": "Day-To-Day",
    "to": "Out"
+  },
+  {
+   "at_et": "2026-11-18 16:15",
+   "team": "Los Angeles Lakers",
+   "player": "Austin Reaves",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-18 16:15",
+   "team": "Los Angeles Lakers",
+   "player": "Walker Kessler",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-18 16:15",
+   "team": "Toronto Raptors",
+   "player": "Kevin McCullar Jr.",
+   "from": "Day-To-Day",
+   "to": "removed from report"
   }
  ]
 }
