@@ -1,9 +1,9 @@
 {
- "built_at": "2026-11-17T19:35:45Z",
- "candidates": 5651,
+ "built_at": "2026-11-18T01:47:59Z",
+ "candidates": 5757,
  "slices": {
   "all": {
-   "n": 5651,
+   "n": 5757,
    "settled": 4839,
    "win_rate": 0.6338,
    "avg_chance": 0.6323,
@@ -17,27 +17,27 @@
     -0.012
    ],
    "roi_games": 72,
-   "clv_n": 2079,
-   "clv": -0.038,
+   "clv_n": 2161,
+   "clv": -0.0385,
    "clv_90_iid": [
-    -0.0403,
-    -0.0357
+    -0.0407,
+    -0.0362
    ],
    "clv_90": [
-    -0.0415,
-    -0.0338
+    -0.0419,
+    -0.0344
    ],
-   "clv_games": 85,
-   "move_n": 1834,
+   "clv_games": 88,
+   "move_n": 1902,
    "move": -0.0023,
    "move_90": [
     -0.0044,
-    -0.0001
+    -0.0002
    ],
-   "move_games": 85
+   "move_games": 88
   },
   "lane = likely": {
-   "n": 4235,
+   "n": 4299,
    "settled": 3679,
    "win_rate": 0.6836,
    "avg_chance": 0.6748,
@@ -51,29 +51,29 @@
     -0.0128
    ],
    "roi_games": 72,
-   "clv_n": 900,
-   "clv": -0.0815,
+   "clv_n": 948,
+   "clv": -0.0813,
    "clv_90_iid": [
-    -0.0842,
+    -0.084,
     -0.0787
    ],
    "clv_90": [
-    -0.0859,
+    -0.0858,
     -0.0768
    ],
-   "clv_games": 79,
-   "move_n": 655,
-   "move": -0.0063,
+   "clv_games": 82,
+   "move_n": 689,
+   "move": -0.0065,
    "move_90": [
     -0.009,
-    -0.0037
+    -0.0041
    ],
-   "move_games": 79,
+   "move_games": 82,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "lane = value": {
-   "n": 446,
+   "n": 453,
    "settled": 255,
    "win_rate": 0.4431,
    "avg_chance": 0.4797,
@@ -87,29 +87,29 @@
     0.0724
    ],
    "roi_games": 66,
-   "clv_n": 327,
-   "clv": 0.0253,
+   "clv_n": 333,
+   "clv": 0.0261,
    "clv_90_iid": [
-    0.0198,
-    0.0308
+    0.0205,
+    0.0317
    ],
    "clv_90": [
-    0.0187,
-    0.0324
+    0.0193,
+    0.0333
    ],
-   "clv_games": 78,
-   "move_n": 327,
-   "move": -0.017,
+   "clv_games": 80,
+   "move_n": 333,
+   "move": -0.0162,
    "move_90": [
-    -0.0218,
-    -0.0124
+    -0.0211,
+    -0.0112
    ],
-   "move_games": 78,
+   "move_games": 80,
    "verdict": "IN-SAMPLE SIGNAL: positive CLV",
    "iid_verdict": "positive CLV"
   },
   "lane = early": {
-   "n": 970,
+   "n": 1005,
    "settled": 905,
    "win_rate": 0.4851,
    "avg_chance": 0.5024,
@@ -123,24 +123,24 @@
     0.0485
    ],
    "roi_games": 72,
-   "clv_n": 852,
-   "clv": -0.0163,
+   "clv_n": 880,
+   "clv": -0.0168,
    "clv_90_iid": [
-    -0.0187,
-    -0.0139
+    -0.0191,
+    -0.0144
    ],
    "clv_90": [
-    -0.0198,
-    -0.0129
+    -0.0202,
+    -0.0133
    ],
-   "clv_games": 70,
-   "move_n": 852,
-   "move": 0.0065,
+   "clv_games": 72,
+   "move_n": 880,
+   "move": 0.0062,
    "move_90": [
-    0.0035,
-    0.0096
+    0.0033,
+    0.0093
    ],
-   "move_games": 70,
+   "move_games": 72,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
@@ -151,7 +151,7 @@
    "iid_verdict": null
   },
   "sport = nba": {
-   "n": 5441,
+   "n": 5547,
    "settled": 4839,
    "win_rate": 0.6338,
    "avg_chance": 0.6323,
@@ -165,24 +165,24 @@
     -0.012
    ],
    "roi_games": 72,
-   "clv_n": 1985,
-   "clv": -0.0417,
+   "clv_n": 2067,
+   "clv": -0.042,
    "clv_90_iid": [
-    -0.0439,
-    -0.0394
+    -0.0442,
+    -0.0398
    ],
    "clv_90": [
-    -0.0453,
-    -0.0384
+    -0.0455,
+    -0.0389
    ],
-   "clv_games": 70,
-   "move_n": 1740,
-   "move": -0.0013,
+   "clv_games": 73,
+   "move_n": 1808,
+   "move": -0.0014,
    "move_90": [
     -0.0034,
-    0.0006
+    0.0005
    ],
-   "move_games": 70,
+   "move_games": 73,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
@@ -211,7 +211,7 @@
    "iid_verdict": "positive CLV"
   },
   "tier = Straight": {
-   "n": 1767,
+   "n": 1804,
    "settled": 1520,
    "win_rate": 0.6276,
    "avg_chance": 0.6229,
@@ -225,29 +225,29 @@
     -0.0106
    ],
    "roi_games": 72,
-   "clv_n": 762,
+   "clv_n": 803,
    "clv": -0.0796,
    "clv_90_iid": [
-    -0.0824,
-    -0.0767
+    -0.0823,
+    -0.0769
    ],
    "clv_90": [
-    -0.0842,
-    -0.0746
+    -0.0841,
+    -0.0751
    ],
-   "clv_games": 79,
-   "move_n": 575,
-   "move": -0.0062,
+   "clv_games": 82,
+   "move_n": 604,
+   "move": -0.0064,
    "move_90": [
     -0.009,
-    -0.0034
+    -0.0036
    ],
-   "move_games": 79,
+   "move_games": 82,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "tier = Lean": {
-   "n": 68,
+   "n": 71,
    "settled": 65,
    "win_rate": 0.5385,
    "avg_chance": 0.5683,
@@ -261,29 +261,29 @@
     0.1294
    ],
    "roi_games": 37,
-   "clv_n": 61,
+   "clv_n": 62,
    "clv": -0.0249,
    "clv_90_iid": [
-    -0.0356,
-    -0.0143
+    -0.0354,
+    -0.0144
    ],
    "clv_90": [
-    -0.0365,
-    -0.014
+    -0.0362,
+    -0.0142
    ],
-   "clv_games": 36,
-   "move_n": 61,
-   "move": -0.0126,
+   "clv_games": 37,
+   "move_n": 62,
+   "move": -0.0125,
    "move_90": [
-    -0.0229,
-    -0.0038
+    -0.0225,
+    -0.0037
    ],
-   "move_games": 36,
+   "move_games": 37,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "tier = Value": {
-   "n": 1348,
+   "n": 1387,
    "settled": 1095,
    "win_rate": 0.4721,
    "avg_chance": 0.4932,
@@ -297,29 +297,29 @@
     0.0367
    ],
    "roi_games": 72,
-   "clv_n": 1118,
-   "clv": -0.0037,
+   "clv_n": 1151,
+   "clv": -0.0039,
    "clv_90_iid": [
-    -0.0062,
-    -0.0012
+    -0.0064,
+    -0.0014
    ],
    "clv_90": [
-    -0.0077,
-    0.0006
+    -0.0078,
+    0.0003
    ],
-   "clv_games": 85,
-   "move_n": 1118,
-   "move": 0.0006,
+   "clv_games": 87,
+   "move_n": 1151,
+   "move": 0.0008,
    "move_90": [
-    -0.0023,
-    0.0037
+    -0.0021,
+    0.0035
    ],
-   "move_games": 85,
+   "move_games": 87,
    "verdict": "hypothesis (range includes zero)",
    "iid_verdict": "negative CLV"
   },
   "tier = Best bet": {
-   "n": 2468,
+   "n": 2495,
    "settled": 2159,
    "win_rate": 0.723,
    "avg_chance": 0.7114,
@@ -333,24 +333,24 @@
     -0.0068
    ],
    "roi_games": 59,
-   "clv_n": 138,
-   "clv": -0.092,
+   "clv_n": 145,
+   "clv": -0.091,
    "clv_90_iid": [
-    -0.1009,
-    -0.0831
+    -0.0995,
+    -0.0825
    ],
    "clv_90": [
-    -0.1015,
-    -0.0823
+    -0.1003,
+    -0.0818
    ],
-   "clv_games": 53,
-   "move_n": 80,
-   "move": -0.0069,
+   "clv_games": 55,
+   "move_n": 85,
+   "move": -0.0071,
    "move_90": [
-    -0.0112,
-    -0.0028
+    -0.0115,
+    -0.0031
    ],
-   "move_games": 40,
+   "move_games": 42,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
@@ -369,29 +369,29 @@
     0.1733
    ],
    "roi_games": 29,
-   "clv_n": 55,
-   "clv": -0.0315,
+   "clv_n": 57,
+   "clv": -0.0328,
    "clv_90_iid": [
-    -0.0408,
-    -0.0222
+    -0.042,
+    -0.0235
    ],
    "clv_90": [
-    -0.0424,
-    -0.0184
+    -0.0431,
+    -0.0201
    ],
-   "clv_games": 35,
-   "move_n": 55,
-   "move": 0.0026,
+   "clv_games": 37,
+   "move_n": 57,
+   "move": 0.0015,
    "move_90": [
-    -0.0079,
-    0.0156
+    -0.0087,
+    0.0138
    ],
-   "move_games": 35,
+   "move_games": 37,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "stat/market = ast": {
-   "n": 625,
+   "n": 640,
    "settled": 559,
    "win_rate": 0.6064,
    "avg_chance": 0.594,
@@ -405,29 +405,29 @@
     0.0475
    ],
    "roi_games": 71,
-   "clv_n": 329,
-   "clv": -0.0357,
+   "clv_n": 340,
+   "clv": -0.036,
    "clv_90_iid": [
+    -0.0418,
+    -0.0301
+   ],
+   "clv_90": [
     -0.0414,
     -0.03
    ],
-   "clv_90": [
-    -0.0416,
-    -0.0295
-   ],
-   "clv_games": 70,
-   "move_n": 280,
-   "move": -0.0033,
+   "clv_games": 72,
+   "move_n": 287,
+   "move": -0.0028,
    "move_90": [
-    -0.0084,
-    0.0019
+    -0.0078,
+    0.0023
    ],
-   "move_games": 69,
+   "move_games": 71,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "stat/market = tpm": {
-   "n": 940,
+   "n": 957,
    "settled": 846,
    "win_rate": 0.5969,
    "avg_chance": 0.6197,
@@ -441,29 +441,29 @@
     -0.0411
    ],
    "roi_games": 72,
-   "clv_n": 605,
-   "clv": -0.0548,
+   "clv_n": 637,
+   "clv": -0.0549,
    "clv_90_iid": [
-    -0.0585,
-    -0.0512
+    -0.0584,
+    -0.0514
    ],
    "clv_90": [
-    -0.0587,
-    -0.0507
+    -0.0588,
+    -0.0509
    ],
-   "clv_games": 70,
-   "move_n": 498,
+   "clv_games": 73,
+   "move_n": 523,
    "move": -0.0043,
    "move_90": [
-    -0.0069,
-    -0.0016
+    -0.0068,
+    -0.0017
    ],
-   "move_games": 69,
+   "move_games": 72,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "stat/market = pts": {
-   "n": 1010,
+   "n": 1036,
    "settled": 896,
    "win_rate": 0.6161,
    "avg_chance": 0.6251,
@@ -477,29 +477,29 @@
     -0.0122
    ],
    "roi_games": 71,
-   "clv_n": 288,
-   "clv": -0.0256,
+   "clv_n": 297,
+   "clv": -0.026,
    "clv_90_iid": [
-    -0.0302,
-    -0.021
+    -0.0305,
+    -0.0214
    ],
    "clv_90": [
-    -0.0302,
-    -0.0207
+    -0.0308,
+    -0.0212
    ],
-   "clv_games": 65,
-   "move_n": 279,
-   "move": 0.0022,
+   "clv_games": 68,
+   "move_n": 287,
+   "move": 0.0024,
    "move_90": [
-    -0.0012,
-    0.0053
+    -0.0008,
+    0.0055
    ],
-   "move_games": 64,
+   "move_games": 66,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "stat/market = reb": {
-   "n": 794,
+   "n": 810,
    "settled": 721,
    "win_rate": 0.6214,
    "avg_chance": 0.5954,
@@ -513,29 +513,29 @@
     0.067
    ],
    "roi_games": 69,
-   "clv_n": 361,
-   "clv": -0.0281,
+   "clv_n": 372,
+   "clv": -0.0293,
    "clv_90_iid": [
-    -0.0342,
-    -0.022
+    -0.0353,
+    -0.0234
    ],
    "clv_90": [
-    -0.0347,
-    -0.0211
+    -0.0362,
+    -0.0224
    ],
-   "clv_games": 67,
-   "move_n": 310,
-   "move": 0.0037,
+   "clv_games": 70,
+   "move_n": 319,
+   "move": 0.0029,
    "move_90": [
-    -0.0011,
-    0.0086
+    -0.0019,
+    0.0078
    ],
-   "move_games": 66,
+   "move_games": 69,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "stat/market = stl": {
-   "n": 132,
+   "n": 136,
    "settled": 118,
    "win_rate": 0.7119,
    "avg_chance": 0.6288,
@@ -549,29 +549,29 @@
     0.2163
    ],
    "roi_games": 51,
-   "clv_n": 118,
-   "clv": -0.0558,
+   "clv_n": 125,
+   "clv": -0.0566,
    "clv_90_iid": [
-    -0.0606,
-    -0.051
+    -0.0612,
+    -0.052
    ],
    "clv_90": [
-    -0.0623,
-    -0.0497
+    -0.0627,
+    -0.0504
    ],
-   "clv_games": 51,
-   "move_n": 118,
-   "move": -0.004,
+   "clv_games": 54,
+   "move_n": 125,
+   "move": -0.0046,
    "move_90": [
-    -0.0104,
-    0.0018
+    -0.0107,
+    0.0012
    ],
-   "move_games": 51,
+   "move_games": 54,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "stat/market = blk": {
-   "n": 41,
+   "n": 42,
    "settled": 33,
    "win_rate": 0.697,
    "avg_chance": 0.6108,
@@ -607,7 +607,7 @@
    "iid_verdict": "negative CLV"
   },
   "stat/market = pra": {
-   "n": 627,
+   "n": 643,
    "settled": 556,
    "win_rate": 0.6457,
    "avg_chance": 0.6426,
@@ -621,29 +621,29 @@
     0.0165
    ],
    "roi_games": 66,
-   "clv_n": 157,
-   "clv": -0.0378,
+   "clv_n": 165,
+   "clv": -0.0376,
    "clv_90_iid": [
-    -0.0439,
-    -0.0317
+    -0.0435,
+    -0.0318
    ],
    "clv_90": [
-    -0.0449,
-    -0.0315
+    -0.0439,
+    -0.0316
    ],
-   "clv_games": 58,
-   "move_n": 152,
-   "move": 0.0009,
+   "clv_games": 60,
+   "move_n": 160,
+   "move": 0.0011,
    "move_90": [
-    -0.0024,
-    0.0042
+    -0.002,
+    0.0043
    ],
-   "move_games": 57,
+   "move_games": 59,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "stat/market = ra": {
-   "n": 355,
+   "n": 358,
    "settled": 305,
    "win_rate": 0.659,
    "avg_chance": 0.6842,
@@ -657,24 +657,24 @@
     -0.0131
    ],
    "roi_games": 52,
-   "clv_n": 31,
-   "clv": -0.0487,
+   "clv_n": 33,
+   "clv": -0.0426,
    "clv_90_iid": [
-    -0.0796,
-    -0.0179
+    -0.0727,
+    -0.0125
    ],
    "clv_90": [
-    -0.0807,
-    -0.0168
+    -0.0729,
+    -0.0101
    ],
-   "clv_games": 22,
-   "move_n": 20,
-   "move": -0.0229,
+   "clv_games": 24,
+   "move_n": 22,
+   "move": -0.0196,
    "move_90": [
-    -0.0447,
-    -0.0047
+    -0.0406,
+    -0.0017
    ],
-   "move_games": 17,
+   "move_games": 19,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
@@ -790,7 +790,7 @@
    "iid_verdict": null
   },
   "stat/market = pa": {
-   "n": 378,
+   "n": 382,
    "settled": 336,
    "win_rate": 0.7054,
    "avg_chance": 0.6927,
@@ -823,7 +823,7 @@
    "iid_verdict": null
   },
   "stat/market = pr": {
-   "n": 481,
+   "n": 485,
    "settled": 422,
    "win_rate": 0.6825,
    "avg_chance": 0.6859,
@@ -873,29 +873,29 @@
     0.3282
    ],
    "roi_games": 15,
-   "clv_n": 25,
-   "clv": -0.0263,
+   "clv_n": 26,
+   "clv": -0.0262,
    "clv_90_iid": [
-    -0.037,
-    -0.0156
+    -0.0365,
+    -0.0159
    ],
    "clv_90": [
-    -0.0377,
-    -0.0154
+    -0.0372,
+    -0.0153
    ],
-   "clv_games": 17,
-   "move_n": 25,
-   "move": 0.0076,
+   "clv_games": 18,
+   "move_n": 26,
+   "move": 0.0078,
    "move_90": [
-    -0.0025,
-    0.0172
+    -0.0024,
+    0.0176
    ],
-   "move_games": 17,
+   "move_games": 18,
    "verdict": "hypothesis",
    "iid_verdict": null
   },
   "side = under": {
-   "n": 1413,
+   "n": 1454,
    "settled": 1293,
    "win_rate": 0.5468,
    "avg_chance": 0.5511,
@@ -909,29 +909,29 @@
     0.0289
    ],
    "roi_games": 72,
-   "clv_n": 1216,
-   "clv": -0.0347,
+   "clv_n": 1252,
+   "clv": -0.035,
    "clv_90_iid": [
-    -0.0369,
-    -0.0324
+    -0.0372,
+    -0.0328
    ],
    "clv_90": [
-    -0.0382,
-    -0.0309
+    -0.0387,
+    -0.0313
    ],
-   "clv_games": 76,
-   "move_n": 1216,
-   "move": -0.0005,
+   "clv_games": 79,
+   "move_n": 1252,
+   "move": -0.0007,
    "move_90": [
     -0.0035,
-    0.0025
+    0.0022
    ],
-   "move_games": 76,
+   "move_games": 79,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "side = over": {
-   "n": 3993,
+   "n": 4058,
    "settled": 3499,
    "win_rate": 0.6656,
    "avg_chance": 0.6618,
@@ -945,24 +945,24 @@
     -0.01
    ],
    "roi_games": 71,
-   "clv_n": 734,
+   "clv_n": 778,
    "clv": -0.054,
    "clv_90_iid": [
-    -0.0586,
-    -0.0494
+    -0.0585,
+    -0.0496
    ],
    "clv_90": [
-    -0.0612,
-    -0.0466
+    -0.061,
+    -0.0467
    ],
-   "clv_games": 73,
-   "move_n": 489,
-   "move": -0.0043,
+   "clv_games": 76,
+   "move_n": 519,
+   "move": -0.0039,
    "move_90": [
-    -0.0081,
-    -0.0006
+    -0.0074,
+    -0.0002
    ],
-   "move_games": 73,
+   "move_games": 76,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
@@ -981,24 +981,24 @@
     0.1957
    ],
    "roi_games": 14,
-   "clv_n": 30,
-   "clv": -0.0358,
+   "clv_n": 31,
+   "clv": -0.0383,
    "clv_90_iid": [
-    -0.0503,
-    -0.0214
+    -0.0528,
+    -0.0237
    ],
    "clv_90": [
-    -0.0522,
-    -0.013
+    -0.0551,
+    -0.0171
    ],
-   "clv_games": 18,
-   "move_n": 30,
-   "move": -0.0016,
+   "clv_games": 19,
+   "move_n": 31,
+   "move": -0.0038,
    "move_90": [
-    -0.0178,
-    0.0208
+    -0.0202,
+    0.0173
    ],
-   "move_games": 18,
+   "move_games": 19,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
@@ -1027,7 +1027,7 @@
    "iid_verdict": "positive CLV"
   },
   "book = draftkings": {
-   "n": 4518,
+   "n": 4596,
    "settled": 3978,
    "win_rate": 0.6662,
    "avg_chance": 0.6539,
@@ -1041,29 +1041,29 @@
     0.0026
    ],
    "roi_games": 72,
-   "clv_n": 1161,
-   "clv": -0.0513,
+   "clv_n": 1209,
+   "clv": -0.052,
    "clv_90_iid": [
-    -0.0545,
-    -0.0482
+    -0.0551,
+    -0.0489
    ],
    "clv_90": [
-    -0.0564,
-    -0.0462
+    -0.0568,
+    -0.0473
    ],
-   "clv_games": 75,
-   "move_n": 916,
-   "move": -0.001,
+   "clv_games": 78,
+   "move_n": 950,
+   "move": -0.0013,
    "move_90": [
-    -0.0035,
-    0.0016
+    -0.004,
+    0.0011
    ],
-   "move_games": 75,
+   "move_games": 78,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "book = fanduel": {
-   "n": 1133,
+   "n": 1161,
    "settled": 861,
    "win_rate": 0.4843,
    "avg_chance": 0.5325,
@@ -1077,29 +1077,29 @@
     -0.0375
    ],
    "roi_games": 72,
-   "clv_n": 918,
-   "clv": -0.0211,
+   "clv_n": 952,
+   "clv": -0.0213,
    "clv_90_iid": [
-    -0.0241,
-    -0.018
+    -0.0243,
+    -0.0183
    ],
    "clv_90": [
-    -0.0252,
-    -0.0162
+    -0.0254,
+    -0.0165
    ],
-   "clv_games": 85,
-   "move_n": 918,
-   "move": -0.0035,
+   "clv_games": 88,
+   "move_n": 952,
+   "move": -0.0032,
    "move_90": [
-    -0.0061,
-    -0.0011
+    -0.0058,
+    -0.0008
    ],
-   "move_games": 85,
+   "move_games": 88,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "price = -200 or shorter": {
-   "n": 3116,
+   "n": 3150,
    "settled": 2696,
    "win_rate": 0.7073,
    "avg_chance": 0.6968,
@@ -1113,29 +1113,29 @@
     -0.0102
    ],
    "roi_games": 68,
-   "clv_n": 347,
-   "clv": -0.0891,
+   "clv_n": 365,
+   "clv": -0.0887,
    "clv_90_iid": [
-    -0.0936,
-    -0.0847
+    -0.093,
+    -0.0845
    ],
    "clv_90": [
-    -0.0948,
-    -0.0836
+    -0.094,
+    -0.0834
    ],
-   "clv_games": 75,
-   "move_n": 248,
-   "move": -0.0067,
+   "clv_games": 78,
+   "move_n": 258,
+   "move": -0.0069,
    "move_90": [
-    -0.0092,
-    -0.0042
+    -0.0094,
+    -0.0044
    ],
-   "move_games": 71,
+   "move_games": 74,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "price = -129 to +100": {
-   "n": 641,
+   "n": 666,
    "settled": 598,
    "win_rate": 0.4883,
    "avg_chance": 0.5246,
@@ -1149,29 +1149,29 @@
     0.0172
    ],
    "roi_games": 70,
-   "clv_n": 542,
-   "clv": -0.0234,
+   "clv_n": 563,
+   "clv": -0.0235,
    "clv_90_iid": [
-    -0.0259,
-    -0.0209
+    -0.026,
+    -0.021
    ],
    "clv_90": [
     -0.0268,
-    -0.0198
+    -0.0201
    ],
-   "clv_games": 68,
-   "move_n": 542,
-   "move": -0.0023,
+   "clv_games": 70,
+   "move_n": 563,
+   "move": -0.0021,
    "move_90": [
-    -0.0054,
-    0.0005
+    -0.0051,
+    0.0008
    ],
-   "move_games": 68,
+   "move_games": 70,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "price = +101 or longer": {
-   "n": 746,
+   "n": 760,
    "settled": 533,
    "win_rate": 0.454,
    "avg_chance": 0.4624,
@@ -1185,29 +1185,29 @@
     0.0876
    ],
    "roi_games": 72,
-   "clv_n": 609,
+   "clv_n": 621,
    "clv": 0.0128,
    "clv_90_iid": [
     0.009,
     0.0166
    ],
    "clv_90": [
-    0.0076,
+    0.008,
     0.018
    ],
-   "clv_games": 85,
-   "move_n": 609,
-   "move": 0.0024,
+   "clv_games": 87,
+   "move_n": 621,
+   "move": 0.0025,
    "move_90": [
-    -0.0018,
-    0.0069
+    -0.0017,
+    0.0067
    ],
-   "move_games": 85,
+   "move_games": 87,
    "verdict": "IN-SAMPLE SIGNAL: positive CLV",
    "iid_verdict": "positive CLV"
   },
   "price = -199 to -130": {
-   "n": 1148,
+   "n": 1181,
    "settled": 1012,
    "win_rate": 0.6186,
    "avg_chance": 0.6136,
@@ -1221,29 +1221,29 @@
     -0.0023
    ],
    "roi_games": 72,
-   "clv_n": 581,
+   "clv_n": 612,
    "clv": -0.0743,
    "clv_90_iid": [
-    -0.0777,
-    -0.0708
+    -0.0776,
+    -0.071
    ],
    "clv_90": [
-    -0.0794,
-    -0.0692
+    -0.0791,
+    -0.0695
    ],
-   "clv_games": 70,
-   "move_n": 435,
-   "move": -0.0062,
+   "clv_games": 73,
+   "move_n": 460,
+   "move": -0.0064,
    "move_90": [
-    -0.0096,
-    -0.0029
+    -0.0097,
+    -0.0031
    ],
-   "move_games": 70,
+   "move_games": 73,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "chance = 60-70%": {
-   "n": 2554,
+   "n": 2599,
    "settled": 2200,
    "win_rate": 0.6455,
    "avg_chance": 0.6353,
@@ -1257,29 +1257,29 @@
     -0.0058
    ],
    "roi_games": 72,
-   "clv_n": 870,
-   "clv": -0.0813,
+   "clv_n": 916,
+   "clv": -0.0812,
    "clv_90_iid": [
-    -0.0841,
+    -0.0839,
     -0.0786
    ],
    "clv_90": [
-    -0.0859,
-    -0.0764
+    -0.0857,
+    -0.0767
    ],
-   "clv_games": 78,
-   "move_n": 635,
-   "move": -0.0064,
+   "clv_games": 81,
+   "move_n": 668,
+   "move": -0.0066,
    "move_90": [
-    -0.009,
-    -0.0039
+    -0.0092,
+    -0.0042
    ],
-   "move_games": 78,
+   "move_games": 81,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "chance = 50-60%": {
-   "n": 736,
+   "n": 765,
    "settled": 683,
    "win_rate": 0.4963,
    "avg_chance": 0.5257,
@@ -1293,29 +1293,29 @@
     0.0323
    ],
    "roi_games": 70,
-   "clv_n": 629,
-   "clv": -0.02,
+   "clv_n": 651,
+   "clv": -0.0202,
    "clv_90_iid": [
-    -0.0225,
-    -0.0175
+    -0.0227,
+    -0.0178
    ],
    "clv_90": [
     -0.0234,
-    -0.0165
+    -0.0168
    ],
-   "clv_games": 70,
-   "move_n": 629,
-   "move": -0.0022,
+   "clv_games": 72,
+   "move_n": 651,
+   "move": -0.0021,
    "move_90": [
-    -0.0053,
+    -0.005,
     0.0009
    ],
-   "move_games": 70,
+   "move_games": 72,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "chance = 40-50%": {
-   "n": 489,
+   "n": 501,
    "settled": 455,
    "win_rate": 0.4484,
    "avg_chance": 0.4608,
@@ -1329,29 +1329,29 @@
     0.0845
    ],
    "roi_games": 72,
-   "clv_n": 459,
-   "clv": 0.0033,
+   "clv_n": 468,
+   "clv": 0.003,
    "clv_90_iid": [
-    -0.0007,
-    0.0073
+    -0.001,
+    0.0069
    ],
    "clv_90": [
-    -0.0013,
-    0.0079
+    -0.0016,
+    0.0074
    ],
-   "clv_games": 74,
-   "move_n": 459,
-   "move": 0.0046,
+   "clv_games": 76,
+   "move_n": 468,
+   "move": 0.0043,
    "move_90": [
-    -0.0003,
-    0.0093
+    -0.0004,
+    0.0092
    ],
-   "move_games": 74,
+   "move_games": 76,
    "verdict": "hypothesis (range includes zero)",
    "iid_verdict": null
   },
   "chance = 30-40%": {
-   "n": 43,
+   "n": 44,
    "settled": 22,
    "win_rate": 0.4091,
    "avg_chance": 0.3765,
@@ -1365,24 +1365,24 @@
     0.6857
    ],
    "roi_games": 17,
-   "clv_n": 30,
-   "clv": 0.0433,
+   "clv_n": 33,
+   "clv": 0.0482,
    "clv_90_iid": [
-    0.0323,
-    0.0542
+    0.033,
+    0.0634
    ],
    "clv_90": [
-    0.0317,
-    0.0554
+    0.0354,
+    0.0613
    ],
-   "clv_games": 23,
-   "move_n": 30,
-   "move": 0.0031,
+   "clv_games": 24,
+   "move_n": 33,
+   "move": 0.0087,
    "move_90": [
-    -0.0138,
-    0.0218
+    -0.0094,
+    0.0271
    ],
-   "move_games": 23,
+   "move_games": 24,
    "verdict": "IN-SAMPLE SIGNAL: positive CLV",
    "iid_verdict": "positive CLV"
   },
@@ -1453,7 +1453,7 @@
    "iid_verdict": null
   },
   "chance = 70-80%": {
-   "n": 1626,
+   "n": 1645,
    "settled": 1429,
    "win_rate": 0.7383,
    "avg_chance": 0.7308,
@@ -1467,29 +1467,29 @@
     -0.0138
    ],
    "roi_games": 45,
-   "clv_n": 30,
-   "clv": -0.0851,
+   "clv_n": 32,
+   "clv": -0.0837,
    "clv_90_iid": [
-    -0.1096,
-    -0.0607
+    -0.1069,
+    -0.0606
    ],
    "clv_90": [
-    -0.1083,
-    -0.0652
+    -0.1047,
+    -0.0654
    ],
-   "clv_games": 20,
-   "move_n": 20,
-   "move": -0.0015,
+   "clv_games": 21,
+   "move_n": 21,
+   "move": -0.0009,
    "move_90": [
-    -0.0105,
-    0.0066
+    -0.0094,
+    0.0072
    ],
-   "move_games": 14,
+   "move_games": 15,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "edge = under 0%": {
-   "n": 4227,
+   "n": 4291,
    "settled": 3671,
    "win_rate": 0.6835,
    "avg_chance": 0.675,
@@ -1503,29 +1503,29 @@
     -0.0135
    ],
    "roi_games": 72,
-   "clv_n": 892,
-   "clv": -0.0819,
+   "clv_n": 940,
+   "clv": -0.0818,
    "clv_90_iid": [
-    -0.0847,
-    -0.0792
+    -0.0844,
+    -0.0791
    ],
    "clv_90": [
-    -0.0864,
+    -0.086,
     -0.0773
    ],
-   "clv_games": 79,
-   "move_n": 647,
-   "move": -0.0061,
+   "clv_games": 82,
+   "move_n": 681,
+   "move": -0.0063,
    "move_90": [
     -0.0089,
-    -0.0036
+    -0.004
    ],
-   "move_games": 79,
+   "move_games": 82,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "edge = 3-6%": {
-   "n": 289,
+   "n": 296,
    "settled": 223,
    "win_rate": 0.4439,
    "avg_chance": 0.4804,
@@ -1539,29 +1539,29 @@
     0.0718
    ],
    "roi_games": 66,
-   "clv_n": 245,
-   "clv": 0.0147,
+   "clv_n": 251,
+   "clv": 0.0161,
    "clv_90_iid": [
-    0.01,
-    0.0195
+    0.0111,
+    0.021
    ],
    "clv_90": [
-    0.0093,
-    0.0199
+    0.0101,
+    0.0217
    ],
-   "clv_games": 74,
-   "move_n": 245,
-   "move": -0.0126,
+   "clv_games": 76,
+   "move_n": 251,
+   "move": -0.0116,
    "move_90": [
-    -0.0168,
-    -0.0087
+    -0.016,
+    -0.0073
    ],
-   "move_games": 74,
+   "move_games": 76,
    "verdict": "IN-SAMPLE SIGNAL: positive CLV",
    "iid_verdict": "positive CLV"
   },
   "edge = 0-3%": {
-   "n": 976,
+   "n": 1011,
    "settled": 911,
    "win_rate": 0.4874,
    "avg_chance": 0.5034,
@@ -1575,24 +1575,24 @@
     0.0537
    ],
    "roi_games": 72,
-   "clv_n": 858,
-   "clv": -0.0165,
+   "clv_n": 886,
+   "clv": -0.0169,
    "clv_90_iid": [
-    -0.0189,
-    -0.0141
+    -0.0192,
+    -0.0146
    ],
    "clv_90": [
-    -0.02,
-    -0.013
+    -0.0203,
+    -0.0136
    ],
-   "clv_games": 70,
-   "move_n": 858,
-   "move": 0.0062,
+   "clv_games": 72,
+   "move_n": 886,
+   "move": 0.006,
    "move_90": [
     0.0032,
-    0.0093
+    0.0089
    ],
-   "move_games": 70,
+   "move_games": 72,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
@@ -1633,7 +1633,7 @@
    "iid_verdict": "positive CLV"
   },
   "flagged = under 2h before": {
-   "n": 850,
+   "n": 882,
    "settled": 806,
    "win_rate": 0.5782,
    "avg_chance": 0.5903,
@@ -1647,29 +1647,29 @@
     0.0057
    ],
    "roi_games": 67,
-   "clv_n": 495,
-   "clv": -0.0281,
+   "clv_n": 510,
+   "clv": -0.0283,
    "clv_90_iid": [
-    -0.0319,
-    -0.0244
+    -0.032,
+    -0.0247
    ],
    "clv_90": [
     -0.0324,
-    -0.024
+    -0.0243
    ],
-   "clv_games": 70,
-   "move_n": 459,
-   "move": -0.0051,
+   "clv_games": 73,
+   "move_n": 473,
+   "move": -0.005,
    "move_90": [
-    -0.0073,
-    -0.0033
+    -0.007,
+    -0.0032
    ],
-   "move_games": 70,
+   "move_games": 73,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "flagged = 6h+ before": {
-   "n": 3006,
+   "n": 3023,
    "settled": 2405,
    "win_rate": 0.6711,
    "avg_chance": 0.6553,
@@ -1683,29 +1683,29 @@
     0.0145
    ],
    "roi_games": 54,
-   "clv_n": 786,
-   "clv": -0.0481,
+   "clv_n": 821,
+   "clv": -0.0488,
    "clv_90_iid": [
-    -0.0523,
-    -0.0439
+    -0.0529,
+    -0.0448
    ],
    "clv_90": [
-    -0.0554,
-    -0.0405
+    -0.0558,
+    -0.0415
    ],
-   "clv_games": 66,
-   "move_n": 658,
+   "clv_games": 69,
+   "move_n": 683,
    "move": -0.0024,
    "move_90": [
-    -0.0061,
-    0.0013
+    -0.006,
+    0.001
    ],
-   "move_games": 66,
+   "move_games": 69,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "flagged = 2-6h before": {
-   "n": 1795,
+   "n": 1852,
    "settled": 1628,
    "win_rate": 0.6063,
    "avg_chance": 0.6191,
@@ -1719,29 +1719,29 @@
     -0.0229
    ],
    "roi_games": 71,
-   "clv_n": 798,
-   "clv": -0.0341,
+   "clv_n": 830,
+   "clv": -0.0345,
    "clv_90_iid": [
-    -0.0377,
-    -0.0306
+    -0.038,
+    -0.031
    ],
    "clv_90": [
     -0.0388,
-    -0.0295
+    -0.0298
    ],
-   "clv_games": 78,
-   "move_n": 717,
-   "move": -0.0003,
+   "clv_games": 81,
+   "move_n": 746,
+   "move": -0.0005,
    "move_90": [
-    -0.0037,
-    0.0031
+    -0.0038,
+    0.0029
    ],
-   "move_games": 78,
+   "move_games": 81,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "minutes moved = no": {
-   "n": 2051,
+   "n": 2088,
    "settled": 1641,
    "win_rate": 0.6204,
    "avg_chance": 0.6365,
@@ -1755,29 +1755,29 @@
     -0.0177
    ],
    "roi_games": 70,
-   "clv_n": 839,
-   "clv": -0.0344,
+   "clv_n": 876,
+   "clv": -0.0348,
    "clv_90_iid": [
-    -0.0383,
-    -0.0304
+    -0.0387,
+    -0.0309
    ],
    "clv_90": [
-    -0.0401,
-    -0.0282
+    -0.0404,
+    -0.0288
    ],
-   "clv_games": 84,
-   "move_n": 759,
-   "move": -0.0059,
+   "clv_games": 87,
+   "move_n": 791,
+   "move": -0.0058,
    "move_90": [
-    -0.009,
-    -0.0025
+    -0.0088,
+    -0.0027
    ],
-   "move_games": 84,
+   "move_games": 87,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "minutes moved = yes": {
-   "n": 3600,
+   "n": 3669,
    "settled": 3198,
    "win_rate": 0.6407,
    "avg_chance": 0.6302,
@@ -1791,29 +1791,29 @@
     0.0038
    ],
    "roi_games": 72,
-   "clv_n": 1240,
-   "clv": -0.0404,
+   "clv_n": 1285,
+   "clv": -0.041,
    "clv_90_iid": [
-    -0.0432,
-    -0.0377
+    -0.0437,
+    -0.0383
    ],
    "clv_90": [
-    -0.0447,
-    -0.0362
+    -0.0452,
+    -0.0368
    ],
-   "clv_games": 70,
-   "move_n": 1075,
-   "move": 0.0003,
+   "clv_games": 73,
+   "move_n": 1111,
+   "move": 0.0002,
    "move_90": [
-    -0.0022,
-    0.0029
+    -0.0023,
+    0.0027
    ],
-   "move_games": 70,
+   "move_games": 73,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "status change = no": {
-   "n": 5149,
+   "n": 5245,
    "settled": 4359,
    "win_rate": 0.644,
    "avg_chance": 0.6434,
@@ -1827,29 +1827,29 @@
     -0.0174
    ],
    "roi_games": 71,
-   "clv_n": 1633,
-   "clv": -0.0426,
+   "clv_n": 1701,
+   "clv": -0.0432,
    "clv_90_iid": [
-    -0.0453,
-    -0.0399
+    -0.0458,
+    -0.0406
    ],
    "clv_90": [
-    -0.047,
-    -0.0375
+    -0.0476,
+    -0.0382
    ],
-   "clv_games": 85,
-   "move_n": 1388,
-   "move": -0.0029,
+   "clv_games": 88,
+   "move_n": 1442,
+   "move": -0.003,
    "move_90": [
     -0.0053,
-    -0.0005
+    -0.0007
    ],
-   "move_games": 85,
+   "move_games": 88,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "status change = yes": {
-   "n": 502,
+   "n": 512,
    "settled": 480,
    "win_rate": 0.5417,
    "avg_chance": 0.5311,
@@ -1863,24 +1863,24 @@
     0.0934
    ],
    "roi_games": 45,
-   "clv_n": 446,
-   "clv": -0.0212,
+   "clv_n": 460,
+   "clv": -0.0211,
    "clv_90_iid": [
     -0.0251,
-    -0.0174
+    -0.0171
    ],
    "clv_90": [
-    -0.0246,
-    -0.0177
+    -0.0243,
+    -0.0175
    ],
-   "clv_games": 43,
-   "move_n": 446,
-   "move": -0.0004,
+   "clv_games": 44,
+   "move_n": 460,
+   "move": -0.0001,
    "move_90": [
-    -0.0039,
-    0.0033
+    -0.0035,
+    0.0035
    ],
-   "move_games": 43,
+   "move_games": 44,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
@@ -1891,7 +1891,7 @@
    "iid_verdict": null
   },
   "lane = value, sport = nba": {
-   "n": 266,
+   "n": 273,
    "settled": 255,
    "win_rate": 0.4431,
    "avg_chance": 0.4797,
@@ -1905,29 +1905,29 @@
     0.0724
    ],
    "roi_games": 66,
-   "clv_n": 249,
-   "clv": 0.0147,
+   "clv_n": 255,
+   "clv": 0.016,
    "clv_90_iid": [
-    0.0094,
-    0.02
+    0.0105,
+    0.0215
    ],
    "clv_90": [
-    0.0089,
-    0.0201
+    0.0102,
+    0.0219
    ],
-   "clv_games": 63,
-   "move_n": 249,
-   "move": -0.0156,
+   "clv_games": 65,
+   "move_n": 255,
+   "move": -0.0145,
    "move_90": [
-    -0.02,
-    -0.0113
+    -0.0191,
+    -0.0099
    ],
-   "move_games": 63,
+   "move_games": 65,
    "verdict": "IN-SAMPLE SIGNAL: positive CLV",
    "iid_verdict": "positive CLV"
   },
   "lane = early, sport = nba": {
-   "n": 970,
+   "n": 1005,
    "settled": 905,
    "win_rate": 0.4851,
    "avg_chance": 0.5024,
@@ -1941,29 +1941,29 @@
     0.0485
    ],
    "roi_games": 72,
-   "clv_n": 852,
-   "clv": -0.0163,
+   "clv_n": 880,
+   "clv": -0.0168,
    "clv_90_iid": [
-    -0.0187,
-    -0.0139
+    -0.0191,
+    -0.0144
    ],
    "clv_90": [
-    -0.0198,
-    -0.0129
+    -0.0202,
+    -0.0133
    ],
-   "clv_games": 70,
-   "move_n": 852,
-   "move": 0.0065,
+   "clv_games": 72,
+   "move_n": 880,
+   "move": 0.0062,
    "move_90": [
-    0.0035,
-    0.0096
+    0.0033,
+    0.0093
    ],
-   "move_games": 70,
+   "move_games": 72,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "lane = likely, sport = nba": {
-   "n": 4205,
+   "n": 4269,
    "settled": 3679,
    "win_rate": 0.6836,
    "avg_chance": 0.6748,
@@ -1977,24 +1977,24 @@
     -0.0128
    ],
    "roi_games": 72,
-   "clv_n": 884,
-   "clv": -0.0819,
+   "clv_n": 932,
+   "clv": -0.0818,
    "clv_90_iid": [
-    -0.0847,
+    -0.0844,
     -0.0791
    ],
    "clv_90": [
-    -0.0867,
-    -0.0772
+    -0.086,
+    -0.0774
    ],
-   "clv_games": 70,
-   "move_n": 639,
-   "move": -0.0062,
+   "clv_games": 73,
+   "move_n": 673,
+   "move": -0.0064,
    "move_90": [
-    -0.0089,
-    -0.0037
+    -0.009,
+    -0.0038
    ],
-   "move_games": 70,
+   "move_games": 73,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
@@ -2061,29 +2061,29 @@
     0.3282
    ],
    "roi_games": 15,
-   "clv_n": 25,
-   "clv": -0.0263,
+   "clv_n": 26,
+   "clv": -0.0262,
    "clv_90_iid": [
-    -0.037,
-    -0.0156
+    -0.0365,
+    -0.0159
    ],
    "clv_90": [
-    -0.0377,
-    -0.0154
+    -0.0372,
+    -0.0153
    ],
-   "clv_games": 17,
-   "move_n": 25,
-   "move": 0.0076,
+   "clv_games": 18,
+   "move_n": 26,
+   "move": 0.0078,
    "move_90": [
-    -0.0025,
-    0.0172
+    -0.0024,
+    0.0176
    ],
-   "move_games": 17,
+   "move_games": 18,
    "verdict": "hypothesis",
    "iid_verdict": null
   },
   "lane = value, side = under": {
-   "n": 117,
+   "n": 121,
    "settled": 111,
    "win_rate": 0.4505,
    "avg_chance": 0.5035,
@@ -2097,29 +2097,29 @@
     0.116
    ],
    "roi_games": 49,
-   "clv_n": 105,
-   "clv": 0.0053,
+   "clv_n": 107,
+   "clv": 0.0062,
    "clv_90_iid": [
-    -0.0031,
-    0.0138
+    -0.0022,
+    0.0147
    ],
    "clv_90": [
-    -0.005,
-    0.0154
+    -0.0038,
+    0.0166
    ],
-   "clv_games": 49,
-   "move_n": 105,
-   "move": -0.0125,
+   "clv_games": 51,
+   "move_n": 107,
+   "move": -0.012,
    "move_90": [
-    -0.0222,
-    -0.0034
+    -0.0214,
+    -0.003
    ],
-   "move_games": 49,
+   "move_games": 51,
    "verdict": "hypothesis (range includes zero)",
    "iid_verdict": null
   },
   "lane = value, side = over": {
-   "n": 157,
+   "n": 160,
    "settled": 144,
    "win_rate": 0.4375,
    "avg_chance": 0.4613,
@@ -2133,29 +2133,29 @@
     0.1605
    ],
    "roi_games": 57,
-   "clv_n": 148,
-   "clv": 0.021,
+   "clv_n": 152,
+   "clv": 0.0225,
    "clv_90_iid": [
-    0.0144,
-    0.0276
+    0.0156,
+    0.0294
    ],
    "clv_90": [
-    0.0137,
-    0.0282
+    0.0147,
+    0.0298
    ],
-   "clv_games": 58,
-   "move_n": 148,
-   "move": -0.0185,
+   "clv_games": 59,
+   "move_n": 152,
+   "move": -0.017,
    "move_90": [
-    -0.0256,
-    -0.0119
+    -0.0245,
+    -0.0104
    ],
-   "move_games": 58,
+   "move_games": 59,
    "verdict": "IN-SAMPLE SIGNAL: positive CLV",
    "iid_verdict": "positive CLV"
   },
   "lane = early, side = under": {
-   "n": 737,
+   "n": 762,
    "settled": 689,
    "win_rate": 0.4993,
    "avg_chance": 0.5068,
@@ -2169,29 +2169,29 @@
     0.0682
    ],
    "roi_games": 72,
-   "clv_n": 636,
-   "clv": -0.0185,
+   "clv_n": 646,
+   "clv": -0.0186,
    "clv_90_iid": [
     -0.0213,
-    -0.0158
+    -0.0159
    ],
    "clv_90": [
-    -0.0229,
-    -0.0139
+    -0.0228,
+    -0.014
    ],
-   "clv_games": 70,
-   "move_n": 636,
+   "clv_games": 72,
+   "move_n": 646,
    "move": 0.006,
    "move_90": [
-    0.0021,
-    0.0103
+    0.0022,
+    0.0101
    ],
-   "move_games": 70,
+   "move_games": 72,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "lane = early, side = over": {
-   "n": 233,
+   "n": 243,
    "settled": 216,
    "win_rate": 0.4398,
    "avg_chance": 0.4885,
@@ -2205,29 +2205,29 @@
     0.0818
    ],
    "roi_games": 55,
-   "clv_n": 216,
-   "clv": -0.0098,
+   "clv_n": 234,
+   "clv": -0.0117,
    "clv_90_iid": [
-    -0.0144,
-    -0.0052
+    -0.0162,
+    -0.0073
    ],
    "clv_90": [
-    -0.015,
-    -0.0032
+    -0.0172,
+    -0.0049
    ],
-   "clv_games": 55,
-   "move_n": 216,
-   "move": 0.0078,
+   "clv_games": 57,
+   "move_n": 234,
+   "move": 0.007,
    "move_90": [
-    0.0031,
-    0.0135
+    0.0025,
+    0.0124
    ],
-   "move_games": 55,
+   "move_games": 57,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "lane = likely, side = under": {
-   "n": 559,
+   "n": 571,
    "settled": 493,
    "win_rate": 0.6349,
    "avg_chance": 0.6238,
@@ -2241,24 +2241,24 @@
     0.0322
    ],
    "roi_games": 72,
-   "clv_n": 475,
-   "clv": -0.0651,
+   "clv_n": 499,
+   "clv": -0.0652,
    "clv_90_iid": [
     -0.0676,
-    -0.0626
+    -0.0627
    ],
    "clv_90": [
-    -0.0685,
-    -0.0614
+    -0.0686,
+    -0.0617
    ],
-   "clv_games": 75,
-   "move_n": 475,
-   "move": -0.0067,
+   "clv_games": 78,
+   "move_n": 499,
+   "move": -0.007,
    "move_90": [
-    -0.0097,
-    -0.0036
+    -0.0099,
+    -0.0039
    ],
-   "move_games": 75,
+   "move_games": 78,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
@@ -2277,29 +2277,29 @@
     0.1957
    ],
    "roi_games": 14,
-   "clv_n": 30,
-   "clv": -0.0358,
+   "clv_n": 31,
+   "clv": -0.0383,
    "clv_90_iid": [
-    -0.0503,
-    -0.0214
+    -0.0528,
+    -0.0237
    ],
    "clv_90": [
-    -0.0522,
-    -0.013
+    -0.0551,
+    -0.0171
    ],
-   "clv_games": 18,
-   "move_n": 30,
-   "move": -0.0016,
+   "clv_games": 19,
+   "move_n": 31,
+   "move": -0.0038,
    "move_90": [
-    -0.0178,
-    0.0208
+    -0.0202,
+    0.0173
    ],
-   "move_games": 18,
+   "move_games": 19,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "lane = likely, side = over": {
-   "n": 3603,
+   "n": 3655,
    "settled": 3139,
    "win_rate": 0.6916,
    "avg_chance": 0.6829,
@@ -2313,24 +2313,24 @@
     -0.0093
    ],
    "roi_games": 65,
-   "clv_n": 370,
-   "clv": -0.1099,
+   "clv_n": 392,
+   "clv": -0.1089,
    "clv_90_iid": [
-    -0.1145,
-    -0.1052
+    -0.1134,
+    -0.1045
    ],
    "clv_90": [
-    -0.1178,
-    -0.1016
+    -0.1167,
+    -0.1011
    ],
-   "clv_games": 64,
-   "move_n": 125,
-   "move": -0.0085,
+   "clv_games": 67,
+   "move_n": 133,
+   "move": -0.008,
    "move_90": [
-    -0.0122,
-    -0.0052
+    -0.0114,
+    -0.0049
    ],
-   "move_games": 56,
+   "move_games": 59,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
@@ -2365,7 +2365,7 @@
    "iid_verdict": null
   },
   "sport = nba, stat/market = ast": {
-   "n": 625,
+   "n": 640,
    "settled": 559,
    "win_rate": 0.6064,
    "avg_chance": 0.594,
@@ -2379,29 +2379,29 @@
     0.0475
    ],
    "roi_games": 71,
-   "clv_n": 329,
-   "clv": -0.0357,
+   "clv_n": 340,
+   "clv": -0.036,
    "clv_90_iid": [
+    -0.0418,
+    -0.0301
+   ],
+   "clv_90": [
     -0.0414,
     -0.03
    ],
-   "clv_90": [
-    -0.0416,
-    -0.0295
-   ],
-   "clv_games": 70,
-   "move_n": 280,
-   "move": -0.0033,
+   "clv_games": 72,
+   "move_n": 287,
+   "move": -0.0028,
    "move_90": [
-    -0.0084,
-    0.0019
+    -0.0078,
+    0.0023
    ],
-   "move_games": 69,
+   "move_games": 71,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "sport = nba, stat/market = tpm": {
-   "n": 940,
+   "n": 957,
    "settled": 846,
    "win_rate": 0.5969,
    "avg_chance": 0.6197,
@@ -2415,29 +2415,29 @@
     -0.0411
    ],
    "roi_games": 72,
-   "clv_n": 605,
-   "clv": -0.0548,
+   "clv_n": 637,
+   "clv": -0.0549,
    "clv_90_iid": [
-    -0.0585,
-    -0.0512
+    -0.0584,
+    -0.0514
    ],
    "clv_90": [
-    -0.0587,
-    -0.0507
+    -0.0588,
+    -0.0509
    ],
-   "clv_games": 70,
-   "move_n": 498,
+   "clv_games": 73,
+   "move_n": 523,
    "move": -0.0043,
    "move_90": [
-    -0.0069,
-    -0.0016
+    -0.0068,
+    -0.0017
    ],
-   "move_games": 69,
+   "move_games": 72,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "sport = nba, stat/market = pts": {
-   "n": 1010,
+   "n": 1036,
    "settled": 896,
    "win_rate": 0.6161,
    "avg_chance": 0.6251,
@@ -2451,29 +2451,29 @@
     -0.0122
    ],
    "roi_games": 71,
-   "clv_n": 288,
-   "clv": -0.0256,
+   "clv_n": 297,
+   "clv": -0.026,
    "clv_90_iid": [
-    -0.0302,
-    -0.021
+    -0.0305,
+    -0.0214
    ],
    "clv_90": [
-    -0.0302,
-    -0.0207
+    -0.0308,
+    -0.0212
    ],
-   "clv_games": 65,
-   "move_n": 279,
-   "move": 0.0022,
+   "clv_games": 68,
+   "move_n": 287,
+   "move": 0.0024,
    "move_90": [
-    -0.0012,
-    0.0053
+    -0.0008,
+    0.0055
    ],
-   "move_games": 64,
+   "move_games": 66,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "sport = nba, stat/market = reb": {
-   "n": 794,
+   "n": 810,
    "settled": 721,
    "win_rate": 0.6214,
    "avg_chance": 0.5954,
@@ -2487,29 +2487,29 @@
     0.067
    ],
    "roi_games": 69,
-   "clv_n": 361,
-   "clv": -0.0281,
+   "clv_n": 372,
+   "clv": -0.0293,
    "clv_90_iid": [
-    -0.0342,
-    -0.022
+    -0.0353,
+    -0.0234
    ],
    "clv_90": [
-    -0.0347,
-    -0.0211
+    -0.0362,
+    -0.0224
    ],
-   "clv_games": 67,
-   "move_n": 310,
-   "move": 0.0037,
+   "clv_games": 70,
+   "move_n": 319,
+   "move": 0.0029,
    "move_90": [
-    -0.0011,
-    0.0086
+    -0.0019,
+    0.0078
    ],
-   "move_games": 66,
+   "move_games": 69,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "sport = nba, stat/market = stl": {
-   "n": 132,
+   "n": 136,
    "settled": 118,
    "win_rate": 0.7119,
    "avg_chance": 0.6288,
@@ -2523,24 +2523,24 @@
     0.2163
    ],
    "roi_games": 51,
-   "clv_n": 118,
-   "clv": -0.0558,
+   "clv_n": 125,
+   "clv": -0.0566,
    "clv_90_iid": [
-    -0.0606,
-    -0.051
+    -0.0612,
+    -0.052
    ],
    "clv_90": [
-    -0.0623,
-    -0.0497
+    -0.0627,
+    -0.0504
    ],
-   "clv_games": 51,
-   "move_n": 118,
-   "move": -0.004,
+   "clv_games": 54,
+   "move_n": 125,
+   "move": -0.0046,
    "move_90": [
-    -0.0104,
-    0.0018
+    -0.0107,
+    0.0012
    ],
-   "move_games": 51,
+   "move_games": 54,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
@@ -2559,29 +2559,29 @@
     0.1733
    ],
    "roi_games": 29,
-   "clv_n": 47,
-   "clv": -0.0294,
+   "clv_n": 49,
+   "clv": -0.0309,
    "clv_90_iid": [
-    -0.04,
-    -0.0188
+    -0.0415,
+    -0.0204
    ],
    "clv_90": [
-    -0.0424,
-    -0.015
+    -0.044,
+    -0.0172
    ],
-   "clv_games": 29,
-   "move_n": 47,
-   "move": 0.0051,
+   "clv_games": 31,
+   "move_n": 49,
+   "move": 0.0036,
    "move_90": [
-    -0.0074,
-    0.0189
+    -0.0089,
+    0.0172
    ],
-   "move_games": 29,
+   "move_games": 31,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "sport = nba, stat/market = blk": {
-   "n": 41,
+   "n": 42,
    "settled": 33,
    "win_rate": 0.697,
    "avg_chance": 0.6108,
@@ -2617,7 +2617,7 @@
    "iid_verdict": "negative CLV"
   },
   "sport = nba, stat/market = pra": {
-   "n": 627,
+   "n": 643,
    "settled": 556,
    "win_rate": 0.6457,
    "avg_chance": 0.6426,
@@ -2631,29 +2631,29 @@
     0.0165
    ],
    "roi_games": 66,
-   "clv_n": 157,
-   "clv": -0.0378,
+   "clv_n": 165,
+   "clv": -0.0376,
    "clv_90_iid": [
-    -0.0439,
-    -0.0317
+    -0.0435,
+    -0.0318
    ],
    "clv_90": [
-    -0.0449,
-    -0.0315
+    -0.0439,
+    -0.0316
    ],
-   "clv_games": 58,
-   "move_n": 152,
-   "move": 0.0009,
+   "clv_games": 60,
+   "move_n": 160,
+   "move": 0.0011,
    "move_90": [
-    -0.0024,
-    0.0042
+    -0.002,
+    0.0043
    ],
-   "move_games": 57,
+   "move_games": 59,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
   "sport = nba, stat/market = ra": {
-   "n": 355,
+   "n": 358,
    "settled": 305,
    "win_rate": 0.659,
    "avg_chance": 0.6842,
@@ -2667,24 +2667,24 @@
     -0.0131
    ],
    "roi_games": 52,
-   "clv_n": 31,
-   "clv": -0.0487,
+   "clv_n": 33,
+   "clv": -0.0426,
    "clv_90_iid": [
-    -0.0796,
-    -0.0179
+    -0.0727,
+    -0.0125
    ],
    "clv_90": [
-    -0.0807,
-    -0.0168
+    -0.0729,
+    -0.0101
    ],
-   "clv_games": 22,
-   "move_n": 20,
-   "move": -0.0229,
+   "clv_games": 24,
+   "move_n": 22,
+   "move": -0.0196,
    "move_90": [
-    -0.0447,
-    -0.0047
+    -0.0406,
+    -0.0017
    ],
-   "move_games": 17,
+   "move_games": 19,
    "verdict": "IN-SAMPLE SIGNAL: negative CLV",
    "iid_verdict": "negative CLV"
   },
@@ -2824,7 +2824,7 @@
    "iid_verdict": null
   },
   "sport = nba, stat/market = pa": {
-   "n": 378,
+   "n": 382,
    "settled": 336,
    "win_rate": 0.7054,
    "avg_chance": 0.6927,
@@ -2857,7 +2857,7 @@
    "iid_verdict": null
   },
   "sport = nba, stat/market = pr": {
-   "n": 481,
+   "n": 485,
    "settled": 422,
    "win_rate": 0.6825,
    "avg_chance": 0.6859,
