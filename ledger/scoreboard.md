@@ -1,12 +1,12 @@
 # Scoreboard
 
-Built Tue 17 Nov 2026, 10:50 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
+Built Wed 18 Nov 2026, 5:20 AM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
 
 ## Jake's real money
 
 | Contestant | Bets | W–L–P–V | Profit | ROI | Bankroll | Max drawdown | CLV (n, avg, beat close) | Pending |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| jake | 18 | 1–17–0–0 | $-88.09 | -78.2% | $-88.09 | $102.65 | – | 2 |
+| jake | 20 | 2–18–0–0 | $-81.01 | -63.7% | $-81.01 | $102.65 | – | 0 |
 
 ## Paper contestants at real prices (start $500, logged stake)
 
@@ -50,11 +50,11 @@ CLV is the expected value of the bet price against the de-vigged closing price (
 | boost_parlay_20 | 3 | 0–3–0–0 | $-15.00 | -100.0% | $485.00 | $15.00 | – | 0 |
 | always_under | 38 | 9–11–0–18 | $-16.88 | -16.9% | $483.12 | $41.84 | – | 0 |
 | boost_parlay_50 | 4 | 0–4–0–0 | $-20.00 | -100.0% | $480.00 | $20.00 | – | 0 |
-| r15_pra_under | 335 | 167–158–0–10 | $-46.57 | -2.9% | $453.43 | $88.26 | 84, -6.4%, 42% | 54 |
-| card | 18 | 3–15–0–0 | $-54.75 | -60.8% | $445.25 | $57.80 | 3, -4.7%, 100% | 8 |
-| r15_ast_under | 310 | 150–150–0–10 | $-90.66 | -6.0% | $409.34 | $173.06 | 10, -4.3%, 44% | 52 |
-| r15_combo_under | 686 | 331–333–0–22 | $-200.55 | -6.0% | $299.45 | $284.90 | – | 115 |
-| r16_avg_under | 1175 | 578–571–0–26 | $-457.68 | -8.0% | $42.32 | $462.39 | 123, -6.2%, 48% | 232 |
+| card | 25 | 5–17–0–3 | $-47.85 | -43.5% | $452.15 | $57.80 | 3, -4.7%, 100% | 1 |
+| r15_pra_under | 389 | 193–184–0–12 | $-63.84 | -3.4% | $436.16 | $96.68 | 106, -6.1%, 43% | 0 |
+| r15_ast_under | 362 | 170–180–0–12 | $-156.36 | -8.9% | $343.64 | $192.41 | 10, -4.3%, 44% | 0 |
+| r15_combo_under | 801 | 382–393–0–26 | $-268.78 | -6.9% | $231.22 | $334.85 | – | 0 |
+| r16_avg_under | 1407 | 687–687–0–33 | $-587.08 | -8.5% | $-87.08 | $591.80 | 164, -5.8%, 48% | 0 |
 
 ## Calibration (real-price bets with a final win chance)
 
@@ -70,4 +70,4 @@ Brier score 0.257 (a coin flip is 0.250).
 ## Open items
 
 - a6ac9837fa5c: withdrawal after the start ignored
-- 469 pending (waiting for box scores or a manual settle).
+- 7 pending (waiting for box scores or a manual settle).
