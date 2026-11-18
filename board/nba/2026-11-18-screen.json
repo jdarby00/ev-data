@@ -1,7 +1,73 @@
 {
 "date": "2026-11-18",
-"built": "2026-11-18T21:15:23Z",
+"built": "2026-11-18T22:42:17Z",
 "rows": [
+{
+"market": "threes",
+"player": "Jordan Poole",
+"line": 1.5,
+"side": "over",
+"book": "draftkings",
+"price": 111,
+"fair": 0.5165,
+"edge": 0.0899,
+"n_other": 2,
+"other_books": [
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
+},
+{
+"market": "threes",
+"player": "Jordan Poole",
+"line": 1.5,
+"side": "under",
+"book": "fanduel",
+"price": 102,
+"fair": 0.528,
+"edge": 0.0666,
+"n_other": 2,
+"other_books": [
+"draftkings",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
+},
+{
+"market": "threes",
+"player": "Saddiq Bey",
+"line": 2.5,
+"side": "over",
+"book": "fanduel",
+"price": 114,
+"fair": 0.4696,
+"edge": 0.005,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
+},
 {
 "market": "pra",
 "player": "Jalen Johnson",
@@ -45,6 +111,32 @@
 "tip": "2026-11-19T00:40:00Z",
 "api_away": "Washington Wizards",
 "api_home": "Toronto Raptors"
+},
+{
+"market": "assists",
+"player": "Nolan Traore",
+"line": 4.5,
+"side": "over",
+"book": "fanduel",
+"price": 130,
+"fair": 0.433,
+"edge": -0.004,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "pra",
@@ -165,6 +257,52 @@
 "api_home": "Oklahoma City Thunder"
 },
 {
+"market": "rebounds",
+"player": "Isaac Okoro",
+"line": 3.5,
+"side": "over",
+"book": "fanduel",
+"price": 142,
+"fair": 0.4087,
+"edge": -0.011,
+"n_other": 4,
+"other_books": [
+"betonlineag",
+"bovada",
+"draftkings",
+"espnbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "rebounds",
+"player": "Tre Jones",
+"line": 2.5,
+"side": "under",
+"book": "draftkings",
+"price": -126,
+"fair": 0.5513,
+"edge": -0.0111,
+"n_other": 6,
+"other_books": [
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "points",
 "player": "Tre Johnson",
 "line": 9.5,
@@ -238,6 +376,31 @@
 "api_home": "Oklahoma City Thunder"
 },
 {
+"market": "rebounds",
+"player": "Egor Demin",
+"line": 3.5,
+"side": "over",
+"book": "fanduel",
+"price": 142,
+"fair": 0.4078,
+"edge": -0.0131,
+"n_other": 7,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "points",
 "player": "Nickeil Alexander-Walker",
 "line": 22.5,
@@ -256,6 +419,31 @@
 "tip": "2026-11-19T01:10:00Z",
 "api_away": "Atlanta Hawks",
 "api_home": "Oklahoma City Thunder"
+},
+{
+"market": "rebounds",
+"player": "Norman Powell",
+"line": 2.5,
+"side": "under",
+"book": "draftkings",
+"price": 131,
+"fair": 0.4266,
+"edge": -0.0146,
+"n_other": 7,
+"other_books": [
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "points",
@@ -281,6 +469,29 @@
 "api_home": "Oklahoma City Thunder"
 },
 {
+"market": "threes",
+"player": "Cade Cunningham",
+"line": 2.5,
+"side": "under",
+"book": "fanduel",
+"price": -162,
+"fair": 0.6086,
+"edge": -0.0157,
+"n_other": 5,
+"other_books": [
+"betmgm",
+"betonlineag",
+"bovada",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
+},
+{
 "market": "points",
 "player": "Ja'Kobe Walter",
 "line": 13.5,
@@ -304,6 +515,32 @@
 "tip": "2026-11-19T00:40:00Z",
 "api_away": "Washington Wizards",
 "api_home": "Toronto Raptors"
+},
+{
+"market": "rebounds",
+"player": "Day'Ron Sharpe",
+"line": 8.5,
+"side": "over",
+"book": "draftkings",
+"price": 103,
+"fair": 0.4836,
+"edge": -0.0183,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "pra",
@@ -357,6 +594,32 @@
 "api_home": "Indiana Pacers"
 },
 {
+"market": "threes",
+"player": "John Collins",
+"line": 1.5,
+"side": "over",
+"book": "draftkings",
+"price": 150,
+"fair": 0.3908,
+"edge": -0.0231,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
+},
+{
 "market": "pra",
 "player": "Tyler Herro",
 "line": 31.5,
@@ -377,6 +640,32 @@
 "tip": "2026-11-19T00:10:00Z",
 "api_away": "Milwaukee Bucks",
 "api_home": "Miami Heat"
+},
+{
+"market": "threes",
+"player": "Jeremiah Fears",
+"line": 1.5,
+"side": "over",
+"book": "fanduel",
+"price": 112,
+"fair": 0.4597,
+"edge": -0.0254,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
 },
 {
 "market": "points",
@@ -405,6 +694,58 @@
 "api_home": "Oklahoma City Thunder"
 },
 {
+"market": "rebounds",
+"player": "Jalen Smith",
+"line": 8.5,
+"side": "under",
+"book": "draftkings",
+"price": -102,
+"fair": 0.4918,
+"edge": -0.0261,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "assists",
+"player": "Egor Demin",
+"line": 2.5,
+"side": "over",
+"book": "draftkings",
+"price": -122,
+"fair": 0.5351,
+"edge": -0.0264,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "pra",
 "player": "Ja'Kobe Walter",
 "line": 21.5,
@@ -422,6 +763,32 @@
 "tip": "2026-11-19T00:40:00Z",
 "api_away": "Washington Wizards",
 "api_home": "Toronto Raptors"
+},
+{
+"market": "threes",
+"player": "Herb Jones",
+"line": 1.5,
+"side": "over",
+"book": "fanduel",
+"price": 158,
+"fair": 0.3769,
+"edge": -0.0276,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
 },
 {
 "market": "pra",
@@ -617,6 +984,80 @@
 "tip": "2026-11-19T01:10:00Z",
 "api_away": "Atlanta Hawks",
 "api_home": "Oklahoma City Thunder"
+},
+{
+"market": "assists",
+"player": "Julius Randle",
+"line": 4.5,
+"side": "under",
+"book": "fanduel",
+"price": 122,
+"fair": 0.4361,
+"edge": -0.0319,
+"n_other": 4,
+"other_books": [
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "rebounds",
+"player": "Noah Clowney",
+"line": 3.5,
+"side": "over",
+"book": "fanduel",
+"price": -102,
+"fair": 0.4888,
+"edge": -0.0319,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "rebounds",
+"player": "Julius Randle",
+"line": 6.5,
+"side": "over",
+"book": "fanduel",
+"price": -113,
+"fair": 0.5136,
+"edge": -0.0319,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "pra",
@@ -917,6 +1358,57 @@
 "api_home": "Indiana Pacers"
 },
 {
+"market": "rebounds",
+"player": "Jalen Smith",
+"line": 8.5,
+"side": "over",
+"book": "fanduel",
+"price": -113,
+"fair": 0.5116,
+"edge": -0.0356,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "threes",
+"player": "Daniss Jenkins",
+"line": 2.5,
+"side": "over",
+"book": "fanduel",
+"price": 150,
+"fair": 0.3858,
+"edge": -0.0356,
+"n_other": 7,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
+},
+{
 "market": "pra",
 "player": "Bilal Coulibaly",
 "line": 11.5,
@@ -1057,6 +1549,29 @@
 "api_home": "Miami Heat"
 },
 {
+"market": "assists",
+"player": "Tre Jones",
+"line": 3.5,
+"side": "under",
+"book": "fanduel",
+"price": 116,
+"fair": 0.4462,
+"edge": -0.0363,
+"n_other": 5,
+"other_books": [
+"betonlineag",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "points",
 "player": "Jared McCain",
 "line": 13.5,
@@ -1081,6 +1596,28 @@
 "tip": "2026-11-19T01:10:00Z",
 "api_away": "Atlanta Hawks",
 "api_home": "Oklahoma City Thunder"
+},
+{
+"market": "rebounds",
+"player": "Isaac Okoro",
+"line": 3.5,
+"side": "under",
+"book": "draftkings",
+"price": -164,
+"fair": 0.5985,
+"edge": -0.0366,
+"n_other": 4,
+"other_books": [
+"betonlineag",
+"bovada",
+"espnbet",
+"fanduel"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "pra",
@@ -1203,6 +1740,106 @@
 "api_home": "Indiana Pacers"
 },
 {
+"market": "rebounds",
+"player": "Michael Porter Jr",
+"line": 7.5,
+"side": "under",
+"book": "fanduel",
+"price": -136,
+"fair": 0.5543,
+"edge": -0.038,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "rebounds",
+"player": "Josh Giddey",
+"line": 6.5,
+"side": "under",
+"book": "draftkings",
+"price": -130,
+"fair": 0.5437,
+"edge": -0.0381,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "assists",
+"player": "Julius Randle",
+"line": 4.5,
+"side": "over",
+"book": "draftkings",
+"price": -145,
+"fair": 0.5691,
+"edge": -0.0384,
+"n_other": 4,
+"other_books": [
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "rebounds",
+"player": "Matas Buzelis",
+"line": 5.5,
+"side": "over",
+"book": "fanduel",
+"price": 106,
+"fair": 0.4668,
+"edge": -0.0384,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "pra",
 "player": "Mikel Brown Jr.",
 "line": 16.5,
@@ -1227,6 +1864,32 @@
 "tip": "2026-11-19T00:40:00Z",
 "api_away": "Chicago Bulls",
 "api_home": "Brooklyn Nets"
+},
+{
+"market": "threes",
+"player": "Jeremiah Fears",
+"line": 1.5,
+"side": "under",
+"book": "draftkings",
+"price": -130,
+"fair": 0.5434,
+"edge": -0.0386,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
 },
 {
 "market": "pra",
@@ -1421,6 +2084,32 @@
 "api_home": "Miami Heat"
 },
 {
+"market": "rebounds",
+"player": "Noah Clowney",
+"line": 3.5,
+"side": "over",
+"book": "draftkings",
+"price": -104,
+"fair": 0.4886,
+"edge": -0.0415,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "points",
 "player": "Alex Sarr",
 "line": 11.5,
@@ -1538,6 +2227,31 @@
 "hardrockbet"
 ],
 "price_ts": "2026-11-18T19:25:46Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "assists",
+"player": "Norman Powell",
+"line": 2.5,
+"side": "over",
+"book": "draftkings",
+"price": 120,
+"fair": 0.4352,
+"edge": -0.0426,
+"n_other": 7,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
 "snapshot": "lock",
 "tip": "2026-11-19T00:40:00Z",
 "api_away": "Chicago Bulls",
@@ -1764,6 +2478,55 @@
 "api_home": "Brooklyn Nets"
 },
 {
+"market": "assists",
+"player": "Egor Demin",
+"line": 2.5,
+"side": "under",
+"book": "fanduel",
+"price": 104,
+"fair": 0.4678,
+"edge": -0.0457,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "assists",
+"player": "Matas Buzelis",
+"line": 1.5,
+"side": "under",
+"book": "draftkings",
+"price": 145,
+"fair": 0.3895,
+"edge": -0.0458,
+"n_other": 5,
+"other_books": [
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "points",
 "player": "Amen Thompson",
 "line": 15.5,
@@ -1830,6 +2593,108 @@
 "tip": "2026-11-19T01:10:00Z",
 "api_away": "Atlanta Hawks",
 "api_home": "Oklahoma City Thunder"
+},
+{
+"market": "rebounds",
+"player": "Michael Porter Jr",
+"line": 7.5,
+"side": "over",
+"book": "draftkings",
+"price": 113,
+"fair": 0.4478,
+"edge": -0.0461,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "rebounds",
+"player": "Josh Giddey",
+"line": 6.5,
+"side": "over",
+"book": "fanduel",
+"price": 108,
+"fair": 0.4585,
+"edge": -0.0464,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "rebounds",
+"player": "Mikel Brown Jr.",
+"line": 2.5,
+"side": "under",
+"book": "draftkings",
+"price": -179,
+"fair": 0.6116,
+"edge": -0.0467,
+"n_other": 6,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "threes",
+"player": "Saddiq Bey",
+"line": 2.5,
+"side": "over",
+"book": "draftkings",
+"price": 104,
+"fair": 0.4673,
+"edge": -0.0467,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
 },
 {
 "market": "pra",
@@ -1899,6 +2764,29 @@
 "hardrockbet"
 ],
 "price_ts": "2026-11-18T19:25:46Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "assists",
+"player": "Tre Jones",
+"line": 3.5,
+"side": "over",
+"book": "draftkings",
+"price": -141,
+"fair": 0.5569,
+"edge": -0.0481,
+"n_other": 5,
+"other_books": [
+"betonlineag",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
 "snapshot": "lock",
 "tip": "2026-11-19T00:40:00Z",
 "api_away": "Chicago Bulls",
@@ -2101,6 +2989,31 @@
 "api_home": "Oklahoma City Thunder"
 },
 {
+"market": "rebounds",
+"player": "Norman Powell",
+"line": 2.5,
+"side": "over",
+"book": "fanduel",
+"price": -154,
+"fair": 0.5766,
+"edge": -0.0489,
+"n_other": 7,
+"other_books": [
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "points",
 "player": "Aday Mara",
 "line": 9.5,
@@ -2165,6 +3078,58 @@
 "tip": "2026-11-19T00:10:00Z",
 "api_away": "Houston Rockets",
 "api_home": "Indiana Pacers"
+},
+{
+"market": "assists",
+"player": "Nolan Traore",
+"line": 4.5,
+"side": "under",
+"book": "draftkings",
+"price": -150,
+"fair": 0.5704,
+"edge": -0.0494,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "assists",
+"player": "Day'Ron Sharpe",
+"line": 4.5,
+"side": "under",
+"book": "fanduel",
+"price": -148,
+"fair": 0.5671,
+"edge": -0.0497,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "pra",
@@ -2233,6 +3198,32 @@
 "tip": "2026-11-19T00:40:00Z",
 "api_away": "Washington Wizards",
 "api_home": "Toronto Raptors"
+},
+{
+"market": "assists",
+"player": "Mikel Brown Jr.",
+"line": 3.5,
+"side": "under",
+"book": "fanduel",
+"price": -150,
+"fair": 0.5699,
+"edge": -0.0502,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "points",
@@ -2387,6 +3378,32 @@
 "api_home": "Toronto Raptors"
 },
 {
+"market": "rebounds",
+"player": "Matas Buzelis",
+"line": 5.5,
+"side": "under",
+"book": "draftkings",
+"price": -129,
+"fair": 0.5348,
+"edge": -0.0507,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "pra",
 "player": "Amen Thompson",
 "line": 26.5,
@@ -2458,6 +3475,30 @@
 "api_home": "Brooklyn Nets"
 },
 {
+"market": "threes",
+"player": "Kevin Huerter",
+"line": 2.5,
+"side": "under",
+"book": "fanduel",
+"price": -162,
+"fair": 0.5867,
+"edge": -0.0511,
+"n_other": 6,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
+},
+{
 "market": "pra",
 "player": "Brayden Burries",
 "line": 22.5,
@@ -2478,6 +3519,32 @@
 "tip": "2026-11-19T00:10:00Z",
 "api_away": "Milwaukee Bucks",
 "api_home": "Miami Heat"
+},
+{
+"market": "assists",
+"player": "Mikel Brown Jr.",
+"line": 3.5,
+"side": "over",
+"book": "draftkings",
+"price": 120,
+"fair": 0.4311,
+"edge": -0.0516,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "pra",
@@ -2699,6 +3766,32 @@
 "api_home": "Indiana Pacers"
 },
 {
+"market": "threes",
+"player": "Herb Jones",
+"line": 1.5,
+"side": "under",
+"book": "draftkings",
+"price": -194,
+"fair": 0.625,
+"edge": -0.0528,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
+},
+{
 "market": "pra",
 "player": "Kyshawn George",
 "line": 23.5,
@@ -2809,6 +3902,32 @@
 "tip": "2026-11-19T00:10:00Z",
 "api_away": "Milwaukee Bucks",
 "api_home": "Miami Heat"
+},
+{
+"market": "assists",
+"player": "Day'Ron Sharpe",
+"line": 4.5,
+"side": "over",
+"book": "draftkings",
+"price": 118,
+"fair": 0.4338,
+"edge": -0.0543,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "pra",
@@ -3149,6 +4268,84 @@
 "api_home": "Indiana Pacers"
 },
 {
+"market": "rebounds",
+"player": "Day'Ron Sharpe",
+"line": 8.5,
+"side": "under",
+"book": "fanduel",
+"price": -122,
+"fair": 0.5189,
+"edge": -0.0559,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "rebounds",
+"player": "Day'Ron Sharpe",
+"line": 8.5,
+"side": "over",
+"book": "fanduel",
+"price": -104,
+"fair": 0.4811,
+"edge": -0.0562,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "assists",
+"player": "Josh Giddey",
+"line": 8.5,
+"side": "under",
+"book": "fanduel",
+"price": -120,
+"fair": 0.5147,
+"edge": -0.0563,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "points",
 "player": "Nickeil Alexander-Walker",
 "line": 21.5,
@@ -3288,6 +4485,31 @@
 "api_home": "Oklahoma City Thunder"
 },
 {
+"market": "threes",
+"player": "Daniss Jenkins",
+"line": 2.5,
+"side": "under",
+"book": "draftkings",
+"price": -188,
+"fair": 0.6157,
+"edge": -0.0568,
+"n_other": 7,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
+},
+{
 "market": "pra",
 "player": "Aday Mara",
 "line": 19.5,
@@ -3308,6 +4530,84 @@
 "tip": "2026-11-19T01:10:00Z",
 "api_away": "Atlanta Hawks",
 "api_home": "Oklahoma City Thunder"
+},
+{
+"market": "assists",
+"player": "Josh Giddey",
+"line": 8.5,
+"side": "over",
+"book": "fanduel",
+"price": -106,
+"fair": 0.4853,
+"edge": -0.0569,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "rebounds",
+"player": "Julius Randle",
+"line": 6.5,
+"side": "over",
+"book": "draftkings",
+"price": -119,
+"fair": 0.5125,
+"edge": -0.0569,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "threes",
+"player": "John Collins",
+"line": 1.5,
+"side": "under",
+"book": "fanduel",
+"price": -184,
+"fair": 0.611,
+"edge": -0.0569,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
 },
 {
 "market": "pra",
@@ -3686,6 +4986,32 @@
 "api_home": "Toronto Raptors"
 },
 {
+"market": "threes",
+"player": "John Collins",
+"line": 1.5,
+"side": "over",
+"book": "fanduel",
+"price": 142,
+"fair": 0.389,
+"edge": -0.0587,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
+},
+{
 "market": "points",
 "player": "Pascal Siakam",
 "line": 21.5,
@@ -3774,6 +5100,30 @@
 "tip": "2026-11-19T00:40:00Z",
 "api_away": "Washington Wizards",
 "api_home": "Toronto Raptors"
+},
+{
+"market": "assists",
+"player": "Isaac Okoro",
+"line": 1.5,
+"side": "over",
+"book": "draftkings",
+"price": -174,
+"fair": 0.5975,
+"edge": -0.0591,
+"n_other": 6,
+"other_books": [
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "points",
@@ -4000,6 +5350,31 @@
 "api_home": "Indiana Pacers"
 },
 {
+"market": "assists",
+"player": "Michael Porter Jr",
+"line": 1.5,
+"side": "over",
+"book": "draftkings",
+"price": -173,
+"fair": 0.595,
+"edge": -0.061,
+"n_other": 7,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "pra",
 "player": "Pelle Larsson",
 "line": 17.5,
@@ -4182,6 +5557,53 @@
 "api_home": "Toronto Raptors"
 },
 {
+"market": "threes",
+"player": "Cade Cunningham",
+"line": 1.5,
+"side": "under",
+"book": "draftkings",
+"price": 135,
+"fair": 0.399,
+"edge": -0.0623,
+"n_other": 3,
+"other_books": [
+"betparx",
+"betrivers",
+"bovada"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
+},
+{
+"market": "assists",
+"player": "Mikel Brown Jr.",
+"line": 3.5,
+"side": "over",
+"book": "fanduel",
+"price": 118,
+"fair": 0.4301,
+"edge": -0.0624,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "pra",
 "player": "Myles Turner",
 "line": 17.5,
@@ -4206,6 +5628,172 @@
 "tip": "2026-11-19T00:10:00Z",
 "api_away": "Milwaukee Bucks",
 "api_home": "Miami Heat"
+},
+{
+"market": "rebounds",
+"player": "Matas Buzelis",
+"line": 5.5,
+"side": "under",
+"book": "fanduel",
+"price": -132,
+"fair": 0.5332,
+"edge": -0.0628,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "assists",
+"player": "Jalen Smith",
+"line": 2.5,
+"side": "over",
+"book": "draftkings",
+"price": 144,
+"fair": 0.384,
+"edge": -0.0631,
+"n_other": 4,
+"other_books": [
+"betparx",
+"betrivers",
+"bovada",
+"espnbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "assists",
+"player": "Jalen Smith",
+"line": 2.5,
+"side": "under",
+"book": "draftkings",
+"price": -192,
+"fair": 0.616,
+"edge": -0.0631,
+"n_other": 4,
+"other_books": [
+"betparx",
+"betrivers",
+"bovada",
+"espnbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "rebounds",
+"player": "Egor Demin",
+"line": 3.5,
+"side": "over",
+"book": "draftkings",
+"price": 131,
+"fair": 0.4055,
+"edge": -0.0632,
+"n_other": 7,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "assists",
+"player": "Josh Giddey",
+"line": 8.5,
+"side": "under",
+"book": "draftkings",
+"price": -122,
+"fair": 0.5148,
+"edge": -0.0633,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "threes",
+"player": "Cade Cunningham",
+"line": 1.5,
+"side": "over",
+"book": "draftkings",
+"price": -179,
+"fair": 0.601,
+"edge": -0.0633,
+"n_other": 3,
+"other_books": [
+"betparx",
+"betrivers",
+"bovada"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
+},
+{
+"market": "rebounds",
+"player": "Patrick Williams",
+"line": 2.5,
+"side": "under",
+"book": "draftkings",
+"price": -108,
+"fair": 0.4863,
+"edge": -0.0634,
+"n_other": 6,
+"other_books": [
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "pra",
@@ -4274,6 +5862,31 @@
 "tip": "2026-11-19T01:10:00Z",
 "api_away": "Atlanta Hawks",
 "api_home": "Oklahoma City Thunder"
+},
+{
+"market": "rebounds",
+"player": "Egor Demin",
+"line": 3.5,
+"side": "under",
+"book": "draftkings",
+"price": -174,
+"fair": 0.5945,
+"edge": -0.0639,
+"n_other": 7,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "points",
@@ -4347,6 +5960,57 @@
 "tip": "2026-11-19T00:40:00Z",
 "api_away": "Washington Wizards",
 "api_home": "Toronto Raptors"
+},
+{
+"market": "assists",
+"player": "Michael Porter Jr",
+"line": 1.5,
+"side": "under",
+"book": "draftkings",
+"price": 131,
+"fair": 0.405,
+"edge": -0.0645,
+"n_other": 7,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "assists",
+"player": "Egor Demin",
+"line": 2.5,
+"side": "over",
+"book": "fanduel",
+"price": -132,
+"fair": 0.5322,
+"edge": -0.0646,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "points",
@@ -4479,6 +6143,32 @@
 "api_home": "Miami Heat"
 },
 {
+"market": "assists",
+"player": "Day'Ron Sharpe",
+"line": 4.5,
+"side": "over",
+"book": "fanduel",
+"price": 116,
+"fair": 0.4329,
+"edge": -0.065,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "pra",
 "player": "Jalen Johnson",
 "line": 36.5,
@@ -4566,6 +6256,30 @@
 "tip": "2026-11-19T01:10:00Z",
 "api_away": "Atlanta Hawks",
 "api_home": "Oklahoma City Thunder"
+},
+{
+"market": "rebounds",
+"player": "Patrick Williams",
+"line": 2.5,
+"side": "over",
+"book": "draftkings",
+"price": -122,
+"fair": 0.5137,
+"edge": -0.0653,
+"n_other": 6,
+"other_books": [
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "pra",
@@ -4715,6 +6429,32 @@
 "api_home": "Miami Heat"
 },
 {
+"market": "assists",
+"player": "Josh Giddey",
+"line": 8.5,
+"side": "over",
+"book": "draftkings",
+"price": -108,
+"fair": 0.4852,
+"edge": -0.0655,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "points",
 "player": "Luguentz Dort",
 "line": 10.5,
@@ -4822,6 +6562,56 @@
 "api_home": "Miami Heat"
 },
 {
+"market": "threes",
+"player": "Kevin Huerter",
+"line": 2.5,
+"side": "over",
+"book": "fanduel",
+"price": 126,
+"fair": 0.4133,
+"edge": -0.066,
+"n_other": 6,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
+},
+{
+"market": "rebounds",
+"player": "Josh Giddey",
+"line": 6.5,
+"side": "under",
+"book": "fanduel",
+"price": -138,
+"fair": 0.5415,
+"edge": -0.0661,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "pra",
 "player": "Pelle Larsson",
 "line": 17.5,
@@ -4841,6 +6631,30 @@
 "tip": "2026-11-19T00:10:00Z",
 "api_away": "Milwaukee Bucks",
 "api_home": "Miami Heat"
+},
+{
+"market": "assists",
+"player": "Isaac Okoro",
+"line": 1.5,
+"side": "under",
+"book": "draftkings",
+"price": 132,
+"fair": 0.4025,
+"edge": -0.0662,
+"n_other": 6,
+"other_books": [
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "pra",
@@ -5029,6 +6843,31 @@
 "api_home": "Miami Heat"
 },
 {
+"market": "rebounds",
+"player": "Norman Powell",
+"line": 2.5,
+"side": "under",
+"book": "fanduel",
+"price": 120,
+"fair": 0.4234,
+"edge": -0.0686,
+"n_other": 7,
+"other_books": [
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "points",
 "player": "Aday Mara",
 "line": 10.5,
@@ -5123,6 +6962,57 @@
 "api_home": "Toronto Raptors"
 },
 {
+"market": "rebounds",
+"player": "Julius Randle",
+"line": 6.5,
+"side": "under",
+"book": "draftkings",
+"price": -110,
+"fair": 0.4875,
+"edge": -0.0692,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "threes",
+"player": "Daniss Jenkins",
+"line": 2.5,
+"side": "under",
+"book": "fanduel",
+"price": -194,
+"fair": 0.6142,
+"edge": -0.0692,
+"n_other": 7,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
+},
+{
 "market": "points",
 "player": "Alperen Sengun",
 "line": 20.5,
@@ -5169,6 +7059,31 @@
 "tip": "2026-11-19T00:10:00Z",
 "api_away": "Houston Rockets",
 "api_home": "Indiana Pacers"
+},
+{
+"market": "threes",
+"player": "Daniss Jenkins",
+"line": 2.5,
+"side": "over",
+"book": "draftkings",
+"price": 142,
+"fair": 0.3843,
+"edge": -0.07,
+"n_other": 7,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
 },
 {
 "market": "pra",
@@ -5307,6 +7222,32 @@
 "api_home": "Toronto Raptors"
 },
 {
+"market": "assists",
+"player": "Day'Ron Sharpe",
+"line": 4.5,
+"side": "under",
+"book": "draftkings",
+"price": -156,
+"fair": 0.5662,
+"edge": -0.0709,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "points",
 "player": "R.J. Barrett",
 "line": 23.5,
@@ -5429,6 +7370,29 @@
 "tip": "2026-11-19T00:10:00Z",
 "api_away": "Milwaukee Bucks",
 "api_home": "Miami Heat"
+},
+{
+"market": "assists",
+"player": "Tre Jones",
+"line": 3.5,
+"side": "over",
+"book": "fanduel",
+"price": -148,
+"fair": 0.5538,
+"edge": -0.072,
+"n_other": 5,
+"other_books": [
+"betonlineag",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "points",
@@ -5743,6 +7707,32 @@
 "api_home": "Indiana Pacers"
 },
 {
+"market": "threes",
+"player": "Herb Jones",
+"line": 1.5,
+"side": "under",
+"book": "fanduel",
+"price": -205,
+"fair": 0.6231,
+"edge": -0.0729,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
+},
+{
 "market": "points",
 "player": "Tre Johnson",
 "line": 9.5,
@@ -5766,6 +7756,55 @@
 "tip": "2026-11-19T00:40:00Z",
 "api_away": "Washington Wizards",
 "api_home": "Toronto Raptors"
+},
+{
+"market": "assists",
+"player": "Matas Buzelis",
+"line": 1.5,
+"side": "over",
+"book": "draftkings",
+"price": -193,
+"fair": 0.6105,
+"edge": -0.0731,
+"n_other": 5,
+"other_books": [
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "assists",
+"player": "Mikel Brown Jr.",
+"line": 3.5,
+"side": "under",
+"book": "draftkings",
+"price": -159,
+"fair": 0.5689,
+"edge": -0.0733,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "pra",
@@ -5954,6 +7993,28 @@
 "tip": "2026-11-19T00:40:00Z",
 "api_away": "Washington Wizards",
 "api_home": "Toronto Raptors"
+},
+{
+"market": "assists",
+"player": "Julius Randle",
+"line": 4.5,
+"side": "over",
+"book": "fanduel",
+"price": -156,
+"fair": 0.5639,
+"edge": -0.0746,
+"n_other": 4,
+"other_books": [
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "pra",
@@ -6294,6 +8355,32 @@
 "api_home": "Indiana Pacers"
 },
 {
+"market": "rebounds",
+"player": "Michael Porter Jr",
+"line": 7.5,
+"side": "under",
+"book": "draftkings",
+"price": -149,
+"fair": 0.5522,
+"edge": -0.0773,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "pra",
 "player": "Luguentz Dort",
 "line": 14.5,
@@ -6358,6 +8445,57 @@
 "tip": "2026-11-19T00:10:00Z",
 "api_away": "Houston Rockets",
 "api_home": "Indiana Pacers"
+},
+{
+"market": "threes",
+"player": "Herb Jones",
+"line": 1.5,
+"side": "over",
+"book": "draftkings",
+"price": 146,
+"fair": 0.375,
+"edge": -0.0776,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
+},
+{
+"market": "assists",
+"player": "Norman Powell",
+"line": 2.5,
+"side": "under",
+"book": "draftkings",
+"price": -158,
+"fair": 0.5648,
+"edge": -0.0777,
+"n_other": 7,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "points",
@@ -6589,6 +8727,58 @@
 "api_home": "Indiana Pacers"
 },
 {
+"market": "threes",
+"player": "Saddiq Bey",
+"line": 2.5,
+"side": "under",
+"book": "draftkings",
+"price": -137,
+"fair": 0.5327,
+"edge": -0.0785,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
+},
+{
+"market": "rebounds",
+"player": "Matas Buzelis",
+"line": 5.5,
+"side": "over",
+"book": "draftkings",
+"price": -102,
+"fair": 0.4652,
+"edge": -0.0786,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "points",
 "player": "Bilal Coulibaly",
 "line": 6.5,
@@ -6740,6 +8930,32 @@
 "api_home": "Brooklyn Nets"
 },
 {
+"market": "threes",
+"player": "Jeremiah Fears",
+"line": 1.5,
+"side": "under",
+"book": "fanduel",
+"price": -142,
+"fair": 0.5403,
+"edge": -0.0793,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
+},
+{
 "market": "points",
 "player": "Jakob Poeltl",
 "line": 10.5,
@@ -6790,6 +9006,32 @@
 "tip": "2026-11-19T00:40:00Z",
 "api_away": "Washington Wizards",
 "api_home": "Toronto Raptors"
+},
+{
+"market": "rebounds",
+"player": "Jalen Smith",
+"line": 8.5,
+"side": "under",
+"book": "fanduel",
+"price": -113,
+"fair": 0.4884,
+"edge": -0.0794,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "pra",
@@ -6865,6 +9107,32 @@
 "api_home": "Indiana Pacers"
 },
 {
+"market": "rebounds",
+"player": "Noah Clowney",
+"line": 3.5,
+"side": "under",
+"book": "fanduel",
+"price": -125,
+"fair": 0.5112,
+"edge": -0.0799,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "pra",
 "player": "Brayden Burries",
 "line": 22.5,
@@ -6885,6 +9153,32 @@
 "tip": "2026-11-19T00:10:00Z",
 "api_away": "Milwaukee Bucks",
 "api_home": "Miami Heat"
+},
+{
+"market": "assists",
+"player": "Nolan Traore",
+"line": 4.5,
+"side": "over",
+"book": "draftkings",
+"price": 114,
+"fair": 0.4296,
+"edge": -0.0806,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "points",
@@ -7033,6 +9327,32 @@
 "api_home": "Toronto Raptors"
 },
 {
+"market": "rebounds",
+"player": "Michael Porter Jr",
+"line": 7.5,
+"side": "over",
+"book": "fanduel",
+"price": 106,
+"fair": 0.4457,
+"edge": -0.082,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "points",
 "player": "Dyson Daniels",
 "line": 10.5,
@@ -7105,6 +9425,81 @@
 "tip": "2026-11-19T01:10:00Z",
 "api_away": "Atlanta Hawks",
 "api_home": "Oklahoma City Thunder"
+},
+{
+"market": "assists",
+"player": "Tre Jones",
+"line": 3.5,
+"side": "under",
+"book": "draftkings",
+"price": 107,
+"fair": 0.4431,
+"edge": -0.0828,
+"n_other": 5,
+"other_books": [
+"betonlineag",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "rebounds",
+"player": "Noah Clowney",
+"line": 3.5,
+"side": "under",
+"book": "draftkings",
+"price": -126,
+"fair": 0.5114,
+"edge": -0.0828,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "rebounds",
+"player": "Julius Randle",
+"line": 6.5,
+"side": "under",
+"book": "fanduel",
+"price": -113,
+"fair": 0.4864,
+"edge": -0.0832,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "pra",
@@ -7295,6 +9690,31 @@
 "api_home": "Brooklyn Nets"
 },
 {
+"market": "rebounds",
+"player": "Egor Demin",
+"line": 3.5,
+"side": "under",
+"book": "fanduel",
+"price": -184,
+"fair": 0.5922,
+"edge": -0.086,
+"n_other": 7,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "pra",
 "player": "Ivica Zubac",
 "line": 23.5,
@@ -7318,6 +9738,32 @@
 "tip": "2026-11-19T00:10:00Z",
 "api_away": "Houston Rockets",
 "api_home": "Indiana Pacers"
+},
+{
+"market": "threes",
+"player": "John Collins",
+"line": 1.5,
+"side": "under",
+"book": "draftkings",
+"price": -200,
+"fair": 0.6092,
+"edge": -0.0861,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
 },
 {
 "market": "points",
@@ -7397,6 +9843,30 @@
 "api_home": "Oklahoma City Thunder"
 },
 {
+"market": "rebounds",
+"player": "Mikel Brown Jr.",
+"line": 2.5,
+"side": "over",
+"book": "draftkings",
+"price": 135,
+"fair": 0.3884,
+"edge": -0.0872,
+"n_other": 6,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "pra",
 "player": "Klay Thompson",
 "line": 17.5,
@@ -7416,6 +9886,28 @@
 "tip": "2026-11-19T00:10:00Z",
 "api_away": "Milwaukee Bucks",
 "api_home": "Miami Heat"
+},
+{
+"market": "rebounds",
+"player": "Isaac Okoro",
+"line": 3.5,
+"side": "under",
+"book": "fanduel",
+"price": -184,
+"fair": 0.5913,
+"edge": -0.0873,
+"n_other": 4,
+"other_books": [
+"betonlineag",
+"bovada",
+"draftkings",
+"espnbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "pra",
@@ -7754,6 +10246,84 @@
 "api_home": "Oklahoma City Thunder"
 },
 {
+"market": "threes",
+"player": "Jeremiah Fears",
+"line": 1.5,
+"side": "over",
+"book": "draftkings",
+"price": -101,
+"fair": 0.4566,
+"edge": -0.0913,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
+},
+{
+"market": "assists",
+"player": "Nolan Traore",
+"line": 4.5,
+"side": "under",
+"book": "fanduel",
+"price": -166,
+"fair": 0.567,
+"edge": -0.0915,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "rebounds",
+"player": "Josh Giddey",
+"line": 6.5,
+"side": "over",
+"book": "draftkings",
+"price": -101,
+"fair": 0.4563,
+"edge": -0.0919,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "points",
 "player": "Kevin Durant",
 "line": 22.5,
@@ -7888,6 +10458,53 @@
 "tip": "2026-11-19T01:10:00Z",
 "api_away": "Atlanta Hawks",
 "api_home": "Oklahoma City Thunder"
+},
+{
+"market": "assists",
+"player": "Julius Randle",
+"line": 4.5,
+"side": "under",
+"book": "draftkings",
+"price": 110,
+"fair": 0.4309,
+"edge": -0.0951,
+"n_other": 4,
+"other_books": [
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "rebounds",
+"player": "Norman Powell",
+"line": 2.5,
+"side": "over",
+"book": "draftkings",
+"price": -173,
+"fair": 0.5734,
+"edge": -0.0951,
+"n_other": 7,
+"other_books": [
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
 },
 {
 "market": "pra",
@@ -8026,6 +10643,32 @@
 "api_home": "Miami Heat"
 },
 {
+"market": "rebounds",
+"player": "Jalen Smith",
+"line": 8.5,
+"side": "over",
+"book": "draftkings",
+"price": -129,
+"fair": 0.5082,
+"edge": -0.0978,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "pra",
 "player": "Tre Johnson",
 "line": 13.5,
@@ -8095,6 +10738,54 @@
 "api_home": "Toronto Raptors"
 },
 {
+"market": "rebounds",
+"player": "Isaac Okoro",
+"line": 3.5,
+"side": "over",
+"book": "draftkings",
+"price": 124,
+"fair": 0.4015,
+"edge": -0.1007,
+"n_other": 4,
+"other_books": [
+"betonlineag",
+"bovada",
+"espnbet",
+"fanduel"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "rebounds",
+"player": "Day'Ron Sharpe",
+"line": 8.5,
+"side": "under",
+"book": "draftkings",
+"price": -135,
+"fair": 0.5164,
+"edge": -0.1011,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "points",
 "player": "Nickeil Alexander-Walker",
 "line": 22.5,
@@ -8139,6 +10830,58 @@
 "tip": "2026-11-19T00:40:00Z",
 "api_away": "Washington Wizards",
 "api_home": "Toronto Raptors"
+},
+{
+"market": "assists",
+"player": "Egor Demin",
+"line": 2.5,
+"side": "under",
+"book": "draftkings",
+"price": -108,
+"fair": 0.4649,
+"edge": -0.1046,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
+"market": "threes",
+"player": "Saddiq Bey",
+"line": 2.5,
+"side": "under",
+"book": "fanduel",
+"price": -146,
+"fair": 0.5304,
+"edge": -0.1063,
+"n_other": 8,
+"other_books": [
+"betmgm",
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"draftkings",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
 },
 {
 "market": "points",
@@ -8357,6 +11100,29 @@
 "api_home": "Toronto Raptors"
 },
 {
+"market": "threes",
+"player": "Cade Cunningham",
+"line": 2.5,
+"side": "over",
+"book": "fanduel",
+"price": 126,
+"fair": 0.3914,
+"edge": -0.1155,
+"n_other": 5,
+"other_books": [
+"betmgm",
+"betonlineag",
+"bovada",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
+},
+{
 "market": "points",
 "player": "Shai Gilgeous-Alexander",
 "line": 31.5,
@@ -8426,6 +11192,30 @@
 "api_home": "Miami Heat"
 },
 {
+"market": "rebounds",
+"player": "Tre Jones",
+"line": 2.5,
+"side": "over",
+"book": "draftkings",
+"price": -105,
+"fair": 0.4487,
+"edge": -0.124,
+"n_other": 6,
+"other_books": [
+"betonlineag",
+"betparx",
+"betrivers",
+"bovada",
+"espnbet",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T00:40:00Z",
+"api_away": "Chicago Bulls",
+"api_home": "Brooklyn Nets"
+},
+{
 "market": "pra",
 "player": "Jalen Johnson",
 "line": 35.5,
@@ -8443,6 +11233,46 @@
 "tip": "2026-11-19T01:10:00Z",
 "api_away": "Atlanta Hawks",
 "api_home": "Oklahoma City Thunder"
+},
+{
+"market": "threes",
+"player": "Jordan Poole",
+"line": 1.5,
+"side": "over",
+"book": "fanduel",
+"price": -130,
+"fair": 0.472,
+"edge": -0.1649,
+"n_other": 2,
+"other_books": [
+"draftkings",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
+},
+{
+"market": "threes",
+"player": "Jordan Poole",
+"line": 1.5,
+"side": "under",
+"book": "draftkings",
+"price": -146,
+"fair": 0.4835,
+"edge": -0.1854,
+"n_other": 2,
+"other_books": [
+"fanduel",
+"hardrockbet"
+],
+"price_ts": "2026-11-18T21:50:02Z",
+"snapshot": "lock",
+"tip": "2026-11-19T01:10:00Z",
+"api_away": "Detroit Pistons",
+"api_home": "New Orleans Pelicans"
 }
 ]
 }

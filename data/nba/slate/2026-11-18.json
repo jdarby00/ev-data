@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "updated_et": "2026-11-18 16:15",
+ "updated_et": "2026-11-18 17:42",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -15,7 +15,7 @@
    "spread_text": "CLE -4.5",
    "spread": -4.5,
    "total": 238.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -26,10 +26,10 @@
    "away_name": "Houston Rockets",
    "home_name": "Indiana Pacers",
    "state": "pre",
-   "spread_text": "HOU -7.5",
-   "spread": 7.5,
+   "spread_text": "HOU -8.5",
+   "spread": 8.5,
    "total": 225.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -40,10 +40,10 @@
    "away_name": "Milwaukee Bucks",
    "home_name": "Miami Heat",
    "state": "pre",
-   "spread_text": "MIA -11.5",
-   "spread": -11.5,
+   "spread_text": "MIA -12.5",
+   "spread": -12.5,
    "total": 235.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -57,7 +57,7 @@
    "spread_text": "PHI -1.5",
    "spread": 1.5,
    "total": 221.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -68,10 +68,10 @@
    "away_name": "Chicago Bulls",
    "home_name": "Brooklyn Nets",
    "state": "pre",
-   "spread_text": "BKN -2.5",
-   "spread": -2.5,
+   "spread_text": "BKN -1.5",
+   "spread": -1.5,
    "total": 239.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "TOR -4.5",
    "spread": -4.5,
    "total": 225.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -98,8 +98,8 @@
    "state": "pre",
    "spread_text": "DAL -4.5",
    "spread": -4.5,
-   "total": 224.5,
-   "odds_source": "Draft Kings",
+   "total": 225.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -112,8 +112,8 @@
    "state": "pre",
    "spread_text": "DET -4.5",
    "spread": 4.5,
-   "total": 225.5,
-   "odds_source": "Draft Kings",
+   "total": 226.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -124,10 +124,10 @@
    "away_name": "Atlanta Hawks",
    "home_name": "Oklahoma City Thunder",
    "state": "pre",
-   "spread_text": "OKC -5.5",
-   "spread": -5.5,
+   "spread_text": "OKC -6.5",
+   "spread": -6.5,
    "total": 228.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -141,7 +141,7 @@
    "spread_text": "BOS -2.5",
    "spread": 2.5,
    "total": 218.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -152,10 +152,10 @@
    "away_name": "Utah Jazz",
    "home_name": "Los Angeles Lakers",
    "state": "pre",
-   "spread_text": "LAL -11.5",
-   "spread": -11.5,
+   "spread_text": "LAL -12.5",
+   "spread": -12.5,
    "total": 231.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -168,8 +168,8 @@
    "state": "pre",
    "spread_text": "PHX -6.5",
    "spread": 6.5,
-   "total": 227.5,
-   "odds_source": "Draft Kings",
+   "total": 226.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
@@ -451,18 +451,18 @@
   ],
   "Indiana Pacers": [
    {
+    "player": "Andrew Nembhard",
+    "status": "Out",
+    "detail": "Nembhard (hip) won't play in Wednesday's game against the Rockets, Tony East of Forbes.com reports.",
+    "type": "out",
+    "updated": "2026-11-18T22:27Z"
+   },
+   {
     "player": "T.J. McConnell",
     "status": "Day-To-Day",
     "detail": "McConnell (hamstring) is probable to play Wednesday against the Rockets.",
     "type": "day-to-day",
     "updated": "2026-11-17T22:24Z"
-   },
-   {
-    "player": "Andrew Nembhard",
-    "status": "Day-To-Day",
-    "detail": "Nembhard (hip) is questionable for Wednesday's game against Houston.",
-    "type": "day-to-day",
-    "updated": "2026-11-17T22:19Z"
    },
    {
     "player": "Tyrese Haliburton",
@@ -490,9 +490,9 @@
    {
     "player": "Austin Reaves",
     "status": "Out",
-    "detail": "Reaves (heel) is out for Tuesday's game against the Hornets, Dave McMenamin of ESPN.com reports.",
+    "detail": "Reaves (heel) is out for Wednesday's game against the Jazz.",
     "type": "out",
-    "updated": "2026-11-18T21:02Z"
+    "updated": "2026-11-18T21:03Z"
    }
   ],
   "Memphis Grizzlies": [
@@ -663,6 +663,13 @@
   ],
   "Philadelphia 76ers": [
    {
+    "player": "Jaylen Brown",
+    "status": "Out",
+    "detail": "Brown (hamstring) will be re-evaluated at some point this weekend, per Kris Rihm of ESPN.com.",
+    "type": "out",
+    "updated": "2026-11-18T22:21Z"
+   },
+   {
     "player": "Dean Wade",
     "status": "Day-To-Day",
     "detail": "Wade (hamstring) has been downgraded to questionable for Wednesday's game against the Magic.",
@@ -675,13 +682,6 @@
     "detail": "Barlow (back) is out for Wednesday's game against Orlando.",
     "type": "out",
     "updated": "2026-11-17T22:12Z"
-   },
-   {
-    "player": "Jaylen Brown",
-    "status": "Out",
-    "detail": "Brown is out for Wednesday's game against the Magic with a left hamstring strain.",
-    "type": "out",
-    "updated": "2026-11-17T22:08Z"
    },
    {
     "player": "Adem Bona",
@@ -714,20 +714,6 @@
     "detail": "Raynaud (knee) will remain on the inactive list for Wednesday's game against the Suns.",
     "type": "out",
     "updated": "2026-11-18T05:54Z"
-   },
-   {
-    "player": "De'Andre Hunter",
-    "status": "Day-To-Day",
-    "detail": "Hunter (hip) is questionable for Wednesday's game against the Suns, James Ham of ESPN 1320 Sacramento reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-18T00:33Z"
-   },
-   {
-    "player": "Precious Achiuwa",
-    "status": "Day-To-Day",
-    "detail": "Achiuwa (ankle) is questionable for Wednesday's game against the Suns, James Ham of ESPN 1320 Sacramento reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-18T00:29Z"
    },
    {
     "player": "Ben Simmons",
@@ -973,6 +959,27 @@
    "at_et": "2026-11-18 16:15",
    "team": "Toronto Raptors",
    "player": "Kevin McCullar Jr.",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-18 17:42",
+   "team": "Indiana Pacers",
+   "player": "Andrew Nembhard",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-18 17:42",
+   "team": "Sacramento Kings",
+   "player": "De'Andre Hunter",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-18 17:42",
+   "team": "Sacramento Kings",
+   "player": "Precious Achiuwa",
    "from": "Day-To-Day",
    "to": "removed from report"
   }
