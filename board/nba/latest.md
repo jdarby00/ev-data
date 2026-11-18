@@ -1,6 +1,6 @@
 # NBA board, 2026-11-17
 
-Slate updated 2026-11-17 20:36 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-17 21:56 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -12,6 +12,7 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 14:45 Portland Trail Blazers: Deni Avdija not listed → Day-To-Day
 - 18:09 Toronto Raptors: Scottie Barnes Day-To-Day → removed from report
 - 20:36 Portland Trail Blazers: Deni Avdija Day-To-Day → Out
+- 21:56 Charlotte Hornets: Grayson Allen not listed → Out
 
 ## NY @ TOR, 19:30 ET
 Line: NY -2.5, total 215.5 (DraftKings).
@@ -131,7 +132,7 @@ Line: SA -9.5, total 221.5 (DraftKings).
 | Tobias Harris | Out | none this season; last season 27.8 min, 13.3 pts | | | | |
 
 ## UTAH @ LAC, 22:30 ET
-Line: LAC -5.5, total 226.5 (DraftKings).
+Line: LAC -5.5, total 227.5 (Draft Kings).
 **UTAH** (1 rest day). Out: Lauri Markkanen, Jaren Jackson Jr., Jaxson Hayes. Freed minutes: 80.9. Out all season so far (already in the lines): Jusuf Nurkic.
 - Without Jaxson Hayes: Mo Bamba min +16, pts +13.4, reb +0.2, ast +1.9 (n=2 vs 8)
 - Without Jaren Jackson Jr.: Josh Okogie min +8.3, pts +4.9, reb +2.2, ast +0.4 (n=10 vs 3)
@@ -169,8 +170,8 @@ Line: LAC -5.5, total 226.5 (DraftKings).
 | Yanic Konan Niederhauser | Out | none this season; last season 10.4 min, 4.3 pts | | | | |
 
 ## CHA @ LAL, 23:00 ET
-Line: LAL -6.5, total 223.5 (DraftKings).
-**CHA** (1 rest day). Out: Dennis Schroder, Kon Knueppel. Freed minutes: 36.
+Line: LAL -7.5, total 221.5 (Draft Kings).
+**CHA** (1 rest day). Out: Grayson Allen, Dennis Schroder, Kon Knueppel. Freed minutes: 63.2.
 - Without Dennis Schroder: Brandon Miller min -13.9, pts -15.5, reb -3.3, ast +0.2 (n=2 vs 9)
 - Without Dennis Schroder: Hannes Steinbach min +12.3, pts +0.3, reb +4.7, ast +0.2 (n=2 vs 3)
 - Without Dennis Schroder: Christian Anderson min +8.8, pts +7.9, reb +0.3, ast +1.1 (n=4 vs 8)
@@ -180,7 +181,7 @@ Line: LAL -6.5, total 223.5 (DraftKings).
 |---|---|---|---|---|---|---|---|
 | Naz Reid | – | 31 (6.4) → 29.7 (21.2) | 20/17.2 → 16 (8–26) | 8/8.2 → 7 (3–12) | 2.8/2.2 → 2 (0–5) | 2.4/2.4 → 2 (0–5) | 26 (14–40) |
 | Sion James | – | 30.4 (5.6) → 28.4 (20.7) | 7.6/5.8 → 6 (1–12) | 5/3.8 → 4 (2–8) | 3/3 → 3 (1–5) | 1.4/1.2 → 1 (0–3) | 14 (6–23) |
-| Grayson Allen | – | 28.4 (5) → 27.8 (20.1) | 15/14.9 → 15 (7–24) | 3.4/3.1 → 3 (1–6) | 4.6/3.3 → 4 (1–7) | 3.4/3.4 → 3 (1–6) | 22 (11–34) |
+| Grayson Allen | Out | 28.4 (5) | 15/14.9 | 3.4/3.1 | 4.6/3.3 | 3.4/3.4 | – |
 | Dennis Schroder | Out | 28.2 (6.8) | 7.2/10.2 | 3.2/3.6 | 5/4.9 | 0.8/0.8 | – |
 | Moussa Diabate | – | 27.8 (4.8) → 28.4 (20.7) | 8.6/9 → 9 (3–15) | 9.6/9.7 → 9 (5–15) | 2.2/2 → 2 (0–4) | 0/0 → 0 (0–0) | 20 (10–32) |
 | Brandon Miller | – | 25.6 (7.4) → 27.4 (17.9) | 12.8/19.2 → 16 (7–26) | 2.8/4.7 → 4 (1–7) | 3/2.4 → 3 (1–5) | 2/2.5 → 2 (0–5) | 23 (11–36) |
