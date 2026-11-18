@@ -50794,7 +50794,9 @@
    "event_id": "slate",
    "games": 4,
    "home": "*",
-   "issues": [],
+   "issues": [
+    "no games today"
+   ],
    "market": "h2h",
    "players": [],
    "requested_rev": 1,
@@ -62102,7 +62104,9 @@
    "event_id": "slate",
    "games": 4,
    "home": "*",
-   "issues": [],
+   "issues": [
+    "no games today"
+   ],
    "market": "spreads",
    "players": [],
    "requested_rev": 1,
@@ -77213,7 +77217,7 @@
  },
  "issues": [],
  "spent_month": 385,
- "spent_today": 20,
+ "spent_today": 0,
  "stop": null,
- "updated": "2026-11-18T04:43:21Z"
+ "updated": "2026-11-18T12:20:24Z"
 }
