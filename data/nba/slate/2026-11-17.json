@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17",
- "updated_et": "2026-11-17 18:09",
+ "updated_et": "2026-11-17 20:36",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,7 +11,7 @@
    "home": "TOR",
    "away_name": "New York Knicks",
    "home_name": "Toronto Raptors",
-   "state": "pre",
+   "state": "in",
    "spread_text": "NY -2.5",
    "spread": 2.5,
    "total": 215.5,
@@ -25,7 +25,7 @@
    "home": "MIN",
    "away_name": "Portland Trail Blazers",
    "home_name": "Minnesota Timberwolves",
-   "state": "pre",
+   "state": "in",
    "spread_text": "MIN -2.5",
    "spread": -2.5,
    "total": 225.5,
@@ -39,7 +39,7 @@
    "home": "SA",
    "away_name": "Detroit Pistons",
    "home_name": "San Antonio Spurs",
-   "state": "pre",
+   "state": "in",
    "spread_text": "SA -9.5",
    "spread": -9.5,
    "total": 221.5,
@@ -54,9 +54,9 @@
    "away_name": "Utah Jazz",
    "home_name": "LA Clippers",
    "state": "pre",
-   "spread_text": "LAC -6.5",
-   "spread": -6.5,
-   "total": 225.5,
+   "spread_text": "LAC -5.5",
+   "spread": -5.5,
+   "total": 226.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -68,9 +68,9 @@
    "away_name": "Charlotte Hornets",
    "home_name": "Los Angeles Lakers",
    "state": "pre",
-   "spread_text": "LAL -7.5",
-   "spread": -7.5,
-   "total": 222.5,
+   "spread_text": "LAL -6.5",
+   "spread": -6.5,
+   "total": 223.5,
    "odds_source": "DraftKings",
    "season_type": 2
   }
@@ -215,10 +215,10 @@
   "Portland Trail Blazers": [
    {
     "player": "Deni Avdija",
-    "status": "Day-To-Day",
-    "detail": "Avdija (foot) is questionable for Tuesday's game against the Timberwolves.",
-    "type": "day-to-day",
-    "updated": "2026-11-17T19:20Z"
+    "status": "Out",
+    "detail": "Avdija (foot) won't play Tuesday versus Minnesota.",
+    "type": "out",
+    "updated": "2026-11-18T00:28Z"
    },
    {
     "player": "Chris Youngblood",
@@ -354,6 +354,13 @@
    "player": "Scottie Barnes",
    "from": "Day-To-Day",
    "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-17 20:36",
+   "team": "Portland Trail Blazers",
+   "player": "Deni Avdija",
+   "from": "Day-To-Day",
+   "to": "Out"
   }
  ]
 }

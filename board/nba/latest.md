@@ -1,6 +1,6 @@
 # NBA board, 2026-11-17
 
-Slate updated 2026-11-17 18:09 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-17 20:36 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -11,6 +11,7 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 14:11 Minnesota Timberwolves: Jonathan Kuminga Day-To-Day → Out
 - 14:45 Portland Trail Blazers: Deni Avdija not listed → Day-To-Day
 - 18:09 Toronto Raptors: Scottie Barnes Day-To-Day → removed from report
+- 20:36 Portland Trail Blazers: Deni Avdija Day-To-Day → Out
 
 ## NY @ TOR, 19:30 ET
 Line: NY -2.5, total 215.5 (DraftKings).
@@ -51,7 +52,7 @@ Line: NY -2.5, total 215.5 (DraftKings).
 
 ## POR @ MIN, 20:00 ET
 Line: MIN -2.5, total 225.5 (DraftKings).
-**POR** (back-to-back). Out: Ja Morant, Chris Youngblood, Vit Krejci. Freed minutes: 49.8. Out all season so far (already in the lines): Shaedon Sharpe.
+**POR** (back-to-back). Out: Deni Avdija, Ja Morant, Chris Youngblood, Vit Krejci. Freed minutes: 82.3. Out all season so far (already in the lines): Shaedon Sharpe.
 - Without Ja Morant: Toumani Camara min +5.6, pts -4.5, reb +1.9, ast -0.3 (n=9 vs 4)
 - Without Ja Morant: Scoot Henderson min +4.8, pts +1.7, reb -0.5, ast -0.2 (n=9 vs 4)
 - Without Chris Youngblood: Scoot Henderson min -4.7, pts -1.5, reb -0.3, ast -0.2 (n=7 vs 6)
@@ -59,7 +60,7 @@ Line: MIN -2.5, total 225.5 (DraftKings).
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
-| Deni Avdija | Day-To-Day | 31.6 (3.9) → 32.7 (25) | 25.6/24.2 → 25 (14–36) | 5.4/6.2 → 6 (3–10) | 4.6/6.1 → 6 (3–10) | 2.8/2.1 → 2 (0–4) | 37 (22–53) |
+| Deni Avdija | Out | 31.6 (3.9) | 25.6/24.2 | 5.4/6.2 | 4.6/6.1 | 2.8/2.1 | – |
 | Toumani Camara | – | 30.2 (4.7) → 30.5 (22.9) | 9.4/12.4 → 11 (4–19) | 2.8/3.1 → 3 (1–6) | 1.4/1.3 → 1 (0–3) | 1.2/2.6 → 2 (0–4) | 16 (7–26) |
 | Damian Lillard | – | 26.6 (4.9) → 28.5 (20.8) | 18.6/19.7 → 15 (7–24) | 2/3 → 3 (1–7) | 4.6/4.3 → 3 (1–7) | 3.2/3 → 2 (0–5) | 22 (12–35) |
 | Sidy Cissoko | – | 26.4 (5) → 24.8 (17.1) | 9.6/7.6 → 7 (2–13) | 3.2/3.6 → 3 (1–6) | 1.6/2 → 2 (0–4) | 1.8/1.3 → 1 (0–3) | 12 (4–21) |
@@ -130,7 +131,7 @@ Line: SA -9.5, total 221.5 (DraftKings).
 | Tobias Harris | Out | none this season; last season 27.8 min, 13.3 pts | | | | |
 
 ## UTAH @ LAC, 22:30 ET
-Line: LAC -6.5, total 225.5 (DraftKings).
+Line: LAC -5.5, total 226.5 (DraftKings).
 **UTAH** (1 rest day). Out: Lauri Markkanen, Jaren Jackson Jr., Jaxson Hayes. Freed minutes: 80.9. Out all season so far (already in the lines): Jusuf Nurkic.
 - Without Jaxson Hayes: Mo Bamba min +16, pts +13.4, reb +0.2, ast +1.9 (n=2 vs 8)
 - Without Jaren Jackson Jr.: Josh Okogie min +8.3, pts +4.9, reb +2.2, ast +0.4 (n=10 vs 3)
@@ -168,7 +169,7 @@ Line: LAC -6.5, total 225.5 (DraftKings).
 | Yanic Konan Niederhauser | Out | none this season; last season 10.4 min, 4.3 pts | | | | |
 
 ## CHA @ LAL, 23:00 ET
-Line: LAL -7.5, total 222.5 (DraftKings).
+Line: LAL -6.5, total 223.5 (DraftKings).
 **CHA** (1 rest day). Out: Dennis Schroder, Kon Knueppel. Freed minutes: 36.
 - Without Dennis Schroder: Brandon Miller min -13.9, pts -15.5, reb -3.3, ast +0.2 (n=2 vs 9)
 - Without Dennis Schroder: Hannes Steinbach min +12.3, pts +0.3, reb +4.7, ast +0.2 (n=2 vs 3)
