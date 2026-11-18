@@ -7,7 +7,7 @@
    "api_home": "Los Angeles Lakers",
    "away": "Charlotte Hornets",
    "close": false,
-   "commence_time": "2026-11-18T04:10:00Z",
+   "commence_time": "2026-11-18T04:13:00Z",
    "event_id": "bed6147c75f3706f25e25f5bdfeaf1ec",
    "home": "Los Angeles Lakers",
    "issues": [],
@@ -9539,7 +9539,7 @@
    "api_home": "Los Angeles Lakers",
    "away": "Hornets",
    "close": true,
-   "commence_time": "2026-11-18T04:10:00Z",
+   "commence_time": "2026-11-18T04:13:00Z",
    "event_id": "bed6147c75f3706f25e25f5bdfeaf1ec",
    "home": "Lakers",
    "issues": [],
@@ -50790,9 +50790,9 @@
   "basketball_ncaab|slate|h2h": {
    "away": "*",
    "close": false,
-   "commence_time": "2026-11-18T04:00:00Z",
+   "commence_time": "2026-11-18T04:06:05Z",
    "event_id": "slate",
-   "games": 8,
+   "games": 4,
    "home": "*",
    "issues": [],
    "market": "h2h",
@@ -62098,9 +62098,9 @@
   "basketball_ncaab|slate|spreads": {
    "away": "*",
    "close": false,
-   "commence_time": "2026-11-18T04:00:00Z",
+   "commence_time": "2026-11-18T04:06:05Z",
    "event_id": "slate",
-   "games": 8,
+   "games": 4,
    "home": "*",
    "issues": [],
    "market": "spreads",
@@ -77215,5 +77215,5 @@
  "spent_month": 385,
  "spent_today": 20,
  "stop": null,
- "updated": "2026-11-18T03:48:15Z"
+ "updated": "2026-11-18T04:43:21Z"
 }
