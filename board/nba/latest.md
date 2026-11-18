@@ -1,6 +1,6 @@
 # NBA board, 2026-11-17
 
-Slate updated 2026-11-17 21:56 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-17 22:50 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -170,7 +170,7 @@ Line: LAC -5.5, total 227.5 (Draft Kings).
 | Yanic Konan Niederhauser | Out | none this season; last season 10.4 min, 4.3 pts | | | | |
 
 ## CHA @ LAL, 23:00 ET
-Line: LAL -7.5, total 221.5 (Draft Kings).
+Line: LAL -6.5, total 221.5 (DraftKings).
 **CHA** (1 rest day). Out: Grayson Allen, Dennis Schroder, Kon Knueppel. Freed minutes: 63.2.
 - Without Dennis Schroder: Brandon Miller min -13.9, pts -15.5, reb -3.3, ast +0.2 (n=2 vs 9)
 - Without Dennis Schroder: Hannes Steinbach min +12.3, pts +0.3, reb +4.7, ast +0.2 (n=2 vs 3)

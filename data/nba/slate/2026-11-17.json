@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17",
- "updated_et": "2026-11-17 21:56",
+ "updated_et": "2026-11-17 22:50",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,7 +11,7 @@
    "home": "TOR",
    "away_name": "New York Knicks",
    "home_name": "Toronto Raptors",
-   "state": "in",
+   "state": "post",
    "spread_text": "NY -2.5",
    "spread": 2.5,
    "total": 215.5,
@@ -25,7 +25,7 @@
    "home": "MIN",
    "away_name": "Portland Trail Blazers",
    "home_name": "Minnesota Timberwolves",
-   "state": "in",
+   "state": "post",
    "spread_text": "MIN -2.5",
    "spread": -2.5,
    "total": 225.5,
@@ -39,7 +39,7 @@
    "home": "SA",
    "away_name": "Detroit Pistons",
    "home_name": "San Antonio Spurs",
-   "state": "in",
+   "state": "post",
    "spread_text": "SA -9.5",
    "spread": -9.5,
    "total": 221.5,
@@ -53,7 +53,7 @@
    "home": "LAC",
    "away_name": "Utah Jazz",
    "home_name": "LA Clippers",
-   "state": "pre",
+   "state": "in",
    "spread_text": "LAC -5.5",
    "spread": -5.5,
    "total": 227.5,
@@ -68,10 +68,10 @@
    "away_name": "Charlotte Hornets",
    "home_name": "Los Angeles Lakers",
    "state": "pre",
-   "spread_text": "LAL -7.5",
-   "spread": -7.5,
+   "spread_text": "LAL -6.5",
+   "spread": -6.5,
    "total": 221.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
@@ -168,18 +168,18 @@
   ],
   "Los Angeles Lakers": [
    {
+    "player": "Walker Kessler",
+    "status": "Out",
+    "detail": "Head coach JJ Redick said he expects Walker (leg) to be available for Wednesday's game against the Jazz, Thuc Nhi Nguyen of the Los Angeles Times reports.",
+    "type": "out",
+    "updated": "2026-11-18T02:57Z"
+   },
+   {
     "player": "Austin Reaves",
     "status": "Out",
     "detail": "Reaves (heel) is out for Tuesday's game against the Hornets, Dave McMenamin of ESPN.com reports.",
     "type": "out",
     "updated": "2026-11-17T01:11Z"
-   },
-   {
-    "player": "Walker Kessler",
-    "status": "Out",
-    "detail": "Walker (leg) has been ruled out for Tuesday's game against the Hornets.",
-    "type": "out",
-    "updated": "2026-11-17T01:10Z"
    }
   ],
   "Minnesota Timberwolves": [
