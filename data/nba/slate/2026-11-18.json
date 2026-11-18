@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "updated_et": "2026-11-18 13:51",
+ "updated_et": "2026-11-18 14:05",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -28,7 +28,7 @@
    "state": "pre",
    "spread_text": "HOU -7.5",
    "spread": 7.5,
-   "total": 225.5,
+   "total": 224.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -340,16 +340,16 @@
   ],
   "Detroit Pistons": [
    {
+    "player": "Ronald Holland II",
+    "status": "Out",
+    "detail": "Holland is out for Tuesday's game against San Antonio due to a left knee contusion.",
+    "type": "out",
+    "updated": "2026-11-18T19:02Z"
+   },
+   {
     "player": "Taurean Prince",
     "status": "Day-To-Day",
     "detail": "Prince (knee) has been ruled out for Tuesday's game against the Spurs.",
-    "type": "day-to-day",
-    "updated": "2026-11-18T15:05Z"
-   },
-   {
-    "player": "Ronald Holland II",
-    "status": "Day-To-Day",
-    "detail": "Holland is out for Tuesday's game against San Antonio due to a left knee contusion.",
     "type": "day-to-day",
     "updated": "2026-11-18T15:05Z"
    },
@@ -940,6 +940,13 @@
    "player": "Jaxson Hayes",
    "from": "Out",
    "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-18 14:05",
+   "team": "Detroit Pistons",
+   "player": "Ronald Holland II",
+   "from": "Day-To-Day",
+   "to": "Out"
   }
  ]
 }

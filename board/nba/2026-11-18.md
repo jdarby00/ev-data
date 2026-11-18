@@ -1,6 +1,6 @@
 # NBA board, 2026-11-18
 
-Slate updated 2026-11-18 13:51 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-18 14:05 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -20,6 +20,7 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 13:51 Toronto Raptors: RJ Barrett not listed → Day-To-Day
 - 13:51 Toronto Raptors: Scottie Barnes not listed → Out
 - 13:51 Utah Jazz: Jaxson Hayes Out → Day-To-Day
+- 14:05 Detroit Pistons: Ronald Holland II Day-To-Day → Out
 
 ## MEM @ CLE, 19:00 ET
 Line: CLE -4.5, total 237.5 (DraftKings).
@@ -64,7 +65,7 @@ Line: CLE -4.5, total 237.5 (DraftKings).
 | Craig Porter Jr. | – | 16.6 (6.9) → 14.9 (5.9) | 4/2.1 → 3 (0–8) | 3/2.2 → 2 (0–6) | 3.2/1.9 → 2 (0–6) | 0/0.1 → 0 (0–1) | 8 (1–18) |
 
 ## HOU @ IND, 19:00 ET
-Line: HOU -7.5, total 225.5 (DraftKings).
+Line: HOU -7.5, total 224.5 (DraftKings).
 **HOU** (1 rest day). Out: Clint Capela. Freed minutes: 14.2.
 - Without Clint Capela: Marcus Smart min -7.5, pts -8.5, reb -0.7, ast -1.5 (n=6 vs 3)
 - Without Clint Capela: Oscar Tshiebwe min -4.4, pts -0.4, reb -0.7, ast -0.6 (n=7 vs 3)
@@ -310,7 +311,7 @@ Line: DAL -4.5, total 225.5 (DraftKings).
 
 ## DET @ NO, 20:00 ET
 Line: DET -6.5, total 228.5 (DraftKings).
-**DET** (back-to-back). Out: Duncan Robinson, Jalen Duren, Isaiah Joe. Freed minutes: 63.3.
+**DET** (back-to-back). Out: Duncan Robinson, Jalen Duren, Ronald Holland II, Isaiah Joe. Freed minutes: 79.2.
 - Without Jalen Duren: Daniss Jenkins min +12.1, pts +6, reb +0.2, ast +0.5 (n=11 vs 2)
 - Without Jalen Duren: Kevin Huerter min +7.5, pts +6.9, reb -1.9, ast +0.5 (n=11 vs 2)
 - Without Jalen Duren: Paul Reed min +6, pts -1.5, reb -1, ast -0.2 (n=11 vs 2)
@@ -327,7 +328,7 @@ Line: DET -6.5, total 228.5 (DraftKings).
 | Paul Reed | – | 25.4 (6) → 25.5 (17.4) | 8.8/11.2 → 11 (4–19) | 9.2/7.7 → 8 (4–13) | 2.2/2.3 → 2 (0–5) | 0/0.4 → 0 (0–1) | 22 (11–34) |
 | Jalen Duren | Out | 19 (9) | 13/13 | 7.5/7.5 | 2/2 | 0/0 | – |
 | Javonte Green | – | 15.6 (3.9) → 17 (9.3) | 6/6 → 6 (1–12) | 2.2/2.5 → 2 (0–5) | 0.4/0.5 → 0 (0–2) | 0.4/0.9 → 1 (0–2) | 9 (2–17) |
-| Ronald Holland II | Day-To-Day | 15.4 (4.4) → 16.9 (9.2) | 3.2/4.9 → 6 (1–12) | 4.2/3.8 → 4 (1–7) | 1.6/1.8 → 1 (0–3) | 0.6/0.7 → 0 (0–2) | 11 (3–20) |
+| Ronald Holland II | Out | 15.4 (4.4) | 3.2/4.9 | 4.2/3.8 | 1.6/1.8 | 0.6/0.7 | – |
 | Isaiah Joe | Out | 13.7 (6.8) | 7.3/7.3 | 1.7/1.7 | 1/1 | 1/1 | – |
 
 **NO** (1 rest day). Out: Trey Murphy III, Dejounte Murray, Trendon Watford, Bennedict Mathurin, Bryce McGowens. Freed minutes: 107.8.
