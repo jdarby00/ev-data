@@ -1,5 +1,5 @@
 {
- "credits_remaining": 116,
+ "credits_remaining": 115,
  "date": "2026-11-17",
  "groups": {
   "basketball_nba|charlotte hornets@los angeles lakers|player_points_alternate": {
@@ -11981,6 +11981,2257 @@
      "kind": "lock",
      "minutes_to_tip": 524.4,
      "raw": "raw/2026-11-17/bed6147c75f3706f25e25f5bdfeaf1ec-player_rebounds-lock-20261117T192538754160Z.json",
+     "rev": 1
+    },
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1028754033",
+       "event_sid": "1028754033",
+       "last_update": "2026-11-18T03:47:15Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Ziaire Williams",
+         "price": -104,
+         "sid": "4421026833",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Ryan Kalkbrenner",
+         "price": -121,
+         "sid": "4421026837",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Moussa Diabate",
+         "price": 100,
+         "sid": "4421026847",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Coby White",
+         "price": 100,
+         "sid": "4420975105",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Matisse Thybulle",
+         "price": -112,
+         "sid": "4420975107",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Naz Reid",
+         "price": 100,
+         "sid": "4420975109",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Brandon Miller",
+         "price": 128,
+         "sid": "4420975115",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Quentin Grimes",
+         "price": -114,
+         "sid": "4420981077",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Jake LaRavia",
+         "price": 114,
+         "sid": "4420981087",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Collin Sexton",
+         "price": -180,
+         "sid": "4420981091",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Sion James",
+         "price": -120,
+         "sid": "4420981105",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Sandro Mamukelashvili",
+         "price": -121,
+         "sid": "4421975869",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Luka Doncic",
+         "price": 110,
+         "sid": "4421976079",
+         "side": "Over"
+        }
+       ]
+      },
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/charlotte-hornets-at-los-angeles-lakers-20050501",
+       "event_sid": "20050501",
+       "last_update": "2026-11-18T03:34:44Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4606142-7597770&type=Single",
+         "player": "Matisse Thybulle",
+         "price": -105,
+         "sid": "7597770",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4606142-7597771&type=Single",
+         "player": "Matisse Thybulle",
+         "price": -125,
+         "sid": "7597771",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4606207-7597898&type=Single",
+         "player": "Sandro Mamukelashvili",
+         "price": 115,
+         "sid": "7597898",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4606207-7597899&type=Single",
+         "player": "Sandro Mamukelashvili",
+         "price": -155,
+         "sid": "7597899",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4606223-7597928&type=Single",
+         "player": "Luka Doncic",
+         "price": -115,
+         "sid": "7597928",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4606223-7597929&type=Single",
+         "player": "Luka Doncic",
+         "price": -115,
+         "sid": "7597929",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4606262-7598012&type=Single",
+         "player": "Sion James",
+         "price": -150,
+         "sid": "7598012",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4606262-7598013&type=Single",
+         "player": "Sion James",
+         "price": 110,
+         "sid": "7598013",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4606263-7598010&type=Single",
+         "player": "Quentin Grimes",
+         "price": -120,
+         "sid": "7598010",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4606263-7598011&type=Single",
+         "player": "Quentin Grimes",
+         "price": -110,
+         "sid": "7598011",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4606260-7598006&type=Single",
+         "player": "Coby White",
+         "price": 100,
+         "sid": "7598006",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4606260-7598007&type=Single",
+         "player": "Coby White",
+         "price": -135,
+         "sid": "7598007",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4606339-7598164&type=Single",
+         "player": "Jake LaRavia",
+         "price": 110,
+         "sid": "7598164",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4606339-7598165&type=Single",
+         "player": "Jake LaRavia",
+         "price": -150,
+         "sid": "7598165",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4606313-7598110&type=Single",
+         "player": "Moussa Diabate",
+         "price": -115,
+         "sid": "7598110",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4606313-7598111&type=Single",
+         "player": "Moussa Diabate",
+         "price": -115,
+         "sid": "7598111",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4606342-7598170&type=Single",
+         "player": "Naz Reid",
+         "price": -105,
+         "sid": "7598170",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4606342-7598171&type=Single",
+         "player": "Naz Reid",
+         "price": -125,
+         "sid": "7598171",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4610506-7606465&type=Single",
+         "player": "Brandon Miller",
+         "price": -155,
+         "sid": "7606465",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4610506-7606466&type=Single",
+         "player": "Brandon Miller",
+         "price": 115,
+         "sid": "7606466",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4610563-7606567&type=Single",
+         "player": "Ryan Kalkbrenner",
+         "price": -115,
+         "sid": "7606567",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4610563-7606568&type=Single",
+         "player": "Ryan Kalkbrenner",
+         "price": -115,
+         "sid": "7606568",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4610685-7606777&type=Single",
+         "player": "Ziaire Williams",
+         "price": -105,
+         "sid": "7606777",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=6:50286-4610685-7606778&type=Single",
+         "player": "Ziaire Williams",
+         "price": -125,
+         "sid": "7606778",
+         "side": "Under"
+        }
+       ]
+      },
+      "betonlineag": {
+       "event_link": "https://sports.betonline.ag/sportsbook/basketball/nba/game/491184001",
+       "event_sid": "491184001",
+       "last_update": "2026-11-18T03:47:08Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Brandon Miller",
+         "price": -159,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Brandon Miller",
+         "price": 122,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Moussa Diabate",
+         "price": -111,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Moussa Diabate",
+         "price": -116,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Sion James",
+         "price": -132,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Sion James",
+         "price": 102,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Ryan Kalkbrenner",
+         "price": 105,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Ryan Kalkbrenner",
+         "price": -135,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Luka Doncic",
+         "price": -114,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Luka Doncic",
+         "price": -114,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Jake LaRavia",
+         "price": 110,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Jake LaRavia",
+         "price": -143,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Naz Reid",
+         "price": -102,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Naz Reid",
+         "price": -127,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Coby White",
+         "price": 110,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Coby White",
+         "price": -143,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Matisse Thybulle",
+         "price": -115,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Matisse Thybulle",
+         "price": -112,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Collin Sexton",
+         "price": 130,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Collin Sexton",
+         "price": -169,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Quentin Grimes",
+         "price": -114,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Quentin Grimes",
+         "price": -114,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Ziaire Williams",
+         "price": -115,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Ziaire Williams",
+         "price": -112,
+         "sid": null,
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Sandro Mamukelashvili",
+         "price": 100,
+         "sid": null,
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Sandro Mamukelashvili",
+         "price": -130,
+         "sid": null,
+         "side": "Under"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1028754033",
+       "event_sid": "1028754033",
+       "last_update": "2026-11-18T03:48:05Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Ziaire Williams",
+         "price": -104,
+         "sid": "4421026833",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Ziaire Williams",
+         "price": -130,
+         "sid": "4421026834",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Ryan Kalkbrenner",
+         "price": -121,
+         "sid": "4421026837",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Ryan Kalkbrenner",
+         "price": -112,
+         "sid": "4421026838",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Moussa Diabate",
+         "price": 100,
+         "sid": "4421026847",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Moussa Diabate",
+         "price": -137,
+         "sid": "4421026848",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Coby White",
+         "price": 100,
+         "sid": "4420975105",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Coby White",
+         "price": -134,
+         "sid": "4420975106",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Matisse Thybulle",
+         "price": -112,
+         "sid": "4420975107",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Matisse Thybulle",
+         "price": -121,
+         "sid": "4420975108",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Naz Reid",
+         "price": 100,
+         "sid": "4420975109",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Naz Reid",
+         "price": -136,
+         "sid": "4420975110",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Brandon Miller",
+         "price": 128,
+         "sid": "4420975115",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Brandon Miller",
+         "price": -175,
+         "sid": "4420975116",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Quentin Grimes",
+         "price": -114,
+         "sid": "4420981077",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Quentin Grimes",
+         "price": -118,
+         "sid": "4420981078",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Jake LaRavia",
+         "price": 114,
+         "sid": "4420981087",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Jake LaRavia",
+         "price": -155,
+         "sid": "4420981088",
+         "side": "Under"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Collin Sexton",
+         "price": -180,
+         "sid": "4420981091",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Collin Sexton",
+         "price": 130,
+         "sid": "4420981092",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Sion James",
+         "price": -120,
+         "sid": "4420981105",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Sion James",
+         "price": -113,
+         "sid": "4420981106",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Sandro Mamukelashvili",
+         "price": -121,
+         "sid": "4421975869",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Sandro Mamukelashvili",
+         "price": -112,
+         "sid": "4421975870",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Luka Doncic",
+         "price": 110,
+         "sid": "4421976079",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Luka Doncic",
+         "price": -150,
+         "sid": "4421976080",
+         "side": "Under"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033",
+       "event_sid": "1028754033",
+       "last_update": "2026-11-18T03:47:01Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4420981087|{wagerAmount}",
+         "player": "Jake LaRavia",
+         "price": 114,
+         "sid": "4420981087",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4420981088|{wagerAmount}",
+         "player": "Jake LaRavia",
+         "price": -155,
+         "sid": "4420981088",
+         "side": "Under"
+        },
+        {
+         "line": 1.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4420981091|{wagerAmount}",
+         "player": "Collin Sexton",
+         "price": -180,
+         "sid": "4420981091",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4420981092|{wagerAmount}",
+         "player": "Collin Sexton",
+         "price": 130,
+         "sid": "4420981092",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4420981077|{wagerAmount}",
+         "player": "Quentin Grimes",
+         "price": -114,
+         "sid": "4420981077",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4420981078|{wagerAmount}",
+         "player": "Quentin Grimes",
+         "price": -118,
+         "sid": "4420981078",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4420981105|{wagerAmount}",
+         "player": "Sion James",
+         "price": -120,
+         "sid": "4420981105",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4420981106|{wagerAmount}",
+         "player": "Sion James",
+         "price": -113,
+         "sid": "4420981106",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4421975869|{wagerAmount}",
+         "player": "Sandro Mamukelashvili",
+         "price": -121,
+         "sid": "4421975869",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4421975870|{wagerAmount}",
+         "player": "Sandro Mamukelashvili",
+         "price": -112,
+         "sid": "4421975870",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4421976079|{wagerAmount}",
+         "player": "Luka Doncic",
+         "price": 110,
+         "sid": "4421976079",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4421976080|{wagerAmount}",
+         "player": "Luka Doncic",
+         "price": -150,
+         "sid": "4421976080",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4421026847|{wagerAmount}",
+         "player": "Moussa Diabate",
+         "price": 100,
+         "sid": "4421026847",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4421026848|{wagerAmount}",
+         "player": "Moussa Diabate",
+         "price": -137,
+         "sid": "4421026848",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4421026833|{wagerAmount}",
+         "player": "Ziaire Williams",
+         "price": -104,
+         "sid": "4421026833",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4421026834|{wagerAmount}",
+         "player": "Ziaire Williams",
+         "price": -130,
+         "sid": "4421026834",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4421026837|{wagerAmount}",
+         "player": "Ryan Kalkbrenner",
+         "price": -121,
+         "sid": "4421026837",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4421026838|{wagerAmount}",
+         "player": "Ryan Kalkbrenner",
+         "price": -112,
+         "sid": "4421026838",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4420975105|{wagerAmount}",
+         "player": "Coby White",
+         "price": 100,
+         "sid": "4420975105",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4420975106|{wagerAmount}",
+         "player": "Coby White",
+         "price": -136,
+         "sid": "4420975106",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4420975109|{wagerAmount}",
+         "player": "Naz Reid",
+         "price": 100,
+         "sid": "4420975109",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4420975110|{wagerAmount}",
+         "player": "Naz Reid",
+         "price": -136,
+         "sid": "4420975110",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4420975107|{wagerAmount}",
+         "player": "Matisse Thybulle",
+         "price": -112,
+         "sid": "4420975107",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4420975108|{wagerAmount}",
+         "player": "Matisse Thybulle",
+         "price": -121,
+         "sid": "4420975108",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4420975115|{wagerAmount}",
+         "player": "Brandon Miller",
+         "price": 128,
+         "sid": "4420975115",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754033?coupon={pickType}|4420975116|{wagerAmount}",
+         "player": "Brandon Miller",
+         "price": -177,
+         "sid": "4420975116",
+         "side": "Under"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/basketball/nba/charlotte-hornets-los-angeles-lakers-202611172300",
+       "event_sid": "33510011",
+       "last_update": "2026-11-18T03:47:50Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Brandon Miller",
+         "price": -150,
+         "sid": "2480801173",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Brandon Miller",
+         "price": 115,
+         "sid": "2480801174",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Brandon Miller",
+         "price": 135,
+         "sid": "2480801493",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Brandon Miller",
+         "price": -180,
+         "sid": "2480801494",
+         "side": "Under"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Coby White",
+         "price": -250,
+         "sid": "2481108351",
+         "side": "Over"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "Coby White",
+         "price": 185,
+         "sid": "2481108352",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Coby White",
+         "price": 110,
+         "sid": "2481107970",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Coby White",
+         "price": -145,
+         "sid": "2481107971",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Jake LaRavia",
+         "price": -170,
+         "sid": "2480800728",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Jake LaRavia",
+         "price": 130,
+         "sid": "2480800729",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Jake LaRavia",
+         "price": 120,
+         "sid": "2480799966",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Jake LaRavia",
+         "price": -160,
+         "sid": "2480799967",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Luka Doncic",
+         "price": -190,
+         "sid": "2480800701",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Luka Doncic",
+         "price": 145,
+         "sid": "2480800702",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Luka Doncic",
+         "price": -110,
+         "sid": "2480799972",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Luka Doncic",
+         "price": -120,
+         "sid": "2480799973",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Luka Doncic",
+         "price": 150,
+         "sid": "2480800703",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Luka Doncic",
+         "price": -200,
+         "sid": "2480800704",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Matisse Thybulle",
+         "price": -105,
+         "sid": "2480799970",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Matisse Thybulle",
+         "price": -125,
+         "sid": "2480799971",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Moussa Diabate",
+         "price": -275,
+         "sid": "2480801461",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Moussa Diabate",
+         "price": 200,
+         "sid": "2480801462",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Moussa Diabate",
+         "price": -160,
+         "sid": "2480801463",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Moussa Diabate",
+         "price": 120,
+         "sid": "2480801464",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Moussa Diabate",
+         "price": 105,
+         "sid": "2480801169",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": null,
+         "player": "Moussa Diabate",
+         "price": -135,
+         "sid": "2480801170",
+         "side": "Under"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Moussa Diabate",
+         "price": 165,
+         "sid": "2480809249",
+         "side": "Over"
+        },
+        {
+         "line": 10.5,
+         "link": null,
+         "player": "Moussa Diabate",
+         "price": -220,
+         "sid": "2480809250",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Naz Reid",
+         "price": -165,
+         "sid": "2480801472",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Naz Reid",
+         "price": 125,
+         "sid": "2480801473",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Naz Reid",
+         "price": 105,
+         "sid": "2480801171",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": null,
+         "player": "Naz Reid",
+         "price": -135,
+         "sid": "2480801172",
+         "side": "Under"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Naz Reid",
+         "price": 175,
+         "sid": "2480801474",
+         "side": "Over"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "Naz Reid",
+         "price": -240,
+         "sid": "2480801475",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Quentin Grimes",
+         "price": -280,
+         "sid": "2480803398",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Quentin Grimes",
+         "price": 205,
+         "sid": "2480803399",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Quentin Grimes",
+         "price": -120,
+         "sid": "2480799976",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Quentin Grimes",
+         "price": -110,
+         "sid": "2480799977",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Quentin Grimes",
+         "price": 170,
+         "sid": "2480800717",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Quentin Grimes",
+         "price": -230,
+         "sid": "2480800718",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Ryan Kalkbrenner",
+         "price": -210,
+         "sid": "2481108796",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Ryan Kalkbrenner",
+         "price": 155,
+         "sid": "2481108797",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Ryan Kalkbrenner",
+         "price": 100,
+         "sid": "2481105255",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Ryan Kalkbrenner",
+         "price": -130,
+         "sid": "2481105256",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Ryan Kalkbrenner",
+         "price": 190,
+         "sid": "2481105265",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Ryan Kalkbrenner",
+         "price": -260,
+         "sid": "2481105266",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Sandro Mamukelashvili",
+         "price": -200,
+         "sid": "2480800739",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Sandro Mamukelashvili",
+         "price": 150,
+         "sid": "2480800740",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Sandro Mamukelashvili",
+         "price": -105,
+         "sid": "2480799968",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": null,
+         "player": "Sandro Mamukelashvili",
+         "price": -125,
+         "sid": "2480799969",
+         "side": "Under"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Sandro Mamukelashvili",
+         "price": 170,
+         "sid": "2480800741",
+         "side": "Over"
+        },
+        {
+         "line": 6.5,
+         "link": null,
+         "player": "Sandro Mamukelashvili",
+         "price": -230,
+         "sid": "2480800742",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Sion James",
+         "price": -280,
+         "sid": "2481111744",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Sion James",
+         "price": 205,
+         "sid": "2481111745",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Sion James",
+         "price": -120,
+         "sid": "2481111295",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Sion James",
+         "price": -110,
+         "sid": "2481111296",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Sion James",
+         "price": 170,
+         "sid": "2481110837",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": null,
+         "player": "Sion James",
+         "price": -230,
+         "sid": "2481110838",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Ziaire Williams",
+         "price": -125,
+         "sid": "2480799974",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": null,
+         "player": "Ziaire Williams",
+         "price": -105,
+         "sid": "2480799975",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Ziaire Williams",
+         "price": 185,
+         "sid": "2480800710",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": null,
+         "player": "Ziaire Williams",
+         "price": -250,
+         "sid": "2480800711",
+         "side": "Under"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/35028658",
+       "event_sid": "35028658",
+       "last_update": "2026-11-18T03:47:37Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948381%232369049093_13L42648Q11143046798Q20",
+         "player": "Moussa Diabate",
+         "price": 105,
+         "sid": "0QA389948381#2369049093_13L42648Q11143046798Q20",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948381%232369049094_13L42648Q1-1408532810Q20",
+         "player": "Moussa Diabate",
+         "price": -138,
+         "sid": "0QA389948381#2369049094_13L42648Q1-1408532810Q20",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948267%232368750439_13L42648Q1-25326551Q20",
+         "player": "Luka Doncic",
+         "price": -112,
+         "sid": "0QA389948267#2368750439_13L42648Q1-25326551Q20",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948267%232368750485_13L42648Q1-877137389Q20",
+         "player": "Luka Doncic",
+         "price": -117,
+         "sid": "0QA389948267#2368750485_13L42648Q1-877137389Q20",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948413%232368962169_13L42648Q1-25326551Q20",
+         "player": "Naz Reid",
+         "price": 106,
+         "sid": "0QA389948413#2368962169_13L42648Q1-25326551Q20",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948413%232368962170_13L42648Q1-877137389Q20",
+         "player": "Naz Reid",
+         "price": -139,
+         "sid": "0QA389948413#2368962170_13L42648Q1-877137389Q20",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948429%232368765020_13L42648Q1210220610Q20",
+         "player": "Sandro Mamukelashvili",
+         "price": -103,
+         "sid": "0QA389948429#2368765020_13L42648Q1210220610Q20",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948429%232368765021_13L42648Q1-459759634Q20",
+         "player": "Sandro Mamukelashvili",
+         "price": -128,
+         "sid": "0QA389948429#2368765021_13L42648Q1-459759634Q20",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948156%232368744190_13L42648Q1-150170292Q20",
+         "player": "Ryan Kalkbrenner",
+         "price": 100,
+         "sid": "0QA389948156#2368744190_13L42648Q1-150170292Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948156%232368744228_13L42648Q1-1659398539Q20",
+         "player": "Ryan Kalkbrenner",
+         "price": -131,
+         "sid": "0QA389948156#2368744228_13L42648Q1-1659398539Q20",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948705%232368750631_13L42648Q1-150170292Q20",
+         "player": "Jake LaRavia",
+         "price": 117,
+         "sid": "0QA389948705#2368750631_13L42648Q1-150170292Q20",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948705%232368750646_13L42648Q1-1659398539Q20",
+         "player": "Jake LaRavia",
+         "price": -154,
+         "sid": "0QA389948705#2368750646_13L42648Q1-1659398539Q20",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948485%232368984704_13L42648Q11299195355Q20",
+         "player": "Brandon Miller",
+         "price": -150,
+         "sid": "0QA389948485#2368984704_13L42648Q11299195355Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948485%232368984705_13L42648Q1647990913Q20",
+         "player": "Brandon Miller",
+         "price": 114,
+         "sid": "0QA389948485#2368984705_13L42648Q1647990913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948754%232368976498_13L42648Q11299195355Q20",
+         "player": "Sion James",
+         "price": -122,
+         "sid": "0QA389948754#2368976498_13L42648Q11299195355Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948754%232368976499_13L42648Q1647990913Q20",
+         "player": "Sion James",
+         "price": -108,
+         "sid": "0QA389948754#2368976499_13L42648Q1647990913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948596%232368750235_13L42648Q11299195355Q20",
+         "player": "Quentin Grimes",
+         "price": -117,
+         "sid": "0QA389948596#2368750235_13L42648Q11299195355Q20",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948596%232368750237_13L42648Q1647990913Q20",
+         "player": "Quentin Grimes",
+         "price": -112,
+         "sid": "0QA389948596#2368750237_13L42648Q1647990913Q20",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948083%232368769462_13L42648Q12005697320Q20",
+         "player": "Ziaire Williams",
+         "price": -125,
+         "sid": "0QA389948083#2368769462_13L42648Q12005697320Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948083%232368769463_13L42648Q1-9439206Q20",
+         "player": "Ziaire Williams",
+         "price": -105,
+         "sid": "0QA389948083#2368769463_13L42648Q1-9439206Q20",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948084%232368750374_13L42648Q12005697320Q20",
+         "player": "Matisse Thybulle",
+         "price": -106,
+         "sid": "0QA389948084#2368750374_13L42648Q12005697320Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948084%232368750401_13L42648Q1-9439206Q20",
+         "player": "Matisse Thybulle",
+         "price": -124,
+         "sid": "0QA389948084#2368750401_13L42648Q1-9439206Q20",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948594%232368744856_13L42648Q12005697320Q20",
+         "player": "Coby White",
+         "price": 105,
+         "sid": "0QA389948594#2368744856_13L42648Q12005697320Q20",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0QA389948594%232368744919_13L42648Q1-9439206Q20",
+         "player": "Coby White",
+         "price": -138,
+         "sid": "0QA389948594#2368744919_13L42648Q1-9439206Q20",
+         "side": "Under"
+        }
+       ]
+      },
+      "espnbet": {
+       "event_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/nba/event/194f8bc9-3070-4e05-a696-6c5023e0d644",
+       "event_sid": "194f8bc9-3070-4e05-a696-6c5023e0d644",
+       "last_update": "2026-11-18T03:48:02Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=f1b48acc-5eab-4fad-a0c7-090149269bc3&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Luka Doncic",
+         "price": -115,
+         "sid": "f1b48acc-5eab-4fad-a0c7-090149269bc3",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=77555c5f-0972-4fc8-9cb1-aa77afc4d183&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Luka Doncic",
+         "price": -115,
+         "sid": "77555c5f-0972-4fc8-9cb1-aa77afc4d183",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=0f502a72-a3fc-42d1-8930-665eebc39bbf&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Sandro Mamukelashvili",
+         "price": -105,
+         "sid": "0f502a72-a3fc-42d1-8930-665eebc39bbf",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=2fbabf5d-9bf3-4e94-ab59-9e6cc100939e&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Sandro Mamukelashvili",
+         "price": -125,
+         "sid": "2fbabf5d-9bf3-4e94-ab59-9e6cc100939e",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=e3fb57a5-7217-4620-acde-d164fa24b724&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Naz Reid",
+         "price": -105,
+         "sid": "e3fb57a5-7217-4620-acde-d164fa24b724",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=d46b5507-18d8-4dfc-853a-573dd795b42d&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Naz Reid",
+         "price": -125,
+         "sid": "d46b5507-18d8-4dfc-853a-573dd795b42d",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=64642f0c-b034-4a58-8ab6-ea678e14a7bc&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Moussa Diabate",
+         "price": -110,
+         "sid": "64642f0c-b034-4a58-8ab6-ea678e14a7bc",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=84dd6449-6329-494f-b5f4-5f1e4aa67c67&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Moussa Diabate",
+         "price": -120,
+         "sid": "84dd6449-6329-494f-b5f4-5f1e4aa67c67",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=d66d07ca-29dd-48a2-80fb-a3d8f9b3cfbb&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Jake LaRavia",
+         "price": 115,
+         "sid": "d66d07ca-29dd-48a2-80fb-a3d8f9b3cfbb",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=9fb22700-48f5-4ad1-95cf-91455c45e382&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Jake LaRavia",
+         "price": -150,
+         "sid": "9fb22700-48f5-4ad1-95cf-91455c45e382",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=6f9680a8-834f-48d4-a784-9c1c9f0a9c62&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Ryan Kalkbrenner",
+         "price": -105,
+         "sid": "6f9680a8-834f-48d4-a784-9c1c9f0a9c62",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=c3d24e27-1a57-4ce8-90d5-6653cc520114&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Ryan Kalkbrenner",
+         "price": -125,
+         "sid": "c3d24e27-1a57-4ce8-90d5-6653cc520114",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=05323e92-93ea-497f-8202-d21f610bf8cc&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Brandon Miller",
+         "price": 125,
+         "sid": "05323e92-93ea-497f-8202-d21f610bf8cc",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=54cd45cd-a7b2-4e61-92c6-65481dc3163f&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Brandon Miller",
+         "price": -165,
+         "sid": "54cd45cd-a7b2-4e61-92c6-65481dc3163f",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=a0c63282-a024-4abe-96f1-3a21c6e905c8&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Quentin Grimes",
+         "price": -120,
+         "sid": "a0c63282-a024-4abe-96f1-3a21c6e905c8",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=3584598d-1a76-431e-8947-b181ee41f8de&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Quentin Grimes",
+         "price": -110,
+         "sid": "3584598d-1a76-431e-8947-b181ee41f8de",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=8b89ccb3-8d23-454d-9ff1-d6e8d40edc29&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Ziaire Williams",
+         "price": -115,
+         "sid": "8b89ccb3-8d23-454d-9ff1-d6e8d40edc29",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=1fe96e2b-555d-4993-9092-6972b239404d&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Ziaire Williams",
+         "price": -115,
+         "sid": "1fe96e2b-555d-4993-9092-6972b239404d",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=7eeb4e3b-aff7-42b3-a7a4-600b1d369f1c&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Matisse Thybulle",
+         "price": -115,
+         "sid": "7eeb4e3b-aff7-42b3-a7a4-600b1d369f1c",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=9847d0f0-dd21-44cf-9e54-101f1a1a802a&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Matisse Thybulle",
+         "price": -115,
+         "sid": "9847d0f0-dd21-44cf-9e54-101f1a1a802a",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=b8073a1b-da60-430f-bf93-1d1dd6cc70d8&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Sion James",
+         "price": -125,
+         "sid": "b8073a1b-da60-430f-bf93-1d1dd6cc70d8",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=ef65e028-6e64-45f4-9176-d4fade77504b&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Sion James",
+         "price": -105,
+         "sid": "ef65e028-6e64-45f4-9176-d4fade77504b",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=7e0017b3-1f17-445f-a6ef-0f21097961f6&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Collin Sexton",
+         "price": 130,
+         "sid": "7e0017b3-1f17-445f-a6ef-0f21097961f6",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=30965178-fc2b-440f-b90f-be8cd4942f82&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Collin Sexton",
+         "price": -170,
+         "sid": "30965178-fc2b-440f-b90f-be8cd4942f82",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=259ce236-ca04-450c-84ec-405fddbaa748&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Coby White",
+         "price": 105,
+         "sid": "259ce236-ca04-450c-84ec-405fddbaa748",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=2f7faa0a-3573-464c-a8b0-de4c05479ec7&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "Coby White",
+         "price": -140,
+         "sid": "2f7faa0a-3573-464c-a8b0-de4c05479ec7",
+         "side": "Under"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/nba/charlotte-hornets-%40-los-angeles-lakers-36323393",
+       "event_sid": "36323393",
+       "last_update": "2026-11-18T03:47:13Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.626163079&selectionId=26636212",
+         "player": "Coby White",
+         "price": 108,
+         "sid": "26636212",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.626163079&selectionId=26636213",
+         "player": "Coby White",
+         "price": -138,
+         "sid": "26636213",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.626162264&selectionId=12463224",
+         "player": "Luka Doncic",
+         "price": -113,
+         "sid": "12463224",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.626162264&selectionId=12463223",
+         "player": "Luka Doncic",
+         "price": -113,
+         "sid": "12463223",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.626163367&selectionId=42119780",
+         "player": "Sandro Mamukelashvili",
+         "price": 102,
+         "sid": "42119780",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.626163367&selectionId=42119779",
+         "player": "Sandro Mamukelashvili",
+         "price": -130,
+         "sid": "42119779",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.626163979&selectionId=27661447",
+         "player": "Matisse Thybulle",
+         "price": -128,
+         "sid": "27661447",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.626163979&selectionId=27661448",
+         "player": "Matisse Thybulle",
+         "price": 100,
+         "sid": "27661448",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.626163709&selectionId=90251254",
+         "player": "Jake LaRavia",
+         "price": 104,
+         "sid": "90251254",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.626163709&selectionId=90251266",
+         "player": "Jake LaRavia",
+         "price": -132,
+         "sid": "90251266",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.626163501&selectionId=90209944",
+         "player": "Moussa Diabate",
+         "price": -111,
+         "sid": "90209944",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.626163501&selectionId=90209942",
+         "player": "Moussa Diabate",
+         "price": -115,
+         "sid": "90209942",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.626162529&selectionId=50113302",
+         "player": "Brandon Miller",
+         "price": -156,
+         "sid": "50113302",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.626162529&selectionId=50113301",
+         "player": "Brandon Miller",
+         "price": 122,
+         "sid": "50113301",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.626162617&selectionId=27986553",
+         "player": "Naz Reid",
+         "price": 100,
+         "sid": "27986553",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.626162617&selectionId=27986554",
+         "player": "Naz Reid",
+         "price": -128,
+         "sid": "27986554",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.626163009&selectionId=42067800",
+         "player": "Quentin Grimes",
+         "price": -122,
+         "sid": "42067800",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.626163009&selectionId=42067801",
+         "player": "Quentin Grimes",
+         "price": -104,
+         "sid": "42067801",
+         "side": "Under"
+        }
+       ]
+      },
+      "hardrockbet": {
+       "event_link": "https://app.hardrock.bet/home/competition/nba/2621178920745173387",
+       "event_sid": "2621178920745173387",
+       "last_update": "2026-11-18T03:47:13Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2463034223949382039",
+         "player": "Luka Doncic",
+         "price": -120,
+         "sid": "2463034223949382039",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6839688636823372183",
+         "player": "Luka Doncic",
+         "price": -110,
+         "sid": "6839688636823372183",
+         "side": "Under"
+        },
+        {
+         "line": 5.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5096654843542634901",
+         "player": "Sandro Mamukelashvili",
+         "price": 100,
+         "sid": "5096654843542634901",
+         "side": "Over"
+        },
+        {
+         "line": 5.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/9041385904654123413",
+         "player": "Sandro Mamukelashvili",
+         "price": -130,
+         "sid": "9041385904654123413",
+         "side": "Under"
+        },
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/322557763553198509",
+         "player": "Naz Reid",
+         "price": -105,
+         "sid": "322557763553198509",
+         "side": "Over"
+        },
+        {
+         "line": 7.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2035895946790961581",
+         "player": "Naz Reid",
+         "price": -125,
+         "sid": "2035895946790961581",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6077745309837033877",
+         "player": "Ziaire Williams",
+         "price": -120,
+         "sid": "6077745309837033877",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5834339823726494101",
+         "player": "Ziaire Williams",
+         "price": -110,
+         "sid": "5834339823726494101",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7687973766523126161",
+         "player": "Quentin Grimes",
+         "price": -120,
+         "sid": "7687973766523126161",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3034805373403005329",
+         "player": "Quentin Grimes",
+         "price": -110,
+         "sid": "3034805373403005329",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1465969406334075294",
+         "player": "Jake LaRavia",
+         "price": 100,
+         "sid": "1465969406334075294",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/2408066153384640926",
+         "player": "Jake LaRavia",
+         "price": -130,
+         "sid": "2408066153384640926",
+         "side": "Under"
+        },
+        {
+         "line": 9.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6559203240978809246",
+         "player": "Moussa Diabate",
+         "price": -115,
+         "sid": "6559203240978809246",
+         "side": "Over"
+        },
+        {
+         "line": 9.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1727544528252043678",
+         "player": "Moussa Diabate",
+         "price": -115,
+         "sid": "1727544528252043678",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/1527182723345678732",
+         "player": "Brandon Miller",
+         "price": -155,
+         "sid": "1527182723345678732",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7936790155512381836",
+         "player": "Brandon Miller",
+         "price": 120,
+         "sid": "7936790155512381836",
+         "side": "Under"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/800985512589525392",
+         "player": "Sion James",
+         "price": -130,
+         "sid": "800985512589525392",
+         "side": "Over"
+        },
+        {
+         "line": 3.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8458230779026211216",
+         "player": "Sion James",
+         "price": 100,
+         "sid": "8458230779026211216",
+         "side": "Under"
+        },
+        {
+         "line": 4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/684987757413663139",
+         "player": "Ryan Kalkbrenner",
+         "price": -105,
+         "sid": "684987757413663139",
+         "side": "Over"
+        },
+        {
+         "line": 4.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/8025151462585794979",
+         "player": "Ryan Kalkbrenner",
+         "price": -125,
+         "sid": "8025151462585794979",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5391361767309967752",
+         "player": "Coby White",
+         "price": 100,
+         "sid": "5391361767309967752",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/653601347595272584",
+         "player": "Coby White",
+         "price": -135,
+         "sid": "653601347595272584",
+         "side": "Under"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5789344810030727573",
+         "player": "Matisse Thybulle",
+         "price": -120,
+         "sid": "5789344810030727573",
+         "side": "Over"
+        },
+        {
+         "line": 2.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/5508204084854915477",
+         "player": "Matisse Thybulle",
+         "price": -110,
+         "sid": "5508204084854915477",
+         "side": "Under"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-18T03:48:15Z",
+     "kind": "close",
+     "minutes_to_tip": 21.7,
+     "raw": "raw/2026-11-17/bed6147c75f3706f25e25f5bdfeaf1ec-player_rebounds-close-20261118T034815799321Z.json",
      "rev": 1
     }
    ],
@@ -48541,7 +50792,7 @@
    "close": false,
    "commence_time": "2026-11-18T04:00:00Z",
    "event_id": "slate",
-   "games": 10,
+   "games": 8,
    "home": "*",
    "issues": [],
    "market": "h2h",
@@ -59849,7 +62100,7 @@
    "close": false,
    "commence_time": "2026-11-18T04:00:00Z",
    "event_id": "slate",
-   "games": 10,
+   "games": 8,
    "home": "*",
    "issues": [],
    "market": "spreads",
@@ -74961,8 +77212,8 @@
   }
  },
  "issues": [],
- "spent_month": 384,
- "spent_today": 19,
+ "spent_month": 385,
+ "spent_today": 20,
  "stop": null,
- "updated": "2026-11-18T03:39:36Z"
+ "updated": "2026-11-18T03:48:15Z"
 }
