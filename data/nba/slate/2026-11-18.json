@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "updated_et": "2026-11-18 14:05",
+ "updated_et": "2026-11-18 14:45",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -42,7 +42,7 @@
    "state": "pre",
    "spread_text": "MIA -11.5",
    "spread": -11.5,
-   "total": 236.5,
+   "total": 237.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -54,8 +54,8 @@
    "away_name": "Philadelphia 76ers",
    "home_name": "Orlando Magic",
    "state": "pre",
-   "spread_text": "PHI -1.5",
-   "spread": 1.5,
+   "spread_text": "ORL -1.5",
+   "spread": -1.5,
    "total": 222.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -70,7 +70,7 @@
    "state": "pre",
    "spread_text": "BKN -2.5",
    "spread": -2.5,
-   "total": 239.5,
+   "total": 240.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -98,7 +98,7 @@
    "state": "pre",
    "spread_text": "DAL -4.5",
    "spread": -4.5,
-   "total": 225.5,
+   "total": 224.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -110,9 +110,9 @@
    "away_name": "Detroit Pistons",
    "home_name": "New Orleans Pelicans",
    "state": "pre",
-   "spread_text": "DET -6.5",
-   "spread": 6.5,
-   "total": 228.5,
+   "spread_text": "DET -4.5",
+   "spread": 4.5,
+   "total": 225.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -124,8 +124,8 @@
    "away_name": "Atlanta Hawks",
    "home_name": "Oklahoma City Thunder",
    "state": "pre",
-   "spread_text": "OKC -6.5",
-   "spread": -6.5,
+   "spread_text": "OKC -5.5",
+   "spread": -5.5,
    "total": 228.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -166,8 +166,8 @@
    "away_name": "Phoenix Suns",
    "home_name": "Sacramento Kings",
    "state": "pre",
-   "spread_text": "PHX -6.5",
-   "spread": 6.5,
+   "spread_text": "PHX -7.5",
+   "spread": 7.5,
    "total": 226.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -340,25 +340,32 @@
   ],
   "Detroit Pistons": [
    {
-    "player": "Ronald Holland II",
-    "status": "Out",
-    "detail": "Holland is out for Tuesday's game against San Antonio due to a left knee contusion.",
-    "type": "out",
-    "updated": "2026-11-18T19:02Z"
-   },
-   {
-    "player": "Taurean Prince",
+    "player": "Cade Cunningham",
     "status": "Day-To-Day",
-    "detail": "Prince (knee) has been ruled out for Tuesday's game against the Spurs.",
+    "detail": "Cunningham is questionable for Wednesday's game against the Pelicans due to right knee soreness",
     "type": "day-to-day",
-    "updated": "2026-11-18T15:05Z"
+    "updated": "2026-11-18T19:09Z"
    },
    {
     "player": "Isaiah Joe",
     "status": "Out",
-    "detail": "Joe (hip) is out for Tuesday's game against the Spurs.",
+    "detail": "Joe (hip) is listed as questionable for Wednesday's game against the Pelicans.",
     "type": "out",
-    "updated": "2026-11-17T18:33Z"
+    "updated": "2026-11-18T19:08Z"
+   },
+   {
+    "player": "Taurean Prince",
+    "status": "Out",
+    "detail": "Prince (knee) is out for Wednesday's game against the Pelicans.",
+    "type": "out",
+    "updated": "2026-11-18T19:05Z"
+   },
+   {
+    "player": "Ronald Holland II",
+    "status": "Out",
+    "detail": "Holland (knee) is out for Wednesday's game against the Pelicans.",
+    "type": "out",
+    "updated": "2026-11-18T19:04Z"
    },
    {
     "player": "Duncan Robinson",
@@ -945,6 +952,20 @@
    "at_et": "2026-11-18 14:05",
    "team": "Detroit Pistons",
    "player": "Ronald Holland II",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-18 14:45",
+   "team": "Detroit Pistons",
+   "player": "Cade Cunningham",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-18 14:45",
+   "team": "Detroit Pistons",
+   "player": "Taurean Prince",
    "from": "Day-To-Day",
    "to": "Out"
   }
