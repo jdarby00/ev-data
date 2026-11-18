@@ -1,5 +1,5 @@
 {
- "credits_remaining": 98,
+ "credits_remaining": 96,
  "date": "2026-11-18",
  "groups": {
   "basketball_nba|bucks@heat|player_points_rebounds_assists": {
@@ -4949,6 +4949,282 @@
      "kind": "lock",
      "minutes_to_tip": 314.2,
      "raw": "raw/2026-11-18/6a72c23de4887e73345dde9bdc64eabe-player_points_rebounds_assists-lock-20261118T192546638666Z.json",
+     "rev": 1
+    }
+   ],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|bulls@nets|spreads": {
+   "api_away": "Chicago Bulls",
+   "api_home": "Brooklyn Nets",
+   "away": "Bulls",
+   "close": true,
+   "commence_time": "2026-11-19T00:40:00Z",
+   "event_id": "6a72c23de4887e73345dde9bdc64eabe",
+   "home": "Nets",
+   "issues": [],
+   "market": "spreads",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1028754042",
+       "event_sid": "1028754042",
+       "last_update": "2026-11-18T23:10:13Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -1.5,
+         "link": null,
+         "player": "",
+         "price": -108,
+         "sid": "4422093542",
+         "side": "Brooklyn Nets"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "",
+         "price": -114,
+         "sid": "4422093543",
+         "side": "Chicago Bulls"
+        }
+       ]
+      },
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/chicago-bulls-at-brooklyn-nets-20050507",
+       "event_sid": "20050507",
+       "last_update": "2026-11-18T23:10:31Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -1.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=20050507-1580003884-2355113728&type=Single",
+         "player": "",
+         "price": -110,
+         "sid": "2355113728",
+         "side": "Brooklyn Nets"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=20050507-1580003884-2355113727&type=Single",
+         "player": "",
+         "price": -110,
+         "sid": "2355113727",
+         "side": "Chicago Bulls"
+        }
+       ]
+      },
+      "betonlineag": {
+       "event_link": "https://sports.betonline.ag/sportsbook/basketball/nba/game/491185014",
+       "event_sid": "491185014",
+       "last_update": "2026-11-18T23:10:31Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -1.5,
+         "link": null,
+         "player": "",
+         "price": -110,
+         "sid": null,
+         "side": "Brooklyn Nets"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "",
+         "price": -110,
+         "sid": null,
+         "side": "Chicago Bulls"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1028754042",
+       "event_sid": "1028754042",
+       "last_update": "2026-11-18T23:10:30Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -1.5,
+         "link": null,
+         "player": "",
+         "price": -108,
+         "sid": "4422093542",
+         "side": "Brooklyn Nets"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "",
+         "price": -114,
+         "sid": "4422093543",
+         "side": "Chicago Bulls"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754042",
+       "event_sid": "1028754042",
+       "last_update": "2026-11-18T23:10:13Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -1.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754042?coupon={pickType}|4422093542|{wagerAmount}",
+         "player": "",
+         "price": -108,
+         "sid": "4422093542",
+         "side": "Brooklyn Nets"
+        },
+        {
+         "line": 1.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754042?coupon={pickType}|4422093543|{wagerAmount}",
+         "player": "",
+         "price": -114,
+         "sid": "4422093543",
+         "side": "Chicago Bulls"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/basketball/nba/chicago-bulls-brooklyn-nets-202611181930",
+       "event_sid": "33543032",
+       "last_update": "2026-11-18T23:08:54Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -1.5,
+         "link": null,
+         "player": "",
+         "price": -115,
+         "sid": "2475151341",
+         "side": "Brooklyn Nets"
+        },
+        {
+         "line": 1.5,
+         "link": null,
+         "player": "",
+         "price": -105,
+         "sid": "2475151340",
+         "side": "Chicago Bulls"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/35033286",
+       "event_sid": "35033286",
+       "last_update": "2026-11-18T23:10:30Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -1.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0HC87277556N150_1",
+         "player": "",
+         "price": -110,
+         "sid": "0HC87277556N150_1",
+         "side": "Brooklyn Nets"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0HC87277556P150_3",
+         "player": "",
+         "price": -110,
+         "sid": "0HC87277556P150_3",
+         "side": "Chicago Bulls"
+        }
+       ]
+      },
+      "espnbet": {
+       "event_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/nba/event/93b16c9a-e4de-4780-ad52-d54a89b56391",
+       "event_sid": "93b16c9a-e4de-4780-ad52-d54a89b56391",
+       "last_update": "2026-11-18T23:09:58Z",
+       "market_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/nba/event/93b16c9a-e4de-4780-ad52-d54a89b56391/section/lines",
+       "market_sid": "1686b8d8-786b-4bc2-8502-bd189498f6f7",
+       "outcomes": [
+        {
+         "line": -1.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=0d75caa4-5c25-4dc1-832f-943ad15c2e96&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": -110,
+         "sid": "0d75caa4-5c25-4dc1-832f-943ad15c2e96",
+         "side": "Brooklyn Nets"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=19f237df-2dab-4fde-b1ca-b9b2419641cd&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": -110,
+         "sid": "19f237df-2dab-4fde-b1ca-b9b2419641cd",
+         "side": "Chicago Bulls"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/nba/chicago-bulls-%40-brooklyn-nets-36327272",
+       "event_sid": "36327272",
+       "last_update": "2026-11-18T23:10:14Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -1.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625897827&selectionId=6500320",
+         "player": "",
+         "price": -108,
+         "sid": "6500320",
+         "side": "Brooklyn Nets"
+        },
+        {
+         "line": 1.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625897827&selectionId=237494",
+         "player": "",
+         "price": -112,
+         "sid": "237494",
+         "side": "Chicago Bulls"
+        }
+       ]
+      },
+      "hardrockbet": {
+       "event_link": "https://app.hardrock.bet/home/competition/nba/1163007114317267370",
+       "event_sid": "1163007114317267370",
+       "last_update": "2026-11-18T23:10:31Z",
+       "market_link": null,
+       "market_sid": "6368132223830458781",
+       "outcomes": [
+        {
+         "line": -1.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/4600469370087539101",
+         "player": "",
+         "price": -110,
+         "sid": "4600469370087539101",
+         "side": "Brooklyn Nets"
+        },
+        {
+         "line": 1.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/7027909569240236445",
+         "player": "",
+         "price": -110,
+         "sid": "7027909569240236445",
+         "side": "Chicago Bulls"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-18T23:10:46Z",
+     "kind": "lock",
+     "minutes_to_tip": 89.2,
+     "raw": "raw/2026-11-18/6a72c23de4887e73345dde9bdc64eabe-spreads-lock-20261118T231046917735Z.json",
      "rev": 1
     }
    ],
@@ -35609,6 +35885,282 @@
      "kind": "lock",
      "minutes_to_tip": 284.2,
      "raw": "raw/2026-11-18/f9ae24215832bbc1703c9836d0c96751-player_points_rebounds_assists-lock-20261118T192546638666Z.json",
+     "rev": 1
+    }
+   ],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|rockets@pacers|spreads": {
+   "api_away": "Houston Rockets",
+   "api_home": "Indiana Pacers",
+   "away": "Rockets",
+   "close": true,
+   "commence_time": "2026-11-19T00:10:00Z",
+   "event_id": "f9ae24215832bbc1703c9836d0c96751",
+   "home": "Pacers",
+   "issues": [],
+   "market": "spreads",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [
+    {
+     "books": {
+      "ballybet": {
+       "event_link": "https://play.ballybet.com/sports#event/1028754036",
+       "event_sid": "1028754036",
+       "last_update": "2026-11-18T23:10:13Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -8.5,
+         "link": null,
+         "player": "",
+         "price": -117,
+         "sid": "4422272998",
+         "side": "Houston Rockets"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "",
+         "price": -106,
+         "sid": "4422272997",
+         "side": "Indiana Pacers"
+        }
+       ]
+      },
+      "betmgm": {
+       "event_link": "https://sports.{state}.betmgm.com/en/sports/events/houston-rockets-at-indiana-pacers-20050504",
+       "event_sid": "20050504",
+       "last_update": "2026-11-18T23:10:31Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -8.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=20050504-1580024658-2355166316&type=Single",
+         "player": "",
+         "price": -115,
+         "sid": "2355166316",
+         "side": "Houston Rockets"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sports.{state}.betmgm.com/en/sports?options=20050504-1580024658-2355166317&type=Single",
+         "player": "",
+         "price": -105,
+         "sid": "2355166317",
+         "side": "Indiana Pacers"
+        }
+       ]
+      },
+      "betonlineag": {
+       "event_link": "https://sports.betonline.ag/sportsbook/basketball/nba/game/491185007",
+       "event_sid": "491185007",
+       "last_update": "2026-11-18T23:10:31Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -8.5,
+         "link": null,
+         "player": "",
+         "price": -115,
+         "sid": null,
+         "side": "Houston Rockets"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "",
+         "price": -105,
+         "sid": null,
+         "side": "Indiana Pacers"
+        }
+       ]
+      },
+      "betparx": {
+       "event_link": "https://{state}.betparx.com/kambi#event/1028754036",
+       "event_sid": "1028754036",
+       "last_update": "2026-11-18T23:10:30Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -8.5,
+         "link": null,
+         "player": "",
+         "price": -117,
+         "sid": "4422272998",
+         "side": "Houston Rockets"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "",
+         "price": -106,
+         "sid": "4422272997",
+         "side": "Indiana Pacers"
+        }
+       ]
+      },
+      "betrivers": {
+       "event_link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754036",
+       "event_sid": "1028754036",
+       "last_update": "2026-11-18T23:10:13Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -8.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754036?coupon={pickType}|4422272998|{wagerAmount}",
+         "player": "",
+         "price": -117,
+         "sid": "4422272998",
+         "side": "Houston Rockets"
+        },
+        {
+         "line": 8.5,
+         "link": "https://{state}.betrivers.com/?page=sportsbook#event/1028754036?coupon={pickType}|4422272997|{wagerAmount}",
+         "player": "",
+         "price": -106,
+         "sid": "4422272997",
+         "side": "Indiana Pacers"
+        }
+       ]
+      },
+      "bovada": {
+       "event_link": "https://www.bovada.lv/sports/basketball/nba/houston-rockets-indiana-pacers-202611181900",
+       "event_sid": "33536217",
+       "last_update": "2026-11-18T23:08:54Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -8.5,
+         "link": null,
+         "player": "",
+         "price": -115,
+         "sid": "2474924795",
+         "side": "Houston Rockets"
+        },
+        {
+         "line": 8.5,
+         "link": null,
+         "player": "",
+         "price": -105,
+         "sid": "2474924796",
+         "side": "Indiana Pacers"
+        }
+       ]
+      },
+      "draftkings": {
+       "event_link": "https://sportsbook.draftkings.com/event/35033283",
+       "event_sid": "35033283",
+       "last_update": "2026-11-18T23:10:30Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0HC87277553N850_3",
+         "player": "",
+         "price": -115,
+         "sid": "0HC87277553N850_3",
+         "side": "Houston Rockets"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.draftkings.com/?outcomes=0HC87277553P850_1",
+         "player": "",
+         "price": -106,
+         "sid": "0HC87277553P850_1",
+         "side": "Indiana Pacers"
+        }
+       ]
+      },
+      "espnbet": {
+       "event_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/nba/event/247a589d-8d98-4c03-88c3-97a1a0ec3dba",
+       "event_sid": "247a589d-8d98-4c03-88c3-97a1a0ec3dba",
+       "last_update": "2026-11-18T23:09:58Z",
+       "market_link": "https://sportsbook.thescore.bet/sport/basketball/organization/united-states/competition/nba/event/247a589d-8d98-4c03-88c3-97a1a0ec3dba/section/lines",
+       "market_sid": "c727e71a-e532-4100-9b6c-37f4d482d368",
+       "outcomes": [
+        {
+         "line": -8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=84f89724-6dcd-40d2-808d-26a8cac828cc&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": -110,
+         "sid": "84f89724-6dcd-40d2-808d-26a8cac828cc",
+         "side": "Houston Rockets"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.thescore.bet/?market_selection_id[0]=7d0c885a-f9c8-4be2-9ab9-c9ed27c2afca&odds_numerator[0]=2&odds_denominator[0]=1",
+         "player": "",
+         "price": -110,
+         "sid": "7d0c885a-f9c8-4be2-9ab9-c9ed27c2afca",
+         "side": "Indiana Pacers"
+        }
+       ]
+      },
+      "fanduel": {
+       "event_link": "https://sportsbook.fanduel.com/basketball/nba/houston-rockets-%40-indiana-pacers-36327271",
+       "event_sid": "36327271",
+       "last_update": "2026-11-18T23:10:14Z",
+       "market_link": null,
+       "market_sid": null,
+       "outcomes": [
+        {
+         "line": -8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625897815&selectionId=237488",
+         "player": "",
+         "price": -112,
+         "sid": "237488",
+         "side": "Houston Rockets"
+        },
+        {
+         "line": 8.5,
+         "link": "https://sportsbook.fanduel.com/addToBetslip?marketId=42.625897815&selectionId=237481",
+         "player": "",
+         "price": -108,
+         "sid": "237481",
+         "side": "Indiana Pacers"
+        }
+       ]
+      },
+      "hardrockbet": {
+       "event_link": "https://app.hardrock.bet/home/competition/nba/7042814419809730994",
+       "event_sid": "7042814419809730994",
+       "last_update": "2026-11-18T23:10:31Z",
+       "market_link": null,
+       "market_sid": "2194536932634132898",
+       "outcomes": [
+        {
+         "line": -8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/6490408027192164770",
+         "player": "",
+         "price": -110,
+         "sid": "6490408027192164770",
+         "side": "Houston Rockets"
+        },
+        {
+         "line": 8.5,
+         "link": "https://app.hardrock.bet/?deep_link_value=betslip/3475811026621039010",
+         "player": "",
+         "price": -110,
+         "sid": "3475811026621039010",
+         "side": "Indiana Pacers"
+        }
+       ]
+      }
+     },
+     "fetched_at": "2026-11-18T23:10:46Z",
+     "kind": "lock",
+     "minutes_to_tip": 59.2,
+     "raw": "raw/2026-11-18/f9ae24215832bbc1703c9836d0c96751-spreads-lock-20261118T231046917735Z.json",
      "rev": 1
     }
    ],
@@ -73785,8 +74337,8 @@
   }
  },
  "issues": [],
- "spent_month": 402,
- "spent_today": 17,
+ "spent_month": 404,
+ "spent_today": 19,
  "stop": null,
- "updated": "2026-11-18T21:50:02Z"
+ "updated": "2026-11-18T23:10:46Z"
 }
