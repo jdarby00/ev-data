@@ -1,13 +1,11 @@
 # NBA board, 2026-11-18
 
-Slate updated 2026-11-18 21:37 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-18 22:49 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 20:11 Dallas Mavericks: Max Christie Day-To-Day → removed from report
-- 20:11 Dallas Mavericks: Santi Aldama Day-To-Day → removed from report
 - 20:11 Detroit Pistons: Cade Cunningham Day-To-Day → Out
 - 20:11 Detroit Pistons: Isaiah Joe Out → removed from report
 - 20:11 Golden State Warriors: Al Horford Day-To-Day → Out
@@ -21,6 +19,8 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 20:11 Toronto Raptors: RJ Barrett Day-To-Day → Out
 - 21:37 Toronto Raptors: Collin Murray-Boyles not listed → Day-To-Day
 - 21:37 Utah Jazz: Jaxson Hayes Day-To-Day → removed from report
+- 22:49 Indiana Pacers: Braden Smith not listed → Day-To-Day
+- 22:49 Oklahoma City Thunder: Alex Caruso not listed → Out
 
 ## MEM @ CLE, 19:00 ET
 Line: CLE -4.5, total 238.5 (DraftKings).
@@ -100,7 +100,7 @@ Line: HOU -8.5, total 225.5 (DraftKings).
 | Kelly Oubre Jr. | – | 26.4 (5.4) → 26.9 (19.2) | 12.4/10.7 → 12 (5–20) | 3.6/3 → 4 (1–7) | 1/1.3 → 1 (0–3) | 0.8/0.9 → 1 (0–3) | 17 (8–28) |
 | Ivica Zubac | – | 25.2 (7.5) → 24.6 (14.9) | 13.2/10.4 → 11 (4–20) | 9/8.4 → 8 (4–14) | 1.8/1.7 → 1 (0–4) | 0/0 → 0 (0–0) | 21 (9–35) |
 | Quenton Jackson | – | 22.6 (5.7) → 23.1 (15.4) | 7.6/9.4 → 10 (3–18) | 4.4/3.8 → 3 (1–7) | 3.8/3.1 → 3 (1–7) | 1/1.1 → 1 (0–3) | 17 (8–29) |
-| Braden Smith | – | 17.8 (12.8) → 15.7 (0.3) | 5.8/4.3 → 5 (0–12) | 1/0.7 → 2 (0–5) | 3.4/2.7 → 1 (0–5) | 0.4/0.3 → 0 (0–2) | 8 (0–21) |
+| Braden Smith | Day-To-Day | 17.8 (12.8) → 15.7 (0.3) | 5.8/4.3 → 5 (0–12) | 1/0.7 → 2 (0–5) | 3.4/2.7 → 1 (0–5) | 0.4/0.3 → 0 (0–2) | 8 (0–21) |
 | Obi Toppin | – | 17.4 (3.3) → 17.9 (10.2) | 8.4/11.7 → 10 (3–19) | 3.4/4.4 → 4 (1–7) | 1.8/1.5 → 2 (0–4) | 1/1.5 → 1 (0–3) | 16 (6–28) |
 | Kobe Brown | – | 16.6 (12.6) → 13.6 (0) | 5.6/4.7 → 4 (0–12) | 2.8/2.3 → 2 (0–6) | 1.2/1 → 1 (0–3) | 0.6/0.5 → 0 (0–2) | 7 (0–20) |
 | Jarace Walker | – | 13.6 (10.4) → 18.1 (5.2) | 4.2/6.5 → 6 (0–15) | 4/5.3 → 4 (0–8) | 1/1.7 → 1 (0–4) | 0.6/1 → 1 (0–3) | 12 (1–25) |
@@ -373,7 +373,7 @@ Line: OKC -6.5, total 228.5 (DraftKings).
 | Jock Landale | Out | 13 (5.4) | 6.6/6.8 | 5.2/4.9 | 0.4/1.7 | 0.8/0.6 | – |
 | Corey Kispert | – | 12.6 (5.9) → 12.9 (4.9) | 8.8/8.6 → 7 (1–15) | 1.2/1 → 1 (0–4) | 0.8/0.7 → 1 (0–3) | 1.8/1.9 → 1 (0–3) | 9 (1–19) |
 
-**OKC** (2 rest days). Out: Jalen Williams, Chet Holmgren, Cason Wallace. Freed minutes: 78. Out all season so far (already in the lines): Thomas Sorber.
+**OKC** (2 rest days). Out: Jalen Williams, Chet Holmgren, Alex Caruso, Cason Wallace. Freed minutes: 98.2. Out all season so far (already in the lines): Thomas Sorber.
 - Without Jalen Williams: Kenrich Williams min +17.2, pts +5.3, reb +3, ast +1.4 (n=11 vs 3)
 - Without Chet Holmgren: Kenrich Williams min +17.2, pts +5.3, reb +3, ast +1.4 (n=11 vs 3)
 - Without Cason Wallace: Kenrich Williams min +17.2, pts +5.3, reb +3, ast +1.4 (n=11 vs 3)
@@ -389,7 +389,7 @@ Line: OKC -6.5, total 228.5 (DraftKings).
 | Aday Mara | – | 26.4 (4.1) → 24.4 (16.7) | 13/9.1 → 10 (4–18) | 8/6.5 → 6 (3–10) | 2/1.4 → 2 (0–4) | 0.2/0.1 → 0 (0–2) | 18 (8–29) |
 | Isaiah Hartenstein | – | 24.8 (4.6) → 25 (17.3) | 10.6/8.6 → 9 (3–16) | 12.2/10.6 → 10 (5–17) | 5/3.7 → 4 (1–7) | 0/0 → 0 (0–0) | 24 (12–37) |
 | Kenrich Williams | – | 24.4 (5.8) → 22.8 (15.1) | 8.2/7.1 → 9 (3–15) | 3.4/3.6 → 4 (1–7) | 2/1.4 → 2 (0–4) | 1.2/1.4 → 1 (0–3) | 15 (6–25) |
-| Alex Caruso | – | 21.2 (5.6) → 20.7 (13) | 7/7.6 → 7 (2–13) | 3/4 → 3 (1–6) | 2.6/3 → 2 (0–5) | 1.4/1.5 → 1 (0–3) | 13 (5–22) |
+| Alex Caruso | Out | 21.2 (5.6) | 7/7.6 | 3/4 | 2.6/3 | 1.4/1.5 | – |
 | Bennett Stirtz | – | 20.2 (5.9) → 19.2 (11.3) | 7/7.1 → 7 (1–13) | 1.8/1.1 → 2 (0–5) | 1.4/1.2 → 1 (0–3) | 1.4/1.5 → 1 (0–3) | 11 (3–20) |
 | Jaylin Williams | – | 19.4 (6.7) → 19.8 (11) | 2.4/2.9 → 5 (1–10) | 3.6/4.1 → 5 (1–9) | 1.4/1.6 → 2 (0–4) | 0.6/0.7 → 1 (0–3) | 12 (4–21) |
 
