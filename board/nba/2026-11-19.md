@@ -1,6 +1,6 @@
 # NBA board, 2026-11-19
 
-Slate updated 2026-11-19 13:59 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-19 14:05 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -12,21 +12,23 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 13:59 Memphis Grizzlies: Isaiah Stewart Out → Day-To-Day
 - 13:59 Milwaukee Bucks: Ryan Rollins Out → Day-To-Day
 - 13:59 Minnesota Timberwolves: Zyon Pullin Day-To-Day → removed from report
+- 14:05 Golden State Warriors: Draymond Green Day-To-Day → Out
+- 14:05 Golden State Warriors: Al Horford Day-To-Day → removed from report
 
 ## GS @ MEM, 20:00 ET
 Line: MEM -6.5, total 225.5 (Draft Kings).
-**GS** (back-to-back). Out: Stephen Curry, Brandon Williams. Freed minutes: 42.7. Out all season so far (already in the lines): Kristaps Porzingis, Moses Moody, Jimmy Butler III.
+**GS** (back-to-back). Out: Stephen Curry, Draymond Green, Brandon Williams. Freed minutes: 68.3. Out all season so far (already in the lines): Kristaps Porzingis, Moses Moody, Jimmy Butler III.
 - Without Stephen Curry: Will Richard min +11.4, pts +5.3, reb -1, ast +1.1 (n=5 vs 9)
 - Without Brandon Williams: Will Richard min +9.5, pts +5.6, reb +1.8, ast -0.1 (n=5 vs 9)
 - Without Brandon Williams: LJ Cryer min +9, pts +5.1, reb +0.5, ast +0.9 (n=5 vs 6)
-- Without Stephen Curry: LJ Cryer min +7.9, pts +1.5, reb +0.5, ast +0.9 (n=5 vs 6)
+- Without Draymond Green: Will Richard min +8.4, pts +0, reb -2.4, ast +1.1 (n=2 vs 12)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Yaxel Lendeborg | – | 30 (4.4) → 30.8 (23.1) | 18.4/20.3 → 16 (7–25) | 7.4/7.3 → 6 (3–11) | 2.4/3.5 → 3 (1–5) | 1.6/2.1 → 1 (0–3) | 25 (14–38) |
 | Brandin Podziemski | – | 28.8 (5) → 30.3 (22.6) | 16/15.8 → 14 (7–23) | 4/4.8 → 5 (2–8) | 3/3.8 → 3 (1–6) | 2.8/2.6 → 2 (0–4) | 23 (12–35) |
 | Stephen Curry | Out | 24.8 (8.2) | 26.4/27.8 | 3.6/3.7 | 3.8/3.9 | 4.2/4.3 | – |
-| Draymond Green | Day-To-Day | 22.4 (5.9) → 24.5 (16.5) | 3.6/3.2 → 5 (1–10) | 4/4.7 → 4 (2–8) | 4.6/6.5 → 5 (2–9) | 0.4/0.3 → 1 (0–2) | 15 (6–25) |
+| Draymond Green | Out | 22.4 (5.9) | 3.6/3.2 | 4/4.7 | 4.6/6.5 | 0.4/0.3 | – |
 | Will Richard | – | 22.2 (5.9) → 22 (14.1) | 10.2/7 → 8 (2–15) | 2.6/2.1 → 2 (0–5) | 1.2/1.1 → 1 (0–3) | 1.2/1.1 → 1 (0–3) | 12 (4–21) |
 | De'Anthony Melton | – | 21.8 (4.2) → 21.3 (13.6) | 8.6/9.1 → 9 (3–16) | 3.2/3.9 → 3 (1–6) | 2.6/2.3 → 2 (0–5) | 2.2/2.1 → 1 (0–3) | 15 (6–25) |
 | LJ Cryer | Day-To-Day | 21 (9.3) → 16.4 (4.9) | 11.8/7 → 8 (0–17) | 0.8/0.5 → 1 (0–3) | 3/1.9 → 1 (0–4) | 3/1.8 → 2 (0–5) | 11 (1–22) |

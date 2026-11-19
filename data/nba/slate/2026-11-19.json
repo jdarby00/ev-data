@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "updated_et": "2026-11-19 13:59",
+ "updated_et": "2026-11-19 14:05",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -64,25 +64,18 @@
  "injuries": {
   "Golden State Warriors": [
    {
+    "player": "Draymond Green",
+    "status": "Out",
+    "detail": "Green (elbow) is out for Thursday's game against the Grizzlies.",
+    "type": "out",
+    "updated": "2026-11-19T18:51Z"
+   },
+   {
     "player": "LJ Cryer",
     "status": "Day-To-Day",
     "detail": "Cryer (back) is questionable for Thursday's game against Memphis.",
     "type": "day-to-day",
     "updated": "2026-11-19T18:46Z"
-   },
-   {
-    "player": "Draymond Green",
-    "status": "Day-To-Day",
-    "detail": "Green (elbow) is available for Wednesday's game against the Mavericks.",
-    "type": "day-to-day",
-    "updated": "2026-11-19T14:59Z"
-   },
-   {
-    "player": "Al Horford",
-    "status": "Day-To-Day",
-    "detail": "Horford (back) is out for Wednesday's game against the Mavericks, but will play Thursday against the Grizzlies, Nick Friedell of The Athletic reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-19T14:51Z"
    },
    {
     "player": "Brandon Williams",
@@ -341,6 +334,20 @@
    "at_et": "2026-11-19 13:59",
    "team": "Minnesota Timberwolves",
    "player": "Zyon Pullin",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-19 14:05",
+   "team": "Golden State Warriors",
+   "player": "Draymond Green",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-19 14:05",
+   "team": "Golden State Warriors",
+   "player": "Al Horford",
    "from": "Day-To-Day",
    "to": "removed from report"
   }
