@@ -1,6 +1,6 @@
 # NBA board, 2026-11-19
 
-Slate updated 2026-11-19 16:15 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-19 17:46 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -20,7 +20,7 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 14:45 Milwaukee Bucks: Ryan Rollins Day-To-Day → removed from report
 
 ## GS @ MEM, 20:00 ET
-Line: MEM -5.5, total 224.5 (Draft Kings).
+Line: MEM -5.5, total 225.5 (DraftKings).
 **GS** (back-to-back). Out: Stephen Curry, Draymond Green, Brandon Williams. Freed minutes: 68.3. Out all season so far (already in the lines): Kristaps Porzingis, Moses Moody, Jimmy Butler III.
 - Without Stephen Curry: Will Richard min +11.4, pts +5.3, reb -1, ast +1.1 (n=5 vs 9)
 - Without Brandon Williams: Will Richard min +9.5, pts +5.6, reb +1.8, ast -0.1 (n=5 vs 9)
@@ -62,7 +62,7 @@ Line: MEM -5.5, total 224.5 (Draft Kings).
 | Scotty Pippen Jr. | Out | 16.2 (2.5) | 6.4/6.4 | 2.2/2.2 | 2.2/2.2 | 0.4/0.4 | – |
 
 ## POR @ MIL, 20:00 ET
-Line: POR -11.5, total 230.5 (Draft Kings).
+Line: POR -11.5, total 230.5 (DraftKings).
 **POR** (1 rest day). Out: Ja Morant, Robert Williams III, Chris Youngblood, Vit Krejci. Freed minutes: 66. Out all season so far (already in the lines): Shaedon Sharpe.
 - Without Robert Williams III: Yang Hansen min +8.5, pts +5.3, reb +4.3, ast +0.3 (n=2 vs 6)
 - Without Robert Williams III: Sidy Cissoko min -7.7, pts -4.1, reb +0.9, ast -0.5 (n=2 vs 12)
@@ -104,7 +104,7 @@ Line: POR -11.5, total 230.5 (Draft Kings).
 | Jericho Sims | – | 14 (5.9) → 13.2 (5.3) | 2.4/1.2 → 3 (0–7) | 2.8/1.7 → 3 (1–7) | 0.6/0.4 → 1 (0–2) | 0/0 → 0 (0–0) | 7 (1–14) |
 
 ## NY @ MIN, 20:00 ET
-Line: NY -1.5, total 216.5 (Draft Kings).
+Line: NY -1.5, total 216.5 (DraftKings).
 **NY** (1 rest day). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -141,7 +141,7 @@ Line: NY -1.5, total 216.5 (Draft Kings).
 | Jaylen Clark | Out | 17.4 (7.3) | 5.6/4.5 | 3/2.1 | 0.6/0.8 | 0.8/0.8 | – |
 
 ## LAC @ SA, 20:00 ET
-Line: SA -15.5, total 224.5 (Draft Kings).
+Line: SA -15.5, total 224.5 (DraftKings).
 **LAC** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Brandon Ingram, Bradley Beal, Jordan Miller.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
