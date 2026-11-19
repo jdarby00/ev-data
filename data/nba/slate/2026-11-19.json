@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "updated_et": "2026-11-19 14:05",
+ "updated_et": "2026-11-19 14:45",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -12,9 +12,9 @@
    "away_name": "Golden State Warriors",
    "home_name": "Memphis Grizzlies",
    "state": "pre",
-   "spread_text": "MEM -6.5",
-   "spread": -6.5,
-   "total": 225.5,
+   "spread_text": "MEM -5.5",
+   "spread": -5.5,
+   "total": 224.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -26,8 +26,8 @@
    "away_name": "Portland Trail Blazers",
    "home_name": "Milwaukee Bucks",
    "state": "pre",
-   "spread_text": "POR -10.5",
-   "spread": 10.5,
+   "spread_text": "POR -11.5",
+   "spread": 11.5,
    "total": 230.5,
    "odds_source": "Draft Kings",
    "season_type": 2
@@ -140,9 +140,23 @@
    {
     "player": "Isaiah Stewart",
     "status": "Day-To-Day",
-    "detail": "Stewart (illness) won't play Wednesday against the Cavs.",
+    "detail": "Stewart is questionable for Thursday's game against the Warriors due to an illness.",
     "type": "day-to-day",
-    "updated": "2026-11-19T14:44Z"
+    "updated": "2026-11-19T19:11Z"
+   },
+   {
+    "player": "Zach Edey",
+    "status": "Out",
+    "detail": "Edey (hip) has been ruled out for Thursday's game against the Warriors.",
+    "type": "out",
+    "updated": "2026-11-19T19:09Z"
+   },
+   {
+    "player": "Ty Jerome",
+    "status": "Out",
+    "detail": "Jerome (hip) has been ruled out for Thursday's game against the Warriors.",
+    "type": "out",
+    "updated": "2026-11-19T19:07Z"
    },
    {
     "player": "GG Jackson",
@@ -150,13 +164,6 @@
     "detail": "Jackson underwent a procedure Wednesday to repair a broken fifth metatarsal in his left foot. He is expected to recover fully and will be re-evaluated in approximately three months.",
     "type": "out",
     "updated": "2026-11-17T23:18Z"
-   },
-   {
-    "player": "Ty Jerome",
-    "status": "Out",
-    "detail": "Jerome (hip) has been ruled out for Wednesday's game in Cleveland.",
-    "type": "out",
-    "updated": "2026-11-17T22:07Z"
    },
    {
     "player": "Scotty Pippen Jr.",
@@ -175,11 +182,18 @@
   ],
   "Milwaukee Bucks": [
    {
-    "player": "Ryan Rollins",
-    "status": "Day-To-Day",
-    "detail": "Rollins (illness) has been ruled out for Wednesday's game at Miami.",
-    "type": "day-to-day",
-    "updated": "2026-11-19T14:45Z"
+    "player": "Kyle Kuzma",
+    "status": "Out",
+    "detail": "Kuzma (shoulder) has been ruled out for Thursday's game against Portland due to a right shoulder contusion.",
+    "type": "out",
+    "updated": "2026-11-19T19:20Z"
+   },
+   {
+    "player": "Myles Turner",
+    "status": "Out",
+    "detail": "Turner (shoulder) has been ruled out for Thursday's game against Portland due to a left shoulder contusion,",
+    "type": "out",
+    "updated": "2026-11-19T19:15Z"
    },
    {
     "player": "Ousmane Dieng",
@@ -348,6 +362,34 @@
    "at_et": "2026-11-19 14:05",
    "team": "Golden State Warriors",
    "player": "Al Horford",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-19 14:45",
+   "team": "Memphis Grizzlies",
+   "player": "Zach Edey",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-19 14:45",
+   "team": "Milwaukee Bucks",
+   "player": "Kyle Kuzma",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-19 14:45",
+   "team": "Milwaukee Bucks",
+   "player": "Myles Turner",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-19 14:45",
+   "team": "Milwaukee Bucks",
+   "player": "Ryan Rollins",
    "from": "Day-To-Day",
    "to": "removed from report"
   }

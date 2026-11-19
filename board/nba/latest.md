@@ -1,6 +1,6 @@
 # NBA board, 2026-11-19
 
-Slate updated 2026-11-19 14:05 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-19 14:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -14,9 +14,13 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 13:59 Minnesota Timberwolves: Zyon Pullin Day-To-Day → removed from report
 - 14:05 Golden State Warriors: Draymond Green Day-To-Day → Out
 - 14:05 Golden State Warriors: Al Horford Day-To-Day → removed from report
+- 14:45 Memphis Grizzlies: Zach Edey not listed → Out
+- 14:45 Milwaukee Bucks: Kyle Kuzma not listed → Out
+- 14:45 Milwaukee Bucks: Myles Turner not listed → Out
+- 14:45 Milwaukee Bucks: Ryan Rollins Day-To-Day → removed from report
 
 ## GS @ MEM, 20:00 ET
-Line: MEM -6.5, total 225.5 (Draft Kings).
+Line: MEM -5.5, total 224.5 (Draft Kings).
 **GS** (back-to-back). Out: Stephen Curry, Draymond Green, Brandon Williams. Freed minutes: 68.3. Out all season so far (already in the lines): Kristaps Porzingis, Moses Moody, Jimmy Butler III.
 - Without Stephen Curry: Will Richard min +11.4, pts +5.3, reb -1, ast +1.1 (n=5 vs 9)
 - Without Brandon Williams: Will Richard min +9.5, pts +5.6, reb +1.8, ast -0.1 (n=5 vs 9)
@@ -37,7 +41,7 @@ Line: MEM -6.5, total 225.5 (Draft Kings).
 | Brandon Williams | Out | 16.4 (6.5) | 9.8/10.4 | 1.2/2.1 | 2/2.3 | 0.4/0.7 | – |
 | Georges Niang | – | 16.2 (3.5) → 17.4 (9.8) | 6/7.5 → 6 (1–13) | 3/3 → 3 (1–6) | 1.4/1.5 → 1 (0–3) | 1/1.3 → 1 (0–2) | 11 (3–20) |
 
-**MEM** (back-to-back). Out: Ty Jerome, Scotty Pippen Jr., GG Jackson. Freed minutes: 61.8. Out all season so far (already in the lines): Richie Saunders.
+**MEM** (back-to-back). Out: Ty Jerome, Zach Edey, Scotty Pippen Jr., GG Jackson. Freed minutes: 82.6. Out all season so far (already in the lines): Richie Saunders.
 - Without Ty Jerome: Cam Spencer min +10.6, pts +6.6, reb +0.2, ast +5.1 (n=4 vs 11)
 - Without Scotty Pippen Jr.: Taylor Hendricks min +10.4, pts +10.6, reb +3.2, ast +1.1 (n=8 vs 2)
 - Without Ty Jerome: Olivier-Maxence Prosper min +9.2, pts +4.3, reb +0.2, ast +0.1 (n=4 vs 5)
@@ -52,13 +56,13 @@ Line: MEM -6.5, total 225.5 (Draft Kings).
 | Jaylen Wells | – | 27.2 (3.6) → 26.6 (18.9) | 10.2/10.7 → 10 (4–18) | 2.8/2.9 → 3 (1–6) | 1.8/1.5 → 1 (0–4) | 2.2/2 → 2 (0–4) | 15 (6–25) |
 | Jerami Grant | – | 22.2 (2.2) → 23.3 (15.6) | 13.8/11.1 → 13 (5–22) | 1.4/1.9 → 2 (0–4) | 1.6/1.9 → 1 (0–4) | 2.2/1.8 → 2 (0–4) | 17 (7–27) |
 | Javon Small | – | 22 (5.3) → 22.5 (14.8) | 9.2/9 → 10 (3–17) | 2.8/2.6 → 3 (1–6) | 6.2/5.4 → 5 (2–9) | 1.2/1.2 → 1 (0–3) | 18 (8–29) |
-| Zach Edey | – | 21 (2) → 21.4 (13.8) | 11.6/9.2 → 11 (4–19) | 6.4/7.4 → 8 (4–13) | 0.8/0.9 → 1 (0–2) | 0/0.1 → 0 (0–0) | 20 (9–32) |
+| Zach Edey | Out | 21 (2) | 11.6/9.2 | 6.4/7.4 | 0.8/0.9 | 0/0.1 | – |
 | Taylor Hendricks | – | 19.8 (8.4) → 17.5 (7) | 13.2/8.5 → 8 (2–17) | 5.6/3.6 → 4 (1–8) | 1.8/0.9 → 1 (0–3) | 1/0.9 → 1 (0–2) | 13 (3–26) |
 | Isaiah Stewart | Day-To-Day | 18.2 (4.7) → 18.2 (10.5) | 9.2/10.9 → 9 (3–17) | 3/3.3 → 3 (1–7) | 1.4/0.9 → 1 (0–3) | 0.6/0.9 → 0 (0–2) | 14 (5–24) |
 | Scotty Pippen Jr. | Out | 16.2 (2.5) | 6.4/6.4 | 2.2/2.2 | 2.2/2.2 | 0.4/0.4 | – |
 
 ## POR @ MIL, 20:00 ET
-Line: POR -10.5, total 230.5 (Draft Kings).
+Line: POR -11.5, total 230.5 (Draft Kings).
 **POR** (1 rest day). Out: Ja Morant, Robert Williams III, Chris Youngblood, Vit Krejci. Freed minutes: 66. Out all season so far (already in the lines): Shaedon Sharpe.
 - Without Robert Williams III: Yang Hansen min +8.5, pts +5.3, reb +4.3, ast +0.3 (n=2 vs 6)
 - Without Robert Williams III: Sidy Cissoko min -7.7, pts -4.1, reb +0.9, ast -0.5 (n=2 vs 12)
@@ -79,7 +83,7 @@ Line: POR -10.5, total 230.5 (Draft Kings).
 | Chris Youngblood | Out | 14.8 (8.3) | 6.6/6 | 1.6/1.3 | 1.2/1 | 1.4/1.3 | – |
 | Jayson Kent | – | 13.6 (6.9) → 14 (4.9) | 4.6/4.6 → 5 (0–12) | 1.2/1.2 → 2 (0–5) | 0.2/0.2 → 0 (0–0) | 1/1 → 1 (0–2) | 8 (1–16) |
 
-**MIL** (back-to-back). Out: Ousmane Dieng. Freed minutes: 12.3.
+**MIL** (back-to-back). Out: Kyle Kuzma, Myles Turner, Ousmane Dieng. Freed minutes: 66.
 - Without Ousmane Dieng: Gary Trent Jr. min +15.2, pts +5.9, reb +1.1, ast +0.3 (n=2 vs 5)
 - Without Ousmane Dieng: Brayden Burries min +7.3, pts +6.7, reb +3.8, ast +0.8 (n=5 vs 10)
 - Without Ousmane Dieng: Ryan Rollins min -6.7, pts +1.5, reb -3.1, ast -2.1 (n=3 vs 10)
@@ -89,10 +93,10 @@ Line: POR -10.5, total 230.5 (Draft Kings).
 |---|---|---|---|---|---|---|---|
 | Tyler Herro | – | 28 (4.8) → 27 (19.4) | 14.2/19.4 → 16 (7–25) | 2.2/4 → 3 (1–6) | 3.6/4.2 → 3 (1–7) | 1/2.5 → 2 (0–4) | 23 (12–35) |
 | Jaime Jaquez Jr. | – | 27.2 (3) → 27.1 (19.4) | 15.8/15.4 → 14 (6–23) | 4.6/5.4 → 4 (2–8) | 3.8/3.1 → 4 (1–7) | 2.4/1.9 → 1 (0–3) | 22 (11–35) |
-| Kyle Kuzma | – | 26.6 (3.8) → 27.1 (19.4) | 13.6/12.3 → 14 (6–23) | 4.2/5.3 → 4 (2–8) | 1.8/2.4 → 2 (0–4) | 1.6/1.7 → 1 (0–3) | 21 (10–33) |
-| Myles Turner | – | 25.2 (4.6) → 25.7 (18) | 6.4/7.1 → 9 (3–15) | 6.2/5.9 → 5 (2–10) | 3.4/2.7 → 2 (0–4) | 1.2/1.3 → 1 (0–3) | 17 (7–27) |
+| Kyle Kuzma | Out | 26.6 (3.8) | 13.6/12.3 | 4.2/5.3 | 1.8/2.4 | 1.6/1.7 | – |
+| Myles Turner | Out | 25.2 (4.6) | 6.4/7.1 | 6.2/5.9 | 3.4/2.7 | 1.2/1.3 | – |
 | Brayden Burries | – | 24.4 (5.1) → 24.8 (17.1) | 9.4/10.1 → 10 (4–18) | 5.4/5.5 → 5 (2–9) | 2.4/2.3 → 2 (0–5) | 1.6/1.1 → 1 (0–3) | 18 (8–29) |
-| Ryan Rollins | Day-To-Day | 22.2 (5.4) → 24.5 (16.8) | 9.4/10.5 → 11 (4–19) | 5.6/5.1 → 5 (2–8) | 3/3.9 → 4 (1–7) | 1.8/1.6 → 2 (0–4) | 20 (9–32) |
+| Ryan Rollins | – | 22.2 (5.4) → 24.5 (16.8) | 9.4/10.5 → 11 (4–19) | 5.6/5.1 → 5 (2–8) | 3/3.9 → 4 (1–7) | 1.8/1.6 → 2 (0–4) | 20 (9–32) |
 | Nate Ament | – | 20 (4.3) → 18.7 (11) | 6.6/7.3 → 7 (1–13) | 3/2.7 → 3 (1–6) | 1/0.6 → 1 (0–3) | 1/1 → 1 (0–2) | 11 (4–20) |
 | Kel'el Ware | – | 19.8 (4.7) → 18.9 (11.2) | 9/8.7 → 9 (2–16) | 5.8/6.5 → 6 (3–12) | 1.2/0.9 → 1 (0–2) | 0.8/0.7 → 1 (0–2) | 16 (6–28) |
 | Kasparas Jakucionis | – | 17.2 (7.7) → 18.5 (8.7) | 12.2/8.9 → 8 (2–17) | 2.4/2.5 → 2 (0–5) | 2.8/3.4 → 3 (0–6) | 1.8/1 → 1 (0–3) | 14 (4–26) |
