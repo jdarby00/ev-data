@@ -11,9 +11,28 @@
    "event_id": "20fa5e2d73cec494c113790161a89aec",
    "home": "Spurs",
    "issues": [
-    "2026-11-19T19:25:39Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-19T19:25:39Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-19T21:52:42Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "player_points_rebounds_assists",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|golden state warriors@memphis grizzlies|player_points_alternate": {
+   "api_away": "Golden State Warriors",
+   "api_home": "Memphis Grizzlies",
+   "away": "Golden State Warriors",
+   "close": false,
+   "commence_time": "2026-11-20T01:10:00Z",
+   "event_id": "3c082b72aa002131c276ff5e24bada1b",
+   "home": "Memphis Grizzlies",
+   "issues": [
+    "2026-11-19T21:52:42Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "player_points_alternate",
    "players": [],
    "requested_rev": 1,
    "slate": false,
@@ -29,7 +48,8 @@
    "event_id": "006df00e5e48650d849d1bb4cd81565d",
    "home": "Bucks",
    "issues": [
-    "2026-11-19T19:25:39Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-19T19:25:39Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-19T21:52:42Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "player_assists",
    "players": [],
@@ -10029,11 +10049,45 @@
     }
    ],
    "sport": "basketball_nba"
+  },
+  "basketball_ncaab|slate|h2h": {
+   "away": "*",
+   "close": false,
+   "commence_time": "2026-11-20T04:00:00Z",
+   "event_id": "slate",
+   "games": 28,
+   "home": "*",
+   "issues": [
+    "2026-11-19T21:52:42Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "h2h",
+   "players": [],
+   "requested_rev": 1,
+   "slate": true,
+   "snapshots": [],
+   "sport": "basketball_ncaab"
+  },
+  "basketball_ncaab|slate|spreads": {
+   "away": "*",
+   "close": false,
+   "commence_time": "2026-11-20T04:00:00Z",
+   "event_id": "slate",
+   "games": 28,
+   "home": "*",
+   "issues": [
+    "2026-11-19T21:52:42Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "spreads",
+   "players": [],
+   "requested_rev": 1,
+   "slate": true,
+   "snapshots": [],
+   "sport": "basketball_ncaab"
   }
  },
  "issues": [],
  "spent_month": 420,
  "spent_today": 6,
  "stop": null,
- "updated": "2026-11-19T19:25:39Z"
+ "updated": "2026-11-19T21:52:42Z"
 }
