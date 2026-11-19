@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "updated_et": "2026-11-18 20:11",
+ "updated_et": "2026-11-18 21:37",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,7 +11,7 @@
    "home": "CLE",
    "away_name": "Memphis Grizzlies",
    "home_name": "Cleveland Cavaliers",
-   "state": "in",
+   "state": "post",
    "spread_text": "CLE -4.5",
    "spread": -4.5,
    "total": 238.5,
@@ -25,7 +25,7 @@
    "home": "IND",
    "away_name": "Houston Rockets",
    "home_name": "Indiana Pacers",
-   "state": "in",
+   "state": "post",
    "spread_text": "HOU -8.5",
    "spread": 8.5,
    "total": 225.5,
@@ -53,7 +53,7 @@
    "home": "ORL",
    "away_name": "Philadelphia 76ers",
    "home_name": "Orlando Magic",
-   "state": "in",
+   "state": "post",
    "spread_text": "PHI -1.5",
    "spread": 1.5,
    "total": 221.5,
@@ -95,7 +95,7 @@
    "home": "DAL",
    "away_name": "Golden State Warriors",
    "home_name": "Dallas Mavericks",
-   "state": "pre",
+   "state": "in",
    "spread_text": "DAL -4.5",
    "spread": -4.5,
    "total": 223.5,
@@ -140,7 +140,7 @@
    "state": "pre",
    "spread_text": "BOS -2.5",
    "spread": 2.5,
-   "total": 219.5,
+   "total": 218.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -154,7 +154,7 @@
    "state": "pre",
    "spread_text": "LAL -11.5",
    "spread": -11.5,
-   "total": 230.5,
+   "total": 229.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -168,7 +168,7 @@
    "state": "pre",
    "spread_text": "PHX -7.5",
    "spread": 7.5,
-   "total": 227.5,
+   "total": 226.5,
    "odds_source": "DraftKings",
    "season_type": 2
   }
@@ -388,9 +388,9 @@
    {
     "player": "Alperen Sengun",
     "status": "Day-To-Day",
-    "detail": "Sengun exited Wednesday's game against the Pacers for the locker room due to an apparent facial injury, Will Guillory of The Athletic reports.",
+    "detail": "Sengun (eye) will not return to Wednesday's game against the Pacers, Will Guillory of The Athletic reports.",
     "type": "day-to-day",
-    "updated": "2026-11-19T00:54Z"
+    "updated": "2026-11-19T01:27Z"
    },
    {
     "player": "Clint Capela",
@@ -434,9 +434,9 @@
    {
     "player": "Austin Reaves",
     "status": "Out",
-    "detail": "Reaves (heel) is out for Wednesday's game against the Jazz.",
+    "detail": "Head coach JJ Redick said Reaves' (heel) pregame workout went \"well,\" but he remains without an official timetable to return, Daniel Starkand of LakersNation.com reports.",
     "type": "out",
-    "updated": "2026-11-18T21:03Z"
+    "updated": "2026-11-19T01:38Z"
    }
   ],
   "Memphis Grizzlies": [
@@ -669,6 +669,13 @@
   ],
   "Toronto Raptors": [
    {
+    "player": "Collin Murray-Boyles",
+    "status": "Day-To-Day",
+    "detail": "Murray-Boyles will not return to Wednesday's game against the Wizards due to an illness, Blake Murphy of Sportsnet.ca reports.",
+    "type": "day-to-day",
+    "updated": "2026-11-19T01:34Z"
+   },
+   {
     "player": "RJ Barrett",
     "status": "Out",
     "detail": "Barrett (hamstring) is out for Wednesday's game against the Wizards, Michael Grange of Sportsnet.ca reports.",
@@ -698,13 +705,6 @@
    }
   ],
   "Utah Jazz": [
-   {
-    "player": "Jaxson Hayes",
-    "status": "Day-To-Day",
-    "detail": "Hayes (knee) is questionable for Wednesday's game against the Lakers.",
-    "type": "day-to-day",
-    "updated": "2026-11-18T21:05Z"
-   },
    {
     "player": "Lauri Markkanen",
     "status": "Out",
@@ -1052,6 +1052,20 @@
    "player": "RJ Barrett",
    "from": "Day-To-Day",
    "to": "Out"
+  },
+  {
+   "at_et": "2026-11-18 21:37",
+   "team": "Toronto Raptors",
+   "player": "Collin Murray-Boyles",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-18 21:37",
+   "team": "Utah Jazz",
+   "player": "Jaxson Hayes",
+   "from": "Day-To-Day",
+   "to": "removed from report"
   }
  ]
 }

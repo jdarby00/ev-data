@@ -1,13 +1,11 @@
 # NBA board, 2026-11-18
 
-Slate updated 2026-11-18 20:11 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-18 21:37 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 20:11 Dallas Mavericks: Tobi Lawal Day-To-Day → Out
-- 20:11 Dallas Mavericks: Walter Clayton Jr. Day-To-Day → removed from report
 - 20:11 Dallas Mavericks: Max Christie Day-To-Day → removed from report
 - 20:11 Dallas Mavericks: Santi Aldama Day-To-Day → removed from report
 - 20:11 Detroit Pistons: Cade Cunningham Day-To-Day → Out
@@ -21,6 +19,8 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 20:11 Philadelphia 76ers: Tyrese Maxey not listed → Out
 - 20:11 Philadelphia 76ers: Dean Wade Day-To-Day → Out
 - 20:11 Toronto Raptors: RJ Barrett Day-To-Day → Out
+- 21:37 Toronto Raptors: Collin Murray-Boyles not listed → Day-To-Day
+- 21:37 Utah Jazz: Jaxson Hayes Day-To-Day → removed from report
 
 ## MEM @ CLE, 19:00 ET
 Line: CLE -4.5, total 238.5 (DraftKings).
@@ -259,7 +259,7 @@ Line: TOR -4.5, total 225.5 (DraftKings).
 | Scottie Barnes | Out | 35.2 (4.1) | 23.6/23.8 | 8/7.4 | 5/4.7 | 1.2/0.9 | – |
 | Ja'Kobe Walter | – | 34 (2.7) → 31.6 (23.9) | 13.4/11.8 → 12 (5–20) | 3.4/3.8 → 3 (1–6) | 0.8/1.9 → 1 (0–3) | 3.2/2.5 → 2 (1–5) | 17 (8–27) |
 | Immanuel Quickley | – | 32 (4) → 32.7 (25) | 16.2/17.2 → 17 (8–26) | 3.2/3.6 → 4 (1–7) | 6/5.8 → 6 (3–10) | 2.2/2.5 → 2 (0–5) | 26 (15–39) |
-| Collin Murray-Boyles | – | 31.8 (7.4) → 28.8 (19.2) | 10.4/9.9 → 10 (3–18) | 5/4.8 → 5 (2–9) | 2.8/1.8 → 2 (0–5) | 0.4/0.5 → 0 (0–1) | 18 (8–29) |
+| Collin Murray-Boyles | Day-To-Day | 31.8 (7.4) → 28.8 (19.2) | 10.4/9.9 → 10 (3–18) | 5/4.8 → 5 (2–9) | 2.8/1.8 → 2 (0–5) | 0.4/0.5 → 0 (0–1) | 18 (8–29) |
 | Kawhi Leonard | Out | 26 (2) | 19.5/19.5 | 7.5/7.5 | 1.5/1.5 | 2/2 | – |
 | Jamal Shead | – | 25.2 (5.5) → 24 (16.3) | 10.8/7.7 → 8 (2–14) | 1.6/1.9 → 2 (0–4) | 6.4/6.5 → 6 (2–10) | 1.8/1 → 1 (0–3) | 16 (7–26) |
 | Jakob Poeltl | – | 24.6 (6.9) → 22.9 (14) | 9.4/8.1 → 9 (3–16) | 6.6/6.5 → 6 (2–11) | 1.6/1.3 → 1 (0–4) | 0/0 → 0 (0–0) | 17 (7–29) |
@@ -394,7 +394,7 @@ Line: OKC -6.5, total 228.5 (DraftKings).
 | Jaylin Williams | – | 19.4 (6.7) → 19.8 (11) | 2.4/2.9 → 5 (1–10) | 3.6/4.1 → 5 (1–9) | 1.4/1.6 → 2 (0–4) | 0.6/0.7 → 1 (0–3) | 12 (4–21) |
 
 ## BOS @ DEN, 21:30 ET
-Line: BOS -2.5, total 219.5 (DraftKings).
+Line: BOS -2.5, total 218.5 (DraftKings).
 **BOS** (1 rest day). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -426,7 +426,7 @@ Line: BOS -2.5, total 219.5 (DraftKings).
 | Julian Strawther | Out | none this season; last season 15.1 min, 7.2 pts | | | | |
 
 ## UTAH @ LAL, 22:00 ET
-Line: LAL -11.5, total 230.5 (DraftKings).
+Line: LAL -11.5, total 229.5 (DraftKings).
 **UTAH** (back-to-back). Out: Lauri Markkanen, Jaren Jackson Jr.. Freed minutes: 56.9. Out all season so far (already in the lines): Jusuf Nurkic.
 - Without Lauri Markkanen: Brice Sensabaugh min +9, pts +7.8, reb +2.1, ast +0.9 (n=7 vs 8)
 - Without Jaren Jackson Jr.: Josh Okogie min +8.4, pts +5.2, reb +2, ast +0.7 (n=11 vs 3)
@@ -442,7 +442,7 @@ Line: LAL -11.5, total 230.5 (DraftKings).
 | Jaren Jackson Jr. | Out | 26 (9.5) | 16.2/16.2 | 5/5 | 2/2 | 1.2/1.2 | – |
 | Brice Sensabaugh | – | 25.8 (8.2) → 23.5 (13.2) | 17/10.5 → 15 (6–26) | 5.6/3.7 → 4 (1–8) | 2.6/1.5 → 2 (0–4) | 2.6/1.8 → 2 (0–5) | 21 (9–35) |
 | Mo Bamba | – | 24.4 (7.2) → 22.4 (13.1) | 12.4/9.8 → 8 (2–15) | 6.4/6.2 → 8 (4–14) | 1.8/1.2 → 1 (0–3) | 1.4/0.6 → 0 (0–2) | 17 (7–30) |
-| Jaxson Hayes | Day-To-Day | 23.4 (6.8) → 22.1 (13.2) | 11/8.8 → 9 (3–17) | 5.4/6 → 5 (2–9) | 1.2/1.6 → 1 (0–3) | 0/0 → 0 (0–0) | 15 (6–26) |
+| Jaxson Hayes | – | 23.4 (6.8) → 22.1 (13.2) | 11/8.8 → 9 (3–17) | 5.4/6 → 5 (2–9) | 1.2/1.6 → 1 (0–3) | 0/0 → 0 (0–0) | 15 (6–26) |
 | Josh Okogie | – | 21.4 (4.2) → 21 (13.3) | 7.2/4.8 → 6 (1–11) | 3.4/3.3 → 3 (1–6) | 1.8/1.2 → 1 (0–3) | 1.2/0.8 → 1 (0–2) | 10 (3–18) |
 | Svi Mykhailiuk | – | 20.4 (7.3) → 19.6 (10.2) | 4.8/3.8 → 6 (1–12) | 2.4/1.9 → 2 (0–5) | 2.6/1.4 → 2 (0–4) | 1.2/0.8 → 1 (0–3) | 10 (3–19) |
 | Josh Green | – | 19.6 (8.2) → 18.3 (7.9) | 4.4/4.1 → 5 (0–10) | 1.8/1.5 → 1 (0–4) | 1.2/0.9 → 1 (0–2) | 0.8/0.7 → 1 (0–3) | 7 (1–15) |
@@ -467,7 +467,7 @@ Line: LAL -11.5, total 230.5 (DraftKings).
 | Jarred Vanderbilt | – | 12.4 (4) → 12.5 (4.8) | 3.2/2.2 → 3 (0–7) | 5.2/4.1 → 3 (1–7) | 0.8/1 → 1 (0–2) | 0/0 → 0 (0–1) | 7 (1–15) |
 
 ## PHX @ SAC, 22:00 ET
-Line: PHX -7.5, total 227.5 (DraftKings).
+Line: PHX -7.5, total 226.5 (DraftKings).
 **PHX** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Mark Williams.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
