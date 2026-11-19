@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "updated_et": "2026-11-18 17:42",
+ "updated_et": "2026-11-18 20:11",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,7 +11,7 @@
    "home": "CLE",
    "away_name": "Memphis Grizzlies",
    "home_name": "Cleveland Cavaliers",
-   "state": "pre",
+   "state": "in",
    "spread_text": "CLE -4.5",
    "spread": -4.5,
    "total": 238.5,
@@ -25,7 +25,7 @@
    "home": "IND",
    "away_name": "Houston Rockets",
    "home_name": "Indiana Pacers",
-   "state": "pre",
+   "state": "in",
    "spread_text": "HOU -8.5",
    "spread": 8.5,
    "total": 225.5,
@@ -39,7 +39,7 @@
    "home": "MIA",
    "away_name": "Milwaukee Bucks",
    "home_name": "Miami Heat",
-   "state": "pre",
+   "state": "in",
    "spread_text": "MIA -12.5",
    "spread": -12.5,
    "total": 235.5,
@@ -53,7 +53,7 @@
    "home": "ORL",
    "away_name": "Philadelphia 76ers",
    "home_name": "Orlando Magic",
-   "state": "pre",
+   "state": "in",
    "spread_text": "PHI -1.5",
    "spread": 1.5,
    "total": 221.5,
@@ -67,7 +67,7 @@
    "home": "BKN",
    "away_name": "Chicago Bulls",
    "home_name": "Brooklyn Nets",
-   "state": "pre",
+   "state": "in",
    "spread_text": "BKN -1.5",
    "spread": -1.5,
    "total": 239.5,
@@ -81,7 +81,7 @@
    "home": "TOR",
    "away_name": "Washington Wizards",
    "home_name": "Toronto Raptors",
-   "state": "pre",
+   "state": "in",
    "spread_text": "TOR -4.5",
    "spread": -4.5,
    "total": 225.5,
@@ -98,7 +98,7 @@
    "state": "pre",
    "spread_text": "DAL -4.5",
    "spread": -4.5,
-   "total": 225.5,
+   "total": 223.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -109,7 +109,7 @@
    "home": "NO",
    "away_name": "Detroit Pistons",
    "home_name": "New Orleans Pelicans",
-   "state": "pre",
+   "state": "in",
    "spread_text": "DET -4.5",
    "spread": 4.5,
    "total": 226.5,
@@ -123,7 +123,7 @@
    "home": "OKC",
    "away_name": "Atlanta Hawks",
    "home_name": "Oklahoma City Thunder",
-   "state": "pre",
+   "state": "in",
    "spread_text": "OKC -6.5",
    "spread": -6.5,
    "total": 228.5,
@@ -140,7 +140,7 @@
    "state": "pre",
    "spread_text": "BOS -2.5",
    "spread": 2.5,
-   "total": 218.5,
+   "total": 219.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -152,9 +152,9 @@
    "away_name": "Utah Jazz",
    "home_name": "Los Angeles Lakers",
    "state": "pre",
-   "spread_text": "LAL -12.5",
-   "spread": -12.5,
-   "total": 231.5,
+   "spread_text": "LAL -11.5",
+   "spread": -11.5,
+   "total": 230.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -166,9 +166,9 @@
    "away_name": "Phoenix Suns",
    "home_name": "Sacramento Kings",
    "state": "pre",
-   "spread_text": "PHX -6.5",
-   "spread": 6.5,
-   "total": 226.5,
+   "spread_text": "PHX -7.5",
+   "spread": 7.5,
+   "total": 227.5,
    "odds_source": "DraftKings",
    "season_type": 2
   }
@@ -220,13 +220,6 @@
   ],
   "Chicago Bulls": [
    {
-    "player": "Patrick Williams",
-    "status": "Day-To-Day",
-    "detail": "Williams (finger) is listed as probable for Wednesday's game against Brooklyn.",
-    "type": "day-to-day",
-    "updated": "2026-11-17T21:04Z"
-   },
-   {
     "player": "Tobe Awaka",
     "status": "Out",
     "detail": "Awaka (back) has been ruled out for Wednesday's game against the Nets.",
@@ -244,10 +237,10 @@
   "Cleveland Cavaliers": [
    {
     "player": "Peyton Watson",
-    "status": "Day-To-Day",
-    "detail": "Watson (back) is doubtful for Wednesday's game versus Memphis.",
-    "type": "day-to-day",
-    "updated": "2026-11-18T18:24Z"
+    "status": "Out",
+    "detail": "Watson (back) is out for Wednesday's game versus Memphis.",
+    "type": "out",
+    "updated": "2026-11-18T23:17Z"
    },
    {
     "player": "Jaylon Tyson",
@@ -264,13 +257,6 @@
     "updated": "2026-11-17T22:18Z"
    },
    {
-    "player": "Sam Merrill",
-    "status": "Out",
-    "detail": "Merrill (elbow) is questionable to face the Grizzlies on Wednesday.",
-    "type": "out",
-    "updated": "2026-11-17T22:15Z"
-   },
-   {
     "player": "Evan Mobley",
     "status": "Out",
     "detail": "Mobley will receive treatment and participate in rehab after the team confirmed a diagnosis of a right great toe sprain, and he'll be re-evaluated in the next 7-to-10 days.",
@@ -280,18 +266,18 @@
   ],
   "Dallas Mavericks": [
    {
+    "player": "Tobi Lawal",
+    "status": "Out",
+    "detail": "Lawal is out for Wednesday's game against the Warriors due to tightness in his right groin.",
+    "type": "out",
+    "updated": "2026-11-18T23:59Z"
+   },
+   {
     "player": "Sergio de Larrea",
     "status": "Out",
     "detail": "De Larrea (knee) is listed as out for Wednesday's game against the Warriors.",
     "type": "out",
     "updated": "2026-11-17T22:53Z"
-   },
-   {
-    "player": "Walter Clayton Jr.",
-    "status": "Day-To-Day",
-    "detail": "Clayton (ankle) is listed as probable for Wednesday's game against the Warriors.",
-    "type": "day-to-day",
-    "updated": "2026-11-17T22:47Z"
    },
    {
     "player": "Dereck Lively II",
@@ -301,32 +287,11 @@
     "updated": "2026-11-17T22:45Z"
    },
    {
-    "player": "Tobi Lawal",
-    "status": "Day-To-Day",
-    "detail": "Lawal is doubtful for Wednesday's game against the Warriors due to tightness in his right groin.",
-    "type": "day-to-day",
-    "updated": "2026-11-17T22:45Z"
-   },
-   {
     "player": "Tarik Biberovic",
     "status": "Out",
     "detail": "Biberovic (heel) is out for Wednesday's game against the Warriors.",
     "type": "out",
     "updated": "2026-11-17T22:42Z"
-   },
-   {
-    "player": "Max Christie",
-    "status": "Day-To-Day",
-    "detail": "Christie (ankle) is questionable for Wednesday's game against the Warriors.",
-    "type": "day-to-day",
-    "updated": "2026-11-17T22:38Z"
-   },
-   {
-    "player": "Santi Aldama",
-    "status": "Day-To-Day",
-    "detail": "Aldama (ankle) is probable for Wednesday's game against the Warriors.",
-    "type": "day-to-day",
-    "updated": "2026-11-17T22:36Z"
    }
   ],
   "Denver Nuggets": [
@@ -341,17 +306,10 @@
   "Detroit Pistons": [
    {
     "player": "Cade Cunningham",
-    "status": "Day-To-Day",
-    "detail": "Cunningham is questionable for Wednesday's game against the Pelicans due to right knee soreness",
-    "type": "day-to-day",
-    "updated": "2026-11-18T19:09Z"
-   },
-   {
-    "player": "Isaiah Joe",
     "status": "Out",
-    "detail": "Joe (hip) is listed as questionable for Wednesday's game against the Pelicans.",
+    "detail": "Cunningham (knee) won't play in Wednesday's game against New Orleans.",
     "type": "out",
-    "updated": "2026-11-18T19:08Z"
+    "updated": "2026-11-19T00:37Z"
    },
    {
     "player": "Taurean Prince",
@@ -384,25 +342,18 @@
   ],
   "Golden State Warriors": [
    {
+    "player": "Al Horford",
+    "status": "Out",
+    "detail": "Horford (back) is out for Wednesday's game against the Mavericks, but will play Thursday against the Grizzlies, Nick Friedell of The Athletic reports.",
+    "type": "out",
+    "updated": "2026-11-18T23:38Z"
+   },
+   {
     "player": "Brandon Williams",
     "status": "Out",
     "detail": "Williams (hamstring) has progressed to on-court activities and will be re-evaluated Saturday.",
     "type": "out",
     "updated": "2026-11-18T17:12Z"
-   },
-   {
-    "player": "Draymond Green",
-    "status": "Day-To-Day",
-    "detail": "Green is questionable for Wednesday's game in Dallas due to inflammation in his right elbow.",
-    "type": "day-to-day",
-    "updated": "2026-11-18T05:49Z"
-   },
-   {
-    "player": "Al Horford",
-    "status": "Day-To-Day",
-    "detail": "Horford (back) is questionable for Wednesday's game against Dallas.",
-    "type": "day-to-day",
-    "updated": "2026-11-17T22:21Z"
    },
    {
     "player": "Stephen Curry",
@@ -435,18 +386,18 @@
   ],
   "Houston Rockets": [
    {
+    "player": "Alperen Sengun",
+    "status": "Day-To-Day",
+    "detail": "Sengun exited Wednesday's game against the Pacers for the locker room due to an apparent facial injury, Will Guillory of The Athletic reports.",
+    "type": "day-to-day",
+    "updated": "2026-11-19T00:54Z"
+   },
+   {
     "player": "Clint Capela",
     "status": "Out",
     "detail": "Capela (ankle) has been ruled out for Wednesday's game against Indiana.",
     "type": "out",
     "updated": "2026-11-17T20:58Z"
-   },
-   {
-    "player": "Amen Thompson",
-    "status": "Day-To-Day",
-    "detail": "Thompson (knee) is questionable for Wednesday's game against the Pacers.",
-    "type": "day-to-day",
-    "updated": "2026-11-17T20:49Z"
    }
   ],
   "Indiana Pacers": [
@@ -456,13 +407,6 @@
     "detail": "Nembhard (hip) won't play in Wednesday's game against the Rockets, Tony East of Forbes.com reports.",
     "type": "out",
     "updated": "2026-11-18T22:27Z"
-   },
-   {
-    "player": "T.J. McConnell",
-    "status": "Day-To-Day",
-    "detail": "McConnell (hamstring) is probable to play Wednesday against the Rockets.",
-    "type": "day-to-day",
-    "updated": "2026-11-17T22:24Z"
    },
    {
     "player": "Tyrese Haliburton",
@@ -603,13 +547,6 @@
     "updated": "2026-11-18T00:01Z"
    },
    {
-    "player": "Jaylin Williams",
-    "status": "Out",
-    "detail": "Williams (back) is listed as questionable for Wednesday's game against the Hawks, Clemente Almanza of USA Today reports.",
-    "type": "out",
-    "updated": "2026-11-17T23:08Z"
-   },
-   {
     "player": "Cason Wallace",
     "status": "Out",
     "detail": "Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be re-evaluated before the end of the regular season, Clemente Almanza of USA Today reports.",
@@ -663,18 +600,25 @@
   ],
   "Philadelphia 76ers": [
    {
+    "player": "Tyrese Maxey",
+    "status": "Out",
+    "detail": "Maxey (foot) is out for Wednesday's game in Orlando, Ky Carlin of USA Today reports.",
+    "type": "out",
+    "updated": "2026-11-18T23:33Z"
+   },
+   {
+    "player": "Dean Wade",
+    "status": "Out",
+    "detail": "Wade (hamstring) is out for Wednesday's game in Orlando.",
+    "type": "out",
+    "updated": "2026-11-18T23:19Z"
+   },
+   {
     "player": "Jaylen Brown",
     "status": "Out",
     "detail": "Brown (hamstring) will be re-evaluated at some point this weekend, per Kris Rihm of ESPN.com.",
     "type": "out",
     "updated": "2026-11-18T22:21Z"
-   },
-   {
-    "player": "Dean Wade",
-    "status": "Day-To-Day",
-    "detail": "Wade (hamstring) has been downgraded to questionable for Wednesday's game against the Magic.",
-    "type": "day-to-day",
-    "updated": "2026-11-18T18:06Z"
    },
    {
     "player": "Dominick Barlow",
@@ -726,10 +670,10 @@
   "Toronto Raptors": [
    {
     "player": "RJ Barrett",
-    "status": "Day-To-Day",
-    "detail": "Barrett is questionable for Wednesday's game against the Wizards due to hamstring tightness, Esfandiar Baraheni of The Athletic reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-18T17:49Z"
+    "status": "Out",
+    "detail": "Barrett (hamstring) is out for Wednesday's game against the Wizards, Michael Grange of Sportsnet.ca reports.",
+    "type": "out",
+    "updated": "2026-11-18T22:55Z"
    },
    {
     "player": "Scottie Barnes",
@@ -982,6 +926,132 @@
    "player": "Precious Achiuwa",
    "from": "Day-To-Day",
    "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-18 20:11",
+   "team": "Chicago Bulls",
+   "player": "Patrick Williams",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-18 20:11",
+   "team": "Cleveland Cavaliers",
+   "player": "Peyton Watson",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-18 20:11",
+   "team": "Cleveland Cavaliers",
+   "player": "Sam Merrill",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-18 20:11",
+   "team": "Dallas Mavericks",
+   "player": "Tobi Lawal",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-18 20:11",
+   "team": "Dallas Mavericks",
+   "player": "Walter Clayton Jr.",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-18 20:11",
+   "team": "Dallas Mavericks",
+   "player": "Max Christie",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-18 20:11",
+   "team": "Dallas Mavericks",
+   "player": "Santi Aldama",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-18 20:11",
+   "team": "Detroit Pistons",
+   "player": "Cade Cunningham",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-18 20:11",
+   "team": "Detroit Pistons",
+   "player": "Isaiah Joe",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-18 20:11",
+   "team": "Golden State Warriors",
+   "player": "Al Horford",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-18 20:11",
+   "team": "Golden State Warriors",
+   "player": "Draymond Green",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-18 20:11",
+   "team": "Houston Rockets",
+   "player": "Alperen Sengun",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-18 20:11",
+   "team": "Houston Rockets",
+   "player": "Amen Thompson",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-18 20:11",
+   "team": "Indiana Pacers",
+   "player": "T.J. McConnell",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-18 20:11",
+   "team": "Oklahoma City Thunder",
+   "player": "Jaylin Williams",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-18 20:11",
+   "team": "Philadelphia 76ers",
+   "player": "Tyrese Maxey",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-18 20:11",
+   "team": "Philadelphia 76ers",
+   "player": "Dean Wade",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-18 20:11",
+   "team": "Toronto Raptors",
+   "player": "RJ Barrett",
+   "from": "Day-To-Day",
+   "to": "Out"
   }
  ]
 }
