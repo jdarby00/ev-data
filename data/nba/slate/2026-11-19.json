@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "updated_et": "2026-11-19 05:20",
+ "updated_et": "2026-11-19 13:59",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -12,8 +12,8 @@
    "away_name": "Golden State Warriors",
    "home_name": "Memphis Grizzlies",
    "state": "pre",
-   "spread_text": "MEM -7.5",
-   "spread": -7.5,
+   "spread_text": "MEM -6.5",
+   "spread": -6.5,
    "total": 225.5,
    "odds_source": "Draft Kings",
    "season_type": 2
@@ -28,7 +28,7 @@
    "state": "pre",
    "spread_text": "POR -10.5",
    "spread": 10.5,
-   "total": 227.5,
+   "total": 230.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -42,7 +42,7 @@
    "state": "pre",
    "spread_text": "NY -1.5",
    "spread": 1.5,
-   "total": 215.5,
+   "total": 216.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -56,7 +56,7 @@
    "state": "pre",
    "spread_text": "SA -15.5",
    "spread": -15.5,
-   "total": 225.5,
+   "total": 224.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   }
@@ -64,11 +64,25 @@
  "injuries": {
   "Golden State Warriors": [
    {
+    "player": "LJ Cryer",
+    "status": "Day-To-Day",
+    "detail": "Cryer (back) is questionable for Thursday's game against Memphis.",
+    "type": "day-to-day",
+    "updated": "2026-11-19T18:46Z"
+   },
+   {
+    "player": "Draymond Green",
+    "status": "Day-To-Day",
+    "detail": "Green (elbow) is available for Wednesday's game against the Mavericks.",
+    "type": "day-to-day",
+    "updated": "2026-11-19T14:59Z"
+   },
+   {
     "player": "Al Horford",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Horford (back) is out for Wednesday's game against the Mavericks, but will play Thursday against the Grizzlies, Nick Friedell of The Athletic reports.",
-    "type": "out",
-    "updated": "2026-11-18T23:38Z"
+    "type": "day-to-day",
+    "updated": "2026-11-19T14:51Z"
    },
    {
     "player": "Brandon Williams",
@@ -131,18 +145,18 @@
   ],
   "Memphis Grizzlies": [
    {
+    "player": "Isaiah Stewart",
+    "status": "Day-To-Day",
+    "detail": "Stewart (illness) won't play Wednesday against the Cavs.",
+    "type": "day-to-day",
+    "updated": "2026-11-19T14:44Z"
+   },
+   {
     "player": "GG Jackson",
     "status": "Out",
     "detail": "Jackson underwent a procedure Wednesday to repair a broken fifth metatarsal in his left foot. He is expected to recover fully and will be re-evaluated in approximately three months.",
     "type": "out",
     "updated": "2026-11-17T23:18Z"
-   },
-   {
-    "player": "Isaiah Stewart",
-    "status": "Out",
-    "detail": "Stewart (illness) won't play Wednesday against the Cavs.",
-    "type": "out",
-    "updated": "2026-11-17T22:10Z"
    },
    {
     "player": "Ty Jerome",
@@ -169,10 +183,10 @@
   "Milwaukee Bucks": [
    {
     "player": "Ryan Rollins",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Rollins (illness) has been ruled out for Wednesday's game at Miami.",
-    "type": "out",
-    "updated": "2026-11-18T18:10Z"
+    "type": "day-to-day",
+    "updated": "2026-11-19T14:45Z"
    },
    {
     "player": "Ousmane Dieng",
@@ -183,13 +197,6 @@
    }
   ],
   "Minnesota Timberwolves": [
-   {
-    "player": "Zyon Pullin",
-    "status": "Day-To-Day",
-    "detail": "Pullin (quadriceps) is listed as questionable for Thursday's game against the Knicks.",
-    "type": "day-to-day",
-    "updated": "2026-11-18T23:11Z"
-   },
    {
     "player": "Jonathan Kuminga",
     "status": "Day-To-Day",
@@ -221,6 +228,13 @@
   ],
   "Portland Trail Blazers": [
    {
+    "player": "Chris Youngblood",
+    "status": "Out",
+    "detail": "Youngblood (heel) has been ruled out for Thursday's game against the Bucks.",
+    "type": "out",
+    "updated": "2026-11-19T15:06Z"
+   },
+   {
     "player": "Robert Williams III",
     "status": "Out",
     "detail": "Williams (rest) is listed as out for Thursday's game versus the Bucks.",
@@ -240,13 +254,6 @@
     "detail": "Camara is questionable to play Thursday against the Bucks due to general soreness.",
     "type": "day-to-day",
     "updated": "2026-11-18T22:53Z"
-   },
-   {
-    "player": "Chris Youngblood",
-    "status": "Out",
-    "detail": "Youngblood (heel) has been ruled out for Tuesday's game at Minnesota.",
-    "type": "out",
-    "updated": "2026-11-17T19:19Z"
    },
    {
     "player": "Vit Krejci",
@@ -274,9 +281,9 @@
    {
     "player": "Dylan Harper",
     "status": "Out",
-    "detail": "Harper (hip) won't play in Thursday's game against the Clippers, Jeff McDonald of the San Antonio Express-News reports.",
+    "detail": "Harper (hip) will undergo further testing Thursday, but his return date remains uncertain and he won't be available to face the Clippers, Jeff McDonald of the San Antonio Express-News reports.",
     "type": "out",
-    "updated": "2026-11-18T23:05Z"
+    "updated": "2026-11-19T17:40Z"
    },
    {
     "player": "Tobias Harris",
@@ -294,5 +301,48 @@
    }
   ]
  },
- "status_changes": []
+ "status_changes": [
+  {
+   "at_et": "2026-11-19 13:59",
+   "team": "Golden State Warriors",
+   "player": "LJ Cryer",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-19 13:59",
+   "team": "Golden State Warriors",
+   "player": "Draymond Green",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-19 13:59",
+   "team": "Golden State Warriors",
+   "player": "Al Horford",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-19 13:59",
+   "team": "Memphis Grizzlies",
+   "player": "Isaiah Stewart",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-19 13:59",
+   "team": "Milwaukee Bucks",
+   "player": "Ryan Rollins",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-19 13:59",
+   "team": "Minnesota Timberwolves",
+   "player": "Zyon Pullin",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  }
+ ]
 }

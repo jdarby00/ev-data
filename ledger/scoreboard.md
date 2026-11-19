@@ -1,12 +1,12 @@
 # Scoreboard
 
-Built Thu 19 Nov 2026, 5:20 AM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
+Built Thu 19 Nov 2026, 1:59 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
 
 ## Jake's real money
 
 | Contestant | Bets | W–L–P–V | Profit | ROI | Bankroll | Max drawdown | CLV (n, avg, beat close) | Pending |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| jake | 22 | 3–18–0–1 | $-67.75 | -49.4% | $-67.75 | $102.65 | – | 0 |
+| jake | 22 | 3–19–0–0 | $-74.43 | -51.7% | $-74.43 | $102.65 | – | 0 |
 
 ## Paper contestants at real prices (start $500, logged stake)
 
@@ -41,16 +41,16 @@ CLV is the expected value of the bet price against the de-vigged closing price (
 | a_every | 17 | 10–7–0–0 | $+4.78 | +5.6% | $504.78 | $15.00 | – | 0 |
 | blend_every | 19 | 11–8–0–0 | $+4.68 | +4.9% | $504.68 | $17.73 | – | 0 |
 | b_every | 19 | 11–8–0–0 | $+4.68 | +4.9% | $504.68 | $6.45 | – | 0 |
-| always_over | 37 | 10–9–0–18 | $-1.92 | -2.0% | $498.08 | $32.35 | – | 0 |
+| always_under | 38 | 17–15–0–6 | $-3.88 | -2.4% | $496.12 | $41.84 | – | 0 |
 | lower_bar | 1 | 0–1–0–0 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 0 |
 | leans | 1 | 0–1–0–0 | $-5.00 | -100.0% | $495.00 | $5.00 | – | 0 |
 | boosted_50 | 3 | 0–2–0–1 | $-10.00 | -100.0% | $490.00 | $10.00 | – | 1 |
 | boosted_20 | 2 | 0–2–0–0 | $-10.00 | -100.0% | $490.00 | $10.00 | 1, -10.2%, – | 0 |
-| chalk | 14 | 2–4–0–8 | $-14.61 | -48.7% | $485.39 | $15.00 | – | 1 |
+| chalk | 14 | 6–5–0–3 | $-14.77 | -26.9% | $485.23 | $15.00 | – | 1 |
 | boost_parlay_20 | 3 | 0–3–0–0 | $-15.00 | -100.0% | $485.00 | $15.00 | – | 0 |
-| always_under | 38 | 9–11–0–18 | $-16.88 | -16.9% | $483.12 | $41.84 | – | 0 |
 | boost_parlay_50 | 4 | 0–4–0–0 | $-20.00 | -100.0% | $480.00 | $20.00 | – | 0 |
-| card | 33 | 8–22–0–3 | $-57.25 | -38.2% | $442.75 | $62.55 | 3, -4.7%, 100% | 1 |
+| always_over | 37 | 14–17–0–6 | $-24.28 | -15.7% | $475.72 | $54.49 | – | 0 |
+| card | 33 | 9–24–0–0 | $-61.95 | -37.5% | $438.05 | $67.15 | 3, -4.7%, 100% | 1 |
 | r15_pra_under | 520 | 257–248–0–15 | $-97.12 | -3.8% | $402.88 | $113.47 | 168, -5.5%, 41% | 0 |
 | r15_combo_under | 1060 | 532–495–0–33 | $-123.01 | -2.4% | $376.99 | $334.85 | – | 0 |
 | r15_ast_under | 481 | 228–237–0–16 | $-181.94 | -7.8% | $318.06 | $233.59 | 10, -4.3%, 44% | 0 |
