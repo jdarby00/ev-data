@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "updated_et": "2026-11-20 16:15",
+ "updated_et": "2026-11-20 17:21",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -28,7 +28,7 @@
    "state": "pre",
    "spread_text": "ORL -6.5",
    "spread": 6.5,
-   "total": 223.5,
+   "total": 224.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -126,7 +126,7 @@
    "state": "pre",
    "spread_text": "LAL -14.5",
    "spread": -14.5,
-   "total": 228.5,
+   "total": 229.5,
    "odds_source": "DraftKings",
    "season_type": 2
   }
@@ -534,10 +534,10 @@
   "Sacramento Kings": [
    {
     "player": "Precious Achiuwa",
-    "status": "Day-To-Day",
-    "detail": "Achiuwa is doubtful for Friday's game against the Lakers due to a left lower leg bruise.",
-    "type": "day-to-day",
-    "updated": "2026-11-20T01:22Z"
+    "status": "Out",
+    "detail": "Achiuwa (lower leg) has been ruled out for Friday's game against the Lakers.",
+    "type": "out",
+    "updated": "2026-11-20T21:21Z"
    },
    {
     "player": "De'Andre Hunter",
@@ -672,6 +672,13 @@
    "team": "Oklahoma City Thunder",
    "player": "Nikola Topic",
    "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-20 17:21",
+   "team": "Sacramento Kings",
+   "player": "Precious Achiuwa",
+   "from": "Day-To-Day",
    "to": "Out"
   }
  ]

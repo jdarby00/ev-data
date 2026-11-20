@@ -1,6 +1,6 @@
 # NBA board, 2026-11-20
 
-Slate updated 2026-11-20 16:15 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-20 17:21 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -9,6 +9,7 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 13:37 Chicago Bulls: Jalen Smith not listed → Day-To-Day
 - 13:37 Detroit Pistons: Ronald Holland II Out → Day-To-Day
 - 13:37 Oklahoma City Thunder: Nikola Topic not listed → Out
+- 17:21 Sacramento Kings: Precious Achiuwa Day-To-Day → Out
 
 ## CHA @ ATL, 19:00 ET
 Line: ATL -7.5, total 218.5 (DraftKings).
@@ -53,7 +54,7 @@ Line: ATL -7.5, total 218.5 (DraftKings).
 | Zuby Ejiofor | – | 12.2 (5.5) → 11.7 (4) | 4.8/4.6 → 4 (0–9) | 3.4/3 → 2 (0–5) | 1/1 → 1 (0–2) | 0.6/0.7 → 0 (0–2) | 7 (1–16) |
 
 ## ORL @ BKN, 19:30 ET
-Line: ORL -6.5, total 223.5 (DraftKings).
+Line: ORL -6.5, total 224.5 (DraftKings).
 **ORL** (1 rest day). Out: Paolo Banchero. Freed minutes: 33.5. Out all season so far (already in the lines): Izaiyah Nelson, Jonathan Isaac, Noah Penda.
 - Without Paolo Banchero: Jase Richardson min +9.3, pts +2.3, reb +0.5, ast -0.7 (n=9 vs 2)
 - Without Paolo Banchero: Franz Wagner min +6.8, pts +5.1, reb +1.1, ast +4.1 (n=12 vs 2)
@@ -333,8 +334,12 @@ Line: DEN -1.5, total 226.5 (DraftKings).
 | Julian Strawther | Out | none this season; last season 15.1 min, 7.2 pts | | | | |
 
 ## SAC @ LAL, 22:00 ET
-Line: LAL -14.5, total 228.5 (DraftKings).
-**SAC** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Maxime Raynaud, Ben Simmons.
+Line: LAL -14.5, total 229.5 (DraftKings).
+**SAC** (1 rest day). Out: Precious Achiuwa. Freed minutes: 24.8. Out all season so far (already in the lines): Maxime Raynaud, Ben Simmons.
+- Without Precious Achiuwa: Malik Monk min +7.6, pts +2.7, reb +1.4, ast +3.2 (n=2 vs 11)
+- Without Precious Achiuwa: Keegan Murray min +4.1, pts +1.6, reb +0.8, ast +0.6 (n=2 vs 5)
+- Without Precious Achiuwa: Emanuel Sharp min -3.8, pts +1.7, reb -1.4, ast +0.3 (n=2 vs 12)
+- Without Precious Achiuwa: Darius Acuff Jr. min -3.1, pts -5.5, reb -1.8, ast -1.2 (n=2 vs 12)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -343,7 +348,7 @@ Line: LAL -14.5, total 228.5 (DraftKings).
 | Zach LaVine | – | 32.2 (5.2) → 30.8 (23.1) | 18/21.2 → 18 (9–28) | 3.8/3.4 → 3 (1–6) | 3/2.8 → 2 (1–5) | 2.6/2.8 → 2 (1–5) | 24 (13–36) |
 | Domantas Sabonis | – | 28.6 (5.3) → 28.8 (21.1) | 11.4/13.7 → 13 (5–21) | 10.4/13.2 → 11 (6–17) | 5.2/5.8 → 4 (2–8) | 0.4/0.2 → 0 (0–1) | 28 (16–42) |
 | Keegan Murray | – | 27.8 (5.9) → 27.3 (19.3) | 11/9.9 → 10 (4–18) | 3.6/3.4 → 4 (1–7) | 2/1.6 → 1 (0–3) | 1.2/0.9 → 1 (0–2) | 16 (7–26) |
-| Precious Achiuwa | Day-To-Day | 19.4 (10.8) → 21.2 (7.8) | 6.6/9.5 → 8 (1–16) | 4.8/5.8 → 5 (1–11) | 0.6/1 → 1 (0–3) | 0.6/0.3 → 0 (0–1) | 14 (3–27) |
+| Precious Achiuwa | Out | 19.4 (10.8) | 6.6/9.5 | 4.8/5.8 | 0.6/1 | 0.6/0.3 | – |
 | Leaky Black | – | 19.2 (8.9) → 21.8 (10.6) | 4.2/5.6 → 5 (0–11) | 3.4/3.3 → 3 (1–7) | 1.4/1.7 → 1 (0–3) | 1.4/1.7 → 1 (0–3) | 10 (2–19) |
 | Malik Monk | – | 18.2 (8.1) → 19.3 (9.1) | 7.8/8.2 → 10 (2–19) | 1.6/1.3 → 1 (0–3) | 3.6/3.8 → 3 (1–7) | 0.6/1.1 → 1 (0–3) | 14 (4–27) |
 | Dylan Cardwell | – | 18.2 (5.5) → 17.2 (9.5) | 5.4/5.7 → 5 (0–10) | 6.6/5.9 → 6 (2–11) | 1.8/1.7 → 1 (0–3) | 0/0 → 0 (0–0) | 12 (4–22) |
