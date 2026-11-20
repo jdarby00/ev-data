@@ -1,12 +1,12 @@
 # Scoreboard
 
-Built Thu 19 Nov 2026, 5:46 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
+Built Thu 19 Nov 2026, 8:15 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
 
 ## Jake's real money
 
 | Contestant | Bets | W–L–P–V | Profit | ROI | Bankroll | Max drawdown | CLV (n, avg, beat close) | Pending |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| jake | 22 | 3–19–0–0 | $-74.43 | -51.7% | $-74.43 | $102.65 | – | 0 |
+| jake | 22 | 3–19–0–0 | $-74.43 | -51.7% | $-74.43 | $102.65 | – | 3 |
 
 ## Paper contestants at real prices (start $500, logged stake)
 
@@ -51,10 +51,10 @@ CLV is the expected value of the bet price against the de-vigged closing price (
 | boost_parlay_50 | 4 | 0–4–0–0 | $-20.00 | -100.0% | $480.00 | $20.00 | – | 0 |
 | always_over | 37 | 14–17–0–6 | $-24.28 | -15.7% | $475.72 | $54.49 | – | 0 |
 | card | 33 | 9–24–0–0 | $-61.95 | -37.5% | $438.05 | $67.15 | 3, -4.7%, 100% | 9 |
-| r15_pra_under | 520 | 257–248–0–15 | $-97.12 | -3.8% | $402.88 | $113.47 | 168, -5.5%, 41% | 0 |
-| r15_combo_under | 1060 | 532–495–0–33 | $-123.01 | -2.4% | $376.99 | $334.85 | – | 0 |
-| r15_ast_under | 481 | 228–237–0–16 | $-181.94 | -7.8% | $318.06 | $233.59 | 10, -4.3%, 44% | 0 |
-| r16_avg_under | 2008 | 1004–955–0–49 | $-592.60 | -6.1% | $-92.60 | $670.87 | 233, -5.2%, 44% | 0 |
+| r15_pra_under | 520 | 257–248–0–15 | $-97.12 | -3.8% | $402.88 | $113.47 | 168, -5.5%, 41% | 43 |
+| r15_combo_under | 1060 | 532–495–0–33 | $-123.01 | -2.4% | $376.99 | $334.85 | – | 90 |
+| r15_ast_under | 481 | 228–237–0–16 | $-181.94 | -7.8% | $318.06 | $233.59 | 10, -4.3%, 44% | 43 |
+| r16_avg_under | 2008 | 1004–955–0–49 | $-592.60 | -6.1% | $-92.60 | $670.87 | 233, -5.2%, 44% | 197 |
 
 ## Calibration (real-price bets with a final win chance)
 
@@ -70,4 +70,4 @@ Brier score 0.257 (a coin flip is 0.250).
 ## Open items
 
 - a6ac9837fa5c: withdrawal after the start ignored
-- 15 pending (waiting for box scores or a manual settle).
+- 391 pending (waiting for box scores or a manual settle).

@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "updated_et": "2026-11-19 17:46",
+ "updated_et": "2026-11-19 20:15",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,7 +11,7 @@
    "home": "MEM",
    "away_name": "Golden State Warriors",
    "home_name": "Memphis Grizzlies",
-   "state": "pre",
+   "state": "in",
    "spread_text": "MEM -5.5",
    "spread": -5.5,
    "total": 225.5,
@@ -25,7 +25,7 @@
    "home": "MIL",
    "away_name": "Portland Trail Blazers",
    "home_name": "Milwaukee Bucks",
-   "state": "pre",
+   "state": "in",
    "spread_text": "POR -11.5",
    "spread": 11.5,
    "total": 230.5,
@@ -39,7 +39,7 @@
    "home": "MIN",
    "away_name": "New York Knicks",
    "home_name": "Minnesota Timberwolves",
-   "state": "pre",
+   "state": "in",
    "spread_text": "NY -1.5",
    "spread": 1.5,
    "total": 216.5,
@@ -53,7 +53,7 @@
    "home": "SA",
    "away_name": "LA Clippers",
    "home_name": "San Antonio Spurs",
-   "state": "pre",
+   "state": "in",
    "spread_text": "SA -15.5",
    "spread": -15.5,
    "total": 224.5,
@@ -69,13 +69,6 @@
     "detail": "Green (elbow) is out for Thursday's game against the Grizzlies.",
     "type": "out",
     "updated": "2026-11-19T18:51Z"
-   },
-   {
-    "player": "LJ Cryer",
-    "status": "Day-To-Day",
-    "detail": "Cryer (back) is questionable for Thursday's game against Memphis.",
-    "type": "day-to-day",
-    "updated": "2026-11-19T18:46Z"
    },
    {
     "player": "Brandon Williams",
@@ -138,13 +131,6 @@
   ],
   "Memphis Grizzlies": [
    {
-    "player": "Isaiah Stewart",
-    "status": "Day-To-Day",
-    "detail": "Stewart is questionable for Thursday's game against the Warriors due to an illness.",
-    "type": "day-to-day",
-    "updated": "2026-11-19T19:11Z"
-   },
-   {
     "player": "Zach Edey",
     "status": "Out",
     "detail": "Edey (hip) has been ruled out for Thursday's game against the Warriors.",
@@ -205,13 +191,6 @@
   ],
   "Minnesota Timberwolves": [
    {
-    "player": "Jonathan Kuminga",
-    "status": "Day-To-Day",
-    "detail": "Kuminga (shoulder) is questionable for Thursday's game against the Knicks, Charlie Walton of ZoneCoverage.com reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-18T23:04Z"
-   },
-   {
     "player": "Jaylen Clark",
     "status": "Out",
     "detail": "Clark (hamstring) has been ruled out for the next two weeks.",
@@ -235,6 +214,13 @@
   ],
   "Portland Trail Blazers": [
    {
+    "player": "Deni Avdija",
+    "status": "Out",
+    "detail": "Avdija (foot) is listed as out for Thursday's game against the Bucks.",
+    "type": "out",
+    "updated": "2026-11-20T00:21Z"
+   },
+   {
     "player": "Chris Youngblood",
     "status": "Out",
     "detail": "Youngblood (heel) has been ruled out for Thursday's game against the Bucks.",
@@ -247,20 +233,6 @@
     "detail": "Williams (rest) is listed as out for Thursday's game versus the Bucks.",
     "type": "out",
     "updated": "2026-11-18T22:58Z"
-   },
-   {
-    "player": "Deni Avdija",
-    "status": "Day-To-Day",
-    "detail": "Avdija (foot) is listed as questionable ahead of Thursday's game against Milwaukee.",
-    "type": "day-to-day",
-    "updated": "2026-11-18T22:54Z"
-   },
-   {
-    "player": "Toumani Camara",
-    "status": "Day-To-Day",
-    "detail": "Camara is questionable to play Thursday against the Bucks due to general soreness.",
-    "type": "day-to-day",
-    "updated": "2026-11-18T22:53Z"
    },
    {
     "player": "Vit Krejci",
@@ -390,6 +362,41 @@
    "at_et": "2026-11-19 14:45",
    "team": "Milwaukee Bucks",
    "player": "Ryan Rollins",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-19 20:15",
+   "team": "Golden State Warriors",
+   "player": "LJ Cryer",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-19 20:15",
+   "team": "Memphis Grizzlies",
+   "player": "Isaiah Stewart",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-19 20:15",
+   "team": "Minnesota Timberwolves",
+   "player": "Jonathan Kuminga",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-19 20:15",
+   "team": "Portland Trail Blazers",
+   "player": "Deni Avdija",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-19 20:15",
+   "team": "Portland Trail Blazers",
+   "player": "Toumani Camara",
    "from": "Day-To-Day",
    "to": "removed from report"
   }

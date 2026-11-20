@@ -1,13 +1,11 @@
 # NBA board, 2026-11-19
 
-Slate updated 2026-11-19 17:46 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-19 20:15 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 13:59 Golden State Warriors: LJ Cryer not listed → Day-To-Day
-- 13:59 Golden State Warriors: Draymond Green not listed → Day-To-Day
 - 13:59 Golden State Warriors: Al Horford Out → Day-To-Day
 - 13:59 Memphis Grizzlies: Isaiah Stewart Out → Day-To-Day
 - 13:59 Milwaukee Bucks: Ryan Rollins Out → Day-To-Day
@@ -18,6 +16,11 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 14:45 Milwaukee Bucks: Kyle Kuzma not listed → Out
 - 14:45 Milwaukee Bucks: Myles Turner not listed → Out
 - 14:45 Milwaukee Bucks: Ryan Rollins Day-To-Day → removed from report
+- 20:15 Golden State Warriors: LJ Cryer Day-To-Day → removed from report
+- 20:15 Memphis Grizzlies: Isaiah Stewart Day-To-Day → removed from report
+- 20:15 Minnesota Timberwolves: Jonathan Kuminga Day-To-Day → removed from report
+- 20:15 Portland Trail Blazers: Deni Avdija Day-To-Day → Out
+- 20:15 Portland Trail Blazers: Toumani Camara Day-To-Day → removed from report
 
 ## GS @ MEM, 20:00 ET
 Line: MEM -5.5, total 225.5 (DraftKings).
@@ -35,7 +38,7 @@ Line: MEM -5.5, total 225.5 (DraftKings).
 | Draymond Green | Out | 22.4 (5.9) | 3.6/3.2 | 4/4.7 | 4.6/6.5 | 0.4/0.3 | – |
 | Will Richard | – | 22.2 (5.9) → 22 (14.1) | 10.2/7 → 8 (2–15) | 2.6/2.1 → 2 (0–5) | 1.2/1.1 → 1 (0–3) | 1.2/1.1 → 1 (0–3) | 12 (4–21) |
 | De'Anthony Melton | – | 21.8 (4.2) → 21.3 (13.6) | 8.6/9.1 → 9 (3–16) | 3.2/3.9 → 3 (1–6) | 2.6/2.3 → 2 (0–5) | 2.2/2.1 → 1 (0–3) | 15 (6–25) |
-| LJ Cryer | Day-To-Day | 21 (9.3) → 16.4 (4.9) | 11.8/7 → 8 (0–17) | 0.8/0.5 → 1 (0–3) | 3/1.9 → 1 (0–4) | 3/1.8 → 2 (0–5) | 11 (1–22) |
+| LJ Cryer | – | 21 (9.3) → 16.4 (4.9) | 11.8/7 → 8 (0–17) | 0.8/0.5 → 1 (0–3) | 3/1.9 → 1 (0–4) | 3/1.8 → 2 (0–5) | 11 (1–22) |
 | Gui Santos | – | 18 (5.5) → 17.9 (10.2) | 5.6/6.2 → 7 (1–13) | 5.4/4.3 → 4 (1–7) | 2.8/1.8 → 2 (0–5) | 0.4/0.5 → 1 (0–2) | 13 (4–23) |
 | Charles Bassey | – | 17.8 (4.5) → 16.4 (8.7) | 8.8/7.8 → 8 (2–15) | 5.8/5.4 → 5 (2–10) | 0.6/0.5 → 0 (0–2) | 0/0 → 0 (0–0) | 14 (5–25) |
 | Brandon Williams | Out | 16.4 (6.5) | 9.8/10.4 | 1.2/2.1 | 2/2.3 | 0.4/0.7 | – |
@@ -58,12 +61,12 @@ Line: MEM -5.5, total 225.5 (DraftKings).
 | Javon Small | – | 22 (5.3) → 22.5 (14.8) | 9.2/9 → 10 (3–17) | 2.8/2.6 → 3 (1–6) | 6.2/5.4 → 5 (2–9) | 1.2/1.2 → 1 (0–3) | 18 (8–29) |
 | Zach Edey | Out | 21 (2) | 11.6/9.2 | 6.4/7.4 | 0.8/0.9 | 0/0.1 | – |
 | Taylor Hendricks | – | 19.8 (8.4) → 17.5 (7) | 13.2/8.5 → 8 (2–17) | 5.6/3.6 → 4 (1–8) | 1.8/0.9 → 1 (0–3) | 1/0.9 → 1 (0–2) | 13 (3–26) |
-| Isaiah Stewart | Day-To-Day | 18.2 (4.7) → 18.2 (10.5) | 9.2/10.9 → 9 (3–17) | 3/3.3 → 3 (1–7) | 1.4/0.9 → 1 (0–3) | 0.6/0.9 → 0 (0–2) | 14 (5–24) |
+| Isaiah Stewart | – | 18.2 (4.7) → 18.2 (10.5) | 9.2/10.9 → 9 (3–17) | 3/3.3 → 3 (1–7) | 1.4/0.9 → 1 (0–3) | 0.6/0.9 → 0 (0–2) | 14 (5–24) |
 | Scotty Pippen Jr. | Out | 16.2 (2.5) | 6.4/6.4 | 2.2/2.2 | 2.2/2.2 | 0.4/0.4 | – |
 
 ## POR @ MIL, 20:00 ET
 Line: POR -11.5, total 230.5 (DraftKings).
-**POR** (1 rest day). Out: Ja Morant, Robert Williams III, Chris Youngblood, Vit Krejci. Freed minutes: 66. Out all season so far (already in the lines): Shaedon Sharpe.
+**POR** (1 rest day). Out: Deni Avdija, Ja Morant, Robert Williams III, Chris Youngblood, Vit Krejci. Freed minutes: 98.5. Out all season so far (already in the lines): Shaedon Sharpe.
 - Without Robert Williams III: Yang Hansen min +8.5, pts +5.3, reb +4.3, ast +0.3 (n=2 vs 6)
 - Without Robert Williams III: Sidy Cissoko min -7.7, pts -4.1, reb +0.9, ast -0.5 (n=2 vs 12)
 - Without Robert Williams III: Toumani Camara min -6.6, pts -4.3, reb -0.5, ast -0.9 (n=2 vs 12)
@@ -71,8 +74,8 @@ Line: POR -11.5, total 230.5 (DraftKings).
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
-| Toumani Camara | Day-To-Day | 32.6 (4.5) → 29.6 (21.9) | 10.6/12.2 → 11 (4–18) | 3.6/3.4 → 4 (1–7) | 1.6/1.3 → 1 (0–3) | 1.6/2.6 → 2 (0–4) | 16 (7–26) |
-| Deni Avdija | Day-To-Day | 31.6 (3.9) → 31.2 (23.5) | 25.6/24.2 → 24 (13–35) | 5.4/6.2 → 6 (3–10) | 4.6/6.1 → 5 (2–9) | 2.8/2.1 → 2 (0–4) | 35 (21–51) |
+| Toumani Camara | – | 32.6 (4.5) → 29.6 (21.9) | 10.6/12.2 → 11 (4–18) | 3.6/3.4 → 4 (1–7) | 1.6/1.3 → 1 (0–3) | 1.6/2.6 → 2 (0–4) | 16 (7–26) |
+| Deni Avdija | Out | 31.6 (3.9) | 25.6/24.2 | 5.4/6.2 | 4.6/6.1 | 2.8/2.1 | – |
 | Sidy Cissoko | – | 29.6 (5.4) → 26 (18.4) | 10/7.5 → 7 (2–13) | 3.6/3.7 → 3 (1–6) | 1.6/1.9 → 2 (0–4) | 2.2/1.4 → 1 (0–3) | 12 (5–21) |
 | Damian Lillard | – | 28.8 (4.9) → 27.5 (19.9) | 21.2/20.1 → 15 (7–24) | 2.6/3 → 3 (1–6) | 4.2/4.4 → 3 (1–6) | 3.8/3.1 → 2 (0–5) | 22 (11–34) |
 | Jrue Holiday | – | 27.6 (3.7) → 27.5 (19.8) | 13.8/13.3 → 14 (6–23) | 3.6/3.6 → 4 (1–7) | 4.2/4.1 → 5 (2–8) | 2.8/2.5 → 2 (1–5) | 23 (12–36) |
@@ -131,7 +134,7 @@ Line: NY -1.5, total 216.5 (DraftKings).
 | Anthony Edwards | Out | 33.8 (4.7) | 33.2/33.2 | 4.8/4.8 | 3.5/3.5 | 4.5/4.5 | – |
 | Jaden McDaniels | – | 32.6 (4.5) → 33.7 (26) | 17/17.1 → 17 (8–26) | 6.2/6.2 → 5 (2–9) | 3.8/3.7 → 3 (1–6) | 1.2/1.3 → 1 (0–3) | 25 (14–38) |
 | Ayo Dosunmu | – | 31.8 (4.1) → 32.6 (24.9) | 21.2/18.6 → 19 (10–29) | 4/4.7 → 4 (1–7) | 1.8/3.5 → 3 (1–6) | 3/2.1 → 2 (1–5) | 27 (15–40) |
-| Jonathan Kuminga | Day-To-Day | 29.4 (5.3) → 29.5 (21.8) | 11.8/12.4 → 13 (6–21) | 5.6/5.6 → 6 (3–10) | 2.6/2.8 → 2 (1–5) | 0.6/1.6 → 1 (0–3) | 22 (11–34) |
+| Jonathan Kuminga | – | 29.4 (5.3) → 29.5 (21.8) | 11.8/12.4 → 13 (6–21) | 5.6/5.6 → 6 (3–10) | 2.6/2.8 → 2 (1–5) | 0.6/1.6 → 1 (0–3) | 22 (11–34) |
 | LaMelo Ball | – | 28 (4.3) → 28.5 (20.8) | 17.8/17.7 → 18 (9–29) | 5.6/4.1 → 5 (2–9) | 4.4/5.5 → 5 (2–9) | 3.8/3.5 → 3 (1–7) | 29 (16–44) |
 | Rudy Gobert | – | 27 (4.4) → 27.7 (20) | 7.6/7.6 → 8 (2–14) | 10/11.1 → 10 (5–16) | 2.4/1.7 → 2 (0–4) | 0/0 → 0 (0–0) | 20 (10–31) |
 | Terrence Shannon Jr. | – | 24 (4.7) → 23 (15.3) | 14.2/12.9 → 12 (5–20) | 3/3.3 → 2 (0–5) | 3.4/2.9 → 2 (0–5) | 0.8/1.4 → 1 (0–3) | 17 (7–28) |
