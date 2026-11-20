@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "updated_et": "2026-11-19 20:15",
+ "updated_et": "2026-11-19 21:21",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -130,6 +130,13 @@
    }
   ],
   "Memphis Grizzlies": [
+   {
+    "player": "Jerami Grant",
+    "status": "Day-To-Day",
+    "detail": "Grant won't return to Thursday's game against the Warriors due to a left calf injury. He'll finish with three points (1-2 FG, 1-1 3Pt) across five minutes.",
+    "type": "day-to-day",
+    "updated": "2026-11-20T02:08Z"
+   },
    {
     "player": "Zach Edey",
     "status": "Out",
@@ -399,6 +406,13 @@
    "player": "Toumani Camara",
    "from": "Day-To-Day",
    "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-19 21:21",
+   "team": "Memphis Grizzlies",
+   "player": "Jerami Grant",
+   "from": "not listed",
+   "to": "Day-To-Day"
   }
  ]
 }

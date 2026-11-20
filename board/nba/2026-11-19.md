@@ -1,12 +1,11 @@
 # NBA board, 2026-11-19
 
-Slate updated 2026-11-19 20:15 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-19 21:21 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 13:59 Golden State Warriors: Al Horford Out → Day-To-Day
 - 13:59 Memphis Grizzlies: Isaiah Stewart Out → Day-To-Day
 - 13:59 Milwaukee Bucks: Ryan Rollins Out → Day-To-Day
 - 13:59 Minnesota Timberwolves: Zyon Pullin Day-To-Day → removed from report
@@ -21,6 +20,7 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 20:15 Minnesota Timberwolves: Jonathan Kuminga Day-To-Day → removed from report
 - 20:15 Portland Trail Blazers: Deni Avdija Day-To-Day → Out
 - 20:15 Portland Trail Blazers: Toumani Camara Day-To-Day → removed from report
+- 21:21 Memphis Grizzlies: Jerami Grant not listed → Day-To-Day
 
 ## GS @ MEM, 20:00 ET
 Line: MEM -5.5, total 225.5 (DraftKings).
@@ -57,7 +57,7 @@ Line: MEM -5.5, total 225.5 (DraftKings).
 | Cameron Boozer | – | 28.8 (3.7) → 29.7 (22) | 17.4/16.6 → 15 (7–24) | 8.8/9.4 → 7 (3–12) | 5/5.3 → 4 (1–7) | 2.2/1.9 → 2 (0–4) | 26 (14–39) |
 | Cam Spencer | – | 27.8 (5.5) → 25.9 (18.2) | 16.8/11.4 → 13 (6–22) | 2.6/3.1 → 2 (1–5) | 6.4/5.5 → 6 (3–10) | 3/2.1 → 2 (0–5) | 22 (11–35) |
 | Jaylen Wells | – | 27.2 (3.6) → 26.6 (18.9) | 10.2/10.7 → 10 (4–18) | 2.8/2.9 → 3 (1–6) | 1.8/1.5 → 1 (0–4) | 2.2/2 → 2 (0–4) | 15 (6–25) |
-| Jerami Grant | – | 22.2 (2.2) → 23.3 (15.6) | 13.8/11.1 → 13 (5–22) | 1.4/1.9 → 2 (0–4) | 1.6/1.9 → 1 (0–4) | 2.2/1.8 → 2 (0–4) | 17 (7–27) |
+| Jerami Grant | Day-To-Day | 22.2 (2.2) → 23.3 (15.6) | 13.8/11.1 → 13 (5–22) | 1.4/1.9 → 2 (0–4) | 1.6/1.9 → 1 (0–4) | 2.2/1.8 → 2 (0–4) | 17 (7–27) |
 | Javon Small | – | 22 (5.3) → 22.5 (14.8) | 9.2/9 → 10 (3–17) | 2.8/2.6 → 3 (1–6) | 6.2/5.4 → 5 (2–9) | 1.2/1.2 → 1 (0–3) | 18 (8–29) |
 | Zach Edey | Out | 21 (2) | 11.6/9.2 | 6.4/7.4 | 0.8/0.9 | 0/0.1 | – |
 | Taylor Hendricks | – | 19.8 (8.4) → 17.5 (7) | 13.2/8.5 → 8 (2–17) | 5.6/3.6 → 4 (1–8) | 1.8/0.9 → 1 (0–3) | 1/0.9 → 1 (0–2) | 13 (3–26) |
