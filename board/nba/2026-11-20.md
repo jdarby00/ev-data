@@ -1,6 +1,6 @@
 # NBA board, 2026-11-20
 
-Slate updated 2026-11-20 14:05 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-20 14:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -11,7 +11,7 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 13:37 Oklahoma City Thunder: Nikola Topic not listed → Out
 
 ## CHA @ ATL, 19:00 ET
-Line: ATL -6.5, total 219.5 (DraftKings).
+Line: ATL -7.5, total 219.5 (Draft Kings).
 **CHA** (2 rest days). Out: Grayson Allen, Dennis Schroder, Grant Williams, Kon Knueppel. Freed minutes: 85.2.
 - Without Dennis Schroder: Hannes Steinbach min +12.3, pts +0.3, reb +4.7, ast +0.2 (n=2 vs 3)
 - Without Dennis Schroder: Brandon Miller min -9.6, pts -8.3, reb -3.3, ast +0.7 (n=3 vs 9)
@@ -53,7 +53,7 @@ Line: ATL -6.5, total 219.5 (DraftKings).
 | Zuby Ejiofor | – | 12.2 (5.5) → 11.7 (4) | 4.8/4.6 → 4 (0–9) | 3.4/3 → 2 (0–5) | 1/1 → 1 (0–2) | 0.6/0.7 → 0 (0–2) | 7 (1–16) |
 
 ## ORL @ BKN, 19:30 ET
-Line: ORL -6.5, total 224.5 (DraftKings).
+Line: ORL -6.5, total 224.5 (Draft Kings).
 **ORL** (1 rest day). Out: Paolo Banchero. Freed minutes: 33.5. Out all season so far (already in the lines): Izaiyah Nelson, Jonathan Isaac, Noah Penda.
 - Without Paolo Banchero: Jase Richardson min +9.3, pts +2.3, reb +0.5, ast -0.7 (n=9 vs 2)
 - Without Paolo Banchero: Franz Wagner min +6.8, pts +5.1, reb +1.1, ast +4.1 (n=12 vs 2)
@@ -91,7 +91,7 @@ Line: ORL -6.5, total 224.5 (DraftKings).
 | Terance Mann | – | 13.4 (4.9) → 13.8 (6.1) | 1.6/1.2 → 3 (0–7) | 1.2/1.1 → 1 (0–4) | 1/1.2 → 1 (0–3) | 0.4/0.2 → 0 (0–1) | 6 (1–13) |
 
 ## IND @ CLE, 19:30 ET
-Line: CLE -5.5, total 234.5 (DraftKings).
+Line: CLE -5.5, total 234.5 (Draft Kings).
 **IND** (1 rest day). Out: Tyrese Haliburton, Ben Sheppard. Freed minutes: 45. Out all season so far (already in the lines): Johnny Furphy.
 - Without Tyrese Haliburton: Aaron Nesmith min +8.9, pts -0.3, reb +1.5, ast +0.8 (n=10 vs 3)
 - Without Tyrese Haliburton: Jalen Slawson min +6.5, pts +2, reb +0.9, ast +0.6 (n=10 vs 3)
@@ -133,7 +133,7 @@ Line: CLE -5.5, total 234.5 (DraftKings).
 | Thomas Bryant | – | 17.6 (5.3) → 15.8 (8.1) | 10.6/9.4 → 8 (2–16) | 4.6/3.4 → 4 (1–8) | 1.6/0.9 → 1 (0–2) | 1/1.1 → 1 (0–2) | 13 (4–24) |
 
 ## TOR @ DET, 19:30 ET
-Line: DET -6.5, total 216.5 (DraftKings).
+Line: DET -6.5, total 215.5 (Draft Kings).
 **TOR** (1 rest day). Out: RJ Barrett, Collin Murray-Boyles, Kawhi Leonard. Freed minutes: 83.7. Out all season so far (already in the lines): Nate Bittle.
 - Without Kawhi Leonard: Alijah Martin min +10.8, pts +4.5, reb +2.2, ast +0.9 (n=12 vs 2)
 - Without Kawhi Leonard: Ja'Kobe Walter min +9, pts +4.3, reb +0.6, ast -1 (n=13 vs 2)
@@ -175,7 +175,7 @@ Line: DET -6.5, total 216.5 (DraftKings).
 | Isaiah Joe | – | 14.2 (6) → 14.8 (6.4) | 8.2/8.2 → 8 (1–15) | 1.8/1.8 → 1 (0–4) | 1.2/1.2 → 1 (0–3) | 1.5/1.5 → 1 (0–4) | 10 (2–20) |
 
 ## WSH @ CHI, 20:00 ET
-Line: CHI -2.5, total 237.5 (DraftKings).
+Line: CHI -2.5, total 237.5 (Draft Kings).
 **WSH** (1 rest day). Out: Justin Champagnie, Reece Beekman. Freed minutes: 19.5. Out all season so far (already in the lines): Tristan Vukcevic, Jamir Watkins.
 - Without Justin Champagnie: Kyshawn George min +4.9, pts +0, reb -1.3, ast +1.9 (n=12 vs 4)
 - Without Justin Champagnie: Will Riley min +4.9, pts +1.8, reb +0.9, ast +0.3 (n=10 vs 3)
@@ -217,7 +217,7 @@ Line: CHI -2.5, total 237.5 (DraftKings).
 | Zach Collins | – | 13.2 (7.2) → 12.8 (3.5) | 3.6/2.4 → 5 (0–12) | 2.6/2.6 → 3 (0–7) | 1.6/1 → 1 (0–3) | 0.2/0.1 → 0 (0–2) | 9 (0–21) |
 
 ## NO @ OKC, 20:00 ET
-Line: OKC -11.5, total 227.5 (DraftKings).
+Line: OKC -11.5, total 227.5 (Draft Kings).
 **NO** (1 rest day). Out: Trey Murphy III, Dejounte Murray, Trendon Watford, Bennedict Mathurin, Bryce McGowens. Freed minutes: 107.8.
 - Without Trey Murphy III: Jordan Poole min +10.8, pts +7.5, reb -0.3, ast +0.8 (n=6 vs 4)
 - Without Bennedict Mathurin: Saddiq Bey min +8.9, pts -0.7, reb +1, ast +1.6 (n=4 vs 12)
@@ -259,7 +259,7 @@ Line: OKC -11.5, total 227.5 (DraftKings).
 | Bennett Stirtz | – | 17.8 (5.6) → 18.7 (11.1) | 6/7.1 → 7 (1–13) | 0.8/1.1 → 2 (0–5) | 1.2/1.3 → 1 (0–3) | 1.4/1.5 → 1 (0–3) | 10 (3–19) |
 
 ## PHX @ UTAH, 21:30 ET
-Line: PHX -4.5, total 225.5 (DraftKings).
+Line: PHX -4.5, total 225.5 (Draft Kings).
 **PHX** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Mark Williams.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -297,7 +297,7 @@ Line: PHX -4.5, total 225.5 (DraftKings).
 | Josh Green | – | 19.2 (6.3) → 20.1 (11.7) | 6.2/4.6 → 6 (1–11) | 1.2/1.6 → 2 (0–4) | 0.8/1 → 1 (0–3) | 1.2/0.8 → 1 (0–3) | 8 (2–16) |
 
 ## HOU @ DEN, 22:00 ET
-Line: DEN -1.5, total 226.5 (DraftKings).
+Line: DEN -1.5, total 226.5 (Draft Kings).
 **HOU** (1 rest day). Out: Clint Capela. Freed minutes: 14.2.
 - Without Clint Capela: Marcus Smart min -7.6, pts -8.7, reb -0.7, ast -1.1 (n=7 vs 3)
 - Without Clint Capela: Bogdan Bogdanovic min -3.8, pts -3.7, reb -0.3, ast -0.5 (n=10 vs 6)
@@ -333,7 +333,7 @@ Line: DEN -1.5, total 226.5 (DraftKings).
 | Julian Strawther | Out | none this season; last season 15.1 min, 7.2 pts | | | | |
 
 ## SAC @ LAL, 22:00 ET
-Line: LAL -14.5, total 228.5 (DraftKings).
+Line: LAL -14.5, total 229.5 (Draft Kings).
 **SAC** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Maxime Raynaud, Ben Simmons.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |

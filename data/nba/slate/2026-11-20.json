@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "updated_et": "2026-11-20 14:05",
+ "updated_et": "2026-11-20 14:45",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -12,10 +12,10 @@
    "away_name": "Charlotte Hornets",
    "home_name": "Atlanta Hawks",
    "state": "pre",
-   "spread_text": "ATL -6.5",
-   "spread": -6.5,
+   "spread_text": "ATL -7.5",
+   "spread": -7.5,
    "total": 219.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -29,7 +29,7 @@
    "spread_text": "ORL -6.5",
    "spread": 6.5,
    "total": 224.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -43,7 +43,7 @@
    "spread_text": "CLE -5.5",
    "spread": -5.5,
    "total": 234.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -56,8 +56,8 @@
    "state": "pre",
    "spread_text": "DET -6.5",
    "spread": -6.5,
-   "total": 216.5,
-   "odds_source": "DraftKings",
+   "total": 215.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -71,7 +71,7 @@
    "spread_text": "CHI -2.5",
    "spread": -2.5,
    "total": 237.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "OKC -11.5",
    "spread": -11.5,
    "total": 227.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -99,7 +99,7 @@
    "spread_text": "PHX -4.5",
    "spread": 4.5,
    "total": 225.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -113,7 +113,7 @@
    "spread_text": "DEN -1.5",
    "spread": -1.5,
    "total": 226.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -126,8 +126,8 @@
    "state": "pre",
    "spread_text": "LAL -14.5",
    "spread": -14.5,
-   "total": 228.5,
-   "odds_source": "DraftKings",
+   "total": 229.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   }
  ],
