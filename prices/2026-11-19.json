@@ -7,7 +7,7 @@
    "api_home": "San Antonio Spurs",
    "away": "Clippers",
    "close": true,
-   "commence_time": "2026-11-20T01:10:00Z",
+   "commence_time": "2026-11-20T01:11:00Z",
    "event_id": "20fa5e2d73cec494c113790161a89aec",
    "home": "Spurs",
    "issues": [
@@ -15,7 +15,8 @@
     "2026-11-19T21:52:42Z lock skipped: monthly cap reached (420/420)",
     "2026-11-19T23:10:37Z lock skipped: monthly cap reached (420/420)",
     "2026-11-20T00:58:17Z close skipped: monthly cap reached (420/420)",
-    "2026-11-20T01:03:17Z close skipped: monthly cap reached (420/420)"
+    "2026-11-20T01:03:17Z close skipped: monthly cap reached (420/420)",
+    "no close snapshot before start"
    ],
    "market": "player_points_rebounds_assists",
    "players": [],
@@ -29,7 +30,7 @@
    "api_home": "Memphis Grizzlies",
    "away": "Golden State Warriors",
    "close": false,
-   "commence_time": "2026-11-20T01:10:00Z",
+   "commence_time": "2026-11-20T01:11:00Z",
    "event_id": "3c082b72aa002131c276ff5e24bada1b",
    "home": "Memphis Grizzlies",
    "issues": [
@@ -58,7 +59,8 @@
     "2026-11-19T21:52:42Z lock skipped: monthly cap reached (420/420)",
     "2026-11-19T23:10:37Z lock skipped: monthly cap reached (420/420)",
     "2026-11-20T00:58:17Z close skipped: monthly cap reached (420/420)",
-    "2026-11-20T01:03:17Z close skipped: monthly cap reached (420/420)"
+    "2026-11-20T01:03:17Z close skipped: monthly cap reached (420/420)",
+    "no close snapshot before start"
    ],
    "market": "player_assists",
    "players": [],
@@ -77,7 +79,8 @@
    "home": "Bucks",
    "issues": [
     "2026-11-20T00:58:17Z close skipped: monthly cap reached (420/420)",
-    "2026-11-20T01:03:17Z close skipped: monthly cap reached (420/420)"
+    "2026-11-20T01:03:17Z close skipped: monthly cap reached (420/420)",
+    "no close snapshot before start"
    ],
    "market": "player_points",
    "players": [],
@@ -2028,7 +2031,8 @@
    "home": "Bucks",
    "issues": [
     "2026-11-20T00:58:17Z close skipped: monthly cap reached (420/420)",
-    "2026-11-20T01:03:17Z close skipped: monthly cap reached (420/420)"
+    "2026-11-20T01:03:17Z close skipped: monthly cap reached (420/420)",
+    "no close snapshot before start"
    ],
    "market": "player_points_rebounds_assists",
    "players": [],
@@ -3675,7 +3679,8 @@
    "home": "Bucks",
    "issues": [
     "2026-11-20T00:58:17Z close skipped: monthly cap reached (420/420)",
-    "2026-11-20T01:03:17Z close skipped: monthly cap reached (420/420)"
+    "2026-11-20T01:03:17Z close skipped: monthly cap reached (420/420)",
+    "no close snapshot before start"
    ],
    "market": "player_threes",
    "players": [],
@@ -4885,12 +4890,13 @@
    "api_home": "Memphis Grizzlies",
    "away": "Warriors",
    "close": true,
-   "commence_time": "2026-11-20T01:10:00Z",
+   "commence_time": "2026-11-20T01:11:00Z",
    "event_id": "3c082b72aa002131c276ff5e24bada1b",
    "home": "Grizzlies",
    "issues": [
     "2026-11-20T00:58:17Z close skipped: monthly cap reached (420/420)",
-    "2026-11-20T01:03:17Z close skipped: monthly cap reached (420/420)"
+    "2026-11-20T01:03:17Z close skipped: monthly cap reached (420/420)",
+    "no close snapshot before start"
    ],
    "market": "player_assists",
    "players": [],
@@ -6284,12 +6290,13 @@
    "api_home": "Memphis Grizzlies",
    "away": "Warriors",
    "close": true,
-   "commence_time": "2026-11-20T01:10:00Z",
+   "commence_time": "2026-11-20T01:11:00Z",
    "event_id": "3c082b72aa002131c276ff5e24bada1b",
    "home": "Grizzlies",
    "issues": [
     "2026-11-20T00:58:17Z close skipped: monthly cap reached (420/420)",
-    "2026-11-20T01:03:17Z close skipped: monthly cap reached (420/420)"
+    "2026-11-20T01:03:17Z close skipped: monthly cap reached (420/420)",
+    "no close snapshot before start"
    ],
    "market": "player_points",
    "players": [],
@@ -8379,12 +8386,13 @@
    "api_home": "Memphis Grizzlies",
    "away": "Warriors",
    "close": true,
-   "commence_time": "2026-11-20T01:10:00Z",
+   "commence_time": "2026-11-20T01:11:00Z",
    "event_id": "3c082b72aa002131c276ff5e24bada1b",
    "home": "Grizzlies",
    "issues": [
     "2026-11-20T00:58:17Z close skipped: monthly cap reached (420/420)",
-    "2026-11-20T01:03:17Z close skipped: monthly cap reached (420/420)"
+    "2026-11-20T01:03:17Z close skipped: monthly cap reached (420/420)",
+    "no close snapshot before start"
    ],
    "market": "player_points_rebounds_assists",
    "players": [],
@@ -10082,13 +10090,14 @@
    "close": false,
    "commence_time": "2026-11-20T04:00:00Z",
    "event_id": "slate",
-   "games": 27,
+   "games": 17,
    "home": "*",
    "issues": [
     "2026-11-19T21:52:42Z lock skipped: monthly cap reached (420/420)",
     "2026-11-19T23:10:37Z lock skipped: monthly cap reached (420/420)",
     "2026-11-20T00:58:17Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-20T01:03:17Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-20T01:03:17Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-20T03:02:37Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "h2h",
    "players": [],
@@ -10102,13 +10111,14 @@
    "close": false,
    "commence_time": "2026-11-20T04:00:00Z",
    "event_id": "slate",
-   "games": 27,
+   "games": 17,
    "home": "*",
    "issues": [
     "2026-11-19T21:52:42Z lock skipped: monthly cap reached (420/420)",
     "2026-11-19T23:10:37Z lock skipped: monthly cap reached (420/420)",
     "2026-11-20T00:58:17Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-20T01:03:17Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-20T01:03:17Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-20T03:02:37Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "spreads",
    "players": [],
@@ -10122,5 +10132,5 @@
  "spent_month": 420,
  "spent_today": 6,
  "stop": null,
- "updated": "2026-11-20T01:03:17Z"
+ "updated": "2026-11-20T03:02:37Z"
 }
