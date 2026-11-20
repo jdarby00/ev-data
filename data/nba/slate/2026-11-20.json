@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "updated_et": "2026-11-20 05:20",
+ "updated_et": "2026-11-20 13:37",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -14,7 +14,7 @@
    "state": "pre",
    "spread_text": "ATL -6.5",
    "spread": -6.5,
-   "total": 219.5,
+   "total": 218.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -26,8 +26,8 @@
    "away_name": "Orlando Magic",
    "home_name": "Brooklyn Nets",
    "state": "pre",
-   "spread_text": "ORL -5.5",
-   "spread": 5.5,
+   "spread_text": "ORL -6.5",
+   "spread": 6.5,
    "total": 224.5,
    "odds_source": "Draft Kings",
    "season_type": 2
@@ -40,9 +40,9 @@
    "away_name": "Indiana Pacers",
    "home_name": "Cleveland Cavaliers",
    "state": "pre",
-   "spread_text": "CLE -7.5",
-   "spread": -7.5,
-   "total": 235.5,
+   "spread_text": "CLE -5.5",
+   "spread": -5.5,
+   "total": 233.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -54,9 +54,9 @@
    "away_name": "Toronto Raptors",
    "home_name": "Detroit Pistons",
    "state": "pre",
-   "spread_text": "DET -7.5",
-   "spread": -7.5,
-   "total": 215.5,
+   "spread_text": "DET -6.5",
+   "spread": -6.5,
+   "total": 216.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -68,9 +68,9 @@
    "away_name": "Washington Wizards",
    "home_name": "Chicago Bulls",
    "state": "pre",
-   "spread_text": "CHI -3.5",
-   "spread": -3.5,
-   "total": 240.5,
+   "spread_text": "CHI -2.5",
+   "spread": -2.5,
+   "total": 237.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -98,7 +98,7 @@
    "state": "pre",
    "spread_text": "PHX -4.5",
    "spread": 4.5,
-   "total": 226.5,
+   "total": 225.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -112,7 +112,7 @@
    "state": "pre",
    "spread_text": "DEN -1.5",
    "spread": -1.5,
-   "total": 225.5,
+   "total": 226.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -126,7 +126,7 @@
    "state": "pre",
    "spread_text": "LAL -14.5",
    "spread": -14.5,
-   "total": 231.5,
+   "total": 228.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   }
@@ -217,6 +217,13 @@
   ],
   "Chicago Bulls": [
    {
+    "player": "Jalen Smith",
+    "status": "Day-To-Day",
+    "detail": "Smith (illness) has been downgraded to questionable for Friday's game against the Wizards.",
+    "type": "day-to-day",
+    "updated": "2026-11-20T17:41Z"
+   },
+   {
     "player": "Noa Essengue",
     "status": "Day-To-Day",
     "detail": "Essengue is listed as probable for Friday's game against Washington due to bilateral wrist soreness.",
@@ -279,6 +286,13 @@
   ],
   "Detroit Pistons": [
    {
+    "player": "Ronald Holland II",
+    "status": "Day-To-Day",
+    "detail": "Holland (knee) has been upgraded to doubtful for Friday's game against Toronto, Hunter Patterson of The Athletic reports.",
+    "type": "day-to-day",
+    "updated": "2026-11-20T17:46Z"
+   },
+   {
     "player": "Taurean Prince",
     "status": "Out",
     "detail": "Prince underwent right knee surgery and is listed as out for Friday's game against the Raptors.",
@@ -291,13 +305,6 @@
     "detail": "Okorie (oblique) has been ruled out for Friday's game against Toronto.",
     "type": "out",
     "updated": "2026-11-19T21:43Z"
-   },
-   {
-    "player": "Ronald Holland II",
-    "status": "Out",
-    "detail": "Holland (knee) won't play in Friday's game against the Raptors, Blake Murphy of Sportsnet.ca reports.",
-    "type": "out",
-    "updated": "2026-11-19T21:41Z"
    },
    {
     "player": "Cade Cunningham",
@@ -442,6 +449,13 @@
    }
   ],
   "Oklahoma City Thunder": [
+   {
+    "player": "Nikola Topic",
+    "status": "Out",
+    "detail": "Topic (hip) is out for Friday's game against New Orleans.",
+    "type": "out",
+    "updated": "2026-11-20T17:02Z"
+   },
    {
     "player": "Alex Caruso",
     "status": "Day-To-Day",
@@ -638,5 +652,27 @@
    }
   ]
  },
- "status_changes": []
+ "status_changes": [
+  {
+   "at_et": "2026-11-20 13:37",
+   "team": "Chicago Bulls",
+   "player": "Jalen Smith",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-20 13:37",
+   "team": "Detroit Pistons",
+   "player": "Ronald Holland II",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-20 13:37",
+   "team": "Oklahoma City Thunder",
+   "player": "Nikola Topic",
+   "from": "not listed",
+   "to": "Out"
+  }
+ ]
 }
