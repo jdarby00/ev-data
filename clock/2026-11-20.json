@@ -2,11 +2,13 @@
  "date": "2026-11-20",
  "done": {
   "box_0520": "2026-11-20T10:20:00Z",
-  "lab_0610": "2026-11-20T11:10:00Z"
+  "lab_0610": "2026-11-20T11:10:00Z",
+  "record_0640": "2026-11-20T11:40:00Z"
  },
  "log": [
   "2026-11-20T10:20:00Z box_0520: dispatched jdarby00/ev-data nba.yml (HTTP 204)",
   "2026-11-20T10:29:05Z hand-over to a fresh clock run",
-  "2026-11-20T11:10:00Z lab_0610: dispatched jdarby00/dk-odds lab.yml (HTTP 204)"
+  "2026-11-20T11:10:00Z lab_0610: dispatched jdarby00/dk-odds lab.yml (HTTP 204)",
+  "2026-11-20T11:40:00Z record_0640: dispatched jdarby00/dk-odds record.yml (HTTP 204)"
  ]
 }
