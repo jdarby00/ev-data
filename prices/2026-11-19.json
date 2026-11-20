@@ -10090,14 +10090,15 @@
    "close": false,
    "commence_time": "2026-11-20T04:00:00Z",
    "event_id": "slate",
-   "games": 17,
+   "games": 13,
    "home": "*",
    "issues": [
     "2026-11-19T21:52:42Z lock skipped: monthly cap reached (420/420)",
     "2026-11-19T23:10:37Z lock skipped: monthly cap reached (420/420)",
     "2026-11-20T00:58:17Z lock skipped: monthly cap reached (420/420)",
     "2026-11-20T01:03:17Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-20T03:02:37Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-20T03:02:37Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-20T03:48:16Z close skipped: monthly cap reached (420/420)"
    ],
    "market": "h2h",
    "players": [],
@@ -10111,14 +10112,15 @@
    "close": false,
    "commence_time": "2026-11-20T04:00:00Z",
    "event_id": "slate",
-   "games": 17,
+   "games": 13,
    "home": "*",
    "issues": [
     "2026-11-19T21:52:42Z lock skipped: monthly cap reached (420/420)",
     "2026-11-19T23:10:37Z lock skipped: monthly cap reached (420/420)",
     "2026-11-20T00:58:17Z lock skipped: monthly cap reached (420/420)",
     "2026-11-20T01:03:17Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-20T03:02:37Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-20T03:02:37Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-20T03:48:16Z close skipped: monthly cap reached (420/420)"
    ],
    "market": "spreads",
    "players": [],
@@ -10132,5 +10134,5 @@
  "spent_month": 420,
  "spent_today": 6,
  "stop": null,
- "updated": "2026-11-20T03:02:37Z"
+ "updated": "2026-11-20T03:48:16Z"
 }
