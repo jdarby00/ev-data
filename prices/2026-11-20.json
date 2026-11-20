@@ -1,0 +1,155 @@
+{
+ "credits_remaining": 80,
+ "date": "2026-11-20",
+ "groups": {
+  "basketball_nba|kings@lakers|player_assists": {
+   "api_away": "Sacramento Kings",
+   "api_home": "Los Angeles Lakers",
+   "away": "Kings",
+   "close": true,
+   "commence_time": "2026-11-21T03:10:00Z",
+   "event_id": "55c3096b11f501ffb6d8bccbb2cd319d",
+   "home": "Lakers",
+   "issues": [
+    "2026-11-20T19:25:40Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "player_assists",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|kings@lakers|player_points": {
+   "api_away": "Sacramento Kings",
+   "api_home": "Los Angeles Lakers",
+   "away": "Kings",
+   "close": true,
+   "commence_time": "2026-11-21T03:10:00Z",
+   "event_id": "55c3096b11f501ffb6d8bccbb2cd319d",
+   "home": "Lakers",
+   "issues": [
+    "2026-11-20T19:25:40Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "player_points",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|pelicans@thunder|player_points": {
+   "api_away": "New Orleans Pelicans",
+   "api_home": "Oklahoma City Thunder",
+   "away": "Pelicans",
+   "close": true,
+   "commence_time": "2026-11-21T01:10:00Z",
+   "event_id": "17e3a8dc71275a88b19d0d6750a5052c",
+   "home": "Thunder",
+   "issues": [
+    "2026-11-20T19:25:40Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "player_points",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|pelicans@thunder|player_points_rebounds_assists": {
+   "api_away": "New Orleans Pelicans",
+   "api_home": "Oklahoma City Thunder",
+   "away": "Pelicans",
+   "close": true,
+   "commence_time": "2026-11-21T01:10:00Z",
+   "event_id": "17e3a8dc71275a88b19d0d6750a5052c",
+   "home": "Thunder",
+   "issues": [
+    "2026-11-20T19:25:40Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "player_points_rebounds_assists",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|rockets@nuggets|player_points_rebounds_assists": {
+   "api_away": "Houston Rockets",
+   "api_home": "Denver Nuggets",
+   "away": "Rockets",
+   "close": true,
+   "commence_time": "2026-11-21T03:10:00Z",
+   "event_id": "086d2fe80483ffcc280994fe2e12d4f4",
+   "home": "Nuggets",
+   "issues": [
+    "2026-11-20T19:25:40Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "player_points_rebounds_assists",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|suns@jazz|player_points": {
+   "api_away": "Phoenix Suns",
+   "api_home": "Utah Jazz",
+   "away": "Suns",
+   "close": true,
+   "commence_time": "2026-11-21T02:40:00Z",
+   "event_id": "ee204ae35d677450476eab6ad6a146a7",
+   "home": "Jazz",
+   "issues": [
+    "2026-11-20T19:25:40Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "player_points",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|suns@jazz|player_points_rebounds_assists": {
+   "api_away": "Phoenix Suns",
+   "api_home": "Utah Jazz",
+   "away": "Suns",
+   "close": true,
+   "commence_time": "2026-11-21T02:40:00Z",
+   "event_id": "ee204ae35d677450476eab6ad6a146a7",
+   "home": "Jazz",
+   "issues": [
+    "2026-11-20T19:25:40Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "player_points_rebounds_assists",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|wizards@bulls|player_points_rebounds_assists": {
+   "api_away": "Washington Wizards",
+   "api_home": "Chicago Bulls",
+   "away": "Wizards",
+   "close": true,
+   "commence_time": "2026-11-21T01:10:00Z",
+   "event_id": "d6ed1e97c331fc604506e4c354ab1cdc",
+   "home": "Bulls",
+   "issues": [
+    "2026-11-20T19:25:40Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "player_points_rebounds_assists",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [],
+   "sport": "basketball_nba"
+  }
+ },
+ "issues": [],
+ "spent_month": 420,
+ "spent_today": 0,
+ "stop": null,
+ "updated": "2026-11-20T19:25:40Z"
+}
