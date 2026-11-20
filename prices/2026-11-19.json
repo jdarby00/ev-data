@@ -10088,9 +10088,9 @@
   "basketball_ncaab|slate|h2h": {
    "away": "*",
    "close": false,
-   "commence_time": "2026-11-20T04:00:00Z",
+   "commence_time": "2026-11-20T04:10:00Z",
    "event_id": "slate",
-   "games": 13,
+   "games": 9,
    "home": "*",
    "issues": [
     "2026-11-19T21:52:42Z lock skipped: monthly cap reached (420/420)",
@@ -10110,9 +10110,9 @@
   "basketball_ncaab|slate|spreads": {
    "away": "*",
    "close": false,
-   "commence_time": "2026-11-20T04:00:00Z",
+   "commence_time": "2026-11-20T04:10:00Z",
    "event_id": "slate",
-   "games": 13,
+   "games": 9,
    "home": "*",
    "issues": [
     "2026-11-19T21:52:42Z lock skipped: monthly cap reached (420/420)",
@@ -10134,5 +10134,5 @@
  "spent_month": 420,
  "spent_today": 6,
  "stop": null,
- "updated": "2026-11-20T03:48:16Z"
+ "updated": "2026-11-20T04:17:20Z"
 }
