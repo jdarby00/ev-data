@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "updated_et": "2026-11-20 14:45",
+ "updated_et": "2026-11-20 16:15",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -14,8 +14,8 @@
    "state": "pre",
    "spread_text": "ATL -7.5",
    "spread": -7.5,
-   "total": 219.5,
-   "odds_source": "Draft Kings",
+   "total": 218.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -28,8 +28,8 @@
    "state": "pre",
    "spread_text": "ORL -6.5",
    "spread": 6.5,
-   "total": 224.5,
-   "odds_source": "Draft Kings",
+   "total": 223.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -43,7 +43,7 @@
    "spread_text": "CLE -5.5",
    "spread": -5.5,
    "total": 234.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -56,8 +56,8 @@
    "state": "pre",
    "spread_text": "DET -6.5",
    "spread": -6.5,
-   "total": 215.5,
-   "odds_source": "Draft Kings",
+   "total": 216.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -70,8 +70,8 @@
    "state": "pre",
    "spread_text": "CHI -2.5",
    "spread": -2.5,
-   "total": 237.5,
-   "odds_source": "Draft Kings",
+   "total": 238.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "OKC -11.5",
    "spread": -11.5,
    "total": 227.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -99,7 +99,7 @@
    "spread_text": "PHX -4.5",
    "spread": 4.5,
    "total": 225.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -113,7 +113,7 @@
    "spread_text": "DEN -1.5",
    "spread": -1.5,
    "total": 226.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -126,8 +126,8 @@
    "state": "pre",
    "spread_text": "LAL -14.5",
    "spread": -14.5,
-   "total": 229.5,
-   "odds_source": "Draft Kings",
+   "total": 228.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
@@ -360,6 +360,13 @@
   ],
   "Indiana Pacers": [
    {
+    "player": "Tyrese Haliburton",
+    "status": "Out",
+    "detail": "Haliburton (hamstring) is expected to miss at least two more weeks, Shams Charania of ESPN reports.",
+    "type": "out",
+    "updated": "2026-11-20T20:41Z"
+   },
+   {
     "player": "T.J. McConnell",
     "status": "Day-To-Day",
     "detail": "McConnell (hamstring) is listed as probable for Friday's game in Cleveland.",
@@ -379,13 +386,6 @@
     "detail": "Smith (ankle) is listed as questionable for Friday's game against Cleveland.",
     "type": "day-to-day",
     "updated": "2026-11-19T22:05Z"
-   },
-   {
-    "player": "Tyrese Haliburton",
-    "status": "Out",
-    "detail": "Head coach Rick Carlisle said Tuesday that Haliburton (hamstring) is \"getting there,\" but there's still no definitive timetable for his return to game action, Dustin Dopirak of The Indianapolis Star reports.",
-    "type": "out",
-    "updated": "2026-11-17T18:46Z"
    },
    {
     "player": "Johnny Furphy",
@@ -563,6 +563,13 @@
   ],
   "Toronto Raptors": [
    {
+    "player": "Kawhi Leonard",
+    "status": "Out",
+    "detail": "Leonard (knee) could return in the next few weeks, per Shams Charania of ESPN.",
+    "type": "out",
+    "updated": "2026-11-20T20:42Z"
+   },
+   {
     "player": "Collin Murray-Boyles",
     "status": "Out",
     "detail": "Murray-Boyles (concussion) has been ruled out for Friday's game against the Pistons.",
@@ -575,13 +582,6 @@
     "detail": "Barrett has been diagnosed with a right hamstring strain and will be re-evaluated in two weeks, Brett Siegel of ClutchPoints.com reports.",
     "type": "out",
     "updated": "2026-11-19T21:13Z"
-   },
-   {
-    "player": "Kawhi Leonard",
-    "status": "Out",
-    "detail": "Leonard (knee) has progressed in his strength and conditioning program but will miss at least one more week, Michael Scotto of HoopsHype.com reports.",
-    "type": "out",
-    "updated": "2026-11-17T22:25Z"
    },
    {
     "player": "Nate Bittle",
