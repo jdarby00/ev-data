@@ -9,6 +9,7 @@
   "fclose:2026-11-20T19:30:00Z": "2026-11-20T19:18:00Z",
   "fclose@2026-11-20T19:18:00Z": "2026-11-20T19:18:00Z",
   "lab_0610": "2026-11-20T11:10:00Z",
+  "lab_1435": "2026-11-20T19:35:00Z",
   "record_0640": "2026-11-20T11:40:00Z",
   "sgo_1045": "2026-11-20T15:45:00Z"
  },
@@ -23,6 +24,7 @@
   "2026-11-20T16:04:24Z hand-over to a fresh clock run",
   "2026-11-20T19:05:00Z board_1405: dispatched jdarby00/ev-data nba.yml (HTTP 204)",
   "2026-11-20T19:18:00Z fclose@2026-11-20T19:18:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
-  "2026-11-20T19:25:00Z auto_1425: dispatched jdarby00/dk-odds auto.yml (HTTP 204)"
+  "2026-11-20T19:25:00Z auto_1425: dispatched jdarby00/dk-odds auto.yml (HTTP 204)",
+  "2026-11-20T19:35:00Z lab_1435: dispatched jdarby00/dk-odds lab.yml (HTTP 204)"
  ]
 }
