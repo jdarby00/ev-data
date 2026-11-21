@@ -1,0 +1,28 @@
+{
+ "credits_remaining": 80,
+ "date": "2026-11-21",
+ "groups": {
+  "basketball_ncaab|slate|h2h": {
+   "away": "*",
+   "close": false,
+   "commence_time": "2026-11-22T04:00:00Z",
+   "event_id": "slate",
+   "games": 51,
+   "home": "*",
+   "issues": [
+    "2026-11-21T14:37:48Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "h2h",
+   "players": [],
+   "requested_rev": 1,
+   "slate": true,
+   "snapshots": [],
+   "sport": "basketball_ncaab"
+  }
+ },
+ "issues": [],
+ "spent_month": 420,
+ "spent_today": 0,
+ "stop": null,
+ "updated": "2026-11-21T14:37:48Z"
+}
