@@ -432,7 +432,8 @@
     "2026-11-21T02:28:18Z lock skipped: monthly cap reached (420/420)",
     "2026-11-21T02:58:20Z lock skipped: monthly cap reached (420/420)",
     "2026-11-21T03:08:36Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T03:48:18Z close skipped: monthly cap reached (420/420)"
+    "2026-11-21T03:48:18Z close skipped: monthly cap reached (420/420)",
+    "no games today"
    ],
    "market": "h2h",
    "players": [],
@@ -457,7 +458,8 @@
     "2026-11-21T02:28:18Z lock skipped: monthly cap reached (420/420)",
     "2026-11-21T02:58:20Z lock skipped: monthly cap reached (420/420)",
     "2026-11-21T03:08:36Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T03:48:18Z close skipped: monthly cap reached (420/420)"
+    "2026-11-21T03:48:18Z close skipped: monthly cap reached (420/420)",
+    "no games today"
    ],
    "market": "spreads",
    "players": [],
@@ -471,5 +473,5 @@
  "spent_month": 420,
  "spent_today": 0,
  "stop": null,
- "updated": "2026-11-21T04:16:47Z"
+ "updated": "2026-11-21T11:25:50Z"
 }
