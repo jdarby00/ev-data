@@ -1,6 +1,6 @@
 # NBA board, 2026-11-21
 
-Slate updated 2026-11-21 16:09 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-21 16:15 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -60,7 +60,7 @@ Line: PHI -11.5, total 229.5 (DraftKings).
 | Ariel Hukporti | Out | none this season; last season 9.2 min, 2.1 pts | | | | |
 
 ## POR @ NY, 19:30 ET
-Line: NY -3.5, total 215.5 (DraftKings).
+Line: NY -3.5, total 215.5 (Draft Kings).
 **POR** (1 rest day). Out: Ja Morant, Chris Youngblood, Vit Krejci. Freed minutes: 49.8. Out all season so far (already in the lines): Shaedon Sharpe.
 - Without Ja Morant: Toumani Camara min +6.4, pts -4, reb +2.5, ast +0 (n=11 vs 4)
 - Without Ja Morant: Scoot Henderson min +5.5, pts +3.3, reb -0.1, ast +0 (n=11 vs 4)
@@ -102,7 +102,7 @@ Line: NY -3.5, total 215.5 (DraftKings).
 | Jordan Clarkson | Out | 10 (3.7) | 3.2/4.9 | 1.8/1.6 | 0.4/0.4 | 0.2/0.5 | – |
 
 ## LAC @ DAL, 20:00 ET
-Line: DAL -4.5, total 230.5 (DraftKings).
+Line: DAL -4.5, total 230.5 (Draft Kings).
 **LAC** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Brandon Ingram, Bradley Beal, Jordan Miller.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -140,7 +140,7 @@ Line: DAL -4.5, total 230.5 (DraftKings).
 | Sergio de Larrea | Out | 11.8 (12.5) | 5.2/5.2 | 2/2 | 1.2/1.2 | 0.8/0.8 | – |
 
 ## MEM @ MIN, 20:00 ET
-Line: MIN -6.5, total 228.5 (DraftKings).
+Line: MIN -6.5, total 228.5 (Draft Kings).
 **MEM** (1 rest day). Out: Cameron Boozer, Javon Small, Jerami Grant, Scotty Pippen Jr., GG Jackson. Freed minutes: 106.3. Out all season so far (already in the lines): Richie Saunders.
 - Without Javon Small: Taylor Hendricks min -10.9, pts -10.7, reb -2.9, ast -1.1 (n=2 vs 9)
 - Without Scotty Pippen Jr.: Taylor Hendricks min +10.9, pts +10.7, reb +2.9, ast +1.1 (n=9 vs 2)
@@ -182,7 +182,7 @@ Line: MIN -6.5, total 228.5 (DraftKings).
 | Jaylen Clark | Out | 17.4 (7.3) | 5.6/4.5 | 3/2.1 | 0.6/0.8 | 0.8/0.8 | – |
 
 ## NO @ SA, 20:00 ET
-Line: SA -18.5, total 228.5 (DraftKings).
+Line: SA -18.5, total 228.5 (Draft Kings).
 **NO** (back-to-back). Out: Trey Murphy III, Dejounte Murray, Trendon Watford, Bennedict Mathurin, Bryce McGowens. Freed minutes: 107.4.
 - Without Trey Murphy III: Jordan Poole min +11.4, pts +7.5, reb +0.1, ast +1.2 (n=6 vs 5)
 - Without Bennedict Mathurin: Saddiq Bey min +9.1, pts +0.3, reb +1.2, ast +1.4 (n=5 vs 12)
@@ -220,7 +220,7 @@ Line: SA -18.5, total 228.5 (DraftKings).
 | Jayden Quaintance | Out | no games | | | | |
 
 ## BOS @ SAC, 22:00 ET
-Line: BOS -12.5, total 216.5 (DraftKings).
+Line: BOS -12.5, total 216.5 (Draft Kings).
 **BOS** (2 rest days). Out: Jayson Tatum, Derrick White, Mitchell Robinson. Freed minutes: 81.5.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
