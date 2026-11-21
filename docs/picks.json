@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "built_at": "2026-11-21T14:29:54Z",
+ "built_at": "2026-11-21T14:33:32Z",
  "code_card": [
   {
    "lane": "likely",
@@ -559,30 +559,6 @@
    "gate_evidence": "cleared 15 of 16 this season, 9 of 10 in the last 10; minutes 24 a game, fewest in the last 5: 15; minutes tonight +1.4",
    "parlay_ok": true,
    "team_spread": -17.5
-  },
-  {
-   "lane": "likely",
-   "sport": "soccer",
-   "game": "SCP @ B04",
-   "start_utc": "2026-11-21T14:30Z",
-   "event_id": "401884735",
-   "kind": "game",
-   "market": "moneyline",
-   "line": 0.0,
-   "side": "home",
-   "bet": "B04 to win",
-   "book": "draftkings",
-   "price": -350,
-   "p": 0.7307,
-   "p_mkt": 0.7307,
-   "basis": "all-books fair (7 books)",
-   "flags": [],
-   "anchor_only": true,
-   "tier": "Straight",
-   "decimal": 1.286,
-   "edge": -0.0603,
-   "gate_evidence": "team line: needs injury, rest and form checks by hand",
-   "parlay_ok": false
   },
   {
    "lane": "likely",
@@ -3385,30 +3361,6 @@
    "gate_evidence": "cleared 15 of 16 this season, 9 of 10 in the last 10; minutes 24 a game, fewest in the last 5: 15; minutes tonight +1.4",
    "parlay_ok": true,
    "team_spread": -17.5
-  },
-  {
-   "lane": "likely",
-   "sport": "soccer",
-   "game": "SCP @ B04",
-   "start_utc": "2026-11-21T14:30Z",
-   "event_id": "401884735",
-   "kind": "game",
-   "market": "moneyline",
-   "line": 0.0,
-   "side": "home",
-   "bet": "B04 to win",
-   "book": "draftkings",
-   "price": -350,
-   "p": 0.7307,
-   "p_mkt": 0.7307,
-   "basis": "all-books fair (7 books)",
-   "flags": [],
-   "anchor_only": true,
-   "tier": "Straight",
-   "decimal": 1.286,
-   "edge": -0.0603,
-   "gate_evidence": "team line: needs injury, rest and form checks by hand",
-   "parlay_ok": false
   },
   {
    "lane": "likely",
