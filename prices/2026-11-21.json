@@ -12,8 +12,7 @@
    "home": "Kings",
    "issues": [
     "2026-11-21T19:25:42Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T20:03:07Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T21:51:36Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-21T20:03:07Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "player_assists",
    "players": [],
@@ -32,8 +31,7 @@
    "home": "Kings",
    "issues": [
     "2026-11-21T19:25:42Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T20:03:07Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T21:51:36Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-21T20:03:07Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "player_points",
    "players": [],
@@ -52,8 +50,7 @@
    "home": "Kings",
    "issues": [
     "2026-11-21T19:25:42Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T20:03:07Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T21:51:36Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-21T20:03:07Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "player_points_rebounds_assists",
    "players": [],
@@ -72,8 +69,7 @@
    "home": "Mavericks",
    "issues": [
     "2026-11-21T19:25:42Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T20:03:07Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T21:51:36Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-21T20:03:07Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "player_points_rebounds_assists",
    "players": [],
@@ -92,8 +88,7 @@
    "home": "Timberwolves",
    "issues": [
     "2026-11-21T19:25:42Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T20:03:07Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T21:51:36Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-21T20:03:07Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "player_assists",
    "players": [],
@@ -112,8 +107,7 @@
    "home": "Timberwolves",
    "issues": [
     "2026-11-21T19:25:42Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T20:03:07Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T21:51:36Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-21T20:03:07Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "player_points",
    "players": [],
@@ -132,8 +126,7 @@
    "home": "Timberwolves",
    "issues": [
     "2026-11-21T19:25:42Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T20:03:07Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T21:51:36Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-21T20:03:07Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "player_points_rebounds_assists",
    "players": [],
@@ -152,96 +145,9 @@
    "home": "Timberwolves",
    "issues": [
     "2026-11-21T19:25:42Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T20:03:07Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T21:51:36Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-21T20:03:07Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "player_threes",
-   "players": [],
-   "requested_rev": 1,
-   "slate": false,
-   "snapshots": [],
-   "sport": "basketball_nba"
-  },
-  "basketball_nba|la clippers@dallas mavericks|player_assists_alternate": {
-   "away": "LA Clippers",
-   "close": false,
-   "home": "Dallas Mavericks",
-   "issues": [
-    "0 matching events; not priced"
-   ],
-   "market": "player_assists_alternate",
-   "players": [],
-   "requested_rev": 1,
-   "slate": false,
-   "snapshots": [],
-   "sport": "basketball_nba"
-  },
-  "basketball_nba|memphis grizzlies@minnesota timberwolves|player_assists_alternate": {
-   "api_away": "Memphis Grizzlies",
-   "api_home": "Minnesota Timberwolves",
-   "away": "Memphis Grizzlies",
-   "close": false,
-   "commence_time": "2026-11-22T01:10:00Z",
-   "event_id": "37e3f99d7ee68587400e99e417db0e6a",
-   "home": "Minnesota Timberwolves",
-   "issues": [
-    "2026-11-21T21:51:36Z lock skipped: monthly cap reached (420/420)"
-   ],
-   "market": "player_assists_alternate",
-   "players": [],
-   "requested_rev": 1,
-   "slate": false,
-   "snapshots": [],
-   "sport": "basketball_nba"
-  },
-  "basketball_nba|memphis grizzlies@minnesota timberwolves|player_points_rebounds_alternate": {
-   "api_away": "Memphis Grizzlies",
-   "api_home": "Minnesota Timberwolves",
-   "away": "Memphis Grizzlies",
-   "close": false,
-   "commence_time": "2026-11-22T01:10:00Z",
-   "event_id": "37e3f99d7ee68587400e99e417db0e6a",
-   "home": "Minnesota Timberwolves",
-   "issues": [
-    "2026-11-21T21:51:36Z lock skipped: monthly cap reached (420/420)"
-   ],
-   "market": "player_points_rebounds_alternate",
-   "players": [],
-   "requested_rev": 1,
-   "slate": false,
-   "snapshots": [],
-   "sport": "basketball_nba"
-  },
-  "basketball_nba|memphis grizzlies@minnesota timberwolves|player_rebounds_assists": {
-   "api_away": "Memphis Grizzlies",
-   "api_home": "Minnesota Timberwolves",
-   "away": "Memphis Grizzlies",
-   "close": false,
-   "commence_time": "2026-11-22T01:10:00Z",
-   "event_id": "37e3f99d7ee68587400e99e417db0e6a",
-   "home": "Minnesota Timberwolves",
-   "issues": [
-    "2026-11-21T21:51:36Z lock skipped: monthly cap reached (420/420)"
-   ],
-   "market": "player_rebounds_assists",
-   "players": [],
-   "requested_rev": 1,
-   "slate": false,
-   "snapshots": [],
-   "sport": "basketball_nba"
-  },
-  "basketball_nba|portland trail blazers@new york knicks|player_points_assists": {
-   "api_away": "Portland Trail Blazers",
-   "api_home": "New York Knicks",
-   "away": "Portland Trail Blazers",
-   "close": false,
-   "commence_time": "2026-11-22T00:40:00Z",
-   "event_id": "232f705eea406644ff14ad17bcf9aea6",
-   "home": "New York Knicks",
-   "issues": [
-    "2026-11-21T21:51:36Z lock skipped: monthly cap reached (420/420)"
-   ],
-   "market": "player_points_assists",
    "players": [],
    "requested_rev": 1,
    "slate": false,
@@ -253,14 +159,13 @@
    "close": false,
    "commence_time": "2026-11-22T04:00:00Z",
    "event_id": "slate",
-   "games": 33,
+   "games": 46,
    "home": "*",
    "issues": [
     "2026-11-21T14:37:48Z lock skipped: monthly cap reached (420/420)",
     "2026-11-21T16:57:33Z lock skipped: monthly cap reached (420/420)",
     "2026-11-21T19:25:42Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T20:03:07Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T21:51:36Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-21T20:03:07Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "h2h",
    "players": [],
@@ -274,13 +179,12 @@
    "close": false,
    "commence_time": "2026-11-22T04:00:00Z",
    "event_id": "slate",
-   "games": 33,
+   "games": 46,
    "home": "*",
    "issues": [
     "2026-11-21T16:57:33Z lock skipped: monthly cap reached (420/420)",
     "2026-11-21T19:25:42Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T20:03:07Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T21:51:36Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-21T20:03:07Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "spreads",
    "players": [],
@@ -294,5 +198,5 @@
  "spent_month": 420,
  "spent_today": 0,
  "stop": null,
- "updated": "2026-11-21T21:51:36Z"
+ "updated": "2026-11-21T20:03:07Z"
 }
