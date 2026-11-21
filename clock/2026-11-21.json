@@ -2,6 +2,7 @@
  "date": "2026-11-21",
  "done": {
   "box_0520": "2026-11-21T10:20:00Z",
+  "cbbscreen_1005": "2026-11-21T15:05:00Z",
   "fclose:2026-11-21T12:30:00Z": "2026-11-21T12:18:00Z",
   "fclose:2026-11-21T13:00:00Z": "2026-11-21T12:48:00Z",
   "fclose:2026-11-21T14:00:00Z": "2026-11-21T13:48:00Z",
@@ -30,6 +31,7 @@
   "2026-11-21T14:18:00Z fclose@2026-11-21T14:18:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
   "2026-11-21T14:25:29Z hand-over to a fresh clock run",
   "2026-11-21T14:48:00Z fclose@2026-11-21T14:48:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
-  "2026-11-21T15:03:01Z fclose@2026-11-21T15:03:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)"
+  "2026-11-21T15:03:01Z fclose@2026-11-21T15:03:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
+  "2026-11-21T15:05:00Z cbbscreen_1005: dispatched jdarby00/dk-odds market-screen.yml (HTTP 204)"
  ]
 }
