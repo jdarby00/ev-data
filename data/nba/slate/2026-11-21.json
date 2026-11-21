@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "updated_et": "2026-11-21 12:35",
+ "updated_et": "2026-11-21 16:09",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,7 +11,7 @@
    "home": "PHI",
    "away_name": "Milwaukee Bucks",
    "home_name": "Philadelphia 76ers",
-   "state": "pre",
+   "state": "post",
    "spread_text": "PHI -11.5",
    "spread": -11.5,
    "total": 229.5,
@@ -40,8 +40,8 @@
    "away_name": "LA Clippers",
    "home_name": "Dallas Mavericks",
    "state": "pre",
-   "spread_text": "DAL -5.5",
-   "spread": -5.5,
+   "spread_text": "DAL -4.5",
+   "spread": -4.5,
    "total": 230.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -70,7 +70,7 @@
    "state": "pre",
    "spread_text": "SA -18.5",
    "spread": -18.5,
-   "total": 229.5,
+   "total": 228.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -82,9 +82,9 @@
    "away_name": "Boston Celtics",
    "home_name": "Sacramento Kings",
    "state": "pre",
-   "spread_text": "BOS -13.5",
-   "spread": 13.5,
-   "total": 217.5,
+   "spread_text": "BOS -12.5",
+   "spread": 12.5,
+   "total": 216.5,
    "odds_source": "DraftKings",
    "season_type": 2
   }
@@ -92,34 +92,41 @@
  "injuries": {
   "Boston Celtics": [
    {
-    "player": "Jayson Tatum",
-    "status": "Day-To-Day",
-    "detail": "Tatum (rest) is listed as questionable for Saturday's game against Sacramento.",
-    "type": "day-to-day",
-    "updated": "2026-11-21T01:07Z"
+    "player": "Mitchell Robinson",
+    "status": "Out",
+    "detail": "Robinson (illness) has been ruled out for Saturday's game against the Kings, Keith Smith of Spotrac.com reports.",
+    "type": "out",
+    "updated": "2026-11-21T20:55Z"
    },
    {
     "player": "Derrick White",
-    "status": "Day-To-Day",
-    "detail": "White (shoulder) is questionable to play in Saturday's game against Sacramento.",
-    "type": "day-to-day",
-    "updated": "2026-11-21T01:00Z"
+    "status": "Out",
+    "detail": "White (shoulder) has been ruled out for Saturday's game against Sacramento.",
+    "type": "out",
+    "updated": "2026-11-21T20:53Z"
+   },
+   {
+    "player": "Jayson Tatum",
+    "status": "Out",
+    "detail": "Tatum (rest) has been ruled out for Saturday's game against the Kings.",
+    "type": "out",
+    "updated": "2026-11-21T20:51Z"
    }
   ],
   "Dallas Mavericks": [
+   {
+    "player": "P.J. Washington",
+    "status": "Day-To-Day",
+    "detail": "Washington (illness/shoulder) has been downgraded from questionable to doubtful ahead of Saturday's game against the Clippers.",
+    "type": "day-to-day",
+    "updated": "2026-11-21T19:22Z"
+   },
    {
     "player": "Tobi Lawal",
     "status": "Out",
     "detail": "Lawal (groin) is out for Saturday's game against the Clippers.",
     "type": "out",
     "updated": "2026-11-21T15:08Z"
-   },
-   {
-    "player": "P.J. Washington",
-    "status": "Day-To-Day",
-    "detail": "Washington (shoulder) is listed as questionable for Saturday's game versus the Clippers.",
-    "type": "day-to-day",
-    "updated": "2026-11-20T22:40Z"
    },
    {
     "player": "Walter Clayton Jr.",
@@ -196,13 +203,6 @@
     "updated": "2026-11-20T23:12Z"
    },
    {
-    "player": "Ty Jerome",
-    "status": "Out",
-    "detail": "Jerome (hip) is probable for Saturday's game in Minnesota.",
-    "type": "out",
-    "updated": "2026-11-20T23:11Z"
-   },
-   {
     "player": "GG Jackson",
     "status": "Out",
     "detail": "Jackson underwent a procedure Wednesday to repair a broken fifth metatarsal in his left foot. He is expected to recover fully and will be re-evaluated in approximately three months.",
@@ -258,18 +258,25 @@
   ],
   "New Orleans Pelicans": [
    {
+    "player": "Trey Murphy III",
+    "status": "Out",
+    "detail": "Murphy (knee) has been ruled out for Saturday's game against the Spurs.",
+    "type": "out",
+    "updated": "2026-11-21T18:22Z"
+   },
+   {
+    "player": "Trendon Watford",
+    "status": "Out",
+    "detail": "Watford (ankle) is out for Saturday's game against the Spurs.",
+    "type": "out",
+    "updated": "2026-11-21T18:21Z"
+   },
+   {
     "player": "Bryce McGowens",
     "status": "Out",
     "detail": "McGowens (elbow) has been ruled out for Friday's game against the Thunder.",
     "type": "out",
     "updated": "2026-11-19T21:15Z"
-   },
-   {
-    "player": "Trendon Watford",
-    "status": "Out",
-    "detail": "Watford (ankle) has been ruled out for Friday's game against Oklahoma City.",
-    "type": "out",
-    "updated": "2026-11-19T21:09Z"
    },
    {
     "player": "Bennedict Mathurin",
@@ -458,6 +465,41 @@
    "player": "Precious Achiuwa",
    "from": "Out",
    "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-21 16:09",
+   "team": "Boston Celtics",
+   "player": "Mitchell Robinson",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-21 16:09",
+   "team": "Boston Celtics",
+   "player": "Derrick White",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-21 16:09",
+   "team": "Boston Celtics",
+   "player": "Jayson Tatum",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-21 16:09",
+   "team": "Memphis Grizzlies",
+   "player": "Ty Jerome",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-21 16:09",
+   "team": "New Orleans Pelicans",
+   "player": "Trey Murphy III",
+   "from": "not listed",
+   "to": "Out"
   }
  ]
 }

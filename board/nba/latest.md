@@ -1,6 +1,6 @@
 # NBA board, 2026-11-21
 
-Slate updated 2026-11-21 12:35 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-21 16:09 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -11,6 +11,11 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 12:35 Philadelphia 76ers: Dominick Barlow Out → removed from report
 - 12:35 Philadelphia 76ers: Tyrese Maxey Day-To-Day → removed from report
 - 12:35 Sacramento Kings: Precious Achiuwa Out → Day-To-Day
+- 16:09 Boston Celtics: Mitchell Robinson not listed → Out
+- 16:09 Boston Celtics: Derrick White Day-To-Day → Out
+- 16:09 Boston Celtics: Jayson Tatum Day-To-Day → Out
+- 16:09 Memphis Grizzlies: Ty Jerome Out → removed from report
+- 16:09 New Orleans Pelicans: Trey Murphy III not listed → Out
 
 ## MIL @ PHI, 13:00 ET
 Line: PHI -11.5, total 229.5 (DraftKings).
@@ -97,7 +102,7 @@ Line: NY -3.5, total 215.5 (DraftKings).
 | Jordan Clarkson | Out | 10 (3.7) | 3.2/4.9 | 1.8/1.6 | 0.4/0.4 | 0.2/0.5 | – |
 
 ## LAC @ DAL, 20:00 ET
-Line: DAL -5.5, total 230.5 (DraftKings).
+Line: DAL -4.5, total 230.5 (DraftKings).
 **LAC** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Brandon Ingram, Bradley Beal, Jordan Miller.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -136,15 +141,15 @@ Line: DAL -5.5, total 230.5 (DraftKings).
 
 ## MEM @ MIN, 20:00 ET
 Line: MIN -6.5, total 228.5 (DraftKings).
-**MEM** (1 rest day). Out: Ty Jerome, Cameron Boozer, Javon Small, Jerami Grant, Scotty Pippen Jr., GG Jackson. Freed minutes: 136.9. Out all season so far (already in the lines): Richie Saunders.
-- Without Ty Jerome: Olivier-Maxence Prosper min +11.2, pts +6, reb +0.8, ast +0.2 (n=5 vs 5)
+**MEM** (1 rest day). Out: Cameron Boozer, Javon Small, Jerami Grant, Scotty Pippen Jr., GG Jackson. Freed minutes: 106.3. Out all season so far (already in the lines): Richie Saunders.
 - Without Javon Small: Taylor Hendricks min -10.9, pts -10.7, reb -2.9, ast -1.1 (n=2 vs 9)
 - Without Scotty Pippen Jr.: Taylor Hendricks min +10.9, pts +10.7, reb +2.9, ast +1.1 (n=9 vs 2)
 - Without GG Jackson: Olivier-Maxence Prosper min +10.6, pts +4.3, reb +0.8, ast +0.5 (n=4 vs 6)
+- Without GG Jackson: Jahmai Mashack min +8.2, pts -0.2, reb +1.2, ast +1.7 (n=4 vs 2)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
-| Ty Jerome | Out | 30 (3.2) | 22/25.4 | 3.2/3.4 | 4.8/5.3 | 2.4/2.5 | – |
+| Ty Jerome | – | 30 (3.2) → 29.7 (22) | 22/25.4 → 23 (13–35) | 3.2/3.4 → 3 (1–6) | 4.8/5.3 → 6 (3–10) | 2.4/2.5 → 3 (1–5) | 33 (19–48) |
 | Cedric Coward | – | 29.6 (3.4) → 28.4 (20.7) | 18.8/14.8 → 16 (7–25) | 6.8/8.1 → 6 (3–11) | 5/3.5 → 3 (1–7) | 3/2.5 → 2 (0–5) | 26 (14–39) |
 | Cam Spencer | – | 29.2 (5.6) → 26 (18.3) | 15.6/11.2 → 13 (5–21) | 2.4/3 → 2 (1–5) | 8/5.8 → 6 (3–11) | 2.6/2.1 → 2 (0–4) | 22 (11–34) |
 | Cameron Boozer | Out | 27.6 (3.6) | 18/16.6 | 7.8/9.2 | 5/5.3 | 1.8/1.8 | – |
@@ -177,18 +182,18 @@ Line: MIN -6.5, total 228.5 (DraftKings).
 | Jaylen Clark | Out | 17.4 (7.3) | 5.6/4.5 | 3/2.1 | 0.6/0.8 | 0.8/0.8 | – |
 
 ## NO @ SA, 20:00 ET
-Line: SA -18.5, total 229.5 (DraftKings).
-**NO** (back-to-back). Out: Dejounte Murray, Trendon Watford, Bennedict Mathurin, Bryce McGowens. Freed minutes: 75.
+Line: SA -18.5, total 228.5 (DraftKings).
+**NO** (back-to-back). Out: Trey Murphy III, Dejounte Murray, Trendon Watford, Bennedict Mathurin, Bryce McGowens. Freed minutes: 107.4.
+- Without Trey Murphy III: Jordan Poole min +11.4, pts +7.5, reb +0.1, ast +1.2 (n=6 vs 5)
 - Without Bennedict Mathurin: Saddiq Bey min +9.1, pts +0.3, reb +1.2, ast +1.4 (n=5 vs 12)
 - Without Dejounte Murray: Saddiq Bey min +8, pts +4.4, reb +3.5, ast +0 (n=8 vs 9)
 - Without Dejounte Murray: Herbert Jones min +8, pts +7, reb -0.3, ast +1.6 (n=8 vs 9)
-- Without Trendon Watford: Karlo Matkovic min -7.7, pts -8.6, reb -2.1, ast -0.7 (n=10 vs 6)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Saddiq Bey | – | 37.6 (5.7) → 32.8 (25) | 20/16.8 → 17 (9–27) | 7.2/4.5 → 5 (2–9) | 3.2/2.6 → 3 (1–5) | 3.8/2.4 → 2 (1–5) | 26 (14–38) |
 | Jeremiah Fears | – | 33 (3.2) → 30.2 (22.6) | 17.6/15.9 → 16 (8–26) | 6.2/5 → 5 (2–8) | 6.6/5.4 → 5 (2–8) | 1.4/1.2 → 1 (0–3) | 26 (14–39) |
-| Trey Murphy III | – | 32.4 (3.4) → 30.8 (23.1) | 17.2/15.7 → 17 (8–27) | 5/4.7 → 5 (2–8) | 3.8/3.3 → 3 (1–6) | 2.4/2.3 → 2 (1–5) | 25 (14–38) |
+| Trey Murphy III | Out | 32.4 (3.4) | 17.2/15.7 | 5/4.7 | 3.8/3.3 | 2.4/2.3 | – |
 | Zion Williamson | – | 31.6 (3.7) → 30.6 (22.9) | 21.6/21.7 → 21 (11–32) | 6/5.4 → 5 (2–9) | 3.2/2.8 → 3 (1–6) | 0.4/0.4 → 0 (0–1) | 30 (17–44) |
 | Dejounte Murray | Out | 30.8 (6.9) | 10/13.4 | 3.6/4.6 | 3.2/4.4 | 1/0.9 | – |
 | Herbert Jones | – | 29.6 (6.5) → 26.6 (18) | 9.8/6.9 → 8 (2–15) | 1.8/2.6 → 2 (1–5) | 2.6/1.5 → 2 (0–5) | 2.2/1.1 → 1 (0–4) | 13 (5–22) |
@@ -215,20 +220,20 @@ Line: SA -18.5, total 229.5 (DraftKings).
 | Jayden Quaintance | Out | no games | | | | |
 
 ## BOS @ SAC, 22:00 ET
-Line: BOS -13.5, total 217.5 (DraftKings).
-**BOS** (2 rest days). Out: none listed. Freed minutes: 0.
+Line: BOS -12.5, total 216.5 (DraftKings).
+**BOS** (2 rest days). Out: Jayson Tatum, Derrick White, Mitchell Robinson. Freed minutes: 81.5.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
-| Jayson Tatum | Day-To-Day | 34.6 (3.1) → 32.5 (24.8) | 25/26.4 → 23 (13–34) | 7.8/6.6 → 8 (4–13) | 5/6.8 → 5 (2–9) | 3.2/2.6 → 3 (1–6) | 36 (22–52) |
-| Derrick White | Day-To-Day | 30 (5.4) → 29.2 (21.5) | 12.2/12.7 → 13 (5–21) | 2.4/3 → 3 (1–6) | 4.4/5 → 4 (2–8) | 1.8/1.7 → 2 (0–4) | 20 (10–32) |
+| Jayson Tatum | Out | 34.6 (3.1) | 25/26.4 | 7.8/6.6 | 5/6.8 | 3.2/2.6 | – |
+| Derrick White | Out | 30 (5.4) | 12.2/12.7 | 2.4/3 | 4.4/5 | 1.8/1.7 | – |
 | Paul George | – | 28.4 (5) → 27.3 (19.6) | 20.4/19.9 → 16 (8–26) | 5.4/5.5 → 5 (2–8) | 2.4/3.7 → 3 (1–6) | 3.6/3.4 → 2 (1–5) | 24 (13–37) |
 | Payton Pritchard | – | 28.4 (4.8) → 26.7 (19) | 15.6/13.7 → 14 (6–22) | 2.6/3.1 → 3 (1–5) | 3.8/3.8 → 4 (1–7) | 3/2.4 → 2 (0–5) | 20 (10–32) |
 | Neemias Queta | – | 23.4 (5.3) → 23.3 (15.6) | 10.6/9.6 → 10 (3–17) | 8.8/6.9 → 8 (4–13) | 3/1.9 → 2 (0–4) | 0.4/0.3 → 0 (0–1) | 20 (9–32) |
 | Sam Hauser | – | 19 (5.1) → 20.2 (12.5) | 9.8/8.4 → 8 (2–15) | 3.6/3.1 → 3 (1–6) | 1.2/1.1 → 1 (0–3) | 3/2.4 → 2 (0–5) | 12 (4–22) |
 | Baylor Scheierman | – | 17.8 (6.1) → 17.9 (9.7) | 5.2/5.7 → 5 (0–10) | 3.4/3.7 → 3 (1–6) | 2/1.5 → 1 (0–3) | 1.2/1.3 → 1 (0–3) | 10 (2–18) |
 | Jordan Walsh | – | 15.8 (5.2) → 14.8 (7.1) | 6.2/4.7 → 4 (0–10) | 1.6/2.9 → 2 (0–6) | 0.4/0.5 → 0 (0–1) | 1/0.8 → 0 (0–2) | 7 (1–15) |
-| Mitchell Robinson | – | 15.4 (2.5) → 16.7 (9) | 2.8/5.1 → 4 (0–10) | 4.8/5.4 → 6 (2–11) | 1.2/0.9 → 1 (0–2) | 0/0 → 0 (0–0) | 12 (4–21) |
+| Mitchell Robinson | Out | 15.4 (2.5) | 2.8/5.1 | 4.8/5.4 | 1.2/0.9 | 0/0 | – |
 | Hugo Gonzalez | – | 13 (4.5) → 13 (5.3) | 4.2/3.9 → 3 (0–8) | 3.2/2.5 → 3 (0–6) | 0.8/0.6 → 0 (0–2) | 0.8/0.5 → 0 (0–2) | 7 (1–14) |
 | Devin Carter | – | 12 (–) → 14.1 (6.5) | 0/0 → 6 (1–12) | 2/2 → 2 (0–5) | 1/1 → 2 (0–4) | 0/0 → 0 (0–2) | 10 (2–20) |
 
