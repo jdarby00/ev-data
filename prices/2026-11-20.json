@@ -67,7 +67,7 @@
    "api_home": "Denver Nuggets",
    "away": "Houston Rockets",
    "close": false,
-   "commence_time": "2026-11-21T03:10:00Z",
+   "commence_time": "2026-11-21T03:14:00Z",
    "event_id": "086d2fe80483ffcc280994fe2e12d4f4",
    "home": "Denver Nuggets",
    "issues": [
@@ -91,7 +91,7 @@
    "api_home": "Los Angeles Lakers",
    "away": "Kings",
    "close": true,
-   "commence_time": "2026-11-21T03:10:00Z",
+   "commence_time": "2026-11-21T03:13:00Z",
    "event_id": "55c3096b11f501ffb6d8bccbb2cd319d",
    "home": "Lakers",
    "issues": [
@@ -117,7 +117,7 @@
    "api_home": "Los Angeles Lakers",
    "away": "Kings",
    "close": true,
-   "commence_time": "2026-11-21T03:10:00Z",
+   "commence_time": "2026-11-21T03:13:00Z",
    "event_id": "55c3096b11f501ffb6d8bccbb2cd319d",
    "home": "Lakers",
    "issues": [
@@ -276,7 +276,7 @@
    "api_home": "Denver Nuggets",
    "away": "Rockets",
    "close": true,
-   "commence_time": "2026-11-21T03:10:00Z",
+   "commence_time": "2026-11-21T03:14:00Z",
    "event_id": "086d2fe80483ffcc280994fe2e12d4f4",
    "home": "Nuggets",
    "issues": [
@@ -302,7 +302,7 @@
    "api_home": "Los Angeles Lakers",
    "away": "Sacramento Kings",
    "close": false,
-   "commence_time": "2026-11-21T03:10:00Z",
+   "commence_time": "2026-11-21T03:13:00Z",
    "event_id": "55c3096b11f501ffb6d8bccbb2cd319d",
    "home": "Los Angeles Lakers",
    "issues": [
@@ -421,7 +421,7 @@
    "close": false,
    "commence_time": "2026-11-21T04:00:00Z",
    "event_id": "slate",
-   "games": 12,
+   "games": 7,
    "home": "*",
    "issues": [
     "2026-11-20T21:53:46Z lock skipped: monthly cap reached (420/420)",
@@ -431,7 +431,8 @@
     "2026-11-21T00:58:18Z lock skipped: monthly cap reached (420/420)",
     "2026-11-21T02:28:18Z lock skipped: monthly cap reached (420/420)",
     "2026-11-21T02:58:20Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T03:08:36Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-21T03:08:36Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-21T03:48:18Z close skipped: monthly cap reached (420/420)"
    ],
    "market": "h2h",
    "players": [],
@@ -445,7 +446,7 @@
    "close": false,
    "commence_time": "2026-11-21T04:00:00Z",
    "event_id": "slate",
-   "games": 12,
+   "games": 7,
    "home": "*",
    "issues": [
     "2026-11-20T21:53:46Z lock skipped: monthly cap reached (420/420)",
@@ -455,7 +456,8 @@
     "2026-11-21T00:58:18Z lock skipped: monthly cap reached (420/420)",
     "2026-11-21T02:28:18Z lock skipped: monthly cap reached (420/420)",
     "2026-11-21T02:58:20Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-21T03:08:36Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-21T03:08:36Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-21T03:48:18Z close skipped: monthly cap reached (420/420)"
    ],
    "market": "spreads",
    "players": [],
@@ -469,5 +471,5 @@
  "spent_month": 420,
  "spent_today": 0,
  "stop": null,
- "updated": "2026-11-21T03:08:36Z"
+ "updated": "2026-11-21T03:48:18Z"
 }
