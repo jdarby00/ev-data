@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "updated_et": "2026-11-21 16:15",
+ "updated_et": "2026-11-21 18:47",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -26,9 +26,9 @@
    "away_name": "Portland Trail Blazers",
    "home_name": "New York Knicks",
    "state": "pre",
-   "spread_text": "NY -3.5",
-   "spread": -3.5,
-   "total": 215.5,
+   "spread_text": "POR -1.5",
+   "spread": 1.5,
+   "total": 213.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -54,8 +54,8 @@
    "away_name": "Memphis Grizzlies",
    "home_name": "Minnesota Timberwolves",
    "state": "pre",
-   "spread_text": "MIN -6.5",
-   "spread": -6.5,
+   "spread_text": "MIN -5.5",
+   "spread": -5.5,
    "total": 228.5,
    "odds_source": "Draft Kings",
    "season_type": 2
@@ -70,7 +70,7 @@
    "state": "pre",
    "spread_text": "SA -18.5",
    "spread": -18.5,
-   "total": 228.5,
+   "total": 229.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -84,7 +84,7 @@
    "state": "pre",
    "spread_text": "BOS -12.5",
    "spread": 12.5,
-   "total": 216.5,
+   "total": 215.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   }
@@ -116,10 +116,10 @@
   "Dallas Mavericks": [
    {
     "player": "P.J. Washington",
-    "status": "Day-To-Day",
-    "detail": "Washington (illness/shoulder) has been downgraded from questionable to doubtful ahead of Saturday's game against the Clippers.",
-    "type": "day-to-day",
-    "updated": "2026-11-21T19:22Z"
+    "status": "Out",
+    "detail": "Washington (illness/shoulder) is listed as out for Saturday's game against the Clippers.",
+    "type": "out",
+    "updated": "2026-11-21T23:14Z"
    },
    {
     "player": "Tobi Lawal",
@@ -127,13 +127,6 @@
     "detail": "Lawal (groin) is out for Saturday's game against the Clippers.",
     "type": "out",
     "updated": "2026-11-21T15:08Z"
-   },
-   {
-    "player": "Walter Clayton Jr.",
-    "status": "Day-To-Day",
-    "detail": "Clayton (knee) is questionable for Saturday's game against the Clippers.",
-    "type": "day-to-day",
-    "updated": "2026-11-20T22:35Z"
    },
    {
     "player": "Dereck Lively II",
@@ -295,18 +288,18 @@
   ],
   "New York Knicks": [
    {
-    "player": "OG Anunoby",
-    "status": "Day-To-Day",
-    "detail": "Anunoby (calf) has been downgraded to doubtful for Saturday's game against the Trail Bllazers.",
-    "type": "day-to-day",
-    "updated": "2026-11-21T16:09Z"
+    "player": "Karl-Anthony Towns",
+    "status": "Out",
+    "detail": "Towns (illness) won't play in Saturday's game versus the Trail Blazers.",
+    "type": "out",
+    "updated": "2026-11-21T22:51Z"
    },
    {
-    "player": "Karl-Anthony Towns",
-    "status": "Day-To-Day",
-    "detail": "Towns is questionable for Saturday's game against the Trail Blazers due to an illness.",
-    "type": "day-to-day",
-    "updated": "2026-11-21T16:05Z"
+    "player": "OG Anunoby",
+    "status": "Out",
+    "detail": "Anunoby (calf) has been ruled out for Saturday's game against the Trail Blazers.",
+    "type": "out",
+    "updated": "2026-11-21T21:49Z"
    },
    {
     "player": "Jordan Clarkson",
@@ -355,13 +348,6 @@
     "updated": "2026-11-20T22:18Z"
    },
    {
-    "player": "Deni Avdija",
-    "status": "Day-To-Day",
-    "detail": "Avdija (foot) is listed as questionable for Saturday's game against the Knicks.",
-    "type": "day-to-day",
-    "updated": "2026-11-20T22:08Z"
-   },
-   {
     "player": "Vit Krejci",
     "status": "Out",
     "detail": "Krejci underwent surgery on his fractured left ankle Wednesday and will be re-evaluated in eight weeks, Brett Siegel of ClutchPoints.com reports.",
@@ -387,9 +373,9 @@
    {
     "player": "Precious Achiuwa",
     "status": "Day-To-Day",
-    "detail": "Achiuwa (lower leg) has been ruled out for Friday's game against the Lakers.",
+    "detail": "Achiuwa (lower leg) is questionable for Saturday's game against the Celtics.",
     "type": "day-to-day",
-    "updated": "2026-11-21T14:55Z"
+    "updated": "2026-11-21T21:19Z"
    },
    {
     "player": "Maxime Raynaud",
@@ -500,6 +486,41 @@
    "player": "Trey Murphy III",
    "from": "not listed",
    "to": "Out"
+  },
+  {
+   "at_et": "2026-11-21 18:47",
+   "team": "Dallas Mavericks",
+   "player": "P.J. Washington",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-21 18:47",
+   "team": "Dallas Mavericks",
+   "player": "Walter Clayton Jr.",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-21 18:47",
+   "team": "New York Knicks",
+   "player": "Karl-Anthony Towns",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-21 18:47",
+   "team": "New York Knicks",
+   "player": "OG Anunoby",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-21 18:47",
+   "team": "Portland Trail Blazers",
+   "player": "Deni Avdija",
+   "from": "Day-To-Day",
+   "to": "removed from report"
   }
  ]
 }

@@ -1,6 +1,6 @@
 # Scoreboard
 
-Built Sat 21 Nov 2026, 4:15 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
+Built Sat 21 Nov 2026, 6:47 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
 
 ## Jake's real money
 
@@ -50,11 +50,11 @@ CLV is the expected value of the bet price against the de-vigged closing price (
 | boost_parlay_20 | 3 | 0–3–0–0 | $-15.00 | -100.0% | $485.00 | $15.00 | – | 0 |
 | boost_parlay_50 | 4 | 0–4–0–0 | $-20.00 | -100.0% | $480.00 | $20.00 | – | 0 |
 | always_over | 37 | 14–17–0–6 | $-24.28 | -15.7% | $475.72 | $54.49 | – | 0 |
-| card | 53 | 13–40–0–0 | $-107.40 | -40.5% | $392.60 | $115.85 | 3, -4.7%, 100% | 11 |
-| r15_pra_under | 665 | 330–318–0–17 | $-121.43 | -3.7% | $378.57 | $167.54 | 168, -5.5%, 41% | 11 |
-| r15_combo_under | 1352 | 674–641–0–37 | $-232.04 | -3.5% | $267.96 | $334.85 | – | 21 |
-| r15_ast_under | 621 | 293–310–0–18 | $-285.65 | -9.5% | $214.35 | $310.54 | 10, -4.3%, 44% | 10 |
-| r16_avg_under | 2656 | 1343–1254–0–59 | $-679.02 | -5.2% | $-179.02 | $743.30 | 233, -5.2%, 44% | 0 |
+| card | 53 | 13–40–0–0 | $-107.40 | -40.5% | $392.60 | $115.85 | 3, -4.7%, 100% | 22 |
+| r15_pra_under | 665 | 330–318–0–17 | $-121.43 | -3.7% | $378.57 | $167.54 | 168, -5.5%, 41% | 69 |
+| r15_combo_under | 1352 | 674–641–0–37 | $-232.04 | -3.5% | $267.96 | $334.85 | – | 132 |
+| r15_ast_under | 621 | 293–310–0–18 | $-285.65 | -9.5% | $214.35 | $310.54 | 10, -4.3%, 44% | 68 |
+| r16_avg_under | 2656 | 1343–1254–0–59 | $-679.02 | -5.2% | $-179.02 | $743.30 | 233, -5.2%, 44% | 249 |
 
 ## Calibration (real-price bets with a final win chance)
 
@@ -70,4 +70,4 @@ Brier score 0.257 (a coin flip is 0.250).
 ## Open items
 
 - a6ac9837fa5c: withdrawal after the start ignored
-- 59 pending (waiting for box scores or a manual settle).
+- 546 pending (waiting for box scores or a manual settle).
