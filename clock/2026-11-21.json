@@ -40,6 +40,7 @@
   "news_1810": "2026-11-21T23:10:00Z",
   "recheck_1155": "2026-11-21T16:55:00Z",
   "recheck_1740": "2026-11-21T22:40:00Z",
+  "recheck_1820": "2026-11-21T23:20:00Z",
   "record_0640": "2026-11-21T11:40:00Z",
   "sgo_1045": "2026-11-21T15:45:00Z",
   "sgo_1620": "2026-11-21T21:20:03Z"
@@ -78,6 +79,7 @@
   "2026-11-21T21:20:00Z escreen_1620: dispatched jdarby00/dk-odds espn-screen.yml (HTTP 204)",
   "2026-11-21T21:20:03Z sgo_1620: dispatched jdarby00/dk-odds sgo-links.yml (HTTP 204)",
   "2026-11-21T22:40:00Z recheck_1740: dispatched jdarby00/dk-odds recheck.yml (HTTP 204)",
-  "2026-11-21T23:10:00Z news_1810: dispatched jdarby00/dk-odds late-news.yml (HTTP 204)"
+  "2026-11-21T23:10:00Z news_1810: dispatched jdarby00/dk-odds late-news.yml (HTTP 204)",
+  "2026-11-21T23:20:00Z recheck_1820: dispatched jdarby00/dk-odds recheck.yml (HTTP 204)"
  ]
 }
