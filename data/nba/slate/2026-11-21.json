@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "updated_et": "2026-11-21 05:20",
+ "updated_et": "2026-11-21 12:35",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -26,9 +26,9 @@
    "away_name": "Portland Trail Blazers",
    "home_name": "New York Knicks",
    "state": "pre",
-   "spread_text": "NY -5.5",
-   "spread": -5.5,
-   "total": 217.5,
+   "spread_text": "NY -3.5",
+   "spread": -3.5,
+   "total": 215.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -42,7 +42,7 @@
    "state": "pre",
    "spread_text": "DAL -5.5",
    "spread": -5.5,
-   "total": 228.5,
+   "total": 230.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -54,9 +54,9 @@
    "away_name": "Memphis Grizzlies",
    "home_name": "Minnesota Timberwolves",
    "state": "pre",
-   "spread_text": "MIN -5.5",
-   "spread": -5.5,
-   "total": 226.5,
+   "spread_text": "MIN -6.5",
+   "spread": -6.5,
+   "total": 228.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -68,9 +68,9 @@
    "away_name": "New Orleans Pelicans",
    "home_name": "San Antonio Spurs",
    "state": "pre",
-   "spread_text": "SA -17.5",
-   "spread": -17.5,
-   "total": 227.5,
+   "spread_text": "SA -18.5",
+   "spread": -18.5,
+   "total": 229.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -82,8 +82,8 @@
    "away_name": "Boston Celtics",
    "home_name": "Sacramento Kings",
    "state": "pre",
-   "spread_text": "BOS -12.5",
-   "spread": 12.5,
+   "spread_text": "BOS -13.5",
+   "spread": 13.5,
    "total": 217.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -108,6 +108,13 @@
   ],
   "Dallas Mavericks": [
    {
+    "player": "Tobi Lawal",
+    "status": "Out",
+    "detail": "Lawal (groin) is out for Saturday's game against the Clippers.",
+    "type": "out",
+    "updated": "2026-11-21T15:08Z"
+   },
+   {
     "player": "P.J. Washington",
     "status": "Day-To-Day",
     "detail": "Washington (shoulder) is listed as questionable for Saturday's game versus the Clippers.",
@@ -127,13 +134,6 @@
     "detail": "Head coach Dusty May said Friday that Lively (foot) is moving well and progressing in his recovery, and the big man told May he's \"close\" to returning, Mike Curtis of The Dallas Morning News reports.",
     "type": "out",
     "updated": "2026-11-20T19:31Z"
-   },
-   {
-    "player": "Tobi Lawal",
-    "status": "Day-To-Day",
-    "detail": "Lawal is out for Wednesday's game against the Warriors due to tightness in his right groin.",
-    "type": "day-to-day",
-    "updated": "2026-11-19T14:51Z"
    },
    {
     "player": "Sergio de Larrea",
@@ -288,41 +288,34 @@
   ],
   "New York Knicks": [
    {
+    "player": "OG Anunoby",
+    "status": "Day-To-Day",
+    "detail": "Anunoby (calf) has been downgraded to doubtful for Saturday's game against the Trail Bllazers.",
+    "type": "day-to-day",
+    "updated": "2026-11-21T16:09Z"
+   },
+   {
+    "player": "Karl-Anthony Towns",
+    "status": "Day-To-Day",
+    "detail": "Towns is questionable for Saturday's game against the Trail Blazers due to an illness.",
+    "type": "day-to-day",
+    "updated": "2026-11-21T16:05Z"
+   },
+   {
     "player": "Jordan Clarkson",
     "status": "Out",
     "detail": "Clarkson (foot) won't play in Saturday's game against Portland.",
     "type": "out",
     "updated": "2026-11-20T22:21Z"
-   },
-   {
-    "player": "OG Anunoby",
-    "status": "Day-To-Day",
-    "detail": "Anunoby (calf) is questionable for Saturday's game against Portland.",
-    "type": "day-to-day",
-    "updated": "2026-11-20T22:10Z"
    }
   ],
   "Philadelphia 76ers": [
-   {
-    "player": "Dominick Barlow",
-    "status": "Out",
-    "detail": "Barlow (back) is probable for Saturday's game versus the Bucks.",
-    "type": "out",
-    "updated": "2026-11-20T22:13Z"
-   },
    {
     "player": "Dean Wade",
     "status": "Out",
     "detail": "Wade (hamstring) won't play Saturday against the Bucks.",
     "type": "out",
     "updated": "2026-11-20T22:11Z"
-   },
-   {
-    "player": "Tyrese Maxey",
-    "status": "Day-To-Day",
-    "detail": "Maxey (foot) is questionable for Saturday's game against the Bucks.",
-    "type": "day-to-day",
-    "updated": "2026-11-20T22:07Z"
    },
    {
     "player": "Adem Bona",
@@ -386,10 +379,10 @@
   "Sacramento Kings": [
    {
     "player": "Precious Achiuwa",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Achiuwa (lower leg) has been ruled out for Friday's game against the Lakers.",
-    "type": "out",
-    "updated": "2026-11-20T21:21Z"
+    "type": "day-to-day",
+    "updated": "2026-11-21T14:55Z"
    },
    {
     "player": "Maxime Raynaud",
@@ -430,5 +423,41 @@
    }
   ]
  },
- "status_changes": []
+ "status_changes": [
+  {
+   "at_et": "2026-11-21 12:35",
+   "team": "Dallas Mavericks",
+   "player": "Tobi Lawal",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-21 12:35",
+   "team": "New York Knicks",
+   "player": "Karl-Anthony Towns",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-21 12:35",
+   "team": "Philadelphia 76ers",
+   "player": "Dominick Barlow",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-21 12:35",
+   "team": "Philadelphia 76ers",
+   "player": "Tyrese Maxey",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-21 12:35",
+   "team": "Sacramento Kings",
+   "player": "Precious Achiuwa",
+   "from": "Out",
+   "to": "Day-To-Day"
+  }
+ ]
 }
