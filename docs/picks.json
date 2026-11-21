@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "built_at": "2026-11-21T11:48:23Z",
+ "built_at": "2026-11-21T14:29:54Z",
  "code_card": [
   {
    "lane": "likely",
@@ -142,7 +142,7 @@
    "min_price_boost50": -107,
    "boost_needed": "30% or 50%",
    "price_note": "separate legs multiplied; the book's SGP price is usually shorter: check the slip",
-   "first_shown": "2026-11-21T11:48:23Z",
+   "first_shown": "2026-11-21T14:29:54Z",
    "changed": ""
   }
  ],
@@ -527,30 +527,6 @@
   },
   {
    "lane": "likely",
-   "sport": "soccer",
-   "game": "CAG @ COMO",
-   "start_utc": "2026-11-21T14:00Z",
-   "event_id": "401875056",
-   "kind": "game",
-   "market": "moneyline",
-   "line": 0.0,
-   "side": "home",
-   "bet": "COMO to win",
-   "book": "draftkings",
-   "price": -360,
-   "p": 0.7356,
-   "p_mkt": 0.7356,
-   "basis": "all-books fair (6 books)",
-   "flags": [],
-   "anchor_only": true,
-   "tier": "Straight",
-   "decimal": 1.278,
-   "edge": -0.0599,
-   "gate_evidence": "team line: needs injury, rest and form checks by hand",
-   "parlay_ok": false
-  },
-  {
-   "lane": "likely",
    "sport": "nba",
    "game": "NO @ SA",
    "start_utc": "2026-11-22T01:00Z",
@@ -597,14 +573,14 @@
    "bet": "B04 to win",
    "book": "draftkings",
    "price": -350,
-   "p": 0.7327,
-   "p_mkt": 0.7327,
+   "p": 0.7307,
+   "p_mkt": 0.7307,
    "basis": "all-books fair (7 books)",
    "flags": [],
    "anchor_only": true,
    "tier": "Straight",
    "decimal": 1.286,
-   "edge": -0.0577,
+   "edge": -0.0603,
    "gate_evidence": "team line: needs injury, rest and form checks by hand",
    "parlay_ok": false
   },
@@ -2589,7 +2565,7 @@
    "min_price_boost50": -107,
    "boost_needed": "30% or 50%",
    "price_note": "separate legs multiplied; the book's SGP price is usually shorter: check the slip",
-   "first_shown": "2026-11-21T11:48:23Z",
+   "first_shown": "2026-11-21T14:29:54Z",
    "changed": ""
   },
   {
@@ -2638,7 +2614,7 @@
    "min_price_boost50": 170,
    "boost_needed": "30% or 50%",
    "price_note": "separate legs multiplied; the book's SGP price is usually shorter: check the slip",
-   "first_shown": "2026-11-21T11:48:23Z",
+   "first_shown": "2026-11-21T14:29:54Z",
    "changed": ""
   },
   {
@@ -2667,7 +2643,7 @@
    "ev": -0.1094,
    "ev_boost30": 0.0474,
    "ev_boost50": 0.152,
-   "first_shown": "2026-11-21T11:48:23Z",
+   "first_shown": "2026-11-21T14:29:54Z",
    "changed": ""
   },
   {
@@ -2696,7 +2672,7 @@
    "ev": -0.0991,
    "ev_boost30": 0.0464,
    "ev_boost50": 0.1434,
-   "first_shown": "2026-11-21T11:48:23Z",
+   "first_shown": "2026-11-21T14:29:54Z",
    "changed": ""
   },
   {
@@ -3377,30 +3353,6 @@
   },
   {
    "lane": "likely",
-   "sport": "soccer",
-   "game": "CAG @ COMO",
-   "start_utc": "2026-11-21T14:00Z",
-   "event_id": "401875056",
-   "kind": "game",
-   "market": "moneyline",
-   "line": 0.0,
-   "side": "home",
-   "bet": "COMO to win",
-   "book": "draftkings",
-   "price": -360,
-   "p": 0.7356,
-   "p_mkt": 0.7356,
-   "basis": "all-books fair (6 books)",
-   "flags": [],
-   "anchor_only": true,
-   "tier": "Straight",
-   "decimal": 1.278,
-   "edge": -0.0599,
-   "gate_evidence": "team line: needs injury, rest and form checks by hand",
-   "parlay_ok": false
-  },
-  {
-   "lane": "likely",
    "sport": "nba",
    "game": "NO @ SA",
    "start_utc": "2026-11-22T01:00Z",
@@ -3447,14 +3399,14 @@
    "bet": "B04 to win",
    "book": "draftkings",
    "price": -350,
-   "p": 0.7327,
-   "p_mkt": 0.7327,
+   "p": 0.7307,
+   "p_mkt": 0.7307,
    "basis": "all-books fair (7 books)",
    "flags": [],
    "anchor_only": true,
    "tier": "Straight",
    "decimal": 1.286,
-   "edge": -0.0577,
+   "edge": -0.0603,
    "gate_evidence": "team line: needs injury, rest and form checks by hand",
    "parlay_ok": false
   },
@@ -5439,7 +5391,7 @@
    "min_price_boost50": -107,
    "boost_needed": "30% or 50%",
    "price_note": "separate legs multiplied; the book's SGP price is usually shorter: check the slip",
-   "first_shown": "2026-11-21T11:48:23Z",
+   "first_shown": "2026-11-21T14:29:54Z",
    "changed": ""
   },
   {
@@ -5488,7 +5440,7 @@
    "min_price_boost50": 170,
    "boost_needed": "30% or 50%",
    "price_note": "separate legs multiplied; the book's SGP price is usually shorter: check the slip",
-   "first_shown": "2026-11-21T11:48:23Z",
+   "first_shown": "2026-11-21T14:29:54Z",
    "changed": ""
   },
   {
@@ -5517,7 +5469,7 @@
    "ev": -0.1094,
    "ev_boost30": 0.0474,
    "ev_boost50": 0.152,
-   "first_shown": "2026-11-21T11:48:23Z",
+   "first_shown": "2026-11-21T14:29:54Z",
    "changed": ""
   },
   {
@@ -5546,7 +5498,7 @@
    "ev": -0.0991,
    "ev_boost30": 0.0464,
    "ev_boost50": 0.1434,
-   "first_shown": "2026-11-21T11:48:23Z",
+   "first_shown": "2026-11-21T14:29:54Z",
    "changed": ""
   },
   {
