@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "updated_et": "2026-11-20 21:23",
+ "updated_et": "2026-11-20 22:26",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -25,7 +25,7 @@
    "home": "BKN",
    "away_name": "Orlando Magic",
    "home_name": "Brooklyn Nets",
-   "state": "in",
+   "state": "post",
    "spread_text": "ORL -6.5",
    "spread": 6.5,
    "total": 224.5,
@@ -39,7 +39,7 @@
    "home": "CLE",
    "away_name": "Indiana Pacers",
    "home_name": "Cleveland Cavaliers",
-   "state": "in",
+   "state": "post",
    "spread_text": "CLE -5.5",
    "spread": -5.5,
    "total": 234.5,
@@ -53,7 +53,7 @@
    "home": "DET",
    "away_name": "Toronto Raptors",
    "home_name": "Detroit Pistons",
-   "state": "in",
+   "state": "post",
    "spread_text": "DET -6.5",
    "spread": -6.5,
    "total": 216.5,
@@ -67,7 +67,7 @@
    "home": "CHI",
    "away_name": "Washington Wizards",
    "home_name": "Chicago Bulls",
-   "state": "in",
+   "state": "post",
    "spread_text": "CHI -1.5",
    "spread": -1.5,
    "total": 237.5,
@@ -81,7 +81,7 @@
    "home": "OKC",
    "away_name": "New Orleans Pelicans",
    "home_name": "Oklahoma City Thunder",
-   "state": "in",
+   "state": "post",
    "spread_text": "OKC -11.5",
    "spread": -11.5,
    "total": 229.5,
@@ -95,7 +95,7 @@
    "home": "UTAH",
    "away_name": "Phoenix Suns",
    "home_name": "Utah Jazz",
-   "state": "pre",
+   "state": "in",
    "spread_text": "PHX -4.5",
    "spread": 4.5,
    "total": 226.5,
@@ -109,7 +109,7 @@
    "home": "DEN",
    "away_name": "Houston Rockets",
    "home_name": "Denver Nuggets",
-   "state": "pre",
+   "state": "in",
    "spread_text": "HOU -1.5",
    "spread": 1.5,
    "total": 227.5,
@@ -123,7 +123,7 @@
    "home": "LAL",
    "away_name": "Sacramento Kings",
    "home_name": "Los Angeles Lakers",
-   "state": "pre",
+   "state": "in",
    "spread_text": "LAL -14.5",
    "spread": -14.5,
    "total": 229.5,
@@ -178,6 +178,13 @@
   ],
   "Brooklyn Nets": [
    {
+    "player": "Nolan Traore",
+    "status": "Out",
+    "detail": "Traore (hamstring) won't return to Friday's game against Orlando, Meghan Triplett of YES Network reports. He finished with four points (2-6 FG, 0-2 3Pt) and two assists over 18 minutes.",
+    "type": "out",
+    "updated": "2026-11-21T02:25Z"
+   },
+   {
     "player": "Grant Nelson",
     "status": "Out",
     "detail": "Nelson (ankle) has been ruled out for Friday's game against Orlando.",
@@ -186,13 +193,6 @@
    }
   ],
   "Charlotte Hornets": [
-   {
-    "player": "Brandon Miller",
-    "status": "Day-To-Day",
-    "detail": "Miller amassed 28 points (10-19 FG, 5-12 3Pt, 3-3 FT), two rebounds, four assists and one block in 32 minutes during Tuesday's 118-114 overtime loss to the Lakers.",
-    "type": "day-to-day",
-    "updated": "2026-11-21T00:35Z"
-   },
    {
     "player": "Grant Williams",
     "status": "Out",
@@ -729,6 +729,20 @@
    "player": "Felix Okpara",
    "from": "Day-To-Day",
    "to": "Out"
+  },
+  {
+   "at_et": "2026-11-20 22:26",
+   "team": "Brooklyn Nets",
+   "player": "Nolan Traore",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-20 22:26",
+   "team": "Charlotte Hornets",
+   "player": "Brandon Miller",
+   "from": "Day-To-Day",
+   "to": "removed from report"
   }
  ]
 }

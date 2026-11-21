@@ -1,13 +1,11 @@
 # NBA board, 2026-11-20
 
-Slate updated 2026-11-20 21:23 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-20 22:26 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 19:47 Chicago Bulls: Jalen Smith Day-To-Day → Out
-- 19:47 Chicago Bulls: Noa Essengue Day-To-Day → removed from report
 - 19:47 Cleveland Cavaliers: Peyton Watson Day-To-Day → removed from report
 - 19:47 Detroit Pistons: Ronald Holland II Day-To-Day → Out
 - 19:47 Detroit Pistons: Cade Cunningham Day-To-Day → removed from report
@@ -21,6 +19,8 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 21:23 Houston Rockets: Alperen Sengun Day-To-Day → removed from report
 - 21:23 Sacramento Kings: De'Andre Hunter Day-To-Day → removed from report
 - 21:23 Washington Wizards: Felix Okpara Day-To-Day → Out
+- 22:26 Brooklyn Nets: Nolan Traore not listed → Out
+- 22:26 Charlotte Hornets: Brandon Miller Day-To-Day → removed from report
 
 ## CHA @ ATL, 19:00 ET
 Line: ATL -7.5, total 218.5 (DraftKings).
@@ -37,7 +37,7 @@ Line: ATL -7.5, total 218.5 (DraftKings).
 | Moussa Diabate | – | 29.8 (4.9) → 30.2 (22.5) | 7.6/8.7 → 8 (3–15) | 11.2/10.2 → 10 (6–16) | 2/2 → 2 (0–4) | 0/0 → 0 (0–0) | 21 (11–32) |
 | Grayson Allen | Out | 28.4 (5) | 15/14.9 | 3.4/3.1 | 4.6/3.3 | 3.4/3.4 | – |
 | Dennis Schroder | Out | 28.2 (6.8) | 7.2/10.2 | 3.2/3.6 | 5/4.9 | 0.8/0.8 | – |
-| Brandon Miller | Day-To-Day | 25.4 (7.1) → 28.4 (19.2) | 13.6/19.9 → 18 (8–29) | 2.2/4.5 → 4 (1–7) | 2.8/2.5 → 3 (1–6) | 2/2.8 → 2 (1–5) | 25 (13–39) |
+| Brandon Miller | – | 25.4 (7.1) → 28.4 (19.2) | 13.6/19.9 → 18 (8–29) | 2.2/4.5 → 4 (1–7) | 2.8/2.5 → 3 (1–6) | 2/2.8 → 2 (1–5) | 25 (13–39) |
 | Royce O'Neale | – | 24.8 (5.9) → 24 (16) | 8/5.7 → 7 (2–14) | 3.6/3.2 → 4 (1–7) | 1/0.7 → 1 (0–3) | 2.2/1.5 → 2 (0–4) | 13 (5–22) |
 | Grant Williams | Out | 22 (5.9) | 11.3/11.3 | 2.7/2.7 | 0.7/0.7 | 2.3/2.3 | – |
 | Ryan Kalkbrenner | – | 20.8 (6) → 18.9 (11) | 5/4.7 → 6 (1–11) | 6.8/5.2 → 5 (2–9) | 1.2/1.4 → 1 (0–2) | 0/0 → 0 (0–0) | 12 (4–21) |
@@ -86,7 +86,7 @@ Line: ORL -6.5, total 224.5 (DraftKings).
 | Alex Morales | – | 16.4 (7.6) → 14.6 (4.8) | 3/2.1 → 4 (0–9) | 3/2.4 → 2 (0–5) | 0.8/0.6 → 1 (0–4) | 0.4/0.2 → 0 (0–1) | 8 (1–16) |
 | Jamal Cain | – | 15.8 (9.2) → 14.6 (3.1) | 5/5.5 → 5 (0–12) | 5/3.2 → 2 (0–6) | 0.6/0.4 → 0 (0–2) | 0.6/0.8 → 0 (0–2) | 8 (0–19) |
 
-**BKN** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Grant Nelson.
+**BKN** (1 rest day). Out: Nolan Traore. Freed minutes: 22.6. Out all season so far (already in the lines): Grant Nelson.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -94,7 +94,7 @@ Line: ORL -6.5, total 224.5 (DraftKings).
 | Julius Randle | – | 30.2 (3.7) → 31.3 (23.6) | 20.4/20.6 → 20 (11–31) | 3.6/5.9 → 5 (2–9) | 3.8/4.6 → 4 (2–8) | 1.6/1.6 → 1 (0–3) | 30 (17–44) |
 | Danny Wolf | – | 25.4 (8.4) → 22.8 (12.1) | 8.6/9 → 9 (2–16) | 5.6/5.6 → 5 (2–10) | 2/1.9 → 2 (0–4) | 1.6/1.9 → 1 (0–3) | 16 (6–28) |
 | Egor Demin | – | 23.4 (6.5) → 25.2 (16.6) | 13.2/11.9 → 12 (4–20) | 2/2.2 → 3 (1–5) | 2.6/2.8 → 3 (1–6) | 2.4/2.2 → 2 (0–5) | 17 (8–29) |
-| Nolan Traore | – | 23.4 (3.2) → 23.8 (16.1) | 16/13.5 → 12 (5–21) | 1/1.8 → 1 (0–3) | 2.8/2.8 → 3 (1–6) | 1.4/1.6 → 1 (0–3) | 17 (8–28) |
+| Nolan Traore | Out | 23.4 (3.2) | 16/13.5 | 1/1.8 | 2.8/2.8 | 1.4/1.6 | – |
 | Day'Ron Sharpe | – | 22.8 (3.7) → 23.4 (15.7) | 9.8/8.5 → 9 (3–17) | 6.6/7.1 → 7 (3–12) | 4.4/4 → 3 (1–7) | 0.4/0.4 → 0 (0–1) | 21 (10–33) |
 | Mikel Brown Jr. | – | 22 (3.5) → 22.8 (15.2) | 12/11.4 → 10 (3–17) | 1.2/1.8 → 3 (1–5) | 3.6/3.8 → 3 (1–6) | 2.2/1.9 → 1 (0–3) | 15 (6–26) |
 | Noah Clowney | – | 21 (6.4) → 22.1 (13.6) | 9.8/6.9 → 9 (3–16) | 3.2/4.4 → 3 (1–7) | 1.4/1 → 1 (0–3) | 1.4/0.9 → 1 (0–3) | 14 (5–24) |
