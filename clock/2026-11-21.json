@@ -39,7 +39,8 @@
   "mscreen_0645": "2026-11-21T11:45:00Z",
   "recheck_1155": "2026-11-21T16:55:00Z",
   "record_0640": "2026-11-21T11:40:00Z",
-  "sgo_1045": "2026-11-21T15:45:00Z"
+  "sgo_1045": "2026-11-21T15:45:00Z",
+  "sgo_1620": "2026-11-21T21:20:03Z"
  },
  "log": [
   "2026-11-21T08:50:13Z hand-over to a fresh clock run",
@@ -72,6 +73,7 @@
   "2026-11-21T21:15:03Z board_1405: dispatched jdarby00/ev-data nba.yml (HTTP 204)",
   "2026-11-21T21:15:06Z board_1445: dispatched jdarby00/ev-data nba.yml (HTTP 204)",
   "2026-11-21T21:15:08Z board_1615: dispatched jdarby00/ev-data nba.yml (HTTP 204)",
-  "2026-11-21T21:20:00Z escreen_1620: dispatched jdarby00/dk-odds espn-screen.yml (HTTP 204)"
+  "2026-11-21T21:20:00Z escreen_1620: dispatched jdarby00/dk-odds espn-screen.yml (HTTP 204)",
+  "2026-11-21T21:20:03Z sgo_1620: dispatched jdarby00/dk-odds sgo-links.yml (HTTP 204)"
  ]
 }
