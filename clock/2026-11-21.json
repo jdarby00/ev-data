@@ -19,7 +19,8 @@
   "fclose@2026-11-21T15:03:00Z": "2026-11-21T15:03:01Z",
   "lab_0610": "2026-11-21T11:10:00Z",
   "mscreen_0645": "2026-11-21T11:45:00Z",
-  "record_0640": "2026-11-21T11:40:00Z"
+  "record_0640": "2026-11-21T11:40:00Z",
+  "sgo_1045": "2026-11-21T15:45:00Z"
  },
  "log": [
   "2026-11-21T08:50:13Z hand-over to a fresh clock run",
@@ -36,6 +37,7 @@
   "2026-11-21T15:03:01Z fclose@2026-11-21T15:03:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
   "2026-11-21T15:05:00Z cbbscreen_1005: dispatched jdarby00/dk-odds market-screen.yml (HTTP 204)",
   "2026-11-21T15:40:01Z boosts_1040: dispatched jdarby00/dk-odds boosts.yml (HTTP 204)",
-  "2026-11-21T15:40:05Z escreen_1040: dispatched jdarby00/dk-odds espn-screen.yml (HTTP 204)"
+  "2026-11-21T15:40:05Z escreen_1040: dispatched jdarby00/dk-odds espn-screen.yml (HTTP 204)",
+  "2026-11-21T15:45:00Z sgo_1045: dispatched jdarby00/dk-odds sgo-links.yml (HTTP 204)"
  ]
 }
