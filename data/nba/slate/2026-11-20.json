@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "updated_et": "2026-11-20 17:21",
+ "updated_et": "2026-11-20 19:47",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,7 +11,7 @@
    "home": "ATL",
    "away_name": "Charlotte Hornets",
    "home_name": "Atlanta Hawks",
-   "state": "pre",
+   "state": "in",
    "spread_text": "ATL -7.5",
    "spread": -7.5,
    "total": 218.5,
@@ -25,7 +25,7 @@
    "home": "BKN",
    "away_name": "Orlando Magic",
    "home_name": "Brooklyn Nets",
-   "state": "pre",
+   "state": "in",
    "spread_text": "ORL -6.5",
    "spread": 6.5,
    "total": 224.5,
@@ -39,7 +39,7 @@
    "home": "CLE",
    "away_name": "Indiana Pacers",
    "home_name": "Cleveland Cavaliers",
-   "state": "pre",
+   "state": "in",
    "spread_text": "CLE -5.5",
    "spread": -5.5,
    "total": 234.5,
@@ -53,7 +53,7 @@
    "home": "DET",
    "away_name": "Toronto Raptors",
    "home_name": "Detroit Pistons",
-   "state": "pre",
+   "state": "in",
    "spread_text": "DET -6.5",
    "spread": -6.5,
    "total": 216.5,
@@ -68,10 +68,10 @@
    "away_name": "Washington Wizards",
    "home_name": "Chicago Bulls",
    "state": "pre",
-   "spread_text": "CHI -2.5",
-   "spread": -2.5,
-   "total": 238.5,
-   "odds_source": "DraftKings",
+   "spread_text": "CHI -1.5",
+   "spread": -1.5,
+   "total": 237.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -84,8 +84,8 @@
    "state": "pre",
    "spread_text": "OKC -11.5",
    "spread": -11.5,
-   "total": 227.5,
-   "odds_source": "DraftKings",
+   "total": 229.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -99,7 +99,7 @@
    "spread_text": "PHX -4.5",
    "spread": 4.5,
    "total": 225.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -112,8 +112,8 @@
    "state": "pre",
    "spread_text": "DEN -1.5",
    "spread": -1.5,
-   "total": 226.5,
-   "odds_source": "DraftKings",
+   "total": 227.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -127,25 +127,25 @@
    "spread_text": "LAL -14.5",
    "spread": -14.5,
    "total": 229.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   }
  ],
  "injuries": {
   "Atlanta Hawks": [
    {
+    "player": "Kingston Flemings",
+    "status": "Out",
+    "detail": "Flemings (back) is out for Friday's game against the Hornets, Brad Rowland of the Locked On Podcast Network reports.",
+    "type": "out",
+    "updated": "2026-11-20T22:15Z"
+   },
+   {
     "player": "Jock Landale",
     "status": "Out",
     "detail": "Landale (hip) won't play in Friday's game against the Hornets, Brad Rowland of the Locked On Podcast Network reports.",
     "type": "out",
     "updated": "2026-11-19T22:07Z"
-   },
-   {
-    "player": "Kingston Flemings",
-    "status": "Day-To-Day",
-    "detail": "Flemings (back) is questionable for Friday's game against the Hornets, Brad Rowland of the Locked On Podcast Network reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-19T22:05Z"
    },
    {
     "player": "Asa Newell",
@@ -218,17 +218,10 @@
   "Chicago Bulls": [
    {
     "player": "Jalen Smith",
-    "status": "Day-To-Day",
-    "detail": "Smith (illness) has been downgraded to questionable for Friday's game against the Wizards.",
-    "type": "day-to-day",
-    "updated": "2026-11-20T17:41Z"
-   },
-   {
-    "player": "Noa Essengue",
-    "status": "Day-To-Day",
-    "detail": "Essengue is listed as probable for Friday's game against Washington due to bilateral wrist soreness.",
-    "type": "day-to-day",
-    "updated": "2026-11-19T22:12Z"
+    "status": "Out",
+    "detail": "Smith (illness) is out for Friday's game against the Wizards, Joel Lorenzi of The Athletic reports.",
+    "type": "out",
+    "updated": "2026-11-20T23:19Z"
    },
    {
     "player": "Tobe Awaka",
@@ -252,13 +245,6 @@
     "detail": "Tyson (ankle) has been ruled out for Friday's game against Indiana.",
     "type": "out",
     "updated": "2026-11-19T21:55Z"
-   },
-   {
-    "player": "Peyton Watson",
-    "status": "Day-To-Day",
-    "detail": "Watson (back) is questionable for Friday's game against the Pacers.",
-    "type": "day-to-day",
-    "updated": "2026-11-19T21:50Z"
    },
    {
     "player": "Nae'Qwan Tomlin",
@@ -287,17 +273,17 @@
   "Detroit Pistons": [
    {
     "player": "Ronald Holland II",
-    "status": "Day-To-Day",
+    "status": "Out",
     "detail": "Holland (knee) has been upgraded to doubtful for Friday's game against Toronto, Hunter Patterson of The Athletic reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-20T17:46Z"
+    "type": "out",
+    "updated": "2026-11-21T00:32Z"
    },
    {
     "player": "Taurean Prince",
     "status": "Out",
-    "detail": "Prince underwent right knee surgery and is listed as out for Friday's game against the Raptors.",
+    "detail": "Prince (knee) underwent surgery to address lingering issues and has no timeline for a return, Hunter Patterson of The Athletic reports.",
     "type": "out",
-    "updated": "2026-11-19T21:53Z"
+    "updated": "2026-11-20T23:02Z"
    },
    {
     "player": "Ebuka Okorie",
@@ -305,13 +291,6 @@
     "detail": "Okorie (oblique) has been ruled out for Friday's game against Toronto.",
     "type": "out",
     "updated": "2026-11-19T21:43Z"
-   },
-   {
-    "player": "Cade Cunningham",
-    "status": "Day-To-Day",
-    "detail": "Cunningham (knee) is expected to play in Friday's game against the Raptors, Blake Murphy of Sportsnet.ca reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-19T21:36Z"
    },
    {
     "player": "Ugonna Onyenso",
@@ -367,27 +346,6 @@
     "updated": "2026-11-20T20:41Z"
    },
    {
-    "player": "T.J. McConnell",
-    "status": "Day-To-Day",
-    "detail": "McConnell (hamstring) is listed as probable for Friday's game in Cleveland.",
-    "type": "day-to-day",
-    "updated": "2026-11-19T22:14Z"
-   },
-   {
-    "player": "Andrew Nembhard",
-    "status": "Day-To-Day",
-    "detail": "Nembhard (hip) is questionable for Friday's game in Cleveland.",
-    "type": "day-to-day",
-    "updated": "2026-11-19T22:07Z"
-   },
-   {
-    "player": "Braden Smith",
-    "status": "Day-To-Day",
-    "detail": "Smith (ankle) is listed as questionable for Friday's game against Cleveland.",
-    "type": "day-to-day",
-    "updated": "2026-11-19T22:05Z"
-   },
-   {
     "player": "Johnny Furphy",
     "status": "Out",
     "detail": "Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com.",
@@ -434,13 +392,6 @@
     "updated": "2026-11-19T21:07Z"
    },
    {
-    "player": "Trey Murphy III",
-    "status": "Out",
-    "detail": "Murphy (knee) is questionable for Friday's game against the Thunder.",
-    "type": "out",
-    "updated": "2026-11-19T21:05Z"
-   },
-   {
     "player": "Dejounte Murray",
     "status": "Out",
     "detail": "Murray (ankle) is out for Friday's game against Memphis.",
@@ -450,18 +401,18 @@
   ],
   "Oklahoma City Thunder": [
    {
+    "player": "Alex Caruso",
+    "status": "Out",
+    "detail": "Caruso (hip) is listed as out for Friday's game against the Pelicans.",
+    "type": "out",
+    "updated": "2026-11-20T23:24Z"
+   },
+   {
     "player": "Nikola Topic",
     "status": "Out",
     "detail": "Topic (hip) is out for Friday's game against New Orleans.",
     "type": "out",
     "updated": "2026-11-20T17:02Z"
-   },
-   {
-    "player": "Alex Caruso",
-    "status": "Day-To-Day",
-    "detail": "Caruso is questionable for Friday's game against the Pelicans due to right hip soreness, Justin Martinez of The Oklahoman reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-19T23:21Z"
    },
    {
     "player": "Thomas Sorber",
@@ -595,9 +546,9 @@
    {
     "player": "Jusuf Nurkic",
     "status": "Out",
-    "detail": "Nurkic (toe) is listed as out for Friday's game against Phoenix.",
+    "detail": "Nurkic (foot) has been cleared for on-court work and will be re-evaluated in one week.",
     "type": "out",
-    "updated": "2026-11-20T00:05Z"
+    "updated": "2026-11-20T22:40Z"
    },
    {
     "player": "Lauri Markkanen",
@@ -678,6 +629,83 @@
    "at_et": "2026-11-20 17:21",
    "team": "Sacramento Kings",
    "player": "Precious Achiuwa",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-20 19:47",
+   "team": "Atlanta Hawks",
+   "player": "Kingston Flemings",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-20 19:47",
+   "team": "Chicago Bulls",
+   "player": "Jalen Smith",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-20 19:47",
+   "team": "Chicago Bulls",
+   "player": "Noa Essengue",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-20 19:47",
+   "team": "Cleveland Cavaliers",
+   "player": "Peyton Watson",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-20 19:47",
+   "team": "Detroit Pistons",
+   "player": "Ronald Holland II",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-20 19:47",
+   "team": "Detroit Pistons",
+   "player": "Cade Cunningham",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-20 19:47",
+   "team": "Indiana Pacers",
+   "player": "T.J. McConnell",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-20 19:47",
+   "team": "Indiana Pacers",
+   "player": "Andrew Nembhard",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-20 19:47",
+   "team": "Indiana Pacers",
+   "player": "Braden Smith",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-20 19:47",
+   "team": "New Orleans Pelicans",
+   "player": "Trey Murphy III",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-20 19:47",
+   "team": "Oklahoma City Thunder",
+   "player": "Alex Caruso",
    "from": "Day-To-Day",
    "to": "Out"
   }
