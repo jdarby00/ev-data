@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "updated_et": "2026-11-20 19:47",
+ "updated_et": "2026-11-20 21:23",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,7 +11,7 @@
    "home": "ATL",
    "away_name": "Charlotte Hornets",
    "home_name": "Atlanta Hawks",
-   "state": "in",
+   "state": "post",
    "spread_text": "ATL -7.5",
    "spread": -7.5,
    "total": 218.5,
@@ -67,7 +67,7 @@
    "home": "CHI",
    "away_name": "Washington Wizards",
    "home_name": "Chicago Bulls",
-   "state": "pre",
+   "state": "in",
    "spread_text": "CHI -1.5",
    "spread": -1.5,
    "total": 237.5,
@@ -81,7 +81,7 @@
    "home": "OKC",
    "away_name": "New Orleans Pelicans",
    "home_name": "Oklahoma City Thunder",
-   "state": "pre",
+   "state": "in",
    "spread_text": "OKC -11.5",
    "spread": -11.5,
    "total": 229.5,
@@ -98,8 +98,8 @@
    "state": "pre",
    "spread_text": "PHX -4.5",
    "spread": 4.5,
-   "total": 225.5,
-   "odds_source": "Draft Kings",
+   "total": 226.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -110,10 +110,10 @@
    "away_name": "Houston Rockets",
    "home_name": "Denver Nuggets",
    "state": "pre",
-   "spread_text": "DEN -1.5",
-   "spread": -1.5,
+   "spread_text": "HOU -1.5",
+   "spread": 1.5,
    "total": 227.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -127,7 +127,7 @@
    "spread_text": "LAL -14.5",
    "spread": -14.5,
    "total": 229.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
@@ -186,6 +186,13 @@
    }
   ],
   "Charlotte Hornets": [
+   {
+    "player": "Brandon Miller",
+    "status": "Day-To-Day",
+    "detail": "Miller amassed 28 points (10-19 FG, 5-12 3Pt, 3-3 FT), two rebounds, four assists and one block in 32 minutes during Tuesday's 118-114 overtime loss to the Lakers.",
+    "type": "day-to-day",
+    "updated": "2026-11-21T00:35Z"
+   },
    {
     "player": "Grant Williams",
     "status": "Out",
@@ -274,9 +281,9 @@
    {
     "player": "Ronald Holland II",
     "status": "Out",
-    "detail": "Holland (knee) has been upgraded to doubtful for Friday's game against Toronto, Hunter Patterson of The Athletic reports.",
+    "detail": "Holland (knee) is listed as out for Friday's game against Toronto.",
     "type": "out",
-    "updated": "2026-11-21T00:32Z"
+    "updated": "2026-11-21T00:34Z"
    },
    {
     "player": "Taurean Prince",
@@ -316,25 +323,11 @@
   ],
   "Houston Rockets": [
    {
-    "player": "Steven Adams",
-    "status": "Day-To-Day",
-    "detail": "Adams (quadriceps) is listed as questionable for Friday's game against Denver.",
-    "type": "day-to-day",
-    "updated": "2026-11-19T23:22Z"
-   },
-   {
     "player": "Clint Capela",
     "status": "Out",
     "detail": "Capela (ankle) is out for Friday's game against Denver.",
     "type": "out",
     "updated": "2026-11-19T23:19Z"
-   },
-   {
-    "player": "Alperen Sengun",
-    "status": "Day-To-Day",
-    "detail": "Sengun (eye) is questionable for Friday's game against the Nuggets.",
-    "type": "day-to-day",
-    "updated": "2026-11-19T23:17Z"
    }
   ],
   "Indiana Pacers": [
@@ -364,9 +357,9 @@
    {
     "player": "Austin Reaves",
     "status": "Out",
-    "detail": "Reaves (heel) is listed as out for Friday's game against the Kings.",
+    "detail": "Head coach JJ Redick said he expects Reaves (heel) to return for Monday's matchup with Utah or Friday's game in San Antonio, Mark Medina of TheSportingTribune.com reports.",
     "type": "out",
-    "updated": "2026-11-20T01:05Z"
+    "updated": "2026-11-21T01:26Z"
    }
   ],
   "New Orleans Pelicans": [
@@ -491,13 +484,6 @@
     "updated": "2026-11-20T21:21Z"
    },
    {
-    "player": "De'Andre Hunter",
-    "status": "Day-To-Day",
-    "detail": "Hunter (hip) is listed as questionable for Friday's game against the Lakers.",
-    "type": "day-to-day",
-    "updated": "2026-11-20T01:21Z"
-   },
-   {
     "player": "Maxime Raynaud",
     "status": "Out",
     "detail": "Raynaud (knee) will remain on the inactive list for Wednesday's game against the Suns.",
@@ -568,10 +554,10 @@
   "Washington Wizards": [
    {
     "player": "Felix Okpara",
-    "status": "Day-To-Day",
+    "status": "Out",
     "detail": "Okpara (illness) is available for Friday's game against Toronto.",
-    "type": "day-to-day",
-    "updated": "2026-11-17T16:38Z"
+    "type": "out",
+    "updated": "2026-11-21T00:43Z"
    },
    {
     "player": "Tristan Vukcevic",
@@ -706,6 +692,41 @@
    "at_et": "2026-11-20 19:47",
    "team": "Oklahoma City Thunder",
    "player": "Alex Caruso",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-20 21:23",
+   "team": "Charlotte Hornets",
+   "player": "Brandon Miller",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-20 21:23",
+   "team": "Houston Rockets",
+   "player": "Steven Adams",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-20 21:23",
+   "team": "Houston Rockets",
+   "player": "Alperen Sengun",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-20 21:23",
+   "team": "Sacramento Kings",
+   "player": "De'Andre Hunter",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-20 21:23",
+   "team": "Washington Wizards",
+   "player": "Felix Okpara",
    "from": "Day-To-Day",
    "to": "Out"
   }
