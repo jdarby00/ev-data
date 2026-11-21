@@ -421,7 +421,7 @@
    "close": false,
    "commence_time": "2026-11-21T04:00:00Z",
    "event_id": "slate",
-   "games": 7,
+   "games": 4,
    "home": "*",
    "issues": [
     "2026-11-20T21:53:46Z lock skipped: monthly cap reached (420/420)",
@@ -446,7 +446,7 @@
    "close": false,
    "commence_time": "2026-11-21T04:00:00Z",
    "event_id": "slate",
-   "games": 7,
+   "games": 4,
    "home": "*",
    "issues": [
     "2026-11-20T21:53:46Z lock skipped: monthly cap reached (420/420)",
@@ -471,5 +471,5 @@
  "spent_month": 420,
  "spent_today": 0,
  "stop": null,
- "updated": "2026-11-21T03:48:18Z"
+ "updated": "2026-11-21T04:16:47Z"
 }
