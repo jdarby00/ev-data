@@ -3,6 +3,7 @@
  "done": {
   "auto_1425": "2026-11-21T19:25:01Z",
   "board_1405": "2026-11-21T21:15:03Z",
+  "board_1445": "2026-11-21T21:15:06Z",
   "boosts_1040": "2026-11-21T15:40:01Z",
   "boosts_1550": "2026-11-21T20:50:00Z",
   "box_0520": "2026-11-21T10:20:00Z",
@@ -66,6 +67,7 @@
   "2026-11-21T20:00:47Z hand-over to a fresh clock run",
   "2026-11-21T20:50:00Z boosts_1550: dispatched jdarby00/dk-odds boosts.yml (HTTP 204)",
   "2026-11-21T21:05:00Z cbbscreen_1605: dispatched jdarby00/dk-odds market-screen.yml (HTTP 204)",
-  "2026-11-21T21:15:03Z board_1405: dispatched jdarby00/ev-data nba.yml (HTTP 204)"
+  "2026-11-21T21:15:03Z board_1405: dispatched jdarby00/ev-data nba.yml (HTTP 204)",
+  "2026-11-21T21:15:06Z board_1445: dispatched jdarby00/ev-data nba.yml (HTTP 204)"
  ]
 }
