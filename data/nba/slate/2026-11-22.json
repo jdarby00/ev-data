@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "updated_et": "2026-11-22 14:05",
+ "updated_et": "2026-11-22 14:45",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -15,7 +15,7 @@
    "spread_text": "DET -1.5",
    "spread": 1.5,
    "total": 223.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -26,10 +26,10 @@
    "away_name": "Oklahoma City Thunder",
    "home_name": "Miami Heat",
    "state": "pre",
-   "spread_text": "MIA -4.5",
-   "spread": -4.5,
+   "spread_text": "MIA -3.5",
+   "spread": -3.5,
    "total": 231.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -40,10 +40,10 @@
    "away_name": "Denver Nuggets",
    "home_name": "Chicago Bulls",
    "state": "pre",
-   "spread_text": "DEN -10.5",
-   "spread": 10.5,
+   "spread_text": "DEN -9.5",
+   "spread": 9.5,
    "total": 235.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -54,10 +54,10 @@
    "away_name": "Dallas Mavericks",
    "home_name": "Utah Jazz",
    "state": "pre",
-   "spread_text": "UTAH -1.5",
-   "spread": -1.5,
-   "total": 223.5,
-   "odds_source": "DraftKings",
+   "spread_text": "DAL -1.5",
+   "spread": 1.5,
+   "total": 226.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -71,7 +71,7 @@
    "spread_text": "ORL -4.5",
    "spread": 4.5,
    "total": 220.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "NY -7.5",
    "spread": -7.5,
    "total": 213.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -99,7 +99,7 @@
    "spread_text": "BOS -8.5",
    "spread": 8.5,
    "total": 210.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   }
  ],
@@ -205,16 +205,23 @@
    {
     "player": "P.J. Washington",
     "status": "Day-To-Day",
-    "detail": "Washington (illness/shoulder) is listed as out for Saturday's game against the Clippers.",
+    "detail": "Washington (illness) is doubtful to play Sunday's game against the Jazz.",
     "type": "day-to-day",
-    "updated": "2026-11-22T15:02Z"
+    "updated": "2026-11-22T19:07Z"
+   },
+   {
+    "player": "Walter Clayton Jr.",
+    "status": "Day-To-Day",
+    "detail": "Clayton (knee) is listed as questionable for Sunday's game against the Jazz.",
+    "type": "day-to-day",
+    "updated": "2026-11-22T19:07Z"
    },
    {
     "player": "Tobi Lawal",
-    "status": "Day-To-Day",
-    "detail": "Lawal (groin) is out for Saturday's game against the Clippers.",
-    "type": "day-to-day",
-    "updated": "2026-11-22T15:02Z"
+    "status": "Out",
+    "detail": "Lawal (groin) has been ruled out for Sunday's game against the Jazz.",
+    "type": "out",
+    "updated": "2026-11-22T19:04Z"
    },
    {
     "player": "Dereck Lively II",
@@ -658,6 +665,20 @@
    "player": "Bub Carrington",
    "from": "not listed",
    "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-22 14:45",
+   "team": "Dallas Mavericks",
+   "player": "Walter Clayton Jr.",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-22 14:45",
+   "team": "Dallas Mavericks",
+   "player": "Tobi Lawal",
+   "from": "Day-To-Day",
+   "to": "Out"
   }
  ]
 }

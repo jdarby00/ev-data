@@ -1,13 +1,11 @@
 # NBA board, 2026-11-22
 
-Slate updated 2026-11-22 14:05 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-22 14:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 12:51 Boston Celtics: Derrick White Out → Day-To-Day
-- 12:51 Boston Celtics: Mitchell Robinson Out → Day-To-Day
 - 12:51 Boston Celtics: Jayson Tatum Out → Day-To-Day
 - 12:51 Chicago Bulls: Nic Claxton not listed → Day-To-Day
 - 12:51 Chicago Bulls: Norman Powell Day-To-Day → Out
@@ -21,9 +19,11 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 14:05 New York Knicks: OG Anunoby Day-To-Day → Out
 - 14:05 New York Knicks: Jordan Clarkson Day-To-Day → Out
 - 14:05 Washington Wizards: Bub Carrington not listed → Day-To-Day
+- 14:45 Dallas Mavericks: Walter Clayton Jr. not listed → Day-To-Day
+- 14:45 Dallas Mavericks: Tobi Lawal Day-To-Day → Out
 
 ## DET @ ATL, 15:30 ET
-Line: DET -1.5, total 223.5 (DraftKings).
+Line: DET -1.5, total 223.5 (Draft Kings).
 **DET** (1 rest day). Out: Duncan Robinson, Jalen Duren, Taurean Prince, Ebuka Okorie. Freed minutes: 60.8.
 - Without Jalen Duren: Daniss Jenkins min +13.2, pts +6.1, reb +0.3, ast +0.5 (n=13 vs 2)
 - Without Duncan Robinson: Chaz Lanier min +12.2, pts +0.8, reb +1.3, ast +0.3 (n=3 vs 4)
@@ -65,7 +65,7 @@ Line: DET -1.5, total 223.5 (DraftKings).
 | Zuby Ejiofor | – | 12 (5.3) → 12.2 (4.5) | 3.8/4.6 → 4 (0–10) | 2.8/2.9 → 2 (0–5) | 0.4/1.1 → 1 (0–3) | 0.6/0.6 → 0 (0–2) | 8 (1–16) |
 
 ## OKC @ MIA, 18:00 ET
-Line: MIA -4.5, total 231.5 (DraftKings).
+Line: MIA -3.5, total 231.5 (Draft Kings).
 **OKC** (1 rest day). Out: Jalen Williams, Chet Holmgren, Alex Caruso, Jaylin Williams, Cason Wallace, Nikola Topic. Freed minutes: 125.6. Out all season so far (already in the lines): Thomas Sorber.
 - Without Jalen Williams: Kenrich Williams min +17.5, pts +5.2, reb +2.9, ast +1.5 (n=13 vs 3)
 - Without Chet Holmgren: Kenrich Williams min +17.5, pts +5.2, reb +2.9, ast +1.5 (n=13 vs 3)
@@ -103,16 +103,16 @@ Line: MIA -4.5, total 231.5 (DraftKings).
 | Nikola Jovic | – | 12 (5.3) → 12.4 (4.7) | 1.8/2.6 → 4 (0–9) | 1.4/2.2 → 2 (0–5) | 2/1.4 → 1 (0–4) | 0.2/0.2 → 0 (0–2) | 8 (1–16) |
 
 ## DEN @ CHI, 19:00 ET
-Line: DEN -10.5, total 235.5 (DraftKings).
+Line: DEN -9.5, total 235.5 (Draft Kings).
 **DEN** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Julian Strawther.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
-| Nikola Jokic | – | 37.8 (2.5) → 35.6 (27.9) | 26.2/24.2 → 25 (15–37) | 9.8/10.4 → 11 (6–16) | 9/9.1 → 9 (5–15) | 1.8/1.3 → 1 (0–3) | 46 (29–63) |
-| Jamal Murray | – | 35.8 (3.3) → 34.5 (26.8) | 23.2/24.9 → 23 (13–34) | 4.8/5 → 4 (2–7) | 6/5.8 → 6 (3–10) | 1.6/3.1 → 2 (0–5) | 33 (20–48) |
-| Christian Braun | – | 32.8 (3.5) → 31.1 (23.4) | 14.6/13.2 → 12 (5–20) | 5/4.4 → 4 (2–8) | 2.8/2.4 → 2 (1–5) | 1.8/1.6 → 1 (0–3) | 19 (10–30) |
-| Aaron Gordon | – | 29.2 (2.7) → 27.6 (19.9) | 12.4/11.6 → 13 (6–22) | 4/4.8 → 5 (2–8) | 1.6/1.9 → 2 (0–4) | 1/1.1 → 1 (0–3) | 20 (10–31) |
-| Cameron Johnson | – | 28.6 (2.5) → 27.3 (19.6) | 14.2/12.1 → 12 (5–19) | 3.4/3.6 → 3 (1–6) | 2.6/2.1 → 2 (0–5) | 1.4/1.7 → 1 (0–3) | 17 (8–27) |
+| Nikola Jokic | – | 37.8 (2.5) → 37.1 (29.4) | 26.2/24.2 → 26 (16–38) | 9.8/10.4 → 11 (6–17) | 9/9.1 → 10 (5–15) | 1.8/1.3 → 1 (0–4) | 48 (31–65) |
+| Jamal Murray | – | 35.8 (3.3) → 36 (28.3) | 23.2/24.9 → 24 (14–35) | 4.8/5 → 4 (2–8) | 6/5.8 → 6 (3–10) | 1.6/3.1 → 2 (1–5) | 34 (21–49) |
+| Christian Braun | – | 32.8 (3.5) → 32.6 (24.9) | 14.6/13.2 → 13 (6–21) | 5/4.4 → 4 (2–8) | 2.8/2.4 → 2 (1–5) | 1.8/1.6 → 1 (0–3) | 20 (10–31) |
+| Aaron Gordon | – | 29.2 (2.7) → 29.1 (21.4) | 12.4/11.6 → 14 (6–23) | 4/4.8 → 5 (2–8) | 1.6/1.9 → 2 (0–4) | 1/1.1 → 1 (0–3) | 21 (11–33) |
+| Cameron Johnson | – | 28.6 (2.5) → 28.8 (21.1) | 14.2/12.1 → 12 (5–20) | 3.4/3.6 → 3 (1–6) | 2.6/2.1 → 2 (0–5) | 1.4/1.7 → 1 (0–4) | 18 (9–29) |
 | DeMar DeRozan | – | 21 (3.4) → 22.6 (14.9) | 10.4/10.3 → 12 (5–20) | 1.8/2 → 2 (0–4) | 2.2/2.6 → 2 (1–5) | 0.2/0.2 → 0 (0–1) | 17 (7–27) |
 | Spencer Jones | – | 18 (3.5) → 18.3 (10.6) | 3.2/4.1 → 4 (0–9) | 1.8/2.1 → 2 (0–5) | 1/0.9 → 1 (0–2) | 0.6/0.9 → 1 (0–2) | 7 (1–14) |
 | Trevon Brazile | – | 14.8 (4.2) → 15.6 (7.9) | 5/6.4 → 5 (1–11) | 4.4/5.2 → 3 (1–7) | 0/0.4 → 1 (0–2) | 0.4/0.6 → 0 (0–2) | 9 (2–18) |
@@ -128,7 +128,7 @@ Line: DEN -10.5, total 235.5 (DraftKings).
 |---|---|---|---|---|---|---|---|
 | Isaac Okoro | – | 31.6 (7.2) → 27.2 (17.9) | 11.6/7.3 → 9 (3–16) | 5.2/2.7 → 3 (1–7) | 2.6/1.8 → 2 (0–4) | 2/0.9 → 1 (0–3) | 15 (6–25) |
 | Norman Powell | Out | 30.6 (4.3) | 23.4/20.8 | 3.4/2.8 | 3.6/2.4 | 2.6/2.3 | – |
-| Matas Buzelis | – | 29 (3.7) → 26.8 (19.1) | 17.2/14.7 → 15 (7–24) | 5.6/4.7 → 5 (2–8) | 1.8/1.9 → 2 (0–4) | 2.8/2 → 2 (0–4) | 21 (11–34) |
+| Matas Buzelis | – | 29 (3.7) → 28.3 (20.6) | 17.2/14.7 → 16 (7–25) | 5.6/4.7 → 5 (2–9) | 1.8/1.9 → 2 (0–4) | 2.8/2 → 2 (0–5) | 23 (12–35) |
 | Jalen Smith | Day-To-Day | 28.2 (7.1) → 25 (15.8) | 17.2/13.4 → 13 (5–22) | 8.2/7.9 → 8 (3–13) | 2.8/2.2 → 2 (0–4) | 2.6/1.8 → 2 (0–4) | 23 (11–37) |
 | Josh Giddey | – | 28 (4.9) → 27.7 (20) | 9.4/9.9 → 12 (5–19) | 8.4/5.9 → 7 (3–11) | 8.6/8.4 → 8 (4–13) | 1.4/1.1 → 1 (0–3) | 27 (15–41) |
 | Caleb Wilson | Out | 26.8 (6.7) | 17/18.9 | 5.4/6.2 | 1.6/1.9 | 3/2.3 | – |
@@ -139,12 +139,12 @@ Line: DEN -10.5, total 235.5 (DraftKings).
 | Zach Collins | – | 14.2 (7) → 13.4 (4.3) | 4.4/2.8 → 5 (0–12) | 2.4/2.5 → 3 (0–7) | 2.4/1.3 → 1 (0–3) | 0.2/0.1 → 0 (0–1) | 10 (1–21) |
 
 ## DAL @ UTAH, 19:00 ET
-Line: UTAH -1.5, total 223.5 (DraftKings).
-**DAL** (back-to-back). Out: Sergio de Larrea. Freed minutes: 11.8. Out all season so far (already in the lines): Dereck Lively II, Tarik Biberovic.
+Line: DAL -1.5, total 226.5 (Draft Kings).
+**DAL** (back-to-back). Out: Sergio de Larrea, Tobi Lawal. Freed minutes: 16.4. Out all season so far (already in the lines): Dereck Lively II, Tarik Biberovic.
 - Without Sergio de Larrea: Max Christie min -16.7, pts -4.9, reb -2, ast -1.9 (n=9 vs 4)
 - Without Sergio de Larrea: Marcus Sasser min -9.9, pts -5.6, reb -0.9, ast -0.8 (n=8 vs 4)
 - Without Sergio de Larrea: Walter Clayton Jr. min +9.2, pts +2.2, reb +0.9, ast +0.5 (n=12 vs 3)
-- Without Sergio de Larrea: Zaccharie Risacher min -8.6, pts +0.8, reb -1.6, ast -0.4 (n=12 vs 4)
+- Without Tobi Lawal: Marcus Sasser min -9.1, pts -2.9, reb -0.3, ast -1.1 (n=5 vs 7)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -154,7 +154,7 @@ Line: UTAH -1.5, total 223.5 (DraftKings).
 | P.J. Washington | Day-To-Day | 25.4 (6.9) → 27.7 (18.7) | 12.4/14 → 13 (5–22) | 5.2/6.7 → 6 (2–10) | 1.6/1.3 → 1 (0–3) | 2/2.3 → 2 (0–4) | 20 (10–33) |
 | Naji Marshall | – | 23.4 (4.8) → 23.3 (15.6) | 10.8/11 → 11 (4–19) | 2.8/2.9 → 3 (1–6) | 2.8/3.8 → 2 (1–5) | 1.2/1 → 1 (0–2) | 17 (7–28) |
 | Zaccharie Risacher | – | 22.6 (4.9) → 22.4 (14.7) | 11.8/8.6 → 9 (3–16) | 4.6/4.8 → 4 (1–7) | 0.8/1.2 → 1 (0–2) | 1.6/1.1 → 1 (0–3) | 14 (6–24) |
-| Walter Clayton Jr. | – | 22 (4.1) → 21.7 (14) | 8.8/7.7 → 9 (3–15) | 2.8/3.1 → 3 (1–5) | 3.4/3.4 → 4 (1–7) | 1.4/1.3 → 1 (0–3) | 15 (6–25) |
+| Walter Clayton Jr. | Day-To-Day | 22 (4.1) → 21.7 (14) | 8.8/7.7 → 9 (3–15) | 2.8/3.1 → 3 (1–5) | 3.4/3.4 → 4 (1–7) | 1.4/1.3 → 1 (0–3) | 15 (6–25) |
 | Daniel Gafford | – | 21.4 (4.5) → 22.4 (14.7) | 6.4/8.6 → 9 (3–16) | 5.2/5.4 → 6 (3–10) | 1.8/1.9 → 1 (0–3) | 0.2/0.1 → 0 (0–0) | 16 (7–27) |
 | Morez Johnson Jr. | – | 17.2 (3.8) → 17.8 (10.1) | 3.6/6.3 → 6 (1–12) | 3.6/4.6 → 4 (1–7) | 1.4/1.3 → 1 (0–3) | 0.2/0.2 → 0 (0–2) | 11 (3–21) |
 | Max Christie | – | 12.2 (7.5) → 15.9 (6.3) | 5.2/5.8 → 6 (1–13) | 2.2/2.8 → 2 (0–5) | 0.4/1.2 → 1 (0–2) | 1.2/1.2 → 1 (0–3) | 9 (1–19) |
@@ -181,7 +181,7 @@ Line: UTAH -1.5, total 223.5 (DraftKings).
 | Josh Green | – | 19.8 (6.2) → 21.7 (13.4) | 7.2/4.8 → 6 (1–12) | 1.6/1.7 → 2 (0–4) | 0.6/0.9 → 1 (0–2) | 1.4/0.9 → 1 (0–3) | 9 (2–17) |
 
 ## ORL @ WSH, 19:00 ET
-Line: ORL -4.5, total 220.5 (DraftKings).
+Line: ORL -4.5, total 220.5 (Draft Kings).
 **ORL** (1 rest day). Out: Paolo Banchero. Freed minutes: 33.5. Out all season so far (already in the lines): Jonathan Isaac, Izaiyah Nelson, Noah Penda.
 - Without Paolo Banchero: Jase Richardson min +9.3, pts +2.3, reb +0.5, ast -0.7 (n=9 vs 2)
 - Without Paolo Banchero: Nikola Vucevic min +7.7, pts +4.3, reb +2, ast +0.7 (n=11 vs 2)
@@ -223,7 +223,7 @@ Line: ORL -4.5, total 220.5 (DraftKings).
 | Deandre Ayton | Day-To-Day | 9.4 (4.3) → 12.3 (4.6) | 1.6/3.8 → 4 (0–10) | 2.4/4.1 → 3 (1–7) | 0.4/0.7 → 0 (0–1) | 0/0 → 0 (0–0) | 8 (1–17) |
 
 ## IND @ NY, 20:00 ET
-Line: NY -7.5, total 213.5 (DraftKings).
+Line: NY -7.5, total 213.5 (Draft Kings).
 **IND** (1 rest day). Out: Tyrese Haliburton, T.J. McConnell, Ben Sheppard. Freed minutes: 58.7. Out all season so far (already in the lines): Johnny Furphy.
 - Without T.J. McConnell: Kobe Brown min +13.7, pts +5.6, reb +2.8, ast +1.2 (n=5 vs 2)
 - Without T.J. McConnell: Jarace Walker min +10.8, pts +2.5, reb +3.6, ast +0.7 (n=9 vs 6)
@@ -265,7 +265,7 @@ Line: NY -7.5, total 213.5 (DraftKings).
 | Jordan Clarkson | Out | 10 (3.7) | 3.2/4.9 | 1.8/1.6 | 0.4/0.4 | 0.2/0.5 | – |
 
 ## BOS @ GS, 20:30 ET
-Line: BOS -8.5, total 210.5 (DraftKings).
+Line: BOS -8.5, total 210.5 (Draft Kings).
 **BOS** (back-to-back). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
