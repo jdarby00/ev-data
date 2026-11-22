@@ -1,12 +1,11 @@
 # NBA board, 2026-11-21
 
-Slate updated 2026-11-21 18:47 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-21 20:23 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 12:35 Dallas Mavericks: Tobi Lawal Day-To-Day → Out
 - 12:35 New York Knicks: Karl-Anthony Towns not listed → Day-To-Day
 - 12:35 Philadelphia 76ers: Dominick Barlow Out → removed from report
 - 12:35 Philadelphia 76ers: Tyrese Maxey Day-To-Day → removed from report
@@ -21,6 +20,7 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 18:47 New York Knicks: Karl-Anthony Towns Day-To-Day → Out
 - 18:47 New York Knicks: OG Anunoby Day-To-Day → Out
 - 18:47 Portland Trail Blazers: Deni Avdija Day-To-Day → removed from report
+- 20:23 New Orleans Pelicans: Zion Williamson not listed → Out
 
 ## MIL @ PHI, 13:00 ET
 Line: PHI -11.5, total 229.5 (DraftKings).
@@ -188,7 +188,7 @@ Line: MIN -5.5, total 228.5 (Draft Kings).
 
 ## NO @ SA, 20:00 ET
 Line: SA -18.5, total 229.5 (Draft Kings).
-**NO** (back-to-back). Out: Trey Murphy III, Dejounte Murray, Trendon Watford, Bennedict Mathurin, Bryce McGowens. Freed minutes: 107.4.
+**NO** (back-to-back). Out: Trey Murphy III, Zion Williamson, Dejounte Murray, Trendon Watford, Bennedict Mathurin, Bryce McGowens. Freed minutes: 139.8.
 - Without Trey Murphy III: Jordan Poole min +11.4, pts +7.5, reb +0.1, ast +1.2 (n=6 vs 5)
 - Without Bennedict Mathurin: Saddiq Bey min +9.1, pts +0.3, reb +1.2, ast +1.4 (n=5 vs 12)
 - Without Dejounte Murray: Saddiq Bey min +8, pts +4.4, reb +3.5, ast +0 (n=8 vs 9)
@@ -199,7 +199,7 @@ Line: SA -18.5, total 229.5 (Draft Kings).
 | Saddiq Bey | – | 37.6 (5.7) → 32.8 (25) | 20/16.8 → 17 (9–27) | 7.2/4.5 → 5 (2–9) | 3.2/2.6 → 3 (1–5) | 3.8/2.4 → 2 (1–5) | 26 (14–38) |
 | Jeremiah Fears | – | 33 (3.2) → 30.2 (22.6) | 17.6/15.9 → 16 (8–26) | 6.2/5 → 5 (2–8) | 6.6/5.4 → 5 (2–8) | 1.4/1.2 → 1 (0–3) | 26 (14–39) |
 | Trey Murphy III | Out | 32.4 (3.4) | 17.2/15.7 | 5/4.7 | 3.8/3.3 | 2.4/2.3 | – |
-| Zion Williamson | – | 31.6 (3.7) → 30.6 (22.9) | 21.6/21.7 → 21 (11–32) | 6/5.4 → 5 (2–9) | 3.2/2.8 → 3 (1–6) | 0.4/0.4 → 0 (0–1) | 30 (17–44) |
+| Zion Williamson | Out | 31.6 (3.7) | 21.6/21.7 | 6/5.4 | 3.2/2.8 | 0.4/0.4 | – |
 | Dejounte Murray | Out | 30.8 (6.9) | 10/13.4 | 3.6/4.6 | 3.2/4.4 | 1/0.9 | – |
 | Herbert Jones | – | 29.6 (6.5) → 26.6 (18) | 9.8/6.9 → 8 (2–15) | 1.8/2.6 → 2 (1–5) | 2.6/1.5 → 2 (0–5) | 2.2/1.1 → 1 (0–4) | 13 (5–22) |
 | Jordan Poole | – | 23.8 (7.8) → 22.7 (12.7) | 13.2/10.1 → 12 (4–21) | 1.4/1.6 → 1 (0–3) | 4.2/3.3 → 3 (1–6) | 1.6/1.3 → 2 (0–4) | 16 (6–28) |
@@ -225,7 +225,7 @@ Line: SA -18.5, total 229.5 (Draft Kings).
 | Jayden Quaintance | Out | no games | | | | |
 
 ## BOS @ SAC, 22:00 ET
-Line: BOS -12.5, total 215.5 (Draft Kings).
+Line: BOS -11.5, total 215.5 (DraftKings).
 **BOS** (2 rest days). Out: Jayson Tatum, Derrick White, Mitchell Robinson. Freed minutes: 81.5.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |

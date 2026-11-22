@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "updated_et": "2026-11-21 18:47",
+ "updated_et": "2026-11-21 20:23",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -25,7 +25,7 @@
    "home": "NY",
    "away_name": "Portland Trail Blazers",
    "home_name": "New York Knicks",
-   "state": "pre",
+   "state": "in",
    "spread_text": "POR -1.5",
    "spread": 1.5,
    "total": 213.5,
@@ -39,7 +39,7 @@
    "home": "DAL",
    "away_name": "LA Clippers",
    "home_name": "Dallas Mavericks",
-   "state": "pre",
+   "state": "in",
    "spread_text": "DAL -4.5",
    "spread": -4.5,
    "total": 230.5,
@@ -53,7 +53,7 @@
    "home": "MIN",
    "away_name": "Memphis Grizzlies",
    "home_name": "Minnesota Timberwolves",
-   "state": "pre",
+   "state": "in",
    "spread_text": "MIN -5.5",
    "spread": -5.5,
    "total": 228.5,
@@ -67,7 +67,7 @@
    "home": "SA",
    "away_name": "New Orleans Pelicans",
    "home_name": "San Antonio Spurs",
-   "state": "pre",
+   "state": "in",
    "spread_text": "SA -18.5",
    "spread": -18.5,
    "total": 229.5,
@@ -82,10 +82,10 @@
    "away_name": "Boston Celtics",
    "home_name": "Sacramento Kings",
    "state": "pre",
-   "spread_text": "BOS -12.5",
-   "spread": 12.5,
+   "spread_text": "BOS -11.5",
+   "spread": 11.5,
    "total": 215.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
@@ -250,6 +250,13 @@
    }
   ],
   "New Orleans Pelicans": [
+   {
+    "player": "Zion Williamson",
+    "status": "Out",
+    "detail": "Williamson is out for Saturday's game against the Spurs due to a left thigh contusion.",
+    "type": "out",
+    "updated": "2026-11-22T00:39Z"
+   },
    {
     "player": "Trey Murphy III",
     "status": "Out",
@@ -521,6 +528,13 @@
    "player": "Deni Avdija",
    "from": "Day-To-Day",
    "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-21 20:23",
+   "team": "New Orleans Pelicans",
+   "player": "Zion Williamson",
+   "from": "not listed",
+   "to": "Out"
   }
  ]
 }
