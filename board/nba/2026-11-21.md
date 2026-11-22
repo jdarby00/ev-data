@@ -1,12 +1,11 @@
 # NBA board, 2026-11-21
 
-Slate updated 2026-11-21 20:23 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-21 21:37 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 12:35 New York Knicks: Karl-Anthony Towns not listed → Day-To-Day
 - 12:35 Philadelphia 76ers: Dominick Barlow Out → removed from report
 - 12:35 Philadelphia 76ers: Tyrese Maxey Day-To-Day → removed from report
 - 12:35 Sacramento Kings: Precious Achiuwa Out → Day-To-Day
@@ -21,6 +20,7 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 18:47 New York Knicks: OG Anunoby Day-To-Day → Out
 - 18:47 Portland Trail Blazers: Deni Avdija Day-To-Day → removed from report
 - 20:23 New Orleans Pelicans: Zion Williamson not listed → Out
+- 21:37 Sacramento Kings: Precious Achiuwa Day-To-Day → removed from report
 
 ## MIL @ PHI, 13:00 ET
 Line: PHI -11.5, total 229.5 (DraftKings).
@@ -225,7 +225,7 @@ Line: SA -18.5, total 229.5 (Draft Kings).
 | Jayden Quaintance | Out | no games | | | | |
 
 ## BOS @ SAC, 22:00 ET
-Line: BOS -11.5, total 215.5 (DraftKings).
+Line: BOS -12.5, total 217.5 (DraftKings).
 **BOS** (2 rest days). Out: Jayson Tatum, Derrick White, Mitchell Robinson. Freed minutes: 81.5.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -251,7 +251,7 @@ Line: BOS -11.5, total 215.5 (DraftKings).
 | Zach LaVine | – | 33 (5.6) → 32 (24.3) | 19/21 → 18 (9–28) | 4.4/3.6 → 3 (1–6) | 3.2/2.9 → 2 (1–5) | 2.8/2.7 → 2 (0–5) | 25 (13–37) |
 | Keegan Murray | – | 31.2 (6.9) → 29.8 (20.8) | 11.6/10.2 → 11 (4–19) | 4.8/3.9 → 4 (2–8) | 2.4/1.9 → 2 (0–4) | 1.6/1 → 1 (0–3) | 17 (8–28) |
 | Domantas Sabonis | – | 30 (5.4) → 30.2 (22.5) | 11.8/14.1 → 14 (6–22) | 11.2/13.4 → 11 (6–18) | 4.4/5.4 → 4 (1–7) | 0.4/0.3 → 0 (0–1) | 30 (17–44) |
-| Precious Achiuwa | Day-To-Day | 19.4 (10.8) → 21.2 (7.8) | 6.6/9.5 → 8 (1–16) | 4.8/5.8 → 5 (1–11) | 0.6/1 → 1 (0–3) | 0.6/0.3 → 0 (0–1) | 14 (3–27) |
+| Precious Achiuwa | – | 19.4 (10.8) → 21.2 (7.8) | 6.6/9.5 → 8 (1–16) | 4.8/5.8 → 5 (1–11) | 0.6/1 → 1 (0–3) | 0.6/0.3 → 0 (0–1) | 14 (3–27) |
 | Leaky Black | – | 19 (8.5) → 21.4 (10.6) | 3/5 → 4 (0–10) | 3/3.3 → 3 (1–7) | 1.4/1.6 → 1 (0–3) | 1/1.5 → 1 (0–3) | 9 (2–18) |
 | Dylan Cardwell | – | 16.6 (5.6) → 15.7 (8) | 4.6/5 → 4 (0–9) | 5.6/5.6 → 5 (2–10) | 1.2/1.5 → 1 (0–3) | 0/0 → 0 (0–0) | 11 (3–20) |
 | Malik Monk | – | 16.4 (7.6) → 18 (8.2) | 6.4/7.8 → 9 (2–17) | 1.2/1.2 → 1 (0–3) | 3.6/3.7 → 3 (1–6) | 0.6/1 → 1 (0–3) | 13 (4–24) |

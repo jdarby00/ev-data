@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "updated_et": "2026-11-21 20:23",
+ "updated_et": "2026-11-21 21:37",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -82,9 +82,9 @@
    "away_name": "Boston Celtics",
    "home_name": "Sacramento Kings",
    "state": "pre",
-   "spread_text": "BOS -11.5",
-   "spread": 11.5,
-   "total": 215.5,
+   "spread_text": "BOS -12.5",
+   "spread": 12.5,
+   "total": 217.5,
    "odds_source": "DraftKings",
    "season_type": 2
   }
@@ -378,13 +378,6 @@
   ],
   "Sacramento Kings": [
    {
-    "player": "Precious Achiuwa",
-    "status": "Day-To-Day",
-    "detail": "Achiuwa (lower leg) is questionable for Saturday's game against the Celtics.",
-    "type": "day-to-day",
-    "updated": "2026-11-21T21:19Z"
-   },
-   {
     "player": "Maxime Raynaud",
     "status": "Out",
     "detail": "Raynaud (knee) will remain on the inactive list for Wednesday's game against the Suns.",
@@ -535,6 +528,13 @@
    "player": "Zion Williamson",
    "from": "not listed",
    "to": "Out"
+  },
+  {
+   "at_et": "2026-11-21 21:37",
+   "team": "Sacramento Kings",
+   "player": "Precious Achiuwa",
+   "from": "Day-To-Day",
+   "to": "removed from report"
   }
  ]
 }
