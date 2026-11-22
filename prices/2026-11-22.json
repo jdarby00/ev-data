@@ -1,0 +1,45 @@
+{
+ "credits_remaining": 80,
+ "date": "2026-11-22",
+ "groups": {
+  "basketball_ncaab|slate|h2h": {
+   "away": "*",
+   "close": false,
+   "commence_time": "2026-11-23T04:59:00Z",
+   "event_id": "slate",
+   "games": 38,
+   "home": "*",
+   "issues": [
+    "2026-11-22T16:33:56Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "h2h",
+   "players": [],
+   "requested_rev": 1,
+   "slate": true,
+   "snapshots": [],
+   "sport": "basketball_ncaab"
+  },
+  "basketball_ncaab|slate|spreads": {
+   "away": "*",
+   "close": false,
+   "commence_time": "2026-11-23T04:59:00Z",
+   "event_id": "slate",
+   "games": 38,
+   "home": "*",
+   "issues": [
+    "2026-11-22T16:33:56Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "spreads",
+   "players": [],
+   "requested_rev": 1,
+   "slate": true,
+   "snapshots": [],
+   "sport": "basketball_ncaab"
+  }
+ },
+ "issues": [],
+ "spent_month": 420,
+ "spent_today": 0,
+ "stop": null,
+ "updated": "2026-11-22T16:33:56Z"
+}
