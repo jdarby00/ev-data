@@ -6,10 +6,12 @@
   "fclose:2026-11-22T13:00:00Z": "2026-11-22T12:48:03Z",
   "fclose:2026-11-22T14:00:00Z": "2026-11-22T13:48:00Z",
   "fclose:2026-11-22T14:30:00Z": "2026-11-22T14:18:00Z",
+  "fclose:2026-11-22T15:15:00Z": "2026-11-22T15:03:00Z",
   "fclose@2026-11-22T11:18:00Z": "2026-11-22T11:18:00Z",
   "fclose@2026-11-22T12:48:00Z": "2026-11-22T12:48:03Z",
   "fclose@2026-11-22T13:48:00Z": "2026-11-22T13:48:00Z",
   "fclose@2026-11-22T14:18:00Z": "2026-11-22T14:18:00Z",
+  "fclose@2026-11-22T15:03:00Z": "2026-11-22T15:03:00Z",
   "lab_0610": "2026-11-22T11:10:00Z",
   "mscreen_0645": "2026-11-22T11:45:00Z",
   "record_0640": "2026-11-22T11:40:00Z"
@@ -24,6 +26,7 @@
   "2026-11-22T12:46:44Z hand-over to a fresh clock run",
   "2026-11-22T12:48:03Z fclose@2026-11-22T12:48:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
   "2026-11-22T13:48:00Z fclose@2026-11-22T13:48:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
-  "2026-11-22T14:18:00Z fclose@2026-11-22T14:18:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)"
+  "2026-11-22T14:18:00Z fclose@2026-11-22T14:18:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
+  "2026-11-22T15:03:00Z fclose@2026-11-22T15:03:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)"
  ]
 }
