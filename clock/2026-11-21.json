@@ -11,7 +11,9 @@
   "cbbscreen_1005": "2026-11-21T15:05:00Z",
   "cbbscreen_1605": "2026-11-21T21:05:00Z",
   "close:2026-11-22T00:40:00Z": "2026-11-22T00:28:00Z",
+  "close:2026-11-22T01:10:00Z": "2026-11-22T00:58:00Z",
   "close@2026-11-22T00:28:00Z": "2026-11-22T00:28:00Z",
+  "close@2026-11-22T00:58:00Z": "2026-11-22T00:58:00Z",
   "escreen_1040": "2026-11-21T15:40:05Z",
   "escreen_1620": "2026-11-21T21:20:00Z",
   "fclose:2026-11-21T12:30:00Z": "2026-11-21T12:18:00Z",
@@ -91,6 +93,7 @@
   "2026-11-21T23:52:00Z recheck_1852: dispatched jdarby00/dk-odds recheck.yml (HTTP 204)",
   "2026-11-22T00:18:00Z fclose@2026-11-22T00:18:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
   "2026-11-22T00:28:00Z close@2026-11-22T00:28:00Z: dispatched jdarby00/dk-odds odds.yml (HTTP 204)",
-  "2026-11-22T00:48:00Z fclose@2026-11-22T00:48:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)"
+  "2026-11-22T00:48:00Z fclose@2026-11-22T00:48:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
+  "2026-11-22T00:58:00Z close@2026-11-22T00:58:00Z: dispatched jdarby00/dk-odds odds.yml (HTTP 204)"
  ]
 }
