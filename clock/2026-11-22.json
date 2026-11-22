@@ -10,6 +10,7 @@
   "cbbscreen_1005": "2026-11-22T15:05:00Z",
   "cbbscreen_1605": "2026-11-22T21:05:00Z",
   "escreen_1040": "2026-11-22T15:40:04Z",
+  "escreen_1620": "2026-11-22T21:20:00Z",
   "fclose:2026-11-22T11:30:00Z": "2026-11-22T11:18:00Z",
   "fclose:2026-11-22T13:00:00Z": "2026-11-22T12:48:03Z",
   "fclose:2026-11-22T14:00:00Z": "2026-11-22T13:48:00Z",
@@ -81,6 +82,7 @@
   "2026-11-22T20:53:00Z fclose@2026-11-22T20:53:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
   "2026-11-22T21:05:00Z cbbscreen_1605: dispatched jdarby00/dk-odds market-screen.yml (HTTP 204)",
   "2026-11-22T21:13:00Z fclose@2026-11-22T21:13:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
-  "2026-11-22T21:15:00Z mscreen_1615: dispatched jdarby00/dk-odds market-screen.yml (HTTP 204)"
+  "2026-11-22T21:15:00Z mscreen_1615: dispatched jdarby00/dk-odds market-screen.yml (HTTP 204)",
+  "2026-11-22T21:20:00Z escreen_1620: dispatched jdarby00/dk-odds espn-screen.yml (HTTP 204)"
  ]
 }
