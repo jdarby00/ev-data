@@ -1,11 +1,24 @@
 # NBA board, 2026-11-22
 
-Slate updated 2026-11-22 05:20 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-22 12:51 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
+## Status changes today
+
+- 12:51 Boston Celtics: Derrick White Out → Day-To-Day
+- 12:51 Boston Celtics: Mitchell Robinson Out → Day-To-Day
+- 12:51 Boston Celtics: Jayson Tatum Out → Day-To-Day
+- 12:51 Chicago Bulls: Nic Claxton not listed → Day-To-Day
+- 12:51 Chicago Bulls: Norman Powell Day-To-Day → Out
+- 12:51 Chicago Bulls: Tobe Awaka Out → removed from report
+- 12:51 Dallas Mavericks: P.J. Washington Out → Day-To-Day
+- 12:51 Dallas Mavericks: Tobi Lawal Out → Day-To-Day
+- 12:51 Detroit Pistons: Ugonna Onyenso Day-To-Day → removed from report
+- 12:51 Washington Wizards: Deandre Ayton not listed → Day-To-Day
+
 ## DET @ ATL, 15:30 ET
-Line: DET -2.5, total 225.5 (DraftKings).
+Line: DET -1.5, total 223.5 (Draft Kings).
 **DET** (1 rest day). Out: Duncan Robinson, Jalen Duren, Ronald Holland II, Taurean Prince, Ebuka Okorie. Freed minutes: 76.7.
 - Without Jalen Duren: Daniss Jenkins min +13.2, pts +6.1, reb +0.3, ast +0.5 (n=13 vs 2)
 - Without Duncan Robinson: Chaz Lanier min +12.2, pts +0.8, reb +1.3, ast +0.3 (n=3 vs 4)
@@ -47,7 +60,7 @@ Line: DET -2.5, total 225.5 (DraftKings).
 | Zuby Ejiofor | – | 12 (5.3) → 12.2 (4.5) | 3.8/4.6 → 4 (0–10) | 2.8/2.9 → 2 (0–5) | 0.4/1.1 → 1 (0–3) | 0.6/0.6 → 0 (0–2) | 8 (1–16) |
 
 ## OKC @ MIA, 18:00 ET
-Line: MIA -2.5, total 231.5 (DraftKings).
+Line: MIA -4.5, total 231.5 (Draft Kings).
 **OKC** (1 rest day). Out: Jalen Williams, Chet Holmgren, Alex Caruso, Jaylin Williams, Cason Wallace, Nikola Topic. Freed minutes: 125.6. Out all season so far (already in the lines): Thomas Sorber.
 - Without Jalen Williams: Kenrich Williams min +17.5, pts +5.2, reb +2.9, ast +1.5 (n=13 vs 3)
 - Without Chet Holmgren: Kenrich Williams min +17.5, pts +5.2, reb +2.9, ast +1.5 (n=13 vs 3)
@@ -85,7 +98,7 @@ Line: MIA -2.5, total 231.5 (DraftKings).
 | Nikola Jovic | – | 12 (5.3) → 12.4 (4.7) | 1.8/2.6 → 4 (0–9) | 1.4/2.2 → 2 (0–5) | 2/1.4 → 1 (0–4) | 0.2/0.2 → 0 (0–2) | 8 (1–16) |
 
 ## DEN @ CHI, 19:00 ET
-Line: DEN -8.5, total 237.5 (DraftKings).
+Line: DEN -9.5, total 234.5 (Draft Kings).
 **DEN** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Julian Strawther.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -100,40 +113,40 @@ Line: DEN -8.5, total 237.5 (DraftKings).
 | Trevon Brazile | – | 14.8 (4.2) → 15.6 (7.9) | 5/6.4 → 5 (1–11) | 4.4/5.2 → 3 (1–7) | 0/0.4 → 1 (0–2) | 0.4/0.6 → 0 (0–2) | 9 (2–18) |
 | Julian Strawther | Out | none this season; last season 15.1 min, 7.2 pts | | | | |
 
-**CHI** (1 rest day). Out: Caleb Wilson, Tobe Awaka. Freed minutes: 40.7.
+**CHI** (1 rest day). Out: Norman Powell, Caleb Wilson. Freed minutes: 60.2.
+- Without Norman Powell: Jordan Hawkins min +15.3, pts +6.4, reb +1.6, ast +1.3 (n=2 vs 5)
 - Without Caleb Wilson: Isaac Okoro min +12.5, pts +6.4, reb +3.8, ast +1.2 (n=5 vs 10)
 - Without Caleb Wilson: Zach Collins min +10.1, pts +4.1, reb +0.7, ast +2 (n=3 vs 7)
-- Without Tobe Awaka: Isaac Okoro min +8.5, pts +4.8, reb +2, ast +0 (n=11 vs 4)
 - Without Caleb Wilson: Buddy Hield min +8.2, pts +6.4, reb +1.4, ast +0.2 (n=5 vs 8)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Isaac Okoro | – | 31.6 (7.2) → 27.2 (17.9) | 11.6/7.3 → 9 (3–16) | 5.2/2.7 → 3 (1–7) | 2.6/1.8 → 2 (0–4) | 2/0.9 → 1 (0–3) | 15 (6–25) |
-| Norman Powell | Day-To-Day | 30.6 (4.3) → 29.8 (22.1) | 23.4/20.8 → 21 (11–32) | 3.4/2.8 → 3 (1–6) | 3.6/2.4 → 3 (1–5) | 2.6/2.3 → 2 (0–5) | 27 (15–40) |
+| Norman Powell | Out | 30.6 (4.3) | 23.4/20.8 | 3.4/2.8 | 3.6/2.4 | 2.6/2.3 | – |
 | Matas Buzelis | – | 29 (3.7) → 28.3 (20.6) | 17.2/14.7 → 16 (7–25) | 5.6/4.7 → 5 (2–9) | 1.8/1.9 → 2 (0–4) | 2.8/2 → 2 (0–5) | 23 (12–35) |
 | Jalen Smith | Day-To-Day | 28.2 (7.1) → 25 (15.8) | 17.2/13.4 → 13 (5–22) | 8.2/7.9 → 8 (3–13) | 2.8/2.2 → 2 (0–4) | 2.6/1.8 → 2 (0–4) | 23 (11–37) |
 | Josh Giddey | – | 28 (4.9) → 27.7 (20) | 9.4/9.9 → 12 (5–19) | 8.4/5.9 → 7 (3–11) | 8.6/8.4 → 8 (4–13) | 1.4/1.1 → 1 (0–3) | 27 (15–41) |
 | Caleb Wilson | Out | 26.8 (6.7) | 17/18.9 | 5.4/6.2 | 1.6/1.9 | 3/2.3 | – |
 | Buddy Hield | – | 21.2 (5.5) → 18.3 (10.6) | 12/8.1 → 9 (3–17) | 3.2/2.3 → 2 (0–5) | 1.8/1.7 → 1 (0–3) | 3/1.8 → 2 (0–4) | 13 (5–23) |
-| Nic Claxton | – | 21.2 (4.4) → 22.7 (15) | 10.4/9.3 → 10 (3–17) | 5/4.8 → 5 (2–9) | 1.2/1.7 → 2 (0–5) | 0/0 → 0 (0–0) | 17 (8–28) |
+| Nic Claxton | Day-To-Day | 21.2 (4.4) → 22.7 (15) | 10.4/9.3 → 10 (3–17) | 5/4.8 → 5 (2–9) | 1.2/1.7 → 2 (0–5) | 0/0 → 0 (0–0) | 17 (8–28) |
 | Tre Jones | – | 20.6 (4.4) → 21.2 (13.5) | 11.6/10.9 → 11 (4–19) | 1.2/2.1 → 2 (0–4) | 5.2/3.7 → 4 (1–8) | 0.2/0.3 → 0 (0–1) | 18 (8–29) |
 | Patrick Williams | Day-To-Day | 19.8 (5.4) → 20.4 (12.7) | 7/6.9 → 6 (1–12) | 2.6/2.9 → 3 (1–5) | 1.2/1.9 → 1 (0–3) | 1.2/0.9 → 1 (0–2) | 11 (3–19) |
 | Zach Collins | – | 14.2 (7) → 13.4 (4.3) | 4.4/2.8 → 5 (0–12) | 2.4/2.5 → 3 (0–7) | 2.4/1.3 → 1 (0–3) | 0.2/0.1 → 0 (0–1) | 10 (1–21) |
 
 ## DAL @ UTAH, 19:00 ET
-Line: DAL -1.5, total 225.5 (DraftKings).
-**DAL** (back-to-back). Out: P.J. Washington, Sergio de Larrea, Tobi Lawal. Freed minutes: 47.3. Out all season so far (already in the lines): Dereck Lively II, Tarik Biberovic.
+Line: UTAH -1.5, total 224.5 (Draft Kings).
+**DAL** (back-to-back). Out: Sergio de Larrea. Freed minutes: 11.8. Out all season so far (already in the lines): Dereck Lively II, Tarik Biberovic.
 - Without Sergio de Larrea: Max Christie min -16.7, pts -4.9, reb -2, ast -1.9 (n=9 vs 4)
 - Without Sergio de Larrea: Marcus Sasser min -9.9, pts -5.6, reb -0.9, ast -0.8 (n=8 vs 4)
 - Without Sergio de Larrea: Walter Clayton Jr. min +9.2, pts +2.2, reb +0.9, ast +0.5 (n=12 vs 3)
-- Without Tobi Lawal: Marcus Sasser min -9.1, pts -2.9, reb -0.3, ast -1.1 (n=5 vs 7)
+- Without Sergio de Larrea: Zaccharie Risacher min -8.6, pts +0.8, reb -1.6, ast -0.4 (n=12 vs 4)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Kyrie Irving | – | 33.2 (4.2) → 32.3 (24.6) | 24.2/22.5 → 18 (9–28) | 4.2/3.8 → 5 (2–9) | 4.4/4.4 → 4 (1–7) | 4/3.3 → 2 (1–5) | 27 (15–41) |
 | Cooper Flagg | – | 32.4 (5) → 33.6 (25.9) | 20.4/24.1 → 22 (12–33) | 5.8/6.5 → 6 (3–10) | 5.8/6.5 → 6 (2–10) | 1.8/1.5 → 1 (0–3) | 35 (21–50) |
 | Caleb Martin | – | 25.6 (6.5) → 22.2 (13.7) | 8.4/5.6 → 6 (1–11) | 4.8/3.3 → 4 (1–7) | 3.8/2.3 → 2 (0–5) | 1.6/1.1 → 1 (0–2) | 12 (4–21) |
-| P.J. Washington | Out | 25.4 (6.9) | 12.4/14 | 5.2/6.7 | 1.6/1.3 | 2/2.3 | – |
+| P.J. Washington | Day-To-Day | 25.4 (6.9) → 27.7 (18.7) | 12.4/14 → 13 (5–22) | 5.2/6.7 → 6 (2–10) | 1.6/1.3 → 1 (0–3) | 2/2.3 → 2 (0–4) | 20 (10–33) |
 | Naji Marshall | – | 23.4 (4.8) → 23.3 (15.6) | 10.8/11 → 11 (4–19) | 2.8/2.9 → 3 (1–6) | 2.8/3.8 → 2 (1–5) | 1.2/1 → 1 (0–2) | 17 (7–28) |
 | Zaccharie Risacher | – | 22.6 (4.9) → 22.4 (14.7) | 11.8/8.6 → 9 (3–16) | 4.6/4.8 → 4 (1–7) | 0.8/1.2 → 1 (0–2) | 1.6/1.1 → 1 (0–3) | 14 (6–24) |
 | Walter Clayton Jr. | – | 22 (4.1) → 21.7 (14) | 8.8/7.7 → 9 (3–15) | 2.8/3.1 → 3 (1–5) | 3.4/3.4 → 4 (1–7) | 1.4/1.3 → 1 (0–3) | 15 (6–25) |
@@ -163,7 +176,7 @@ Line: DAL -1.5, total 225.5 (DraftKings).
 | Josh Green | – | 19.8 (6.2) → 21.7 (13.4) | 7.2/4.8 → 6 (1–12) | 1.6/1.7 → 2 (0–4) | 0.6/0.9 → 1 (0–2) | 1.4/0.9 → 1 (0–3) | 9 (2–17) |
 
 ## ORL @ WSH, 19:00 ET
-Line: ORL -5.5, total 222.5 (DraftKings).
+Line: ORL -4.5, total 220.5 (Draft Kings).
 **ORL** (1 rest day). Out: Paolo Banchero. Freed minutes: 33.5. Out all season so far (already in the lines): Jonathan Isaac, Izaiyah Nelson, Noah Penda.
 - Without Paolo Banchero: Jase Richardson min +9.3, pts +2.3, reb +0.5, ast -0.7 (n=9 vs 2)
 - Without Paolo Banchero: Nikola Vucevic min +7.7, pts +4.3, reb +2, ast +0.7 (n=11 vs 2)
@@ -201,11 +214,11 @@ Line: ORL -5.5, total 222.5 (DraftKings).
 | Justin Champagnie | Out | 18.5 (8.6) | 7.2/7.2 | 7.5/7.5 | 1.2/1.2 | 0.5/0.5 | – |
 | Tre Johnson | – | 18.4 (9) → 18.4 (7.2) | 7.8/8.5 → 8 (1–16) | 2.2/1.9 → 2 (0–4) | 1.2/0.9 → 1 (0–3) | 1/1.2 → 1 (0–3) | 11 (2–22) |
 | Khris Middleton | – | 16 (6.7) → 18.6 (9.8) | 6/4.7 → 7 (1–14) | 1.8/1.9 → 2 (0–5) | 1.8/1.2 → 2 (0–4) | 1/0.7 → 1 (0–2) | 11 (3–21) |
+| Deandre Ayton | Day-To-Day | 9.4 (4.3) → 12.3 (4.6) | 1.6/3.8 → 4 (0–10) | 2.4/4.1 → 3 (1–7) | 0.4/0.7 → 0 (0–1) | 0/0 → 0 (0–0) | 8 (1–17) |
 | Reece Beekman | Out | 1 (–) | 0/0 | 0/0 | 0/0 | 0/0 | – |
-| Tristan Vukcevic | Out | none this season; last season 13.7 min, 9 pts | | | | |
 
 ## IND @ NY, 20:00 ET
-Line: NY -9.5, total 216.5 (DraftKings).
+Line: NY -8.5, total 214.5 (Draft Kings).
 **IND** (1 rest day). Out: Tyrese Haliburton, T.J. McConnell, Ben Sheppard. Freed minutes: 58.7. Out all season so far (already in the lines): Johnny Furphy.
 - Without T.J. McConnell: Kobe Brown min +13.7, pts +5.6, reb +2.8, ast +1.2 (n=5 vs 2)
 - Without T.J. McConnell: Jarace Walker min +10.8, pts +2.5, reb +3.6, ast +0.7 (n=9 vs 6)
@@ -243,23 +256,19 @@ Line: NY -9.5, total 216.5 (DraftKings).
 | Jordan Clarkson | Day-To-Day | 10 (3.7) → 10.5 (2.8) | 3.2/4.9 → 4 (0–11) | 1.8/1.6 → 1 (0–3) | 0.4/0.4 → 0 (0–2) | 0.2/0.5 → 0 (0–2) | 6 (0–14) |
 
 ## BOS @ GS, 20:30 ET
-Line: BOS -9.5, total 211.5 (DraftKings).
-**BOS** (back-to-back). Out: Jayson Tatum, Derrick White, Mitchell Robinson. Freed minutes: 81.5.
-- Without Jayson Tatum: Sam Hauser min +10.9, pts +4.3, reb +0.8, ast -0.2 (n=2 vs 14)
-- Without Jayson Tatum: Neemias Queta min +7.7, pts +2.3, reb +3, ast +0.2 (n=2 vs 13)
-- Without Mitchell Robinson: Luka Garza min +7.1, pts +3.5, reb +2.9, ast +1 (n=2 vs 14)
-- Without Jayson Tatum: Paul George min +6.8, pts +2.5, reb -0.2, ast +1.4 (n=2 vs 12)
+Line: BOS -8.5, total 210.5 (Draft Kings).
+**BOS** (back-to-back). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
-| Jayson Tatum | Out | 34.6 (3.1) | 25/26.4 | 7.8/6.6 | 5/6.8 | 3.2/2.6 | – |
+| Jayson Tatum | Day-To-Day | 34.6 (3.1) → 34 (26.3) | 25/26.4 → 24 (14–36) | 7.8/6.6 → 8 (4–13) | 5/6.8 → 5 (2–9) | 3.2/2.6 → 3 (1–6) | 38 (24–54) |
 | Paul George | – | 30.2 (5.2) → 30.4 (22.7) | 18.8/19.9 → 18 (9–27) | 6.4/5.6 → 5 (2–9) | 3.2/3.8 → 3 (1–6) | 3/3.3 → 3 (1–5) | 27 (15–40) |
-| Derrick White | Out | 30 (5.4) | 12.2/12.7 | 2.4/3 | 4.4/5 | 1.8/1.7 | – |
+| Derrick White | Day-To-Day | 30 (5.4) → 30.7 (23) | 12.2/12.7 → 13 (6–22) | 2.4/3 → 3 (1–6) | 4.4/5 → 5 (2–8) | 1.8/1.7 → 2 (0–4) | 21 (11–33) |
 | Payton Pritchard | – | 29.2 (5.3) → 29.4 (21.7) | 13.8/13.4 → 14 (6–23) | 2.6/3.2 → 3 (1–6) | 4.4/4.1 → 4 (2–8) | 2.2/2.2 → 2 (0–5) | 22 (11–34) |
 | Neemias Queta | – | 25 (5.5) → 24.6 (16.9) | 11/10 → 11 (4–18) | 8.4/6.9 → 8 (4–13) | 2.4/1.9 → 2 (0–4) | 0.6/0.3 → 0 (0–1) | 20 (10–32) |
 | Sam Hauser | – | 21.6 (5.9) → 22.3 (14.3) | 10.2/8.8 → 9 (3–16) | 3.8/3.3 → 3 (1–6) | 1.2/1.2 → 1 (0–3) | 3/2.5 → 2 (0–5) | 14 (5–24) |
 | Baylor Scheierman | – | 17.8 (6.1) → 17.9 (9.8) | 5/5.6 → 5 (0–10) | 3.4/3.6 → 3 (1–6) | 1.8/1.4 → 1 (0–3) | 1/1.2 → 1 (0–3) | 9 (2–18) |
-| Mitchell Robinson | Out | 15.4 (2.5) | 2.8/5.1 | 4.8/5.4 | 1.2/0.9 | 0/0 | – |
+| Mitchell Robinson | Day-To-Day | 15.4 (2.5) → 16.7 (9) | 2.8/5.1 → 4 (0–10) | 4.8/5.4 → 6 (2–11) | 1.2/0.9 → 1 (0–2) | 0/0 → 0 (0–0) | 12 (4–21) |
 | Jordan Walsh | – | 13.6 (5.6) → 13.6 (5.9) | 4.8/4.5 → 4 (0–9) | 2/3 → 2 (0–6) | 0/0.5 → 0 (0–1) | 0.8/0.8 → 0 (0–2) | 7 (1–15) |
 | Luka Garza | – | 13 (4.7) → 13.4 (5.7) | 3/5.4 → 5 (0–12) | 2/3 → 3 (0–6) | 2.2/1.6 → 1 (0–3) | 0.4/0.9 → 0 (0–2) | 10 (2–19) |
 | Hugo Gonzalez | – | 12.6 (4.6) → 13.8 (6.1) | 3.2/4 → 3 (0–8) | 3.6/2.6 → 3 (1–6) | 0.6/0.6 → 0 (0–2) | 0.6/0.5 → 0 (0–2) | 7 (1–15) |
