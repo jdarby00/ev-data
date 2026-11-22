@@ -12,6 +12,7 @@
   "fclose:2026-11-22T15:15:00Z": "2026-11-22T15:03:00Z",
   "fclose:2026-11-22T16:30:00Z": "2026-11-22T16:18:00Z",
   "fclose:2026-11-22T17:00:00Z": "2026-11-22T16:48:00Z",
+  "fclose:2026-11-22T17:30:00Z": "2026-11-22T17:18:00Z",
   "fclose@2026-11-22T11:18:00Z": "2026-11-22T11:18:00Z",
   "fclose@2026-11-22T12:48:00Z": "2026-11-22T12:48:03Z",
   "fclose@2026-11-22T13:48:00Z": "2026-11-22T13:48:00Z",
@@ -19,6 +20,7 @@
   "fclose@2026-11-22T15:03:00Z": "2026-11-22T15:03:00Z",
   "fclose@2026-11-22T16:18:00Z": "2026-11-22T16:18:00Z",
   "fclose@2026-11-22T16:48:00Z": "2026-11-22T16:48:00Z",
+  "fclose@2026-11-22T17:18:00Z": "2026-11-22T17:18:00Z",
   "lab_0610": "2026-11-22T11:10:00Z",
   "mscreen_0645": "2026-11-22T11:45:00Z",
   "mscreen_1030": "2026-11-22T15:30:00Z",
@@ -45,6 +47,7 @@
   "2026-11-22T15:45:00Z sgo_1045: dispatched jdarby00/dk-odds sgo-links.yml (HTTP 204)",
   "2026-11-22T16:18:00Z fclose@2026-11-22T16:18:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
   "2026-11-22T16:48:00Z fclose@2026-11-22T16:48:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
-  "2026-11-22T16:55:00Z recheck_1155: dispatched jdarby00/dk-odds recheck.yml (HTTP 204)"
+  "2026-11-22T16:55:00Z recheck_1155: dispatched jdarby00/dk-odds recheck.yml (HTTP 204)",
+  "2026-11-22T17:18:00Z fclose@2026-11-22T17:18:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)"
  ]
 }
