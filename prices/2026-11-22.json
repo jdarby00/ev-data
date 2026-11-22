@@ -12,7 +12,8 @@
    "home": "Warriors",
    "issues": [
     "2026-11-22T19:25:45Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-22T20:17:58Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-22T20:17:58Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-22T21:51:52Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "player_points",
    "players": [],
@@ -31,9 +32,28 @@
    "home": "Warriors",
    "issues": [
     "2026-11-22T19:25:45Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-22T20:17:58Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-22T20:17:58Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-22T21:51:52Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "player_points_rebounds_assists",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|denver nuggets@chicago bulls|player_points_assists": {
+   "api_away": "Denver Nuggets",
+   "api_home": "Chicago Bulls",
+   "away": "Denver Nuggets",
+   "close": false,
+   "commence_time": "2026-11-23T00:10:00Z",
+   "event_id": "15a079f55e23d26237844224f258c972",
+   "home": "Chicago Bulls",
+   "issues": [
+    "2026-11-22T21:51:52Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "player_points_assists",
    "players": [],
    "requested_rev": 1,
    "slate": false,
@@ -50,7 +70,8 @@
    "home": "Jazz",
    "issues": [
     "2026-11-22T19:25:45Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-22T20:17:58Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-22T20:17:58Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-22T21:51:52Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "player_points",
    "players": [],
@@ -69,7 +90,8 @@
    "home": "Jazz",
    "issues": [
     "2026-11-22T19:25:45Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-22T20:17:58Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-22T20:17:58Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-22T21:51:52Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "player_points_rebounds_assists",
    "players": [],
@@ -88,7 +110,8 @@
    "home": "Bulls",
    "issues": [
     "2026-11-22T19:25:45Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-22T20:17:58Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-22T20:17:58Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-22T21:51:52Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "player_points",
    "players": [],
@@ -107,9 +130,28 @@
    "home": "Bulls",
    "issues": [
     "2026-11-22T19:25:45Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-22T20:17:58Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-22T20:17:58Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-22T21:51:52Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "player_points_rebounds_assists",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|orlando magic@washington wizards|player_points_alternate": {
+   "api_away": "Orlando Magic",
+   "api_home": "Washington Wizards",
+   "away": "Orlando Magic",
+   "close": false,
+   "commence_time": "2026-11-23T00:10:00Z",
+   "event_id": "335ad5604b51b7742fd1dee92d78da35",
+   "home": "Washington Wizards",
+   "issues": [
+    "2026-11-22T21:51:52Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "player_points_alternate",
    "players": [],
    "requested_rev": 1,
    "slate": false,
@@ -126,7 +168,8 @@
    "home": "Heat",
    "issues": [
     "2026-11-22T19:25:45Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-22T20:17:58Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-22T20:17:58Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-22T21:51:52Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "player_points_rebounds_assists",
    "players": [],
@@ -145,7 +188,8 @@
    "home": "Heat",
    "issues": [
     "2026-11-22T19:25:45Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-22T20:17:58Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-22T20:17:58Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-22T21:51:52Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "player_rebounds",
    "players": [],
@@ -159,12 +203,13 @@
    "close": false,
    "commence_time": "2026-11-23T04:59:00Z",
    "event_id": "slate",
-   "games": 31,
+   "games": 24,
    "home": "*",
    "issues": [
     "2026-11-22T16:33:56Z lock skipped: monthly cap reached (420/420)",
     "2026-11-22T19:25:45Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-22T20:17:58Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-22T20:17:58Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-22T21:51:52Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "h2h",
    "players": [],
@@ -178,12 +223,13 @@
    "close": false,
    "commence_time": "2026-11-23T04:59:00Z",
    "event_id": "slate",
-   "games": 31,
+   "games": 24,
    "home": "*",
    "issues": [
     "2026-11-22T16:33:56Z lock skipped: monthly cap reached (420/420)",
     "2026-11-22T19:25:45Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-22T20:17:58Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-22T20:17:58Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-22T21:51:52Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "spreads",
    "players": [],
@@ -197,5 +243,5 @@
  "spent_month": 420,
  "spent_today": 0,
  "stop": null,
- "updated": "2026-11-22T20:17:58Z"
+ "updated": "2026-11-22T21:51:52Z"
 }
