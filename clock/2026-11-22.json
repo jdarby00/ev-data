@@ -42,6 +42,7 @@
   "lab_1435": "2026-11-22T19:35:00Z",
   "mscreen_0645": "2026-11-22T11:45:00Z",
   "mscreen_1030": "2026-11-22T15:30:00Z",
+  "mscreen_1615": "2026-11-22T21:15:00Z",
   "recheck_1155": "2026-11-22T16:55:00Z",
   "record_0640": "2026-11-22T11:40:00Z",
   "sgo_1045": "2026-11-22T15:45:00Z"
@@ -79,6 +80,7 @@
   "2026-11-22T20:50:00Z boosts_1550: dispatched jdarby00/dk-odds boosts.yml (HTTP 204)",
   "2026-11-22T20:53:00Z fclose@2026-11-22T20:53:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
   "2026-11-22T21:05:00Z cbbscreen_1605: dispatched jdarby00/dk-odds market-screen.yml (HTTP 204)",
-  "2026-11-22T21:13:00Z fclose@2026-11-22T21:13:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)"
+  "2026-11-22T21:13:00Z fclose@2026-11-22T21:13:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
+  "2026-11-22T21:15:00Z mscreen_1615: dispatched jdarby00/dk-odds market-screen.yml (HTTP 204)"
  ]
 }
