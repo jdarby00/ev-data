@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "updated_et": "2026-11-23 16:15",
+ "updated_et": "2026-11-23 17:03",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -54,9 +54,9 @@
    "away_name": "Brooklyn Nets",
    "home_name": "Minnesota Timberwolves",
    "state": "pre",
-   "spread_text": "MIN -11.5",
-   "spread": -11.5,
-   "total": 223.5,
+   "spread_text": "MIN -10.5",
+   "spread": -10.5,
+   "total": 222.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -82,9 +82,9 @@
    "away_name": "Cleveland Cavaliers",
    "home_name": "Chicago Bulls",
    "state": "pre",
-   "spread_text": "CLE -8.5",
-   "spread": 8.5,
-   "total": 241.5,
+   "spread_text": "CLE -9.5",
+   "spread": 9.5,
+   "total": 242.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -126,7 +126,7 @@
    "state": "pre",
    "spread_text": "LAL -13.5",
    "spread": -13.5,
-   "total": 224.5,
+   "total": 225.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },

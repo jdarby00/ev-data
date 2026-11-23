@@ -1,6 +1,6 @@
 # NBA board, 2026-11-23
 
-Slate updated 2026-11-23 16:15 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-23 17:03 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -147,7 +147,7 @@ Line: OKC -5.5, total 224.5 (DraftKings).
 | Kobe Brown | – | 13 (12.4) → 11 (0) | 3.8/4 → 3 (0–11) | 1.6/2 → 2 (0–5) | 0.4/0.9 → 0 (0–3) | 0.6/0.4 → 0 (0–2) | 6 (0–18) |
 
 ## BKN @ MIN, 19:30 ET
-Line: MIN -11.5, total 223.5 (DraftKings).
+Line: MIN -10.5, total 222.5 (DraftKings).
 **BKN** (2 rest days). Out: Nolan Traore. Freed minutes: 22.3.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -223,7 +223,7 @@ Line: TOR -10.5, total 222.5 (DraftKings).
 | Alijah Martin | – | 14.2 (6.9) → 13.9 (4.9) | 2.2/5 → 4 (0–9) | 2.6/1.9 → 2 (0–4) | 0.4/0.8 → 1 (0–2) | 0.2/0.9 → 0 (0–1) | 7 (1–15) |
 
 ## CLE @ CHI, 20:00 ET
-Line: CLE -8.5, total 241.5 (DraftKings).
+Line: CLE -9.5, total 242.5 (DraftKings).
 **CLE** (2 rest days). Out: Evan Mobley, Jaylon Tyson. Freed minutes: 56. Out all season so far (already in the lines): Nae'Qwan Tomlin.
 - Without Evan Mobley: Tyrese Proctor min +10.8, pts +8.4, reb +1.2, ast +1.4 (n=5 vs 11)
 - Without Jaylon Tyson: Thomas Bryant min -8.1, pts -5.7, reb -2.9, ast -1.4 (n=9 vs 2)
@@ -337,7 +337,7 @@ Line: HOU -12.5, total 223.5 (DraftKings).
 | Steven Adams | – | 12 (2.8) → 13.9 (6.2) | 4/4 → 3 (0–8) | 4/4 → 5 (1–9) | 1.5/1.5 → 1 (0–3) | 0/0 → 0 (0–0) | 9 (2–19) |
 
 ## UTAH @ LAL, 22:00 ET
-Line: LAL -13.5, total 224.5 (DraftKings).
+Line: LAL -13.5, total 225.5 (DraftKings).
 **UTAH** (back-to-back). Out: Lauri Markkanen, Jaren Jackson Jr., Jaxson Hayes. Freed minutes: 80.4. Out all season so far (already in the lines): Jusuf Nurkic.
 - Without Jaxson Hayes: Mo Bamba min +14, pts +12.2, reb +0.6, ast +2.2 (n=3 vs 11)
 - Without Lauri Markkanen: Brice Sensabaugh min +7.8, pts +7, reb +1.5, ast +0.8 (n=10 vs 8)
