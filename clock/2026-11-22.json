@@ -12,9 +12,11 @@
   "close:2026-11-22T23:10:00Z": "2026-11-22T22:58:00Z",
   "close:2026-11-23T00:10:00Z": "2026-11-22T23:58:01Z",
   "close:2026-11-23T01:40:00Z": "2026-11-23T01:28:00Z",
+  "close:2026-11-23T04:59:00Z": "2026-11-23T04:47:01Z",
   "close@2026-11-22T22:58:00Z": "2026-11-22T22:58:00Z",
   "close@2026-11-22T23:58:00Z": "2026-11-22T23:58:01Z",
   "close@2026-11-23T01:28:00Z": "2026-11-23T01:28:00Z",
+  "close@2026-11-23T04:47:00Z": "2026-11-23T04:47:01Z",
   "escreen_1040": "2026-11-22T15:40:04Z",
   "escreen_1620": "2026-11-22T21:20:00Z",
   "fclose:2026-11-22T11:30:00Z": "2026-11-22T11:18:00Z",
@@ -118,6 +120,7 @@
   "2026-11-23T00:48:00Z fclose@2026-11-23T00:48:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
   "2026-11-23T01:08:00Z fclose@2026-11-23T01:08:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
   "2026-11-23T01:18:00Z fclose@2026-11-23T01:18:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
-  "2026-11-23T01:28:00Z close@2026-11-23T01:28:00Z: dispatched jdarby00/dk-odds odds.yml (HTTP 204)"
+  "2026-11-23T01:28:00Z close@2026-11-23T01:28:00Z: dispatched jdarby00/dk-odds odds.yml (HTTP 204)",
+  "2026-11-23T04:47:01Z close@2026-11-23T04:47:00Z: dispatched jdarby00/dk-odds odds.yml (HTTP 204)"
  ]
 }
