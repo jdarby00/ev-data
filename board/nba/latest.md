@@ -1,11 +1,25 @@
 # NBA board, 2026-11-23
 
-Slate updated 2026-11-23 05:20 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-23 14:05 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
+## Status changes today
+
+- 14:05 Brooklyn Nets: Grant Nelson Day-To-Day → removed from report
+- 14:05 Chicago Bulls: Jalen Smith not listed → Day-To-Day
+- 14:05 Chicago Bulls: Nic Claxton Out → Day-To-Day
+- 14:05 Indiana Pacers: Aaron Nesmith not listed → Out
+- 14:05 Indiana Pacers: Pascal Siakam not listed → Day-To-Day
+- 14:05 New Orleans Pelicans: Trey Murphy III Day-To-Day → removed from report
+- 14:05 New Orleans Pelicans: Bryce McGowens Out → removed from report
+- 14:05 Oklahoma City Thunder: Shai Gilgeous-Alexander Out → removed from report
+- 14:05 Philadelphia 76ers: Joel Embiid not listed → Day-To-Day
+- 14:05 Toronto Raptors: Jaden Bradley not listed → Day-To-Day
+- 14:05 Utah Jazz: Jaxson Hayes Out → Day-To-Day
+
 ## MEM @ CHA, 19:00 ET
-Line: MEM -3.5, total 214.5 (Draft Kings).
+Line: MEM -2.5, total 213.5 (Draft Kings).
 **MEM** (1 rest day). Out: Cameron Boozer, Jerami Grant, Scotty Pippen Jr., GG Jackson. Freed minutes: 84.1. Out all season so far (already in the lines): Richie Saunders.
 - Without Jerami Grant: Taylor Hendricks min +15.6, pts +6.1, reb +2.8, ast +2.4 (n=2 vs 10)
 - Without Jerami Grant: Olivier-Maxence Prosper min +12.2, pts +3.3, reb +3.2, ast -0.6 (n=2 vs 9)
@@ -47,7 +61,7 @@ Line: MEM -3.5, total 214.5 (Draft Kings).
 | Christian Anderson | – | 17.4 (5.3) → 16.4 (8.7) | 9.4/5.1 → 6 (1–13) | 1.2/1.5 → 2 (0–5) | 2.2/1.9 → 2 (0–4) | 2.2/0.9 → 1 (0–3) | 10 (3–19) |
 
 ## POR @ PHI, 19:00 ET
-Line: PHI -4.5, total 230.5 (Draft Kings).
+Line: PHI -2.5, total 231.5 (Draft Kings).
 **POR** (1 rest day). Out: Ja Morant, Chris Youngblood, Vit Krejci. Freed minutes: 49.8. Out all season so far (already in the lines): Shaedon Sharpe.
 - Without Ja Morant: Toumani Camara min +6.7, pts -4.4, reb +2.5, ast -0.2 (n=12 vs 4)
 - Without Ja Morant: Scoot Henderson min +5.4, pts +2.7, reb -0.2, ast -0.1 (n=12 vs 4)
@@ -79,7 +93,7 @@ Line: PHI -4.5, total 230.5 (Draft Kings).
 | VJ Edgecombe | – | 36.2 (3.4) → 35.8 (28.1) | 16/13.8 → 16 (8–24) | 6.4/6.3 → 6 (3–9) | 6/4 → 5 (2–8) | 1.4/1.6 → 2 (0–4) | 26 (15–39) |
 | Tyrese Maxey | – | 35.2 (1.5) → 35.5 (27.9) | 23.8/25.9 → 24 (14–36) | 2.4/3.3 → 3 (1–6) | 6.2/5.7 → 6 (3–10) | 2.6/2.6 → 2 (1–5) | 34 (20–48) |
 | Jaylen Brown | Day-To-Day | 32.4 (3.2) → 33.4 (25.7) | 24.4/22.6 → 25 (15–37) | 6.6/6.6 → 7 (3–11) | 2.8/3.6 → 4 (1–7) | 1.8/1.9 → 2 (0–4) | 36 (22–52) |
-| Joel Embiid | – | 32.2 (3.6) → 32 (24.3) | 25/20.4 → 25 (14–36) | 7.6/8.9 → 8 (4–13) | 4.2/4.1 → 4 (2–8) | 0.6/0.4 → 1 (0–2) | 37 (23–54) |
+| Joel Embiid | Day-To-Day | 32.2 (3.6) → 32 (24.3) | 25/20.4 → 25 (14–36) | 7.6/8.9 → 8 (4–13) | 4.2/4.1 → 4 (2–8) | 0.6/0.4 → 1 (0–2) | 37 (23–54) |
 | LeBron James | – | 32.2 (1.6) → 32.5 (24.8) | 18.2/16.1 → 18 (9–28) | 5.8/6.8 → 6 (3–10) | 6.6/6.8 → 7 (3–11) | 0.8/0.8 → 1 (0–2) | 31 (18–45) |
 | Kentavious Caldwell-Pope | – | 29.4 (7) → 26.5 (17.4) | 7.8/6 → 8 (2–15) | 4/2.9 → 3 (1–6) | 2.2/1.6 → 2 (0–5) | 2/1.5 → 1 (0–3) | 14 (5–23) |
 | Dean Wade | Day-To-Day | 28.4 (5.6) → 27.8 (20.1) | 6.8/4.8 → 6 (1–12) | 6.6/4.6 → 5 (2–10) | 1.4/1.8 → 2 (0–4) | 1.6/1 → 1 (0–3) | 14 (6–23) |
@@ -89,8 +103,8 @@ Line: PHI -4.5, total 230.5 (Draft Kings).
 | Ariel Hukporti | Out | none this season; last season 9.2 min, 2.1 pts | | | | |
 
 ## OKC @ IND, 19:30 ET
-Line: OKC -4.5, total 222.5 (Draft Kings).
-**OKC** (back-to-back). Out: Shai Gilgeous-Alexander, Jalen Williams, Chet Holmgren, Aday Mara, Alex Caruso, Jaylin Williams, Cason Wallace, Nikola Topic. Freed minutes: 181.5. Out all season so far (already in the lines): Thomas Sorber.
+Line: OKC -5.5, total 223.5 (Draft Kings).
+**OKC** (back-to-back). Out: Jalen Williams, Chet Holmgren, Aday Mara, Alex Caruso, Jaylin Williams, Cason Wallace, Nikola Topic. Freed minutes: 148. Out all season so far (already in the lines): Thomas Sorber.
 - Without Jalen Williams: Kenrich Williams min +17.6, pts +5.5, reb +2.8, ast +1.6 (n=14 vs 3)
 - Without Jalen Williams: Bennett Stirtz min +17.6, pts +9.5, reb +1.1, ast +1.9 (n=14 vs 3)
 - Without Chet Holmgren: Kenrich Williams min +17.6, pts +5.5, reb +2.8, ast +1.6 (n=14 vs 3)
@@ -98,7 +112,7 @@ Line: OKC -4.5, total 222.5 (Draft Kings).
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
-| Shai Gilgeous-Alexander | Out | 35.6 (3.9) | 36.4/31.7 | 3.6/4.1 | 4/4.5 | 2.2/2.4 | – |
+| Shai Gilgeous-Alexander | – | 35.6 (3.9) → 34.2 (26.5) | 36.4/31.7 → 33 (21–47) | 3.6/4.1 → 4 (1–7) | 4/4.5 → 5 (2–9) | 2.2/2.4 → 2 (0–4) | 43 (27–60) |
 | Jalen Williams | Out | 31.7 (1.2) | 13.7/13.7 | 4.7/4.7 | 3.3/3.3 | 1/1 | – |
 | Jared McCain | – | 30.6 (2.9) → 28.4 (20.7) | 18.2/14.3 → 15 (7–24) | 2.6/3.3 → 3 (1–6) | 1.4/1.8 → 2 (0–4) | 3.4/2.4 → 2 (0–5) | 20 (10–31) |
 | Chet Holmgren | Out | 30 (1.4) | 12/12 | 9.3/9.3 | 1.3/1.3 | 0.7/0.7 | – |
@@ -110,18 +124,18 @@ Line: OKC -4.5, total 222.5 (Draft Kings).
 | Alex Caruso | Out | 20.4 (6.4) | 8/7.4 | 2.4/3.7 | 2.2/2.8 | 1.4/1.4 | – |
 | Josh Dix | – | 19.4 (6.9) → 20.5 (11.6) | 4/3.6 → 6 (1–12) | 2.6/2 → 3 (1–6) | 2/1.2 → 2 (0–4) | 0.8/0.6 → 1 (0–2) | 11 (3–20) |
 
-**IND** (back-to-back). Out: Tyrese Haliburton, T.J. McConnell, Ben Sheppard. Freed minutes: 58.7. Out all season so far (already in the lines): Johnny Furphy.
+**IND** (back-to-back). Out: Tyrese Haliburton, Aaron Nesmith, T.J. McConnell, Ben Sheppard. Freed minutes: 86. Out all season so far (already in the lines): Johnny Furphy.
+- Without Aaron Nesmith: Jarace Walker min +15.4, pts +3.6, reb +2.2, ast +1 (n=2 vs 14)
 - Without T.J. McConnell: Kobe Brown min +13.7, pts +5.6, reb +2.8, ast +1.2 (n=5 vs 2)
-- Without Tyrese Haliburton: Aaron Nesmith min +9.2, pts -1.3, reb +2, ast +1.2 (n=12 vs 3)
 - Without T.J. McConnell: Jarace Walker min +8.5, pts +1.8, reb +3, ast +0.5 (n=10 vs 6)
 - Without T.J. McConnell: Jay Huff min +6.8, pts +2.3, reb +1.6, ast +0.7 (n=9 vs 6)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Tyrese Haliburton | Out | 33 (1.6) | 21.8/21.8 | 4.5/4.5 | 9.5/9.5 | 2.5/2.5 | – |
-| Pascal Siakam | – | 32.4 (1.8) → 32.4 (24.7) | 24/23.1 → 23 (13–35) | 4.4/6.1 → 6 (2–10) | 2/3.6 → 3 (1–6) | 1.8/1.8 → 2 (0–4) | 32 (19–47) |
+| Pascal Siakam | Day-To-Day | 32.4 (1.8) → 32.4 (24.7) | 24/23.1 → 23 (13–35) | 4.4/6.1 → 6 (2–10) | 2/3.6 → 3 (1–6) | 1.8/1.8 → 2 (0–4) | 32 (19–47) |
 | Andrew Nembhard | – | 32 (3.1) → 32 (24.3) | 13.8/16.2 → 16 (7–25) | 2.8/2.3 → 2 (1–5) | 8.8/7.8 → 8 (4–13) | 2/2.3 → 2 (0–4) | 26 (14–39) |
-| Aaron Nesmith | – | 31.8 (3.7) → 29.9 (22.2) | 8.6/10.7 → 11 (4–18) | 5.2/3.3 → 4 (1–7) | 3.4/2.3 → 2 (1–5) | 0.4/1.3 → 1 (0–3) | 17 (8–27) |
+| Aaron Nesmith | Out | 31.8 (3.7) | 8.6/10.7 | 5.2/3.3 | 3.4/2.3 | 0.4/1.3 | – |
 | Kelly Oubre Jr. | – | 26.4 (5) → 26.1 (18.4) | 16.2/11.8 → 13 (6–22) | 4.8/3.4 → 4 (1–8) | 0.4/1.1 → 1 (0–2) | 1.6/1.1 → 1 (0–3) | 18 (9–29) |
 | Ivica Zubac | – | 26 (6.8) → 26.4 (17.5) | 11/10.8 → 12 (4–20) | 9/8.6 → 9 (4–15) | 2/1.8 → 2 (0–4) | 0/0 → 0 (0–0) | 23 (11–36) |
 | Quenton Jackson | – | 21.4 (5.6) → 20.9 (13.2) | 7.6/8.9 → 9 (3–16) | 3.2/3.4 → 3 (1–5) | 4/3 → 3 (1–6) | 1/1.1 → 1 (0–2) | 15 (6–25) |
@@ -131,7 +145,7 @@ Line: OKC -4.5, total 222.5 (Draft Kings).
 | Kobe Brown | – | 13 (12.4) → 11 (0) | 3.8/4 → 3 (0–11) | 1.6/2 → 2 (0–5) | 0.4/0.9 → 0 (0–3) | 0.6/0.4 → 0 (0–2) | 6 (0–18) |
 
 ## BKN @ MIN, 19:30 ET
-Line: MIN -11.5, total 224.5 (Draft Kings).
+Line: MIN -10.5, total 223.5 (Draft Kings).
 **BKN** (2 rest days). Out: Nolan Traore. Freed minutes: 22.3.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -170,11 +184,7 @@ Line: MIN -11.5, total 224.5 (Draft Kings).
 
 ## MIL @ TOR, 19:30 ET
 Line: TOR -10.5, total 222.5 (Draft Kings).
-**MIL** (1 rest day). Out: Ousmane Dieng. Freed minutes: 12.3.
-- Without Ousmane Dieng: Gary Trent Jr. min +9.9, pts +2.7, reb +0.9, ast +0.1 (n=3 vs 5)
-- Without Ousmane Dieng: Brayden Burries min +7.3, pts +8.2, reb +3.1, ast +1 (n=7 vs 10)
-- Without Ousmane Dieng: Ryan Rollins min -4.4, pts +1.4, reb -2.4, ast -1.6 (n=5 vs 10)
-- Without Ousmane Dieng: Kel'el Ware min +4.2, pts +0, reb +1.5, ast +0.1 (n=7 vs 10)
+**MIL** (1 rest day). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -211,7 +221,7 @@ Line: TOR -10.5, total 222.5 (Draft Kings).
 | Alijah Martin | – | 14.2 (6.9) → 13.9 (4.9) | 2.2/5 → 4 (0–9) | 2.6/1.9 → 2 (0–4) | 0.4/0.8 → 1 (0–2) | 0.2/0.9 → 0 (0–1) | 7 (1–15) |
 
 ## CLE @ CHI, 20:00 ET
-Line: CLE -8.5, total 238.5 (Draft Kings).
+Line: CLE -8.5, total 241.5 (Draft Kings).
 **CLE** (2 rest days). Out: Evan Mobley, Jaylon Tyson. Freed minutes: 56. Out all season so far (already in the lines): Nae'Qwan Tomlin.
 - Without Evan Mobley: Tyrese Proctor min +10.8, pts +8.4, reb +1.2, ast +1.4 (n=5 vs 11)
 - Without Jaylon Tyson: Thomas Bryant min -8.1, pts -5.7, reb -2.9, ast -1.4 (n=9 vs 2)
@@ -232,28 +242,28 @@ Line: CLE -8.5, total 238.5 (Draft Kings).
 | Mario Hezonja | – | 21.2 (8) → 20.5 (10.3) | 12.2/9.1 → 9 (2–17) | 6.4/5.7 → 5 (1–9) | 2.8/1.9 → 2 (0–4) | 1.4/1.2 → 1 (0–3) | 16 (5–28) |
 | Thomas Bryant | – | 17.8 (5.2) → 15.7 (8.1) | 10.2/9.4 → 8 (2–16) | 5.4/3.6 → 4 (1–8) | 1.6/0.8 → 1 (0–2) | 1/1.2 → 1 (0–3) | 13 (4–24) |
 
-**CHI** (back-to-back). Out: Norman Powell, Caleb Wilson, Nic Claxton. Freed minutes: 80.9.
-- Without Nic Claxton: Leonard Miller min +14.3, pts +5.5, reb +3.3, ast +1.3 (n=9 vs 3)
+**CHI** (back-to-back). Out: Norman Powell, Caleb Wilson. Freed minutes: 60.2.
 - Without Caleb Wilson: Isaac Okoro min +14.2, pts +6.3, reb +3.1, ast +1.1 (n=6 vs 10)
 - Without Norman Powell: Jordan Hawkins min +13.1, pts +5.7, reb +1.3, ast +1.1 (n=3 vs 5)
 - Without Caleb Wilson: Buddy Hield min +11.3, pts +9.9, reb +2, ast +0.9 (n=6 vs 8)
+- Without Caleb Wilson: Zach Collins min +9.9, pts +3.9, reb +0.2, ast +1.3 (n=4 vs 7)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Isaac Okoro | – | 31.8 (8.1) → 29.9 (19.7) | 10.8/7.6 → 10 (3–17) | 4.8/2.6 → 3 (1–6) | 2.6/1.8 → 2 (0–4) | 2/0.9 → 1 (0–3) | 15 (6–25) |
 | Matas Buzelis | – | 30.8 (3.9) → 30.1 (22.4) | 19.2/15.1 → 17 (8–26) | 5.4/4.8 → 5 (2–9) | 2/2 → 2 (0–4) | 3/2.1 → 2 (1–5) | 24 (13–36) |
 | Norman Powell | Out | 30.6 (4.3) | 23.4/20.8 | 3.4/2.8 | 3.6/2.4 | 2.6/2.3 | – |
-| Jalen Smith | – | 29 (7.3) → 26.6 (17.2) | 19/14.3 → 15 (6–25) | 7.4/7.6 → 7 (3–13) | 2.6/2.1 → 2 (0–4) | 3.4/2.1 → 2 (0–5) | 24 (12–38) |
+| Jalen Smith | Day-To-Day | 29 (7.3) → 26.6 (17.2) | 19/14.3 → 15 (6–25) | 7.4/7.6 → 7 (3–13) | 2.6/2.1 → 2 (0–4) | 3.4/2.1 → 2 (0–5) | 24 (12–38) |
 | Josh Giddey | – | 28.4 (6) → 30.3 (22.2) | 11/10.8 → 14 (6–22) | 9.2/6.4 → 8 (4–13) | 10.2/9.2 → 10 (5–16) | 1.2/1.2 → 1 (0–3) | 32 (18–47) |
 | Caleb Wilson | Out | 26.8 (6.7) | 17/18.9 | 5.4/6.2 | 1.6/1.9 | 3/2.3 | – |
 | Buddy Hield | – | 24.2 (8.8) → 22.3 (11.3) | 16.2/9.9 → 12 (4–22) | 4/2.6 → 3 (1–6) | 2.4/2 → 2 (0–5) | 4/2.1 → 2 (0–5) | 18 (6–31) |
-| Nic Claxton | Out | 21.2 (4.4) | 10.4/9.3 | 5/4.8 | 1.2/1.7 | 0/0 | – |
+| Nic Claxton | Day-To-Day | 21.2 (4.4) → 22.7 (15) | 10.4/9.3 → 10 (3–17) | 5/4.8 → 5 (2–9) | 1.2/1.7 → 2 (0–5) | 0/0 → 0 (0–0) | 17 (8–28) |
 | Tre Jones | – | 20 (5.1) → 19.6 (11.9) | 12.6/10.8 → 10 (3–19) | 1.4/2.1 → 2 (0–4) | 5.4/3.7 → 4 (1–8) | 0.2/0.3 → 0 (0–1) | 17 (7–28) |
 | Patrick Williams | – | 18.2 (5.3) → 19.5 (11.8) | 4.8/6.3 → 6 (1–11) | 2.2/2.8 → 2 (1–5) | 0.8/1.7 → 1 (0–3) | 0.4/0.8 → 1 (0–2) | 10 (3–18) |
 | Zach Collins | – | 14.8 (7.2) → 14.2 (4.9) | 4.8/3 → 6 (0–13) | 2.4/2.4 → 3 (0–7) | 1.8/1.2 → 1 (0–3) | 0.4/0.2 → 0 (0–2) | 10 (1–21) |
 
 ## PHX @ NO, 20:00 ET
-Line: PHX -3.5, total 232.5 (Draft Kings).
+Line: PHX -3.5, total 233.5 (Draft Kings).
 **PHX** (2 rest days). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Mark Williams.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -270,7 +280,7 @@ Line: PHX -3.5, total 232.5 (Draft Kings).
 | Ryan Dunn | Day-To-Day | 13.6 (6.2) → 15.6 (7.3) | 2.8/4.8 → 4 (0–9) | 4.2/4.1 → 3 (1–7) | 0.6/1.1 → 1 (0–3) | 0.4/0.7 → 0 (0–2) | 9 (2–18) |
 | Mark Williams | Out | none this season; last season 23.6 min, 11.7 pts | | | | |
 
-**NO** (1 rest day). Out: Dejounte Murray, Trendon Watford, Bennedict Mathurin, Bryce McGowens. Freed minutes: 75.
+**NO** (1 rest day). Out: Dejounte Murray, Trendon Watford, Bennedict Mathurin. Freed minutes: 64.4.
 - Without Bennedict Mathurin: Saddiq Bey min +8.4, pts -2.2, reb +1.1, ast +1.1 (n=6 vs 12)
 - Without Dejounte Murray: Saddiq Bey min +7.8, pts +2.5, reb +3.3, ast +0 (n=9 vs 9)
 - Without Trendon Watford: Karlo Matkovic min -7.7, pts -8.6, reb -2.1, ast -0.8 (n=11 vs 6)
@@ -280,7 +290,7 @@ Line: PHX -3.5, total 232.5 (Draft Kings).
 |---|---|---|---|---|---|---|---|
 | Saddiq Bey | – | 37 (5.6) → 33.8 (26.1) | 14.4/15.9 → 16 (8–25) | 6.2/4.6 → 5 (2–9) | 3.6/2.6 → 3 (1–5) | 2.6/2.3 → 2 (0–5) | 24 (13–37) |
 | Jeremiah Fears | – | 33 (3.2) → 32 (24.4) | 19.8/16.7 → 19 (10–29) | 6.2/5 → 5 (2–9) | 6/5.3 → 5 (2–8) | 1.8/1.3 → 1 (0–3) | 29 (16–42) |
-| Trey Murphy III | Day-To-Day | 32.4 (3.4) → 32.3 (24.6) | 17.2/15.7 → 18 (9–28) | 5/4.7 → 5 (2–8) | 3.8/3.3 → 3 (1–6) | 2.4/2.3 → 2 (1–5) | 26 (15–39) |
+| Trey Murphy III | – | 32.4 (3.4) → 32.3 (24.6) | 17.2/15.7 → 18 (9–28) | 5/4.7 → 5 (2–8) | 3.8/3.3 → 3 (1–6) | 2.4/2.3 → 2 (1–5) | 26 (15–39) |
 | Zion Williamson | Day-To-Day | 31.6 (3.7) → 32.1 (24.4) | 21.6/21.7 → 22 (12–33) | 6/5.4 → 6 (3–10) | 3.2/2.8 → 3 (1–6) | 0.4/0.4 → 0 (0–1) | 31 (18–45) |
 | Dejounte Murray | Out | 30.8 (6.9) | 10/13.4 | 3.6/4.6 | 3.2/4.4 | 1/0.9 | – |
 | Herbert Jones | – | 28.2 (5.6) → 27.5 (19.8) | 8.6/6.6 → 8 (2–14) | 2.2/2.7 → 3 (1–5) | 2.4/1.6 → 2 (0–5) | 2.2/1.1 → 1 (0–3) | 13 (5–22) |
@@ -291,7 +301,7 @@ Line: PHX -3.5, total 232.5 (Draft Kings).
 | Jaron Pierre Jr. | – | 17.6 (8.3) → 15.5 (5) | 7.8/6.1 → 5 (0–12) | 2.8/2.6 → 3 (0–6) | 0.2/0.1 → 1 (0–2) | 1.6/1.3 → 1 (0–3) | 9 (1–19) |
 
 ## LAC @ HOU, 20:30 ET
-Line: HOU -12.5, total 224.5 (Draft Kings).
+Line: HOU -12.5, total 223.5 (Draft Kings).
 **LAC** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Bradley Beal, Jordan Miller.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -325,12 +335,12 @@ Line: HOU -12.5, total 224.5 (Draft Kings).
 | Steven Adams | – | 12 (2.8) → 13.9 (6.2) | 4/4 → 3 (0–8) | 4/4 → 5 (1–9) | 1.5/1.5 → 1 (0–3) | 0/0 → 0 (0–0) | 9 (2–19) |
 
 ## UTAH @ LAL, 22:00 ET
-Line: LAL -13.5, total 226.5 (Draft Kings).
-**UTAH** (back-to-back). Out: Lauri Markkanen, Jaren Jackson Jr., Jaxson Hayes. Freed minutes: 80.4. Out all season so far (already in the lines): Jusuf Nurkic.
-- Without Jaxson Hayes: Mo Bamba min +14, pts +12.2, reb +0.6, ast +2.2 (n=3 vs 11)
+Line: LAL -13.5, total 224.5 (Draft Kings).
+**UTAH** (back-to-back). Out: Lauri Markkanen, Jaren Jackson Jr.. Freed minutes: 56.9. Out all season so far (already in the lines): Jusuf Nurkic.
 - Without Lauri Markkanen: Brice Sensabaugh min +7.8, pts +7, reb +1.5, ast +0.8 (n=10 vs 8)
-- Without Jaxson Hayes: Brice Sensabaugh min +7.8, pts +13.1, reb +3.7, ast +0.9 (n=3 vs 15)
 - Without Lauri Markkanen: Josh Green min +7.7, pts +2.1, reb +0.3, ast +0.6 (n=10 vs 6)
+- Without Jaren Jackson Jr.: Josh Okogie min +7.1, pts +4.4, reb +1.7, ast +0.5 (n=14 vs 3)
+- Without Lauri Markkanen: Tony Bradley min +7, pts +1, reb +2.5, ast +0.3 (n=6 vs 3)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -342,7 +352,7 @@ Line: LAL -13.5, total 226.5 (Draft Kings).
 | Mo Bamba | – | 26.6 (6.3) → 21.6 (13.2) | 11/8.7 → 6 (1–12) | 8.6/6.9 → 9 (4–15) | 1.6/1 → 1 (0–2) | 1.4/0.5 → 0 (0–1) | 16 (6–27) |
 | Jaren Jackson Jr. | Out | 26 (9.5) | 16.2/16.2 | 5/5 | 2/2 | 1.2/1.2 | – |
 | Brice Sensabaugh | – | 24.4 (8) → 21.6 (11.4) | 18/10.8 → 13 (5–24) | 5.4/3.6 → 3 (1–7) | 2.4/1.6 → 2 (0–4) | 3/1.9 → 2 (0–5) | 19 (7–32) |
-| Jaxson Hayes | Out | 21.6 (6.3) | 11/9.2 | 7.4/6.4 | 0.8/1.5 | 0/0 | – |
+| Jaxson Hayes | Day-To-Day | 21.6 (6.3) → 21.3 (12.9) | 11/9.2 → 9 (3–17) | 7.4/6.4 → 5 (2–10) | 0.8/1.5 → 1 (0–2) | 0/0 → 0 (0–0) | 16 (6–27) |
 | Josh Green | – | 21.6 (6.2) → 21.8 (13.5) | 6.8/4.5 → 5 (1–11) | 1.8/1.7 → 2 (0–4) | 0.6/0.9 → 1 (0–2) | 1.4/0.8 → 1 (0–3) | 8 (2–16) |
 | Josh Okogie | – | 19 (4.2) → 18.2 (10.6) | 4.6/4.4 → 4 (0–9) | 2.8/3.1 → 2 (1–5) | 1.2/1.1 → 1 (0–2) | 0.6/0.6 → 0 (0–2) | 8 (2–15) |
 
@@ -365,7 +375,7 @@ Line: LAL -13.5, total 226.5 (Draft Kings).
 | Collin Sexton | – | 20 (5.2) → 20.3 (12.6) | 11.6/10.7 → 12 (4–21) | 1.2/1.7 → 1 (0–4) | 2.8/2.6 → 3 (1–5) | 0.8/0.9 → 1 (0–3) | 16 (7–28) |
 
 ## SA @ SAC, 22:00 ET
-Line: SA -10.5, total 224.5 (Draft Kings).
+Line: SA -10.5, total 223.5 (Draft Kings).
 **SA** (1 rest day). Out: Dylan Harper. Freed minutes: 31.7. Out all season so far (already in the lines): Tobias Harris, Jayden Quaintance.
 - Without Dylan Harper: Carter Bryant min +6.2, pts +2, reb +1.1, ast -0.6 (n=2 vs 14)
 - Without Dylan Harper: Jordan McLaughlin min +5.2, pts -3, reb +0.3, ast +2.2 (n=2 vs 9)

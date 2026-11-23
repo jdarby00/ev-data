@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "updated_et": "2026-11-23 05:20",
+ "updated_et": "2026-11-23 14:05",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -12,9 +12,9 @@
    "away_name": "Memphis Grizzlies",
    "home_name": "Charlotte Hornets",
    "state": "pre",
-   "spread_text": "MEM -3.5",
-   "spread": 3.5,
-   "total": 214.5,
+   "spread_text": "MEM -2.5",
+   "spread": 2.5,
+   "total": 213.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -26,9 +26,9 @@
    "away_name": "Portland Trail Blazers",
    "home_name": "Philadelphia 76ers",
    "state": "pre",
-   "spread_text": "PHI -4.5",
-   "spread": -4.5,
-   "total": 230.5,
+   "spread_text": "PHI -2.5",
+   "spread": -2.5,
+   "total": 231.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -40,9 +40,9 @@
    "away_name": "Oklahoma City Thunder",
    "home_name": "Indiana Pacers",
    "state": "pre",
-   "spread_text": "OKC -4.5",
-   "spread": 4.5,
-   "total": 222.5,
+   "spread_text": "OKC -5.5",
+   "spread": 5.5,
+   "total": 223.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -54,9 +54,9 @@
    "away_name": "Brooklyn Nets",
    "home_name": "Minnesota Timberwolves",
    "state": "pre",
-   "spread_text": "MIN -11.5",
-   "spread": -11.5,
-   "total": 224.5,
+   "spread_text": "MIN -10.5",
+   "spread": -10.5,
+   "total": 223.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -84,7 +84,7 @@
    "state": "pre",
    "spread_text": "CLE -8.5",
    "spread": 8.5,
-   "total": 238.5,
+   "total": 241.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -98,7 +98,7 @@
    "state": "pre",
    "spread_text": "PHX -3.5",
    "spread": 3.5,
-   "total": 232.5,
+   "total": 233.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -112,7 +112,7 @@
    "state": "pre",
    "spread_text": "HOU -12.5",
    "spread": -12.5,
-   "total": 224.5,
+   "total": 223.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -126,7 +126,7 @@
    "state": "pre",
    "spread_text": "LAL -13.5",
    "spread": -13.5,
-   "total": 226.5,
+   "total": 224.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -140,7 +140,7 @@
    "state": "pre",
    "spread_text": "SA -10.5",
    "spread": 10.5,
-   "total": 224.5,
+   "total": 223.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   }
@@ -148,18 +148,11 @@
  "injuries": {
   "Brooklyn Nets": [
    {
-    "player": "Grant Nelson",
-    "status": "Day-To-Day",
-    "detail": "Nelson (ankle) is probable for Monday's game against the Timberwolves.",
-    "type": "day-to-day",
-    "updated": "2026-11-22T20:39Z"
-   },
-   {
     "player": "Nolan Traore",
     "status": "Out",
-    "detail": "Traore (hamstring) has been ruled out for Monday's game against the Timberwolves.",
+    "detail": "Traore will be re-evaluated in approximately 8-10 weeks due to a right hamstring strain, Michael Scotto of HoopsHype.com reports.",
     "type": "out",
-    "updated": "2026-11-22T20:37Z"
+    "updated": "2026-11-23T15:22Z"
    }
   ],
   "Charlotte Hornets": [
@@ -201,11 +194,18 @@
   ],
   "Chicago Bulls": [
    {
+    "player": "Jalen Smith",
+    "status": "Day-To-Day",
+    "detail": "Smith (illness) is probable for Monday's game against Cleveland.",
+    "type": "day-to-day",
+    "updated": "2026-11-23T18:40Z"
+   },
+   {
     "player": "Nic Claxton",
-    "status": "Out",
-    "detail": "Claxton (illness) won't play in Sunday's game against the Nuggets.",
-    "type": "out",
-    "updated": "2026-11-22T20:22Z"
+    "status": "Day-To-Day",
+    "detail": "Claxton (illness) is questionable for Monday's game against Cleveland.",
+    "type": "day-to-day",
+    "updated": "2026-11-23T18:35Z"
    },
    {
     "player": "Norman Powell",
@@ -249,9 +249,23 @@
    {
     "player": "T.J. McConnell",
     "status": "Out",
-    "detail": "McConnell (hamstring) is listed as out for Sunday's game in New York.",
+    "detail": "McConnell is out for Monday's game against the Thunder due to left hamstring soreness.",
     "type": "out",
-    "updated": "2026-11-21T22:29Z"
+    "updated": "2026-11-23T18:25Z"
+   },
+   {
+    "player": "Aaron Nesmith",
+    "status": "Out",
+    "detail": "Nesmith is out for Monday's game against the Thunder due to right foot soreness.",
+    "type": "out",
+    "updated": "2026-11-23T18:22Z"
+   },
+   {
+    "player": "Pascal Siakam",
+    "status": "Day-To-Day",
+    "detail": "Siakam is questionable for Monday's game against Oklahoma City due to left hip injury management, according to the NBA's injury report.",
+    "type": "day-to-day",
+    "updated": "2026-11-23T18:22Z"
    },
    {
     "player": "Tyrese Haliburton",
@@ -337,15 +351,6 @@
     "updated": "2026-11-07T17:24Z"
    }
   ],
-  "Milwaukee Bucks": [
-   {
-    "player": "Ousmane Dieng",
-    "status": "Out",
-    "detail": "Dieng (finger) is questionable for Monday's game against the Raptors.",
-    "type": "out",
-    "updated": "2026-11-22T21:37Z"
-   }
-  ],
   "Minnesota Timberwolves": [
    {
     "player": "Jaylen Clark",
@@ -370,20 +375,6 @@
    }
   ],
   "New Orleans Pelicans": [
-   {
-    "player": "Trey Murphy III",
-    "status": "Day-To-Day",
-    "detail": "Murphy (knees) is listed as probable for Monday's game against the Suns.",
-    "type": "day-to-day",
-    "updated": "2026-11-22T21:02Z"
-   },
-   {
-    "player": "Bryce McGowens",
-    "status": "Out",
-    "detail": "McGowens (elbow) is listed as probable for Monday's game against Phoenix.",
-    "type": "out",
-    "updated": "2026-11-22T20:53Z"
-   },
    {
     "player": "Zion Williamson",
     "status": "Day-To-Day",
@@ -415,39 +406,39 @@
   ],
   "Oklahoma City Thunder": [
    {
-    "player": "Aday Mara",
+    "player": "Jaylin Williams",
     "status": "Out",
-    "detail": "Mara (shin) is listed as out for Sunday's game versus Miami.",
+    "detail": "Williams (back) is listed as out for Sunday's game against Miami.",
     "type": "out",
-    "updated": "2026-11-22T22:35Z"
-   },
-   {
-    "player": "Shai Gilgeous-Alexander",
-    "status": "Out",
-    "detail": "Gilgeous-Alexander (back/neck) is listed as out for Sunday's game against the Heat.",
-    "type": "out",
-    "updated": "2026-11-22T21:35Z"
+    "updated": "2026-11-23T18:49Z"
    },
    {
     "player": "Nikola Topic",
     "status": "Out",
     "detail": "Topic (hip) is listed as out for Sunday's game versus the Heat.",
     "type": "out",
-    "updated": "2026-11-21T22:39Z"
+    "updated": "2026-11-23T18:46Z"
    },
    {
-    "player": "Jaylin Williams",
+    "player": "Aday Mara",
     "status": "Out",
-    "detail": "Williams (back) is listed as out for Sunday's game against Miami.",
+    "detail": "Mara (shin) has been ruled out for Monday's game against the Pacers.",
     "type": "out",
-    "updated": "2026-11-21T22:34Z"
+    "updated": "2026-11-23T18:45Z"
+   },
+   {
+    "player": "Jalen Williams",
+    "status": "Out",
+    "detail": "Williams (ankle) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report.",
+    "type": "out",
+    "updated": "2026-11-23T18:43Z"
    },
    {
     "player": "Alex Caruso",
     "status": "Out",
-    "detail": "Caruso (hip) won't play Sunday against the Heat.",
+    "detail": "Caruso (hip) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report.",
     "type": "out",
-    "updated": "2026-11-21T22:29Z"
+    "updated": "2026-11-23T18:38Z"
    },
    {
     "player": "Thomas Sorber",
@@ -469,16 +460,16 @@
     "detail": "Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports.",
     "type": "out",
     "updated": "2026-10-31T01:02Z"
-   },
-   {
-    "player": "Jalen Williams",
-    "status": "Out",
-    "detail": "Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation.\" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports.",
-    "type": "out",
-    "updated": "2026-10-28T23:41Z"
    }
   ],
   "Philadelphia 76ers": [
+   {
+    "player": "Joel Embiid",
+    "status": "Day-To-Day",
+    "detail": "Embiid (knee) has been downgraded to questionable for Monday's game against Portland.",
+    "type": "day-to-day",
+    "updated": "2026-11-23T16:49Z"
+   },
    {
     "player": "Adem Bona",
     "status": "Out",
@@ -616,6 +607,13 @@
   ],
   "Toronto Raptors": [
    {
+    "player": "Jaden Bradley",
+    "status": "Day-To-Day",
+    "detail": "Bradley is questionable for Monday's game against the Bucks due to an ankle sprain, Blake Murphy of Sportsnet.ca reports.",
+    "type": "day-to-day",
+    "updated": "2026-11-23T17:37Z"
+   },
+   {
     "player": "Collin Murray-Boyles",
     "status": "Day-To-Day",
     "detail": "Murray-Boyles (concussion) is listed as probable for Monday's game against Milwaukee, Blake Murphy of Sportsnet.ca reports.",
@@ -647,10 +645,10 @@
   "Utah Jazz": [
    {
     "player": "Jaxson Hayes",
-    "status": "Out",
+    "status": "Day-To-Day",
     "detail": "Hayes (knee) has been ruled out for the remainder of Sunday's game against the Mavericks, Grant Afseth of DallasHoopsJournal.com reports.",
-    "type": "out",
-    "updated": "2026-11-23T01:16Z"
+    "type": "day-to-day",
+    "updated": "2026-11-23T15:06Z"
    },
    {
     "player": "Jusuf Nurkic",
@@ -675,5 +673,83 @@
    }
   ]
  },
- "status_changes": []
+ "status_changes": [
+  {
+   "at_et": "2026-11-23 14:05",
+   "team": "Brooklyn Nets",
+   "player": "Grant Nelson",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-23 14:05",
+   "team": "Chicago Bulls",
+   "player": "Jalen Smith",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-23 14:05",
+   "team": "Chicago Bulls",
+   "player": "Nic Claxton",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-23 14:05",
+   "team": "Indiana Pacers",
+   "player": "Aaron Nesmith",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-23 14:05",
+   "team": "Indiana Pacers",
+   "player": "Pascal Siakam",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-23 14:05",
+   "team": "New Orleans Pelicans",
+   "player": "Trey Murphy III",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-23 14:05",
+   "team": "New Orleans Pelicans",
+   "player": "Bryce McGowens",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-23 14:05",
+   "team": "Oklahoma City Thunder",
+   "player": "Shai Gilgeous-Alexander",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-23 14:05",
+   "team": "Philadelphia 76ers",
+   "player": "Joel Embiid",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-23 14:05",
+   "team": "Toronto Raptors",
+   "player": "Jaden Bradley",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-23 14:05",
+   "team": "Utah Jazz",
+   "player": "Jaxson Hayes",
+   "from": "Out",
+   "to": "Day-To-Day"
+  }
+ ]
 }
