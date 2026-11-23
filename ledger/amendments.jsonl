@@ -113,3 +113,6 @@
 {"action":"withdraw","at":"2026-11-22T22:52:53Z","bet_id":"3a1c87948888","reason":"replaced before tip by a new CBB 3-leg boost ticket (2026-11-22T22:52:06Z)"}
 {"action":"withdraw","at":"2026-11-22T22:52:53Z","bet_id":"d855654a8177","reason":"replaced before tip by a new CBB +300 ticket (2026-11-22T22:52:06Z)"}
 {"action":"withdraw","at":"2026-11-22T22:52:53Z","bet_id":"a46ec4a1b026","reason":"replaced before tip by a new NFL same-game parlay (Minnesota Vikings @ San Francisco 49ers) (2026-11-22T22:52:06Z)"}
+{"action":"settle","at":"2026-11-23T05:04:24Z","bet_id":"4039f0de5750","reason":"NFL finals on Jake's FanDuel slip (8:11 pm ET 22 Nov): PIT 16-19 at PHI, TB 21-31 at DET, JAX 18-23 at NYG","result":"loss"}
+{"action":"settle","at":"2026-11-23T05:04:25Z","bet_id":"d2a2ad5e84c7","reason":"Finals on Jake's FanDuel slip (8:11 pm ET 22 Nov): Towson 75-86 at American (+1.5 lost); Fairfield 74-71 at LIU; Samford 80-77 v UNC Asheville","result":"loss"}
+{"action":"settle","at":"2026-11-23T05:04:25Z","bet_id":"0717e237ea2d","reason":"Jake in chat 11:32 pm ET 22 Nov: 'everything lost today'. SF 35-10 MIN final (Sportradar); which receptions leg missed isn't in the feed (Mike Evans played and caught a TD)","result":"loss"}
