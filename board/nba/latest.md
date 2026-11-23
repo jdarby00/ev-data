@@ -1,14 +1,11 @@
 # NBA board, 2026-11-22
 
-Slate updated 2026-11-22 19:17 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-22 20:47 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 16:15 Boston Celtics: Jayson Tatum Day-To-Day → removed from report
-- 16:15 Chicago Bulls: Nic Claxton Day-To-Day → Out
-- 16:15 Detroit Pistons: Cade Cunningham Day-To-Day → removed from report
 - 19:17 Chicago Bulls: Jalen Smith Day-To-Day → removed from report
 - 19:17 Chicago Bulls: Patrick Williams Day-To-Day → removed from report
 - 19:17 Dallas Mavericks: P.J. Washington Day-To-Day → Out
@@ -21,6 +18,9 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 19:17 Oklahoma City Thunder: Shai Gilgeous-Alexander Day-To-Day → Out
 - 19:17 Washington Wizards: Bub Carrington Day-To-Day → removed from report
 - 19:17 Washington Wizards: Deandre Ayton Day-To-Day → removed from report
+- 20:47 Indiana Pacers: Pascal Siakam Day-To-Day → removed from report
+- 20:47 New York Knicks: Karl-Anthony Towns Day-To-Day → removed from report
+- 20:47 Utah Jazz: Jaxson Hayes not listed → Out
 
 ## DET @ ATL, 15:30 ET
 Line: DET -1.5, total 223.5 (Draft Kings).
@@ -160,11 +160,11 @@ Line: DAL -2.5, total 225.5 (DraftKings).
 | Max Christie | – | 12.2 (7.5) → 15.9 (6.3) | 5.2/5.8 → 6 (1–13) | 2.2/2.8 → 2 (0–5) | 0.4/1.2 → 1 (0–2) | 1.2/1.2 → 1 (0–3) | 9 (1–19) |
 | Santi Aldama | – | 12 (4.2) → 13.3 (5.6) | 4/5.7 → 6 (1–12) | 1.6/2.7 → 3 (0–6) | 0.6/0.6 → 1 (0–3) | 0.8/0.9 → 1 (0–2) | 10 (2–19) |
 
-**UTAH** (1 rest day). Out: Lauri Markkanen, Jaren Jackson Jr.. Freed minutes: 56.9. Out all season so far (already in the lines): Jusuf Nurkic.
+**UTAH** (1 rest day). Out: Lauri Markkanen, Jaren Jackson Jr., Jaxson Hayes. Freed minutes: 81.3. Out all season so far (already in the lines): Jusuf Nurkic.
+- Without Jaxson Hayes: Mo Bamba min +14.5, pts +12.2, reb +0.9, ast +2.2 (n=3 vs 10)
 - Without Lauri Markkanen: Brice Sensabaugh min +8.3, pts +7.4, reb +1.6, ast +0.8 (n=9 vs 8)
+- Without Jaxson Hayes: Brice Sensabaugh min +7.8, pts +13.2, reb +3.7, ast +0.9 (n=3 vs 14)
 - Without Lauri Markkanen: Josh Green min +7.7, pts +2.7, reb +0.4, ast +0.7 (n=9 vs 6)
-- Without Jaren Jackson Jr.: Josh Okogie min +7.5, pts +4.8, reb +1.6, ast +0.6 (n=13 vs 3)
-- Without Jaren Jackson Jr.: Josh Green min +6.8, pts +2.1, reb -0.3, ast -0.1 (n=13 vs 2)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -176,7 +176,7 @@ Line: DAL -2.5, total 225.5 (DraftKings).
 | Jaren Jackson Jr. | Out | 26 (9.5) | 16.2/16.2 | 5/5 | 2/2 | 1.2/1.2 | – |
 | Mo Bamba | – | 26 (6.4) → 21.6 (13.1) | 11.6/8.9 → 6 (1–12) | 8.4/6.6 → 8 (4–14) | 1.6/1 → 1 (0–2) | 1.4/0.5 → 0 (0–1) | 16 (6–27) |
 | Svi Mykhailiuk | – | 24.6 (9.2) → 23.4 (11.9) | 8/4.9 → 8 (2–16) | 4/2.3 → 3 (1–6) | 3/1.6 → 2 (0–5) | 2.2/1.1 → 2 (0–4) | 13 (4–24) |
-| Jaxson Hayes | – | 22.6 (5.4) → 23.5 (15.8) | 10.6/9.3 → 10 (3–17) | 7.2/6.6 → 6 (3–11) | 0.8/1.5 → 1 (0–3) | 0/0 → 0 (0–0) | 17 (8–28) |
+| Jaxson Hayes | Out | 22.6 (5.4) | 10.6/9.3 | 7.2/6.6 | 0.8/1.5 | 0/0 | – |
 | Josh Okogie | – | 20.6 (4.2) → 19.3 (11.6) | 5.8/4.6 → 5 (0–10) | 2.4/3 → 2 (0–5) | 1.4/1.2 → 1 (0–3) | 1/0.7 → 1 (0–2) | 9 (2–16) |
 | Josh Green | – | 19.8 (6.2) → 21.7 (13.4) | 7.2/4.8 → 6 (1–12) | 1.6/1.7 → 2 (0–4) | 0.6/0.9 → 1 (0–2) | 1.4/0.9 → 1 (0–3) | 9 (2–17) |
 
@@ -233,7 +233,7 @@ Line: NY -7.5, total 213.5 (DraftKings).
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Tyrese Haliburton | Out | 33 (1.6) | 21.8/21.8 | 4.5/4.5 | 9.5/9.5 | 2.5/2.5 | – |
-| Pascal Siakam | Day-To-Day | 32.2 (2.1) → 32.2 (24.6) | 24.6/23 → 23 (13–35) | 4.8/6.1 → 5 (2–9) | 2.8/3.8 → 3 (1–6) | 1.6/1.7 → 1 (0–4) | 32 (19–47) |
+| Pascal Siakam | – | 32.2 (2.1) → 32.2 (24.6) | 24.6/23 → 23 (13–35) | 4.8/6.1 → 5 (2–9) | 2.8/3.8 → 3 (1–6) | 1.6/1.7 → 1 (0–4) | 32 (19–47) |
 | Andrew Nembhard | – | 31.8 (3.3) → 32 (24.3) | 12.4/16.2 → 15 (7–24) | 2.6/2.3 → 3 (1–5) | 8.8/7.8 → 8 (4–13) | 2.2/2.3 → 2 (0–4) | 26 (14–39) |
 | Aaron Nesmith | – | 29.8 (4.6) → 29.4 (21.7) | 7.2/10.8 → 10 (4–18) | 5/3.4 → 4 (2–8) | 3.2/2.3 → 2 (1–5) | 0.4/1.4 → 1 (0–3) | 18 (8–28) |
 | Kelly Oubre Jr. | – | 27.8 (5.2) → 25.7 (18) | 16/11.6 → 13 (5–21) | 5/3.3 → 4 (1–7) | 0.6/1.1 → 1 (0–2) | 1.6/1.1 → 1 (0–3) | 18 (8–29) |
@@ -254,7 +254,7 @@ Line: NY -7.5, total 213.5 (DraftKings).
 |---|---|---|---|---|---|---|---|
 | OG Anunoby | Out | 36.6 (5) | 15.4/16.3 | 5.6/5.4 | 1.2/2 | 1.6/2 | – |
 | Jalen Brunson | – | 36.4 (3.6) → 35 (27.3) | 28.6/26.8 → 27 (16–39) | 3.2/3.1 → 3 (1–6) | 7.4/5.9 → 6 (3–10) | 4.2/3.1 → 3 (1–6) | 37 (22–52) |
-| Karl-Anthony Towns | Day-To-Day | 36 (4.7) → 33.9 (26.2) | 22/21.3 → 21 (12–32) | 14.2/13.9 → 13 (8–20) | 5.6/3.9 → 4 (1–7) | 2.2/2 → 2 (0–4) | 39 (24–55) |
+| Karl-Anthony Towns | – | 36 (4.7) → 33.9 (26.2) | 22/21.3 → 21 (12–32) | 14.2/13.9 → 13 (8–20) | 5.6/3.9 → 4 (1–7) | 2.2/2 → 2 (0–4) | 39 (24–55) |
 | Mikal Bridges | – | 30 (6.2) → 27.9 (19.7) | 12/7.8 → 11 (4–18) | 4/3.4 → 3 (1–6) | 2.6/2.2 → 3 (1–5) | 1.6/1.1 → 1 (0–3) | 17 (8–27) |
 | Josh Hart | – | 28.6 (3.9) → 29.8 (22.1) | 3.2/6.3 → 7 (2–13) | 5.6/6.4 → 6 (3–11) | 3.2/3.5 → 4 (1–7) | 0.8/1.3 → 1 (0–3) | 18 (9–28) |
 | Landry Shamet | – | 28.2 (3.9) → 28.2 (20.6) | 14/11 → 12 (5–20) | 1.6/1.6 → 2 (0–4) | 1.4/1.9 → 2 (0–4) | 3/2.4 → 2 (1–5) | 16 (7–25) |
