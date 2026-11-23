@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "updated_et": "2026-11-23 14:05",
+ "updated_et": "2026-11-23 14:45",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -15,7 +15,7 @@
    "spread_text": "MEM -2.5",
    "spread": 2.5,
    "total": 213.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -29,7 +29,7 @@
    "spread_text": "PHI -2.5",
    "spread": -2.5,
    "total": 231.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -42,8 +42,8 @@
    "state": "pre",
    "spread_text": "OKC -5.5",
    "spread": 5.5,
-   "total": 223.5,
-   "odds_source": "Draft Kings",
+   "total": 224.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -57,7 +57,7 @@
    "spread_text": "MIN -10.5",
    "spread": -10.5,
    "total": 223.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -71,7 +71,7 @@
    "spread_text": "TOR -10.5",
    "spread": -10.5,
    "total": 222.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -85,7 +85,7 @@
    "spread_text": "CLE -8.5",
    "spread": 8.5,
    "total": 241.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -98,8 +98,8 @@
    "state": "pre",
    "spread_text": "PHX -3.5",
    "spread": 3.5,
-   "total": 233.5,
-   "odds_source": "Draft Kings",
+   "total": 232.5,
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -113,7 +113,7 @@
    "spread_text": "HOU -12.5",
    "spread": -12.5,
    "total": 223.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -127,7 +127,7 @@
    "spread_text": "LAL -13.5",
    "spread": -13.5,
    "total": 224.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   },
   {
@@ -141,7 +141,7 @@
    "spread_text": "SA -10.5",
    "spread": 10.5,
    "total": 223.5,
-   "odds_source": "Draft Kings",
+   "odds_source": "DraftKings",
    "season_type": 2
   }
  ],
@@ -408,16 +408,16 @@
    {
     "player": "Jaylin Williams",
     "status": "Out",
-    "detail": "Williams (back) is listed as out for Sunday's game against Miami.",
+    "detail": "Williams (back) has been ruled out for Monday's game against the Pacers",
     "type": "out",
-    "updated": "2026-11-23T18:49Z"
+    "updated": "2026-11-23T19:09Z"
    },
    {
     "player": "Nikola Topic",
     "status": "Out",
-    "detail": "Topic (hip) is listed as out for Sunday's game versus the Heat.",
+    "detail": "Topic (hip) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report.",
     "type": "out",
-    "updated": "2026-11-23T18:46Z"
+    "updated": "2026-11-23T18:49Z"
    },
    {
     "player": "Aday Mara",
@@ -500,13 +500,6 @@
    }
   ],
   "Phoenix Suns": [
-   {
-    "player": "Ryan Dunn",
-    "status": "Day-To-Day",
-    "detail": "Dunn (quadriceps) is listed as questionable for Monday's game against the Pelicans.",
-    "type": "day-to-day",
-    "updated": "2026-11-22T23:24Z"
-   },
    {
     "player": "Mark Williams",
     "status": "Out",
@@ -750,6 +743,13 @@
    "player": "Jaxson Hayes",
    "from": "Out",
    "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-23 14:45",
+   "team": "Phoenix Suns",
+   "player": "Ryan Dunn",
+   "from": "Day-To-Day",
+   "to": "removed from report"
   }
  ]
 }
