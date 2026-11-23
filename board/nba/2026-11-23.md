@@ -1,6 +1,6 @@
 # NBA board, 2026-11-23
 
-Slate updated 2026-11-23 14:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-23 16:15 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -18,9 +18,10 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 14:05 Toronto Raptors: Jaden Bradley not listed → Day-To-Day
 - 14:05 Utah Jazz: Jaxson Hayes Out → Day-To-Day
 - 14:45 Phoenix Suns: Ryan Dunn Day-To-Day → removed from report
+- 16:15 Utah Jazz: Jaxson Hayes Day-To-Day → Out
 
 ## MEM @ CHA, 19:00 ET
-Line: MEM -2.5, total 213.5 (DraftKings).
+Line: MEM -2.5, total 212.5 (DraftKings).
 **MEM** (1 rest day). Out: Cameron Boozer, Jerami Grant, Scotty Pippen Jr., GG Jackson. Freed minutes: 84.1. Out all season so far (already in the lines): Richie Saunders.
 - Without Jerami Grant: Taylor Hendricks min +15.6, pts +6.1, reb +2.8, ast +2.4 (n=2 vs 10)
 - Without Jerami Grant: Olivier-Maxence Prosper min +12.2, pts +3.3, reb +3.2, ast -0.6 (n=2 vs 9)
@@ -146,7 +147,7 @@ Line: OKC -5.5, total 224.5 (DraftKings).
 | Kobe Brown | – | 13 (12.4) → 11 (0) | 3.8/4 → 3 (0–11) | 1.6/2 → 2 (0–5) | 0.4/0.9 → 0 (0–3) | 0.6/0.4 → 0 (0–2) | 6 (0–18) |
 
 ## BKN @ MIN, 19:30 ET
-Line: MIN -10.5, total 223.5 (DraftKings).
+Line: MIN -11.5, total 223.5 (DraftKings).
 **BKN** (2 rest days). Out: Nolan Traore. Freed minutes: 22.3.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -337,11 +338,11 @@ Line: HOU -12.5, total 223.5 (DraftKings).
 
 ## UTAH @ LAL, 22:00 ET
 Line: LAL -13.5, total 224.5 (DraftKings).
-**UTAH** (back-to-back). Out: Lauri Markkanen, Jaren Jackson Jr.. Freed minutes: 56.9. Out all season so far (already in the lines): Jusuf Nurkic.
+**UTAH** (back-to-back). Out: Lauri Markkanen, Jaren Jackson Jr., Jaxson Hayes. Freed minutes: 80.4. Out all season so far (already in the lines): Jusuf Nurkic.
+- Without Jaxson Hayes: Mo Bamba min +14, pts +12.2, reb +0.6, ast +2.2 (n=3 vs 11)
 - Without Lauri Markkanen: Brice Sensabaugh min +7.8, pts +7, reb +1.5, ast +0.8 (n=10 vs 8)
+- Without Jaxson Hayes: Brice Sensabaugh min +7.8, pts +13.1, reb +3.7, ast +0.9 (n=3 vs 15)
 - Without Lauri Markkanen: Josh Green min +7.7, pts +2.1, reb +0.3, ast +0.6 (n=10 vs 6)
-- Without Jaren Jackson Jr.: Josh Okogie min +7.1, pts +4.4, reb +1.7, ast +0.5 (n=14 vs 3)
-- Without Lauri Markkanen: Tony Bradley min +7, pts +1, reb +2.5, ast +0.3 (n=6 vs 3)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
@@ -353,7 +354,7 @@ Line: LAL -13.5, total 224.5 (DraftKings).
 | Mo Bamba | – | 26.6 (6.3) → 21.6 (13.2) | 11/8.7 → 6 (1–12) | 8.6/6.9 → 9 (4–15) | 1.6/1 → 1 (0–2) | 1.4/0.5 → 0 (0–1) | 16 (6–27) |
 | Jaren Jackson Jr. | Out | 26 (9.5) | 16.2/16.2 | 5/5 | 2/2 | 1.2/1.2 | – |
 | Brice Sensabaugh | – | 24.4 (8) → 21.6 (11.4) | 18/10.8 → 13 (5–24) | 5.4/3.6 → 3 (1–7) | 2.4/1.6 → 2 (0–4) | 3/1.9 → 2 (0–5) | 19 (7–32) |
-| Jaxson Hayes | Day-To-Day | 21.6 (6.3) → 21.3 (12.9) | 11/9.2 → 9 (3–17) | 7.4/6.4 → 5 (2–10) | 0.8/1.5 → 1 (0–2) | 0/0 → 0 (0–0) | 16 (6–27) |
+| Jaxson Hayes | Out | 21.6 (6.3) | 11/9.2 | 7.4/6.4 | 0.8/1.5 | 0/0 | – |
 | Josh Green | – | 21.6 (6.2) → 21.8 (13.5) | 6.8/4.5 → 5 (1–11) | 1.8/1.7 → 2 (0–4) | 0.6/0.9 → 1 (0–2) | 1.4/0.8 → 1 (0–3) | 8 (2–16) |
 | Josh Okogie | – | 19 (4.2) → 18.2 (10.6) | 4.6/4.4 → 4 (0–9) | 2.8/3.1 → 2 (1–5) | 1.2/1.1 → 1 (0–2) | 0.6/0.6 → 0 (0–2) | 8 (2–15) |
 
@@ -376,7 +377,7 @@ Line: LAL -13.5, total 224.5 (DraftKings).
 | Collin Sexton | – | 20 (5.2) → 20.3 (12.6) | 11.6/10.7 → 12 (4–21) | 1.2/1.7 → 1 (0–4) | 2.8/2.6 → 3 (1–5) | 0.8/0.9 → 1 (0–3) | 16 (7–28) |
 
 ## SA @ SAC, 22:00 ET
-Line: SA -10.5, total 223.5 (DraftKings).
+Line: SA -12.5, total 224.5 (DraftKings).
 **SA** (1 rest day). Out: Dylan Harper. Freed minutes: 31.7. Out all season so far (already in the lines): Tobias Harris, Jayden Quaintance.
 - Without Dylan Harper: Carter Bryant min +6.2, pts +2, reb +1.1, ast -0.6 (n=2 vs 14)
 - Without Dylan Harper: Jordan McLaughlin min +5.2, pts -3, reb +0.3, ast +2.2 (n=2 vs 9)

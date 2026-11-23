@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "updated_et": "2026-11-23 14:45",
+ "updated_et": "2026-11-23 16:15",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -14,7 +14,7 @@
    "state": "pre",
    "spread_text": "MEM -2.5",
    "spread": 2.5,
-   "total": 213.5,
+   "total": 212.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -54,8 +54,8 @@
    "away_name": "Brooklyn Nets",
    "home_name": "Minnesota Timberwolves",
    "state": "pre",
-   "spread_text": "MIN -10.5",
-   "spread": -10.5,
+   "spread_text": "MIN -11.5",
+   "spread": -11.5,
    "total": 223.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -138,9 +138,9 @@
    "away_name": "San Antonio Spurs",
    "home_name": "Sacramento Kings",
    "state": "pre",
-   "spread_text": "SA -10.5",
-   "spread": 10.5,
-   "total": 223.5,
+   "spread_text": "SA -12.5",
+   "spread": 12.5,
+   "total": 224.5,
    "odds_source": "DraftKings",
    "season_type": 2
   }
@@ -638,10 +638,10 @@
   "Utah Jazz": [
    {
     "player": "Jaxson Hayes",
-    "status": "Day-To-Day",
-    "detail": "Hayes (knee) has been ruled out for the remainder of Sunday's game against the Mavericks, Grant Afseth of DallasHoopsJournal.com reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-23T15:06Z"
+    "status": "Out",
+    "detail": "Hayes (knee) has been ruled out for Monday's game against the Lakers.",
+    "type": "out",
+    "updated": "2026-11-23T21:04Z"
    },
    {
     "player": "Jusuf Nurkic",
@@ -750,6 +750,13 @@
    "player": "Ryan Dunn",
    "from": "Day-To-Day",
    "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-23 16:15",
+   "team": "Utah Jazz",
+   "player": "Jaxson Hayes",
+   "from": "Day-To-Day",
+   "to": "Out"
   }
  ]
 }
