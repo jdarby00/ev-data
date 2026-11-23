@@ -9,6 +9,7 @@ Usage:
   python3 -I pipeline/ledger.py add FILE.json        # a bet object or a list of them (.jsonl also works)
   python3 -I pipeline/ledger.py withdraw BET_ID --reason "Aldama ruled out 1:18 pm"
   python3 -I pipeline/ledger.py settle BET_ID --result win|loss|push|void [--actual 12] [--reason ...]
+                                         [--cashout 3.85]  # cashed out: dollars returned (profit = cashout - stake)
   python3 -I pipeline/ledger.py verify               # schema + immutability check
   python3 -I pipeline/ledger.py show [--date YYYY-MM-DD]
 
@@ -198,7 +199,7 @@ def add(rows, bets_path=BETS):
     return good, skipped, errors
 
 
-def amend(bet_id_, action, reason="", result=None, actual=None, bets_path=BETS, amend_path=AMEND):
+def amend(bet_id_, action, reason="", result=None, actual=None, bets_path=BETS, amend_path=AMEND, cashout=None):
     bets = {b["id"]: b for b in read_jsonl(bets_path)}
     if bet_id_ not in bets:
         raise SystemExit(f"no bet with id {bet_id_}")
@@ -209,6 +210,10 @@ def amend(bet_id_, action, reason="", result=None, actual=None, bets_path=BETS, 
         row["result"] = result
         if actual is not None:
             row["actual"] = actual
+        if cashout is not None:
+            if float(cashout) < 0:
+                raise SystemExit("cashout must be 0 or more (dollars returned)")
+            row["cashout"] = round(float(cashout), 2)
     append_jsonl(amend_path, [row])
     return row
 
@@ -255,6 +260,7 @@ def main():
     s.add_argument("bet_id")
     s.add_argument("--result", required=True)
     s.add_argument("--actual", type=float)
+    s.add_argument("--cashout", type=float, help="dollars returned on a cash-out; profit = cashout - stake")
     s.add_argument("--reason", default="")
     sub.add_parser("verify")
     sh = sub.add_parser("show")
@@ -282,7 +288,7 @@ def main():
     elif args.cmd == "withdraw":
         print(amend(args.bet_id, "withdraw", args.reason))
     elif args.cmd == "settle":
-        print(amend(args.bet_id, "settle", args.reason, args.result, args.actual))
+        print(amend(args.bet_id, "settle", args.reason, args.result, args.actual, cashout=args.cashout))
     elif args.cmd == "verify":
         probs = verify(seen_path=path("ledger", "state", "seen.json"))
         print("\n".join(probs) if probs else "ledger OK")

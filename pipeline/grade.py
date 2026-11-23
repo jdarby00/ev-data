@@ -302,6 +302,11 @@ def grade_bet(b, amends, box, checked, prices, names, tips):
             r["reason"] = reason
             return r
     profit, staked = payout(b, result, price)
+    cashout = manual[-1].get("cashout") if manual else None
+    if cashout is not None:  # cashed out early: the money is what came back, whatever the legs did
+        staked = 0.0 if b.get("promo") == "bonus_bet" else float(b.get("stake", 5))
+        profit = round(float(cashout) - staked, 2)
+        r["cashout"] = float(cashout)
     r.update(status="graded", result=result, actual=actual, profit=profit, staked=staked, reason=reason,
              bonus_earned=float(b.get("stake", 5)) if (b.get("promo") == "reset" and result == "loss") else 0.0)
     r.update(closing(b, prices, names, tips))

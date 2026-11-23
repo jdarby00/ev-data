@@ -193,6 +193,13 @@ class Settling(Base):
         res, _ = self.run_grader()
         self.assertEqual((res[b["id"]]["result"], res[b["id"]]["profit"]), ("win", 7.5))
 
+    def test_cashout_settle(self):
+        (b,) = self.add(bet(sport="soccer", game="BHA@HUL", market="moneyline", side="BHA", player=None, line=None,
+                            price=614, real=True, contestant="jake"))
+        L.amend(b["id"], "settle", "cashed out", "loss", bets_path=self.bets, amend_path=self.amend, cashout=3.85)
+        res, _ = self.run_grader()
+        self.assertEqual((res[b["id"]]["result"], res[b["id"]]["profit"], res[b["id"]]["cashout"]), ("loss", -1.15, 3.85))
+
 
 class ClosingLine(Base):
     def test_clv_uses_last_snapshot_before_the_start(self):
