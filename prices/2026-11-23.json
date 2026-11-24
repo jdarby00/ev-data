@@ -128,7 +128,7 @@
    "api_home": "Los Angeles Lakers",
    "away": "Jazz",
    "close": true,
-   "commence_time": "2026-11-24T03:10:00Z",
+   "commence_time": "2026-11-24T03:11:00Z",
    "event_id": "3e9dc52cb055c0154839c4aec417955b",
    "home": "Lakers",
    "issues": [
@@ -140,7 +140,8 @@
     "2026-11-23T23:58:24Z lock skipped: monthly cap reached (420/420)",
     "2026-11-24T00:28:25Z lock skipped: monthly cap reached (420/420)",
     "2026-11-24T00:58:26Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-24T02:58:26Z close skipped: monthly cap reached (420/420)"
+    "2026-11-24T02:58:26Z close skipped: monthly cap reached (420/420)",
+    "no close snapshot before start"
    ],
    "market": "player_points",
    "players": [],
@@ -154,7 +155,7 @@
    "api_home": "Los Angeles Lakers",
    "away": "Jazz",
    "close": true,
-   "commence_time": "2026-11-24T03:10:00Z",
+   "commence_time": "2026-11-24T03:11:00Z",
    "event_id": "3e9dc52cb055c0154839c4aec417955b",
    "home": "Lakers",
    "issues": [
@@ -166,7 +167,8 @@
     "2026-11-23T23:58:24Z lock skipped: monthly cap reached (420/420)",
     "2026-11-24T00:28:25Z lock skipped: monthly cap reached (420/420)",
     "2026-11-24T00:58:26Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-24T02:58:26Z close skipped: monthly cap reached (420/420)"
+    "2026-11-24T02:58:26Z close skipped: monthly cap reached (420/420)",
+    "no close snapshot before start"
    ],
    "market": "player_points_rebounds_assists",
    "players": [],
@@ -301,7 +303,7 @@
    "api_home": "Sacramento Kings",
    "away": "San Antonio Spurs",
    "close": false,
-   "commence_time": "2026-11-24T03:10:00Z",
+   "commence_time": "2026-11-24T03:11:00Z",
    "event_id": "17f31499f145cd9d3232819395d29448",
    "home": "Sacramento Kings",
    "issues": [
@@ -323,7 +325,7 @@
    "api_home": "Sacramento Kings",
    "away": "Spurs",
    "close": true,
-   "commence_time": "2026-11-24T03:10:00Z",
+   "commence_time": "2026-11-24T03:11:00Z",
    "event_id": "17f31499f145cd9d3232819395d29448",
    "home": "Kings",
    "issues": [
@@ -335,7 +337,8 @@
     "2026-11-23T23:58:24Z lock skipped: monthly cap reached (420/420)",
     "2026-11-24T00:28:25Z lock skipped: monthly cap reached (420/420)",
     "2026-11-24T00:58:26Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-24T02:58:26Z close skipped: monthly cap reached (420/420)"
+    "2026-11-24T02:58:26Z close skipped: monthly cap reached (420/420)",
+    "no close snapshot before start"
    ],
    "market": "player_assists",
    "players": [],
@@ -349,7 +352,7 @@
    "api_home": "Sacramento Kings",
    "away": "Spurs",
    "close": true,
-   "commence_time": "2026-11-24T03:10:00Z",
+   "commence_time": "2026-11-24T03:11:00Z",
    "event_id": "17f31499f145cd9d3232819395d29448",
    "home": "Kings",
    "issues": [
@@ -361,7 +364,8 @@
     "2026-11-23T23:58:24Z lock skipped: monthly cap reached (420/420)",
     "2026-11-24T00:28:25Z lock skipped: monthly cap reached (420/420)",
     "2026-11-24T00:58:26Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-24T02:58:26Z close skipped: monthly cap reached (420/420)"
+    "2026-11-24T02:58:26Z close skipped: monthly cap reached (420/420)",
+    "no close snapshot before start"
    ],
    "market": "player_points",
    "players": [],
@@ -375,7 +379,7 @@
    "api_home": "Sacramento Kings",
    "away": "Spurs",
    "close": true,
-   "commence_time": "2026-11-24T03:10:00Z",
+   "commence_time": "2026-11-24T03:11:00Z",
    "event_id": "17f31499f145cd9d3232819395d29448",
    "home": "Kings",
    "issues": [
@@ -387,7 +391,8 @@
     "2026-11-23T23:58:24Z lock skipped: monthly cap reached (420/420)",
     "2026-11-24T00:28:25Z lock skipped: monthly cap reached (420/420)",
     "2026-11-24T00:58:26Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-24T02:58:26Z close skipped: monthly cap reached (420/420)"
+    "2026-11-24T02:58:26Z close skipped: monthly cap reached (420/420)",
+    "no close snapshot before start"
    ],
    "market": "player_points_rebounds_assists",
    "players": [],
@@ -423,7 +428,7 @@
    "api_home": "Los Angeles Lakers",
    "away": "Utah Jazz",
    "close": false,
-   "commence_time": "2026-11-24T03:10:00Z",
+   "commence_time": "2026-11-24T03:11:00Z",
    "event_id": "3e9dc52cb055c0154839c4aec417955b",
    "home": "Los Angeles Lakers",
    "issues": [
@@ -448,7 +453,7 @@
    "api_home": "Los Angeles Lakers",
    "away": "Utah Jazz",
    "close": false,
-   "commence_time": "2026-11-24T03:10:00Z",
+   "commence_time": "2026-11-24T03:11:00Z",
    "event_id": "3e9dc52cb055c0154839c4aec417955b",
    "home": "Los Angeles Lakers",
    "issues": [
@@ -471,7 +476,7 @@
    "close": false,
    "commence_time": "2026-11-24T04:59:00Z",
    "event_id": "slate",
-   "games": 11,
+   "games": 5,
    "home": "*",
    "issues": [
     "2026-11-23T21:50:12Z lock skipped: monthly cap reached (420/420)",
@@ -481,7 +486,8 @@
     "2026-11-23T23:58:24Z lock skipped: monthly cap reached (420/420)",
     "2026-11-24T00:28:25Z lock skipped: monthly cap reached (420/420)",
     "2026-11-24T00:58:26Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-24T02:58:26Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-24T02:58:26Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-24T04:47:24Z close skipped: monthly cap reached (420/420)"
    ],
    "market": "h2h",
    "players": [],
@@ -495,7 +501,7 @@
    "close": false,
    "commence_time": "2026-11-24T04:59:00Z",
    "event_id": "slate",
-   "games": 11,
+   "games": 5,
    "home": "*",
    "issues": [
     "2026-11-23T21:50:12Z lock skipped: monthly cap reached (420/420)",
@@ -505,7 +511,8 @@
     "2026-11-23T23:58:24Z lock skipped: monthly cap reached (420/420)",
     "2026-11-24T00:28:25Z lock skipped: monthly cap reached (420/420)",
     "2026-11-24T00:58:26Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-24T02:58:26Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-24T02:58:26Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-24T04:47:24Z close skipped: monthly cap reached (420/420)"
    ],
    "market": "spreads",
    "players": [],
@@ -519,5 +526,5 @@
  "spent_month": 420,
  "spent_today": 0,
  "stop": null,
- "updated": "2026-11-24T02:58:26Z"
+ "updated": "2026-11-24T04:47:24Z"
 }
