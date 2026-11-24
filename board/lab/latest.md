@@ -1,6 +1,6 @@
 # Research lab report
 
-Built 2026-11-24T11:10:54Z UTC from 10145 logged code candidates (9329 settled, 3589 with a close, 153 games with a close). 90% ranges resample whole games, because props in one game move together. A slice is flagged only with 30+ bets, 10+ games and a range that excludes zero, and even then it is an in-sample signal: a finding needs a pre-registered out-of-sample check (TEST_PLAN.md). Many slices are tested at once, so expect some flags by chance. CLV includes the market EV at flag time (the vig paid, or our edge when positive); "close move" (CLV minus that) is what the close did afterwards (descriptive, not flagged). Ranges on fewer than 10 games are not shown: a bootstrap over that few games is too narrow to trust (they stay in latest.json).
+Built 2026-11-24T19:35:51Z UTC from 10333 logged code candidates (9329 settled, 3589 with a close, 153 games with a close). 90% ranges resample whole games, because props in one game move together. A slice is flagged only with 30+ bets, 10+ games and a range that excludes zero, and even then it is an in-sample signal: a finding needs a pre-registered out-of-sample check (TEST_PLAN.md). Many slices are tested at once, so expect some flags by chance. CLV includes the market EV at flag time (the vig paid, or our edge when positive); "close move" (CLV minus that) is what the close did afterwards (descriptive, not flagged). Ranges on fewer than 10 games are not shown: a bootstrap over that few games is too narrow to trust (they stay in latest.json).
 
 ## In-sample signals
 
@@ -81,71 +81,71 @@ Built 2026-11-24T11:10:54Z UTC from 10145 logged code candidates (9329 settled, 
 
 | Slice | Logged | Settled (games) | Win rate | Chance given | ROI (90%) | CLV n (games) | CLV (90%) | Close move (90%) | Read |
 |---|---|---|---|---|---|---|---|---|---|
-| all | 10145 | 9329 (125) | 64% | 64% | -4.4% (-6.3% to -2.5%) | 3589 (153) | -4.4% (-4.7% to -4.1%) | -0.2% (-0.3% to -0.0%) |  |
-| sport = nba | 9863 | 9329 (125) | 64% | 64% | -4.4% (-6.3% to -2.5%) | 3425 (123) | -4.8% (-5.1% to -4.6%) | -0.1% (-0.3% to +0.1%) | IN-SAMPLE SIGNAL: negative CLV |
-| status change = no | 9339 | 8551 (124) | 64% | 65% | -5.2% (-7.4% to -3.4%) | 2857 (153) | -4.9% (-5.3% to -4.6%) | -0.2% (-0.4% to -0.0%) | IN-SAMPLE SIGNAL: negative CLV |
-| book = draftkings | 8462 | 7978 (125) | 66% | 66% | -3.9% (-6.0% to -1.9%) | 2139 (133) | -6.0% (-6.4% to -5.6%) | -0.1% (-0.3% to +0.1%) | IN-SAMPLE SIGNAL: negative CLV |
-| lane = likely | 7972 | 7466 (125) | 68% | 67% | -4.9% (-6.9% to -2.9%) | 1690 (139) | -8.7% (-9.1% to -8.4%) | -0.7% (-0.9% to -0.5%) | IN-SAMPLE SIGNAL: negative CLV |
-| lane = likely, sport = nba | 7930 | 7466 (125) | 68% | 67% | -4.9% (-6.9% to -2.9%) | 1662 (123) | -8.8% (-9.2% to -8.5%) | -0.7% (-0.9% to -0.5%) | IN-SAMPLE SIGNAL: negative CLV |
-| edge = under 0% | 7963 | 7457 (125) | 68% | 67% | -4.9% (-7.0% to -2.9%) | 1681 (139) | -8.8% (-9.1% to -8.4%) | -0.7% (-0.9% to -0.5%) | IN-SAMPLE SIGNAL: negative CLV |
-| side = over | 7533 | 7101 (124) | 66% | 66% | -5.2% (-7.7% to -2.6%) | 1330 (129) | -6.9% (-7.5% to -6.3%) | -0.4% (-0.7% to -0.1%) | IN-SAMPLE SIGNAL: negative CLV |
-| lane = likely, side = over | 6987 | 6577 (118) | 68% | 68% | -5.1% (-7.5% to -2.8%) | 804 (119) | -11.4% (-12.0% to -10.9%) | -0.8% (-1.1% to -0.6%) | IN-SAMPLE SIGNAL: negative CLV |
-| minutes moved = yes | 6491 | 6178 (125) | 64% | 63% | -3.6% (-5.9% to -1.5%) | 2183 (123) | -4.7% (-5.0% to -4.3%) | +0.1% (-0.1% to +0.3%) | IN-SAMPLE SIGNAL: negative CLV |
-| price = -200 or shorter | 5860 | 5454 (121) | 70% | 69% | -5.0% (-7.2% to -2.7%) | 621 (132) | -9.5% (-10.0% to -9.0%) | -0.8% (-1.1% to -0.5%) | IN-SAMPLE SIGNAL: negative CLV |
-| flagged = 6h+ before | 5681 | 5105 (105) | 66% | 65% | -3.5% (-5.9% to -1.2%) | 1487 (126) | -5.3% (-5.7% to -4.8%) | -0.1% (-0.4% to +0.2%) | IN-SAMPLE SIGNAL: negative CLV |
-| chance = 60-70% | 4871 | 4576 (125) | 64% | 64% | -5.2% (-7.6% to -2.8%) | 1633 (135) | -8.8% (-9.2% to -8.4%) | -0.7% (-1.0% to -0.5%) | IN-SAMPLE SIGNAL: negative CLV |
-| tier = Best bet | 4582 | 4289 (112) | 71% | 71% | -5.0% (-7.3% to -2.8%) | 245 (97) | -9.4% (-10.2% to -8.6%) | -0.8% (-1.2% to -0.4%) | IN-SAMPLE SIGNAL: negative CLV |
-| tier = Straight | 3390 | 3177 (125) | 63% | 62% | -4.7% (-7.2% to -1.9%) | 1445 (139) | -8.6% (-9.0% to -8.3%) | -0.7% (-0.9% to -0.5%) | IN-SAMPLE SIGNAL: negative CLV |
-| minutes moved = no | 3654 | 3151 (122) | 63% | 64% | -5.9% (-8.9% to -2.9%) | 1406 (151) | -4.0% (-4.5% to -3.5%) | -0.6% (-0.8% to -0.3%) | IN-SAMPLE SIGNAL: negative CLV |
-| flagged = 2-6h before | 3108 | 2925 (124) | 62% | 62% | -5.0% (-7.7% to -2.3%) | 1367 (145) | -4.0% (-4.4% to -3.6%) | -0.1% (-0.3% to +0.1%) | IN-SAMPLE SIGNAL: negative CLV |
-| chance = 70-80% | 3046 | 2840 (98) | 74% | 73% | -4.3% (-6.5% to -2.0%) | 57 (40) | -7.4% (-9.1% to -6.0%) | -0.2% (-0.9% to +0.5%) | IN-SAMPLE SIGNAL: negative CLV |
-| side = under | 2262 | 2137 (125) | 55% | 55% | -1.4% (-5.9% to +2.9%) | 2023 (133) | -3.5% (-3.8% to -3.2%) | +0.0% (-0.2% to +0.3%) | IN-SAMPLE SIGNAL: negative CLV |
-| price = -199 to -130 | 2162 | 2062 (125) | 62% | 61% | -4.3% (-7.2% to -1.6%) | 1118 (123) | -8.0% (-8.3% to -7.7%) | -0.7% (-0.9% to -0.4%) | IN-SAMPLE SIGNAL: negative CLV |
-| tier = Value | 2056 | 1749 (124) | 47% | 49% | -2.4% (-7.5% to +2.9%) | 1791 (150) | -0.4% (-0.8% to -0.1%) | +0.2% (-0.0% to +0.4%) | IN-SAMPLE SIGNAL: negative CLV |
-| sport = nba, stat/market = pts | 1834 | 1746 (124) | 63% | 63% | -4.0% (-7.1% to -1.0%) | 472 (116) | -3.0% (-3.4% to -2.6%) | +0.3% (+0.0% to +0.5%) | IN-SAMPLE SIGNAL: negative CLV |
-| stat/market = pts | 1834 | 1746 (124) | 63% | 63% | -4.0% (-7.1% to -1.0%) | 472 (116) | -3.0% (-3.4% to -2.6%) | +0.3% (+0.0% to +0.5%) | IN-SAMPLE SIGNAL: negative CLV |
-| edge = 0-3% | 1572 | 1514 (124) | 49% | 50% | -0.9% (-6.6% to +5.0%) | 1427 (122) | -1.8% (-2.1% to -1.5%) | +0.6% (+0.4% to +0.8%) | IN-SAMPLE SIGNAL: negative CLV |
-| sport = nba, stat/market = tpm | 1590 | 1511 (125) | 60% | 62% | -9.1% (-12.0% to -6.3%) | 1055 (122) | -5.7% (-6.0% to -5.4%) | -0.3% (-0.5% to -0.1%) | IN-SAMPLE SIGNAL: negative CLV |
-| stat/market = tpm | 1590 | 1511 (125) | 60% | 62% | -9.1% (-12.0% to -6.3%) | 1055 (122) | -5.7% (-6.0% to -5.4%) | -0.3% (-0.5% to -0.1%) | IN-SAMPLE SIGNAL: negative CLV |
-| lane = early | 1566 | 1508 (124) | 49% | 50% | -1.1% (-7.1% to +4.7%) | 1421 (122) | -1.8% (-2.0% to -1.5%) | +0.6% (+0.4% to +0.9%) | IN-SAMPLE SIGNAL: negative CLV |
-| lane = early, sport = nba | 1566 | 1508 (124) | 49% | 50% | -1.1% (-7.1% to +4.7%) | 1421 (122) | -1.8% (-2.0% to -1.5%) | +0.6% (+0.4% to +0.9%) | IN-SAMPLE SIGNAL: negative CLV |
-| sport = nba, stat/market = reb | 1455 | 1394 (122) | 61% | 61% | -3.4% (-7.3% to +0.4%) | 629 (118) | -4.2% (-4.7% to -3.6%) | +0.3% (-0.2% to +0.7%) | IN-SAMPLE SIGNAL: negative CLV |
-| stat/market = reb | 1455 | 1394 (122) | 61% | 61% | -3.4% (-7.3% to +0.4%) | 629 (118) | -4.2% (-4.7% to -3.6%) | +0.3% (-0.2% to +0.7%) | IN-SAMPLE SIGNAL: negative CLV |
-| book = fanduel | 1683 | 1351 (125) | 50% | 53% | -7.1% (-11.8% to -2.4%) | 1450 (151) | -2.1% (-2.4% to -1.7%) | -0.2% (-0.4% to -0.1%) | IN-SAMPLE SIGNAL: negative CLV |
+| all | 10333 | 9329 (125) | 64% | 64% | -4.4% (-6.3% to -2.5%) | 3589 (153) | -4.4% (-4.7% to -4.1%) | -0.2% (-0.3% to -0.0%) |  |
+| sport = nba | 10051 | 9329 (125) | 64% | 64% | -4.4% (-6.3% to -2.5%) | 3425 (123) | -4.8% (-5.1% to -4.6%) | -0.1% (-0.3% to +0.1%) | IN-SAMPLE SIGNAL: negative CLV |
+| status change = no | 9525 | 8551 (124) | 64% | 65% | -5.2% (-7.4% to -3.4%) | 2857 (153) | -4.9% (-5.3% to -4.6%) | -0.2% (-0.4% to -0.0%) | IN-SAMPLE SIGNAL: negative CLV |
+| book = draftkings | 8633 | 7978 (125) | 66% | 66% | -3.9% (-6.0% to -1.9%) | 2139 (133) | -6.0% (-6.4% to -5.6%) | -0.1% (-0.3% to +0.1%) | IN-SAMPLE SIGNAL: negative CLV |
+| lane = likely | 8143 | 7466 (125) | 68% | 67% | -4.9% (-6.9% to -2.9%) | 1690 (139) | -8.7% (-9.1% to -8.4%) | -0.7% (-0.9% to -0.5%) | IN-SAMPLE SIGNAL: negative CLV |
+| lane = likely, sport = nba | 8101 | 7466 (125) | 68% | 67% | -4.9% (-6.9% to -2.9%) | 1662 (123) | -8.8% (-9.2% to -8.5%) | -0.7% (-0.9% to -0.5%) | IN-SAMPLE SIGNAL: negative CLV |
+| edge = under 0% | 8134 | 7457 (125) | 68% | 67% | -4.9% (-7.0% to -2.9%) | 1681 (139) | -8.8% (-9.1% to -8.4%) | -0.7% (-0.9% to -0.5%) | IN-SAMPLE SIGNAL: negative CLV |
+| side = over | 7695 | 7101 (124) | 66% | 66% | -5.2% (-7.7% to -2.6%) | 1330 (129) | -6.9% (-7.5% to -6.3%) | -0.4% (-0.7% to -0.1%) | IN-SAMPLE SIGNAL: negative CLV |
+| lane = likely, side = over | 7148 | 6577 (118) | 68% | 68% | -5.1% (-7.5% to -2.8%) | 804 (119) | -11.4% (-12.0% to -10.9%) | -0.8% (-1.1% to -0.6%) | IN-SAMPLE SIGNAL: negative CLV |
+| minutes moved = yes | 6619 | 6178 (125) | 64% | 63% | -3.6% (-5.9% to -1.5%) | 2183 (123) | -4.7% (-5.0% to -4.3%) | +0.1% (-0.1% to +0.3%) | IN-SAMPLE SIGNAL: negative CLV |
+| price = -200 or shorter | 5989 | 5454 (121) | 70% | 69% | -5.0% (-7.2% to -2.7%) | 621 (132) | -9.5% (-10.0% to -9.0%) | -0.8% (-1.1% to -0.5%) | IN-SAMPLE SIGNAL: negative CLV |
+| flagged = 6h+ before | 5830 | 5105 (105) | 66% | 65% | -3.5% (-5.9% to -1.2%) | 1487 (126) | -5.3% (-5.7% to -4.8%) | -0.1% (-0.4% to +0.2%) | IN-SAMPLE SIGNAL: negative CLV |
+| chance = 60-70% | 4980 | 4576 (125) | 64% | 64% | -5.2% (-7.6% to -2.8%) | 1633 (135) | -8.8% (-9.2% to -8.4%) | -0.7% (-1.0% to -0.5%) | IN-SAMPLE SIGNAL: negative CLV |
+| tier = Best bet | 4683 | 4289 (112) | 71% | 71% | -5.0% (-7.3% to -2.8%) | 245 (97) | -9.4% (-10.2% to -8.6%) | -0.8% (-1.2% to -0.4%) | IN-SAMPLE SIGNAL: negative CLV |
+| tier = Straight | 3460 | 3177 (125) | 63% | 62% | -4.7% (-7.2% to -1.9%) | 1445 (139) | -8.6% (-9.0% to -8.3%) | -0.7% (-0.9% to -0.5%) | IN-SAMPLE SIGNAL: negative CLV |
+| minutes moved = no | 3714 | 3151 (122) | 63% | 64% | -5.9% (-8.9% to -2.9%) | 1406 (151) | -4.0% (-4.5% to -3.5%) | -0.6% (-0.8% to -0.3%) | IN-SAMPLE SIGNAL: negative CLV |
+| flagged = 2-6h before | 3147 | 2925 (124) | 62% | 62% | -5.0% (-7.7% to -2.3%) | 1367 (145) | -4.0% (-4.4% to -3.6%) | -0.1% (-0.3% to +0.1%) | IN-SAMPLE SIGNAL: negative CLV |
+| chance = 70-80% | 3108 | 2840 (98) | 74% | 73% | -4.3% (-6.5% to -2.0%) | 57 (40) | -7.4% (-9.1% to -6.0%) | -0.2% (-0.9% to +0.5%) | IN-SAMPLE SIGNAL: negative CLV |
+| side = under | 2287 | 2137 (125) | 55% | 55% | -1.4% (-5.9% to +2.9%) | 2023 (133) | -3.5% (-3.8% to -3.2%) | +0.0% (-0.2% to +0.3%) | IN-SAMPLE SIGNAL: negative CLV |
+| price = -199 to -130 | 2205 | 2062 (125) | 62% | 61% | -4.3% (-7.2% to -1.6%) | 1118 (123) | -8.0% (-8.3% to -7.7%) | -0.7% (-0.9% to -0.4%) | IN-SAMPLE SIGNAL: negative CLV |
+| tier = Value | 2071 | 1749 (124) | 47% | 49% | -2.4% (-7.5% to +2.9%) | 1791 (150) | -0.4% (-0.8% to -0.1%) | +0.2% (-0.0% to +0.4%) | IN-SAMPLE SIGNAL: negative CLV |
+| sport = nba, stat/market = pts | 1864 | 1746 (124) | 63% | 63% | -4.0% (-7.1% to -1.0%) | 472 (116) | -3.0% (-3.4% to -2.6%) | +0.3% (+0.0% to +0.5%) | IN-SAMPLE SIGNAL: negative CLV |
+| stat/market = pts | 1864 | 1746 (124) | 63% | 63% | -4.0% (-7.1% to -1.0%) | 472 (116) | -3.0% (-3.4% to -2.6%) | +0.3% (+0.0% to +0.5%) | IN-SAMPLE SIGNAL: negative CLV |
+| edge = 0-3% | 1589 | 1514 (124) | 49% | 50% | -0.9% (-6.6% to +5.0%) | 1427 (122) | -1.8% (-2.1% to -1.5%) | +0.6% (+0.4% to +0.8%) | IN-SAMPLE SIGNAL: negative CLV |
+| sport = nba, stat/market = tpm | 1619 | 1511 (125) | 60% | 62% | -9.1% (-12.0% to -6.3%) | 1055 (122) | -5.7% (-6.0% to -5.4%) | -0.3% (-0.5% to -0.1%) | IN-SAMPLE SIGNAL: negative CLV |
+| stat/market = tpm | 1619 | 1511 (125) | 60% | 62% | -9.1% (-12.0% to -6.3%) | 1055 (122) | -5.7% (-6.0% to -5.4%) | -0.3% (-0.5% to -0.1%) | IN-SAMPLE SIGNAL: negative CLV |
+| lane = early | 1583 | 1508 (124) | 49% | 50% | -1.1% (-7.1% to +4.7%) | 1421 (122) | -1.8% (-2.0% to -1.5%) | +0.6% (+0.4% to +0.9%) | IN-SAMPLE SIGNAL: negative CLV |
+| lane = early, sport = nba | 1583 | 1508 (124) | 49% | 50% | -1.1% (-7.1% to +4.7%) | 1421 (122) | -1.8% (-2.0% to -1.5%) | +0.6% (+0.4% to +0.9%) | IN-SAMPLE SIGNAL: negative CLV |
+| sport = nba, stat/market = reb | 1489 | 1394 (122) | 61% | 61% | -3.4% (-7.3% to +0.4%) | 629 (118) | -4.2% (-4.7% to -3.6%) | +0.3% (-0.2% to +0.7%) | IN-SAMPLE SIGNAL: negative CLV |
+| stat/market = reb | 1489 | 1394 (122) | 61% | 61% | -3.4% (-7.3% to +0.4%) | 629 (118) | -4.2% (-4.7% to -3.6%) | +0.3% (-0.2% to +0.7%) | IN-SAMPLE SIGNAL: negative CLV |
+| book = fanduel | 1700 | 1351 (125) | 50% | 53% | -7.1% (-11.8% to -2.4%) | 1450 (151) | -2.1% (-2.4% to -1.7%) | -0.2% (-0.4% to -0.1%) | IN-SAMPLE SIGNAL: negative CLV |
 | flagged = under 2h before | 1356 | 1299 (110) | 58% | 60% | -6.3% (-10.2% to -2.1%) | 735 (114) | -3.4% (-3.8% to -2.9%) | -0.4% (-0.6% to -0.3%) | IN-SAMPLE SIGNAL: negative CLV |
-| lane = early, side = under | 1227 | 1180 (123) | 50% | 51% | +0.4% (-6.3% to +7.0%) | 1093 (121) | -1.9% (-2.2% to -1.6%) | +0.7% (+0.4% to +1.0%) | IN-SAMPLE SIGNAL: negative CLV |
-| chance = 50-60% | 1184 | 1136 (120) | 50% | 53% | -4.1% (-10.4% to +2.3%) | 1042 (122) | -2.0% (-2.3% to -1.8%) | -0.0% (-0.2% to +0.2%) | IN-SAMPLE SIGNAL: negative CLV |
-| sport = nba, stat/market = pra | 1184 | 1116 (119) | 65% | 64% | -3.1% (-6.6% to +0.4%) | 275 (102) | -4.2% (-4.7% to -3.6%) | +0.4% (+0.1% to +0.6%) | IN-SAMPLE SIGNAL: negative CLV |
-| stat/market = pra | 1184 | 1116 (119) | 65% | 64% | -3.1% (-6.6% to +0.4%) | 275 (102) | -4.2% (-4.7% to -3.6%) | +0.4% (+0.1% to +0.6%) | IN-SAMPLE SIGNAL: negative CLV |
-| sport = nba, stat/market = ast | 1125 | 1057 (124) | 62% | 60% | -1.0% (-5.4% to +3.3%) | 578 (120) | -4.5% (-5.0% to -4.1%) | -0.2% (-0.6% to +0.2%) | IN-SAMPLE SIGNAL: negative CLV |
-| stat/market = ast | 1125 | 1057 (124) | 62% | 60% | -1.0% (-5.4% to +3.3%) | 578 (120) | -4.5% (-5.0% to -4.1%) | -0.2% (-0.6% to +0.2%) | IN-SAMPLE SIGNAL: negative CLV |
-| price = -129 to +100 | 1035 | 994 (120) | 50% | 52% | -4.3% (-10.9% to +2.1%) | 898 (120) | -2.4% (-2.6% to -2.1%) | +0.0% (-0.2% to +0.3%) | IN-SAMPLE SIGNAL: negative CLV |
-| sport = nba, stat/market = pr | 917 | 863 (97) | 69% | 68% | -5.4% (-9.4% to -1.4%) | 21 (14) | -20.6% (-22.7% to -18.2%) | -2.9% (2 games) | IN-SAMPLE SIGNAL: negative ROI |
-| stat/market = pr | 917 | 863 (97) | 69% | 68% | -5.4% (-9.4% to -1.4%) | 21 (14) | -20.6% (-22.7% to -18.2%) | -2.9% (2 games) | IN-SAMPLE SIGNAL: negative ROI |
-| price = +101 or longer | 1088 | 819 (124) | 45% | 46% | -0.6% (-7.1% to +6.1%) | 952 (150) | +1.2% (+0.8% to +1.7%) | +0.3% (+0.0% to +0.6%) | IN-SAMPLE SIGNAL: positive CLV |
-| lane = likely, side = under | 864 | 798 (125) | 64% | 62% | -2.1% (-7.1% to +2.8%) | 779 (130) | -6.6% (-6.9% to -6.3%) | -0.7% (-1.0% to -0.5%) | IN-SAMPLE SIGNAL: negative CLV |
-| status change = yes | 806 | 778 (77) | 56% | 53% | +5.2% (-0.8% to +10.9%) | 732 (75) | -2.3% (-2.7% to -2.0%) | -0.0% (-0.4% to +0.3%) | IN-SAMPLE SIGNAL: negative CLV |
-| chance = 40-50% | 725 | 685 (123) | 46% | 46% | +0.7% (-6.6% to +7.9%) | 692 (127) | +0.1% (-0.3% to +0.4%) | +0.5% (+0.2% to +0.9%) | hypothesis (range includes zero) |
-| sport = nba, stat/market = pa | 722 | 681 (98) | 70% | 69% | -3.1% (-7.3% to +0.7%) | 7 (7) | -15.1% (7 games) | -4.4% (2 games) | hypothesis (range includes zero) |
-| stat/market = pa | 722 | 681 (98) | 70% | 69% | -3.1% (-7.3% to +0.7%) | 7 (7) | -15.1% (7 games) | -4.4% (2 games) | hypothesis (range includes zero) |
-| sport = nba, stat/market = ra | 668 | 626 (105) | 66% | 68% | -9.3% (-14.8% to -3.7%) | 53 (38) | -8.3% (-11.0% to -5.6%) | -2.2% (-3.9% to -0.6%) | IN-SAMPLE SIGNAL: negative CLV |
-| stat/market = ra | 668 | 626 (105) | 66% | 68% | -9.3% (-14.8% to -3.7%) | 53 (38) | -8.3% (-11.0% to -5.6%) | -2.2% (-3.9% to -0.6%) | IN-SAMPLE SIGNAL: negative CLV |
+| lane = early, side = under | 1243 | 1180 (123) | 50% | 51% | +0.4% (-6.3% to +7.0%) | 1093 (121) | -1.9% (-2.2% to -1.6%) | +0.7% (+0.4% to +1.0%) | IN-SAMPLE SIGNAL: negative CLV |
+| chance = 50-60% | 1195 | 1136 (120) | 50% | 53% | -4.1% (-10.4% to +2.3%) | 1042 (122) | -2.0% (-2.3% to -1.8%) | -0.0% (-0.2% to +0.2%) | IN-SAMPLE SIGNAL: negative CLV |
+| sport = nba, stat/market = pra | 1205 | 1116 (119) | 65% | 64% | -3.1% (-6.6% to +0.4%) | 275 (102) | -4.2% (-4.7% to -3.6%) | +0.4% (+0.1% to +0.6%) | IN-SAMPLE SIGNAL: negative CLV |
+| stat/market = pra | 1205 | 1116 (119) | 65% | 64% | -3.1% (-6.6% to +0.4%) | 275 (102) | -4.2% (-4.7% to -3.6%) | +0.4% (+0.1% to +0.6%) | IN-SAMPLE SIGNAL: negative CLV |
+| sport = nba, stat/market = ast | 1148 | 1057 (124) | 62% | 60% | -1.0% (-5.4% to +3.3%) | 578 (120) | -4.5% (-5.0% to -4.1%) | -0.2% (-0.6% to +0.2%) | IN-SAMPLE SIGNAL: negative CLV |
+| stat/market = ast | 1148 | 1057 (124) | 62% | 60% | -1.0% (-5.4% to +3.3%) | 578 (120) | -4.5% (-5.0% to -4.1%) | -0.2% (-0.6% to +0.2%) | IN-SAMPLE SIGNAL: negative CLV |
+| price = -129 to +100 | 1045 | 994 (120) | 50% | 52% | -4.3% (-10.9% to +2.1%) | 898 (120) | -2.4% (-2.6% to -2.1%) | +0.0% (-0.2% to +0.3%) | IN-SAMPLE SIGNAL: negative CLV |
+| sport = nba, stat/market = pr | 934 | 863 (97) | 69% | 68% | -5.4% (-9.4% to -1.4%) | 21 (14) | -20.6% (-22.7% to -18.2%) | -2.9% (2 games) | IN-SAMPLE SIGNAL: negative ROI |
+| stat/market = pr | 934 | 863 (97) | 69% | 68% | -5.4% (-9.4% to -1.4%) | 21 (14) | -20.6% (-22.7% to -18.2%) | -2.9% (2 games) | IN-SAMPLE SIGNAL: negative ROI |
+| price = +101 or longer | 1094 | 819 (124) | 45% | 46% | -0.6% (-7.1% to +6.1%) | 952 (150) | +1.2% (+0.8% to +1.7%) | +0.3% (+0.0% to +0.6%) | IN-SAMPLE SIGNAL: positive CLV |
+| lane = likely, side = under | 873 | 798 (125) | 64% | 62% | -2.1% (-7.1% to +2.8%) | 779 (130) | -6.6% (-6.9% to -6.3%) | -0.7% (-1.0% to -0.5%) | IN-SAMPLE SIGNAL: negative CLV |
+| status change = yes | 808 | 778 (77) | 56% | 53% | +5.2% (-0.8% to +10.9%) | 732 (75) | -2.3% (-2.7% to -2.0%) | -0.0% (-0.4% to +0.3%) | IN-SAMPLE SIGNAL: negative CLV |
+| chance = 40-50% | 731 | 685 (123) | 46% | 46% | +0.7% (-6.6% to +7.9%) | 692 (127) | +0.1% (-0.3% to +0.4%) | +0.5% (+0.2% to +0.9%) | hypothesis (range includes zero) |
+| sport = nba, stat/market = pa | 740 | 681 (98) | 70% | 69% | -3.1% (-7.3% to +0.7%) | 7 (7) | -15.1% (7 games) | -4.4% (2 games) | hypothesis (range includes zero) |
+| stat/market = pa | 740 | 681 (98) | 70% | 69% | -3.1% (-7.3% to +0.7%) | 7 (7) | -15.1% (7 games) | -4.4% (2 games) | hypothesis (range includes zero) |
+| sport = nba, stat/market = ra | 681 | 626 (105) | 66% | 68% | -9.3% (-14.8% to -3.7%) | 53 (38) | -8.3% (-11.0% to -5.6%) | -2.2% (-3.9% to -0.6%) | IN-SAMPLE SIGNAL: negative CLV |
+| stat/market = ra | 681 | 626 (105) | 66% | 68% | -9.3% (-14.8% to -3.7%) | 53 (38) | -8.3% (-11.0% to -5.6%) | -2.2% (-3.9% to -0.6%) | IN-SAMPLE SIGNAL: negative CLV |
 | lane = value | 607 | 355 (109) | 42% | 48% | -7.3% (-16.8% to +1.4%) | 478 (134) | +3.0% (+2.4% to +3.7%) | -1.3% (-1.7% to -0.9%) | IN-SAMPLE SIGNAL: positive CLV |
 | lane = value, sport = nba | 367 | 355 (109) | 42% | 48% | -7.3% (-16.8% to +1.4%) | 342 (106) | +1.8% (+1.2% to +2.4%) | -1.2% (-1.6% to -0.7%) | IN-SAMPLE SIGNAL: positive CLV |
-| lane = early, side = over | 339 | 328 (94) | 46% | 49% | -6.3% (-18.5% to +6.5%) | 328 (94) | -1.4% (-1.9% to -0.9%) | +0.5% (+0.2% to +0.9%) | IN-SAMPLE SIGNAL: negative CLV |
+| lane = early, side = over | 340 | 328 (94) | 46% | 49% | -6.3% (-18.5% to +6.5%) | 328 (94) | -1.4% (-1.9% to -0.9%) | +0.5% (+0.2% to +0.9%) | IN-SAMPLE SIGNAL: negative CLV |
 | edge = 3-6% | 406 | 318 (107) | 42% | 48% | -7.7% (-16.9% to +1.5%) | 354 (125) | +1.9% (+1.4% to +2.4%) | -0.9% (-1.3% to -0.5%) | IN-SAMPLE SIGNAL: positive CLV |
 | lane = value, side = over | 207 | 196 (86) | 42% | 46% | -4.2% (-18.4% to +11.2%) | 198 (88) | +2.2% (+1.5% to +2.9%) | -1.7% (-2.4% to -1.0%) | IN-SAMPLE SIGNAL: positive CLV |
-| sport = nba, stat/market = stl | 207 | 191 (88) | 72% | 62% | +10.7% (+0.9% to +20.0%) | 191 (88) | -5.7% (-6.1% to -5.2%) | -0.5% (-0.9% to -0.1%) | IN-SAMPLE SIGNAL: negative CLV |
-| stat/market = stl | 207 | 191 (88) | 72% | 62% | +10.7% (+0.9% to +20.0%) | 191 (88) | -5.7% (-6.1% to -5.2%) | -0.5% (-0.9% to -0.1%) | IN-SAMPLE SIGNAL: negative CLV |
+| sport = nba, stat/market = stl | 208 | 191 (88) | 72% | 62% | +10.7% (+0.9% to +20.0%) | 191 (88) | -5.7% (-6.1% to -5.2%) | -0.5% (-0.9% to -0.1%) | IN-SAMPLE SIGNAL: negative CLV |
+| stat/market = stl | 208 | 191 (88) | 72% | 62% | +10.7% (+0.9% to +20.0%) | 191 (88) | -5.7% (-6.1% to -5.2%) | -0.5% (-0.9% to -0.1%) | IN-SAMPLE SIGNAL: negative CLV |
 | lane = value, side = under | 171 | 159 (75) | 43% | 50% | -11.1% (-25.8% to +3.8%) | 151 (78) | +1.2% (+0.4% to +2.1%) | -0.6% (-1.4% to +0.2%) | IN-SAMPLE SIGNAL: positive CLV |
-| tier = Lean | 117 | 114 (69) | 56% | 57% | -0.2% (-13.4% to +13.8%) | 108 (68) | -2.5% (-3.3% to -1.8%) | -0.9% (-1.6% to -0.3%) | IN-SAMPLE SIGNAL: negative CLV |
-| sport = nba, stat/market = moneyline | 98 | 91 (57) | 63% | 68% | -9.5% (-26.1% to +6.6%) | 91 (57) | -3.9% (-4.8% to -2.9%) | -0.5% (-1.4% to +0.5%) | IN-SAMPLE SIGNAL: negative CLV |
-| stat/market = moneyline | 121 | 91 (57) | 63% | 68% | -9.5% (-26.1% to +6.6%) | 107 (69) | -3.9% (-4.6% to -3.1%) | -0.5% (-1.2% to +0.4%) | IN-SAMPLE SIGNAL: negative CLV |
-| sport = nba, stat/market = blk | 63 | 53 (33) | 74% | 61% | +12.3% (-5.6% to +29.2%) | 53 (33) | -5.6% (-6.3% to -4.9%) | -1.0% (-1.6% to -0.5%) | IN-SAMPLE SIGNAL: negative CLV |
-| stat/market = blk | 63 | 53 (33) | 74% | 61% | +12.3% (-5.6% to +29.2%) | 53 (33) | -5.6% (-6.3% to -4.9%) | -1.0% (-1.6% to -0.5%) | IN-SAMPLE SIGNAL: negative CLV |
+| tier = Lean | 119 | 114 (69) | 56% | 57% | -0.2% (-13.4% to +13.8%) | 108 (68) | -2.5% (-3.3% to -1.8%) | -0.9% (-1.6% to -0.3%) | IN-SAMPLE SIGNAL: negative CLV |
+| sport = nba, stat/market = moneyline | 99 | 91 (57) | 63% | 68% | -9.5% (-26.1% to +6.6%) | 91 (57) | -3.9% (-4.8% to -2.9%) | -0.5% (-1.4% to +0.5%) | IN-SAMPLE SIGNAL: negative CLV |
+| stat/market = moneyline | 122 | 91 (57) | 63% | 68% | -9.5% (-26.1% to +6.6%) | 107 (69) | -3.9% (-4.6% to -3.1%) | -0.5% (-1.2% to +0.4%) | IN-SAMPLE SIGNAL: negative CLV |
+| sport = nba, stat/market = blk | 64 | 53 (33) | 74% | 61% | +12.3% (-5.6% to +29.2%) | 53 (33) | -5.6% (-6.3% to -4.9%) | -1.0% (-1.6% to -0.5%) | IN-SAMPLE SIGNAL: negative CLV |
+| stat/market = blk | 64 | 53 (33) | 74% | 61% | +12.3% (-5.6% to +29.2%) | 53 (33) | -5.6% (-6.3% to -4.9%) | -1.0% (-1.6% to -0.5%) | IN-SAMPLE SIGNAL: negative CLV |
 | chance = 80-90% | 55 | 50 (10) | 80% | 81% | -7.3% (-17.7% to +3.7%) | 0 (0) | – (–) | – (–) | hypothesis (range includes zero) |
-| lane = likely, side = home | 62 | 50 (32) | 66% | 68% | -4.9% (-26.9% to +15.1%) | 58 (38) | -3.8% (-4.9% to -2.9%) | -0.4% (-1.5% to +0.5%) | IN-SAMPLE SIGNAL: negative CLV |
-| side = home | 62 | 50 (32) | 66% | 68% | -4.9% (-26.9% to +15.1%) | 58 (38) | -3.8% (-4.9% to -2.9%) | -0.4% (-1.5% to +0.5%) | IN-SAMPLE SIGNAL: negative CLV |
+| lane = likely, side = home | 63 | 50 (32) | 66% | 68% | -4.9% (-26.9% to +15.1%) | 58 (38) | -3.8% (-4.9% to -2.9%) | -0.4% (-1.5% to +0.5%) | IN-SAMPLE SIGNAL: negative CLV |
+| side = home | 63 | 50 (32) | 66% | 68% | -4.9% (-26.9% to +15.1%) | 58 (38) | -3.8% (-4.9% to -2.9%) | -0.4% (-1.5% to +0.5%) | IN-SAMPLE SIGNAL: negative CLV |
 | chance = 30-40% | 64 | 42 (33) | 36% | 38% | -2.1% (-38.0% to +35.6%) | 54 (43) | +4.7% (+3.5% to +6.0%) | +1.1% (-0.4% to +2.6%) | IN-SAMPLE SIGNAL: positive CLV |
 | lane = likely, side = away | 59 | 41 (25) | 59% | 67% | -15.1% (-41.0% to +10.5%) | 49 (31) | -3.9% (-5.1% to -2.5%) | -0.5% (-1.7% to +1.0%) | IN-SAMPLE SIGNAL: negative CLV |
 | side = away | 59 | 41 (25) | 59% | 67% | -15.1% (-41.0% to +10.5%) | 49 (31) | -3.9% (-5.1% to -2.5%) | -0.5% (-1.7% to +1.0%) | IN-SAMPLE SIGNAL: negative CLV |
