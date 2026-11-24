@@ -1,12 +1,12 @@
 # Scoreboard
 
-Built Tue 24 Nov 2026, 5:20 AM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
+Built Tue 24 Nov 2026, 2:05 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
 
 ## Jake's real money
 
 | Contestant | Bets | W–L–P–V | Profit | ROI | Bankroll | Max drawdown | CLV (n, avg, beat close) | Pending |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| jake | 36 | 5–30–0–1 | $-101.97 | -48.0% | $-101.97 | $107.77 | – | 0 |
+| jake | 36 | 5–31–0–0 | $-106.97 | -49.2% | $-106.97 | $107.77 | – | 0 |
 
 ## Paper contestants at real prices (start $500, logged stake)
 
@@ -51,7 +51,7 @@ CLV is the expected value of the bet price against the de-vigged closing price (
 | boost_parlay_50 | 4 | 0–4–0–0 | $-20.00 | -100.0% | $480.00 | $20.00 | – | 0 |
 | always_over | 37 | 14–17–0–6 | $-24.28 | -15.7% | $475.72 | $54.49 | – | 0 |
 | r15_pra_under | 892 | 443–425–0–24 | $-160.52 | -3.7% | $339.48 | $167.54 | 168, -5.5%, 41% | 11 |
-| card | 113 | 27–76–0–10 | $-206.76 | -40.1% | $293.24 | $206.76 | 3, -4.7%, 100% | 2 |
+| card | 114 | 29–85–0–0 | $-237.00 | -41.6% | $263.00 | $237.80 | 3, -4.7%, 100% | 2 |
 | r15_combo_under | 1812 | 893–870–0–49 | $-404.78 | -4.6% | $95.22 | $477.52 | – | 20 |
 | r15_ast_under | 829 | 387–418–0–24 | $-409.73 | -10.2% | $90.27 | $444.73 | 10, -4.3%, 44% | 17 |
 | r16_avg_under | 3559 | 1830–1660–0–69 | $-670.58 | -3.8% | $-170.58 | $743.30 | 233, -5.2%, 44% | 34 |
