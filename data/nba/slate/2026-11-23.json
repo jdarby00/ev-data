@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "updated_et": "2026-11-23 21:35",
+ "updated_et": "2026-11-23 23:16",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -39,7 +39,7 @@
    "home": "IND",
    "away_name": "Oklahoma City Thunder",
    "home_name": "Indiana Pacers",
-   "state": "in",
+   "state": "post",
    "spread_text": "OKC -5.5",
    "spread": 5.5,
    "total": 224.5,
@@ -53,7 +53,7 @@
    "home": "MIN",
    "away_name": "Brooklyn Nets",
    "home_name": "Minnesota Timberwolves",
-   "state": "in",
+   "state": "post",
    "spread_text": "MIN -10.5",
    "spread": -10.5,
    "total": 222.5,
@@ -67,7 +67,7 @@
    "home": "TOR",
    "away_name": "Milwaukee Bucks",
    "home_name": "Toronto Raptors",
-   "state": "in",
+   "state": "post",
    "spread_text": "TOR -10.5",
    "spread": -10.5,
    "total": 222.5,
@@ -81,7 +81,7 @@
    "home": "CHI",
    "away_name": "Cleveland Cavaliers",
    "home_name": "Chicago Bulls",
-   "state": "in",
+   "state": "post",
    "spread_text": "CLE -9.5",
    "spread": 9.5,
    "total": 242.5,
@@ -95,7 +95,7 @@
    "home": "NO",
    "away_name": "Phoenix Suns",
    "home_name": "New Orleans Pelicans",
-   "state": "in",
+   "state": "post",
    "spread_text": "PHX -3.5",
    "spread": 3.5,
    "total": 232.5,
@@ -109,7 +109,7 @@
    "home": "HOU",
    "away_name": "LA Clippers",
    "home_name": "Houston Rockets",
-   "state": "in",
+   "state": "post",
    "spread_text": "HOU -12.5",
    "spread": -12.5,
    "total": 223.5,
@@ -123,7 +123,7 @@
    "home": "LAL",
    "away_name": "Utah Jazz",
    "home_name": "Los Angeles Lakers",
-   "state": "pre",
+   "state": "in",
    "spread_text": "LAL -12.5",
    "spread": -12.5,
    "total": 224.5,
@@ -137,7 +137,7 @@
    "home": "SAC",
    "away_name": "San Antonio Spurs",
    "home_name": "Sacramento Kings",
-   "state": "pre",
+   "state": "in",
    "spread_text": "SA -8.5",
    "spread": 8.5,
    "total": 223.5,
@@ -451,6 +451,13 @@
    }
   ],
   "Phoenix Suns": [
+   {
+    "player": "Collin Gillespie",
+    "status": "Day-To-Day",
+    "detail": "Gillespie went to the locker room during the third quarter of Monday's game against the Pelicans due to an undisclosed injury, Duane Rankin of The Arizona Republic reports.",
+    "type": "day-to-day",
+    "updated": "2026-11-24T02:48Z"
+   },
    {
     "player": "Mark Williams",
     "status": "Out",
@@ -806,6 +813,13 @@
    "player": "Collin Murray-Boyles",
    "from": "Day-To-Day",
    "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-23 23:16",
+   "team": "Phoenix Suns",
+   "player": "Collin Gillespie",
+   "from": "not listed",
+   "to": "Day-To-Day"
   }
  ]
 }

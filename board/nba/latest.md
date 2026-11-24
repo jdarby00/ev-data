@@ -1,12 +1,11 @@
 # NBA board, 2026-11-23
 
-Slate updated 2026-11-23 21:35 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-23 23:16 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 21:35 Chicago Bulls: Jalen Smith Day-To-Day → removed from report
 - 21:35 Chicago Bulls: Nic Claxton Day-To-Day → removed from report
 - 21:35 Cleveland Cavaliers: Jaylon Tyson Out → removed from report
 - 21:35 Indiana Pacers: Larry Nance Jr. not listed → Day-To-Day
@@ -21,6 +20,7 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 21:35 San Antonio Spurs: Jordan McLaughlin Day-To-Day → removed from report
 - 21:35 Toronto Raptors: Jaden Bradley Day-To-Day → removed from report
 - 21:35 Toronto Raptors: Collin Murray-Boyles Day-To-Day → removed from report
+- 23:16 Phoenix Suns: Collin Gillespie not listed → Day-To-Day
 
 ## MEM @ CHA, 19:00 ET
 Line: MEM -2.5, total 212.5 (DraftKings).
@@ -276,7 +276,7 @@ Line: PHX -3.5, total 232.5 (DraftKings).
 | Dillon Brooks | – | 27 (4.8) → 27.8 (20.1) | 15.6/15.1 → 17 (8–27) | 3/3.6 → 3 (1–6) | 2.6/2.3 → 2 (0–4) | 2.6/2.1 → 2 (0–4) | 22 (11–34) |
 | Miles Bridges | – | 26.4 (3.9) → 27.3 (19.7) | 14.4/14.8 → 15 (7–23) | 6.4/7.1 → 6 (3–10) | 3.4/3.2 → 3 (1–6) | 1.2/1.7 → 1 (0–3) | 24 (12–37) |
 | Oso Ighodaro | – | 26 (5.2) → 24.2 (16.5) | 4.8/5.8 → 6 (1–11) | 5.4/5.5 → 5 (2–10) | 3.6/3.3 → 3 (1–5) | 0/0 → 0 (0–0) | 14 (6–24) |
-| Collin Gillespie | – | 25 (3.3) → 24.6 (16.9) | 14.8/9.7 → 12 (4–20) | 3.2/2.5 → 3 (1–6) | 2.8/3.9 → 3 (1–7) | 3/2.3 → 2 (0–5) | 18 (9–30) |
+| Collin Gillespie | Day-To-Day | 25 (3.3) → 24.6 (16.9) | 14.8/9.7 → 12 (4–20) | 3.2/2.5 → 3 (1–6) | 2.8/3.9 → 3 (1–7) | 3/2.3 → 2 (0–5) | 18 (9–30) |
 | Jalen Green | – | 24.8 (4.5) → 25.9 (18.2) | 13.8/12.5 → 15 (7–24) | 4.4/3.7 → 4 (1–7) | 2.8/3.2 → 3 (1–6) | 1.8/1.2 → 2 (0–4) | 22 (11–35) |
 | Jordan Goodwin | – | 24 (6.1) → 22 (13.9) | 7.6/8.6 → 8 (2–15) | 6.4/4.7 → 5 (2–9) | 3.4/2.8 → 2 (0–5) | 1/1.8 → 1 (0–3) | 16 (6–27) |
 | Luke Kennard | – | 18.6 (3.4) → 18 (10.3) | 9.2/8.6 → 7 (2–14) | 2.4/1.7 → 2 (0–4) | 1.2/1.6 → 1 (0–3) | 1.8/2 → 1 (0–3) | 11 (3–20) |
