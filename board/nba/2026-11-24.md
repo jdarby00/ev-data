@@ -1,6 +1,6 @@
 # NBA board, 2026-11-24
 
-Slate updated 2026-11-24 14:05 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-24 14:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -9,7 +9,7 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 14:05 Washington Wizards: Tre Mann not listed → Day-To-Day
 
 ## DET @ ORL, 19:00 ET
-Line: DET -2.5, total 213.5 (Draft Kings).
+Line: DET -2.5, total 212.5 (DraftKings).
 **DET** (1 rest day). Out: Duncan Robinson, Jalen Duren, Taurean Prince, Ebuka Okorie. Freed minutes: 60.8.
 - Without Jalen Duren: Daniss Jenkins min +13.6, pts +5.8, reb +0.4, ast +0.4 (n=14 vs 2)
 - Without Duncan Robinson: Chaz Lanier min +12.2, pts +0.8, reb +1.3, ast +0.3 (n=3 vs 4)
@@ -51,7 +51,7 @@ Line: DET -2.5, total 213.5 (Draft Kings).
 | Alex Morales | – | 14.6 (7.6) → 12.5 (2.7) | 2.4/1.9 → 3 (0–8) | 2.8/2.2 → 2 (0–4) | 1.2/0.8 → 1 (0–4) | 0.4/0.2 → 0 (0–1) | 6 (0–15) |
 
 ## BOS @ WSH, 20:00 ET
-Line: BOS -11.5, total 218.5 (Draft Kings).
+Line: BOS -11.5, total 218.5 (DraftKings).
 **BOS** (1 rest day). Out: Mitchell Robinson. Freed minutes: 17.5.
 - Without Mitchell Robinson: Mike Conley min +9, pts +9.5, reb +2.2, ast +2.5 (n=2 vs 4)
 - Without Mitchell Robinson: Neemias Queta min +7.1, pts -0.1, reb +1.5, ast +0 (n=3 vs 13)
@@ -92,7 +92,7 @@ Line: BOS -11.5, total 218.5 (Draft Kings).
 | Reece Beekman | Out | 1 (–) | 0/0 | 0/0 | 0/0 | 0/0 | – |
 
 ## DAL @ DEN, 22:00 ET
-Line: DEN -8.5, total 234.5 (Draft Kings).
+Line: DEN -8.5, total 234.5 (DraftKings).
 **DAL** (1 rest day). Out: Sergio de Larrea, Tobi Lawal. Freed minutes: 16.4. Out all season so far (already in the lines): Dereck Lively II, Tarik Biberovic.
 - Without Sergio de Larrea: Max Christie min -16.4, pts -5, reb -2, ast -2 (n=10 vs 4)
 - Without Sergio de Larrea: Marcus Sasser min -9.9, pts -5.6, reb -0.9, ast -0.8 (n=8 vs 4)
