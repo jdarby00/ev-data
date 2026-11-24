@@ -1,6 +1,7 @@
 {
  "date": "2026-11-24",
  "done": {
+  "board_1405": "2026-11-24T19:05:00Z",
   "boosts_1040": "2026-11-24T15:40:00Z",
   "box_0520": "2026-11-24T10:20:00Z",
   "escreen_1040": "2026-11-24T15:40:04Z",
@@ -21,6 +22,7 @@
   "2026-11-24T15:40:04Z escreen_1040: dispatched jdarby00/dk-odds espn-screen.yml (HTTP 204)",
   "2026-11-24T15:40:07Z mscreen_1040: dispatched jdarby00/dk-odds market-screen.yml (HTTP 204)",
   "2026-11-24T15:45:00Z sgo_1045: dispatched jdarby00/dk-odds sgo-links.yml (HTTP 204)",
-  "2026-11-24T17:33:00Z fclose@2026-11-24T17:33:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)"
+  "2026-11-24T17:33:00Z fclose@2026-11-24T17:33:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
+  "2026-11-24T19:05:00Z board_1405: dispatched jdarby00/ev-data nba.yml (HTTP 204)"
  ]
 }
