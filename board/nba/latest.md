@@ -1,6 +1,6 @@
 # NBA board, 2026-11-24
 
-Slate updated 2026-11-24 14:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-24 15:40 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -51,7 +51,7 @@ Line: DET -2.5, total 212.5 (DraftKings).
 | Alex Morales | – | 14.6 (7.6) → 12.5 (2.7) | 2.4/1.9 → 3 (0–8) | 2.8/2.2 → 2 (0–4) | 1.2/0.8 → 1 (0–4) | 0.4/0.2 → 0 (0–1) | 6 (0–15) |
 
 ## BOS @ WSH, 20:00 ET
-Line: BOS -11.5, total 218.5 (DraftKings).
+Line: BOS -10.5, total 218.5 (DraftKings).
 **BOS** (1 rest day). Out: Mitchell Robinson. Freed minutes: 17.5.
 - Without Mitchell Robinson: Mike Conley min +9, pts +9.5, reb +2.2, ast +2.5 (n=2 vs 4)
 - Without Mitchell Robinson: Neemias Queta min +7.1, pts -0.1, reb +1.5, ast +0 (n=3 vs 13)
