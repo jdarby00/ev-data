@@ -1,6 +1,6 @@
 # NBA board, 2026-11-25
 
-Slate updated 2026-11-25 14:05 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-25 14:45 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -11,7 +11,7 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 14:05 New York Knicks: Jalen Brunson not listed → Day-To-Day
 
 ## MIA @ PHI, 17:00 ET
-Line: PHI -1.5, total 237.5 (Draft Kings).
+Line: PHI -1.5, total 237.5 (DraftKings).
 **MIA** (2 rest days). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -45,7 +45,7 @@ Line: PHI -1.5, total 237.5 (Draft Kings).
 | Dominick Barlow | – | 13.5 (2.5) → 15.9 (8.3) | 9/9 → 6 (1–12) | 3/3 → 3 (1–6) | 0.5/0.5 → 1 (0–2) | 0.5/0.5 → 0 (0–1) | 10 (2–19) |
 
 ## CHI @ CHA, 19:00 ET
-Line: CHA -3.5, total 219.5 (Draft Kings).
+Line: CHA -3.5, total 219.5 (DraftKings).
 **CHI** (1 rest day). Out: Norman Powell, Caleb Wilson. Freed minutes: 60.2.
 - Without Norman Powell: Buddy Hield min +17.3, pts +16.9, reb +3.7, ast +1.3 (n=2 vs 13)
 - Without Caleb Wilson: Isaac Okoro min +13.3, pts +6.4, reb +3, ast +1.2 (n=7 vs 10)
@@ -87,7 +87,7 @@ Line: CHA -3.5, total 219.5 (Draft Kings).
 | Ryan Kalkbrenner | Out | 14.8 (6.4) | 3.8/4.5 | 4.4/5.1 | 0.6/1.2 | 0/0 | – |
 
 ## CLE @ NY, 19:30 ET
-Line: NY -1.5, total 216.5 (Draft Kings).
+Line: NY -1.5, total 216.5 (DraftKings).
 **CLE** (1 rest day). Out: Evan Mobley. Freed minutes: 32.1. Out all season so far (already in the lines): Nae'Qwan Tomlin.
 - Without Evan Mobley: Tyrese Proctor min +9.6, pts +6.5, reb +0.9, ast +1.1 (n=6 vs 11)
 - Without Evan Mobley: Norchad Omier min +6.5, pts +4.6, reb +2.7, ast -0.3 (n=5 vs 2)
@@ -129,7 +129,7 @@ Line: NY -1.5, total 216.5 (Draft Kings).
 | Jordan Clarkson | Out | 10 (3.7) | 3.2/4.9 | 1.8/1.6 | 0.4/0.4 | 0.2/0.5 | – |
 
 ## MIN @ OKC, 19:30 ET
-Line: OKC -1.5, total 222.5 (Draft Kings).
+Line: OKC -1.5, total 221.5 (DraftKings).
 **MIN** (1 rest day). Out: Anthony Edwards, Jaylen Clark. Freed minutes: 47.4. Out all season so far (already in the lines): Donte DiVincenzo.
 - Without Anthony Edwards: Bones Hyland min +8, pts +9.7, reb -0.2, ast +2.6 (n=14 vs 4)
 - Without Anthony Edwards: Ayo Dosunmu min +7, pts +7.9, reb +0.5, ast -0.6 (n=14 vs 4)
@@ -171,7 +171,7 @@ Line: OKC -1.5, total 222.5 (Draft Kings).
 | Josh Dix | – | 20.2 (6.5) → 19.5 (10.9) | 4/3.2 → 5 (1–11) | 2.6/1.9 → 3 (1–6) | 2.2/1.2 → 1 (0–4) | 0.8/0.6 → 1 (0–2) | 10 (3–19) |
 
 ## LAC @ MEM, 20:00 ET
-Line: MEM -7.5, total 227.5 (Draft Kings).
+Line: MEM -7.5, total 227.5 (DraftKings).
 **LAC** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Bradley Beal, Jordan Miller.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -209,7 +209,7 @@ Line: MEM -7.5, total 227.5 (Draft Kings).
 | Jerami Grant | Out | 18.8 (5.6) | 11/10.6 | 0.8/1.7 | 1.2/1.8 | 1.8/1.7 | – |
 
 ## BKN @ MIL, 20:00 ET
-Line: MIL -1.5, total 234.5 (Draft Kings).
+Line: MIL -1.5, total 234.5 (DraftKings).
 **BKN** (1 rest day). Out: Nolan Traore. Freed minutes: 22.3.
 - Without Nolan Traore: Danny Wolf min +4.7, pts +0.4, reb +3.1, ast +2.3 (n=2 vs 9)
 - Without Nolan Traore: Michael Porter Jr. min -3.7, pts -3.6, reb -0.9, ast +1 (n=2 vs 13)
@@ -245,7 +245,7 @@ Line: MIL -1.5, total 234.5 (Draft Kings).
 | Gary Trent Jr. | – | 14.8 (8) → 12.1 (2) | 4/4.1 → 4 (0–10) | 0.8/0.7 → 0 (0–2) | 0.2/0.2 → 0 (0–2) | 0.8/1 → 1 (0–3) | 5 (0–13) |
 
 ## PHX @ HOU, 20:30 ET
-Line: HOU -9.5, total 222.5 (Draft Kings).
+Line: HOU -9.5, total 222.5 (DraftKings).
 **PHX** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Mark Williams.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -279,7 +279,7 @@ Line: HOU -9.5, total 222.5 (Draft Kings).
 | Steven Adams | – | 12.8 (3) → 14.7 (7) | 4/4 → 4 (0–8) | 4.4/4.4 → 5 (1–10) | 1.2/1.2 → 1 (0–3) | 0/0 → 0 (0–0) | 10 (2–19) |
 
 ## SAC @ GS, 22:00 ET
-Line: GS -6.5, total 216.5 (Draft Kings).
+Line: GS -6.5, total 216.5 (DraftKings).
 **SAC** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Maxime Raynaud, Ben Simmons.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -317,7 +317,7 @@ Line: GS -6.5, total 216.5 (Draft Kings).
 | Al Horford | – | 16 (3.4) → 16.8 (9.2) | 2.4/4.1 → 5 (0–10) | 2.8/3.6 → 3 (1–7) | 1.8/1.9 → 2 (0–4) | 0.2/0.9 → 1 (0–2) | 10 (3–20) |
 
 ## SA @ POR, 22:00 ET
-Line: SA -2.5, total 225.5 (Draft Kings).
+Line: SA -3.5, total 225.5 (DraftKings).
 **SA** (1 rest day). Out: Dylan Harper. Freed minutes: 31.7. Out all season so far (already in the lines): Tobias Harris, Jayden Quaintance.
 - Without Dylan Harper: Harrison Barnes min +6.9, pts +1.9, reb +2, ast +1.2 (n=3 vs 13)
 - Without Dylan Harper: Jordan McLaughlin min +5, pts -1, reb +0.3, ast +1 (n=3 vs 9)
