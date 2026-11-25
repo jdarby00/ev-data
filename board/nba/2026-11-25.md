@@ -1,6 +1,6 @@
 # NBA board, 2026-11-25
 
-Slate updated 2026-11-25 14:58 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-25 16:15 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -9,16 +9,18 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 14:05 Charlotte Hornets: Ryan Kalkbrenner Day-To-Day → Out
 - 14:05 New York Knicks: Miles McBride Day-To-Day → Out
 - 14:05 New York Knicks: Jalen Brunson not listed → Day-To-Day
+- 16:15 Philadelphia 76ers: Joel Embiid Day-To-Day → Out
+- 16:15 Sacramento Kings: Zach LaVine not listed → Day-To-Day
 
 ## MIA @ PHI, 17:00 ET
-Line: PHI -1.5, total 237.5 (Draft Kings).
+Line: MIA -1.5, total 238.5 (DraftKings).
 **MIA** (2 rest days). Out: none listed. Freed minutes: 0.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | Davion Mitchell | – | 34.8 (4) → 34.7 (27) | 18.2/17 → 15 (7–23) | 3.6/2.5 → 3 (1–6) | 9/8.6 → 8 (4–12) | 2.8/2.4 → 2 (0–4) | 26 (14–38) |
 | Bam Adebayo | – | 31.4 (6.6) → 32.3 (23.6) | 22.2/19.2 → 20 (10–31) | 7.8/8.2 → 9 (4–14) | 4.6/3.7 → 4 (1–7) | 1.2/0.8 → 1 (0–3) | 33 (19–48) |
-| Giannis Antetokounmpo | Day-To-Day | 30.8 (3.2) → 31.4 (23.7) | 29.6/28.2 → 28 (17–41) | 12.2/12.6 → 12 (6–18) | 5.8/5.5 → 6 (3–10) | 0.6/0.5 → 0 (0–1) | 46 (29–65) |
+| Giannis Antetokounmpo | – | 30.8 (3.2) → 31.4 (23.7) | 29.6/28.2 → 28 (17–41) | 12.2/12.6 → 12 (6–18) | 5.8/5.5 → 6 (3–10) | 0.6/0.5 → 0 (0–1) | 46 (29–65) |
 | Ryan Conwell | – | 28.8 (7.2) → 25 (15.6) | 13.2/7.4 → 10 (3–17) | 3/1.9 → 3 (1–6) | 1.6/1.4 → 2 (0–4) | 2.4/1.5 → 1 (0–3) | 15 (6–25) |
 | Andrew Wiggins | – | 27.4 (5) → 26.4 (18.7) | 10.2/9.2 → 11 (4–19) | 2.8/2.8 → 3 (1–6) | 1.8/1.6 → 2 (0–4) | 1.2/1.3 → 1 (0–3) | 16 (7–26) |
 | Pelle Larsson | – | 25.4 (5.8) → 26.9 (19.1) | 12.6/11.5 → 12 (5–20) | 3.2/3.3 → 3 (1–6) | 3.2/3.5 → 3 (1–6) | 2.4/1.5 → 1 (0–3) | 19 (9–30) |
@@ -28,13 +30,17 @@ Line: PHI -1.5, total 237.5 (Draft Kings).
 | Simone Fontecchio | – | 14.6 (6.2) → 13.1 (4.8) | 6.8/4 → 6 (1–13) | 3.2/1.8 → 2 (0–5) | 1/0.5 → 1 (0–2) | 1.2/0.7 → 1 (0–3) | 9 (1–19) |
 | Nikola Jovic | – | 12.6 (5.4) → 13.8 (6.1) | 4.8/3.8 → 5 (0–12) | 2.2/2.8 → 2 (0–6) | 2/1.6 → 2 (0–4) | 0.8/0.5 → 1 (0–2) | 10 (2–20) |
 
-**PHI** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Ariel Hukporti.
+**PHI** (1 rest day). Out: Joel Embiid. Freed minutes: 32. Out all season so far (already in the lines): Ariel Hukporti.
+- Without Joel Embiid: Jabari Walker min +8.8, pts +5.3, reb +1.5, ast -0.1 (n=3 vs 11)
+- Without Joel Embiid: Dean Wade min +8, pts +2.2, reb +0.5, ast +3.1 (n=4 vs 10)
+- Without Joel Embiid: Adem Bona min +5.7, pts +2.4, reb +4.3, ast +0.9 (n=3 vs 7)
+- Without Joel Embiid: Labaron Philon Jr. min +2.1, pts +1.4, reb +0.6, ast -0.3 (n=4 vs 8)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | VJ Edgecombe | – | 36 (3.3) → 35.6 (27.9) | 15.4/13.6 → 15 (7–24) | 6.2/6.4 → 6 (3–10) | 5.8/4.2 → 5 (2–8) | 1.4/1.6 → 1 (0–4) | 26 (15–38) |
 | Tyrese Maxey | – | 35.4 (1.2) → 35.5 (27.8) | 23.4/25.7 → 24 (14–36) | 2.6/3.2 → 3 (1–6) | 6.4/5.6 → 6 (3–10) | 2.4/2.5 → 2 (1–5) | 33 (20–48) |
-| Joel Embiid | Day-To-Day | 32.2 (3.6) → 32 (24.3) | 25/20.4 → 25 (14–36) | 7.6/8.9 → 8 (4–13) | 4.2/4.1 → 4 (2–8) | 0.6/0.4 → 1 (0–2) | 37 (23–54) |
+| Joel Embiid | Out | 32.2 (3.6) | 25/20.4 | 7.6/8.9 | 4.2/4.1 | 0.6/0.4 | – |
 | LeBron James | – | 31.6 (1.8) → 32 (24.3) | 18.4/16.6 → 19 (10–29) | 6/6.7 → 6 (3–10) | 6.2/6.5 → 6 (3–10) | 1.2/1 → 1 (0–3) | 31 (18–46) |
 | Jaylen Brown | – | 31.2 (3.5) → 32.6 (24.9) | 22.6/22.4 → 25 (14–36) | 5.6/6.3 → 6 (3–10) | 2.8/3.6 → 4 (1–7) | 1.6/1.9 → 2 (0–4) | 35 (21–50) |
 | Dean Wade | – | 30.4 (5.7) → 27.7 (20) | 7.2/4.6 → 6 (1–11) | 6.8/4.4 → 5 (2–9) | 1.6/1.8 → 2 (0–4) | 1.6/0.9 → 1 (0–3) | 13 (5–22) |
@@ -45,7 +51,7 @@ Line: PHI -1.5, total 237.5 (Draft Kings).
 | Dominick Barlow | – | 13.5 (2.5) → 15.9 (8.3) | 9/9 → 6 (1–12) | 3/3 → 3 (1–6) | 0.5/0.5 → 1 (0–2) | 0.5/0.5 → 0 (0–1) | 10 (2–19) |
 
 ## CHI @ CHA, 19:00 ET
-Line: CHA -3.5, total 219.5 (Draft Kings).
+Line: CHA -3.5, total 219.5 (DraftKings).
 **CHI** (1 rest day). Out: Norman Powell, Caleb Wilson. Freed minutes: 60.2.
 - Without Norman Powell: Buddy Hield min +17.3, pts +16.9, reb +3.7, ast +1.3 (n=2 vs 13)
 - Without Caleb Wilson: Isaac Okoro min +13.3, pts +6.4, reb +3, ast +1.2 (n=7 vs 10)
@@ -87,7 +93,7 @@ Line: CHA -3.5, total 219.5 (Draft Kings).
 | Ryan Kalkbrenner | Out | 14.8 (6.4) | 3.8/4.5 | 4.4/5.1 | 0.6/1.2 | 0/0 | – |
 
 ## CLE @ NY, 19:30 ET
-Line: NY -1.5, total 216.5 (Draft Kings).
+Line: NY -1.5, total 216.5 (DraftKings).
 **CLE** (1 rest day). Out: Evan Mobley. Freed minutes: 32.1. Out all season so far (already in the lines): Nae'Qwan Tomlin.
 - Without Evan Mobley: Tyrese Proctor min +9.6, pts +6.5, reb +0.9, ast +1.1 (n=6 vs 11)
 - Without Evan Mobley: Norchad Omier min +6.5, pts +4.6, reb +2.7, ast -0.3 (n=5 vs 2)
@@ -129,7 +135,7 @@ Line: NY -1.5, total 216.5 (Draft Kings).
 | Jordan Clarkson | Out | 10 (3.7) | 3.2/4.9 | 1.8/1.6 | 0.4/0.4 | 0.2/0.5 | – |
 
 ## MIN @ OKC, 19:30 ET
-Line: OKC -1.5, total 221.5 (Draft Kings).
+Line: OKC -1.5, total 221.5 (DraftKings).
 **MIN** (1 rest day). Out: Anthony Edwards, Jaylen Clark. Freed minutes: 47.4. Out all season so far (already in the lines): Donte DiVincenzo.
 - Without Anthony Edwards: Bones Hyland min +8, pts +9.7, reb -0.2, ast +2.6 (n=14 vs 4)
 - Without Anthony Edwards: Ayo Dosunmu min +7, pts +7.9, reb +0.5, ast -0.6 (n=14 vs 4)
@@ -171,7 +177,7 @@ Line: OKC -1.5, total 221.5 (Draft Kings).
 | Josh Dix | – | 20.2 (6.5) → 19.5 (10.9) | 4/3.2 → 5 (1–11) | 2.6/1.9 → 3 (1–6) | 2.2/1.2 → 1 (0–4) | 0.8/0.6 → 1 (0–2) | 10 (3–19) |
 
 ## LAC @ MEM, 20:00 ET
-Line: MEM -7.5, total 227.5 (Draft Kings).
+Line: MEM -7.5, total 227.5 (DraftKings).
 **LAC** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Bradley Beal, Jordan Miller.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -209,7 +215,7 @@ Line: MEM -7.5, total 227.5 (Draft Kings).
 | Jerami Grant | Out | 18.8 (5.6) | 11/10.6 | 0.8/1.7 | 1.2/1.8 | 1.8/1.7 | – |
 
 ## BKN @ MIL, 20:00 ET
-Line: MIL -1.5, total 234.5 (Draft Kings).
+Line: MIL -1.5, total 234.5 (DraftKings).
 **BKN** (1 rest day). Out: Nolan Traore. Freed minutes: 22.3.
 - Without Nolan Traore: Danny Wolf min +4.7, pts +0.4, reb +3.1, ast +2.3 (n=2 vs 9)
 - Without Nolan Traore: Michael Porter Jr. min -3.7, pts -3.6, reb -0.9, ast +1 (n=2 vs 13)
@@ -245,7 +251,7 @@ Line: MIL -1.5, total 234.5 (Draft Kings).
 | Gary Trent Jr. | – | 14.8 (8) → 12.1 (2) | 4/4.1 → 4 (0–10) | 0.8/0.7 → 0 (0–2) | 0.2/0.2 → 0 (0–2) | 0.8/1 → 1 (0–3) | 5 (0–13) |
 
 ## PHX @ HOU, 20:30 ET
-Line: HOU -9.5, total 222.5 (Draft Kings).
+Line: HOU -9.5, total 222.5 (DraftKings).
 **PHX** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Mark Williams.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -279,7 +285,7 @@ Line: HOU -9.5, total 222.5 (Draft Kings).
 | Steven Adams | – | 12.8 (3) → 14.7 (7) | 4/4 → 4 (0–8) | 4.4/4.4 → 5 (1–10) | 1.2/1.2 → 1 (0–3) | 0/0 → 0 (0–0) | 10 (2–19) |
 
 ## SAC @ GS, 22:00 ET
-Line: GS -6.5, total 216.5 (Draft Kings).
+Line: GS -7.5, total 215.5 (DraftKings).
 **SAC** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Maxime Raynaud, Ben Simmons.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -287,7 +293,7 @@ Line: GS -6.5, total 216.5 (Draft Kings).
 | De'Andre Hunter | – | 38.6 (3.4) → 35.9 (28.2) | 19.2/15.3 → 17 (9–27) | 5/4.7 → 5 (2–9) | 3.6/2.1 → 3 (1–6) | 2.2/2.1 → 2 (0–4) | 26 (14–38) |
 | Darius Acuff Jr. | – | 35.4 (3.2) → 36.1 (28.4) | 22.6/24.6 → 19 (10–28) | 2.4/3.4 → 4 (2–7) | 7.2/7.2 → 5 (2–9) | 2.6/2.9 → 2 (0–4) | 29 (17–42) |
 | Keegan Murray | – | 34.2 (7.4) → 34.4 (24.8) | 12/11.1 → 13 (5–21) | 5.8/4.5 → 5 (2–9) | 1.6/1.6 → 1 (0–3) | 1.2/1 → 1 (0–3) | 20 (10–31) |
-| Zach LaVine | – | 33.4 (4) → 32.3 (24.6) | 16/20.3 → 18 (9–28) | 4.8/3.8 → 4 (1–7) | 2.8/2.6 → 2 (0–5) | 2.2/2.6 → 2 (0–5) | 24 (13–37) |
+| Zach LaVine | Day-To-Day | 33.4 (4) → 32.3 (24.6) | 16/20.3 → 18 (9–28) | 4.8/3.8 → 4 (1–7) | 2.8/2.6 → 2 (0–5) | 2.2/2.6 → 2 (0–5) | 24 (13–37) |
 | Domantas Sabonis | – | 30.6 (4.3) → 31.4 (23.7) | 14.6/14.5 → 15 (7–24) | 14.2/13.5 → 12 (7–19) | 4.8/5.5 → 4 (2–8) | 0.2/0.2 → 0 (0–1) | 33 (19–48) |
 | Precious Achiuwa | – | 18 (10.1) → 19.3 (6.8) | 6.2/9.1 → 7 (1–15) | 5.4/5.7 → 5 (1–10) | 0.6/0.9 → 1 (0–2) | 0.2/0.3 → 0 (0–1) | 13 (2–26) |
 | Malik Monk | – | 17.4 (7) → 16.6 (7.5) | 8.4/7.9 → 9 (2–17) | 1/1.2 → 1 (0–3) | 4/3.6 → 2 (0–6) | 1.4/1.1 → 1 (0–3) | 13 (3–24) |
@@ -317,7 +323,7 @@ Line: GS -6.5, total 216.5 (Draft Kings).
 | Al Horford | – | 16 (3.4) → 16.8 (9.2) | 2.4/4.1 → 5 (0–10) | 2.8/3.6 → 3 (1–7) | 1.8/1.9 → 2 (0–4) | 0.2/0.9 → 1 (0–2) | 10 (3–20) |
 
 ## SA @ POR, 22:00 ET
-Line: SA -3.5, total 225.5 (Draft Kings).
+Line: SA -3.5, total 225.5 (DraftKings).
 **SA** (1 rest day). Out: Dylan Harper. Freed minutes: 31.7. Out all season so far (already in the lines): Tobias Harris, Jayden Quaintance.
 - Without Dylan Harper: Harrison Barnes min +6.9, pts +1.9, reb +2, ast +1.2 (n=3 vs 13)
 - Without Dylan Harper: Jordan McLaughlin min +5, pts -1, reb +0.3, ast +1 (n=3 vs 9)
