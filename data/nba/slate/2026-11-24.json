@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "updated_et": "2026-11-24 16:15",
+ "updated_et": "2026-11-24 19:06",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -12,9 +12,9 @@
    "away_name": "Detroit Pistons",
    "home_name": "Orlando Magic",
    "state": "pre",
-   "spread_text": "DET -2.5",
-   "spread": 2.5,
-   "total": 212.5,
+   "spread_text": "ORL -3.5",
+   "spread": -3.5,
+   "total": 210.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -96,6 +96,13 @@
   ],
   "Detroit Pistons": [
    {
+    "player": "Cade Cunningham",
+    "status": "Out",
+    "detail": "Cunningham (knee) is listed as out for Tuesday's game against Orlando.",
+    "type": "out",
+    "updated": "2026-11-24T23:36Z"
+   },
+   {
     "player": "Ebuka Okorie",
     "status": "Out",
     "detail": "The Pistons announced Tuesday that Okorie (oblique) will miss at least two weeks, per Eric Vincent of ClutchPoints.com.",
@@ -122,13 +129,6 @@
     "detail": "Duren (hamstring) is being assigned to the Motor City Cruise on Wednesday for practice as he ramps up for a return, Eric Vincent of ClutchPoints.com reports.",
     "type": "out",
     "updated": "2026-11-24T18:27Z"
-   },
-   {
-    "player": "Cade Cunningham",
-    "status": "Day-To-Day",
-    "detail": "Cunningham (knee) is probable for Tuesday's game against the Orlando.",
-    "type": "day-to-day",
-    "updated": "2026-11-23T22:07Z"
    }
   ],
   "Orlando Magic": [
@@ -206,6 +206,13 @@
    "player": "Tre Mann",
    "from": "not listed",
    "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-24 19:06",
+   "team": "Detroit Pistons",
+   "player": "Cade Cunningham",
+   "from": "Day-To-Day",
+   "to": "Out"
   }
  ]
 }

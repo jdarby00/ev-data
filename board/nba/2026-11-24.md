@@ -1,16 +1,17 @@
 # NBA board, 2026-11-24
 
-Slate updated 2026-11-24 16:15 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-24 19:06 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
 - 14:05 Washington Wizards: Tre Mann not listed → Day-To-Day
+- 19:06 Detroit Pistons: Cade Cunningham Day-To-Day → Out
 
 ## DET @ ORL, 19:00 ET
-Line: DET -2.5, total 212.5 (DraftKings).
-**DET** (1 rest day). Out: Duncan Robinson, Jalen Duren, Taurean Prince, Ebuka Okorie. Freed minutes: 60.8.
+Line: ORL -3.5, total 210.5 (DraftKings).
+**DET** (1 rest day). Out: Cade Cunningham, Duncan Robinson, Jalen Duren, Taurean Prince, Ebuka Okorie. Freed minutes: 95.7.
 - Without Jalen Duren: Daniss Jenkins min +13.6, pts +5.8, reb +0.4, ast +0.4 (n=14 vs 2)
 - Without Duncan Robinson: Chaz Lanier min +12.2, pts +0.8, reb +1.3, ast +0.3 (n=3 vs 4)
 - Without Ebuka Okorie: Chaz Lanier min +12.2, pts +0.8, reb +1.3, ast +0.3 (n=3 vs 4)
@@ -18,7 +19,7 @@ Line: DET -2.5, total 212.5 (DraftKings).
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
-| Cade Cunningham | Day-To-Day | 38.2 (6.3) → 35.5 (27.2) | 28/24.2 → 23 (13–35) | 4.8/5.1 → 5 (2–9) | 9.8/8.3 → 9 (5–15) | 2/1.9 → 2 (0–4) | 38 (23–54) |
+| Cade Cunningham | Out | 38.2 (6.3) | 28/24.2 | 4.8/5.1 | 9.8/8.3 | 2/1.9 | – |
 | Daniss Jenkins | – | 37.2 (6.5) → 34.1 (25.5) | 15.4/14.1 → 15 (7–24) | 3.8/3.8 → 4 (1–7) | 4.6/4.4 → 5 (2–8) | 2/2.1 → 2 (0–4) | 24 (13–36) |
 | Kevin Huerter | – | 35.2 (6.6) → 30.8 (22.2) | 12.4/10.1 → 12 (5–20) | 3.6/2.8 → 3 (1–6) | 3.8/2.6 → 3 (1–6) | 1.4/1.5 → 1 (0–3) | 18 (9–29) |
 | Duncan Robinson | Out | 31.2 (6.2) | 16.8/17.4 | 1.6/1.8 | 1.8/2.1 | 3.8/3.9 | – |
