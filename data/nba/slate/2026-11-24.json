@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "updated_et": "2026-11-24 19:06",
+ "updated_et": "2026-11-24 22:01",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,7 +11,7 @@
    "home": "ORL",
    "away_name": "Detroit Pistons",
    "home_name": "Orlando Magic",
-   "state": "pre",
+   "state": "post",
    "spread_text": "ORL -3.5",
    "spread": -3.5,
    "total": 210.5,
@@ -25,7 +25,7 @@
    "home": "WSH",
    "away_name": "Boston Celtics",
    "home_name": "Washington Wizards",
-   "state": "pre",
+   "state": "in",
    "spread_text": "BOS -10.5",
    "spread": 10.5,
    "total": 218.5,
@@ -40,8 +40,8 @@
    "away_name": "Dallas Mavericks",
    "home_name": "Denver Nuggets",
    "state": "pre",
-   "spread_text": "DEN -8.5",
-   "spread": -8.5,
+   "spread_text": "DEN -7.5",
+   "spread": -7.5,
    "total": 234.5,
    "odds_source": "DraftKings",
    "season_type": 2
@@ -64,13 +64,6 @@
     "detail": "Lawal (groin) is out for Tuesday's game against Denver.",
     "type": "out",
     "updated": "2026-11-23T23:25Z"
-   },
-   {
-    "player": "P.J. Washington",
-    "status": "Day-To-Day",
-    "detail": "Washington (illness) is questionable for Tuesday's game against the Nuggets.",
-    "type": "day-to-day",
-    "updated": "2026-11-23T23:21Z"
    },
    {
     "player": "Dereck Lively II",
@@ -163,13 +156,6 @@
   ],
   "Washington Wizards": [
    {
-    "player": "Tre Mann",
-    "status": "Day-To-Day",
-    "detail": "Mann (illness) has been downgraded to questionable for Tuesday's game against Boston.",
-    "type": "day-to-day",
-    "updated": "2026-11-24T16:47Z"
-   },
-   {
     "player": "Tristan Vukcevic",
     "status": "Out",
     "detail": "Vukcevic (hip) has been ruled out for Tuesday's game against Boston.",
@@ -213,6 +199,20 @@
    "player": "Cade Cunningham",
    "from": "Day-To-Day",
    "to": "Out"
+  },
+  {
+   "at_et": "2026-11-24 22:01",
+   "team": "Dallas Mavericks",
+   "player": "P.J. Washington",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-24 22:01",
+   "team": "Washington Wizards",
+   "player": "Tre Mann",
+   "from": "Day-To-Day",
+   "to": "removed from report"
   }
  ]
 }

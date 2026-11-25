@@ -1,6 +1,6 @@
 # NBA board, 2026-11-24
 
-Slate updated 2026-11-24 19:06 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-24 22:01 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -8,6 +8,8 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 
 - 14:05 Washington Wizards: Tre Mann not listed → Day-To-Day
 - 19:06 Detroit Pistons: Cade Cunningham Day-To-Day → Out
+- 22:01 Dallas Mavericks: P.J. Washington Day-To-Day → removed from report
+- 22:01 Washington Wizards: Tre Mann Day-To-Day → removed from report
 
 ## DET @ ORL, 19:00 ET
 Line: ORL -3.5, total 210.5 (DraftKings).
@@ -89,11 +91,11 @@ Line: BOS -10.5, total 218.5 (DraftKings).
 | Khris Middleton | – | 19 (6.5) → 19 (10.4) | 7.2/4.8 → 7 (1–14) | 2.2/1.9 → 2 (0–5) | 2.2/1.3 → 2 (0–4) | 1.4/0.8 → 1 (0–2) | 11 (4–21) |
 | Justin Champagnie | Out | 18.5 (8.6) | 7.2/7.2 | 7.5/7.5 | 1.2/1.2 | 0.5/0.5 | – |
 | Tre Johnson | – | 15.6 (9.1) → 17.9 (6.5) | 7/8.6 → 8 (1–17) | 2/1.9 → 2 (0–4) | 1/0.9 → 1 (0–3) | 1.2/1.3 → 1 (0–3) | 11 (2–22) |
-| Tre Mann | Day-To-Day | 7.2 (5.7) → 6 (0) | 1.6/1.2 → 2 (0–7) | 0.2/0.1 → 0 (0–2) | 0.8/0.5 → 0 (0–2) | 0.2/0.1 → 0 (0–1) | 3 (0–11) |
 | Reece Beekman | Out | 1 (–) | 0/0 | 0/0 | 0/0 | 0/0 | – |
+| Tristan Vukcevic | Out | none this season; last season 13.7 min, 9 pts | | | | |
 
 ## DAL @ DEN, 22:00 ET
-Line: DEN -8.5, total 234.5 (DraftKings).
+Line: DEN -7.5, total 234.5 (DraftKings).
 **DAL** (1 rest day). Out: Sergio de Larrea, Tobi Lawal. Freed minutes: 16.4. Out all season so far (already in the lines): Dereck Lively II, Tarik Biberovic.
 - Without Sergio de Larrea: Max Christie min -16.4, pts -5, reb -2, ast -2 (n=10 vs 4)
 - Without Sergio de Larrea: Marcus Sasser min -9.9, pts -5.6, reb -0.9, ast -0.8 (n=8 vs 4)
@@ -105,7 +107,7 @@ Line: DEN -8.5, total 234.5 (DraftKings).
 | Cooper Flagg | – | 33.2 (4.7) → 33.1 (25.4) | 23.6/24.3 → 23 (13–34) | 5/6.3 → 6 (3–10) | 6/6.4 → 5 (2–9) | 2.2/1.6 → 2 (0–4) | 34 (20–49) |
 | Kyrie Irving | – | 31 (4.2) → 31.2 (23.5) | 20.4/22 → 17 (9–27) | 4.4/3.6 → 4 (2–8) | 5.2/4.6 → 4 (1–7) | 3.4/3.4 → 2 (1–5) | 26 (14–39) |
 | Caleb Martin | – | 27.2 (6.8) → 23.3 (14.5) | 9.6/6.2 → 6 (1–12) | 5.6/3.5 → 4 (1–7) | 3.6/2.5 → 2 (1–5) | 2/1.2 → 1 (0–3) | 13 (5–23) |
-| P.J. Washington | Day-To-Day | 25.4 (6.9) → 27.7 (18.7) | 12.4/14 → 13 (5–22) | 5.2/6.7 → 6 (2–10) | 1.6/1.3 → 1 (0–3) | 2/2.3 → 2 (0–4) | 20 (10–33) |
+| P.J. Washington | – | 25.4 (6.9) → 27.7 (18.7) | 12.4/14 → 13 (5–22) | 5.2/6.7 → 6 (2–10) | 1.6/1.3 → 1 (0–3) | 2/2.3 → 2 (0–4) | 20 (10–33) |
 | Daniel Gafford | – | 23.8 (4.8) → 23.4 (15.8) | 7.8/8.7 → 9 (3–16) | 5.4/5.4 → 6 (3–10) | 2.4/2.1 → 2 (0–4) | 0.2/0.1 → 0 (0–0) | 17 (7–28) |
 | Naji Marshall | – | 23.8 (4.8) → 23.8 (16.1) | 9.4/10.6 → 10 (4–18) | 2.6/2.7 → 3 (1–6) | 2.8/3.9 → 3 (1–5) | 1.2/1 → 1 (0–2) | 16 (7–27) |
 | Zaccharie Risacher | – | 23.2 (5.4) → 23.4 (15.8) | 10.4/8.9 → 10 (3–17) | 5/5 → 4 (2–8) | 0.6/1.2 → 1 (0–3) | 0.8/1 → 1 (0–3) | 16 (7–26) |
