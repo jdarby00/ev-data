@@ -13,8 +13,10 @@
   "escreen_1620": "2026-11-25T21:20:00Z",
   "fclose:2026-11-25T17:45:00Z": "2026-11-25T17:33:00Z",
   "fclose:2026-11-25T20:00:00Z": "2026-11-25T19:48:00Z",
+  "fclose:2026-11-25T22:00:00Z": "2026-11-25T21:48:00Z",
   "fclose@2026-11-25T17:33:00Z": "2026-11-25T17:33:00Z",
   "fclose@2026-11-25T19:48:00Z": "2026-11-25T19:48:00Z",
+  "fclose@2026-11-25T21:48:00Z": "2026-11-25T21:48:00Z",
   "lab_0610": "2026-11-25T11:10:00Z",
   "lab_1435": "2026-11-25T19:35:00Z",
   "mscreen_1040": "2026-11-25T15:40:08Z",
@@ -44,6 +46,7 @@
   "2026-11-25T21:05:00Z cbbscreen_1605: dispatched jdarby00/dk-odds market-screen.yml (HTTP 204)",
   "2026-11-25T21:15:00Z board_1615: dispatched jdarby00/ev-data nba.yml (HTTP 204)",
   "2026-11-25T21:20:00Z escreen_1620: dispatched jdarby00/dk-odds espn-screen.yml (HTTP 204)",
-  "2026-11-25T21:20:04Z sgo_1620: dispatched jdarby00/dk-odds sgo-links.yml (HTTP 204)"
+  "2026-11-25T21:20:04Z sgo_1620: dispatched jdarby00/dk-odds sgo-links.yml (HTTP 204)",
+  "2026-11-25T21:48:00Z fclose@2026-11-25T21:48:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)"
  ]
 }
