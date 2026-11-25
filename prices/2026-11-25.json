@@ -1,10 +1,155 @@
 {
  "credits_remaining": 80,
  "date": "2026-11-25",
- "groups": {},
+ "groups": {
+  "basketball_nba|kings@warriors|player_assists": {
+   "api_away": "Sacramento Kings",
+   "api_home": "Golden State Warriors",
+   "away": "Kings",
+   "close": true,
+   "commence_time": "2026-11-26T03:10:00Z",
+   "event_id": "e6df92326adb480e427bb7c10f445c60",
+   "home": "Warriors",
+   "issues": [
+    "2026-11-25T19:25:59Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "player_assists",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|kings@warriors|player_points": {
+   "api_away": "Sacramento Kings",
+   "api_home": "Golden State Warriors",
+   "away": "Kings",
+   "close": true,
+   "commence_time": "2026-11-26T03:10:00Z",
+   "event_id": "e6df92326adb480e427bb7c10f445c60",
+   "home": "Warriors",
+   "issues": [
+    "2026-11-25T19:25:59Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "player_points",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|kings@warriors|player_points_rebounds_assists": {
+   "api_away": "Sacramento Kings",
+   "api_home": "Golden State Warriors",
+   "away": "Kings",
+   "close": true,
+   "commence_time": "2026-11-26T03:10:00Z",
+   "event_id": "e6df92326adb480e427bb7c10f445c60",
+   "home": "Warriors",
+   "issues": [
+    "2026-11-25T19:25:59Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "player_points_rebounds_assists",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|kings@warriors|player_rebounds": {
+   "api_away": "Sacramento Kings",
+   "api_home": "Golden State Warriors",
+   "away": "Kings",
+   "close": true,
+   "commence_time": "2026-11-26T03:10:00Z",
+   "event_id": "e6df92326adb480e427bb7c10f445c60",
+   "home": "Warriors",
+   "issues": [
+    "2026-11-25T19:25:59Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "player_rebounds",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|kings@warriors|player_threes": {
+   "api_away": "Sacramento Kings",
+   "api_home": "Golden State Warriors",
+   "away": "Kings",
+   "close": true,
+   "commence_time": "2026-11-26T03:10:00Z",
+   "event_id": "e6df92326adb480e427bb7c10f445c60",
+   "home": "Warriors",
+   "issues": [
+    "2026-11-25T19:25:59Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "player_threes",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|suns@rockets|player_points": {
+   "api_away": "Phoenix Suns",
+   "api_home": "Houston Rockets",
+   "away": "Suns",
+   "close": true,
+   "commence_time": "2026-11-26T01:40:00Z",
+   "event_id": "60fd73164f7b0d1848f998d922155d87",
+   "home": "Rockets",
+   "issues": [
+    "2026-11-25T19:25:59Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "player_points",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|suns@rockets|player_points_rebounds_assists": {
+   "api_away": "Phoenix Suns",
+   "api_home": "Houston Rockets",
+   "away": "Suns",
+   "close": true,
+   "commence_time": "2026-11-26T01:40:00Z",
+   "event_id": "60fd73164f7b0d1848f998d922155d87",
+   "home": "Rockets",
+   "issues": [
+    "2026-11-25T19:25:59Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "player_points_rebounds_assists",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [],
+   "sport": "basketball_nba"
+  },
+  "basketball_nba|suns@rockets|player_rebounds": {
+   "api_away": "Phoenix Suns",
+   "api_home": "Houston Rockets",
+   "away": "Suns",
+   "close": true,
+   "commence_time": "2026-11-26T01:40:00Z",
+   "event_id": "60fd73164f7b0d1848f998d922155d87",
+   "home": "Rockets",
+   "issues": [
+    "2026-11-25T19:25:59Z lock skipped: monthly cap reached (420/420)"
+   ],
+   "market": "player_rebounds",
+   "players": [],
+   "requested_rev": 1,
+   "slate": false,
+   "snapshots": [],
+   "sport": "basketball_nba"
+  }
+ },
  "issues": [],
  "spent_month": 420,
  "spent_today": 0,
  "stop": null,
- "updated": "2026-11-25T05:40:37Z"
+ "updated": "2026-11-25T19:25:59Z"
 }
