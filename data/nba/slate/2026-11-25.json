@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "updated_et": "2026-11-25 05:20",
+ "updated_et": "2026-11-25 14:05",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -14,8 +14,8 @@
    "state": "pre",
    "spread_text": "PHI -1.5",
    "spread": -1.5,
-   "total": 236.5,
-   "odds_source": "DraftKings",
+   "total": 237.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -28,8 +28,8 @@
    "state": "pre",
    "spread_text": "CHA -3.5",
    "spread": -3.5,
-   "total": 221.5,
-   "odds_source": "DraftKings",
+   "total": 219.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -40,10 +40,10 @@
    "away_name": "Cleveland Cavaliers",
    "home_name": "New York Knicks",
    "state": "pre",
-   "spread_text": "NY -3.5",
-   "spread": -3.5,
-   "total": 218.5,
-   "odds_source": "DraftKings",
+   "spread_text": "NY -1.5",
+   "spread": -1.5,
+   "total": 216.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -56,8 +56,8 @@
    "state": "pre",
    "spread_text": "OKC -1.5",
    "spread": -1.5,
-   "total": 225.5,
-   "odds_source": "DraftKings",
+   "total": 222.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -68,10 +68,10 @@
    "away_name": "LA Clippers",
    "home_name": "Memphis Grizzlies",
    "state": "pre",
-   "spread_text": "MEM -6.5",
-   "spread": -6.5,
-   "total": 229.5,
-   "odds_source": "DraftKings",
+   "spread_text": "MEM -7.5",
+   "spread": -7.5,
+   "total": 227.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -84,8 +84,8 @@
    "state": "pre",
    "spread_text": "MIL -1.5",
    "spread": -1.5,
-   "total": 233.5,
-   "odds_source": "DraftKings",
+   "total": 234.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -98,8 +98,8 @@
    "state": "pre",
    "spread_text": "HOU -9.5",
    "spread": -9.5,
-   "total": 223.5,
-   "odds_source": "DraftKings",
+   "total": 222.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -110,10 +110,10 @@
    "away_name": "Sacramento Kings",
    "home_name": "Golden State Warriors",
    "state": "pre",
-   "spread_text": "GS -5.5",
-   "spread": -5.5,
-   "total": 217.5,
-   "odds_source": "DraftKings",
+   "spread_text": "GS -6.5",
+   "spread": -6.5,
+   "total": 216.5,
+   "odds_source": "Draft Kings",
    "season_type": 2
   },
   {
@@ -127,7 +127,7 @@
    "spread_text": "SA -2.5",
    "spread": 2.5,
    "total": 225.5,
-   "odds_source": "DraftKings",
+   "odds_source": "Draft Kings",
    "season_type": 2
   }
  ],
@@ -144,10 +144,17 @@
   "Charlotte Hornets": [
    {
     "player": "Ryan Kalkbrenner",
-    "status": "Day-To-Day",
-    "detail": "Kalkbrenner (hip) is doubtful to play Wednesday against the Bulls.",
-    "type": "day-to-day",
-    "updated": "2026-11-24T22:33Z"
+    "status": "Out",
+    "detail": "Kalkbrenner (hip) has been ruled out for Wednesday's matchup with Chicago.",
+    "type": "out",
+    "updated": "2026-11-25T17:41Z"
+   },
+   {
+    "player": "Grayson Allen",
+    "status": "Out",
+    "detail": "Allen (concussion) has been ruled out for Wednesday's game against Chicago.",
+    "type": "out",
+    "updated": "2026-11-25T17:39Z"
    },
    {
     "player": "Dennis Schroder",
@@ -162,13 +169,6 @@
     "detail": "James is probable for Wednesday's game against the Bulls due to general soreness.",
     "type": "day-to-day",
     "updated": "2026-11-24T22:30Z"
-   },
-   {
-    "player": "Grayson Allen",
-    "status": "Out",
-    "detail": "Allen (concussion) is listed as questionable for Wednesday's game versus Chicago.",
-    "type": "out",
-    "updated": "2026-11-24T22:29Z"
    },
    {
     "player": "Kon Knueppel",
@@ -348,11 +348,32 @@
   ],
   "New York Knicks": [
    {
-    "player": "Miles McBride",
+    "player": "Josh Hart",
     "status": "Day-To-Day",
-    "detail": "McBride (adductor) is listed as questionable for Wednesday's game versus Cleveland.",
+    "detail": "Hart (shoulder) has been upgraded to probable for Wednesday's game against the Cavaliers.",
     "type": "day-to-day",
-    "updated": "2026-11-24T21:56Z"
+    "updated": "2026-11-25T17:57Z"
+   },
+   {
+    "player": "Miles McBride",
+    "status": "Out",
+    "detail": "McBride (adductor) has been ruled out for Wednesday's game against the Cavaliers.",
+    "type": "out",
+    "updated": "2026-11-25T17:57Z"
+   },
+   {
+    "player": "Karl-Anthony Towns",
+    "status": "Day-To-Day",
+    "detail": "Towns (knee) is probable for Wednesday's game against Cleveland.",
+    "type": "day-to-day",
+    "updated": "2026-11-25T17:54Z"
+   },
+   {
+    "player": "Jalen Brunson",
+    "status": "Day-To-Day",
+    "detail": "Brunson (illness) has been downgraded to questionable for Wednesday's game against the Cavaliers.",
+    "type": "day-to-day",
+    "updated": "2026-11-25T17:53Z"
    },
    {
     "player": "Jordan Clarkson",
@@ -362,25 +383,11 @@
     "updated": "2026-11-24T21:56Z"
    },
    {
-    "player": "Josh Hart",
-    "status": "Day-To-Day",
-    "detail": "Hart (shoulder) is listed as questionable for Wednesday's game against Cleveland.",
-    "type": "day-to-day",
-    "updated": "2026-11-24T21:54Z"
-   },
-   {
     "player": "OG Anunoby",
     "status": "Out",
     "detail": "Anunoby (calf) is out for Wednesday's game against Cleveland.",
     "type": "out",
     "updated": "2026-11-24T21:53Z"
-   },
-   {
-    "player": "Karl-Anthony Towns",
-    "status": "Day-To-Day",
-    "detail": "Towns (knee) is questionable for Wednesday's game against Cleveland.",
-    "type": "day-to-day",
-    "updated": "2026-11-24T21:50Z"
    }
   ],
   "Oklahoma City Thunder": [
@@ -493,9 +500,9 @@
    {
     "player": "Maxime Raynaud",
     "status": "Out",
-    "detail": "Raynaud (knee) is out for Wednesday's game against the Warriors.",
+    "detail": "Raynaud (knee) was assigned to the G League's Stockton Kings on Wednesday, James Ham of ESPN 1320 Sacramento reports.",
     "type": "out",
-    "updated": "2026-11-25T04:21Z"
+    "updated": "2026-11-25T16:25Z"
    },
    {
     "player": "Ben Simmons",
@@ -543,5 +550,27 @@
    }
   ]
  },
- "status_changes": []
+ "status_changes": [
+  {
+   "at_et": "2026-11-25 14:05",
+   "team": "Charlotte Hornets",
+   "player": "Ryan Kalkbrenner",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-25 14:05",
+   "team": "New York Knicks",
+   "player": "Miles McBride",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-25 14:05",
+   "team": "New York Knicks",
+   "player": "Jalen Brunson",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  }
+ ]
 }
