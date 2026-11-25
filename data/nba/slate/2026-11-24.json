@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "updated_et": "2026-11-24 22:01",
+ "updated_et": "2026-11-24 23:16",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -25,7 +25,7 @@
    "home": "WSH",
    "away_name": "Boston Celtics",
    "home_name": "Washington Wizards",
-   "state": "in",
+   "state": "post",
    "spread_text": "BOS -10.5",
    "spread": 10.5,
    "total": 218.5,
@@ -39,7 +39,7 @@
    "home": "DEN",
    "away_name": "Dallas Mavericks",
    "home_name": "Denver Nuggets",
-   "state": "pre",
+   "state": "in",
    "spread_text": "DEN -7.5",
    "spread": -7.5,
    "total": 234.5,
