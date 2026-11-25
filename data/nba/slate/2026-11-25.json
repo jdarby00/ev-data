@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "updated_et": "2026-11-25 16:15",
+ "updated_et": "2026-11-25 18:47",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,7 +11,7 @@
    "home": "PHI",
    "away_name": "Miami Heat",
    "home_name": "Philadelphia 76ers",
-   "state": "pre",
+   "state": "in",
    "spread_text": "MIA -1.5",
    "spread": 1.5,
    "total": 238.5,
@@ -26,9 +26,9 @@
    "away_name": "Chicago Bulls",
    "home_name": "Charlotte Hornets",
    "state": "pre",
-   "spread_text": "CHA -3.5",
-   "spread": -3.5,
-   "total": 219.5,
+   "spread_text": "CHA -4.5",
+   "spread": -4.5,
+   "total": 218.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -40,9 +40,9 @@
    "away_name": "Cleveland Cavaliers",
    "home_name": "New York Knicks",
    "state": "pre",
-   "spread_text": "NY -1.5",
-   "spread": -1.5,
-   "total": 216.5,
+   "spread_text": "NY -4.5",
+   "spread": -4.5,
+   "total": 220.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -54,9 +54,9 @@
    "away_name": "Minnesota Timberwolves",
    "home_name": "Oklahoma City Thunder",
    "state": "pre",
-   "spread_text": "OKC -1.5",
-   "spread": -1.5,
-   "total": 221.5,
+   "spread_text": "OKC -2.5",
+   "spread": -2.5,
+   "total": 223.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -164,13 +164,6 @@
     "updated": "2026-11-24T22:32Z"
    },
    {
-    "player": "Sion James",
-    "status": "Day-To-Day",
-    "detail": "James is probable for Wednesday's game against the Bulls due to general soreness.",
-    "type": "day-to-day",
-    "updated": "2026-11-24T22:30Z"
-   },
-   {
     "player": "Kon Knueppel",
     "status": "Out",
     "detail": "Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks.",
@@ -181,10 +174,10 @@
   "Chicago Bulls": [
    {
     "player": "Jalen Smith",
-    "status": "Day-To-Day",
-    "detail": "Smith (illness) is listed as questionable for Wednesday's game against the Hornets.",
-    "type": "day-to-day",
-    "updated": "2026-11-24T18:21Z"
+    "status": "Out",
+    "detail": "Smith (illness) is listed as out for Wednesday's game against Charlotte.",
+    "type": "out",
+    "updated": "2026-11-25T22:07Z"
    },
    {
     "player": "Norman Powell",
@@ -339,11 +332,11 @@
   ],
   "New York Knicks": [
    {
-    "player": "Josh Hart",
-    "status": "Day-To-Day",
-    "detail": "Hart (shoulder) has been upgraded to probable for Wednesday's game against the Cavaliers.",
-    "type": "day-to-day",
-    "updated": "2026-11-25T17:57Z"
+    "player": "OG Anunoby",
+    "status": "Out",
+    "detail": "Anunoby (calf) participated in on-court work for the first time since sustaining the injury, Ian Begley of SportsNet New York reports.",
+    "type": "out",
+    "updated": "2026-11-25T23:19Z"
    },
    {
     "player": "Miles McBride",
@@ -353,32 +346,11 @@
     "updated": "2026-11-25T17:57Z"
    },
    {
-    "player": "Karl-Anthony Towns",
-    "status": "Day-To-Day",
-    "detail": "Towns (knee) is probable for Wednesday's game against Cleveland.",
-    "type": "day-to-day",
-    "updated": "2026-11-25T17:54Z"
-   },
-   {
-    "player": "Jalen Brunson",
-    "status": "Day-To-Day",
-    "detail": "Brunson (illness) has been downgraded to questionable for Wednesday's game against the Cavaliers.",
-    "type": "day-to-day",
-    "updated": "2026-11-25T17:53Z"
-   },
-   {
     "player": "Jordan Clarkson",
     "status": "Out",
     "detail": "Clarkson (foot) is out for Wednesday's game against Cleveland.",
     "type": "out",
     "updated": "2026-11-24T21:56Z"
-   },
-   {
-    "player": "OG Anunoby",
-    "status": "Out",
-    "detail": "Anunoby (calf) is out for Wednesday's game against Cleveland.",
-    "type": "out",
-    "updated": "2026-11-24T21:53Z"
    }
   ],
   "Oklahoma City Thunder": [
@@ -433,6 +405,13 @@
    }
   ],
   "Philadelphia 76ers": [
+   {
+    "player": "Jaylen Brown",
+    "status": "Out",
+    "detail": "Brown (hamstring) won't return to Wednesday's game against Miami, Kyle Neubeck of AllPHLY.com reports. He finished with six points (2-8 FG, 0-1 3Pt, 2-2 FT), one rebound and one assist over 17 minutes.",
+    "type": "out",
+    "updated": "2026-11-25T23:30Z"
+   },
    {
     "player": "Joel Embiid",
     "status": "Out",
@@ -490,17 +469,17 @@
   "Sacramento Kings": [
    {
     "player": "Zach LaVine",
-    "status": "Day-To-Day",
-    "detail": "LaVine (knee) has been downgraded to questionable for Wednesday's game against Golden State.",
-    "type": "day-to-day",
-    "updated": "2026-11-25T20:49Z"
+    "status": "Out",
+    "detail": "LaVine (knee) is listed as out for Wednesday's game versus the Warriors.",
+    "type": "out",
+    "updated": "2026-11-25T22:40Z"
    },
    {
     "player": "Maxime Raynaud",
     "status": "Out",
-    "detail": "Raynaud (knee) was assigned to the G League's Stockton Kings on Wednesday, James Ham of ESPN 1320 Sacramento reports.",
+    "detail": "Raynaud (knee) was recalled from the G League's Stockton Kings on Wednesday, Marc J. Spears of ESPN.com reports.",
     "type": "out",
-    "updated": "2026-11-25T16:25Z"
+    "updated": "2026-11-25T21:38Z"
    },
    {
     "player": "Ben Simmons",
@@ -583,6 +562,55 @@
    "player": "Zach LaVine",
    "from": "not listed",
    "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-25 18:47",
+   "team": "Charlotte Hornets",
+   "player": "Sion James",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-25 18:47",
+   "team": "Chicago Bulls",
+   "player": "Jalen Smith",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-25 18:47",
+   "team": "New York Knicks",
+   "player": "Josh Hart",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-25 18:47",
+   "team": "New York Knicks",
+   "player": "Karl-Anthony Towns",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-25 18:47",
+   "team": "New York Knicks",
+   "player": "Jalen Brunson",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-25 18:47",
+   "team": "Philadelphia 76ers",
+   "player": "Jaylen Brown",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-25 18:47",
+   "team": "Sacramento Kings",
+   "player": "Zach LaVine",
+   "from": "Day-To-Day",
+   "to": "Out"
   }
  ]
 }
