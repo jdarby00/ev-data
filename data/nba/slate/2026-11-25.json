@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "updated_et": "2026-11-25 21:10",
+ "updated_et": "2026-11-25 22:36",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -25,7 +25,7 @@
    "home": "CHA",
    "away_name": "Chicago Bulls",
    "home_name": "Charlotte Hornets",
-   "state": "in",
+   "state": "post",
    "spread_text": "CHA -4.5",
    "spread": -4.5,
    "total": 218.5,
@@ -39,7 +39,7 @@
    "home": "NY",
    "away_name": "Cleveland Cavaliers",
    "home_name": "New York Knicks",
-   "state": "in",
+   "state": "post",
    "spread_text": "NY -4.5",
    "spread": -4.5,
    "total": 220.5,
@@ -53,7 +53,7 @@
    "home": "OKC",
    "away_name": "Minnesota Timberwolves",
    "home_name": "Oklahoma City Thunder",
-   "state": "in",
+   "state": "post",
    "spread_text": "OKC -2.5",
    "spread": -2.5,
    "total": 223.5,
@@ -67,7 +67,7 @@
    "home": "MEM",
    "away_name": "LA Clippers",
    "home_name": "Memphis Grizzlies",
-   "state": "in",
+   "state": "post",
    "spread_text": "MEM -7.5",
    "spread": -7.5,
    "total": 227.5,
@@ -81,7 +81,7 @@
    "home": "MIL",
    "away_name": "Brooklyn Nets",
    "home_name": "Milwaukee Bucks",
-   "state": "in",
+   "state": "post",
    "spread_text": "MIL -1.5",
    "spread": -1.5,
    "total": 234.5,
@@ -109,7 +109,7 @@
    "home": "GS",
    "away_name": "Sacramento Kings",
    "home_name": "Golden State Warriors",
-   "state": "pre",
+   "state": "in",
    "spread_text": "GS -8.5",
    "spread": -8.5,
    "total": 216.5,
@@ -123,7 +123,7 @@
    "home": "POR",
    "away_name": "San Antonio Spurs",
    "home_name": "Portland Trail Blazers",
-   "state": "pre",
+   "state": "in",
    "spread_text": "SA -3.5",
    "spread": 3.5,
    "total": 226.5,
@@ -133,6 +133,13 @@
  ],
  "injuries": {
   "Brooklyn Nets": [
+   {
+    "player": "Moritz Wagner",
+    "status": "Out",
+    "detail": "Wagner (knee) will not return to Wednesday's game against the Bucks, C.J. Holmes of the New York Daily News reports.",
+    "type": "out",
+    "updated": "2026-11-26T02:48Z"
+   },
    {
     "player": "Nolan Traore",
     "status": "Out",
@@ -219,13 +226,6 @@
     "updated": "2026-11-26T01:36Z"
    },
    {
-    "player": "Brandon Williams",
-    "status": "Out",
-    "detail": "Head coach Steve Kerr said Tuesday that Williams (hamstring) is questionable to play Wednesday against the Kings, per Dalton Johnson of NBC Sports Bay Area.",
-    "type": "out",
-    "updated": "2026-11-26T01:32Z"
-   },
-   {
     "player": "Kristaps Porzingis",
     "status": "Out",
     "detail": "Porzingis announced on his social media that he's stepping away from basketball.",
@@ -265,6 +265,13 @@
   ],
   "Memphis Grizzlies": [
    {
+    "player": "Zach Edey",
+    "status": "Day-To-Day",
+    "detail": "Edey (ankle) is doubtful to return to Wednesday's game against the Clippers.",
+    "type": "day-to-day",
+    "updated": "2026-11-26T02:48Z"
+   },
+   {
     "player": "Scotty Pippen Jr.",
     "status": "Out",
     "detail": "Pippen (back) is out for Wednesday's game against the Clippers.",
@@ -302,6 +309,13 @@
   ],
   "Minnesota Timberwolves": [
    {
+    "player": "LaMelo Ball",
+    "status": "Day-To-Day",
+    "detail": "Ball headed to the locker room after turning his left ankle against the Thunder, Tim MacMahon of ESPN.com reports.",
+    "type": "day-to-day",
+    "updated": "2026-11-26T03:08Z"
+   },
+   {
     "player": "Donte DiVincenzo",
     "status": "Out",
     "detail": "DiVincenzo (Achilles) has been cleared for team basketball activities and is targeting a return to game action in January, Jon Krawczynski of The Athletic reports.",
@@ -324,6 +338,13 @@
    }
   ],
   "New York Knicks": [
+   {
+    "player": "Andre Drummond",
+    "status": "Day-To-Day",
+    "detail": "Drummond is questionable to return to Wednesday's game against Cleveland due to a head injury, Stefan Bondy of The New York Post reports.",
+    "type": "day-to-day",
+    "updated": "2026-11-26T02:31Z"
+   },
    {
     "player": "OG Anunoby",
     "status": "Out",
@@ -485,17 +506,10 @@
   "San Antonio Spurs": [
    {
     "player": "De'Aaron Fox",
-    "status": "Day-To-Day",
-    "detail": "Fox (shin) is questionable to play Wednesday's game against the Trail Blazers.",
-    "type": "day-to-day",
-    "updated": "2026-11-25T01:27Z"
-   },
-   {
-    "player": "Victor Wembanyama",
-    "status": "Day-To-Day",
-    "detail": "Wembanyama (back) is questionable for Wednesday's game in Portland.",
-    "type": "day-to-day",
-    "updated": "2026-11-25T01:23Z"
+    "status": "Out",
+    "detail": "Fox (shin) has been ruled out for Wednesday's game against Portland, Jeff McDonald of the San Antonio Express-News reports.",
+    "type": "out",
+    "updated": "2026-11-26T02:20Z"
    },
    {
     "player": "Dylan Harper",
@@ -625,6 +639,55 @@
    "player": "Jaylen Brown",
    "from": "Out",
    "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-25 22:36",
+   "team": "Brooklyn Nets",
+   "player": "Moritz Wagner",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-25 22:36",
+   "team": "Golden State Warriors",
+   "player": "Brandon Williams",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-25 22:36",
+   "team": "Memphis Grizzlies",
+   "player": "Zach Edey",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-25 22:36",
+   "team": "Minnesota Timberwolves",
+   "player": "LaMelo Ball",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-25 22:36",
+   "team": "New York Knicks",
+   "player": "Andre Drummond",
+   "from": "not listed",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-25 22:36",
+   "team": "San Antonio Spurs",
+   "player": "De'Aaron Fox",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-25 22:36",
+   "team": "San Antonio Spurs",
+   "player": "Victor Wembanyama",
+   "from": "Day-To-Day",
+   "to": "removed from report"
   }
  ]
 }
