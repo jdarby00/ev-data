@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "updated_et": "2026-11-25 18:47",
+ "updated_et": "2026-11-25 21:10",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,7 +11,7 @@
    "home": "PHI",
    "away_name": "Miami Heat",
    "home_name": "Philadelphia 76ers",
-   "state": "in",
+   "state": "post",
    "spread_text": "MIA -1.5",
    "spread": 1.5,
    "total": 238.5,
@@ -25,7 +25,7 @@
    "home": "CHA",
    "away_name": "Chicago Bulls",
    "home_name": "Charlotte Hornets",
-   "state": "pre",
+   "state": "in",
    "spread_text": "CHA -4.5",
    "spread": -4.5,
    "total": 218.5,
@@ -39,7 +39,7 @@
    "home": "NY",
    "away_name": "Cleveland Cavaliers",
    "home_name": "New York Knicks",
-   "state": "pre",
+   "state": "in",
    "spread_text": "NY -4.5",
    "spread": -4.5,
    "total": 220.5,
@@ -53,7 +53,7 @@
    "home": "OKC",
    "away_name": "Minnesota Timberwolves",
    "home_name": "Oklahoma City Thunder",
-   "state": "pre",
+   "state": "in",
    "spread_text": "OKC -2.5",
    "spread": -2.5,
    "total": 223.5,
@@ -67,7 +67,7 @@
    "home": "MEM",
    "away_name": "LA Clippers",
    "home_name": "Memphis Grizzlies",
-   "state": "pre",
+   "state": "in",
    "spread_text": "MEM -7.5",
    "spread": -7.5,
    "total": 227.5,
@@ -81,7 +81,7 @@
    "home": "MIL",
    "away_name": "Brooklyn Nets",
    "home_name": "Milwaukee Bucks",
-   "state": "pre",
+   "state": "in",
    "spread_text": "MIL -1.5",
    "spread": -1.5,
    "total": 234.5,
@@ -95,7 +95,7 @@
    "home": "HOU",
    "away_name": "Phoenix Suns",
    "home_name": "Houston Rockets",
-   "state": "pre",
+   "state": "in",
    "spread_text": "HOU -9.5",
    "spread": -9.5,
    "total": 222.5,
@@ -110,9 +110,9 @@
    "away_name": "Sacramento Kings",
    "home_name": "Golden State Warriors",
    "state": "pre",
-   "spread_text": "GS -7.5",
-   "spread": -7.5,
-   "total": 215.5,
+   "spread_text": "GS -8.5",
+   "spread": -8.5,
+   "total": 216.5,
    "odds_source": "DraftKings",
    "season_type": 2
   },
@@ -126,7 +126,7 @@
    "state": "pre",
    "spread_text": "SA -3.5",
    "spread": 3.5,
-   "total": 225.5,
+   "total": 226.5,
    "odds_source": "DraftKings",
    "season_type": 2
   }
@@ -212,25 +212,18 @@
   ],
   "Golden State Warriors": [
    {
-    "player": "Yaxel Lendeborg",
-    "status": "Day-To-Day",
-    "detail": "Lendeborg is questionable for Wednesday's game against the Kings with an illness.",
-    "type": "day-to-day",
-    "updated": "2026-11-24T23:20Z"
+    "player": "Stephen Curry",
+    "status": "Out",
+    "detail": "Curry (abdomen) will be re-evaluated Friday after Thanksgiving, Anthony Slater of ESPN.com reports.",
+    "type": "out",
+    "updated": "2026-11-26T01:36Z"
    },
    {
     "player": "Brandon Williams",
     "status": "Out",
     "detail": "Head coach Steve Kerr said Tuesday that Williams (hamstring) is questionable to play Wednesday against the Kings, per Dalton Johnson of NBC Sports Bay Area.",
     "type": "out",
-    "updated": "2026-11-24T20:58Z"
-   },
-   {
-    "player": "Stephen Curry",
-    "status": "Out",
-    "detail": "Curry has been diagnosed with an oblique abdominal tear and will be re-evaluated in two weeks, Shams Charania of ESPN reports.",
-    "type": "out",
-    "updated": "2026-11-12T17:03Z"
+    "updated": "2026-11-26T01:32Z"
    },
    {
     "player": "Kristaps Porzingis",
@@ -406,18 +399,18 @@
   ],
   "Philadelphia 76ers": [
    {
-    "player": "Jaylen Brown",
-    "status": "Out",
-    "detail": "Brown (hamstring) won't return to Wednesday's game against Miami, Kyle Neubeck of AllPHLY.com reports. He finished with six points (2-8 FG, 0-1 3Pt, 2-2 FT), one rebound and one assist over 17 minutes.",
-    "type": "out",
-    "updated": "2026-11-25T23:30Z"
+    "player": "Joel Embiid",
+    "status": "Day-To-Day",
+    "detail": "Embiid (illness) is out for Wednesday's game against Miami, Ira Winderman of the South Florida Sun Sentinel reports.",
+    "type": "day-to-day",
+    "updated": "2026-11-26T01:06Z"
    },
    {
-    "player": "Joel Embiid",
-    "status": "Out",
-    "detail": "Embiid (illness) is out for Wednesday's game against Miami, Ira Winderman of the South Florida Sun Sentinel reports.",
-    "type": "out",
-    "updated": "2026-11-25T20:07Z"
+    "player": "Jaylen Brown",
+    "status": "Day-To-Day",
+    "detail": "Brown (hamstring) will receive imaging, and the Sixers will provide an update Thursday, Ky Carlin of USA Today reports.",
+    "type": "day-to-day",
+    "updated": "2026-11-26T01:06Z"
    },
    {
     "player": "Ariel Hukporti",
@@ -611,6 +604,27 @@
    "player": "Zach LaVine",
    "from": "Day-To-Day",
    "to": "Out"
+  },
+  {
+   "at_et": "2026-11-25 21:10",
+   "team": "Golden State Warriors",
+   "player": "Yaxel Lendeborg",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-25 21:10",
+   "team": "Philadelphia 76ers",
+   "player": "Joel Embiid",
+   "from": "Out",
+   "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-25 21:10",
+   "team": "Philadelphia 76ers",
+   "player": "Jaylen Brown",
+   "from": "Out",
+   "to": "Day-To-Day"
   }
  ]
 }

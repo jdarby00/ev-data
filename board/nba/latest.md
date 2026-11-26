@@ -1,6 +1,6 @@
 # NBA board, 2026-11-25
 
-Slate updated 2026-11-25 18:47 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-25 21:10 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
@@ -18,6 +18,9 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 18:47 New York Knicks: Jalen Brunson Day-To-Day → removed from report
 - 18:47 Philadelphia 76ers: Jaylen Brown not listed → Out
 - 18:47 Sacramento Kings: Zach LaVine Day-To-Day → Out
+- 21:10 Golden State Warriors: Yaxel Lendeborg Day-To-Day → removed from report
+- 21:10 Philadelphia 76ers: Joel Embiid Out → Day-To-Day
+- 21:10 Philadelphia 76ers: Jaylen Brown Out → Day-To-Day
 
 ## MIA @ PHI, 17:00 ET
 Line: MIA -1.5, total 238.5 (DraftKings).
@@ -37,19 +40,15 @@ Line: MIA -1.5, total 238.5 (DraftKings).
 | Simone Fontecchio | – | 14.6 (6.2) → 13.1 (4.8) | 6.8/4 → 6 (1–13) | 3.2/1.8 → 2 (0–5) | 1/0.5 → 1 (0–2) | 1.2/0.7 → 1 (0–3) | 9 (1–19) |
 | Nikola Jovic | – | 12.6 (5.4) → 13.8 (6.1) | 4.8/3.8 → 5 (0–12) | 2.2/2.8 → 2 (0–6) | 2/1.6 → 2 (0–4) | 0.8/0.5 → 1 (0–2) | 10 (2–20) |
 
-**PHI** (1 rest day). Out: Joel Embiid, Jaylen Brown. Freed minutes: 66.3. Out all season so far (already in the lines): Ariel Hukporti.
-- Without Jaylen Brown: Anfernee Simons min +11, pts +9.9, reb -0.6, ast +0.2 (n=3 vs 15)
-- Without Joel Embiid: Jabari Walker min +8.8, pts +5.3, reb +1.5, ast -0.1 (n=3 vs 11)
-- Without Joel Embiid: Dean Wade min +8, pts +2.2, reb +0.5, ast +3.1 (n=4 vs 10)
-- Without Jaylen Brown: Kentavious Caldwell-Pope min +7, pts +2.7, reb +1.3, ast +0.5 (n=3 vs 15)
+**PHI** (1 rest day). Out: none who have played this season. Freed minutes: 0. Out all season so far (already in the lines): Ariel Hukporti.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | VJ Edgecombe | – | 36 (3.3) → 35.6 (27.9) | 15.4/13.6 → 15 (7–24) | 6.2/6.4 → 6 (3–10) | 5.8/4.2 → 5 (2–8) | 1.4/1.6 → 1 (0–4) | 26 (15–38) |
 | Tyrese Maxey | – | 35.4 (1.2) → 35.5 (27.8) | 23.4/25.7 → 24 (14–36) | 2.6/3.2 → 3 (1–6) | 6.4/5.6 → 6 (3–10) | 2.4/2.5 → 2 (1–5) | 33 (20–48) |
-| Joel Embiid | Out | 32.2 (3.6) | 25/20.4 | 7.6/8.9 | 4.2/4.1 | 0.6/0.4 | – |
+| Joel Embiid | Day-To-Day | 32.2 (3.6) → 32 (24.3) | 25/20.4 → 25 (14–36) | 7.6/8.9 → 8 (4–13) | 4.2/4.1 → 4 (2–8) | 0.6/0.4 → 1 (0–2) | 37 (23–54) |
 | LeBron James | – | 31.6 (1.8) → 32 (24.3) | 18.4/16.6 → 19 (10–29) | 6/6.7 → 6 (3–10) | 6.2/6.5 → 6 (3–10) | 1.2/1 → 1 (0–3) | 31 (18–46) |
-| Jaylen Brown | Out | 31.2 (3.5) | 22.6/22.4 | 5.6/6.3 | 2.8/3.6 | 1.6/1.9 | – |
+| Jaylen Brown | Day-To-Day | 31.2 (3.5) → 32.6 (24.9) | 22.6/22.4 → 25 (14–36) | 5.6/6.3 → 6 (3–10) | 2.8/3.6 → 4 (1–7) | 1.6/1.9 → 2 (0–4) | 35 (21–50) |
 | Dean Wade | – | 30.4 (5.7) → 27.7 (20) | 7.2/4.6 → 6 (1–11) | 6.8/4.4 → 5 (2–9) | 1.6/1.8 → 2 (0–4) | 1.6/0.9 → 1 (0–3) | 13 (5–22) |
 | Kentavious Caldwell-Pope | – | 27.4 (6.5) → 24.6 (16.1) | 6/5.8 → 7 (2–13) | 3.8/2.9 → 3 (1–6) | 1.4/1.6 → 2 (0–5) | 1.4/1.4 → 1 (0–3) | 12 (5–22) |
 | Anfernee Simons | – | 24.6 (7.4) → 23.4 (13.9) | 12/10.7 → 12 (4–21) | 0.6/1.8 → 1 (0–4) | 1/1.2 → 1 (0–4) | 1.8/2.3 → 2 (0–5) | 15 (6–26) |
@@ -292,7 +291,7 @@ Line: HOU -9.5, total 222.5 (DraftKings).
 | Steven Adams | – | 12.8 (3) → 14.7 (7) | 4/4 → 4 (0–8) | 4.4/4.4 → 5 (1–10) | 1.2/1.2 → 1 (0–3) | 0/0 → 0 (0–0) | 10 (2–19) |
 
 ## SAC @ GS, 22:00 ET
-Line: GS -7.5, total 215.5 (DraftKings).
+Line: GS -8.5, total 216.5 (DraftKings).
 **SAC** (1 rest day). Out: Zach LaVine. Freed minutes: 32.9. Out all season so far (already in the lines): Maxime Raynaud, Ben Simmons.
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
@@ -317,7 +316,7 @@ Line: GS -7.5, total 215.5 (DraftKings).
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
-| Yaxel Lendeborg | Day-To-Day | 30.8 (3.8) → 31.8 (24.1) | 13.4/19.2 → 14 (6–23) | 7.2/7.4 → 7 (3–11) | 3.6/3.6 → 3 (1–6) | 0.8/1.9 → 1 (0–3) | 24 (13–37) |
+| Yaxel Lendeborg | – | 30.8 (3.8) → 31.8 (24.1) | 13.4/19.2 → 14 (6–23) | 7.2/7.4 → 7 (3–11) | 3.6/3.6 → 3 (1–6) | 0.8/1.9 → 1 (0–3) | 24 (13–37) |
 | Brandin Podziemski | – | 30.2 (5.1) → 31.9 (24.2) | 13.2/15.9 → 15 (7–24) | 4.4/4.9 → 5 (2–9) | 2.2/3.5 → 3 (1–6) | 1.8/2.5 → 2 (0–4) | 23 (13–35) |
 | Stephen Curry | Out | 24.8 (8.2) | 26.4/27.8 | 3.6/3.7 | 3.8/3.9 | 4.2/4.3 | – |
 | Will Richard | – | 24.8 (5.7) → 21.7 (14) | 11.2/7.2 → 8 (2–15) | 2.8/2.2 → 2 (1–5) | 1.4/1.1 → 1 (0–3) | 1.2/1.1 → 1 (0–3) | 12 (4–21) |
@@ -330,7 +329,7 @@ Line: GS -7.5, total 215.5 (DraftKings).
 | Al Horford | – | 16 (3.4) → 16.8 (9.2) | 2.4/4.1 → 5 (0–10) | 2.8/3.6 → 3 (1–7) | 1.8/1.9 → 2 (0–4) | 0.2/0.9 → 1 (0–2) | 10 (3–20) |
 
 ## SA @ POR, 22:00 ET
-Line: SA -3.5, total 225.5 (DraftKings).
+Line: SA -3.5, total 226.5 (DraftKings).
 **SA** (1 rest day). Out: Dylan Harper. Freed minutes: 31.7. Out all season so far (already in the lines): Tobias Harris, Jayden Quaintance.
 - Without Dylan Harper: Harrison Barnes min +6.9, pts +1.9, reb +2, ast +1.2 (n=3 vs 13)
 - Without Dylan Harper: Jordan McLaughlin min +5, pts -1, reb +0.3, ast +1 (n=3 vs 9)
