@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "updated_et": "2026-11-25 22:36",
+ "updated_et": "2026-11-25 23:21",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -95,7 +95,7 @@
    "home": "HOU",
    "away_name": "Phoenix Suns",
    "home_name": "Houston Rockets",
-   "state": "in",
+   "state": "post",
    "spread_text": "HOU -9.5",
    "spread": -9.5,
    "total": 222.5,
@@ -267,9 +267,9 @@
    {
     "player": "Zach Edey",
     "status": "Day-To-Day",
-    "detail": "Edey (ankle) is doubtful to return to Wednesday's game against the Clippers.",
+    "detail": "Edey (ankle) did not return to Wednesday's 115-97 win over the Clippers. He finished with seven points (3-4 FG, 1-1 FT), four rebounds, two assists and two blocks across nine minutes.",
     "type": "day-to-day",
-    "updated": "2026-11-26T02:48Z"
+    "updated": "2026-11-26T03:43Z"
    },
    {
     "player": "Scotty Pippen Jr.",
@@ -311,9 +311,9 @@
    {
     "player": "LaMelo Ball",
     "status": "Day-To-Day",
-    "detail": "Ball headed to the locker room after turning his left ankle against the Thunder, Tim MacMahon of ESPN.com reports.",
+    "detail": "Ball (ankle) did not return to Wednesday's 113-106 win over the Thunder.",
     "type": "day-to-day",
-    "updated": "2026-11-26T03:08Z"
+    "updated": "2026-11-26T03:37Z"
    },
    {
     "player": "Donte DiVincenzo",
@@ -341,9 +341,9 @@
    {
     "player": "Andre Drummond",
     "status": "Day-To-Day",
-    "detail": "Drummond is questionable to return to Wednesday's game against Cleveland due to a head injury, Stefan Bondy of The New York Post reports.",
+    "detail": "Drummond (head) did not return to Wednesday's 121-102 win over the Cavaliers.",
     "type": "day-to-day",
-    "updated": "2026-11-26T02:31Z"
+    "updated": "2026-11-26T03:40Z"
    },
    {
     "player": "OG Anunoby",
