@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "built_at": "2026-11-27T19:26:03Z",
+ "built_at": "2026-11-27T20:50:48Z",
  "code_card": [
   {
    "lane": "value",
@@ -103,30 +103,6 @@
   },
   {
    "lane": "likely",
-   "sport": "nfl",
-   "game": "DEN @ PIT",
-   "start_utc": "2026-11-27T20:00Z",
-   "event_id": "401873083",
-   "kind": "game",
-   "market": "moneyline",
-   "line": 0.0,
-   "side": "away",
-   "bet": "DEN to win",
-   "book": "fanduel",
-   "price": -230,
-   "p": 0.676,
-   "p_mkt": 0.676,
-   "basis": "all-books fair (8 books)",
-   "flags": [],
-   "tier": "Straight",
-   "decimal": 1.435,
-   "edge": -0.0299,
-   "gate_evidence": "team line: needs injury, rest and form checks by hand",
-   "parlay_ok": false,
-   "role": "Likely to win"
-  },
-  {
-   "lane": "likely",
    "sport": "nba",
    "game": "ATL @ BOS",
    "start_utc": "2026-11-28T01:00Z",
@@ -157,7 +133,7 @@
    "min_floor": 0.89,
    "gate_evidence": "cleared 14 of 17 this season, 10 of 10 in the last 10; minutes 32 a game, fewest in the last 5: 28; minutes tonight -1.5",
    "parlay_ok": true,
-   "team_spread": 8.5,
+   "team_spread": 9.5,
    "role": "Likely to win"
   },
   {
@@ -193,6 +169,41 @@
    "gate_evidence": "cleared 13 of 16 this season, 8 of 10 in the last 10; minutes 32 a game, fewest in the last 5: 29",
    "parlay_ok": true,
    "team_spread": 2.5,
+   "role": "Likely to win"
+  },
+  {
+   "lane": "likely",
+   "sport": "nba",
+   "game": "BKN @ TOR",
+   "start_utc": "2026-11-28T00:30Z",
+   "event_id": "401909329",
+   "kind": "prop",
+   "player": "Immanuel Quickley",
+   "team": "TOR",
+   "stat": "ast",
+   "line": 5.5,
+   "side": "over",
+   "bet": "Immanuel Quickley 6+ assists",
+   "book": "draftkings",
+   "price": -246,
+   "p": 0.6707,
+   "p_mkt": null,
+   "p_model": null,
+   "basis": "DraftKings milestone price 71%, about 6% margin taken out",
+   "flags": [
+    "minutes adj -1.0 min, mean -0.5"
+   ],
+   "milestone": true,
+   "tier": "Best bet",
+   "decimal": 1.407,
+   "edge": -0.0563,
+   "rec_n": 15,
+   "rec_rate": 0.733,
+   "rec_last10": 0.7,
+   "min_floor": 1.0,
+   "gate_evidence": "cleared 11 of 15 this season, 7 of 10 in the last 10; minutes 32 a game, fewest in the last 5: 32; minutes tonight -1.0",
+   "parlay_ok": true,
+   "team_spread": -9.5,
    "role": "Likely to win"
   },
   {
@@ -236,7 +247,7 @@
      "event_id": "401909330",
      "team": "ATL",
      "gate_evidence": "cleared 14 of 17 this season, 10 of 10 in the last 10; minutes 32 a game, fewest in the last 5: 28; minutes tonight -1.5",
-     "team_spread": 8.5
+     "team_spread": 9.5
     },
     {
      "sport": "nba",
@@ -248,7 +259,7 @@
      "event_id": "401909330",
      "team": "ATL",
      "gate_evidence": "cleared 13 of 17 this season, 10 of 10 in the last 10; minutes 32 a game, fewest in the last 5: 27; minutes tonight -1.6",
-     "team_spread": 8.5
+     "team_spread": 9.5
     }
    ],
    "p": 0.1813,
@@ -264,156 +275,6 @@
   }
  ],
  "value": [
-  {
-   "lane": "value",
-   "sport": "nfl",
-   "game": "DEN @ PIT",
-   "start_utc": "2026-11-27T20:00Z",
-   "bet": "Roman Wilson anytime TD",
-   "event_id": "401873083",
-   "kind": "td",
-   "player": "Roman Wilson",
-   "stat": "anytime_td",
-   "line": 0.0,
-   "side": "yes",
-   "book": "fanduel",
-   "price": 800,
-   "p": 0.125,
-   "p_mkt": 0.125,
-   "one_sided": true,
-   "basis": "median of 4 other books, margin left in",
-   "flags": [],
-   "tier": "Value",
-   "decimal": 9.0,
-   "edge": 0.125,
-   "gate_evidence": "cleared 2 of 6 this season, 2 of 5 in the last 5; role check by hand",
-   "parlay_ok": false
-  },
-  {
-   "lane": "value",
-   "sport": "nfl",
-   "game": "DEN @ PIT",
-   "start_utc": "2026-11-27T20:00Z",
-   "bet": "Jaylen Waddle anytime TD",
-   "event_id": "401873083",
-   "kind": "td",
-   "player": "Jaylen Waddle",
-   "stat": "anytime_td",
-   "line": 0.0,
-   "side": "yes",
-   "book": "fanduel",
-   "price": 330,
-   "p": 0.2568,
-   "p_mkt": 0.2568,
-   "one_sided": true,
-   "basis": "median of 4 other books, margin left in",
-   "flags": [],
-   "tier": "Value",
-   "decimal": 4.3,
-   "edge": 0.1042,
-   "gate_evidence": "cleared 2 of 10 this season, 1 of 5 in the last 5; role check by hand",
-   "parlay_ok": false
-  },
-  {
-   "lane": "value",
-   "sport": "nfl",
-   "game": "DEN @ PIT",
-   "start_utc": "2026-11-27T20:00Z",
-   "bet": "Pat Bryant anytime TD",
-   "event_id": "401873083",
-   "kind": "td",
-   "player": "Pat Bryant",
-   "stat": "anytime_td",
-   "line": 0.0,
-   "side": "yes",
-   "book": "fanduel",
-   "price": 500,
-   "p": 0.1818,
-   "p_mkt": 0.1818,
-   "one_sided": true,
-   "basis": "median of 3 other books, margin left in",
-   "flags": [],
-   "tier": "Value",
-   "decimal": 6.0,
-   "edge": 0.0908,
-   "gate_evidence": "cleared 2 of 6 this season, 2 of 5 in the last 5; role check by hand",
-   "parlay_ok": false
-  },
-  {
-   "lane": "value",
-   "sport": "nfl",
-   "game": "DEN @ PIT",
-   "start_utc": "2026-11-27T20:00Z",
-   "bet": "Courtland Sutton anytime TD",
-   "event_id": "401873083",
-   "kind": "td",
-   "player": "Courtland Sutton",
-   "stat": "anytime_td",
-   "line": 0.0,
-   "side": "yes",
-   "book": "fanduel",
-   "price": 400,
-   "p": 0.2174,
-   "p_mkt": 0.2174,
-   "one_sided": true,
-   "basis": "median of 4 other books, margin left in",
-   "flags": [],
-   "tier": "Value",
-   "decimal": 5.0,
-   "edge": 0.087,
-   "gate_evidence": "cleared 2 of 10 this season, 1 of 5 in the last 5; role check by hand",
-   "parlay_ok": false
-  },
-  {
-   "lane": "value",
-   "sport": "nfl",
-   "game": "DEN @ PIT",
-   "start_utc": "2026-11-27T20:00Z",
-   "bet": "Pat Freiermuth anytime TD",
-   "event_id": "401873083",
-   "kind": "td",
-   "player": "Pat Freiermuth",
-   "stat": "anytime_td",
-   "line": 0.0,
-   "side": "yes",
-   "book": "fanduel",
-   "price": 600,
-   "p": 0.1541,
-   "p_mkt": 0.1541,
-   "one_sided": true,
-   "basis": "median of 4 other books, margin left in",
-   "flags": [],
-   "tier": "Value",
-   "decimal": 7.0,
-   "edge": 0.0787,
-   "gate_evidence": "cleared 5 of 10 this season, 2 of 5 in the last 5; role check by hand",
-   "parlay_ok": false
-  },
-  {
-   "lane": "value",
-   "sport": "nfl",
-   "game": "DEN @ PIT",
-   "start_utc": "2026-11-27T20:00Z",
-   "bet": "Rico Dowdle anytime TD",
-   "event_id": "401873083",
-   "kind": "td",
-   "player": "Rico Dowdle",
-   "stat": "anytime_td",
-   "line": 0.0,
-   "side": "yes",
-   "book": "fanduel",
-   "price": 380,
-   "p": 0.2198,
-   "p_mkt": 0.2198,
-   "one_sided": true,
-   "basis": "median of 4 other books, margin left in",
-   "flags": [],
-   "tier": "Value",
-   "decimal": 4.8,
-   "edge": 0.055,
-   "gate_evidence": "cleared 1 of 7 this season, 1 of 5 in the last 5; role check by hand",
-   "parlay_ok": false
-  },
   {
    "lane": "value",
    "sport": "nba",
@@ -860,7 +721,7 @@
    "min_floor": 0.84,
    "gate_evidence": "cleared 11 of 13 this season, 9 of 10 in the last 10; minutes 20 a game, fewest in the last 5: 17; minutes tonight -1.9",
    "parlay_ok": true,
-   "team_spread": -1.5
+   "team_spread": -3.5
   },
   {
    "lane": "likely",
@@ -950,7 +811,7 @@
    "min_floor": 0.71,
    "gate_evidence": "cleared 12 of 12 this season, 10 of 10 in the last 10; minutes 35 a game, fewest in the last 5: 25",
    "parlay_ok": true,
-   "team_spread": 6.5
+   "team_spread": 5.5
   },
   {
    "lane": "likely",
@@ -1187,7 +1048,7 @@
    "min_floor": 0.52,
    "gate_evidence": "cleared 13 of 16 this season, 8 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 16",
    "parlay_ok": true,
-   "team_spread": 1.5
+   "team_spread": 3.5
   },
   {
    "lane": "likely",
@@ -1393,7 +1254,7 @@
    "min_floor": 0.52,
    "gate_evidence": "cleared 14 of 16 this season, 9 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 16",
    "parlay_ok": true,
-   "team_spread": 1.5
+   "team_spread": 3.5
   },
   {
    "lane": "likely",
@@ -1426,7 +1287,7 @@
    "min_floor": 0.93,
    "gate_evidence": "cleared 16 of 17 this season, 10 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 29",
    "parlay_ok": true,
-   "team_spread": 6.5
+   "team_spread": 5.5
   },
   {
    "lane": "likely",
@@ -1809,7 +1670,7 @@
    "min_floor": 0.94,
    "gate_evidence": "cleared 14 of 17 this season, 8 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 29; minutes tonight -1.5",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -2053,7 +1914,7 @@
    "min_floor": 0.84,
    "gate_evidence": "cleared 11 of 13 this season, 8 of 10 in the last 10; minutes 20 a game, fewest in the last 5: 17; minutes tonight -1.9",
    "parlay_ok": true,
-   "team_spread": -1.5
+   "team_spread": -3.5
   },
   {
    "lane": "likely",
@@ -2154,7 +2015,7 @@
    "min_floor": 0.84,
    "gate_evidence": "cleared 10 of 13 this season, 8 of 10 in the last 10; minutes 20 a game, fewest in the last 5: 17; minutes tonight -1.9",
    "parlay_ok": true,
-   "team_spread": -1.5
+   "team_spread": -3.5
   },
   {
    "lane": "likely",
@@ -2454,7 +2315,7 @@
    "min_floor": 1.05,
    "gate_evidence": "cleared 14 of 18 this season, 9 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 32",
    "parlay_ok": true,
-   "team_spread": -6.5
+   "team_spread": -5.5
   },
   {
    "lane": "likely",
@@ -2590,7 +2451,7 @@
    "min_floor": 0.73,
    "gate_evidence": "cleared 13 of 17 this season, 6 of 10 in the last 10; minutes 25 a game, fewest in the last 5: 18; minutes tonight -1.2",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -2934,7 +2795,7 @@
    "min_floor": 0.71,
    "gate_evidence": "cleared 10 of 12 this season, 8 of 10 in the last 10; minutes 35 a game, fewest in the last 5: 25",
    "parlay_ok": true,
-   "team_spread": 6.5
+   "team_spread": 5.5
   },
   {
    "lane": "likely",
@@ -2967,7 +2828,7 @@
    "min_floor": 0.87,
    "gate_evidence": "cleared 12 of 16 this season, 7 of 10 in the last 10; minutes 34 a game, fewest in the last 5: 30",
    "parlay_ok": true,
-   "team_spread": -8.5
+   "team_spread": -9.5
   },
   {
    "lane": "likely",
@@ -3171,7 +3032,7 @@
    "min_floor": 0.73,
    "gate_evidence": "cleared 13 of 17 this season, 6 of 10 in the last 10; minutes 25 a game, fewest in the last 5: 18; minutes tonight -1.2",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -3204,7 +3065,7 @@
    "min_floor": 1.05,
    "gate_evidence": "cleared 13 of 18 this season, 8 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 32",
    "parlay_ok": true,
-   "team_spread": -6.5
+   "team_spread": -5.5
   },
   {
    "lane": "likely",
@@ -3307,7 +3168,7 @@
    "min_floor": 0.88,
    "gate_evidence": "cleared 10 of 14 this season, 6 of 10 in the last 10; minutes 34 a game, fewest in the last 5: 30; minutes tonight -1.6",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -3340,7 +3201,7 @@
    "min_floor": 0.76,
    "gate_evidence": "cleared 12 of 15 this season, 7 of 10 in the last 10; minutes 30 a game, fewest in the last 5: 23",
    "parlay_ok": true,
-   "team_spread": -8.5
+   "team_spread": -9.5
   },
   {
    "lane": "likely",
@@ -3513,7 +3374,7 @@
    "min_floor": 0.93,
    "gate_evidence": "cleared 16 of 17 this season, 10 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 29",
    "parlay_ok": true,
-   "team_spread": 6.5
+   "team_spread": 5.5
   },
   {
    "lane": "likely",
@@ -3587,29 +3448,6 @@
   },
   {
    "lane": "likely",
-   "sport": "nfl",
-   "game": "DEN @ PIT",
-   "start_utc": "2026-11-27T20:00Z",
-   "event_id": "401873083",
-   "kind": "game",
-   "market": "moneyline",
-   "line": 0.0,
-   "side": "away",
-   "bet": "DEN to win",
-   "book": "fanduel",
-   "price": -230,
-   "p": 0.676,
-   "p_mkt": 0.676,
-   "basis": "all-books fair (8 books)",
-   "flags": [],
-   "tier": "Straight",
-   "decimal": 1.435,
-   "edge": -0.0299,
-   "gate_evidence": "team line: needs injury, rest and form checks by hand",
-   "parlay_ok": false
-  },
-  {
-   "lane": "likely",
    "sport": "nba",
    "game": "ATL @ BOS",
    "start_utc": "2026-11-28T01:00Z",
@@ -3640,7 +3478,7 @@
    "min_floor": 0.89,
    "gate_evidence": "cleared 14 of 17 this season, 10 of 10 in the last 10; minutes 32 a game, fewest in the last 5: 28; minutes tonight -1.5",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -3774,7 +3612,7 @@
    "min_floor": 0.52,
    "gate_evidence": "cleared 11 of 16 this season, 7 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 16",
    "parlay_ok": true,
-   "team_spread": 1.5
+   "team_spread": 3.5
   },
   {
    "lane": "likely",
@@ -3908,7 +3746,7 @@
    "min_floor": 0.73,
    "gate_evidence": "cleared 13 of 17 this season, 6 of 10 in the last 10; minutes 26 a game, fewest in the last 5: 19; minutes tonight -1.2",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -4037,7 +3875,7 @@
    "min_floor": 0.73,
    "gate_evidence": "cleared 14 of 17 this season, 8 of 10 in the last 10; minutes 26 a game, fewest in the last 5: 19; minutes tonight -1.2",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -4139,7 +3977,7 @@
    "min_floor": 0.89,
    "gate_evidence": "cleared 13 of 17 this season, 9 of 10 in the last 10; minutes 32 a game, fewest in the last 5: 28; minutes tonight -1.5",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -4173,7 +4011,7 @@
    "min_floor": 0.87,
    "gate_evidence": "cleared 12 of 15 this season, 9 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 27",
    "parlay_ok": true,
-   "team_spread": 1.5
+   "team_spread": 3.5
   },
   {
    "lane": "likely",
@@ -4294,7 +4132,7 @@
    "min_floor": 0.87,
    "gate_evidence": "cleared 13 of 16 this season, 7 of 10 in the last 10; minutes 34 a game, fewest in the last 5: 30",
    "parlay_ok": true,
-   "team_spread": -8.5
+   "team_spread": -9.5
   },
   {
    "lane": "likely",
@@ -4362,7 +4200,7 @@
    "min_floor": 0.73,
    "gate_evidence": "cleared 13 of 17 this season, 6 of 10 in the last 10; minutes 26 a game, fewest in the last 5: 19; minutes tonight -1.2",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -4394,7 +4232,7 @@
    "min_floor": 0.93,
    "gate_evidence": "cleared 12 of 17 this season, 8 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 29",
    "parlay_ok": true,
-   "team_spread": 6.5
+   "team_spread": 5.5
   },
   {
    "lane": "likely",
@@ -4459,7 +4297,7 @@
    "min_floor": 0.58,
    "gate_evidence": "cleared 11 of 18 this season, 7 of 10 in the last 10; minutes 19 a game, fewest in the last 5: 11; minutes tonight -4.0 (minutes moved: straight only, after a role check)",
    "parlay_ok": false,
-   "team_spread": -8.5
+   "team_spread": -9.5
   },
   {
    "lane": "likely",
@@ -4525,7 +4363,7 @@
    "min_floor": 1.05,
    "gate_evidence": "cleared 12 of 18 this season, 8 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 32",
    "parlay_ok": true,
-   "team_spread": -6.5
+   "team_spread": -5.5
   },
   {
    "lane": "likely",
@@ -4627,7 +4465,7 @@
    "min_floor": 0.59,
    "gate_evidence": "cleared 11 of 16 this season, 5 of 10 in the last 10; minutes 29 a game, fewest in the last 5: 17",
    "parlay_ok": true,
-   "team_spread": -6.5
+   "team_spread": -5.5
   },
   {
    "lane": "likely",
@@ -4725,7 +4563,7 @@
    "min_floor": 0.76,
    "gate_evidence": "cleared 10 of 15 this season, 7 of 10 in the last 10; minutes 30 a game, fewest in the last 5: 23",
    "parlay_ok": true,
-   "team_spread": -8.5
+   "team_spread": -9.5
   },
   {
    "lane": "likely",
@@ -4791,7 +4629,7 @@
    "min_floor": 0.85,
    "gate_evidence": "cleared 13 of 17 this season, 10 of 10 in the last 10; minutes 32 a game, fewest in the last 5: 27; minutes tonight -1.6",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -4823,7 +4661,7 @@
    "min_floor": 0.93,
    "gate_evidence": "cleared 16 of 17 this season, 10 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 29",
    "parlay_ok": true,
-   "team_spread": 6.5
+   "team_spread": 5.5
   },
   {
    "lane": "likely",
@@ -4856,7 +4694,7 @@
    "min_floor": 0.59,
    "gate_evidence": "cleared 11 of 16 this season, 8 of 10 in the last 10; minutes 29 a game, fewest in the last 5: 17",
    "parlay_ok": true,
-   "team_spread": -6.5
+   "team_spread": -5.5
   },
   {
    "lane": "likely",
@@ -4988,7 +4826,7 @@
    "min_floor": 0.52,
    "gate_evidence": "cleared 12 of 16 this season, 8 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 16",
    "parlay_ok": true,
-   "team_spread": 1.5
+   "team_spread": 3.5
   },
   {
    "lane": "likely",
@@ -5020,7 +4858,7 @@
    "min_floor": 1.05,
    "gate_evidence": "cleared 12 of 18 this season, 7 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 32",
    "parlay_ok": true,
-   "team_spread": -6.5
+   "team_spread": -5.5
   },
   {
    "lane": "likely",
@@ -5150,7 +4988,7 @@
    "min_floor": 0.76,
    "gate_evidence": "cleared 10 of 15 this season, 7 of 10 in the last 10; minutes 30 a game, fewest in the last 5: 23",
    "parlay_ok": true,
-   "team_spread": -8.5
+   "team_spread": -9.5
   },
   {
    "lane": "likely",
@@ -5218,7 +5056,7 @@
    "min_floor": 0.88,
    "gate_evidence": "cleared 10 of 14 this season, 6 of 10 in the last 10; minutes 34 a game, fewest in the last 5: 30; minutes tonight -1.6",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -5252,7 +5090,7 @@
    "min_floor": 0.85,
    "gate_evidence": "cleared 11 of 17 this season, 7 of 10 in the last 10; minutes 32 a game, fewest in the last 5: 27; minutes tonight -1.6",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -5320,7 +5158,7 @@
    "min_floor": 0.84,
    "gate_evidence": "cleared 9 of 13 this season, 7 of 10 in the last 10; minutes 20 a game, fewest in the last 5: 17; minutes tonight -1.9",
    "parlay_ok": true,
-   "team_spread": -1.5
+   "team_spread": -3.5
   },
   {
    "lane": "likely",
@@ -5586,7 +5424,7 @@
    "min_floor": 0.84,
    "gate_evidence": "cleared 9 of 13 this season, 7 of 10 in the last 10; minutes 20 a game, fewest in the last 5: 17; minutes tonight -1.9",
    "parlay_ok": true,
-   "team_spread": -1.5
+   "team_spread": -3.5
   },
   {
    "lane": "likely",
@@ -5685,7 +5523,7 @@
    "min_floor": 0.85,
    "gate_evidence": "cleared 11 of 17 this season, 10 of 10 in the last 10; minutes 32 a game, fewest in the last 5: 27; minutes tonight -1.6",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -5984,7 +5822,7 @@
    "min_floor": 0.81,
    "gate_evidence": "cleared 10 of 18 this season, 4 of 10 in the last 10; minutes 21 a game, fewest in the last 5: 17; minutes tonight -5.0 (minutes moved: straight only, after a role check)",
    "parlay_ok": false,
-   "team_spread": -8.5
+   "team_spread": -9.5
   },
   {
    "lane": "likely",
@@ -6018,7 +5856,7 @@
    "min_floor": 0.73,
    "gate_evidence": "cleared 14 of 17 this season, 9 of 10 in the last 10; minutes 26 a game, fewest in the last 5: 19; minutes tonight -1.2",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -6150,7 +5988,7 @@
    "min_floor": 0.94,
    "gate_evidence": "cleared 11 of 17 this season, 8 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 29; minutes tonight -1.5",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -6216,7 +6054,7 @@
    "min_floor": 0.93,
    "gate_evidence": "cleared 16 of 17 this season, 10 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 29",
    "parlay_ok": true,
-   "team_spread": 6.5
+   "team_spread": 5.5
   },
   {
    "lane": "likely",
@@ -6250,7 +6088,7 @@
    "min_floor": 0.89,
    "gate_evidence": "cleared 12 of 17 this season, 8 of 10 in the last 10; minutes 32 a game, fewest in the last 5: 28; minutes tonight -1.5",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -6350,7 +6188,7 @@
    "min_floor": 0.94,
    "gate_evidence": "cleared 11 of 17 this season, 9 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 29; minutes tonight -1.5",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -6747,7 +6585,7 @@
    "min_floor": 0.85,
    "gate_evidence": "cleared 11 of 17 this season, 9 of 10 in the last 10; minutes 32 a game, fewest in the last 5: 27; minutes tonight -1.6",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -6847,7 +6685,7 @@
    "min_floor": 0.76,
    "gate_evidence": "cleared 11 of 15 this season, 6 of 10 in the last 10; minutes 30 a game, fewest in the last 5: 23",
    "parlay_ok": true,
-   "team_spread": -8.5
+   "team_spread": -9.5
   },
   {
    "lane": "likely",
@@ -6913,7 +6751,7 @@
    "min_floor": 0.71,
    "gate_evidence": "cleared 12 of 12 this season, 10 of 10 in the last 10; minutes 35 a game, fewest in the last 5: 25",
    "parlay_ok": true,
-   "team_spread": 6.5
+   "team_spread": 5.5
   },
   {
    "lane": "likely",
@@ -7109,7 +6947,7 @@
    "min_floor": 0.77,
    "gate_evidence": "cleared 11 of 17 this season, 8 of 10 in the last 10; minutes 30 a game, fewest in the last 5: 23",
    "parlay_ok": true,
-   "team_spread": -8.5
+   "team_spread": -9.5
   },
   {
    "lane": "likely",
@@ -7140,7 +6978,7 @@
    "min_floor": 1.05,
    "gate_evidence": "cleared 12 of 18 this season, 8 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 32",
    "parlay_ok": true,
-   "team_spread": -6.5
+   "team_spread": -5.5
   },
   {
    "lane": "likely",
@@ -7173,7 +7011,7 @@
    "min_floor": 1.01,
    "gate_evidence": "cleared 10 of 18 this season, 4 of 10 in the last 10; minutes 28 a game, fewest in the last 5: 28; minutes tonight -6.5 (minutes moved: straight only, after a role check)",
    "parlay_ok": false,
-   "team_spread": -8.5
+   "team_spread": -9.5
   },
   {
    "lane": "likely",
@@ -7273,7 +7111,7 @@
    "min_floor": 0.73,
    "gate_evidence": "cleared 12 of 17 this season, 8 of 10 in the last 10; minutes 26 a game, fewest in the last 5: 19; minutes tonight -1.2",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -7371,7 +7209,7 @@
    "min_floor": 1.05,
    "gate_evidence": "cleared 12 of 18 this season, 8 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 32",
    "parlay_ok": true,
-   "team_spread": -6.5
+   "team_spread": -5.5
   },
   {
    "lane": "likely",
@@ -7403,7 +7241,7 @@
    "min_floor": 0.78,
    "gate_evidence": "cleared 9 of 13 this season, 8 of 10 in the last 10; minutes 22 a game, fewest in the last 5: 17",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -7568,7 +7406,7 @@
    "min_floor": 0.88,
    "gate_evidence": "cleared 10 of 14 this season, 7 of 10 in the last 10; minutes 34 a game, fewest in the last 5: 30; minutes tonight -1.6",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -7635,7 +7473,7 @@
    "min_floor": 0.81,
    "gate_evidence": "cleared 12 of 18 this season, 7 of 10 in the last 10; minutes 21 a game, fewest in the last 5: 17; minutes tonight -5.0 (minutes moved: straight only, after a role check)",
    "parlay_ok": false,
-   "team_spread": -8.5
+   "team_spread": -9.5
   }
  ],
  "boost_plays": [
@@ -7747,7 +7585,7 @@
      "event_id": "401909330",
      "team": "ATL",
      "gate_evidence": "cleared 14 of 17 this season, 10 of 10 in the last 10; minutes 32 a game, fewest in the last 5: 28; minutes tonight -1.5",
-     "team_spread": 8.5
+     "team_spread": 9.5
     },
     {
      "sport": "nba",
@@ -7759,7 +7597,7 @@
      "event_id": "401909330",
      "team": "ATL",
      "gate_evidence": "cleared 13 of 17 this season, 10 of 10 in the last 10; minutes 32 a game, fewest in the last 5: 27; minutes tonight -1.6",
-     "team_spread": 8.5
+     "team_spread": 9.5
     }
    ],
    "p": 0.1813,
@@ -8299,156 +8137,6 @@
  "candidates": [
   {
    "lane": "value",
-   "sport": "nfl",
-   "game": "DEN @ PIT",
-   "start_utc": "2026-11-27T20:00Z",
-   "bet": "Roman Wilson anytime TD",
-   "event_id": "401873083",
-   "kind": "td",
-   "player": "Roman Wilson",
-   "stat": "anytime_td",
-   "line": 0.0,
-   "side": "yes",
-   "book": "fanduel",
-   "price": 800,
-   "p": 0.125,
-   "p_mkt": 0.125,
-   "one_sided": true,
-   "basis": "median of 4 other books, margin left in",
-   "flags": [],
-   "tier": "Value",
-   "decimal": 9.0,
-   "edge": 0.125,
-   "gate_evidence": "cleared 2 of 6 this season, 2 of 5 in the last 5; role check by hand",
-   "parlay_ok": false
-  },
-  {
-   "lane": "value",
-   "sport": "nfl",
-   "game": "DEN @ PIT",
-   "start_utc": "2026-11-27T20:00Z",
-   "bet": "Jaylen Waddle anytime TD",
-   "event_id": "401873083",
-   "kind": "td",
-   "player": "Jaylen Waddle",
-   "stat": "anytime_td",
-   "line": 0.0,
-   "side": "yes",
-   "book": "fanduel",
-   "price": 330,
-   "p": 0.2568,
-   "p_mkt": 0.2568,
-   "one_sided": true,
-   "basis": "median of 4 other books, margin left in",
-   "flags": [],
-   "tier": "Value",
-   "decimal": 4.3,
-   "edge": 0.1042,
-   "gate_evidence": "cleared 2 of 10 this season, 1 of 5 in the last 5; role check by hand",
-   "parlay_ok": false
-  },
-  {
-   "lane": "value",
-   "sport": "nfl",
-   "game": "DEN @ PIT",
-   "start_utc": "2026-11-27T20:00Z",
-   "bet": "Pat Bryant anytime TD",
-   "event_id": "401873083",
-   "kind": "td",
-   "player": "Pat Bryant",
-   "stat": "anytime_td",
-   "line": 0.0,
-   "side": "yes",
-   "book": "fanduel",
-   "price": 500,
-   "p": 0.1818,
-   "p_mkt": 0.1818,
-   "one_sided": true,
-   "basis": "median of 3 other books, margin left in",
-   "flags": [],
-   "tier": "Value",
-   "decimal": 6.0,
-   "edge": 0.0908,
-   "gate_evidence": "cleared 2 of 6 this season, 2 of 5 in the last 5; role check by hand",
-   "parlay_ok": false
-  },
-  {
-   "lane": "value",
-   "sport": "nfl",
-   "game": "DEN @ PIT",
-   "start_utc": "2026-11-27T20:00Z",
-   "bet": "Courtland Sutton anytime TD",
-   "event_id": "401873083",
-   "kind": "td",
-   "player": "Courtland Sutton",
-   "stat": "anytime_td",
-   "line": 0.0,
-   "side": "yes",
-   "book": "fanduel",
-   "price": 400,
-   "p": 0.2174,
-   "p_mkt": 0.2174,
-   "one_sided": true,
-   "basis": "median of 4 other books, margin left in",
-   "flags": [],
-   "tier": "Value",
-   "decimal": 5.0,
-   "edge": 0.087,
-   "gate_evidence": "cleared 2 of 10 this season, 1 of 5 in the last 5; role check by hand",
-   "parlay_ok": false
-  },
-  {
-   "lane": "value",
-   "sport": "nfl",
-   "game": "DEN @ PIT",
-   "start_utc": "2026-11-27T20:00Z",
-   "bet": "Pat Freiermuth anytime TD",
-   "event_id": "401873083",
-   "kind": "td",
-   "player": "Pat Freiermuth",
-   "stat": "anytime_td",
-   "line": 0.0,
-   "side": "yes",
-   "book": "fanduel",
-   "price": 600,
-   "p": 0.1541,
-   "p_mkt": 0.1541,
-   "one_sided": true,
-   "basis": "median of 4 other books, margin left in",
-   "flags": [],
-   "tier": "Value",
-   "decimal": 7.0,
-   "edge": 0.0787,
-   "gate_evidence": "cleared 5 of 10 this season, 2 of 5 in the last 5; role check by hand",
-   "parlay_ok": false
-  },
-  {
-   "lane": "value",
-   "sport": "nfl",
-   "game": "DEN @ PIT",
-   "start_utc": "2026-11-27T20:00Z",
-   "bet": "Rico Dowdle anytime TD",
-   "event_id": "401873083",
-   "kind": "td",
-   "player": "Rico Dowdle",
-   "stat": "anytime_td",
-   "line": 0.0,
-   "side": "yes",
-   "book": "fanduel",
-   "price": 380,
-   "p": 0.2198,
-   "p_mkt": 0.2198,
-   "one_sided": true,
-   "basis": "median of 4 other books, margin left in",
-   "flags": [],
-   "tier": "Value",
-   "decimal": 4.8,
-   "edge": 0.055,
-   "gate_evidence": "cleared 1 of 7 this season, 1 of 5 in the last 5; role check by hand",
-   "parlay_ok": false
-  },
-  {
-   "lane": "value",
    "sport": "nba",
    "game": "PHI @ IND",
    "start_utc": "2026-11-28T00:30Z",
@@ -8891,7 +8579,7 @@
    "min_floor": 0.84,
    "gate_evidence": "cleared 11 of 13 this season, 9 of 10 in the last 10; minutes 20 a game, fewest in the last 5: 17; minutes tonight -1.9",
    "parlay_ok": true,
-   "team_spread": -1.5
+   "team_spread": -3.5
   },
   {
    "lane": "likely",
@@ -8981,7 +8669,7 @@
    "min_floor": 0.71,
    "gate_evidence": "cleared 12 of 12 this season, 10 of 10 in the last 10; minutes 35 a game, fewest in the last 5: 25",
    "parlay_ok": true,
-   "team_spread": 6.5
+   "team_spread": 5.5
   },
   {
    "lane": "likely",
@@ -9218,7 +8906,7 @@
    "min_floor": 0.52,
    "gate_evidence": "cleared 13 of 16 this season, 8 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 16",
    "parlay_ok": true,
-   "team_spread": 1.5
+   "team_spread": 3.5
   },
   {
    "lane": "likely",
@@ -9424,7 +9112,7 @@
    "min_floor": 0.52,
    "gate_evidence": "cleared 14 of 16 this season, 9 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 16",
    "parlay_ok": true,
-   "team_spread": 1.5
+   "team_spread": 3.5
   },
   {
    "lane": "likely",
@@ -9457,7 +9145,7 @@
    "min_floor": 0.93,
    "gate_evidence": "cleared 16 of 17 this season, 10 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 29",
    "parlay_ok": true,
-   "team_spread": 6.5
+   "team_spread": 5.5
   },
   {
    "lane": "likely",
@@ -9840,7 +9528,7 @@
    "min_floor": 0.94,
    "gate_evidence": "cleared 14 of 17 this season, 8 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 29; minutes tonight -1.5",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -10084,7 +9772,7 @@
    "min_floor": 0.84,
    "gate_evidence": "cleared 11 of 13 this season, 8 of 10 in the last 10; minutes 20 a game, fewest in the last 5: 17; minutes tonight -1.9",
    "parlay_ok": true,
-   "team_spread": -1.5
+   "team_spread": -3.5
   },
   {
    "lane": "likely",
@@ -10185,7 +9873,7 @@
    "min_floor": 0.84,
    "gate_evidence": "cleared 10 of 13 this season, 8 of 10 in the last 10; minutes 20 a game, fewest in the last 5: 17; minutes tonight -1.9",
    "parlay_ok": true,
-   "team_spread": -1.5
+   "team_spread": -3.5
   },
   {
    "lane": "likely",
@@ -10485,7 +10173,7 @@
    "min_floor": 1.05,
    "gate_evidence": "cleared 14 of 18 this season, 9 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 32",
    "parlay_ok": true,
-   "team_spread": -6.5
+   "team_spread": -5.5
   },
   {
    "lane": "likely",
@@ -10621,7 +10309,7 @@
    "min_floor": 0.73,
    "gate_evidence": "cleared 13 of 17 this season, 6 of 10 in the last 10; minutes 25 a game, fewest in the last 5: 18; minutes tonight -1.2",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -10965,7 +10653,7 @@
    "min_floor": 0.71,
    "gate_evidence": "cleared 10 of 12 this season, 8 of 10 in the last 10; minutes 35 a game, fewest in the last 5: 25",
    "parlay_ok": true,
-   "team_spread": 6.5
+   "team_spread": 5.5
   },
   {
    "lane": "likely",
@@ -10998,7 +10686,7 @@
    "min_floor": 0.87,
    "gate_evidence": "cleared 12 of 16 this season, 7 of 10 in the last 10; minutes 34 a game, fewest in the last 5: 30",
    "parlay_ok": true,
-   "team_spread": -8.5
+   "team_spread": -9.5
   },
   {
    "lane": "likely",
@@ -11202,7 +10890,7 @@
    "min_floor": 0.73,
    "gate_evidence": "cleared 13 of 17 this season, 6 of 10 in the last 10; minutes 25 a game, fewest in the last 5: 18; minutes tonight -1.2",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -11235,7 +10923,7 @@
    "min_floor": 1.05,
    "gate_evidence": "cleared 13 of 18 this season, 8 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 32",
    "parlay_ok": true,
-   "team_spread": -6.5
+   "team_spread": -5.5
   },
   {
    "lane": "likely",
@@ -11338,7 +11026,7 @@
    "min_floor": 0.88,
    "gate_evidence": "cleared 10 of 14 this season, 6 of 10 in the last 10; minutes 34 a game, fewest in the last 5: 30; minutes tonight -1.6",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -11371,7 +11059,7 @@
    "min_floor": 0.76,
    "gate_evidence": "cleared 12 of 15 this season, 7 of 10 in the last 10; minutes 30 a game, fewest in the last 5: 23",
    "parlay_ok": true,
-   "team_spread": -8.5
+   "team_spread": -9.5
   },
   {
    "lane": "likely",
@@ -11544,7 +11232,7 @@
    "min_floor": 0.93,
    "gate_evidence": "cleared 16 of 17 this season, 10 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 29",
    "parlay_ok": true,
-   "team_spread": 6.5
+   "team_spread": 5.5
   },
   {
    "lane": "likely",
@@ -11618,29 +11306,6 @@
   },
   {
    "lane": "likely",
-   "sport": "nfl",
-   "game": "DEN @ PIT",
-   "start_utc": "2026-11-27T20:00Z",
-   "event_id": "401873083",
-   "kind": "game",
-   "market": "moneyline",
-   "line": 0.0,
-   "side": "away",
-   "bet": "DEN to win",
-   "book": "fanduel",
-   "price": -230,
-   "p": 0.676,
-   "p_mkt": 0.676,
-   "basis": "all-books fair (8 books)",
-   "flags": [],
-   "tier": "Straight",
-   "decimal": 1.435,
-   "edge": -0.0299,
-   "gate_evidence": "team line: needs injury, rest and form checks by hand",
-   "parlay_ok": false
-  },
-  {
-   "lane": "likely",
    "sport": "nba",
    "game": "ATL @ BOS",
    "start_utc": "2026-11-28T01:00Z",
@@ -11671,7 +11336,7 @@
    "min_floor": 0.89,
    "gate_evidence": "cleared 14 of 17 this season, 10 of 10 in the last 10; minutes 32 a game, fewest in the last 5: 28; minutes tonight -1.5",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -11805,7 +11470,7 @@
    "min_floor": 0.52,
    "gate_evidence": "cleared 11 of 16 this season, 7 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 16",
    "parlay_ok": true,
-   "team_spread": 1.5
+   "team_spread": 3.5
   },
   {
    "lane": "likely",
@@ -11939,7 +11604,7 @@
    "min_floor": 0.73,
    "gate_evidence": "cleared 13 of 17 this season, 6 of 10 in the last 10; minutes 26 a game, fewest in the last 5: 19; minutes tonight -1.2",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -12068,7 +11733,7 @@
    "min_floor": 0.73,
    "gate_evidence": "cleared 14 of 17 this season, 8 of 10 in the last 10; minutes 26 a game, fewest in the last 5: 19; minutes tonight -1.2",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -12170,7 +11835,7 @@
    "min_floor": 0.89,
    "gate_evidence": "cleared 13 of 17 this season, 9 of 10 in the last 10; minutes 32 a game, fewest in the last 5: 28; minutes tonight -1.5",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -12204,7 +11869,7 @@
    "min_floor": 0.87,
    "gate_evidence": "cleared 12 of 15 this season, 9 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 27",
    "parlay_ok": true,
-   "team_spread": 1.5
+   "team_spread": 3.5
   },
   {
    "lane": "likely",
@@ -12325,7 +11990,7 @@
    "min_floor": 0.87,
    "gate_evidence": "cleared 13 of 16 this season, 7 of 10 in the last 10; minutes 34 a game, fewest in the last 5: 30",
    "parlay_ok": true,
-   "team_spread": -8.5
+   "team_spread": -9.5
   },
   {
    "lane": "likely",
@@ -12393,7 +12058,7 @@
    "min_floor": 0.73,
    "gate_evidence": "cleared 13 of 17 this season, 6 of 10 in the last 10; minutes 26 a game, fewest in the last 5: 19; minutes tonight -1.2",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -12425,7 +12090,7 @@
    "min_floor": 0.93,
    "gate_evidence": "cleared 12 of 17 this season, 8 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 29",
    "parlay_ok": true,
-   "team_spread": 6.5
+   "team_spread": 5.5
   },
   {
    "lane": "likely",
@@ -12490,7 +12155,7 @@
    "min_floor": 0.58,
    "gate_evidence": "cleared 11 of 18 this season, 7 of 10 in the last 10; minutes 19 a game, fewest in the last 5: 11; minutes tonight -4.0 (minutes moved: straight only, after a role check)",
    "parlay_ok": false,
-   "team_spread": -8.5
+   "team_spread": -9.5
   },
   {
    "lane": "likely",
@@ -12556,7 +12221,7 @@
    "min_floor": 1.05,
    "gate_evidence": "cleared 12 of 18 this season, 8 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 32",
    "parlay_ok": true,
-   "team_spread": -6.5
+   "team_spread": -5.5
   },
   {
    "lane": "likely",
@@ -12658,7 +12323,7 @@
    "min_floor": 0.59,
    "gate_evidence": "cleared 11 of 16 this season, 5 of 10 in the last 10; minutes 29 a game, fewest in the last 5: 17",
    "parlay_ok": true,
-   "team_spread": -6.5
+   "team_spread": -5.5
   },
   {
    "lane": "likely",
@@ -12756,7 +12421,7 @@
    "min_floor": 0.76,
    "gate_evidence": "cleared 10 of 15 this season, 7 of 10 in the last 10; minutes 30 a game, fewest in the last 5: 23",
    "parlay_ok": true,
-   "team_spread": -8.5
+   "team_spread": -9.5
   },
   {
    "lane": "likely",
@@ -12822,7 +12487,7 @@
    "min_floor": 0.85,
    "gate_evidence": "cleared 13 of 17 this season, 10 of 10 in the last 10; minutes 32 a game, fewest in the last 5: 27; minutes tonight -1.6",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -12854,7 +12519,7 @@
    "min_floor": 0.93,
    "gate_evidence": "cleared 16 of 17 this season, 10 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 29",
    "parlay_ok": true,
-   "team_spread": 6.5
+   "team_spread": 5.5
   },
   {
    "lane": "likely",
@@ -12887,7 +12552,7 @@
    "min_floor": 0.59,
    "gate_evidence": "cleared 11 of 16 this season, 8 of 10 in the last 10; minutes 29 a game, fewest in the last 5: 17",
    "parlay_ok": true,
-   "team_spread": -6.5
+   "team_spread": -5.5
   },
   {
    "lane": "likely",
@@ -13019,7 +12684,7 @@
    "min_floor": 0.52,
    "gate_evidence": "cleared 12 of 16 this season, 8 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 16",
    "parlay_ok": true,
-   "team_spread": 1.5
+   "team_spread": 3.5
   },
   {
    "lane": "likely",
@@ -13051,7 +12716,7 @@
    "min_floor": 1.05,
    "gate_evidence": "cleared 12 of 18 this season, 7 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 32",
    "parlay_ok": true,
-   "team_spread": -6.5
+   "team_spread": -5.5
   },
   {
    "lane": "likely",
@@ -13181,7 +12846,7 @@
    "min_floor": 0.76,
    "gate_evidence": "cleared 10 of 15 this season, 7 of 10 in the last 10; minutes 30 a game, fewest in the last 5: 23",
    "parlay_ok": true,
-   "team_spread": -8.5
+   "team_spread": -9.5
   },
   {
    "lane": "likely",
@@ -13249,7 +12914,7 @@
    "min_floor": 0.88,
    "gate_evidence": "cleared 10 of 14 this season, 6 of 10 in the last 10; minutes 34 a game, fewest in the last 5: 30; minutes tonight -1.6",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -13283,7 +12948,7 @@
    "min_floor": 0.85,
    "gate_evidence": "cleared 11 of 17 this season, 7 of 10 in the last 10; minutes 32 a game, fewest in the last 5: 27; minutes tonight -1.6",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -13351,7 +13016,7 @@
    "min_floor": 0.84,
    "gate_evidence": "cleared 9 of 13 this season, 7 of 10 in the last 10; minutes 20 a game, fewest in the last 5: 17; minutes tonight -1.9",
    "parlay_ok": true,
-   "team_spread": -1.5
+   "team_spread": -3.5
   },
   {
    "lane": "likely",
@@ -13617,7 +13282,7 @@
    "min_floor": 0.84,
    "gate_evidence": "cleared 9 of 13 this season, 7 of 10 in the last 10; minutes 20 a game, fewest in the last 5: 17; minutes tonight -1.9",
    "parlay_ok": true,
-   "team_spread": -1.5
+   "team_spread": -3.5
   },
   {
    "lane": "likely",
@@ -13716,7 +13381,7 @@
    "min_floor": 0.85,
    "gate_evidence": "cleared 11 of 17 this season, 10 of 10 in the last 10; minutes 32 a game, fewest in the last 5: 27; minutes tonight -1.6",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -14015,7 +13680,7 @@
    "min_floor": 0.81,
    "gate_evidence": "cleared 10 of 18 this season, 4 of 10 in the last 10; minutes 21 a game, fewest in the last 5: 17; minutes tonight -5.0 (minutes moved: straight only, after a role check)",
    "parlay_ok": false,
-   "team_spread": -8.5
+   "team_spread": -9.5
   },
   {
    "lane": "likely",
@@ -14049,7 +13714,7 @@
    "min_floor": 0.73,
    "gate_evidence": "cleared 14 of 17 this season, 9 of 10 in the last 10; minutes 26 a game, fewest in the last 5: 19; minutes tonight -1.2",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -14181,7 +13846,7 @@
    "min_floor": 0.94,
    "gate_evidence": "cleared 11 of 17 this season, 8 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 29; minutes tonight -1.5",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -14247,7 +13912,7 @@
    "min_floor": 0.93,
    "gate_evidence": "cleared 16 of 17 this season, 10 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 29",
    "parlay_ok": true,
-   "team_spread": 6.5
+   "team_spread": 5.5
   },
   {
    "lane": "likely",
@@ -14281,7 +13946,7 @@
    "min_floor": 0.89,
    "gate_evidence": "cleared 12 of 17 this season, 8 of 10 in the last 10; minutes 32 a game, fewest in the last 5: 28; minutes tonight -1.5",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -14381,7 +14046,7 @@
    "min_floor": 0.94,
    "gate_evidence": "cleared 11 of 17 this season, 9 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 29; minutes tonight -1.5",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -14778,7 +14443,7 @@
    "min_floor": 0.85,
    "gate_evidence": "cleared 11 of 17 this season, 9 of 10 in the last 10; minutes 32 a game, fewest in the last 5: 27; minutes tonight -1.6",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -14878,7 +14543,7 @@
    "min_floor": 0.76,
    "gate_evidence": "cleared 11 of 15 this season, 6 of 10 in the last 10; minutes 30 a game, fewest in the last 5: 23",
    "parlay_ok": true,
-   "team_spread": -8.5
+   "team_spread": -9.5
   },
   {
    "lane": "likely",
@@ -14944,7 +14609,7 @@
    "min_floor": 0.71,
    "gate_evidence": "cleared 12 of 12 this season, 10 of 10 in the last 10; minutes 35 a game, fewest in the last 5: 25",
    "parlay_ok": true,
-   "team_spread": 6.5
+   "team_spread": 5.5
   },
   {
    "lane": "likely",
@@ -15140,7 +14805,7 @@
    "min_floor": 0.77,
    "gate_evidence": "cleared 11 of 17 this season, 8 of 10 in the last 10; minutes 30 a game, fewest in the last 5: 23",
    "parlay_ok": true,
-   "team_spread": -8.5
+   "team_spread": -9.5
   },
   {
    "lane": "likely",
@@ -15171,7 +14836,7 @@
    "min_floor": 1.05,
    "gate_evidence": "cleared 12 of 18 this season, 8 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 32",
    "parlay_ok": true,
-   "team_spread": -6.5
+   "team_spread": -5.5
   },
   {
    "lane": "likely",
@@ -15204,7 +14869,7 @@
    "min_floor": 1.01,
    "gate_evidence": "cleared 10 of 18 this season, 4 of 10 in the last 10; minutes 28 a game, fewest in the last 5: 28; minutes tonight -6.5 (minutes moved: straight only, after a role check)",
    "parlay_ok": false,
-   "team_spread": -8.5
+   "team_spread": -9.5
   },
   {
    "lane": "likely",
@@ -15304,7 +14969,7 @@
    "min_floor": 0.73,
    "gate_evidence": "cleared 12 of 17 this season, 8 of 10 in the last 10; minutes 26 a game, fewest in the last 5: 19; minutes tonight -1.2",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -15402,7 +15067,7 @@
    "min_floor": 1.05,
    "gate_evidence": "cleared 12 of 18 this season, 8 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 32",
    "parlay_ok": true,
-   "team_spread": -6.5
+   "team_spread": -5.5
   },
   {
    "lane": "likely",
@@ -15434,7 +15099,7 @@
    "min_floor": 0.78,
    "gate_evidence": "cleared 9 of 13 this season, 8 of 10 in the last 10; minutes 22 a game, fewest in the last 5: 17",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -15599,7 +15264,7 @@
    "min_floor": 0.88,
    "gate_evidence": "cleared 10 of 14 this season, 7 of 10 in the last 10; minutes 34 a game, fewest in the last 5: 30; minutes tonight -1.6",
    "parlay_ok": true,
-   "team_spread": 8.5
+   "team_spread": 9.5
   },
   {
    "lane": "likely",
@@ -15666,7 +15331,7 @@
    "min_floor": 0.81,
    "gate_evidence": "cleared 12 of 18 this season, 7 of 10 in the last 10; minutes 21 a game, fewest in the last 5: 17; minutes tonight -5.0 (minutes moved: straight only, after a role check)",
    "parlay_ok": false,
-   "team_spread": -8.5
+   "team_spread": -9.5
   }
  ],
  "parlays": [
@@ -15778,7 +15443,7 @@
      "event_id": "401909330",
      "team": "ATL",
      "gate_evidence": "cleared 14 of 17 this season, 10 of 10 in the last 10; minutes 32 a game, fewest in the last 5: 28; minutes tonight -1.5",
-     "team_spread": 8.5
+     "team_spread": 9.5
     },
     {
      "sport": "nba",
@@ -15790,7 +15455,7 @@
      "event_id": "401909330",
      "team": "ATL",
      "gate_evidence": "cleared 13 of 17 this season, 10 of 10 in the last 10; minutes 32 a game, fewest in the last 5: 27; minutes tonight -1.6",
-     "team_spread": 8.5
+     "team_spread": 9.5
     }
    ],
    "p": 0.1813,
@@ -16360,32 +16025,6 @@
    "gate_evidence": "cleared 9 of 18 this season, 7 of 10 in the last 10; minutes 31 a game, fewest in the last 5: 26",
    "parlay_ok": false,
    "gate_cut": "own record 50% vs 55% given (below the chance given)"
-  },
-  {
-   "lane": "value",
-   "sport": "nfl",
-   "game": "DEN @ PIT",
-   "start_utc": "2026-11-27T20:00Z",
-   "bet": "Jaylen Warren anytime TD",
-   "event_id": "401873083",
-   "kind": "td",
-   "player": "Jaylen Warren",
-   "stat": "anytime_td",
-   "line": 0.0,
-   "side": "yes",
-   "book": "fanduel",
-   "price": 195,
-   "p": 0.3641,
-   "p_mkt": 0.3641,
-   "one_sided": true,
-   "basis": "median of 4 other books, margin left in",
-   "flags": [],
-   "tier": "Value",
-   "decimal": 2.95,
-   "edge": 0.0741,
-   "gate_evidence": "cleared 2 of 10 this season, 1 of 5 in the last 5; role check by hand",
-   "parlay_ok": false,
-   "gate_cut": "own record 20% vs 36% given (more than 10% below)"
   },
   {
    "lane": "value",
