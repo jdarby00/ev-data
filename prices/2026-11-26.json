@@ -11,7 +11,8 @@
    "home": "*",
    "issues": [
     "2026-11-26T18:48:56Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-27T04:10:10Z close skipped: monthly cap reached (420/420)"
+    "2026-11-27T04:10:10Z close skipped: monthly cap reached (420/420)",
+    "2026-11-27T04:18:28Z close skipped: monthly cap reached (420/420)"
    ],
    "market": "h2h",
    "players": [],
@@ -29,7 +30,8 @@
    "home": "*",
    "issues": [
     "2026-11-26T18:48:56Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-27T04:10:10Z close skipped: monthly cap reached (420/420)"
+    "2026-11-27T04:10:10Z close skipped: monthly cap reached (420/420)",
+    "2026-11-27T04:18:28Z close skipped: monthly cap reached (420/420)"
    ],
    "market": "spreads",
    "players": [],
@@ -43,5 +45,5 @@
  "spent_month": 420,
  "spent_today": 0,
  "stop": null,
- "updated": "2026-11-27T04:10:10Z"
+ "updated": "2026-11-27T04:18:28Z"
 }
