@@ -7,8 +7,10 @@
   "cbbscreen_1605": "2026-11-26T21:05:00Z",
   "fclose:2026-11-26T18:00:00Z": "2026-11-26T17:48:00Z",
   "fclose:2026-11-26T21:30:00Z": "2026-11-26T21:18:00Z",
+  "fclose:2026-11-27T01:20:00Z": "2026-11-27T01:08:00Z",
   "fclose@2026-11-26T17:48:00Z": "2026-11-26T17:48:00Z",
   "fclose@2026-11-26T21:18:00Z": "2026-11-26T21:18:00Z",
+  "fclose@2026-11-27T01:08:00Z": "2026-11-27T01:08:00Z",
   "lab_0610": "2026-11-26T11:10:00Z",
   "lab_1435": "2026-11-26T19:35:00Z",
   "mscreen_1615": "2026-11-26T21:15:00Z",
@@ -38,6 +40,7 @@
   "2026-11-26T22:40:00Z recheck_1740: dispatched jdarby00/dk-odds recheck.yml (HTTP 204)",
   "2026-11-26T22:58:33Z hand-over to a fresh clock run",
   "2026-11-26T23:20:00Z recheck_1820: dispatched jdarby00/dk-odds recheck.yml (HTTP 204)",
-  "2026-11-26T23:52:00Z recheck_1852: dispatched jdarby00/dk-odds recheck.yml (HTTP 204)"
+  "2026-11-26T23:52:00Z recheck_1852: dispatched jdarby00/dk-odds recheck.yml (HTTP 204)",
+  "2026-11-27T01:08:00Z fclose@2026-11-27T01:08:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)"
  ]
 }
