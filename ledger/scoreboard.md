@@ -1,6 +1,6 @@
 # Scoreboard
 
-Built Thu 26 Nov 2026, 9:09 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
+Built Thu 26 Nov 2026, 10:39 PM ET by `pipeline/grade.py` from `ledger/bets.jsonl`. Derived file: don't edit it; it's rebuilt every pipeline run.
 
 ## Jake's real money
 
