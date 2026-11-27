@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "updated_et": "2026-11-27 16:15",
+ "updated_et": "2026-11-27 18:44",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -12,9 +12,9 @@
    "away_name": "Miami Heat",
    "home_name": "New York Knicks",
    "state": "pre",
-   "spread_text": "NY -2.5",
-   "spread": -2.5,
-   "total": 221.5,
+   "spread_text": "NY -3.5",
+   "spread": -3.5,
+   "total": 222.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -42,7 +42,7 @@
    "state": "pre",
    "spread_text": "PHI -3.5",
    "spread": 3.5,
-   "total": 229.5,
+   "total": 228.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -56,7 +56,7 @@
    "state": "pre",
    "spread_text": "TOR -9.5",
    "spread": -9.5,
-   "total": 219.5,
+   "total": 218.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -68,8 +68,8 @@
    "away_name": "Atlanta Hawks",
    "home_name": "Boston Celtics",
    "state": "pre",
-   "spread_text": "BOS -8.5",
-   "spread": -8.5,
+   "spread_text": "BOS -9.5",
+   "spread": -9.5,
    "total": 223.5,
    "odds_source": "Draft Kings",
    "season_type": 2
@@ -112,7 +112,7 @@
    "state": "pre",
    "spread_text": "LAC -2.5",
    "spread": -2.5,
-   "total": 230.5,
+   "total": 229.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -126,7 +126,7 @@
    "state": "pre",
    "spread_text": "POR -7.5",
    "spread": -7.5,
-   "total": 217.5,
+   "total": 216.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -140,7 +140,7 @@
    "state": "pre",
    "spread_text": "SA -6.5",
    "spread": -6.5,
-   "total": 225.5,
+   "total": 226.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -328,6 +328,13 @@
   ],
   "Indiana Pacers": [
    {
+    "player": "T.J. McConnell",
+    "status": "Out",
+    "detail": "McConnell (hamstring) has been ruled out for Friday's game against the 76ers, Alex Golden of SI.com reports.",
+    "type": "out",
+    "updated": "2026-11-27T23:02Z"
+   },
+   {
     "player": "Larry Nance Jr.",
     "status": "Day-To-Day",
     "detail": "Nance (ankle) is probable for Friday's game against the 76ers.",
@@ -340,20 +347,6 @@
     "detail": "Haliburton (hamstring) has been ruled out per Scott Agness of FieldhouseFiles.com for Friday's game against the 76ers. The guard participated in practice activities earlier this week as he continues working toward his return.",
     "type": "out",
     "updated": "2026-11-27T16:20Z"
-   },
-   {
-    "player": "Kelly Oubre Jr.",
-    "status": "Day-To-Day",
-    "detail": "Oubre is questionable for Friday's game against the 76ers due to a right hand laceration.",
-    "type": "day-to-day",
-    "updated": "2026-11-27T00:42Z"
-   },
-   {
-    "player": "T.J. McConnell",
-    "status": "Day-To-Day",
-    "detail": "McConnell (hamstring) is questionable for Friday's game against the 76ers.",
-    "type": "day-to-day",
-    "updated": "2026-11-26T22:29Z"
    },
    {
     "player": "Ben Sheppard",
@@ -428,15 +421,6 @@
     "detail": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports.",
     "type": "out",
     "updated": "2026-11-07T17:24Z"
-   }
-  ],
-  "Miami Heat": [
-   {
-    "player": "Giannis Antetokounmpo",
-    "status": "Day-To-Day",
-    "detail": "Antetokounmpo is probable for Friday's game against the Knicks due to right groin tendinitis.",
-    "type": "day-to-day",
-    "updated": "2026-11-26T21:15Z"
    }
   ],
   "Milwaukee Bucks": [
@@ -531,13 +515,6 @@
     "updated": "2026-11-27T18:19Z"
    },
    {
-    "player": "Karl-Anthony Towns",
-    "status": "Day-To-Day",
-    "detail": "Towns is questionable for Friday's game against the Heat due to a right abdominal contusion.",
-    "type": "day-to-day",
-    "updated": "2026-11-27T16:51Z"
-   },
-   {
     "player": "Andre Drummond",
     "status": "Out",
     "detail": "Drummond (concussion) has been ruled out for Friday's game against the Heat.",
@@ -547,18 +524,25 @@
   ],
   "Philadelphia 76ers": [
    {
+    "player": "Dean Wade",
+    "status": "Out",
+    "detail": "Wade (hamstring) is out for Friday's game against the Pacers, Austin Krell of Vertical 76 reports.",
+    "type": "out",
+    "updated": "2026-11-27T23:33Z"
+   },
+   {
+    "player": "Jaylen Brown",
+    "status": "Out",
+    "detail": "Brown (hamstring) underwent an MRI that showed no signs of a new injury or re-aggravation, but he didn't travel with the team for the road trip, so he will miss the team's next two games, Kris Rhim of ESPN reports.",
+    "type": "out",
+    "updated": "2026-11-27T23:15Z"
+   },
+   {
     "player": "Joel Embiid",
     "status": "Day-To-Day",
     "detail": "Embiid (illness) was at shootaround for the 76ers on Friday, Chris Hine of The Philly Inquirer reports.",
     "type": "day-to-day",
     "updated": "2026-11-27T16:32Z"
-   },
-   {
-    "player": "Jaylen Brown",
-    "status": "Out",
-    "detail": "Brown (hamstring) is out for Friday's game against the Pacers.",
-    "type": "out",
-    "updated": "2026-11-26T22:13Z"
    },
    {
     "player": "Ariel Hukporti",
@@ -645,13 +629,6 @@
    }
   ],
   "Toronto Raptors": [
-   {
-    "player": "Alijah Martin",
-    "status": "Day-To-Day",
-    "detail": "Martin is questionable for Friday's game against the Nets due to left knee soreness.",
-    "type": "day-to-day",
-    "updated": "2026-11-26T21:18Z"
-   },
    {
     "player": "Kawhi Leonard",
     "status": "Out",
@@ -775,6 +752,41 @@
    "player": "Kyrie Irving",
    "from": "not listed",
    "to": "Day-To-Day"
+  },
+  {
+   "at_et": "2026-11-27 18:44",
+   "team": "Indiana Pacers",
+   "player": "T.J. McConnell",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-27 18:44",
+   "team": "Indiana Pacers",
+   "player": "Kelly Oubre Jr.",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-27 18:44",
+   "team": "New York Knicks",
+   "player": "Karl-Anthony Towns",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-27 18:44",
+   "team": "Philadelphia 76ers",
+   "player": "Dean Wade",
+   "from": "not listed",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-27 18:44",
+   "team": "Toronto Raptors",
+   "player": "Alijah Martin",
+   "from": "Day-To-Day",
+   "to": "removed from report"
   }
  ]
 }
