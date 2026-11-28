@@ -163,7 +163,8 @@
     "2026-11-28T00:28:34Z lock skipped: monthly cap reached (420/420)",
     "2026-11-28T00:58:30Z lock skipped: monthly cap reached (420/420)",
     "2026-11-28T01:28:31Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-28T01:58:32Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-28T01:58:32Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-28T02:28:33Z close skipped: monthly cap reached (420/420)"
    ],
    "market": "player_rebounds_assists",
    "players": [],
@@ -210,7 +211,8 @@
     "2026-11-28T00:28:34Z lock skipped: monthly cap reached (420/420)",
     "2026-11-28T00:58:30Z lock skipped: monthly cap reached (420/420)",
     "2026-11-28T01:28:31Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-28T01:58:32Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-28T01:58:32Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-28T02:28:33Z close skipped: monthly cap reached (420/420)"
    ],
    "market": "player_points_alternate",
    "players": [],
@@ -224,7 +226,7 @@
    "api_home": "Phoenix Suns",
    "away": "Mavericks",
    "close": true,
-   "commence_time": "2026-11-28T02:10:00Z",
+   "commence_time": "2026-11-28T02:11:00Z",
    "event_id": "46b1c571cf786a86e800d61fd1d79004",
    "home": "Suns",
    "issues": [
@@ -234,7 +236,8 @@
     "2026-11-28T00:28:34Z lock skipped: monthly cap reached (420/420)",
     "2026-11-28T00:58:30Z lock skipped: monthly cap reached (420/420)",
     "2026-11-28T01:28:31Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-28T01:58:32Z close skipped: monthly cap reached (420/420)"
+    "2026-11-28T01:58:32Z close skipped: monthly cap reached (420/420)",
+    "no close snapshot before start"
    ],
    "market": "player_points",
    "players": [],
@@ -248,7 +251,7 @@
    "api_home": "Phoenix Suns",
    "away": "Mavericks",
    "close": true,
-   "commence_time": "2026-11-28T02:10:00Z",
+   "commence_time": "2026-11-28T02:11:00Z",
    "event_id": "46b1c571cf786a86e800d61fd1d79004",
    "home": "Suns",
    "issues": [
@@ -258,7 +261,8 @@
     "2026-11-28T00:28:34Z lock skipped: monthly cap reached (420/420)",
     "2026-11-28T00:58:30Z lock skipped: monthly cap reached (420/420)",
     "2026-11-28T01:28:31Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-28T01:58:32Z close skipped: monthly cap reached (420/420)"
+    "2026-11-28T01:58:32Z close skipped: monthly cap reached (420/420)",
+    "no close snapshot before start"
    ],
    "market": "player_points_rebounds_assists",
    "players": [],
@@ -318,7 +322,8 @@
     "2026-11-28T00:28:34Z lock skipped: monthly cap reached (420/420)",
     "2026-11-28T00:58:30Z lock skipped: monthly cap reached (420/420)",
     "2026-11-28T01:28:31Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-28T01:58:32Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-28T01:58:32Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-28T02:28:33Z close skipped: monthly cap reached (420/420)"
    ],
    "market": "player_points",
    "players": [],
@@ -342,7 +347,8 @@
     "2026-11-28T00:28:34Z lock skipped: monthly cap reached (420/420)",
     "2026-11-28T00:58:30Z lock skipped: monthly cap reached (420/420)",
     "2026-11-28T01:28:31Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-28T01:58:32Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-28T01:58:32Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-28T02:28:33Z close skipped: monthly cap reached (420/420)"
    ],
    "market": "player_points_rebounds_assists",
    "players": [],
@@ -366,7 +372,8 @@
     "2026-11-28T00:28:34Z lock skipped: monthly cap reached (420/420)",
     "2026-11-28T00:58:30Z lock skipped: monthly cap reached (420/420)",
     "2026-11-28T01:28:31Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-28T01:58:32Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-28T01:58:32Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-28T02:28:33Z close skipped: monthly cap reached (420/420)"
    ],
    "market": "player_points_rebounds_assists",
    "players": [],
@@ -440,7 +447,7 @@
    "close": false,
    "commence_time": "2026-11-28T04:30:00Z",
    "event_id": "slate",
-   "games": 17,
+   "games": 13,
    "home": "*",
    "issues": [
     "2026-11-27T16:36:08Z lock skipped: monthly cap reached (420/420)",
@@ -450,7 +457,8 @@
     "2026-11-28T00:28:34Z lock skipped: monthly cap reached (420/420)",
     "2026-11-28T00:58:30Z lock skipped: monthly cap reached (420/420)",
     "2026-11-28T01:28:31Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-28T01:58:32Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-28T01:58:32Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-28T02:28:33Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "h2h",
    "players": [],
@@ -464,7 +472,7 @@
    "close": false,
    "commence_time": "2026-11-28T04:30:00Z",
    "event_id": "slate",
-   "games": 17,
+   "games": 13,
    "home": "*",
    "issues": [
     "2026-11-27T16:36:08Z lock skipped: monthly cap reached (420/420)",
@@ -474,7 +482,8 @@
     "2026-11-28T00:28:34Z lock skipped: monthly cap reached (420/420)",
     "2026-11-28T00:58:30Z lock skipped: monthly cap reached (420/420)",
     "2026-11-28T01:28:31Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-28T01:58:32Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-28T01:58:32Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-28T02:28:33Z lock skipped: monthly cap reached (420/420)"
    ],
    "market": "spreads",
    "players": [],
@@ -488,5 +497,5 @@
  "spent_month": 420,
  "spent_today": 0,
  "stop": null,
- "updated": "2026-11-28T01:58:32Z"
+ "updated": "2026-11-28T02:28:33Z"
 }
