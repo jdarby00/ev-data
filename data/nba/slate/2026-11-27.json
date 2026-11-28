@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "updated_et": "2026-11-27 22:21",
+ "updated_et": "2026-11-27 23:12",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -67,7 +67,7 @@
    "home": "BOS",
    "away_name": "Atlanta Hawks",
    "home_name": "Boston Celtics",
-   "state": "in",
+   "state": "post",
    "spread_text": "BOS -9.5",
    "spread": -9.5,
    "total": 223.5,
@@ -81,7 +81,7 @@
    "home": "MIN",
    "away_name": "Memphis Grizzlies",
    "home_name": "Minnesota Timberwolves",
-   "state": "in",
+   "state": "post",
    "spread_text": "MIN -2.5",
    "spread": -2.5,
    "total": 220.5,
