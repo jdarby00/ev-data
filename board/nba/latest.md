@@ -1,12 +1,11 @@
 # NBA board, 2026-11-27
 
-Slate updated 2026-11-27 20:56 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
+Slate updated 2026-11-27 22:21 ET. Baselines from ESPN box scores. L5 = last 5 games played; Min sd = spread of minutes over the last 10. Status from ESPN's injury feed.
 
 Stat cells: last 5 / season → projected median (10–90% range). Minutes: → projected (10% floor). Projections are minutes x per-minute rates with fitted spreads. Ranges are honest (83-91% of outcomes landed inside the 10-90% band in testing), but the centre does not beat the betting market: on 2,607 closing props (20-26 Oct 2026) the model's Brier score was 0.259 vs the market's 0.248. Use it for minutes, ranges and where to look, never as a win chance on its own. See MODEL.md.
 
 ## Status changes today
 
-- 18:44 Indiana Pacers: Kelly Oubre Jr. Day-To-Day → removed from report
 - 18:44 New York Knicks: Karl-Anthony Towns Day-To-Day → removed from report
 - 18:44 Philadelphia 76ers: Dean Wade not listed → Out
 - 18:44 Toronto Raptors: Alijah Martin Day-To-Day → removed from report
@@ -21,6 +20,7 @@ Stat cells: last 5 / season → projected median (10–90% range). Minutes: → 
 - 20:56 Utah Jazz: Mo Bamba Day-To-Day → Out
 - 20:56 Utah Jazz: Jaxson Hayes Day-To-Day → removed from report
 - 20:56 Utah Jazz: Jusuf Nurkic Out → removed from report
+- 22:21 Toronto Raptors: Ja'Kobe Walter not listed → Out
 
 ## MIA @ NY, 19:00 ET
 Line: NY -3.5, total 222.5 (Draft Kings).
@@ -160,17 +160,17 @@ Line: TOR -9.5, total 218.5 (Draft Kings).
 | Keon Ellis | – | 14.6 (7.5) → 16.8 (7.2) | 4.8/4.6 → 5 (0–11) | 1.2/1.6 → 1 (0–3) | 0.8/1.6 → 1 (0–3) | 1.2/1 → 1 (0–3) | 7 (1–15) |
 | Moritz Wagner | Out | 14 (5.1) | 6.2/9.5 | 2.4/3.1 | 1.4/1.5 | 1/1.2 | – |
 
-**TOR** (3 rest days). Out: RJ Barrett, Kawhi Leonard. Freed minutes: 60.1. Out all season so far (already in the lines): Nate Bittle.
+**TOR** (3 rest days). Out: RJ Barrett, Ja'Kobe Walter, Kawhi Leonard. Freed minutes: 91.8. Out all season so far (already in the lines): Nate Bittle.
 - Without RJ Barrett: Allen Graves min +18, pts +7.7, reb +2.7, ast -0.6 (n=3 vs 14)
 - Without Kawhi Leonard: Alijah Martin min +10.6, pts +3.6, reb +2.2, ast +0.9 (n=14 vs 2)
 - Without RJ Barrett: Collin Murray-Boyles min -10.5, pts -6.4, reb +1.2, ast -0.8 (n=2 vs 13)
-- Without Kawhi Leonard: Ja'Kobe Walter min +9.3, pts +4.1, reb +0.6, ast -0.9 (n=15 vs 2)
+- Without Kawhi Leonard: Jamison Battle min +7.8, pts +3.2, reb -0.6, ast +0.4 (n=15 vs 2)
 
 | Player | Status | Min L5 (sd) → proj (floor) | Pts | Reb | Ast | 3PM | PRA |
 |---|---|---|---|---|---|---|---|
 | RJ Barrett | Out | 36 (2.5) | 19.6/20.9 | 7/6.4 | 5/4.3 | 1.4/1.5 | – |
 | Scottie Barnes | – | 35.4 (3.4) → 35.4 (27.7) | 25.4/24.8 → 23 (13–34) | 5.8/7 → 7 (3–11) | 5/5 → 5 (2–9) | 1.6/0.9 → 1 (0–3) | 36 (22–51) |
-| Ja'Kobe Walter | – | 35.2 (3.2) → 32.9 (25.2) | 14.6/12.1 → 12 (5–20) | 3.8/4.1 → 4 (1–7) | 2.8/2.2 → 2 (0–4) | 3/2.5 → 2 (0–5) | 19 (9–29) |
+| Ja'Kobe Walter | Out | 35.2 (3.2) | 14.6/12.1 | 3.8/4.1 | 2.8/2.2 | 3/2.5 | – |
 | Immanuel Quickley | – | 34.2 (3.2) → 32.7 (25.1) | 17.2/17.5 → 17 (8–26) | 3.2/3.5 → 3 (1–6) | 6.8/6 → 6 (3–10) | 2.8/2.6 → 2 (1–5) | 27 (15–40) |
 | Collin Murray-Boyles | – | 26.8 (9.4) → 24.1 (12.4) | 7/9.1 → 8 (2–16) | 5.2/5 → 5 (2–10) | 2.2/1.7 → 2 (0–4) | 0.2/0.5 → 0 (0–1) | 15 (5–27) |
 | Kawhi Leonard | Out | 26 (2) | 19.5/19.5 | 7.5/7.5 | 1.5/1.5 | 2/2 | – |

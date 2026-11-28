@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "updated_et": "2026-11-27 20:56",
+ "updated_et": "2026-11-27 22:21",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,7 +11,7 @@
    "home": "NY",
    "away_name": "Miami Heat",
    "home_name": "New York Knicks",
-   "state": "in",
+   "state": "post",
    "spread_text": "NY -3.5",
    "spread": -3.5,
    "total": 222.5,
@@ -25,7 +25,7 @@
    "home": "DET",
    "away_name": "Milwaukee Bucks",
    "home_name": "Detroit Pistons",
-   "state": "in",
+   "state": "post",
    "spread_text": "DET -9.5",
    "spread": -9.5,
    "total": 219.5,
@@ -39,7 +39,7 @@
    "home": "IND",
    "away_name": "Philadelphia 76ers",
    "home_name": "Indiana Pacers",
-   "state": "in",
+   "state": "post",
    "spread_text": "PHI -3.5",
    "spread": 3.5,
    "total": 228.5,
@@ -53,7 +53,7 @@
    "home": "TOR",
    "away_name": "Brooklyn Nets",
    "home_name": "Toronto Raptors",
-   "state": "in",
+   "state": "post",
    "spread_text": "TOR -9.5",
    "spread": -9.5,
    "total": 218.5,
@@ -95,7 +95,7 @@
    "home": "PHX",
    "away_name": "Dallas Mavericks",
    "home_name": "Phoenix Suns",
-   "state": "pre",
+   "state": "in",
    "spread_text": "PHX -4.5",
    "spread": -4.5,
    "total": 224.5,
@@ -109,7 +109,7 @@
    "home": "LAC",
    "away_name": "New Orleans Pelicans",
    "home_name": "LA Clippers",
-   "state": "pre",
+   "state": "in",
    "spread_text": "LAC -2.5",
    "spread": -2.5,
    "total": 230.5,
@@ -123,7 +123,7 @@
    "home": "POR",
    "away_name": "Golden State Warriors",
    "home_name": "Portland Trail Blazers",
-   "state": "pre",
+   "state": "in",
    "spread_text": "POR -8.5",
    "spread": -8.5,
    "total": 216.5,
@@ -137,7 +137,7 @@
    "home": "SA",
    "away_name": "Los Angeles Lakers",
    "home_name": "San Antonio Spurs",
-   "state": "pre",
+   "state": "in",
    "spread_text": "SA -6.5",
    "spread": -6.5,
    "total": 226.5,
@@ -151,7 +151,7 @@
    "home": "UTAH",
    "away_name": "Denver Nuggets",
    "home_name": "Utah Jazz",
-   "state": "pre",
+   "state": "in",
    "spread_text": "DEN -9.5",
    "spread": 9.5,
    "total": 232.5,
@@ -588,6 +588,13 @@
   ],
   "Toronto Raptors": [
    {
+    "player": "Ja'Kobe Walter",
+    "status": "Out",
+    "detail": "Walter won't return to Friday's game against Brooklyn due to a right quad contusion, Josh Lewenberg of TSN.ca reports.",
+    "type": "out",
+    "updated": "2026-11-28T02:34Z"
+   },
+   {
     "player": "Kawhi Leonard",
     "status": "Out",
     "detail": "Leonard has begun individual on-court workouts following treatment to address swelling in his left knee, and he will be re-evaluated in one week, Marc J. Spears of ESPN.com reports.",
@@ -808,6 +815,13 @@
    "player": "Jusuf Nurkic",
    "from": "Out",
    "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-27 22:21",
+   "team": "Toronto Raptors",
+   "player": "Ja'Kobe Walter",
+   "from": "not listed",
+   "to": "Out"
   }
  ]
 }
