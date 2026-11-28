@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "updated_et": "2026-11-27 18:44",
+ "updated_et": "2026-11-27 20:56",
  "source": "ESPN public scoreboard and injuries feeds",
  "injuries_fetched": true,
  "games": [
@@ -11,7 +11,7 @@
    "home": "NY",
    "away_name": "Miami Heat",
    "home_name": "New York Knicks",
-   "state": "pre",
+   "state": "in",
    "spread_text": "NY -3.5",
    "spread": -3.5,
    "total": 222.5,
@@ -25,7 +25,7 @@
    "home": "DET",
    "away_name": "Milwaukee Bucks",
    "home_name": "Detroit Pistons",
-   "state": "pre",
+   "state": "in",
    "spread_text": "DET -9.5",
    "spread": -9.5,
    "total": 219.5,
@@ -39,7 +39,7 @@
    "home": "IND",
    "away_name": "Philadelphia 76ers",
    "home_name": "Indiana Pacers",
-   "state": "pre",
+   "state": "in",
    "spread_text": "PHI -3.5",
    "spread": 3.5,
    "total": 228.5,
@@ -53,7 +53,7 @@
    "home": "TOR",
    "away_name": "Brooklyn Nets",
    "home_name": "Toronto Raptors",
-   "state": "pre",
+   "state": "in",
    "spread_text": "TOR -9.5",
    "spread": -9.5,
    "total": 218.5,
@@ -67,7 +67,7 @@
    "home": "BOS",
    "away_name": "Atlanta Hawks",
    "home_name": "Boston Celtics",
-   "state": "pre",
+   "state": "in",
    "spread_text": "BOS -9.5",
    "spread": -9.5,
    "total": 223.5,
@@ -81,7 +81,7 @@
    "home": "MIN",
    "away_name": "Memphis Grizzlies",
    "home_name": "Minnesota Timberwolves",
-   "state": "pre",
+   "state": "in",
    "spread_text": "MIN -2.5",
    "spread": -2.5,
    "total": 220.5,
@@ -96,9 +96,9 @@
    "away_name": "Dallas Mavericks",
    "home_name": "Phoenix Suns",
    "state": "pre",
-   "spread_text": "PHX -3.5",
-   "spread": -3.5,
-   "total": 225.5,
+   "spread_text": "PHX -4.5",
+   "spread": -4.5,
+   "total": 224.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -112,7 +112,7 @@
    "state": "pre",
    "spread_text": "LAC -2.5",
    "spread": -2.5,
-   "total": 229.5,
+   "total": 230.5,
    "odds_source": "Draft Kings",
    "season_type": 2
   },
@@ -124,8 +124,8 @@
    "away_name": "Golden State Warriors",
    "home_name": "Portland Trail Blazers",
    "state": "pre",
-   "spread_text": "POR -7.5",
-   "spread": -7.5,
+   "spread_text": "POR -8.5",
+   "spread": -8.5,
    "total": 216.5,
    "odds_source": "Draft Kings",
    "season_type": 2
@@ -225,10 +225,10 @@
   "Dallas Mavericks": [
    {
     "player": "Kyrie Irving",
-    "status": "Day-To-Day",
-    "detail": "Irving (knee) is listed as questionable for Friday's game against the Suns due to left knee injury management.",
-    "type": "day-to-day",
-    "updated": "2026-11-27T19:07Z"
+    "status": "Out",
+    "detail": "Irving (knee) has been ruled out for Friday's game against the Suns, Noah Weber of TheSmokingCuban.com reports.",
+    "type": "out",
+    "updated": "2026-11-28T00:30Z"
    },
    {
     "player": "Tobi Lawal",
@@ -300,9 +300,9 @@
    {
     "player": "Stephen Curry",
     "status": "Out",
-    "detail": "Curry (abdomen) will be re-evaluated Friday after Thanksgiving, Anthony Slater of ESPN.com reports.",
+    "detail": "Curry (abdomen/oblique) has been ruled out for each of the Warriors' next three games, Anthony Slater of ESPN.com reports",
     "type": "out",
-    "updated": "2026-11-26T01:36Z"
+    "updated": "2026-11-28T00:47Z"
    },
    {
     "player": "Kristaps Porzingis",
@@ -333,13 +333,6 @@
     "detail": "McConnell (hamstring) has been ruled out for Friday's game against the 76ers, Alex Golden of SI.com reports.",
     "type": "out",
     "updated": "2026-11-27T23:02Z"
-   },
-   {
-    "player": "Larry Nance Jr.",
-    "status": "Day-To-Day",
-    "detail": "Nance (ankle) is probable for Friday's game against the 76ers.",
-    "type": "day-to-day",
-    "updated": "2026-11-27T18:07Z"
    },
    {
     "player": "Tyrese Haliburton",
@@ -375,17 +368,10 @@
   "Memphis Grizzlies": [
    {
     "player": "Isaiah Stewart",
-    "status": "Day-To-Day",
-    "detail": "Stewart is questionable for Friday's game against the Timberwolves due to right hip soreness.",
-    "type": "day-to-day",
-    "updated": "2026-11-26T23:27Z"
-   },
-   {
-    "player": "Zach Edey",
-    "status": "Day-To-Day",
-    "detail": "Edey (ankle) is questionable for Friday's game against the Timberwolves.",
-    "type": "day-to-day",
-    "updated": "2026-11-26T23:24Z"
+    "status": "Out",
+    "detail": "Stewart (hip) is out for Friday's game against the Timberwolves, Jon Krawczynski of The Athletic reports.",
+    "type": "out",
+    "updated": "2026-11-28T00:26Z"
    },
    {
     "player": "Scotty Pippen Jr.",
@@ -464,18 +450,11 @@
   ],
   "New Orleans Pelicans": [
    {
-    "player": "Trendon Watford",
-    "status": "Out",
-    "detail": "Watford (ankle) is probable for Friday's game against the Clippers.",
-    "type": "out",
-    "updated": "2026-11-26T21:22Z"
-   },
-   {
     "player": "Bennedict Mathurin",
     "status": "Out",
-    "detail": "Mathurin (foot) is doubtful for Friday's game against the Clippers.",
+    "detail": "Mathurin (foot) is out for Friday's game against the Clippers.",
     "type": "out",
-    "updated": "2026-11-26T21:21Z"
+    "updated": "2026-11-28T01:22Z"
    },
    {
     "player": "Julian Reese",
@@ -538,13 +517,6 @@
     "updated": "2026-11-27T23:15Z"
    },
    {
-    "player": "Joel Embiid",
-    "status": "Day-To-Day",
-    "detail": "Embiid (illness) was at shootaround for the 76ers on Friday, Chris Hine of The Philly Inquirer reports.",
-    "type": "day-to-day",
-    "updated": "2026-11-27T16:32Z"
-   },
-   {
     "player": "Ariel Hukporti",
     "status": "Out",
     "detail": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",
@@ -600,20 +572,6 @@
   ],
   "San Antonio Spurs": [
    {
-    "player": "Dylan Harper",
-    "status": "Out",
-    "detail": "Harper (hip) participated in Friday's morning shootaround, per Matt Guzman of SI.com.",
-    "type": "out",
-    "updated": "2026-11-27T18:51Z"
-   },
-   {
-    "player": "De'Aaron Fox",
-    "status": "Day-To-Day",
-    "detail": "Fox (shin) is questionable for Friday's game against the Lakers.",
-    "type": "day-to-day",
-    "updated": "2026-11-26T23:35Z"
-   },
-   {
     "player": "Tobias Harris",
     "status": "Out",
     "detail": "Harris (calf) is likely to be sidelined until early December, per Jeff Garcia of KENS 5 San Antonio.",
@@ -654,24 +612,10 @@
   "Utah Jazz": [
    {
     "player": "Mo Bamba",
-    "status": "Day-To-Day",
-    "detail": "Bamba (illness) is listed as questionable for Friday's game against the Nuggets, according to the Jazz's injury report.",
-    "type": "day-to-day",
-    "updated": "2026-11-27T16:41Z"
-   },
-   {
-    "player": "Jaxson Hayes",
-    "status": "Day-To-Day",
-    "detail": "Hayes (knee) is questionable for Friday's game against the Nuggets.",
-    "type": "day-to-day",
-    "updated": "2026-11-27T00:11Z"
-   },
-   {
-    "player": "Jusuf Nurkic",
     "status": "Out",
-    "detail": "Nurkic (foot) is questionable for Friday's game against the Nuggets.",
+    "detail": "Bamba (illness) has been ruled out for Friday's game against the Nuggets.",
     "type": "out",
-    "updated": "2026-11-27T00:08Z"
+    "updated": "2026-11-28T01:37Z"
    },
    {
     "player": "Lauri Markkanen",
@@ -786,6 +730,83 @@
    "team": "Toronto Raptors",
    "player": "Alijah Martin",
    "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-27 20:56",
+   "team": "Dallas Mavericks",
+   "player": "Kyrie Irving",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-27 20:56",
+   "team": "Indiana Pacers",
+   "player": "Larry Nance Jr.",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-27 20:56",
+   "team": "Memphis Grizzlies",
+   "player": "Isaiah Stewart",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-27 20:56",
+   "team": "Memphis Grizzlies",
+   "player": "Zach Edey",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-27 20:56",
+   "team": "New Orleans Pelicans",
+   "player": "Trendon Watford",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-27 20:56",
+   "team": "Philadelphia 76ers",
+   "player": "Joel Embiid",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-27 20:56",
+   "team": "San Antonio Spurs",
+   "player": "Dylan Harper",
+   "from": "Out",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-27 20:56",
+   "team": "San Antonio Spurs",
+   "player": "De'Aaron Fox",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-27 20:56",
+   "team": "Utah Jazz",
+   "player": "Mo Bamba",
+   "from": "Day-To-Day",
+   "to": "Out"
+  },
+  {
+   "at_et": "2026-11-27 20:56",
+   "team": "Utah Jazz",
+   "player": "Jaxson Hayes",
+   "from": "Day-To-Day",
+   "to": "removed from report"
+  },
+  {
+   "at_et": "2026-11-27 20:56",
+   "team": "Utah Jazz",
+   "player": "Jusuf Nurkic",
+   "from": "Out",
    "to": "removed from report"
   }
  ]
