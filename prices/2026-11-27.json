@@ -448,9 +448,9 @@
   "basketball_ncaab|slate|h2h": {
    "away": "*",
    "close": false,
-   "commence_time": "2026-11-28T04:30:00Z",
+   "commence_time": "2026-11-28T04:45:00Z",
    "event_id": "slate",
-   "games": 6,
+   "games": 5,
    "home": "*",
    "issues": [
     "2026-11-27T16:36:08Z lock skipped: monthly cap reached (420/420)",
@@ -462,7 +462,8 @@
     "2026-11-28T01:28:31Z lock skipped: monthly cap reached (420/420)",
     "2026-11-28T01:58:32Z lock skipped: monthly cap reached (420/420)",
     "2026-11-28T02:28:33Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-28T03:50:59Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-28T03:50:59Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-28T04:18:31Z close skipped: monthly cap reached (420/420)"
    ],
    "market": "h2h",
    "players": [],
@@ -474,9 +475,9 @@
   "basketball_ncaab|slate|spreads": {
    "away": "*",
    "close": false,
-   "commence_time": "2026-11-28T04:30:00Z",
+   "commence_time": "2026-11-28T04:45:00Z",
    "event_id": "slate",
-   "games": 6,
+   "games": 5,
    "home": "*",
    "issues": [
     "2026-11-27T16:36:08Z lock skipped: monthly cap reached (420/420)",
@@ -488,7 +489,8 @@
     "2026-11-28T01:28:31Z lock skipped: monthly cap reached (420/420)",
     "2026-11-28T01:58:32Z lock skipped: monthly cap reached (420/420)",
     "2026-11-28T02:28:33Z lock skipped: monthly cap reached (420/420)",
-    "2026-11-28T03:50:59Z lock skipped: monthly cap reached (420/420)"
+    "2026-11-28T03:50:59Z lock skipped: monthly cap reached (420/420)",
+    "2026-11-28T04:18:31Z close skipped: monthly cap reached (420/420)"
    ],
    "market": "spreads",
    "players": [],
@@ -502,5 +504,5 @@
  "spent_month": 420,
  "spent_today": 0,
  "stop": null,
- "updated": "2026-11-28T03:50:59Z"
+ "updated": "2026-11-28T04:18:31Z"
 }
