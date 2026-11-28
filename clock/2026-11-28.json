@@ -1,6 +1,7 @@
 {
  "date": "2026-11-28",
  "done": {
+  "boosts_1040": "2026-11-28T15:40:00Z",
   "box_0520": "2026-11-28T10:20:00Z",
   "cbbscreen_1005": "2026-11-28T15:05:00Z",
   "fclose:2026-11-28T13:00:00Z": "2026-11-28T12:48:00Z",
@@ -29,6 +30,7 @@
   "2026-11-28T14:18:00Z fclose@2026-11-28T14:18:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
   "2026-11-28T14:48:01Z fclose@2026-11-28T14:48:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
   "2026-11-28T15:03:00Z fclose@2026-11-28T15:03:00Z: dispatched jdarby00/dk-odds closes.yml (HTTP 204)",
-  "2026-11-28T15:05:00Z cbbscreen_1005: dispatched jdarby00/dk-odds market-screen.yml (HTTP 204)"
+  "2026-11-28T15:05:00Z cbbscreen_1005: dispatched jdarby00/dk-odds market-screen.yml (HTTP 204)",
+  "2026-11-28T15:40:00Z boosts_1040: dispatched jdarby00/dk-odds boosts.yml (HTTP 204)"
  ]
 }
